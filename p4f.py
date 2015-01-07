@@ -20,24 +20,22 @@ def crawl(n):
 	pseed = []
 	json_seed = open('seed.json', 'rb')
 	seed = json.load(json_seed)
-	bank = open('bank .txt', 'w')
 	i = 0
 	for row in seed:
 		i = i + 1
 		if i == n:
 			break
 		try:
-			content = urllib2.urlopen(row["url"], timeout=3).read(20000)
+			content = urllib2.urlopen(row["url"], timeout=3).read(20000)	
+			bank = open('%d.txt' %i, 'w')
+			content = (cleaner.clean_html(content))
+			bank.write (content)
+			print row["url"] + " success! \n"
+			bank.close()
 		except:
-			content = ""
+			content = " "
 			print "broken link"
-			
-		bank = open('%d.txt' %i, 'w')
-		content = (cleaner.clean_html(content))
-		content = "\n **************** \n FROM: %s" %row['url'] + "\n" + content
-		bank.write (content)
-		print row["url"] + " success! \n"
-		bank.close()
+
 		
 if __name__ == '__main__':
     try:
