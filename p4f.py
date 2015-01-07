@@ -18,7 +18,7 @@ def crawl(n):
 	cleaner.allow_tags=['']
 	cleaner.remove_unknown_tags=False
 	pseed = []
-	json_seed = open('seed2.json', 'rb')
+	json_seed = open('seed.json', 'rb')
 	seed = json.load(json_seed)
 	bank = open('bank .txt', 'w')
 	i = 0
