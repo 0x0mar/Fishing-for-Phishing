@@ -6,16 +6,21 @@ import json
 import lxml
 import lxml.html
 from lxml.html.clean import Cleaner
-cleaner = Cleaner()
-cleaner.javascript = True
-cleaner.style = True
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 def crawl(n):
+	cleaner = Cleaner()
+	cleaner.javascript = True
+	cleaner.style = True
+	cleaner.allow_tags=['']
+	cleaner.remove_unknown_tags=False
 	pseed = []
-	json_seed = open('seed.json', 'rb')
+	json_seed = open('seed2.json', 'rb')
 	seed = json.load(json_seed)
 	bank = open('bank .txt', 'w')
-	bank2 = open('bank2.txt', 'w')
 	i = 0
 	for row in seed:
 		i = i + 1
@@ -24,19 +29,15 @@ def crawl(n):
 		try:
 			content = urllib2.urlopen(row["url"], timeout=3).read(20000)
 		except:
+			content = ""
 			print "broken link"
-		try:	
-			bank = open('bank.txt', 'a')
-			content = (cleaner.clean_html(content))
-			content = " ".join(content.split())
-			document = lxml.html.document_fromstring(content)
-			content = "\n **************** \n FROM: %s" %row['url'] + "\n" + document.text_content()
-			bank.write (content)
-			print row["url"] + " success! \n"
-			bank.close()
-		except:
-			print "didn't write"
 			
+		bank = open('%d.txt' %i, 'w')
+		content = (cleaner.clean_html(content))
+		content = "\n **************** \n FROM: %s" %row['url'] + "\n" + content
+		bank.write (content)
+		print row["url"] + " success! \n"
+		bank.close()
 		
 if __name__ == '__main__':
     try:
