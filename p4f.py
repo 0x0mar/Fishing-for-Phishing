@@ -27,8 +27,8 @@ def crawl(n):
 			break
 		try:
 			content = urllib2.urlopen(row["url"], timeout=3).read(20000)	
-			bank = open('%d.txt' %i, 'w')
-			content = (cleaner.clean_html(content))
+			bank = open('/spam/%d.txt' %i, 'w')
+			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %row["url"])
 			bank.write (content)
 			print row["url"] + " success! \n"
 			bank.close()
