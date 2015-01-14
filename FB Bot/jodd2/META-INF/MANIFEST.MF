@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Debug-Info: on
+Built-By: jodd.org
+Bundle-License: http://jodd.org/license.html
+Bundle-Vendor: Jodd
+Bundle-DocURL: http://jodd.org
+Implementation-Version: 3.6.3
+Implementation-Vendor: Jodd Team
+Implementation-Title: Jodd Bundle
+Bundle-ManifestVersion: 2
+Bundle-Name: Jodd Bundle
+Bundle-Version: 3.6.3
+Bundle-SymbolicName: org.jodd
+Bundle-Description: Jodd is an open-source Java utility library and se
+ t of micro frameworks.
+Export-Package: jodd.*
+Import-Package: *;resolution:=optional
+
