@@ -6,7 +6,6 @@ import lxml
 import lxml.html
 from lxml.html.clean import Cleaner
 import MySQLdb
-import mysql.connector
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
