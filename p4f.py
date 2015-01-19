@@ -29,7 +29,7 @@ def crawl():
 				if z:
 					print "Adding %s to link bank" %k
 					outLinks += k
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled) VALUES ('0', '%s', '%s', '%s', 'crawl', 'false');" % (domain, k, url)) 
+					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled) VALUES ('0', '%s', '%s', '%s', 'crawl', 'false');" % (domain, url, k)) 
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
 			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %url)
