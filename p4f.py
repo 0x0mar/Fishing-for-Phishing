@@ -12,10 +12,10 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 def crawl():
-	config = {'host':'cspp53001.cs.uchicago.edu','database':'jcbraunDB','user':'jcbraun','password':'3312crystal'}
-	db = mysql.connector.connect(**config)
+	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
+	outLinks = []
 	cleaner = Cleaner(javascript = True, style = True, allow_tags=[''], remove_unknown_tags=False)
 	json_seed = open('seed.json', 'rb')
 	seed = json.load(json_seed)
@@ -32,7 +32,7 @@ def crawl():
 					outLinks += k
 					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled) VALUES ('0', '%s', '%s', '%s', 'crawl', 'false');" % (domain, k, url)) 
 					cursor.execute(execString)
-			bank = open('%d.txt' %i, 'w')
+			bank = open('spam/%d.txt' %i, 'w')
 			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %url)
 			bank.write (content)
 			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('0', '%s', '%s', '%s', 'crawl');" % (content, domain, url)) 
