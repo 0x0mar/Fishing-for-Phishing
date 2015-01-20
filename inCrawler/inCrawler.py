@@ -28,7 +28,6 @@ while done == 0:
 		for i in re.findall('''href=["'](.[^"']+)["']''', urllib2.urlopen(crawl).read(200000), re.I):
 			z = re.match('http://' , i)
 			if z:
-				print i
 				urlBank.append(i)
 				reqURL = "https://sb-ssl.google.com/safebrowsing/api/lookup?client=f4p&key=AIzaSyCD0pNAG-6HVh_W6udGYZFz-2_p0yHDD5k&appver=31&pver=3.1&url=" + i
 				response = urllib2.urlopen(reqURL).getcode()
@@ -37,7 +36,7 @@ while done == 0:
 					phishBank += i
 			
 	except Exception as e:
-		print ("Broken link to %s" %url)	
+		print ("Broken link to %s" %i)	
 		print (type(e))
 		print (e.args)		
 			
