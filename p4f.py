@@ -1,6 +1,7 @@
 import urllib2
 import sys
 import re
+import csv
 import json
 import lxml
 import lxml.html
@@ -11,6 +12,11 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 def crawl():
+	wl = []
+	with open('wl.csv', 'rb') as csvfile:
+		wlreader = csv.reader(csvfile, delimiter=',')
+		for row in wlreader:
+			wl.append(row[1])
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
@@ -29,7 +35,11 @@ def crawl():
 				if z:
 					print "Adding %s to link bank" %k
 					outLinks += k
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled) VALUES ('0', '%s', '%s', '%s', 'crawl', 'false');" % (domain, url, k)) 
+					if (domain + "/" in wl):
+						bad = 0
+					else:
+						bad =1
+					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled, toSpam) VALUES ('0', '%s', '%s', '%s', 'crawl', 'false', '%i');" % (domain, url, k, bad)) 
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
 			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %url)
@@ -45,4 +55,6 @@ def crawl():
 			print (e.args)
 	db.close()
 if __name__ == '__main__':
+	
 	crawl()
+	
