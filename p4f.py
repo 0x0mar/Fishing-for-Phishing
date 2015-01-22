@@ -7,6 +7,7 @@ sys.setdefaultencoding('utf8')
 
 def crawl(n):
 	wl = []
+	seed = []
 	with open('wl.csv', 'rb') as csvfile:
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
@@ -19,12 +20,13 @@ def crawl(n):
 	cleaner = Cleaner(javascript = True, style = True, allow_tags=[''], remove_unknown_tags=False)
 	if (n ==0):
 		json_seed = open('seed.json', 'rb')
-		seed = json.load(json_seed)
+		seedx = json.load(json_seed)
+		for row in seedx:
+			seed += row
 	else:
 		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i;" % (n)) 
 		cursor.execute(execString)
 		seed = cursor.fetchall()
-		print seed
 	for row in seed:
 		try:
 			i += 1
