@@ -39,12 +39,13 @@ def crawl(n):
 						bad = 0
 					else:
 						bad =1
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', 'crawl', 'false', '%i');" % ((n+1),domain, url, k, bad)) 
+					domainTo = (z.split("/"))[2]
+					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, CopySource, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'crawl', 'false', '%i');" % ((n+1),domain, url, k, bad)) 
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
 			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %url)
 			bank.write (content)
-			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
+			execString = ("INSERT INTO Content (Lvl, Content, Domain, domainTo, URL, CopySource) VALUES ('%i', , '%s', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 			cursor.execute(execString)
 			print url + " success! \n"
 			bank.close()
