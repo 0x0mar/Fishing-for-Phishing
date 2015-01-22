@@ -1,29 +1,30 @@
-import urllib2
-import sys
-import re
-import csv
-import json
-import lxml
-import lxml.html
+import urllib2, sys, re, csv, json, lxml, lxml.html
 from lxml.html.clean import Cleaner
 import MySQLdb
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-def crawl():
+def crawl(n):
 	wl = []
 	with open('wl.csv', 'rb') as csvfile:
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
-			wl.append(row[1])
+			string=(row[1].split("/"))[0]
+			wl.append(string)
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
 	outLinks = []
 	cleaner = Cleaner(javascript = True, style = True, allow_tags=[''], remove_unknown_tags=False)
-	json_seed = open('seed.json', 'rb')
-	seed = json.load(json_seed)
+	if (n ==0):
+		json_seed = open('seed.json', 'rb')
+		seed = json.load(json_seed)
+	else:
+		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i;" % (n)) 
+		cursor.execute(execString)
+		seed = cursor.fetchall()
+		print seed
 	for row in seed:
 		try:
 			i += 1
@@ -33,18 +34,17 @@ def crawl():
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
 				z = re.match('http://' , k)
 				if z:
-					print "Adding %s to link bank" %k
-					outLinks += k
 					if (domain + "/" in wl):
+						print ("Whitelisted \n")
 						bad = 0
 					else:
 						bad =1
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled, toSpam) VALUES ('0', '%s', '%s', '%s', 'crawl', 'false', '%i');" % (domain, url, k, bad)) 
+					execString = ("INSERT INTO outboundLinks (Lvl, Domain, URL, URLto, CopySource, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', 'crawl', 'false', '%i');" % ((n+1),domain, url, k, bad)) 
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
 			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %url)
 			bank.write (content)
-			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('0', '%s', '%s', '%s', 'crawl');" % (content, domain, url)) 
+			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 			cursor.execute(execString)
 			print url + " success! \n"
 			bank.close()
@@ -54,7 +54,8 @@ def crawl():
 			print (type(e))
 			print (e.args)
 	db.close()
-if __name__ == '__main__':
 	
-	crawl()
+if __name__ == '__main__':
+	n = int(sys.argv[1])
+	crawl(n)
 	
