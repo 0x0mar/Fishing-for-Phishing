@@ -34,7 +34,7 @@ def crawl(n):
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
 				z = re.match('http://' , k)
 				if z:
-					if (domain + "/" in wl):
+					if ((domain + "/") in wl):
 						print ("Whitelisted \n")
 						bad = 0
 					else:

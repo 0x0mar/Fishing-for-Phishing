@@ -5,7 +5,7 @@ import MySQLdb
 G=nx.Graph()
 db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 cursor = db.cursor()
-execString = ("SELECT Domain FROM Content;" % ()) 
+execString = ("SELECT DISTINCT Domain FROM Content;" % ()) 
 cursor.execute(execString)
 nodes = cursor.fetchall()
 
