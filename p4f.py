@@ -30,7 +30,7 @@ def crawl(n):
 		try:
 			i += 1
 			url = row[0]
-			url = re.sub('www$', '', url)
+			url = re.sub('^www', '', url)
 			domain = (url.split("/"))[2]
 			content = urllib2.urlopen(url, timeout=3).read(20000)	
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
