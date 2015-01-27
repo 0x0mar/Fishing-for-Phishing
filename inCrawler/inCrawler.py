@@ -17,7 +17,7 @@ done = 0
 domDict = {}
 
 while done == 0:
-	if len(urlBank) > 1000:
+	if len(urlBank) > 10000:
 		urlBank = ['http://www.solarmovie.eu','http://www.weather.com', 'http://www.dmoz.org/World/Bulgarian/','http://www.dmoz.org/World/Ukrainian/','http://www.dmoz.org/World/Chinese_Simplified/','http://www.internet-directory.com/','http://www.botid.org/','http://www.joeant.com/', 'https://kickass.so/', 'http://www.popularart.be/?option=com_k2&view=itemlist&task=user&id=1110', 'http://winit.intouchweekly.com/']
 	x = random.randrange(0, len(urlBank))
 	print ("CRAWLING " + urlBank[x] + "\n")
