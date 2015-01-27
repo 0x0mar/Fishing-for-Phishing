@@ -26,7 +26,7 @@ def crawl(n):
 		cursor.execute(execString)
 		seedx = cursor.fetchall()
 
-	for row in seed:
+	for row in seedx:
 		try:
 			i += 1
 			url = row[0]
