@@ -12,13 +12,13 @@ def crawl(n):
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
 			string=(row[1].split("/"))[0]
-			wl.append(string)
+			wl.append((string.translate(None, '/')).strip())
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
 	outLinks = []
 	if (n ==0):
-		execString = ("SELECT URL, seedId FROM seed WHERE crawled=0;") 
+		execString = ("SELECT URL, Domain FROM seed WHERE crawled=0;") 
 		cursor.execute(execString)
 		seedx = cursor.fetchall()
 	else:
@@ -43,7 +43,7 @@ def crawl(n):
 						bad = 0
 					else:
 						bad =1
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, CopySource, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'crawl', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
+					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
 			bank.write (content)
