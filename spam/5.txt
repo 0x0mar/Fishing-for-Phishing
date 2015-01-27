@@ -1,0 +1,10 @@
+<div>
+
+	Please wait ...
+	
+
+
+
+
+</div>******************* 
+ FROM http://account.square-enix.com/reminder

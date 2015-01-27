@@ -1,0 +1,19 @@
+CREATE TABLE Content(
+Lvl int,
+Content varchar(20000) NOT NULL,
+Domain varchar(200),
+URL varchar(200),
+CopySource ENUM ('email', 'crawl')
+);
+
+CREATE TABLE outboundLinks(
+Lvl int,
+Domain varchar(200),
+URL varchar(200),
+URLto varchar(200),
+CopySource ENUM ('email', 'crawl'),
+Crawled BOOLEAN NOT NULL
+);
+
+DROP TABLE Content;
+DROP TABLE outboundLinks;

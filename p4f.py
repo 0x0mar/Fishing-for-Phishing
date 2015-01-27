@@ -17,37 +17,37 @@ def crawl(n):
 	cursor = db.cursor()
 	i = 0 
 	outLinks = []
-	cleaner = Cleaner(javascript = True, style = True, allow_tags=[''], remove_unknown_tags=False)
 	if (n ==0):
-		json_seed = open('seed.json', 'rb')
-		seedx = json.load(json_seed)
-		for row in seedx:
-			seed += row
+		execString = ("SELECT URL, seedId FROM seed WHERE crawled=0;") 
+		cursor.execute(execString)
+		seedx = cursor.fetchall()
 	else:
 		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i;" % (n)) 
 		cursor.execute(execString)
-		seed = cursor.fetchall()
+		seedx = cursor.fetchall()
+
 	for row in seed:
 		try:
 			i += 1
-			url = row["url"]
+			url = row[0]
+			print url
 			domain = (url.split("/"))[2]
 			content = urllib2.urlopen(url, timeout=3).read(20000)	
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
 				z = re.match('http://' , k)
 				if z:
+					domainTo = (k.split("/"))[2]
+					print "domainTo is: %s" %k
 					if ((domain + "/") in wl):
 						print ("Whitelisted \n")
 						bad = 0
 					else:
 						bad =1
-					domainTo = (z.split("/"))[2]
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, CopySource, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'crawl', 'false', '%i');" % ((n+1),domain,domainTo, url, k, bad)) 
+					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, CopySource, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'crawl', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
-			content = (cleaner.clean_html(content) + "******************* \n FROM %s" %url)
 			bank.write (content)
-			execString = ("INSERT INTO Content (Lvl, Content, Domain, domainTo, URL, CopySource) VALUES ('%i', , '%s', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain,domainTo, url)) 
+			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 			cursor.execute(execString)
 			print url + " success! \n"
 			bank.close()
