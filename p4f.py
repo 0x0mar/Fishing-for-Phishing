@@ -30,7 +30,7 @@ def crawl(n):
 		try:
 			i += 1
 			url = row[0]
-			print url
+			url = re.sub('www$', '', url)
 			domain = (url.split("/"))[2]
 			content = urllib2.urlopen(url, timeout=3).read(20000)	
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
@@ -47,6 +47,7 @@ def crawl(n):
 					cursor.execute(execString)
 			bank = open('spam/%d.txt' %i, 'w')
 			bank.write (content)
+			content=db.escape_string(content)
 			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 			cursor.execute(execString)
 			print url + " success! \n"
