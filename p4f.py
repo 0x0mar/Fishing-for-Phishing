@@ -14,7 +14,7 @@ def crawl(n):
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
 			wl.append(get_tld(row[1], fail_silently=True))
-			print ("Adding " + get_tld(row[1], fail_silently=true) + "\n")
+			print ("Adding " + get_tld(row[1], fail_silently=True) + "\n")
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
