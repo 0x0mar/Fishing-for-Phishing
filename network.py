@@ -9,7 +9,7 @@ execString = ("SELECT DISTINCT Domain FROM Content;" % ())
 cursor.execute(execString)
 nodes = cursor.fetchall()
 
-execString = ("SELECT DISTINCT domainTo FROM outboundLinks;" % ()) 
+execString = ("SELECT DISTINCT Domain, domainTo FROM outboundLinks;" % ()) 
 cursor.execute(execString)
 edges = cursor.fetchall()
 

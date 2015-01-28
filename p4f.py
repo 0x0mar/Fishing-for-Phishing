@@ -1,7 +1,9 @@
 import urllib2, sys, re, csv, json, lxml, lxml.html
 from lxml.html.clean import Cleaner
-import MySQLdb
-import sys
+import MySQLdb, sys
+from tld import get_tld
+from tld.utils import update_tld_names
+update_tld_names()
 reload(sys)
 sys.setdefaultencoding('utf8')
 
@@ -11,8 +13,7 @@ def crawl(n):
 	with open('wl.csv', 'rb') as csvfile:
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
-			string=(row[1].split("/"))[0]
-			wl.append((string.translate(None, '/')).strip())
+			wl.append(get_tld(row[1]))
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
@@ -30,16 +31,16 @@ def crawl(n):
 		try:
 			i += 1
 			url = row[0]
+			domain = get_tld(url)
 			if (url.startswith("www")):
 				url = url [4:]
-			domain = (url.split("/"))[2]
 			content = urllib2.urlopen(url, timeout=3).read(20000)	
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
 				z = re.match('http://' , k)
 				if z:
-					domainTo = (k.split("/"))[2]
+					domainTo = (get_tld(k))
 					print "domainTo is: %s" %k
-					if ((domain + "/") in wl):
+					if (domain in wl):
 						print ("Whitelisted \n")
 						bad = 0
 					else:
