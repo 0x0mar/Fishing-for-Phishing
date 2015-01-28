@@ -31,14 +31,13 @@ def crawl(n):
 		try:
 			i += 1
 			url = row[0]
+			print url
 			domain = get_tld(url, fail_silently=True)
-			if (url.startswith("www")):
-				url = url [4:]
-			content = urllib2.urlopen(url, timeout=3).read(20000)	
+			content = urllib2.urlopen(url, timeout=3).read(20000)
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
 				z = re.match('http://' , k)
 				if z:
-					domainTo = (get_tld(k))
+					domainTo = (get_tld(k, fail_silently=True))
 					print "domainTo is: %s" %k
 					if (domain in wl):
 						print ("Whitelisted \n")
