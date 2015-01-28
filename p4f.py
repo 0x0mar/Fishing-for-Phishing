@@ -13,7 +13,8 @@ def crawl(n):
 	with open('wl.csv', 'rb') as csvfile:
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
-			wl.append((row[1].split("/")[0]))
+			fixedRow = (row[1].split("/")[0])
+			wl.append(fixedRow)
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
@@ -39,7 +40,7 @@ def crawl(n):
 				if z:
 					domainTo = (get_tld(k, fail_silently=True))
 					print "domainTo is: %s" %k
-					if (domain in wl):
+					if (domainTo in wl):
 						print ("Whitelisted \n")
 						bad = 0
 					else:
