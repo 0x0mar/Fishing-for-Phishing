@@ -13,8 +13,7 @@ def crawl(n):
 	with open('wl.csv', 'rb') as csvfile:
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
-			wl.append(get_tld(row[1], fail_silently=True))
-			print ("Adding " + get_tld(row[1], fail_silently=True) + "\n")
+			wl.append((row[1].split("/")[0]))
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
