@@ -13,7 +13,7 @@ def crawl(n):
 	with open('wl.csv', 'rb') as csvfile:
 		wlreader = csv.reader(csvfile, delimiter=',')
 		for row in wlreader:
-			wl.append(get_tld(row[1], fail_silently=true))
+			wl.append(get_tld(row[1], fail_silently=True))
 			print ("Adding " + get_tld(row[1], fail_silently=true) + "\n")
 	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
@@ -32,7 +32,7 @@ def crawl(n):
 		try:
 			i += 1
 			url = row[0]
-			domain = get_tld(url, fail_silently=true)
+			domain = get_tld(url, fail_silently=True)
 			if (url.startswith("www")):
 				url = url [4:]
 			content = urllib2.urlopen(url, timeout=3).read(20000)	
