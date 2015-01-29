@@ -35,22 +35,24 @@ while done == 0:
 	try: 
 		if domDict[domain] < 10:
 			for i in re.findall('''href=["'](.[^"']+)["']''', urllib2.urlopen(crawl).read(200000), re.I):
-				z = (re.match('http://' , i) or re.match('//' , i))
-				y = re.match('/' , i)
-				if (y):
-					i = (("/").join((re.split("/", url)))+i)			
-				if z or y:
-					domainTo= (get_tld(i, fail_silently=True))
-					urlBank.append(i)
-					reqURL = "https://sb-ssl.google.com/safebrowsing/api/lookup?client=f4p&key=AIzaSyCD0pNAG-6HVh_W6udGYZFz-2_p0yHDD5k&appver=31&pver=3.1&url=" + i
-					response = urllib2.urlopen(reqURL).getcode()
-					if (response==200):
-						print ("FOUND %s" %i)
-						execString = ("INSERT INTO Seed (Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', 'crawl', '0');" % (domain, i)) 
-						cursor.execute(execString)
-						execString = ("INSERT INTO inboundLinks (Domain, domainTo, URL, URLto, CopySource, Crawled) VALUES ('%s','%s', '%s', '%s', 'crawl', '0');" % (domain, domainTo, url, i)) 
-						cursor.execute(execString)
-			
+				try:
+					z = (re.match('http://' , i) or re.match('//' , i))
+					y = re.match('/' , i)
+					if (y):
+						i = (("/").join((re.split("/", url)))+i)			
+					if z or y:
+						domainTo= (get_tld(i, fail_silently=True))
+						urlBank.append(i)
+						reqURL = "https://sb-ssl.google.com/safebrowsing/api/lookup?client=f4p&key=AIzaSyCD0pNAG-6HVh_W6udGYZFz-2_p0yHDD5k&appver=31&pver=3.1&url=" + i
+						response = urllib2.urlopen(reqURL).getcode()
+						if (response==200):
+							print ("FOUND %s" %i)
+							execString = ("INSERT INTO Seed (Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', 'crawl', '0');" % (domain, i)) 
+							cursor.execute(execString)
+							execString = ("INSERT INTO inboundLinks (Domain, domainTo, URL, URLto, CopySource, Crawled) VALUES ('%s','%s', '%s', '%s', 'crawl', '0');" % (domain, domainTo, url, i)) 
+							cursor.execute(execString)
+				except Exception as e:
+					print ("Couldn't add" %i)	
 	except Exception as e:
 		print ("Broken link to %s" %i)	
 		print (type(e))
