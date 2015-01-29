@@ -36,8 +36,10 @@ def crawl(n):
 			domain = get_tld(url, fail_silently=True)
 			content = urllib2.urlopen(url, timeout=3).read(200000)
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
-				z = re.match('http://' , k)
-				y = re.match('//' , k)
+				z = (re.match('http://' , k) or re.match('//' , k))
+				y = re.match('/' , k)
+				if (y):
+					k = (("/").join((re.split("/", url)))+k)			
 				if z or y:
 					domainTo = (get_tld(k, fail_silently=True))
 					print "domainTo is: %s" %k
