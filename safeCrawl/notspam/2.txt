@@ -1,170 +1,770 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+/*  
+ *  Theme Name: Channy Blog
+ *  Theme URI: http://channy.creation.net
+ *  Description: Channy new responsive theme
+ *  Version: 1.5
+ *  Author: Channy
+ *  */
 
-<channel>
-	<title>Cision</title>
-	<atom:link href="http://www.cision.com/us/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.cision.com/us</link>
-	<description></description>
-	<lastBuildDate>Wed, 28 Jan 2015 21:26:33 +0000</lastBuildDate>
-	<language>en-US</language>
-		<sy:updatePeriod>hourly</sy:updatePeriod>
-		<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>http://wordpress.org/?v=3.8.1</generator>
-	<item>
-		<title>Top 10 Political Journalists on Network Radio</title>
-		<link>http://www.cision.com/us/2015/01/top-ten-political-journalists-on-network-radio/</link>
-		<comments>http://www.cision.com/us/2015/01/top-ten-political-journalists-on-network-radio/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 20:02:47 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Top Lists]]></category>
-		<category><![CDATA[Radio]]></category>
-		<category><![CDATA[Twitter]]></category>
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* @import url(http://fonts.googleapis.com/earlyaccess/kopubbatang.css); */
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54194</guid>
-		<description><![CDATA[This list includes the most influential politics journalists on network radio on Twitter, ranked by number of followers. Using Cision’s media database, we compiled the list based on Cision’s proprietary research. This list changes over time as Twitter followers update in real-time; all numbers were pulled January 28, 2015. 1.  Terry Moran &#8211; Chief Foreign Correspondent, ABC [&#8230;]]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/top-ten-political-journalists-on-network-radio/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Gregory Gittrich Joins Vocativ as Chief Content Officer</title>
-		<link>http://www.cision.com/us/2015/01/gregory-gittrich-joins-vocativ-as-chief-content-officer/</link>
-		<comments>http://www.cision.com/us/2015/01/gregory-gittrich-joins-vocativ-as-chief-content-officer/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 19:05:05 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Media Updates]]></category>
-		<category><![CDATA[Politics, Education & News]]></category>
-		<category><![CDATA[Gregory Gittich]]></category>
-		<category><![CDATA[online]]></category>
-		<category><![CDATA[Vocativ]]></category>
+/ * font setting */
+body, h1, h2, h3, h4, h5, h6, p, span, ul, ol {
+	font-family: 'Nanum Gothic' sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	/* elimination of margin before and after */
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54186</guid>
-		<description><![CDATA[Vocativ has tapped Gregory Gittrich as chief content officer. He was previously vice president and executive editor for NBCNews.com in October 2012. &#8216;Like&#8217; Vocativ on Facebook for the latest news sourced from the deep web. Don’t miss the latest media news. Sign up for our daily or weekly emails now!]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/gregory-gittrich-joins-vocativ-as-chief-content-officer/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Caroline Cunningham Joins Washingtonian</title>
-		<link>http://www.cision.com/us/2015/01/caroline-cunningham-joins-washingtonian/</link>
-		<comments>http://www.cision.com/us/2015/01/caroline-cunningham-joins-washingtonian/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 17:51:53 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Arts, Leisure & Style]]></category>
-		<category><![CDATA[Bride & Groom]]></category>
-		<category><![CDATA[Caroline Cunningham]]></category>
-		<category><![CDATA[fashion]]></category>
-		<category><![CDATA[Magazines]]></category>
-		<category><![CDATA[Washingtonian]]></category>
-		<category><![CDATA[Washingtonian MOM]]></category>
+/* layout */
+# wrapper { position: relative; }
+.navbar { background-image: url('/images/channy-bg.png'); }
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54181</guid>
-		<description><![CDATA[Caroline Cunningham has joined Washingtonian, Washingtonian MOM and Bride &#38; Groom as assistant fashion editor. She was most recently an editorial fellow for Washingtonian since August 2014. Follow Washingtonian on Twitter for the latest news on Washington, D.C.  Get the latest media news sent directly to your inbox. Sign up for our daily or weekly emails now!]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/caroline-cunningham-joins-washingtonian/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>ET&#8217;s Rocsi Diaz Moves to HLN</title>
-		<link>http://www.cision.com/us/2015/01/ets-rocsi-diaz-moves-to-hln/</link>
-		<comments>http://www.cision.com/us/2015/01/ets-rocsi-diaz-moves-to-hln/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 17:48:25 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Media Updates]]></category>
-		<category><![CDATA[Politics, Education & News]]></category>
-		<category><![CDATA[HLN]]></category>
-		<category><![CDATA[Rocsi Diaz]]></category>
-		<category><![CDATA[Television]]></category>
-		<category><![CDATA[The Daily Share]]></category>
+/* sidebar */
+#sidebarWrapper {
+	background-color: #666;
+	position: fixed;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 270px;
+	padding: 80px 30px 20px 20px;
+	-webkit-box-shadow: 2px 0 4px 0px rgba(200, 200, 200, 1);
+	box-shadow: 2px 0 4px 0px rgba(200, 200, 200, 1);
+	-o-transition:background .2s ease-out, background .2s ease-in;
+	-ms-transition:background .2s ease-out, background .2s ease-in;
+	-moz-transition:background .2s ease-out, background .2s ease-in;
+	-webkit-transition:background .2s ease-out, background .2s ease-in;
+	/* ...and now override with proper CSS property */
+	transition:background .2s ease-out, background .2s ease-in;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54169</guid>
-		<description><![CDATA[HLN announced the addition of Rocsi Diaz as a correspondent and anchor of The Daily Share. She previously served as co-anchor of Entertainment Tonight Weekend since January 2013 and correspondent for Entertainment Tonight since October 2012. &#8216;Like&#8217; HLN on Facebook for the latest in national and international news sent right to your news feed. Want the latest media news [&#8230;]]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/ets-rocsi-diaz-moves-to-hln/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Media Republic&#8217;s Waseem El Tanahi Talks Media, Influence &amp; PR in Egypt</title>
-		<link>http://www.cision.com/us/2015/01/waseem-el-tanahi-of-media-republic-talks-digital-media-social-influence-and-pr-in-egypt/</link>
-		<comments>http://www.cision.com/us/2015/01/waseem-el-tanahi-of-media-republic-talks-digital-media-social-influence-and-pr-in-egypt/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 17:33:58 +0000</pubDate>
-		<dc:creator><![CDATA[Allison Richard]]></dc:creator>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Influencers]]></category>
+#sidebarWrapper:hover {
+	background-color: #5f5f5f;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54142</guid>
-		<description><![CDATA[Whether looking at archaeological treasures or present-day news, society and culture in Egypt – the most populated country in the Arab world – continues to reverberate throughout the world. The most salient example of this is the country’s political and social revolution, brought to international attention within the last few years. The tension involved in [&#8230;]]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/waseem-el-tanahi-of-media-republic-talks-digital-media-social-influence-and-pr-in-egypt/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Rush Limbaugh Show Staff Member Christopher &#8216;Kit&#8217; Carson Passes Away</title>
-		<link>http://www.cision.com/us/2015/01/rush-limbaugh-show-staff-member-christopher-kit-carson-passes-away/</link>
-		<comments>http://www.cision.com/us/2015/01/rush-limbaugh-show-staff-member-christopher-kit-carson-passes-away/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 17:33:42 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Media Updates]]></category>
-		<category><![CDATA[Politics, Education & News]]></category>
-		<category><![CDATA[Kit Carson]]></category>
-		<category><![CDATA[Radio]]></category>
-		<category><![CDATA[Rush Limbaugh Show]]></category>
+#sidebar {
+	 max-width: 210px;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54162</guid>
-		<description><![CDATA[Cision Blog regrets to inform its readers that The Rush Limbaugh Show producer and chief of staff Christopher &#8216;Kit&#8217; Carson has passed away. He was the longest-serving staff member of the program and joined shortly after it began in 1988. For more details on his passing, read Limbaugh&#8217;s on-air farewell.]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/rush-limbaugh-show-staff-member-christopher-kit-carson-passes-away/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>CisionScoop &#124; Mark Haranas Joins CRN as Associate Editor</title>
-		<link>http://www.cision.com/us/2015/01/cisionscoop-mark-haranas-joins-crn-as-associate-editor/</link>
-		<comments>http://www.cision.com/us/2015/01/cisionscoop-mark-haranas-joins-crn-as-associate-editor/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 17:25:31 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Media Updates]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[CisionScoop]]></category>
-		<category><![CDATA[CRN]]></category>
-		<category><![CDATA[Magazines]]></category>
-		<category><![CDATA[Mark Haranas]]></category>
+#entry-header {
+	margin-top: 80px;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54153</guid>
-		<description><![CDATA[Mark Haranas joined CRN as an associate editor covering telecommunications and networking. He previously worked as a reporter at Gardner News since February 2011. Follow CRN on Twitter for the latest information in the technology industry. Want more updates like this one? Subscribe to our daily or weekly emails now!]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/cisionscoop-mark-haranas-joins-crn-as-associate-editor/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>CisionScoop &#124; TechTarget Nabs Kristin Knapp from CRN</title>
-		<link>http://www.cision.com/us/2015/01/cisionscoop-techtarget-nabs-kristin-knapp-from-crn/</link>
-		<comments>http://www.cision.com/us/2015/01/cisionscoop-techtarget-nabs-kristin-knapp-from-crn/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 16:48:44 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Media Updates]]></category>
-		<category><![CDATA[Technology]]></category>
-		<category><![CDATA[CisionScoop]]></category>
-		<category><![CDATA[Kristin Knapp]]></category>
-		<category><![CDATA[online]]></category>
-		<category><![CDATA[TechTarget]]></category>
+#contents {
+	max-width: 630px;
+	margin-left: 310px;
+	margin-right: 30px;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54134</guid>
-		<description><![CDATA[Kristin Knapp has joined the TechTarget family of sites, specifically serving as site editor for the Networking Channel. She was most recently a senior editor for CRN, joining the site as an associate editor in October 2011. Prior to this, she worked for Wellesley Information Services. For serious technology content, follow TechTarget on Twitter and [&#8230;]]]></description>
-		<wfw:commentRss>http://www.cision.com/us/2015/01/cisionscoop-techtarget-nabs-kristin-knapp-from-crn/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Reuters Ups Soyoung Kim</title>
-		<link>http://www.cision.com/us/2015/01/reuters-ups-soyoung-kim/</link>
-		<comments>http://www.cision.com/us/2015/01/reuters-ups-soyoung-kim/#comments</comments>
-		<pubDate>Wed, 28 Jan 2015 16:47:15 +0000</pubDate>
-		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
-				<category><![CDATA[Media Updates]]></category>
-		<category><![CDATA[Politics, Education & News]]></category>
-		<category><![CDATA[News Services]]></category>
-		<category><![CDATA[Reuters]]></category>
-		<category><![CDATA[Soyoung Kim]]></category>
+.entry-bottom {
+	margin-bottom: 60px;
+}
 
-		<guid isPermaLink="false">http://www.cision.com/us/?p=54132</guid>
-		<description><![CDATA[Soyoung Kim has been named editor in charge of regulation for Reuters. She currently serves as editor in charge of mergers and acquisitions, IPOs and private equity, first joining the news service at the Seoul bureau in 2005. Kim is the first editor to specifically oversee regulation for Reuters, which will include the intersec
+/* typo */
+a, span, input {
+	-o-transition:color .2s ease-out, background .2s ease-in;
+	-ms-transition:color .2s ease-out, background .2s ease-in;
+	-moz-transition:color .2s ease-out, background .2s ease-in;
+	-webkit-transition:color .2s ease-out, background .2s ease-in;
+	/* ...and now override with proper CSS property */
+	transition:color .2s ease-out, background .2s ease-in;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/* header site-title */
+.site-title {
+	padding-left: 50px;
+	font-size: 22px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	font-family: Open Sans, AppleGothic, Droid Sans, Arial, Trebuchet MS sans-serif;
+	width: 270px;
+}
+
+.site-title a {	color: #fff;}
+.site-title a:hover {	color:eee; }
+
+/* aside components */
+#sidebar { color: #eee;}
+#sidebar a { color: #999;}
+#sidebar a:hover { color: #aaa; }
+#sidebar small { color: #aaa; }
+#sidebar-head { text-align: center; }
+#sidebar .profileImg img{
+	width: 120px;
+ 	-webkit-border-radius: 50%;
+ 	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+/* footer */
+footer {
+        max-width: 900px;
+}
+/* entry-sub components: 검색결과, 카테고리, 태그, 보호글 */
+#search-result-panel {
+	font-weight: bold;
+}
+
+#search-result-panel .col-md-3,
+#search-result-panel .col-md-9 {
+	padding: 0;
+}
+
+.search-result-panel-header-wrapper {
+	padding: 0 20px 0 20px;
+	color: white;
+	background-color: #62b8b5;
+}
+
+.search-result-header {
+	text-align: right;
+	position: relative;
+}
+
+.search-result-panel-header-wrapper .search-result-count {
+	font-size: 70px;
+	display: block;
+}
+	
+.search-result-panel-header-wrapper .search-result-about {
+	font-size: 14px;
+	display: block;
+	margin-top: -12px;
+}
+
+#search-result-header-onMobile {
+	display: none;
+}
+
+.search-result-panel-list ol {
+	list-style-type: none;
+	padding: 0 10px;
+		margin: 0 0 0 5px;
+}
+
+.search-result-panel-list ol li {
+	padding: 5px 0;
+	border-bottom: 1px dashed #eee;
+}
+
+span.search-result-panel-list-date {
+	color: #999;
+	font-weight: 600
+}
+
+span.search-result-panel-list-count {
+	color: #62b8b5;
+}
+
+/* article components */
+.entry-date-and-comment-wrapper {
+	text-align: right;
+	font-size: 14px;
+	margin-top: 30px;
+}
+
+.entry-date,
+	.comment-number {
+ 	padding: 5px 10px;
+	color: white;
+	font-weight: 600;
+}
+
+.entry-date {
+	background-color: #ccc;
+}
+
+/* 06 */
+.entry-date a, .comment-number a {
+	color: rgba(255,255,255,0.8);
+}
+.entry-date a:hover, .comment-number a:hover {
+	color: rgba(255,255,255,1);
+}
+
+.comment-number {
+	background-color: #62b8b5;
+}
+
+.entry-title {
+	font-family: 'Nanum Gothic';
+	letter-spacing: -1px;
+	word-break: keep-all;
+	word-wrap: break-word;
+	font-weight: 800;
+	color: #62b8b5;
+	margin-top: 50px;
+	margin-bottom: 0;
+	font-weight: 600;
+}
+
+/* etc */
+.entry-title a {color: black;}
+.entry-title a:hover {color: #999;}
+
+.which-category {
+	margin-top: 12px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.entry-contents {
+	font: 18px "KoPub Batang"; 
+	color:#555; 
+	overflow:hidden;
+	line-height: 1.5em;
+	font-weight: 500;
+}
+
+.entry-contents h2, .entry-contents h3, .entry-contents h4, .entry-contents strong, .entry-contents b,.entry-contents .label {
+	font-family: "Nanum Gothic";
+	font-weight: bold;
+}
+
+.entry-contents .toc {
+	float: right;
+	width: 170px;
+	background-color: #eee;
+	margin-left: 10px;
+}
+
+.entry-contents .toc_headline {
+	font-family: "Namum Gothic";
+	background-color: #666;
+	color: #fff;
+	text-align:center;
+}
+.entry-contents .toc ol {
+        padding: 0, 0, 0, 20px;
+}
+
+.entry-contents p.lead {
+	color: #333;
+	font-weight: 600;
+	font-size: 22px;
+	line-height: 1.4em;
+	margin-bottom: 40px;
+}
+
+.entry-contents p {
+	margin: 10px auto;
+}
+
+.entry-contents em {
+	font-size: 0.8em;
+}
+
+.entry-contents hr {
+	height: 0;
+	border-bottom: 2px solid #eee;
+	margin: 40px 150px;
+}
+
+.entry-contents p img {
+	width: auto;
+	border: 0px none;
+	margin:10px;
+	border-radius: 6px;
+	box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+	vertical-align: middle;
+}
+
+.entry-contents a:link, .entry-contents a:visited {
+    border-bottom: 1px solid #CBEEFA;
+    box-shadow: 0px -4px 0px #CBEEFA inset;
+    color: inherit;
+}
+
+/* article components */
+blockquote, .tx-quote-tistory {
+	font-size: 18px;
+	max-width: 100%;
+	margin: 20px 20px;
+	padding: 0 30px;
+	line-height: 1.4;
+	position: relative;
+	color: #999;
+	border-left: 0;
+}
+
+blockquote p, .tx-quote-tistory p {
+	margin-bottom: 10px;
+	font-weight: 600;
+}
+
+blockquote:before, .tx-quote-tistory:before {
+	font-family: "KoPub Batang", georgia, serif;
+	display: block;
+	content: "\201c";
+	font-size: 80px;
+	position: absolute;
+	left: -20px;
+	top: -50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #62b8b5;
+}
+
+blockquote cite, .tx-quote-tistory cite {
+	color: #ccc;
+	font-size: 14px;
+	display: block;
+	margin-top: 5px;
+}
+ 
+blockquote cite:before,
+	/* img style */	
+	img {max-width: 90%; height: auto;}
+	span.imageblock {max-width: 90%; height: auto;}
+	.imageblock {
+		margin: 10px auto;
+}
+
+/* Entry-bottom: trackback, tags and comments */
+.trackback-and-tag, .trackback {
+	margin-top: 40px;
+}
+
+/* 06 */
+.trackback-and-tag a {color: rgba(255,255,255,0.8);}
+.trackback-and-tag a:hover {color: rgba(255,255,255,1);}
+
+span.trackback-number-and-toggle {
+	padding: 5px 7px 5px 10px;
+	color: rgba(255,255,255,0.8);
+	background-color: #62b8b5;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+span.tags span.icon-tag {
+	color: #62b8b5;
+}
+
+span.tags {
+	padding: 7px 8px;
+	font-size: 16px;
+	font-weight: bolder;
+	color: #999;
+}
+
+/* 07 */
+span.tags a {color: #999;}
+span.tags a:hover {color: black;}
+
+.trackback {
+	margin: 10px 10px 50px 10px;
+}
+
+/* commment and guestbook style */
+.comment {
+	padding-top: 20px;
+}
+
+/* list style */
+.comment-and-guestbook-wrapper {
+	width: 100%;
+	margin: 40px auto;
+	border-bottom: 1px dashed #ccc;
+	font-size: 12px;
+}
+
+.comment-and-guestbook-wrapper ol {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.comment-and-guestbook-wrapper ol li {
+	list-style-type: none;
+	padding: 20px 0 20px 20px;
+	border-top: 1px dashed #ccc;
+}
+
+.comment-and-guestbook-wrapper ol li ul {
+	margin: 20px 0 0 40px;
+	padding-left: 0;
+}
+
+.comment-and-guestbook-wrapper ol li ul li {
+	list-style-type: none;
+	padding: 20px 0 20px 10px;
+	border-top: 1px dashed #eee;
+}
+
+.comment-and-guestbook-header {
+
+}
+
+span.comment-and-guestbook-name {
+	font-weight: 600;
+	color: #62b8b5;
+	margin: 0;
+	font-size: 12px;
+}
+
+span.comment-and-guestbook-name a {color: #62b8b5;}
+span.comment-and-guestbook-name a:hover {color: #333}
+span.comment-and-guestbook-date {
+	color: #ccc;
+	font-size: 10px;
+	font-weight: 600;
+	margin: 5px;
+}
+
+.comment-and-guestbook-contents {
+
+}
+
+.comment-and-guestbook-content {
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 1.4em;
+	margin: 10px auto;
+	color: #666;
+}
+
+.comment-and-guestbook-buttons {
+	font-size: 12px;
+	font-weight: 600;
+	text-align: right;
+}
+
+/* 04 */
+.comment-and-guestbook-buttons a{
+	padding-right: 5px;
+	color: #ccc;
+}
+.comment-and-guestbook-buttons a:hover {
+	color: #62b8b5;
+}
+
+.warning { color: #f33;}
+
+/* input form style */
+.writeform {
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.form-component input {
+	width: 60%;
+	min-width: 300px;
+}
+
+.writeform {
+	color: #666;
+}
+
+.writeform p {
+	margin-top: 15px !important;
+	font-weight: 600;
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+}
+
+.form-custom {
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	background: #eee;
+	border: none;
+	border-radius: 0;
+	padding: 10px 10px;
+	color: #000;
+	display: block;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	max-width: 100%;
+	width: 100%;
+ 	-webkit-appearance: none;
+ 	margin-top: 3px;
+	outline: none;
+    	box-shadow:none !important;
+}
+
+.btn-custom {
+	margin-top: 10px;
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	position: relative;
+	display: block;
+	padding: 0 20px;
+	height: 40px;
+	line-height: 40px;
+	outline: none;
+	border: 0;
+	border-radius: 0 !important;
+	font-size: 16px;
+	cursor: pointer;
+	-webkit-appearance: none !important;
+	color: white;
+	background-color: #62b8b5;
+}
+
+.btn-custom:hover,
+.btn-custom:focus {
+	color: white;
+	background-color: #3da8a4; /* etc */
+}
+
+.leave-message {
+	margin-bottom: 12px; 
+	color: #666;
+}
+
+.commentBox-bookmark {
+	color: #666;
+}
+
+/* tagbox */
+#sidebar ul.tagbox            { margin:0; padding:0; text-align: center;}
+#sidebar ul.tagbox li           { display: inline; line-height:140%;}
+#sidebar ul.tagbox .cloud1    { font-weight:bold;  font-size:18px;  color:#DFF0D8;}
+#sidebar ul.tagbox .cloud2    { font-weight:bold;  font-size:16px;  color:#D9EDF7;}
+#sidebar ul.tagbox .cloud3    { font-weight:bold;  font-size:14px;  color:#FCF8E3;}
+#sidebar ul.tagbox .cloud4    { font-size:14px;  color:#F2DEDE;}
+#sidebar ul.tagbox .cloud5    { font-size:12px;  color:#F7F7F9;}
+
+/* category and archive */
+	.readmore-and-archive {
+
+	}
+
+	/* 04 */
+	.readmore-and-archive a{color:#ccc;}
+	.readmore-and-archive a:hover{color:#62b8b5;}
+
+	.readmore-and-archive h4 {
+		color: #999;
+	}
+
+	.readmore, .archives {
+		padding: 20px 0;
+		margin: 0;
+		font-size: 16px;
+	}
+
+	.readmore ul,
+	.archives ul {
+		margin-top: 15px;
+		padding-left: 0;
+		margin-left: 0;
+		list-style-type: none;
+		border-top: 1px dashed #ccc;
+	}
+
+	.readmore ul li,
+	.archives ul li {
+		padding: 10px 0;
+		border-bottom: 1px dashed #eee;
+		font-weight: bolder;
+	}
+
+	span.readmore-count {
+		font-size: 14px;
+		color: #eee;
+	}
+
+       .fb-comments, .fb-comments span, .fb-comments.fb_iframe_widget span iframe { 
+               width: 100% !important; 
+        }
+
+/* credit */
+.credit {
+	margin-left: 60px;
+	color: #999;
+	font-size: 12px;
+	text-align: center;
+}
+
+/* etc */
+.credit a {color:#62b8b5;}
+.credit a:hover {color:#333;}
+.logo,.person,.right,.shot2 { float: right; border: 0px none; border-radius: 6px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2); margin-left: 10px; vertical-align: middle;}
+.shot { float:left; border: 0px none; border-radius: 6px; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2); margin-left: 10px; vertical-align: middle;}
+.navigation {
+        clear: both;
+        padding: 10px 0px;
+}
+.navigation a, .navigation a:visited {
+        color: #59770e;
+}
+.previous-entries a {
+        float: left;
+        padding-left: 18px;
+        background: url(images/mini-nav-left.gif) no-repeat left center;
+}
+.next-entries a {
+        float: right;
+        padding-right: 18px;
+        background: url(images/mini-nav-right.gif) no-repeat right center;
+}
+
+a.pdf {
+        background-image: url(/images/icon/pdf.gif);
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        font-weight:bold;
+        text-decoration: underline;
+}
+
+
+/* responsible for tablet, narrow window */
+@media only screen and (max-width: 1280px) {
+	#contents {
+		padding-top: 30px;
+	}
+
+	#toggle-sidebar span {
+		border-color: transparent;
+	}
+
+	.nav-tabs span {
+		display: block;
+	}
+
+	.nav-tabs span.menu-title {
+		font-size: 10px;
+	}
+
+	#leftColumn {
+		display: none;
+	}
+
+	#search-result-header-onMobile {
+		display: block;
+	}
+}
+
+/* responsible for smart device */
+@media only screen and (max-width: 991px) {
+
+#sidebarWrapper {
+	float: none;
+	height: auto;
+	position: relative;
+	width: 100%;
+	float: none;
+	padding: 80px 0 40px 0;
+	-webkit-box-shadow: 0 2px 4px 0px rgba(200, 200, 200, 1);
+	box-shadow: 0 2px 4px 0px rgba(200, 200, 200, 1);
+}
+
+#sidebar {
+	max-width: 400px;
+	margin: auto;
+}
+
+#sidebar-head {
+	text-align: center;
+}
+
+.nav-tabs > li > a {
+  padding: 15px 5px 10px 5px;
+}
+
+.tab-content {
+	padding: 10px 0;
+	font-size: 12px;
+}
+
+#search-result-panel {
+	margin: 20px auto;
+	width: 90%;
+}
+
+.search-result-panel-header-wrapper {
+	padding: 10px;
+}
+
+.search-result-panel-header-wrapper .search-result-count, 
+.search-result-panel-header-wrapper .search-result-article,
+.search-result-panel-header-wrapper .search-result-about {
+	font-size: 18px;
+	display: inline-block;
+}
+
+#contents {
+	width: 100%;
+	padding: 0 5%;
+	margin: 0 auto;
+	float: none;
+}
+
+.entry-contents hr {
+	margin: 40px 80px;
+}
+
+.entry-contents img {
+	border: 0px none;
+	border-radius: 6px;
+	box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+	max-width: 90%;
+	vertical-align: middle;
+}
+
+.form-component input {
+	width: 80%;
+	min-width: 150px;
+}
+
+.comment-and-guestbook-wrapper ol li {
+	padding: 20px 0 20px 0;
+}
+
+.comment-and-guestbook-wrapper ol li ul {
+	margin: 20px 0 0 10px;
+	padding-left: 0;
+}
+
+.pagination-custom {
+	font-size: 12px;
+}
+
+.readmore ul li {
+	font-size: 14px;
+}
+
+
+/* paste from Ver.1 */
+	blockquote,
+	.tx-quote-tistory {
+		max-width: 100%;
+		margin: 20px 20px;
+		padding: 0.25em 20px;
+	}
+
+	blockquote p,
+	.tx-quote-tistory p {
+		line-height: 1.2em;
+		font-size: 14px;
+	}
+
+	blockquote:before,
+	.tx-quote-tistory:before {
+		font-size: 60px;
+		font-weight: bolder;
+		top: -40px;
+	}
+
+/* Hidden and Seen at mobile devices */
+	.counter, .archives, #navigation, .search {
+	display: none;
+	}
+}
+
+/* For print */
+@media print {
+	#sidebarWrapper { display:none; }
+}

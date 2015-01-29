@@ -1,178 +1,31 @@
-<div>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>404 Page Not Found</TITLE>
+<style type="text/css">
+<!--
+h1 { 
+        font-family:Verdana, Arial, Helvetica, sans-serif;
+        font-size: 24px;
+        color:#333333;
+        line-height:19px;
+        font-weight: 200; 
+        text-transform: uppercase;
+        }
 
+p { 
+        font-family:Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        color:#333333;
+        line-height:19px;
+        }
 
+-->
+</style>
+</HEAD>
+<BODY><BR>
+<H1>Page Not Found</H1>
+<P>
+ We cannot locate the page you're looking for. Please check the address and make sure all letters are lowercased with no spaces.
+</P>
+</BODY></HTML>
 
-
-
-スクウェア・エニックス アカウント｜SQUARE ENIX
-
-
-
-
-
-
- 
-   
-  
-
-
-
-
-
-
- 
-  
-
-		
-		
-        
-        
-
-  
-    
-        
-        
-        
-    
-  
- 
-      
-      
-        
-          
-            
-            
-            
-            
-            
-            
-            
-            
-          
-        
-      
-      
-
-
-
- 
-  
-  
-   
-    
-    
-      
-      
-        【重要】フィッシング詐欺サイトへ誘導するメールやメッセージにご注意ください
-      
-      
-      
-      
-        
-          
-            
-            
-              注意事項
-              ・スクウェア・エニックスID、スクウェア・エニックスパスワードの管理には十分ご注意ください。
-              ・個人情報を送信する前に、ウィンドウ上に表示されているドメインがSSL証明書のものと同一であることを、かならずご確認ください。
-              ※ 株式会社スクウェア・エニックスが保証する正規の画面で入力された個人情報は、128ビット以上のSSL方式で暗号化された上で安全に送受信され、すべて厳重に管理されます。
-            
-          
-        
-        
-          
-           スクウェア・エニックスCrysta義援金募金についてのお知らせ 
-        
-         
-         
-      
-       
-      
-      
-        
-          
-            
-              スクウェア・エニックス アカウントとは、スクウェア・エニックス グループが提供するオンラインサービスをご利用いただくための共通のアカウントです。
-                どなたでも無料でご登録いただけます。
-              アカウント取得後、別途ご契約していただくことで、ファイナルファンタジーXIなどがプレイできる「PlayOnline」(公式サイト)などもご利用いただけます。
-            
-             
-        
-        
-          
-            
-              
-              ドラゴンクエストX*1
-            
-            
-              
-              ファイナルファンタジー XIV *1
-            
-            
-            
-              
-              スクウェア・エニックス メンバーズ 
-                アカウントを取得された皆さんに楽しいコンテンツを提供している公式サイトです。 
-            
-            
-              
-              スクウェア・エニックス e-STORE
-                スクウェア・エニックス公式ショッピングサイトです。
-            
-            
-            
-              
-              
-              PlayOnline（ファイナルファンタジーXI / テトラマスター / 雀鳳楼）*2
-            
-            ※1 パッケージのご購入と月額利用料金が別途必要になります。
-            ※2　「テトラマスター」、「雀鳳楼」は、2010年12月31日をもちまして、サービスを終了いたしました。
-          
-        
-      
-      
-      
-    
-     
-  
-
- 
- 
-
-
- 
-  
-  
-   
-            レーティング制度について
-            著作権について
-            プライバシーポリシー
-            サポートセンター
-          
-          
-            スクウェア･エニックス アカウント
-            サイトマップ
-            SQUARE ENIX GLOBAL
-   
-  
-        
-        
-          PCゲーム・スマートフォンゲームSQUARE ENIX BRIDGE
-		
-        
-   
-  
- 
-
-
-
-
-
- 
- 
-
-
-
-
-</div>******************* 
- FROM http://www.jp.square-enix.com/account/

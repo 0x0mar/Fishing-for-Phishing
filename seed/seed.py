@@ -21,7 +21,6 @@ with open('wl.csv', 'rb') as csvfile:
 	for row in wlreader:
 		string=(row[1].split("/"))[0]
 		wl.append(string)
-		
 for row in seedx:
 	url=row['url']
 	domain = (url.split("/"))[2]
@@ -49,20 +48,21 @@ for spam in spams['messages']:
 		messageId =(spam['id'])
 		message = gmail_service.users().messages().get(id=messageId, userId='me').execute()
 		stringe = (message['payload']['body'])	
-		stringd = base64.urlsafe_b64decode(stringe.encode('ascii'))
-		for url in re.findall('''http["'](.[^"']+)["']''', stringd):
-			domainTo = (url.split("/"))[2]
-			if ((domain + "/") in wl):
-				print ("Whitelisted \n")
-				bad = 0
-			else:
-				bad =1
-			execString = ("INSERT IGNORE INTO seed (Domain, URL, URLSource, crawled) VALUES ('%s', '%s', 'list', 0);" % (domain, url))
+		if (stringe.get('data',"")):
+			stringd = base64.urlsafe_b64decode(stringe['data'].encode('ascii'))
+			for url in re.findall('''http["'](.[^"']+)["']''', stringd):
+				domainTo = (url.split("/"))[2]
+				if ((domain + "/") in wl):
+					print ("Whitelisted \n")
+					bad = 0
+				else:
+					bad =1
+				execString = ("INSERT IGNORE INTO seed (Domain, URL, URLSource, crawled) VALUES ('%s', '%s', 'list', 0);" % (domain, url))
+				cursor.execute(execString)
+			stringd=db.escape_string(stringd)
+			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('0', '%s', 'EMAIL', '%s', 'email');" % (stringd, str(messageId))) 
 			cursor.execute(execString)
-		stringd=db.escape_string(stringd)
-		execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('0', '%s', 'EMAIL', '%s', 'email');" % (stringd, str(messageId))) 
-		cursor.execute(execString)
-		db.commit()
+			db.commit()
 	except Exception as e:
 		print ("Broke: %s" %execString)	
 		print (type(e))
