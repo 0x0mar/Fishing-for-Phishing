@@ -32,10 +32,10 @@ while done == 0:
 	try: 
 		if domDict[domain] < 10:
 			for i in re.findall('''href=["'](.[^"']+)["']''', urllib2.urlopen(crawl).read(200000), re.I):
-				z = (re.match('http://' , k) or re.match('//' , k))
-				y = re.match('/' , k)
+				z = (re.match('http://' , i) or re.match('//' , i))
+				y = re.match('/' , i)
 				if (y):
-					k = (("/").join((re.split("/", url)))+k)			
+					i = (("/").join((re.split("/", url)))+i)			
 				if z or y:
 					urlBank.append(i)
 					reqURL = "https://sb-ssl.google.com/safebrowsing/api/lookup?client=f4p&key=AIzaSyCD0pNAG-6HVh_W6udGYZFz-2_p0yHDD5k&appver=31&pver=3.1&url=" + i
