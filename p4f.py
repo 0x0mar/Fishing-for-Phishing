@@ -24,7 +24,7 @@ def crawl(n):
 		cursor.execute(execString)
 		seedx = cursor.fetchall()
 	else:
-		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i;" % (n)) 
+		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i AND toSpam==1;" % (n)) 
 		cursor.execute(execString)
 		seedx = cursor.fetchall()
 
@@ -34,10 +34,11 @@ def crawl(n):
 			url = row[0]
 			print url
 			domain = get_tld(url, fail_silently=True)
-			content = urllib2.urlopen(url, timeout=3).read(20000)
+			content = urllib2.urlopen(url, timeout=3).read(200000)
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
 				z = re.match('http://' , k)
-				if z:
+				y = re.match('//' , k)
+				if z or y:
 					domainTo = (get_tld(k, fail_silently=True))
 					print "domainTo is: %s" %k
 					if (domainTo in wl):
