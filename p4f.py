@@ -36,21 +36,25 @@ def crawl(n):
 			domain = get_tld(url, fail_silently=True)
 			content = urllib2.urlopen(url, timeout=3).read(200000)
 			for k in re.findall('''href=["'](.[^"']+)["']''', content):
-				z = ((re.match('http://' , k) is not None) or (re.match('//' , k) is not None))
-				y = re.match('/' , k)
-				if (y):
-					k = (("/").join((re.split("/", url)))+k)			
-				if z or y:
-					domainTo = (get_tld(k, fail_silently=True))
-					print "domainTo is: %s" %k
-					if (domainTo in wl):
-						print ("Whitelisted \n")
-						bad = 0
-					else:
-						bad =1
-					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
-					cursor.execute(execString)
-					db.commit()
+				try:
+					print k
+					z = ((re.match('http://' , k) is not None) or (re.match('//' , k) is not None))
+					y = re.match('/' , k)
+					if (y):
+						k = (("/").join((re.split("/", url)))+k)			
+					if z or y:
+						domainTo = (get_tld(k, fail_silently=True))
+						print "domainTo is: %s" %k
+						if (domainTo in wl):
+							print ("Whitelisted \n")
+							bad = 0
+						else:
+							bad =1
+						execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
+						cursor.execute(execString)
+						db.commit()
+				except Exception as e:
+					print ("Couldn't add")
 			bank = open('spam/%d.txt' %i, 'w')
 			bank.write (content)
 			content=db.escape_string(content)
