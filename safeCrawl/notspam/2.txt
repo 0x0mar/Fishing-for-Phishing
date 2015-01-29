@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cision</title>
+	<atom:link href="http://www.cision.com/us/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.cision.com/us</link>
+	<description></description>
+	<lastBuildDate>Wed, 28 Jan 2015 21:26:33 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Top 10 Political Journalists on Network Radio</title>
+		<link>http://www.cision.com/us/2015/01/top-ten-political-journalists-on-network-radio/</link>
+		<comments>http://www.cision.com/us/2015/01/top-ten-political-journalists-on-network-radio/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 20:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Top Lists]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54194</guid>
+		<description><![CDATA[This list includes the most influential politics journalists on network radio on Twitter, ranked by number of followers. Using Cision’s media database, we compiled the list based on Cision’s proprietary research. This list changes over time as Twitter followers update in real-time; all numbers were pulled January 28, 2015. 1.  Terry Moran &#8211; Chief Foreign Correspondent, ABC [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/top-ten-political-journalists-on-network-radio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gregory Gittrich Joins Vocativ as Chief Content Officer</title>
+		<link>http://www.cision.com/us/2015/01/gregory-gittrich-joins-vocativ-as-chief-content-officer/</link>
+		<comments>http://www.cision.com/us/2015/01/gregory-gittrich-joins-vocativ-as-chief-content-officer/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 19:05:05 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Gregory Gittich]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[Vocativ]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54186</guid>
+		<description><![CDATA[Vocativ has tapped Gregory Gittrich as chief content officer. He was previously vice president and executive editor for NBCNews.com in October 2012. &#8216;Like&#8217; Vocativ on Facebook for the latest news sourced from the deep web. Don’t miss the latest media news. Sign up for our daily or weekly emails now!]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/gregory-gittrich-joins-vocativ-as-chief-content-officer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Caroline Cunningham Joins Washingtonian</title>
+		<link>http://www.cision.com/us/2015/01/caroline-cunningham-joins-washingtonian/</link>
+		<comments>http://www.cision.com/us/2015/01/caroline-cunningham-joins-washingtonian/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 17:51:53 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Arts, Leisure & Style]]></category>
+		<category><![CDATA[Bride & Groom]]></category>
+		<category><![CDATA[Caroline Cunningham]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Washingtonian]]></category>
+		<category><![CDATA[Washingtonian MOM]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54181</guid>
+		<description><![CDATA[Caroline Cunningham has joined Washingtonian, Washingtonian MOM and Bride &#38; Groom as assistant fashion editor. She was most recently an editorial fellow for Washingtonian since August 2014. Follow Washingtonian on Twitter for the latest news on Washington, D.C.  Get the latest media news sent directly to your inbox. Sign up for our daily or weekly emails now!]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/caroline-cunningham-joins-washingtonian/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ET&#8217;s Rocsi Diaz Moves to HLN</title>
+		<link>http://www.cision.com/us/2015/01/ets-rocsi-diaz-moves-to-hln/</link>
+		<comments>http://www.cision.com/us/2015/01/ets-rocsi-diaz-moves-to-hln/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 17:48:25 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[HLN]]></category>
+		<category><![CDATA[Rocsi Diaz]]></category>
+		<category><![CDATA[Television]]></category>
+		<category><![CDATA[The Daily Share]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54169</guid>
+		<description><![CDATA[HLN announced the addition of Rocsi Diaz as a correspondent and anchor of The Daily Share. She previously served as co-anchor of Entertainment Tonight Weekend since January 2013 and correspondent for Entertainment Tonight since October 2012. &#8216;Like&#8217; HLN on Facebook for the latest in national and international news sent right to your news feed. Want the latest media news [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/ets-rocsi-diaz-moves-to-hln/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Media Republic&#8217;s Waseem El Tanahi Talks Media, Influence &amp; PR in Egypt</title>
+		<link>http://www.cision.com/us/2015/01/waseem-el-tanahi-of-media-republic-talks-digital-media-social-influence-and-pr-in-egypt/</link>
+		<comments>http://www.cision.com/us/2015/01/waseem-el-tanahi-of-media-republic-talks-digital-media-social-influence-and-pr-in-egypt/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 17:33:58 +0000</pubDate>
+		<dc:creator><![CDATA[Allison Richard]]></dc:creator>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Influencers]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54142</guid>
+		<description><![CDATA[Whether looking at archaeological treasures or present-day news, society and culture in Egypt – the most populated country in the Arab world – continues to reverberate throughout the world. The most salient example of this is the country’s political and social revolution, brought to international attention within the last few years. The tension involved in [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/waseem-el-tanahi-of-media-republic-talks-digital-media-social-influence-and-pr-in-egypt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rush Limbaugh Show Staff Member Christopher &#8216;Kit&#8217; Carson Passes Away</title>
+		<link>http://www.cision.com/us/2015/01/rush-limbaugh-show-staff-member-christopher-kit-carson-passes-away/</link>
+		<comments>http://www.cision.com/us/2015/01/rush-limbaugh-show-staff-member-christopher-kit-carson-passes-away/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 17:33:42 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Kit Carson]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Rush Limbaugh Show]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54162</guid>
+		<description><![CDATA[Cision Blog regrets to inform its readers that The Rush Limbaugh Show producer and chief of staff Christopher &#8216;Kit&#8217; Carson has passed away. He was the longest-serving staff member of the program and joined shortly after it began in 1988. For more details on his passing, read Limbaugh&#8217;s on-air farewell.]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/rush-limbaugh-show-staff-member-christopher-kit-carson-passes-away/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CisionScoop &#124; Mark Haranas Joins CRN as Associate Editor</title>
+		<link>http://www.cision.com/us/2015/01/cisionscoop-mark-haranas-joins-crn-as-associate-editor/</link>
+		<comments>http://www.cision.com/us/2015/01/cisionscoop-mark-haranas-joins-crn-as-associate-editor/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 17:25:31 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[CisionScoop]]></category>
+		<category><![CDATA[CRN]]></category>
+		<category><![CDATA[Magazines]]></category>
+		<category><![CDATA[Mark Haranas]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54153</guid>
+		<description><![CDATA[Mark Haranas joined CRN as an associate editor covering telecommunications and networking. He previously worked as a reporter at Gardner News since February 2011. Follow CRN on Twitter for the latest information in the technology industry. Want more updates like this one? Subscribe to our daily or weekly emails now!]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/cisionscoop-mark-haranas-joins-crn-as-associate-editor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CisionScoop &#124; TechTarget Nabs Kristin Knapp from CRN</title>
+		<link>http://www.cision.com/us/2015/01/cisionscoop-techtarget-nabs-kristin-knapp-from-crn/</link>
+		<comments>http://www.cision.com/us/2015/01/cisionscoop-techtarget-nabs-kristin-knapp-from-crn/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 16:48:44 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[CisionScoop]]></category>
+		<category><![CDATA[Kristin Knapp]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[TechTarget]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54134</guid>
+		<description><![CDATA[Kristin Knapp has joined the TechTarget family of sites, specifically serving as site editor for the Networking Channel. She was most recently a senior editor for CRN, joining the site as an associate editor in October 2011. Prior to this, she worked for Wellesley Information Services. For serious technology content, follow TechTarget on Twitter and [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/01/cisionscoop-techtarget-nabs-kristin-knapp-from-crn/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Reuters Ups Soyoung Kim</title>
+		<link>http://www.cision.com/us/2015/01/reuters-ups-soyoung-kim/</link>
+		<comments>http://www.cision.com/us/2015/01/reuters-ups-soyoung-kim/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 16:47:15 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[News Services]]></category>
+		<category><![CDATA[Reuters]]></category>
+		<category><![CDATA[Soyoung Kim]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=54132</guid>
+		<description><![CDATA[Soyoung Kim has been named editor in charge of regulation for Reuters. She currently serves as editor in charge of mergers and acquisitions, IPOs and private equity, first joining the news service at the Seoul bureau in 2005. Kim is the first editor to specifically oversee regulation for Reuters, which will include the intersec
