@@ -24,7 +24,7 @@ def crawl(n):
 		cursor.execute(execString)
 		seedx = cursor.fetchall()
 	else:
-		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i AND toSpam==1;" % (n)) 
+		execString = ("SELECT URLTo FROM outboundLinks WHERE lvl=%i AND toSpam=1;" % (n)) 
 		cursor.execute(execString)
 		seedx = cursor.fetchall()
 
