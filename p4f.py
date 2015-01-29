@@ -50,6 +50,7 @@ def crawl(n):
 						bad =1
 					execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
 					cursor.execute(execString)
+					db.commit()
 			bank = open('spam/%d.txt' %i, 'w')
 			bank.write (content)
 			content=db.escape_string(content)
