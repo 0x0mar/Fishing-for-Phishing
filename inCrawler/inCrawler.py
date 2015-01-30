@@ -14,7 +14,7 @@ update_tld_names()
 db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 cursor = db.cursor()
 
-urlBank = ['http://www.solarmovie.eu','http://www.tamilo.com/','http://lasvegasfreemovies.com/','http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=175&cad=rja&uact=8&ved=0CDYQFjAEOKoB&url=http%3A%2F%2Fwww.xnxx.com%2Fhome%2F5%2F&ei=AtjJVKujAoHQgwS5l4DADw&usg=AFQjCNETanxkj0brrevC6jyK8Y_Kwmfk1A&sig2=N9EMvj2PG76h1Yc3h5AuZQ&bvm=bv.84607526,d.eXY','http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=208&cad=rja&uact=8&ved=0CEgQFjAHOMgB&url=http%3A%2F%2Fwww.gonzoxxxmovies.com%2F&ei=LNjJVOGKDI_ggwThkoTABw&usg=AFQjCNHrkb6c3LgwrNN1CWsJz-C5pWrFEw&sig2=rkwyiaHUchgikWEUIeFeVQ&bvm=bv.84607526,d.eXY', 'http://www.dmoz.org/World/Bulgarian/','http://www.dmoz.org/World/Ukrainian/','http://www.dmoz.org/World/Chinese_Simplified/','http://www.internet-directory.com/','http://www.botid.org/','http://www.joeant.com/', 'https://kickass.so/', 'http://www.popularart.be/?option=com_k2&view=itemlist&task=user&id=1110', 'http://winit.intouchweekly.com/']
+urlBank = ['http://www.solarmovie.eu','http://www.tricksforums.com/2014/08/best-5-free-movie-streaming-site-to.html','http://www.reelwavs.com/mstop25/','http://www.tamilo.com/','http://lasvegasfreemovies.com/','http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=175&cad=rja&uact=8&ved=0CDYQFjAEOKoB&url=http%3A%2F%2Fwww.xnxx.com%2Fhome%2F5%2F&ei=AtjJVKujAoHQgwS5l4DADw&usg=AFQjCNETanxkj0brrevC6jyK8Y_Kwmfk1A&sig2=N9EMvj2PG76h1Yc3h5AuZQ&bvm=bv.84607526,d.eXY','http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=208&cad=rja&uact=8&ved=0CEgQFjAHOMgB&url=http%3A%2F%2Fwww.gonzoxxxmovies.com%2F&ei=LNjJVOGKDI_ggwThkoTABw&usg=AFQjCNHrkb6c3LgwrNN1CWsJz-C5pWrFEw&sig2=rkwyiaHUchgikWEUIeFeVQ&bvm=bv.84607526,d.eXY', 'http://www.dmoz.org/World/Bulgarian/','http://www.dmoz.org/World/Ukrainian/','http://www.dmoz.org/World/Chinese_Simplified/','http://www.internet-directory.com/','http://www.botid.org/','http://www.joeant.com/', 'https://kickass.so/', 'http://www.popularart.be/?option=com_k2&view=itemlist&task=user&id=1110', 'http://winit.intouchweekly.com/']
 phishBank = []
 done = 0
 domDict = {}
@@ -47,12 +47,13 @@ while done == 0:
 						response = urllib2.urlopen(reqURL).getcode()
 						if (response==200):
 							print ("FOUND %s" %i)
-							execString = ("INSERT INTO Seed (Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', 'crawl', '0');" % (domain, i)) 
+							execString = ("INSERT INTO seed (Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', 'crawl', '0');" % (domain, i)) 
 							cursor.execute(execString)
 							execString = ("INSERT INTO inboundLinks (Domain, domainTo, URL, URLto, CopySource, Crawled) VALUES ('%s','%s', '%s', '%s', 'crawl', '0');" % (domain, domainTo, url, i)) 
 							cursor.execute(execString)
 				except Exception as e:
-					print ("Couldn't add" %i)	
+					print ("Couldn't add %s" %i)
+					print e	
 	except Exception as e:
 		print ("Broken link to %s" %i)	
 		print (type(e))
