@@ -54,7 +54,7 @@ def crawl(n):
 						cursor.execute(execString)
 						db.commit()
 				except Exception as e:
-					print ("Couldn't add")
+					print ("Couldn't add " + k + " error: " + e)
 			bank = open('spam/%d.txt' %i, 'w')
 			bank.write (content)
 			content=db.escape_string(content)
