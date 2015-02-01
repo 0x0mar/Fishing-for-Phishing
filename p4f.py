@@ -56,13 +56,13 @@ def crawl(n):
 				except Exception as e:
 					print ("Couldn't add " + k + " error: " )
 					print e
-			bank = open('spam/%d.txt' %i, 'w')
-			bank.write (content)
+			#bank = open('spam/%d.txt' %i, 'w')
+			#bank.write (content)
 			content=db.escape_string(content)
 			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 			cursor.execute(execString)
 			print url + " success! \n"
-			bank.close()
+			#bank.close()
 			db.commit()
 		except Exception as e:
 			print ("Broken link to %s" %url)	
