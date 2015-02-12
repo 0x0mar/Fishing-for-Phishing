@@ -15,7 +15,7 @@ def crawl(n):
 		for row in wlreader:
 			fixedRow = (row[1].split("/")[0])
 			wl.append(fixedRow)
-	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='king$burY04')
+	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 	cursor = db.cursor()
 	i = 0 
 	outLinks = []
