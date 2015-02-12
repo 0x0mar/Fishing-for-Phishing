@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cision</title>
+	<atom:link href="http://www.cision.com/us/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.cision.com/us</link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Feb 2015 23:06:00 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>Top 10 Apartment Therapy Staffers and Contributors on Instagram</title>
+		<link>http://www.cision.com/us/2015/02/top-ten-apartment-therapy-staffers-and-contributors-on-instagram/</link>
+		<comments>http://www.cision.com/us/2015/02/top-ten-apartment-therapy-staffers-and-contributors-on-instagram/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 20:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Top Lists]]></category>
+		<category><![CDATA[Apartment Therapy]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Internet]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56797</guid>
+		<description><![CDATA[As parts of the U.S. are being blanketed by snow, many people are finding themselves spending more and more time indoors. This can lead to realizations like, &#8220;I really don&#8217;t like this couch,&#8221; or, &#8220;I wish that my walls weren&#8217;t so boring.&#8221; For inspirational home decorating tips and ideas, follow Apartment Therapy&#8217;s top staffers and [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/top-ten-apartment-therapy-staffers-and-contributors-on-instagram/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jon Stewart Announces Plans to Retire From The Daily Show</title>
+		<link>http://www.cision.com/us/2015/02/jon-stewart-announces-plans-to-retire-from-the-daily-show/</link>
+		<comments>http://www.cision.com/us/2015/02/jon-stewart-announces-plans-to-retire-from-the-daily-show/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 19:46:19 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Jon Stewart]]></category>
+		<category><![CDATA[Television]]></category>
+		<category><![CDATA[The Daily Show]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56786</guid>
+		<description><![CDATA[Jon Stewart announced to his audience yesterday that he plans on retiring from The Daily Show later this year. Stewart has been the host and executive producer for the show since 1999, providing comedic, and a sometimes somber commentary on the news industry. Make sure to follow The Daily Show on Twitter and Facebook, and enjoy [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/jon-stewart-announces-plans-to-retire-from-the-daily-show/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FOX Promotes Missy Halperin</title>
+		<link>http://www.cision.com/us/2015/02/fox-promotes-missy-halperin/</link>
+		<comments>http://www.cision.com/us/2015/02/fox-promotes-missy-halperin/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 19:20:53 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[FOX Broadcasting Company]]></category>
+		<category><![CDATA[Missy Halperin]]></category>
+		<category><![CDATA[Television]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56784</guid>
+		<description><![CDATA[Missy Halperin has been promoted to executive vice president, talent relations at FOX Broadcasting Company. Halperin joined FOX in 1989, and most recently served as senior vice president of talent relations for the network. FOX broadcasts entertainment and feature programming including sports, news and original series. Tune into YouTube for the latest behind the scenes [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/fox-promotes-missy-halperin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The View&#8217;s Brian Balthazar to Rejoin HGTV</title>
+		<link>http://www.cision.com/us/2015/02/the-views-brian-balthazar-to-rejoin-hgtv/</link>
+		<comments>http://www.cision.com/us/2015/02/the-views-brian-balthazar-to-rejoin-hgtv/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 19:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Consumer & Lifestyle]]></category>
+		<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Brian Balthazar]]></category>
+		<category><![CDATA[HGTV]]></category>
+		<category><![CDATA[Television]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56766</guid>
+		<description><![CDATA[Brian Balthazar has announced that he plans to leave The View to return to HGTV as vice president of programming. Balthazar has been with The View as co-executive producer since August 2014, and before that was head of programming at AOL. He served as director of original programming and development at HGTV from 2008 to [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/the-views-brian-balthazar-to-rejoin-hgtv/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kary McHoul Named SVP at ABC Family</title>
+		<link>http://www.cision.com/us/2015/02/kary-mchoul-named-svp-at-abc-family/</link>
+		<comments>http://www.cision.com/us/2015/02/kary-mchoul-named-svp-at-abc-family/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 19:07:52 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Consumer & Lifestyle]]></category>
+		<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[ABC Family Channel]]></category>
+		<category><![CDATA[Kate McHoul]]></category>
+		<category><![CDATA[Television]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56748</guid>
+		<description><![CDATA[ABC Family Channel named Kary McHoul senior vice president of programming and development. She most recently served as president at Nigel Lythgoe Productions, where she helped to develop American Idol for FOX as well as The Simple Life and Hell&#8217;s Kitchen. Follow ABC Family Channel on Facebook for all the latest in family programming sent to your newsfeed. [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/kary-mchoul-named-svp-at-abc-family/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Chicago&#8217;s WLS-TV Reporter Updates</title>
+		<link>http://www.cision.com/us/2015/02/chicagos-wls-tv-reporter-updates/</link>
+		<comments>http://www.cision.com/us/2015/02/chicagos-wls-tv-reporter-updates/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 19:04:40 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Diane Pathieu]]></category>
+		<category><![CDATA[Jade Hernandez]]></category>
+		<category><![CDATA[Television]]></category>
+		<category><![CDATA[WLS-TV]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56761</guid>
+		<description><![CDATA[WLS-TV has announced that freelance reporter Diane Pathieu has been hired as a full-time reporter, and added Jade Hernandez  as a freelance reporter. WLS-TV is Chicago&#8217;s ABC News affiliate that provides the Chicago metro area with the latest local and national news. Follow along on Facebook to join into the conversation. Want to pitch better? Attend renowned [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/chicagos-wls-tv-reporter-updates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Univision&#8217;s Isaac Lee Expands Role into Digital</title>
+		<link>http://www.cision.com/us/2015/02/univisions-issac-lee-expands-role-into-digital/</link>
+		<comments>http://www.cision.com/us/2015/02/univisions-issac-lee-expands-role-into-digital/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 18:59:42 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Fusion]]></category>
+		<category><![CDATA[Issac Lee]]></category>
+		<category><![CDATA[Television]]></category>
+		<category><![CDATA[Univision Television Network]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56757</guid>
+		<description><![CDATA[Isaac Lee expanded his role to president of news and digital at Univision to add to his role as CEO at Fusion. Before he joined Univision in December 2010 as president of news, he was editor in chief and chairman of PODER magazine since 2000. &#8216;Like&#8217; Univision on Facebook for the latest in 24-hours news [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/univisions-issac-lee-expands-role-into-digital/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CisionScoop &#124; Locke Hughes Leaves Shape for Greatist</title>
+		<link>http://www.cision.com/us/2015/02/cisionscoop-locke-hughes-leaves-shape-for-greatist/</link>
+		<comments>http://www.cision.com/us/2015/02/cisionscoop-locke-hughes-leaves-shape-for-greatist/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 18:56:04 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Science & Health]]></category>
+		<category><![CDATA[CisionScoop]]></category>
+		<category><![CDATA[Greatist]]></category>
+		<category><![CDATA[Locke Hughes]]></category>
+		<category><![CDATA[online]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56751</guid>
+		<description><![CDATA[Shape senior social media editor Locke Hughes joined Greatist as senior editor. Hughes joined Shape as assistant web editor in April 2013. Follow Greatist on Twitter for the latest in personal health, exercise and fitness. Want to pitch better? Attend renowned pitching coach Michael Smart’s webinar. Register now!]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/cisionscoop-locke-hughes-leaves-shape-for-greatist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Josh Flory Exits Knoxville News Sentinel</title>
+		<link>http://www.cision.com/us/2015/02/josh-flory-exits-knoxville-news-sentinel/</link>
+		<comments>http://www.cision.com/us/2015/02/josh-flory-exits-knoxville-news-sentinel/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 18:52:39 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Josh Flory]]></category>
+		<category><![CDATA[Knoxville News Sentinel]]></category>
+		<category><![CDATA[newspapers]]></category>
+		<category><![CDATA[Real Estate]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56753</guid>
+		<description><![CDATA[Knoxville News Sentinel&#8216;s data editor Josh Flory has exited the paper. Flory added data editor to his duties in August 2014 and was promoted to assistant business editor in June 2012. He was also a blogger covering real estate for Property Scope. Follow Knoxville News Sentinel on Twitter for the latest news from Knoxville and Eastern Tennessee. Want more [&#8230;]]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/josh-flory-exits-knoxville-news-sentinel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Brian Williams Suspended from NBC News</title>
+		<link>http://www.cision.com/us/2015/02/brian-williams-suspended-from-nbc-news/</link>
+		<comments>http://www.cision.com/us/2015/02/brian-williams-suspended-from-nbc-news/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 18:45:17 +0000</pubDate>
+		<dc:creator><![CDATA[Cision Staff]]></dc:creator>
+				<category><![CDATA[Media Updates]]></category>
+		<category><![CDATA[Politics, Education & News]]></category>
+		<category><![CDATA[Brian Williams]]></category>
+		<category><![CDATA[NBC News]]></category>
+		<category><![CDATA[Television]]></category>
+
+		<guid isPermaLink="false">http://www.cision.com/us/?p=56759</guid>
+		<description><![CDATA[NBC News announced the suspension of anchor and managing editor Brian Williams. Williams is on suspension for six months following internal investigation. Follow NBC News on Twitter for the latest in world news. Want more media placements? Get pitching tips from Michael Smart’s webinar. Register now!]]></description>
+		<wfw:commentRss>http://www.cision.com/us/2015/02/brian-williams-suspended-from-nbc-news/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Database Caching 19/22 queries in 0.102 seconds using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: static.cision.com
+
+ Served from: www.cision.com @ 2015-02-12 03:49:48 by W3 Total Cache -->

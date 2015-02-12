@@ -1,0 +1,430 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta name="XAR Files" content="index_htm_files/xr_files.txt"/>
+ <title>Watch Latest 20 HD Movies. Watch Latest Free Hollywood Movies. </title>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+ <meta http-equiv="Content-Type" content="text/html; charset=Windows-1251"/>
+ <meta name="Generator" content="Xara HTML filter v.5.0.1.977"/>
+ <meta name="keywords" content="watch latest 20 hd movies, watch latest movies, free movies, free films, free cinema movies, hollywood movies, english free moives, just added movies."/>
+ <meta name="description" content="Watch Latest 20 HD Movies. Watch Latest Free Hollywood Movies. English Free Movies.  Latest free just added Hollywood moives. Watch latest movies, cinema movies and films. Watch latest full movies online. Watch Hollywood free high definition quality movies for free."/>
+ <link rel="stylesheet" type="text/css" href="index_htm_files/xr_main.css"/>
+ <link rel="stylesheet" type="text/css" href="index_htm_files/xr_text.css"/>
+ <link rel="stylesheet" type="text/css" href="index_htm_files/custom_styles.css"/>
+ <link rel="shortcut icon" href="index_htm_files/favicon.ico"/>
+ <link rel="icon" type="image/vnd.microsoft.icon" href="index_htm_files/favicon.ico"/>
+ <link rel="icon" type="image/png" href="index_htm_files/favicon.png"/>
+ <script type="text/javascript" src="index_htm_files/roe.js"></script>
+ <!--[if IE]><script type="text/javascript" src="index_htm_files/prs.js"></script><![endif]--><!--[if !IE]>--><script type="text/javascript" src="index_htm_files/prs3.js"></script><!--<![endif]-->
+ <script type="text/javascript">var xr_nextpage="latesthdmovies.htm"; var xr_transition=0; var xr_transitiontime=500;var xr_prevpage="index.htm"; var xr_btransition=0; var xr_btransitiontime=500;</script>
+ <meta name="google-site-verification" content="xy1ImXZswbhgd6gms6NWjS7gS3Wdie3DZqyygzpT8GQ" />
+
+<meta name="msvalidate.01" content="207F8BC050C22BF398185C8F0A0BBA56" />
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-VhJNPvZHmCu2a"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-VhJNPvZHmCu2a.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<meta name="robot" content="all,index,follow"/>
+<meta http-equiv="content-language" content="en-us"/>
+<meta name="revisit-after" content="1 day"/>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+ <!-- PopAds.net Popunder Code for www.mooviemaniac.net -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 299818]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+</head>
+<body style="background-color: #000000">
+<div class="xr_ap" id="xr_xrii"  style="width: 100%; height: 100%; top:0%; left:0%;">
+<div class="xr_ap" id="xr_xr" style="width: 950px; height: 2225px; top:0px; left:50%; margin-left: -475px;">
+ <script type="text/javascript">var xr_xr=document.getElementById("xr_xr")</script>
+<div class="xr_ap" id="xr_xri" style="width: 950px; height: 2225px;">
+ <a href="drama.htm" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/54983.jpg" alt="watch Selma (2014) free full movie" title="Selma (2014)" onmousemove="xr_mo(this,0,event)" style="left: 792px; top: 1406px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="drama.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55040.jpg" alt="Wacth Inherent Vice (2014) Free Full Movie" title="Inherent Vice (2014)" onmousemove="xr_mo(this,0,event)" style="left: 480px; top: 1406px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="drama.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55041.jpg" alt="Watch Cake (2014) Free Full Movie" title="Cake (2014)" onmousemove="xr_mo(this,0,event)" style="left: 169px; top: 1406px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="fantasy.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55042.jpg" alt="Watch Seventh Son (2014) free movie" title="Seventh Son (2014)" onmousemove="xr_mo(this,0,event)" style="left: 325px; top: 1186px; width: 150px; height: 201px;"/>
+ </a>
+ <a href="drama.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55043.jpg" alt="Watch Wild (2014) free movie" title="Wild (2014)" onmousemove="xr_mo(this,0,event)" style="left: 481px; top: 1186px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="action.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/54990.jpg" alt="Wacth Vice (2015) Free Full Movie" title="Vice (2015)" onmousemove="xr_mo(this,0,event)" style="left: 169px; top: 1186px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="thriller.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/54991.jpg" alt="Escobar: Paradise Lost (2014) watch free" title="Escobar: Paradise Lost (2014)" onmousemove="xr_mo(this,0,event)" style="left: 792px; top: 966px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="comedy.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55044.jpg" alt="The Wedding Ringer (2015) Free Full Movie" title="The Wedding Ringer (2015)" onmousemove="xr_mo(this,0,event)" style="left: 636px; top: 966px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="http://vidzi.tv/8q0ulycivlae.html" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/54724.jpg" alt="Wacth Mortdecai (2015) Free Full Movie" title="Mortdecai (2015)" onmousemove="xr_mo(this,0,event)" style="left: 481px; top: 966px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="http://vidzi.tv/o8d2s551eq51.html" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55045.jpg" alt="Wacth Wild Card (2015) Free Full Movie" title="Wild Card (2015)" onmousemove="xr_mo(this,0,event)" style="left: 325px; top: 966px; width: 150px; height: 201px;"/>
+ </a>
+ <a href="http://vidzi.tv/ixz86wxwftag.html" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55046.jpg" alt="The Boy Next Door (2015) watch free" title="The Boy Next Door (2015)" onmousemove="xr_mo(this,0,event)" style="left: 168px; top: 966px; width: 150px; height: 201px;"/>
+ </a>
+ <a href="http://vidzi.tv/ivoxf6wrdt7f.html" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55047.jpg" alt="Wacth Love, Rosie (2014) Free Full Movie" title="Love, Rosie (2014)" onmousemove="xr_mo(this,0,event)" style="left: 792px; top: 745px; width: 151px; height: 200px;"/>
+ </a>
+ <a href="http://vidzi.tv/wq45ltm9jilq.html" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/54727.jpg" alt="Wacth Blackhat (2015) Free Full Movie" title="Blackhat (2015)" onmousemove="xr_mo(this,0,event)" style="left: 636px; top: 745px; width: 151px; height: 200px;"/>
+ </a>
+ <a href="http://streamin.to/z4f1sopb7w27" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55048.jpg" alt="Wacth Black or White (2014) Free Full Movie" title="Black or White (2014)" onmousemove="xr_mo(this,0,event)" style="left: 324px; top: 745px; width: 151px; height: 200px;"/>
+ </a>
+ <a href="http://streamin.to/exdkirobktc7" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55049.jpg" alt="Wacth Project Almanac (2014) Free Full Movie" title="Project Almanac (2014)" onmousemove="xr_mo(this,0,event)" style="left: 169px; top: 745px; width: 150px; height: 200px;"/>
+ </a>
+ <a href="http://streamin.to/uwmd2dao93d8" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55050.jpg" alt="Wacth The Loft (2014) Free Full Movie" title="The Loft (2014)" onmousemove="xr_mo(this,0,event)" style="left: 480px; top: 745px; width: 151px; height: 200px;"/>
+ </a>
+ <a href="http://million.unrealwebtraffic.com/y9p" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/50361.png" alt="" id="LiveCopy:58Set67" title="" onmousemove="xr_mo(this,0,event)" style="left: 605px; top: 38px; width: 345px; height: 85px;"/>
+ </a>
+ <div class="Normal_text" style="position: absolute; left:415px; top:2209px;font-family:'Arial';font-weight:bold;font-style:italic;color:#00FFFF;">
+  <span class="xr_tl Normal_text" style="top: -12px;font-family:'Arial';font-weight:bold;font-style:italic;color:#00FFFF;"><span id="LiveCopy:58Set13"></span><span id="PageControl:58bottomleft">www.mooviemaniac.net</span></span>
+ </div>
+ <div id="LiveCopy:58Set38" style="position: absolute; left: 801px; top: 2193px; width: 91px; height: 23px; overflow: hidden;">
+<!-- Begin W3Counter Tracking Code -->
+<script type="text/javascript" src="https://www.w3counter.com/tracker.js"></script>
+<script type="text/javascript">
+w3counter(82012);
+</script>
+<noscript>
+<div><a href="http://www.w3counter.com"><img src="https://www.w3counter.com/tracker.php?id=82012" style="border: 0" alt="W3Counter" /></a></div>
+</noscript>
+<!-- End W3Counter Tracking Code -->
+ </div>
+ <img class="xr_ap" src="index_htm_files/54998.png" alt="" id="LiveCopy:58Set51" title="" style="left: 22px; top: 260px; width: 904px; height: 378px;"/>
+ <a href="http://bit.ly/1zpW9L2" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/54999.jpg" alt="" id="LiveCopy:58Set71" title="" onmousemove="xr_mo(this,0,event)" style="left: 113px; top: 466px; width: 724px; height: 95px;"/>
+ </a>
+ <div id="LiveCopy:58Set57" title="For More Information Click Here" style="position: absolute; left: 111px; top: 339px; width: 728px; height: 91px; overflow: hidden;">
+<script type='text/javascript' src='http://ads.qadserve.com/t?id=9394da83-397c-4f8f-a685-560ef798e806&size=728x90'></script>
+ </div>
+ <a href="./index.htm" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/50267.png" alt="" id="LiveCopy:58Set66" title="" onmousemove="xr_mo(this,0,event)" style="left: 40px; top: 9px; width: 486px; height: 143px;"/>
+ </a>
+ <div class="Normal_text" style="position: absolute; left:324px; top:1800px;font-family:'Times New Roman';font-size:28px;font-weight:bold;color:#00DFFF;">
+  <span class="xr_tl Normal_text" style="top: -25px;font-family:'Times New Roman';font-size:28px;font-weight:bold;color:#00DFFF;"><a href="latesthdmovies.htm" target="_self" onclick="return(xr_nn());" onmousemove="xr_mo(this,0)" >Check Latest HD Movies</a></span>
+ </div>
+ <div class="Heading_1" style="position: absolute; left:23px; top:690px;font-family:'Times New Roman';font-size:22px;color:#00FF03;" title="Receive Latest Movies to Your e-Mail.">
+  <h1 class="xr_tl Heading_1" style="top: -20px;font-family:'Times New Roman';font-size:22px;color:#00FF03;margin:0;"><span id="LiveCopy:58Set68"></span><a href="movietoemail.htm" target="_blank" onclick="return(xr_nn());" onmousemove="xr_mo(this,0)" >SUBSCRIBE</a></h1>
+ </div>
+ <div class="Heading_1" style="position: absolute; left:410px; top:1857px;font-family:'Times New Roman';font-size:22px;color:#00FF03;" title="Receive Latest Movies to Your e-Mail.">
+  <h1 class="xr_tl Heading_1" style="top: -20px;font-family:'Times New Roman';font-size:22px;color:#00FF03;margin:0;"><a href="movietoemail.htm" target="_blank" onclick="return(xr_nn());" onmousemove="xr_mo(this,0)" >SUBSCRIBE</a></h1>
+ </div>
+ <div class="Normal_text" style="position: absolute; left:218px; top:2156px;font-family:'Times New Roman';color:#FFFFFF;">
+  <span class="xr_tc Normal_text" style="left: -13px; top: -12px; width: 544px;font-family:'Times New Roman';color:#FFFFFF;"><span id="LiveCopy:58Set35"></span>All materials on this website are hosted elsewhere so there is no guarantee of quality. </span>
+  <span class="xr_tc Normal_text" style="left: 67px; top: 3px; width: 383px;font-family:'Times New Roman';color:#FFFFFF;">All links on this website are from sources found on Google. </span>
+  <span class="xr_tc Normal_text" style="left: -25px; top: 17px; width: 567px;font-family:'Times New Roman';color:#FFFFFF;">In case of copyrights conflicts, please contact their appropriate publishers or file owners. </span>
+ </div>
+ <div class="Heading_3" style="position: absolute; left:258px; top:692px;font-family:'Times New Roman';font-size:40px;color:#FFFFFF;">
+  <h3 class="xr_tl Heading_3" style="top: -36px;font-family:'Times New Roman';font-size:40px;color:#FFFFFF;margin:0;">Watch Latest 20 Movies</h3>
+ </div>
+ <div class="Normal_text" style="position: absolute; left:211px; top:234px;font-family:'Times New Roman';font-size:18px;color:#E5E5E5;">
+  <span class="xr_tc Normal_text" style="left: -43px; top: -16px; width: 616px;font-family:'Times New Roman';font-size:18px;color:#E5E5E5;">Watch latest cinema movies and films. Watch latest full movies online.</span>
+  <span class="xr_tc Normal_text" style="left: -6px; top: 4px; width: 541px;font-family:'Times New Roman';font-size:18px;color:#E5E5E5;">Watch Hollywood free high definition quality movies for free.</span>
+ </div>
+ <div class="Heading_1" style="position: absolute; left:70px; top:183px;font-family:'Times New Roman';font-size:28px;color:#E5E5E5;">
+  <h1 class="xr_tl Heading_1" style="top: -25px;font-family:'Times New Roman';font-size:28px;color:#E5E5E5;margin:0;">Watch Latest 20 Movies. Watch Latest Free Hollywood Movies.</h1>
+ </div>
+ <div class="Heading_2" style="position: absolute; left:238px; top:213px;font-family:'Times New Roman';font-size:28px;color:#E5E5E5;">
+  <h2 class="xr_tl Heading_2" style="top: -25px;font-family:'Times New Roman';font-size:28px;color:#E5E5E5;margin:0;">&nbsp;Latest free just added Hollywood moives.</h2>
+ </div>
+ <div id="LiveCopy:58Set33" style="position: absolute; left: 901px; top: 2186px; width: 25px; height: 19px; overflow: hidden;">
+<!-- Start 1FreeCounter.com code -->
+  
+  <script language="JavaScript">
+  var data = '&r=' + escape(document.referrer)
+	+ '&n=' + escape(navigator.userAgent)
+	+ '&p=' + escape(navigator.userAgent)
+	+ '&g=' + escape(document.location.href);
+
+  if (navigator.userAgent.substring(0,1)>'3')
+    data = data + '&sd=' + screen.colorDepth 
+	+ '&sw=' + escape(screen.width+'x'+screen.height);
+
+  document.write('<a href="http://www.1freecounter.com/stats.php?i=104991" target=\"_blank\" >');
+  document.write('<img alt="Free Counter" border=0 hspace=0 '+'vspace=0 src="http://www.1freecounter.com/counter.php?i=104991' + data + '">');
+  document.write('</a>');
+  </script>
+
+<!-- End 1FreeCounter.com code -->
+ </div>
+ <div id="LiveCopy:58Set37" style="position: absolute; left: 713px; top: 654px; width: 205px; height: 49px; overflow: hidden;">
+<!-- start of freefind search box html -->
+<table cellpadding=0 cellspacing=0 border=0 >
+<tr>
+	<td  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;">
+		<form style="margin:0px; margin-top:4px;" action="http://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
+		<input type="hidden" name="si" value="5450558">
+		<input type="hidden" name="pid" value="r">
+		<input type="hidden" name="n" value="0">
+		<input type="hidden" name="_charset_" value="">
+		<input type="hidden" name="bcd" value="&#247;">
+		<input type="text" name="query" size="15"> 
+		<input type="submit" value="search">
+		</form>
+	</td>
+</tr>
+<tr>
+	<td style="text-align:left; font-family: Arial, Helvetica, sans-serif;	font-size: 7.5pt; padding-top:4px;">
+		<a style="text-decoration:none; color:gray;" href="http://www.freefind.com" >site search</a><a style="text-decoration:none; color:gray;" href="http://www.freefind.com" > by
+		<span style="color: #606060;">freefind</span></a>
+	</td>
+</tr>
+</table>
+<!-- end of freefind search box html -->
+
+ </div>
+ <a href="index.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44477.png" alt="Home" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 719px; width: 127px; height: 27px;"/>
+ </a>
+ <img class="xr_ap" src="index_htm_files/51954.png" alt="Latest Movies" title="" style="left: 23px; top: 749px; width: 127px; height: 27px;"/>
+ <a href="latesthdmovies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/51955.png" alt="HD Movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 779px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="trailers.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/51956.png" alt="Movie Trailers" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 809px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="action.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44480.png" alt="Action" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 839px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="adventure.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44481.png" alt="Adventure" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 869px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="animation.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44482.png" alt="Animation" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 899px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="comedy.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44483.png" alt="Comedy" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 929px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="crime.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44484.png" alt="Crime" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 959px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="drama.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44485.png" alt="Drama" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 989px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="fantasy.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44486.png" alt="Fantasy" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1019px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="family.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44487.png" alt="Family" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1049px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="horror.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44488.png" alt="Horror" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1079px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="mystery.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44489.png" alt="Mystery" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1109px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="romance.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44490.png" alt="Romance" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1139px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="sci-fi.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44491.png" alt="Sci-fi" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1169px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="thriller.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44492.png" alt="Thriller" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1199px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="war.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44493.png" alt="War" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1229px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="english%20movies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44495.png" alt="English movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1259px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="russian%20movies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44496.png" alt="Russian movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1289px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="german%20movies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44497.png" alt="German movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1319px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="hindi%20movies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44498.png" alt="Hindi movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1349px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="turkish%20movies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44499.png" alt="Turkish movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1379px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="dutch%20movies.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/44500.png" alt="Dutch movies" title="" onmousemove="xr_mo(this,0,event)" style="left: 23px; top: 1409px; width: 127px; height: 27px;"/>
+ </a>
+ <a href="crime.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55003.jpg" alt="watch The Gambler (2014) free full movie" title="The Gambler (2014)" onmousemove="xr_mo(this,0,event)" style="left: 635px; top: 1406px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="action.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55054.jpg" alt="Wacth Taken 3 (2014) Free Full Movie" title="Taken 3 (2014)" onmousemove="xr_mo(this,0,event)" style="left: 635px; top: 1186px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="thriller.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55055.jpg" alt="Watch Kill the Messenger (2014) free movie" title="Kill the Messenger (2014)" onmousemove="xr_mo(this,0,event)" style="left: 325px; top: 1406px; width: 151px; height: 201px;"/>
+ </a>
+ <a href="crime.htm" target="_self" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55056.jpg" alt="watch A Most Violent Year (2014) free full movie" title="A Most Violent Year (2014)" onmousemove="xr_mo(this,0,event)" style="left: 789px; top: 1186px; width: 151px; height: 201px;"/>
+ </a>
+ <img class="xr_ap" src="index_htm_files/51980.png" alt="Latest Movies" title="" style="left: 23px; top: 749px; width: 129px; height: 27px;"/>
+ <div id="xr_xo0" class="xr_ap" style="left:0; top:0; width:950px; height:100px; visibility:hidden;">
+ <a href="" onclick="return(false);">
+ <img class="xr_ap" src="index_htm_files/44501.png" alt="Home" title="" style="left: 23px; top: 719px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/51981.png" alt="HD Movies" title="" style="left: 23px; top: 779px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/51982.png" alt="Movie Trailers" title="" style="left: 23px; top: 809px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44504.png" alt="Action" title="" style="left: 23px; top: 839px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44505.png" alt="Adventure" title="" style="left: 23px; top: 869px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44506.png" alt="Animation" title="" style="left: 23px; top: 899px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44507.png" alt="Comedy" title="" style="left: 23px; top: 929px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44508.png" alt="Crime" title="" style="left: 23px; top: 959px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44509.png" alt="Drama" title="" style="left: 23px; top: 989px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44510.png" alt="Fantasy" title="" style="left: 23px; top: 1019px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44511.png" alt="Family" title="" style="left: 23px; top: 1049px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44512.png" alt="Horror" title="" style="left: 23px; top: 1079px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44513.png" alt="Mystery" title="" style="left: 23px; top: 1109px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44514.png" alt="Romance" title="" style="left: 23px; top: 1139px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44515.png" alt="Sci-fi" title="" style="left: 23px; top: 1169px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44516.png" alt="Thriller" title="" style="left: 23px; top: 1199px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44517.png" alt="War" title="" style="left: 23px; top: 1229px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44519.png" alt="English movies" title="" style="left: 23px; top: 1259px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44520.png" alt="Russian movies" title="" style="left: 23px; top: 1289px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44521.png" alt="German movies" title="" style="left: 23px; top: 1319px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44522.png" alt="Hindi movies" title="" style="left: 23px; top: 1349px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44523.png" alt="Turkish movies" title="" style="left: 23px; top: 1379px; width: 129px; height: 27px;"/>
+ <img class="xr_ap" src="index_htm_files/44524.png" alt="Dutch movies" title="" style="left: 23px; top: 1409px; width: 129px; height: 27px;"/>
+ <div class="Normal_text" style="position: absolute; left:-57px; top:540px;font-family:'Arial Black';font-size:9px;color:#FFFFFF;">
+ </div>
+ </a>
+ </div>
+ <div id="LiveCopy:58Set24" style="position: absolute; left: 895px; top: 2158px; width: 32px; height: 20px; overflow: hidden;">
+<script type="text/javascript" src="http://jj.revolvermaps.com/2/3.js?i=9bdjcmc2rlw&amp;b=0&amp;s=20&amp;m=2&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>
+ </div>
+ <div id="LiveCopy:58Set44" style="position: absolute; left: 799px; top: 133px; width: 138px; height: 33px;">
+<script type="text/javascript">
+var uid = '14258';
+var wid = '26737';
+</script>
+<script type="text/javascript" src="http://cdn.popcash.net/pop.js"></script>
+ </div>
+ <div id="LiveCopy:58Set42" style="position: absolute; left: 799px; top: 97px; width: 138px; height: 30px;">
+<!-- PopAds.net Popunder Code for www.mooviemaniac.net -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 299818]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+ </div>
+ <div id="LiveCopy:58Set36" style="position: absolute; left: 797px; top: 61px; width: 140px; height: 31px;">
+<script type="text/javascript">
+    var adfly_id = 143158;
+    var adfly_advert = 'int';
+    var popunder = true;
+    var exclude_domains = ['adultmovies.eadulthost.com', 'allposters.com','amazon.co.uk','mooviemaniac.net'];
+</script>
+<script src="https://cdn.adf.ly/js/link-converter.js"></script> 
+ </div>
+ <div style="position: absolute; left: 797px; top: 23px; width: 138px; height: 30px;">
+<script type="text/javascript"> 
+//default pop-under house ad url 
+infinityads_enable_pop = true; 
+infinityads_enable_adhere = false; 
+infinityads_frequencyCap =-1;
+durl = '';
+infinityads_layer_border_color = '';
+infinityads_layer_ad_bg = '';
+infinityads_layer_ad_link_color = '';
+infinityads_layer_ad_text_color = '';
+infinityads_text_link_bg = '';
+infinityads_text_link_color = '';
+infinityads_enable_text_link = false;
+</script>
+ <script type="text/javascript" src="http://ads.lzjl.com/newServing/showAd.php?nid=5&pid=26487&adtype=&sid=71099"></script> <noscript><a href="http://www.yesads.com">online marketing</a></noscript>
+ </div>
+ <a href="http://adultmovies.eadulthost.com/index.htm" target="_top" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55012.png" alt="18" title="" onmousemove="xr_mo(this,0,event)" style="left: 454px; top: 1898px; width: 42px; height: 29px;"/>
+ </a>
+ <a href="http://bit.ly/1zpW9L2" target="_blank" onclick="return(xr_nn());">
+  <img class="xr_ap" src="index_htm_files/55013.jpg" alt="" id="LiveCopy:58Set69" title="" onmousemove="xr_mo(this,0,event)" style="left: 11px; top: 1484px; width: 151px; height: 501px;"/>
+ </a>
+ <div id="LiveCopy:58Set63" style="position: absolute; left: 853px; top: 2151px; width: 34px; height: 34px;">
+Now, put these scripts at the end of your page. They contain the parameter preferences in JSON format.
+<script type="text/javascript">stLight.options({publisher: "145de161-7c99-4c62-ba19-bb64ad8e5463", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+<script>
+var options={ "publisher": "145de161-7c99-4c62-ba19-bb64ad8e5463", "logo": { "visible": true, "url": "http://www.mooviemaniac.net", "img": "http://www.mooviemaniac.net/index_htm_files/50267.png", "height": 66}, "ad": { "visible": false, "openDelay": "5", "closeDelay": "0"}, "livestream": { "domain": "http://www.mooviemaniac.net", "type": "sharethis", "src": "", "customColors": { "widgetBackgroundColor": "#FFFFFF", "articleLinkColor": "#006fbb"}}, "ticker": { "visible": true, "domain": "", "title": "http://www.mooviemaniac.net", "type": "sharethis", "src": "", "customColors": { "widgetBackgroundColor": "#9d9d9d", "articleLinkColor": "#00487f"}}, "facebook": { "visible": true, "profile": "sharethis"}, "fblike": { "visible": true, "url": "http://www.mooviemaniac.net"}, "twitter": { "visible": true, "user": "sharethis"}, "twfollow": { "visible": false}, "custom": [{ "visible": false, "title": "Custom 1", "url": "", "img": "", "popup": false, "popupCustom": { "width": 300, "height": 250}}, { "visible": false, "title": "Custom 2", "url": "", "img": "", "popup": false, "popupCustom": { "width": 300, "height": 250}}, { "visible": false, "title": "Custom 3", "url": "", "img": "", "popup": false, "popupCustom": { "width": 300, "height": 250}}], "chicklets": { "items": ["sharethis", "facebook", "googleplus", "twitter", "stumbleupon", "tumblr", "blogger", "reddit", "delicious", "linkedin", "whatsapp", "email"]}, "shadow": "gloss", "background": "#000000", "color": "#FFFFFF", "arrowStyle": "light"};
+var st_bar_widget = new sharethis.widgets.sharebar(options);
+</script>
+ </div>
+ <div id="xr_xd0"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">xr_prifs();</script>
+<img class="xr_ap" src="index_htm_files/04.gif" alt="" id="xr_qsq0" style="visibility:hidden;"/>
+<!--[if lt IE 7]><script type="text/javascript" src="index_htm_files/png.js"></script><![endif]-->
+<script type="text/javascript">xr_aeh()</script>
+</body>
+</html>

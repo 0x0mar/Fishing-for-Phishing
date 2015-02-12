@@ -1,0 +1,689 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>[ARTISMARE2]: June 2010...Culture Blog. Culture News.</title>
+  <meta NAME="robots" CONTENT="index,follow">
+  <meta name="description" content="News about art & culture in the World. Artists, exhibitions, cultural events, articles, links... and other resources about art and culture." />
+  <meta name="keywords" content="painting, famous, painters, design, sculpture, photography, animation, culture, illustration, architecture, cinema" />
+  <meta name="verify-v1" content="ZpgceFZFFHYNSXYmc5jQ1r+pz5dNu/UrBObgsEgpd/c=" />
+  <script type="text/javascript">(function() { var b=window,f="chrome",g="tick",k="jstiming";(function(){function d(a){this.t={};this.tick=function(a,d,c){var e=void 0!=c?c:(new Date).getTime();this.t[a]=[e,d];if(void 0==c)try{b.console.timeStamp("CSI/"+a)}catch(h){}};this[g]("start",null,a)}var a;b.performance&&(a=b.performance.timing);var n=a?new d(a.responseStart):new d;b.jstiming={Timer:d,load:n};if(a){var c=a.navigationStart,h=a.responseStart;0<c&&h>=c&&(b[k].srt=h-c)}if(a){var e=b[k].load;0<c&&h>=c&&(e[g]("_wtsrt",void 0,c),e[g]("wtsrt_","_wtsrt",h),e[g]("tbsd_","wtsrt_"))}try{a=null,
+b[f]&&b[f].csi&&(a=Math.floor(b[f].csi().pageT),e&&0<c&&(e[g]("_tbnd",void 0,b[f].csi().startE),e[g]("tbnd_","_tbnd",c))),null==a&&b.gtbExternal&&(a=b.gtbExternal.pageT()),null==a&&b.external&&(a=b.external.pageT,e&&0<c&&(e[g]("_tbnd",void 0,b.external.startE),e[g]("tbnd_","_tbnd",c))),a&&(b[k].pt=a)}catch(p){}})();b.tickAboveFold=function(d){var a=0;if(d.offsetParent){do a+=d.offsetTop;while(d=d.offsetParent)}d=a;750>=d&&b[k].load[g]("aft")};var l=!1;function m(){l||(l=!0,b[k].load[g]("firstScrollTime"))}b.addEventListener?b.addEventListener("scroll",m,!1):b.attachEvent("onscroll",m);
+ })();</script><script type="text/javascript">var a="indexOf",b="&m=1",e="(^|&)m=",f="?",g="?m=1";function h(){var c=window.location.href,d=c.split(f);switch(d.length){case 1:return c+g;case 2:return 0<=d[1].search(e)?null:c+b;default:return null}}var k=navigator.userAgent;if(-1!=k[a]("Mobile")&&-1!=k[a]("WebKit")&&-1==k[a]("iPad")||-1!=k[a]("Opera Mini")||-1!=k[a]("IEMobile")){var l=h();l&&window.location.replace(l)};
+</script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Blogger" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="http://www.blogger.com/favicon.ico"/>
+<link rel="alternate" type="application/atom+xml" title="[ARTISMARE2] - Atom" href="http://artismare2-b.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="[ARTISMARE2] - RSS" href="http://artismare2-b.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="[ARTISMARE2] - Atom" href="http://www.blogger.com/feeds/7974634733497258227/posts/default" />
+<link rel="stylesheet" type="text/css" href="https://www.blogger.com/static/v1/v-css/50269083-blog_controls.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=7974634733497258227&zx=0e135108-a97f-4428-b848-99e518006d18"/>
+
+
+  <style type="text/css">
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     26 Feb 2004
+----------------------------------------------- */
+
+
+body {
+  background:#fff;
+  margin:0;
+  padding:40px 20px;
+  font:x-small Georgia,Serif;
+  text-align:center;
+  color:#333;
+  font-size/* */:/**/small;
+  font-size: /**/small;
+  }
+a:link {
+  color:#58a;
+  text-decoration:none;
+  }
+a:visited {
+  color:#969;
+  text-decoration:none;
+  }
+a:hover {
+  color:#c60;
+  text-decoration:underline;
+  }
+a img {
+  border-width:0;
+  }
+
+
+/* Header
+----------------------------------------------- */
+@media all {
+  #header {
+    width:660px;
+    margin:0 auto 10px;
+    border:1px solid #ccc;
+    }
+  }
+@media handheld {
+  #header {
+    width:90%;
+    }
+  }
+#blog-title {
+  margin:5px 5px 0;
+  padding:20px 20px .25em;
+  border:1px solid #eee;
+  border-width:1px 1px 0;
+  font-size:200%;
+  line-height:1.2em;
+  font-weight:normal;
+  color:#666;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  }
+#blog-title a {
+  color:#666;
+  text-decoration:none;
+  }
+#blog-title a:hover {
+  color:#c60;
+  }
+#description {
+  margin:0 5px 5px;
+  padding:0 20px 20px;
+  border:1px solid #eee;
+  border-width:0 1px 1px;
+  max-width:700px;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+
+/* Content
+----------------------------------------------- */
+@media all {
+  #content {
+    width:660px;
+    margin:0 auto;
+    padding:0;
+    text-align:left;
+    }
+  #main {
+    width:410px;
+    float:left;
+    }
+  #sidebar {
+    width:220px;
+    float:right;
+    }
+  }
+@media handheld {
+  #content {
+    width:90%;
+    }
+  #main {
+    width:100%;
+    float:none;
+    }
+  #sidebar {
+    width:100%;
+    float:none;
+    }
+  }
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:1.5em 0 .75em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+@media all {
+  .date-header {
+    margin:1.5em 0 .5em;
+    }
+  .post {
+    margin:.5em 0 1.5em;
+    border-bottom:1px dotted #ccc;
+    padding-bottom:1.5em;
+    }
+  }
+@media handheld {
+  .date-header {
+    padding:0 1.5em 0 1.5em;
+    }
+  .post {
+    padding:0 1.5em 0 1.5em;
+    }
+  }
+.post-title {
+  margin:.25em 0 0;
+  padding:0 0 4px;
+  font-size:140%;
+  font-weight:normal;
+  line-height:1.4em;
+  color:#c60;
+  }
+.post-title a, .post-title a:visited, .post-title strong {
+  display:block;
+  text-decoration:none;
+  color:#c60;
+  font-weight:normal;
+  }
+.post-title strong, .post-title a:hover {
+  color:#333;
+  }
+.post div {
+  margin:0 0 .75em;
+  line-height:1.6em;
+  }
+p.post-footer {
+  margin:-.25em 0 0;
+  color:#ccc;
+  }
+.post-footer em, .comment-link {
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.post-footer em {
+  font-style:normal;
+  color:#999;
+  margin-right:.6em;
+  }
+.comment-link {
+  margin-left:.6em;
+  }
+.post img {
+  padding:4px;
+  border:1px solid #ddd;
+  }
+.post blockquote {
+  margin:1em 20px;
+  }
+.post blockquote p {
+  margin:.75em 0;
+  }
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:1em 0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+#comments h4 strong {
+  font-size:130%;
+  }
+#comments-block {
+  margin:1em 0 1.5em;
+  line-height:1.6em;
+  }
+#comments-block dt {
+  margin:.5em 0;
+  }
+#comments-block dd {
+  margin:.25em 0 0;
+  }
+#comments-block dd.comment-timestamp {
+  margin:-.25em 0 2em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+#comments-block dd p {
+  margin:0 0 .75em;
+  }
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+  }
+
+
+/* Sidebar Content
+----------------------------------------------- */
+#sidebar ul {
+  margin:0 0 1.5em;
+  padding:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  list-style:none;
+  }
+#sidebar li {
+  margin:0;
+  padding:0 0 .25em 15px;
+  text-indent:-15px;
+  line-height:1.5em;
+  }
+#sidebar p {
+  color:#666;
+  line-height:1.5em;
+  }
+
+
+/* Profile
+----------------------------------------------- */
+#profile-container {
+  margin:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  padding-bottom:1.5em;
+  }
+.profile-datablock {
+  margin:.5em 0 .5em;
+  }
+.profile-img {
+  display:inline;
+  }
+.profile-img img {
+  float:left;
+  padding:4px;
+  border:1px solid #ddd;
+  margin:0 8px 3px 0;
+  }
+.profile-data {
+  margin:0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.profile-data strong {
+  display:none;
+  }
+.profile-textblock {
+  margin:0 0 .5em;
+  }
+.profile-link {
+  margin:0;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:660px;
+  clear:both;
+  margin:0 auto;
+  }
+#footer hr {
+  display:none;
+  }
+#footer p {
+  margin:0;
+  padding-top:15px;
+  font:78%/1.6em "Trebuchet MS",Trebuchet,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+
+
+/* Feeds
+----------------------------------------------- */
+#blogfeeds {
+  }
+#postfeeds {
+  }
+  </style>
+
+<script language="JavaScript">
+<!-- // script para abrir links en nueva ventana
+function targetLinks(boNew) {
+if (boNew) where = "_blank";
+else where = "_self";
+for (var i=0; i<=(document.links.length-1); i++) {
+document.links[i].target = where;
+}
+}
+// -->
+</script>
+
+
+<!--para los nuevos contenedores semestrales -->
+<style>#contenedor1A { width: 400px; background-color: #FFCC66;}</style>
+<style>#contenedor2B { width: 400px; background-color: #DADC78;}</style>     
+<!--para los especiales -->
+<style>#contenedor3C { width: 400px; background-color: #A9E382;}</style>
+<style>#contenedor4D { width: 400px; background-color: #9EECFF;}</style>
+
+
+
+<!--para los nuevos contenedores cuatrimestrales -->
+<style>#contenedor1A { width: 400px; background-color: #FFCC66;}</style>
+<style>#contenedor2B { width: 400px; background-color: #DADC78;}</style>     
+<style>#contenedor3C { width: 400px; background-color: #A9E382;}</style>
+<!--para los especiales -->
+<style>#contenedor4D { width: 400px; background-color: #9EECFF;}</style>
+
+
+
+
+<!--para los nuevos contenedores bimestrales -->
+<style>#contenedorA { width: 400px; background-color: #E0D389;}</style>
+<style>#contenedorB { width: 400px; background-color: #FFCC66;}</style>     
+<style>#contenedorC { width: 400px; background-color: #A9E382;}</style>
+<style>#contenedorD { width: 400px; background-color: #66CCFF;}</style>
+<style>#contenedorE { width: 400px; background-color: #DADC78;}</style>
+<style>#contenedorF { width: 400px; background-color: #FDC6FD;}</style>
+
+
+
+<style>#contenedor { width: 400px; background-color: #66CCFF;}</style>
+<style>#contenedor2 { width: 400px; background-color: #EBD1F8;}</style>
+<style>#contenedor3 { width: 400px; background-color: #DADC78;}</style>
+<style>#contenedor4 { width: 400px; background-color: #FEE15C;}</style>
+<style>#contenedor5 { width: 400px; background-color: #66FF98;}</style>
+
+<style>#contenedor11 { width: 400px; background-color: #CCCC99;}</style>
+<style>#contenedor12 { width: 400px; background-color: #A9E382;}</style>
+
+
+<!--aumentar y disminuir tamaño del texto -->
+<script type='text/javascript'>
+//<![CDATA[
+var tgs = new Array( 'div','td','tr');
+var szs = new Array( 'xx-small','x-small','small','medium','large','x-large','xx-large' );
+var startSz = 2;
+function ts( trgt,inc ) {
+if (!document.getElementById) return
+var d = document,cEl = null,sz = startSz,i,j,cTags;
+sz += inc;
+if ( sz < 0 ) sz = 0;
+if ( sz > 6 ) sz = 6;
+startSz = sz;
+if (!( cEl = d.getElementById( trgt ) ) ) cEl = d.getElementsByTagName( trgt )[ 0 ];
+cEl.style.fontSize = szs[ sz ];
+for ( i = 0 ; i < tgs.length ; i++ ) {
+cTags = cEl.getElementsByTagName( tgs[ i ] );
+for ( j = 0 ; j < cTags.length ; j++ ) cTags[ j ].style.fontSize = szs[ sz ];
+}
+}
+//]]>
+</script>
+
+<!-- --><style type="text/css">@import url(https://www.blogger.com/static/v1/v-css/navbar/3334278262-classic.css);
+div.b-mobile {display:none;}
+</style>
+
+</head><br><br>
+
+<body><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+        gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+          if (gapi.iframes && gapi.iframes.getContext) {
+            gapi.iframes.getContext().openChild({
+                url: 'https://www.blogger.com/navbar.g?targetBlogID\0757974634733497258227\46blogName\75%5BARTISMARE2%5D\46publishMode\75PUBLISH_MODE_BLOGSPOT\46navbarType\75BLUE\46layoutType\75CLASSIC\46searchRoot\75http://artismare2-b.blogspot.com/search\46blogLocale\75en_GB\46v\0752\46homepageUrl\75http://artismare2-b.blogspot.com/\46vt\075496189568908307876',
+                where: document.getElementById("navbar-iframe-container"),
+                id: "navbar-iframe"
+            });
+          }
+        });
+      </script>
+
+<div id="header">
+
+  <h1 id="blog-title">
+    
+         <a href="http://artismare2-b.blogspot.com">
+	[ARTISMARE2]
+	</a>
+  </h1>
+  <p id="description">Continuation...More news about art and culture in the World.<center>To go back click</center><center><a href="http://artismare2.blogspot.com/">Here</a></center></p>
+
+</div>
+
+<!-- Begin #content -->
+<div id="content">
+
+
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+
+
+    
+  <h2 class="date-header">Tuesday, 1 June 2010</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="2048110794273249604"></a>
+         
+    <h3 class="post-title">
+	 
+	 AGENDA: JUN [10] / JUL / AUG / SEP [10]
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><strong><span style="font-family:Arial;font-size:85%;color:#006600;"></span></strong><strong><span style="font-family:Arial;font-size:85%;color:#6600cc;"></span></strong><span style="font-family:arial;font-size:85%;"></span><div id="contenedor3C"><span style="font-family:Arial;font-size:85%;color:#cc66cc;"></span><br /><h1>ART &amp; CULTURE</h1><br /><strong><span style="color:#666600;">NEWS ABOUT ART AND CULTURE</span></strong><br /><table border="0"><tbody><tr><td height="20" width="400"><p><span style="font-family:arial;font-size:85%;color:#006600;"><strong>- On <a href="http://art-in-spain.blogspot.com/">ART-IN-SPAIN</a>:</strong></span></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- PHOTOESPAÑA 2010, 9 June - 25 July.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Madrid. In the Prado Museum: "Turner and the Masters", until September 19th.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Madrid. In the Thyssen-Bornemisza Museum: "Ghirlandaio and Renaissance Florence", until October 10th.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Barcelona. In the Picasso Museum of Barcelona: "Picasso vs. Rusiñol", until September 5th.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">... and more information and links about art, culture and tourism.</span></strong></p></td></tr></tbody></table><br /><strong><span style="color:#666600;">RECOMMENDATIONS</span></strong><br /><table border="0"><tbody><tr><td height="20" width="400"><p><span style="font-family:arial;font-size:85%;color:#006600;"><strong>- Visit museums: <a href="http://mv.vatican.va/">Vatican Museums</a>.</strong></span></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- History of Art: <a href="http://all-art.org/contents.html">all-art.org</a>.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Video on Vimeo: <a href="http://vimeo.com/5719819">BIRD film</a>. Via sopadeciencias. <a href="http://andrewzuckerman.com/">Andrew Zuckerman</a>' s Website.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.nal.usda.gov/curtis/">Curtis's Botanical Magazine</a>: botanical illustrations. Vía sopadeciencias.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.allaboutbirds.org/">All About Birds</a>. Via <a href="http://rob021c.blogspot.com/2010/05/what-next_07.html#links">rob021c</a>.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.digitalartsonline.co.uk/index.cfm">Digital Arts</a>: website of the magazine about graphic design, web design, 3D, animation...</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.naturalhistorymag.com/">Natural History Magazine</a>.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.bennettrobotworks.com/">Gordon Bennett</a>: little robot sculptures. Via revistapegn.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- On <a href="http://www.stockvault.net/">Stockvault.net</a>: <a href="http://www.stockvault.net/videos/tag/Photography_Tutorials.html">photography</a>, <a href="http://www.stockvault.net/videos/tag/Graphic_Tutorials.html">graphic design</a> and <a href="http://www.stockvault.net/videos/tag/Photoshop_tutorials.html">Photoshop</a> Tutorials.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- 14 <a href="http://www.webdesignerdepot.com/2009/01/14-essential-magazines-for-graphic-designers/">Essential Magazines</a> for Graphic Designers. Via webdesignerdepot.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- 70 Excellent <a href="http://sixrevisions.com/photoshop/70-excellent-photoshop-resources/">Photoshop Resources</a>. Via wwwhatsnew.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.dexigner.com/directory/">Design Directory</a>: directory about design, illustration, art, architecture, animation, photography...</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- <a href="http://www.instructables.com/id/Creating-a-3D-effect-with-image-editing--software-/">Creating a 3D effect</a> with image editing software (GIMP or Photoshop). Via instructables.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Animations (<a href="http://es.wikipedia.org/wiki/Flipbook">flipbooks</a>) on YouTube with post-its, notebooks ... : <a href="http://www.youtube.com/watch?v=loG3GrnVDdU">1</a> / <a href="http://www.youtube.com/watch?v=zyke9aZjwQY">2</a> / <a href="http://www.youtube.com/watch?v=783uWoSqdX0&amp;NR=1">3</a> / <a href="http://www.youtube.com/watch?v=UocF4ycBnYE&amp;NR=1">4</a> / <a href="http://www.youtube.com/watch?v=BrWUrks9boE">5</a> / <a href="http://www.youtube.com/watch?v=nMnV8NgKBOA">6</a> / <a href="http://www.youtube.com/watch?v=YThZ-0Pa4iU">7</a> / <a href="http://www.youtube.com/watch?v=FH97UerMW6I">8</a> / <a href="http://www.youtube.com/watch?v=rzNzlzRY7TE">9</a> / <a href="http://www.youtube.com/watch?v=aDJL0Vpqsp4">10</a> / <a href="http://www.youtube.com/watch?v=k0m2KXaqkhs">11</a> / <a href="http://www.youtube.com/watch?v=WQGDO4hs76g">12</a> / <a href="http://www.youtube.com/watch?v=kgoqTyV-Kqw">13</a> / <a href="http://www.youtube.com/watch?v=MEZJyjS8lmA">14</a> / <a href="http://www.youtube.com/watch?v=jZbEwcjxfdA">15</a> / <a href="http://www.youtube.com/watch?v=gSU6s1FQLWA">16</a> / <a href="http://www.youtube.com/watch?v=qJt7T6nS55Y">17</a> / <a href="http://www.youtube.com/watch?v=tkcfhdRXsNw">18</a> / <a href="http://www.youtube.com/watch?v=Deb9M52Mpyk">19</a> / <a href="http://www.youtube.com/watch?v=3iFCe5lZikM">20</a> / <a href="http://www.youtube.com/watch?v=jqikc9M9Meg">21</a> / <a href="http://www.youtube.com/watch?v=x2mV4P4u3C0">22</a> / <a href="http://www.youtube.com/watch?v=45PQ5hWSRC8">23</a> / <a href="http://www.youtube.com/watch?v=seA7A7Am5nc">24</a> / <a href="http://www.youtube.com/watch?v=1O6wSZWhBZ4">25</a>. Make a Flip Book: <a href="http://www.youtube.com/watch?v=20wxBarPbF0">1</a> / <a href="http://www.youtube.com/watch?v=ZUNd6y5sOiw">2</a> / <a href="http://www.youtube.com/watch?v=DbHAXzxUUHI">3</a>.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Animation on Vimeo: <a href="http://vimeo.com/2295261">This Is Where We Live</a>.</span></strong></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;">- Know artists: Louise Bourgeois ( <a href="http://en.wikipedia.org/wiki/Louise_Bourgeois">wikipedia</a> / <a href="http://www.fondazionevedova.org/en/louise-bourgeois-fabric-works">fondazionevedova</a> / <a href="http://www.artcyclopedia.com/artists/bourgeois_louise.html">artcyclopedia</a> / <a href="http://www.guardian.co.uk/artanddesign/2007/oct/14/art4">guardian</a> / <a href="http://www.nytimes.com/2010/06/01/arts/design/01bourgeois.html">nytimes</a> / <a href="http://www.youtube.com/watch?v=JMdWNwOWnng">youtube</a> / <a href="http://www.youtube.com/watch?v=NXq2tBDH9YM">youtube[2]</a> / <a href="http://channel.tate.org.uk/media/26515653001">channel.tate</a> / <a href="http://www.tate.org.uk/modern/exhibitions/louisebourgeois/default.shtm">tate.org</a> / <a href="http://www.moma.org/collection/artist.php?artist_id=710">moma.org</a> ). </span></strong></p></td></tr></tbody></table><br /><strong><span style="color:#666600;">OPINIONS AND ARTICLES</span></strong><br /><table border="0"><tbody><tr><td height="20" width="400"><p><span style="font-family:arial;font-size:85%;color:#006600;"><strong>- </strong></span></p><p><strong><span style="font-family:Arial;font-size:85%;color:#006600;"><p align="right"><a href="http://artismare2.blogspot.com/">( Go back to the principal site / more news )</a></span></strong></p></td></tr></tbody></table><br /></div><div class="bgtags">Blogalaxia Tags: <a href="http://www.blogalaxia.com/tags/photography" rel="tag">photography</a> / <a href="http://www.blogalaxia.com/tags/design" rel="tag">design</a> / <a href="http://www.blogalaxia.com/tags/illustrations" rel="tag">illustrations</a> / <a href="http://www.blogalaxia.com/tags/photoshop" rel="tag">photoshop</a><br />TAGS: <a href="http://technorati.com/tag/photography" rel="tag">photography</a> / <a href="http://technorati.com/tag/design" rel="tag">design</a> / <a href="http://technorati.com/tag/illustrations" rel="tag">illustrations</a> / <a href="http://technorati.com/tag/photoshop" rel="tag">photoshop</a></div><div style="clear:both; padding-bottom:0.25em"></div>
+    </div></div><li>See more news in:
+                    <a href="http://bilbaoartcity.blogspot.com/?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">Bilbao/Basque Country</a>
+                    / <a href="http://art-in-spain.blogspot.com/?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">Spain</a>
+                    / <a href="http://artismare.blogspot.com/?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">Mundo</a>   
+                <li>Send to:
+                    <a href="http://enchilame.com/submit.php?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">enchílame</a> 
+                    <a href="http://www.blogmemes.com/post.php?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">blogmemes</a>
+                    <a href="http://digg.com/submit?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">digg</a>
+                    <a href="http://www.furl.net/index.jsp?url=http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" target="_blank">furl</a></li>
+    
+    
+    <p class="post-footer"><br>
+      <em>posted by artismare at 
+    <a class="post-footer-link" href="http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html" title="permanent link"> 14:13 </a></em>
+      
+
+         <a class="comment-link" href="http://www.blogger.com/comment.g?blogID=7974634733497258227&amp;postID=2048110794273249604"location.href=http://www.blogger.com/comment.g?blogID=7974634733497258227&postID=2048110794273249604;><span style="text-transform:lowercase">0 Comments</span></a>
+
+      
+  
+  
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+
+
+
+
+
+
+<!-- Begin #sidebar -->
+<div id="sidebar"><div id="sidebar2">
+  
+ 
+  
+    
+        <br><br>
+
+<ul>
+<!-- aumentar y disminuir el tamaño del texto -->
+<li><h5 class="sidebar-title">Increase Text Size: </h5>
+<h1><a href="javascript:ts('body',2)">A+</a> <a href="javascript:ts('body',-1)">a-</a></h1>
+</ul>
+
+ <ul><form><div>
+<input type="checkbox" name="targetbox"
+onclick="targetLinks(this.checked);">
+To open the links of this blog in other window mark the box here.<div>
+</form></ul><br>
+
+  <h2 class="sidebar-title">Links</h2>
+    <ul>
+    	<li><a href="http://news.google.com/">Google News</a></li>
+    	<li><a href="http://help.blogger.com/bin/answer.py?answer=41427">Edit-Me</a></li>
+    	<li><a href="http://help.blogger.com/bin/answer.py?answer=41427">Edit-Me</a></li>
+  </ul>
+  
+<ul>
+<!-- traductor --><font color=Green>To translate, select the language:</font>
+<script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&up_source_language=en&w=160&h=60&title=&border=&output=js"></script>
+<!-- final traductor --></ul>
+  
+ <h2 class="sidebar-title">Previous Posts</h2>
+    <div style="overflow:auto; width:ancho; height:80px;">
+
+    <ul id="recently">
+    
+        <li><a href="http://artismare2-b.blogspot.com/2015/01/annual-agenda-2015-art-and-culture.html">ANNUAL AGENDA - 2015 - ART AND CULTURE</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2014/01/annual-agenda-2014-art-and-culture.html">ANNUAL AGENDA - 2014 - ART AND CULTURE</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2013/01/annual-agenda-2013-art-and-culture.html">ANNUAL AGENDA - 2013 - ART AND CULTURE</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2012/07/art-and-culture-six-month-agenda-jul-12.html">ART AND CULTURE SIX-MONTH AGENDA: JUL [12] - DEC [...</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2012/01/art-and-culture-six-month-agenda-jan-12.html">ART AND CULTURE SIX-MONTH AGENDA: JAN [12] - JUN [...</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2011/02/art-culture-news-about-art-and-culture.html">AGENDA: FEB [11] / MAR / APR / MAY [11]</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2010/10/art-culture-news-about-art-and-culture.html">AGENDA: OCT [10] / NOV / DEC / JAN [11]</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2010/06/art-culture-news-about-art-and-culture.html">AGENDA: JUN [10] / JUL / AUG / SEP [10]</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2010/02/art-culture-news-about-art-and-culture.html">AGENDA: FEB [10] / MAR / APR / MAY [10]</a></li>
+     
+        <li><a href="http://artismare2-b.blogspot.com/2009/10/agenda-oct-09-nov-dec-jan-10.html">AGENDA: OCT [09] / NOV / DEC / JAN [10]</a></li>
+     
+     
+  
+</div>
+</ul>
+    
+     
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+
+
+
+<select name="archivemenu" onchange="document.location.href=this.options[this.selectedIndex].value;" style="background-color:#FFFFFF; color:#000000">
+<option selected> - Click for blog Archives - </option>
+<script type="text/javascript">
+var archives = new Array();
+
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_01_01_archive.html', 'January 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_02_01_archive.html', 'February 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_04_01_archive.html', 'April 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_05_01_archive.html', 'May 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_06_01_archive.html', 'June 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_07_01_archive.html', 'July 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_09_01_archive.html', 'September 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2008_11_01_archive.html', 'November 2008');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2009_01_01_archive.html', 'January 2009');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2009_03_01_archive.html', 'March 2009');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2009_05_01_archive.html', 'May 2009');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2009_10_01_archive.html', 'October 2009');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2010_02_01_archive.html', 'February 2010');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2010_06_01_archive.html', 'June 2010');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2010_10_01_archive.html', 'October 2010');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2011_02_01_archive.html', 'February 2011');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2012_01_01_archive.html', 'January 2012');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2012_07_01_archive.html', 'July 2012');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2013_01_01_archive.html', 'January 2013');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2014_01_01_archive.html', 'January 2014');
+
+archives[archives.length] = new Array('http://artismare2-b.blogspot.com/2015_01_01_archive.html', 'January 2015');
+
+
+for (var i=archives.length-1;i>=0;i--) {
+document.write('<option value=\"' + archives[i][0] + '\">' + archives[i][1] + '</option>');
+}
+
+</script>
+</select>
+
+
+   </ul>
+  
+
+      <p id="powered-by"><a href="http://www.blogger.com"><img src="http://buttons.blogger.com/bloggerbutton1.gif" alt="Powered by Blogger" /></a></p>
+      <p id="blogfeeds">Subscribe to<br />Posts [<a target="_blank" href="http://artismare2-b.blogspot.com/feeds/posts/default" type="application/atom+xml">Atom</a>]</p>
+</ul>
+
+  
+  <!--
+  <p>This is a paragraph of text that could go in the sidebar.</p>
+  -->
+  
+
+
+</div></div>
+<!-- End #sidebar -->
+
+
+</div>
+<!-- End #content -->
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><hr />
+  <p><!--This is an optional footer. If you want text here, place it inside these tags, and remove this comment. -->&nbsp;</p>
+
+</div>
+<!-- End #footer -->
+
+
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/common/js/545917451-csitail.js"></script>
+<script type="text/javascript">BLOG_initCsi('classic_blogspot');</script></body>
+</html>

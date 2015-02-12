@@ -1,0 +1,1463 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<title>Film Club - Filmovi sa prevodom</title>
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=edge,chrome=1">  
+<meta name="title" content="Film Club - Filmovi sa prevodom - online sa prevodom" />
+<meta name="keywords" content="domaci filmovi, televizija, video, filmovi sa prevodom, filmovi online, filmovi uzivo, strani filmovi, novi filmovi, online gledanje, dokumentarni filmovi, crtani filmovi, besplatno gledanje, watch free movies online, cinema movies, online, sa prevodom, za gledanje" />
+<meta name="description" content="Strani filmovi sa prevodom za online gledanje. Potpuno besplatno i bez registracije." />
+<link rel="shortcut icon" href="http://www.film-club.net/uploads/favicon.ico">
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/bootstrap-responsive.min.css">
+<!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/reset.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/app.css">
+<link rel="stylesheet" media="screen" href="http://www.film-club.net/templates/cinemur/css/hd.css" type="text/css" media="screen and (-webkit-min-device-pixel-ratio:1.25)" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/specials.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/actors.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.film-club.net/templates/cinemur/css/uniform.default.min.css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&subset=all" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400normal,700normal&amp;subset=all" rel="stylesheet" type="text/css">
+    
+
+<noscript>
+      <style type="text/css">
+          img.img_frame { opacity:1 !important; }
+        </style>
+    </noscript>
+
+
+<!--[if IE]>
+
+<style type="text/css">
+        * { filter: none !important; }
+      </style>
+
+<![endif]-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.film-club.net/templates/cinemur/js/libs/modernizr-2.5.3.min.js"></script>
+<script type="text/javascript" src="http://www.film-club.net/templates/cinemur/js/open_close.js"></script>
+
+<script type="text/javascript">
+ var MELODYURL = "http://www.film-club.net";
+ var MELODYURL2 = "http://www.film-club.net";
+ var TemplateP = "http://www.film-club.net/templates/cinemur";
+ var _LOGGEDIN_ =  false ;
+</script>
+
+<script type="text/javascript">
+ var pm_lang = {
+	lights_off: "Lights off",
+	lights_on: "Lights on",
+	validate_name: "Please enter a name",
+	validate_username: "Please enter a username",
+	validate_pass: "Please provide a password",
+	validate_captcha: "Please enter the validation code",
+	validate_email: "Please enter a valid email address",
+	validate_agree: "Please accept our policy",
+	validate_name_long: "Your name must consist of at least 2 characters",
+	validate_username_long: "Your username must consist of at least 2 characters",
+	validate_pass_long: "Your password must be at least 5 characters long",
+	validate_confirm_pass_long: "Please enter the same password as above",
+	choose_category: "Izaberite kategoriju",
+ 	validate_select_file: "No file was selected/uploaded.",
+ 	validate_video_title: "Please enter a title for this video",
+	onpage_delete_favorite_confirm: "You are about to remove this video from your favorites list. Click 'Cancel' to stop, 'OK' to delete.",
+	please_wait: "Loading...",
+	// upload video page
+	swfupload_status_uploaded: "Uploaded",
+	swfupload_status_pending: "Continue with the rest of the form.",
+	swfupload_status_queued: "Queued",
+	swfupload_status_uploading: "Uploading...",
+	swfupload_file: "File",
+	swfupload_btn_select: "Select",
+	swfupload_btn_cancel: "Cancel",
+	swfupload_status_error: "Error",
+	swfupload_error_oversize: "Size of the selected file(s) is greater than allowed limit",
+	swfupload_friendly_maxsize: ""
+ }
+</script>
+
+
+<script type="text/javascript" src="http://www.film-club.net/js/swfobject.js"></script>
+<style type="text/css"></style>
+
+	 
+ <!-- PopAds.net Popunder Code for www.film-club.net -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 11212]);
+  _pop.push(['minBid', 0.0005]);
+  _pop.push(['popundersPerIP', 3]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', "http://www.savrsenspoj.com"]);
+  _pop.push(['defaultPerDay', 1]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+ 
+<script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&rotateur=205278"></script>
+
+ 
+ 	<script type="text/javascript">
+function pop(div) {
+document.getElementById(div).style.display = 'block';
+}
+function hide(div) {
+document.getElementById(div).style.display = 'none';
+}
+//To detect escape button
+document.onkeydown = function(evt) {
+evt = evt || window.event;
+if (evt.keyCode == 27) {
+hide('popDiv');
+}
+};
+</script>
+	
+</head>
+ <body class="app">
+  <div class="modal" id="header-login-form" role="dialog" aria-labelledby="header-login-form-label"> <!-- login modal -->
+ <section id="popin-register" class="uiPopin open">
+<section class="content">
+<button class="close" aria-hidden="true" data-dismiss="modal" type="button">
+      ×
+    </button>
+      <!-- /// USER CONNEXION \\\ -->
+	  <section class="signIn"><h3>
+      Dobrodošli
+    </h3><article class="baseline"><p class="nobold">
+      Niste registrovani ?
+    </p>
+	<a class="switch" data-action="Cinemur:showSignup" href="http://www.film-club.net/register.html">
+      Registruj se besplatno →
+    </a></article>
+	<p class="chooseConnect">
+      Login
+    </p>
+	<p></p>
+    <form class="form-horizontal" name="login_form" id="login-form" method="post" action="http://www.film-club.net/login.php">
+  <fieldset>
+  <section class="champs">
+    <input type="text" class="bordered email" id="hocusfocus" name="username" value="" placeholder="Email adresa">
+	<input type="password" class="password" id="pass" name="pass" maxlength="32" autocomplete="off" placeholder="Lozinka">
+  </section>
+ <section class="checkbox">
+        <input type="checkbox" name="remember" value="1" > <small>Zapamti me</small>
+  </section>
+	<input class="submit shadowTestBottom" type="submit" name="Login" value="Uloguj se" data-loading-text="Uloguj se"></input>
+    
+        <span class="signup"><small><a href="http://www.film-club.net/login.html?do=forgot_pass">Zaboravili ste lozinku?</a></small></span>
+        
+  </fieldset>
+</form>	  
+</section></section></section>	
+    </div>           <a id="layer" data-action="Cinemur:closeAll"></a>
+
+    <section id="SmartPlayer"><section class="frontPlayer"></section></section>
+    
+    <section id="container">
+      
+            <header style="width: 98.5%" >
+  
+  <section id="mainToolbar" class="logout">
+   
+    <section id="social_buttons">
+    <div id="user-pane" class="border-radius4">
+        <div class="user-data">
+        <span class="user-avatar">
+                <a href="http://www.film-club.net/login.html"><img src="http://www.film-club.net/templates/cinemur/img/pm-avatar.png" width="40" height="40" alt=""></a>
+        <span class="greet-links">
+        <div class="ellipsis"><strong>Dobrodošli</strong></div>
+        <span class="avatar-img"><a class="primary ajax-modal" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#header-login-form">Uloguj se</a> / <a href="http://www.film-club.net/register.html">Registruj se</a></span>
+        </span>
+        </div>
+                </span>
+
+        
+    </div>
+    
+	    </div>  
+            
+    </section>
+	<img class="separator right" alt="" src="http://www.film-club.net/templates/cinemur/img/headerVertShadow.png"></img>
+	
+	<section id="wraper_notifications" class="">
+	<ul id="type_select" >
+	<li class="open_close" id="#div1"><img src="http://www.film-club.net/templates/cinemur/img/comment-icon.png"></img></li>
+	</ul>
+	<div id="div1"  class="slideDiv" >
+		<img src="http://www.film-club.net/templates/cinemur/img/uiTipModalWhiteArrowLight.png" ></img>
+	<section id="friend_activity" class="class="uiTipModal white"" >
+	<section class="wrapper">
+<section id="notifActionMenu">
+      
+              Poslednji komentari
+            
+    </section>
+	<div id="new_comments">
+		 
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/kill-the-messenger-2014_c5ab268a2.html" class="video_title"><strong>Kill the Messenger (2014)</strong></a> 
+                    <p>moze da se gleda</a></p> by juga11
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/gone-girl-2014_9e4d5fd7b.html" class="video_title"><strong>Gone Girl (2014)</strong></a> 
+                    <p>Čista 10</a></p> by devad1
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/the-illusionist-2006-video_1c2a1883e.html" class="video_title"><strong>The Illusionist (2006)</strong></a> 
+                    <p>ODlican!!</a></p> by alice
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/alexander-and-the-terrible-horrible-no-good-very-bad-day-2014_4a01180f9.html" class="video_title"><strong>Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)</strong></a> 
+                    <p>film za klince!!!</a></p> by cveky1
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/john-wick-2014_15c43469d.html" class="video_title"><strong>John Wick (2014)</strong></a> 
+                    <p>film je odlicaaaan :)</a></p> by филмохоличар
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/the-maze-runner-2014_9dd0c1fca.html" class="video_title"><strong>The Maze Runner (2014)</strong></a> 
+                    <p>nije los film, vredi pogledati</a></p> by филмохоличар
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/son-of-a-gun-2014_6c46f3508.html" class="video_title"><strong>Son of a Gun (2014)</strong></a> 
+                    <p>JAko zanimljiv film ocena 9/10</a></p> by филмохоличар
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/the-giver-2014_ba9b0bd4e.html" class="video_title"><strong>The Giver (2014)</strong></a> 
+                    <p>solidan film al ko voli ovaj zanr vrijedi pogledati.</a></p> by mitar9741
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/son-of-a-gun-2014_6c46f3508.html" class="video_title"><strong>Son of a Gun (2014)</strong></a> 
+                    <p>dobar za10</a></p> by devad1
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+          <table>
+                <tr>
+                   <td>
+				   <a href="http://www.film-club.net/gone-girl-2014_9e4d5fd7b.html" class="video_title"><strong>Gone Girl (2014)</strong></a> 
+                    <p>odlican film</a></p> by mitar9741
+                   </td>
+                </tr>
+          </table><img src='http://film-club.net/uploads/koment.jpg' />
+        </div>
+	</section>
+	</section>
+	</section>
+</div>
+	<img class="separator right" alt="" src="/img/headerVertShadow.png"></img>
+		
+    <a id="logo" href="http://www.film-club.net/" title="Film Club - Filmovi sa prevodom" class="" data-action="Cinemur:loadWall">
+      <img src="http://www.film-club.net/templates/cinemur/img/logo.png" alt="FILM-CLUB" title="" />
+    </a>
+        
+    <section id="wraper_search">
+ <form id="search_form" action="http://www.film-club.net/search.php" method="get" id="search" name="search" onsubmit="return validateSearch('true');">
+        <fieldset>
+          <input id="search_input" size="16" name="keywords" type="text" placeholder="Pronadji film" x-webkit-speech="x-webkit-speech" onwebkitspeechchange="this.form.submit();" onkeyup="lookup(this.value);" onblur="fill();" autocomplete="off">
+          <input class="submit_input" type="submit" value="Submit">
+        </fieldset>
+		<div class="suggestionsBox" id="suggestions" style="display: none;">
+          <div class="suggestionList input-xlarge" id="autoSuggestionsList">
+          </div>
+      </div>
+      </form>
+      <section id="wraper_search_panel" class="uiTipModal white"></section>
+    
+    </section>
+      
+    <img id="loaderIndicator" src="/img/loader_cinemur2.gif" alt="" />
+    
+    
+    
+  </section>
+  
+  <section id="secondToolbar">
+    
+    <a href="http://www.film-club.net/randomizer.php" rel="nofollow" title="" id="launchPlayer" data-action="Cinemur:loadMovie">Player</a>
+    
+    <ol id="mainNavMenu" class="newNavMenu">
+      <li>
+        <a href="http://www.film-club.net/" class="default" title="Početna" data-action="Cinemur:loadWall">
+          <span class="uiNowShowingIcon"></span>
+          Početna
+        </a>
+      </li>
+	  <!--
+	  <li>
+        <a href="http://www.film-club.net/article.html" title="Članci" data-action="Cinemur:loadWall">
+          <span class="uiNowShowingIcon"></span>
+          Članci
+        </a>
+      </li>
+	   -->
+      <li>
+        <a href="http://www.film-club.net/topvideos.html"   title="Najgledanije" data-action="Cinemur:loadWall">
+          <span class="uiComingSoonIcon"></span>
+          Najgledanije
+        </a>
+      </li>
+      <li>
+        <a href="http://www.film-club.net/newvideos.html"   title="Zadnje Dodato" data-action="Cinemur:loadWall">
+          <span class="uiTVWall"></span>
+            Zadnje Dodato
+        </a>
+      </li>
+	  <!--
+	  <li>
+        <a href="/films/vod"  title="Voir tous les films disponibles en VOD" data-action="Cinemur:loadWall">
+          <span class="uiTVWall"></span>
+            VOD
+        </a>
+      </li>
+	  -->
+      <li>
+        <a style="" href="http://www.film-club.net/browse-strani-filmovi-videos-1-date.html"   title="Kategorije" data-action="Cinemur:loadWall">
+          <span class="uiTVWall"></span>
+            Filmovi
+        </a>
+        <section id="wrapperhoverFilters">
+          <p class="uiDownArrow"><span>V</span></p>
+          <section id="filterMenu">
+            <ol>
+	<li><a href="http://www.film-club.net/browse-strani-filmovi-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink current">Svi žanrovi</a>	</li>		
+	<li><a href="http://www.film-club.net/browse-horor-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Horor</a>	</li>
+	<li><a href="http://www.film-club.net/browse-triler-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Triler</a>	</li>
+	<li><a href="http://www.film-club.net/browse-akcija-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Akcija</a>	</li>
+	<li><a href="http://www.film-club.net/browse-western-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Western</a>	</li>
+	<li><a href="http://www.film-club.net/browse-fantazija-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Fantazija</a>	</li>
+	<li><a href="http://www.film-club.net/browse-drama-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Drama</a>	</li>
+	<li><a href="http://www.film-club.net/browse-romance-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Romance</a>	</li>
+	<li><a href="http://www.film-club.net/browse-crime-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Crime</a>	</li>
+	<li><a href="http://www.film-club.net/browse-sport-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Sport</a>	</li>
+	<li><a href="http://www.film-club.net/browse-avantura-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Avantura</a>	</li>
+	<li><a href="http://www.film-club.net/browse-sci-fi-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Sci-Fi</a>	</li>
+	<li><a href="http://www.film-club.net/browse-history-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">History</a>	</li>
+	<li><a href="http://www.film-club.net/browse-war-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">War</a>	</li>
+	<li><a href="http://www.film-club.net/browse-family-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Family</a>	</li>
+	<li><a href="http://www.film-club.net/browse-komedija-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Komedija</a>	</li>
+	<li><a href="http://www.film-club.net/browse-mystery-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Mystery</a>	</li>
+	<li><a href="http://www.film-club.net/browse-music-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Music</a>	</li>
+	<li><a href="http://www.film-club.net/browse-domaci-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Domaći</a>	</li>
+	<li><a href="http://www.film-club.net/browse-dokumentarci-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Dokumentarni</a>	</li>
+	<li><a href="http://www.film-club.net/browse-crtani-videos-1-date.html" data-action="Cinemur:loadGenre" class="genreLink">Crtani</a>	</li>
+			</ol>
+            <!-- <a href="#" data-action="Cinemur:" class="loadMoreFilters"></a> -->
+          </section>
+        </section>
+      </li>
+    </ol>
+
+    <ol id="subNav">
+	  		<li> <a href="http://www.film-club.net/browse-televizija-videos-1-date.html" class="right" data-action="Cinemur:getFriends"><span class="uiFriendsIcon"></span><span class="friendsText">
+      TV
+    </span></a></li>
+      <li><a href="http://www.film-club.net/pages/pomoc.html" title="" id="watchlistLink" class="right" data-action="Cinemur:getWatchlist"><span class="uiTheatersIcon"></span>Uputstvo</a></li>
+	 	      </ol>
+    
+    
+    <section class="uiSplitter"></section>
+    
+  </section>
+          
+</header>       
+      <section id="content">    
+<section id="the_wall">
+	<section id="posters">
+					<ol>	
+			 <li class="film_frame featured featuredHidden">
+			<img src="http://www.film-club.net/uploads/thumbs/b1ad28fba-1.jpg" alt="" height="100%" width="100%">
+				<a href="http://www.film-club.net/the-hobbit-the-battle-of-the-five-armies-2014_b1ad28fba.html" class="launch_ba" data-action="Cinemur:loadMovie"></a>
+				
+				<section class="film_overlay ensalle">
+				
+					<h3>The Hobbit: The Battle of the Five Armies (2014)</h3>
+		           	<span class="director">
+					Hobit: Bitka pet armija</span>
+
+					<p class="description">
+Odlučujuća bitka u Srednjoj Zemlji vodi se krajem 2941. godine i trećeg doba ispod planine Erebor. Ona donosi povratak zmaja Šmauga, koga je poznata družina u prethodnom nastavku proterala iz njegovog staništa. Ljuta i opasnija nego ikada, ova neman će biti stalna pretnja stanovnicima Dugog jezera...
+</p>
+				
+					<p class="clear">Uloge:	Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott, Graham McTavish
+</p>									<p class="right film_cinemurometre">
+										2:24:00								</p>					
+				</section>
+			
+			   	<a href="http://www.film-club.net/the-hobbit-the-battle-of-the-five-armies-2014_b1ad28fba.html" data-action="Cinemur:loadMovie">
+					<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/b1ad28fba-1.jpg" data-wall-position="1" />
+					<b class="compPhotoShadow"></b>
+				</a>
+
+																						<span class="uiIcon icon_new_movie">novo</span>
+		</li>
+		<li class="film_frame  featured">
+
+	<a href="http://www.film-club.net/the-hobbit-the-battle-of-the-five-armies-2014_b1ad28fba.html" class="launch_ba" data-action="Cinemur:loadMovie"></a>	
+	
+ 	<section class="film_overlay">
+		
+		<h3>The Hobbit: The Battle of the Five Armies (2014)</h3>
+		<span class="director">
+								Hobit: Bitka pet armija</span>
+	
+		<p class="clear">Uloge:	Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott, Graham McTavish
+</p>						<p class="right film_cinemurometre">
+							2:24:00						</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-hobbit-the-battle-of-the-five-armies-2014_b1ad28fba.html" class="movielink" data-action="Cinemur:loadMovie">
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/b1ad28fba-1.jpg"  height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																<span class="uiIcon icon_new_movie">novo</span>	
+	</a>     
+	
+</li>
+
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/58bc4d847-1.jpg" alt="Inherent Vice (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/inherent-vice-2014_58bc4d847.html" class="launch_ba" title="Inherent Vice (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Inherent Vice (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;"></span>
+			        <p><span>Dodato <time datetime="2015-02-08T13:49:52+0100" title="Sunday, February 8, 2015 1:49 PM">4 dana pre</time></span></p>
+	
+		<p class="clear">5,409 Pregleda / 2 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">2:28:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/inherent-vice-2014_58bc4d847.html" class="movielink" title="Inherent Vice (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/58bc4d847-1.jpg" alt="Inherent Vice (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																<span class="uiIcon icon_new_movie">Novo</span>	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/728abc07e-1.jpg" alt="Home Sweet Hell (2015)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/home-sweet-hell-2015_728abc07e.html" class="launch_ba" title="Home Sweet Hell (2015)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Home Sweet Hell (2015)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Anthony Burns</span>
+			        <p><span>Dodato <time datetime="2015-02-08T13:17:35+0100" title="Sunday, February 8, 2015 1:17 PM">4 dana pre</time></span></p>
+	
+		<p class="clear">5,346 Pregleda / 5 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:38:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/home-sweet-hell-2015_728abc07e.html" class="movielink" title="Home Sweet Hell (2015)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/728abc07e-1.jpg" alt="Home Sweet Hell (2015)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																<span class="uiIcon icon_new_movie">Novo</span>	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/6c46f3508-1.jpg" alt="Son of a Gun (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/son-of-a-gun-2014_6c46f3508.html" class="launch_ba" title="Son of a Gun (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Son of a Gun (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Julius Avery</span>
+			        <p><span>Dodato <time datetime="2015-02-08T13:02:35+0100" title="Sunday, February 8, 2015 1:02 PM">4 dana pre</time></span></p>
+	
+		<p class="clear">7,938 Pregleda / 21 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:48:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/son-of-a-gun-2014_6c46f3508.html" class="movielink" title="Son of a Gun (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/6c46f3508-1.jpg" alt="Son of a Gun (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																<span class="uiIcon icon_new_movie">Novo</span>	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/5677ddf3b-1.jpg" alt="Birdman (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/birdman-2014_5677ddf3b.html" class="launch_ba" title="Birdman (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Birdman (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Alejandro González Iñárritu</span>
+			        <p><span>Dodato <time datetime="2015-02-08T12:40:47+0100" title="Sunday, February 8, 2015 12:40 PM">4 dana pre</time></span></p>
+	
+		<p class="clear">4,861 Pregleda / 0 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:59:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/birdman-2014_5677ddf3b.html" class="movielink" title="Birdman (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/5677ddf3b-1.jpg" alt="Birdman (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																<span class="uiIcon icon_new_movie">Novo</span>	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/61b93c223-1.jpg" alt="The Gambler (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-gambler-2014_61b93c223.html" class="launch_ba" title="The Gambler (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Gambler (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Rupert Wyatt</span>
+			        <p><span>Dodato <time datetime="2015-02-01T15:15:33+0100" title="Sunday, February 1, 2015 3:15 PM">1 nedelja pre</time></span></p>
+	
+		<p class="clear">13.7k Pregleda / 7 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:51:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-gambler-2014_61b93c223.html" class="movielink" title="The Gambler (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/61b93c223-1.jpg" alt="The Gambler (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/c5ab268a2-1.jpg" alt="Kill the Messenger (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/kill-the-messenger-2014_c5ab268a2.html" class="launch_ba" title="Kill the Messenger (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Kill the Messenger (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Michael Cuesta</span>
+			        <p><span>Dodato <time datetime="2015-02-01T14:59:41+0100" title="Sunday, February 1, 2015 2:59 PM">1 nedelja pre</time></span></p>
+	
+		<p class="clear">11.4k Pregleda / 10 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">2:02:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/kill-the-messenger-2014_c5ab268a2.html" class="movielink" title="Kill the Messenger (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/c5ab268a2-1.jpg" alt="Kill the Messenger (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/03926428a-1.jpg" alt="American Sniper (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/american-sniper-2014_03926428a.html" class="launch_ba" title="American Sniper (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>American Sniper (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Clint Eastwood</span>
+			        <p><span>Dodato <time datetime="2015-02-01T14:26:50+0100" title="Sunday, February 1, 2015 2:26 PM">1 nedelja pre</time></span></p>
+	
+		<p class="clear">16.6k Pregleda / 31 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">2:12:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/american-sniper-2014_03926428a.html" class="movielink" title="American Sniper (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/03926428a-1.jpg" alt="American Sniper (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/1fd897632-1.jpg" alt="Wild Card (2015)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/wild-card-2015_1fd897632.html" class="launch_ba" title="Wild Card (2015)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Wild Card (2015)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Simon West</span>
+			        <p><span>Dodato <time datetime="2015-02-01T14:04:04+0100" title="Sunday, February 1, 2015 2:04 PM">1 nedelja pre</time></span></p>
+	
+		<p class="clear">16.6k Pregleda / 29 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:32:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/wild-card-2015_1fd897632.html" class="movielink" title="Wild Card (2015)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/1fd897632-1.jpg" alt="Wild Card (2015)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/8f383953c-1.jpg" alt="The Humbling (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-humbling-2014_8f383953c.html" class="launch_ba" title="The Humbling (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Humbling (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Barry Levinson</span>
+			        <p><span>Dodato <time datetime="2015-01-27T13:11:08+0100" title="Tuesday, January 27, 2015 1:11 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">14.3k Pregleda / 3 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:52:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-humbling-2014_8f383953c.html" class="movielink" title="The Humbling (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/8f383953c-1.jpg" alt="The Humbling (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/ea97ead0e-1.jpg" alt="American Heist (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/american-heist-2014_ea97ead0e.html" class="launch_ba" title="American Heist (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>American Heist (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Sarik Andreasyan</span>
+			        <p><span>Dodato <time datetime="2015-01-26T21:11:14+0100" title="Monday, January 26, 2015 9:11 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">18.2k Pregleda / 9 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:34:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/american-heist-2014_ea97ead0e.html" class="movielink" title="American Heist (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/ea97ead0e-1.jpg" alt="American Heist (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/9b1bd1410-1.jpg" alt="Everly (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/everly-2014_9b1bd1410.html" class="launch_ba" title="Everly (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Everly (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Joe Lynch</span>
+			        <p><span>Dodato <time datetime="2015-01-26T20:57:54+0100" title="Monday, January 26, 2015 8:57 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">15.3k Pregleda / 4 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:32:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/everly-2014_9b1bd1410.html" class="movielink" title="Everly (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/9b1bd1410-1.jpg" alt="Everly (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/70842e709-1.jpg" alt="Against the Sun (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/against-the-sun-2014_70842e709.html" class="launch_ba" title="Against the Sun (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Against the Sun (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Brian Falk</span>
+			        <p><span>Dodato <time datetime="2015-01-25T12:55:40+0100" title="Sunday, January 25, 2015 12:55 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">16k Pregleda / 23 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:40:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/against-the-sun-2014_70842e709.html" class="movielink" title="Against the Sun (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/70842e709-1.jpg" alt="Against the Sun (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/b8edc07f0-1.jpg" alt="Vice (2015)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/vice-2015_b8edc07f0.html" class="launch_ba" title="Vice (2015)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Vice (2015)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Brian A Miller</span>
+			        <p><span>Dodato <time datetime="2015-01-25T12:46:31+0100" title="Sunday, January 25, 2015 12:46 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">18k Pregleda / 5 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:36:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/vice-2015_b8edc07f0.html" class="movielink" title="Vice (2015)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/b8edc07f0-1.jpg" alt="Vice (2015)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/b14ab5498-1.jpg" alt="St. Vincent (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/st-vincent-2014_b14ab5498.html" class="launch_ba" title="St. Vincent (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>St. Vincent (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Theodore Melfi</span>
+			        <p><span>Dodato <time datetime="2015-01-25T12:28:45+0100" title="Sunday, January 25, 2015 12:28 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">12.3k Pregleda / 11 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:42:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/st-vincent-2014_b14ab5498.html" class="movielink" title="St. Vincent (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/b14ab5498-1.jpg" alt="St. Vincent (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/4005adffd-1.jpg" alt="The Best of Me (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-best-of-me-2014_4005adffd.html" class="launch_ba" title="The Best of Me (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Best of Me (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Michael Hoffman</span>
+			        <p><span>Dodato <time datetime="2015-01-24T15:00:49+0100" title="Saturday, January 24, 2015 3:00 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">15.3k Pregleda / 44 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:58:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-best-of-me-2014_4005adffd.html" class="movielink" title="The Best of Me (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/4005adffd-1.jpg" alt="The Best of Me (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/4a01180f9-1.jpg" alt="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/alexander-and-the-terrible-horrible-no-good-very-bad-day-2014_4a01180f9.html" class="launch_ba" title="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Miguel Arteta</span>
+			        <p><span>Dodato <time datetime="2015-01-24T14:48:16+0100" title="Saturday, January 24, 2015 2:48 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">14.7k Pregleda / 19 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:21:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/alexander-and-the-terrible-horrible-no-good-very-bad-day-2014_4a01180f9.html" class="movielink" title="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/4a01180f9-1.jpg" alt="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/ef8d10a4a-1.jpg" alt="Interstellar (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/interstellar-2014_ef8d10a4a.html" class="launch_ba" title="Interstellar (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Interstellar (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Christopher Nolan</span>
+			        <p><span>Dodato <time datetime="2015-01-24T14:36:40+0100" title="Saturday, January 24, 2015 2:36 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">18.4k Pregleda / 34 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">2:49:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/interstellar-2014_ef8d10a4a.html" class="movielink" title="Interstellar (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/ef8d10a4a-1.jpg" alt="Interstellar (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/681c323a9-1.jpg" alt="Taken 3 (2015)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/taken-3-2015_681c323a9.html" class="launch_ba" title="Taken 3 (2015)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Taken 3 (2015)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Olivier Megaton</span>
+			        <p><span>Dodato <time datetime="2015-01-24T12:44:18+0100" title="Saturday, January 24, 2015 12:44 PM">2 nedelja pre</time></span></p>
+	
+		<p class="clear">22.7k Pregleda / 47 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:44:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/taken-3-2015_681c323a9.html" class="movielink" title="Taken 3 (2015)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/681c323a9-1.jpg" alt="Taken 3 (2015)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/aced920db-1.jpg" alt="The Judge (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-judge-2014_aced920db.html" class="launch_ba" title="The Judge (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Judge (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">David Dobkin</span>
+			        <p><span>Dodato <time datetime="2015-01-18T10:57:40+0100" title="Sunday, January 18, 2015 10:57 AM">3 nedelja pre</time></span></p>
+	
+		<p class="clear">16.3k Pregleda / 28 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">2:21:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-judge-2014_aced920db.html" class="movielink" title="The Judge (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/aced920db-1.jpg" alt="The Judge (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/15c43469d-1.jpg" alt="John Wick (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/john-wick-2014_15c43469d.html" class="launch_ba" title="John Wick (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>John Wick (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Chad Stahelski, David Leitch</span>
+			        <p><span>Dodato <time datetime="2015-01-18T10:46:19+0100" title="Sunday, January 18, 2015 10:46 AM">3 nedelja pre</time></span></p>
+	
+		<p class="clear">20.7k Pregleda / 37 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:41:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/john-wick-2014_15c43469d.html" class="movielink" title="John Wick (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/15c43469d-1.jpg" alt="John Wick (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/f7cc79c95-1.jpg" alt="Dumb and Dumber To (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/dumb-and-dumber-to-2014_f7cc79c95.html" class="launch_ba" title="Dumb and Dumber To (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Dumb and Dumber To (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Bobby Farrelly, Peter Farrelly</span>
+			        <p><span>Dodato <time datetime="2014-12-31T18:08:15+0100" title="Wednesday, December 31, 2014 6:08 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">29.3k Pregleda / 19 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:49:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/dumb-and-dumber-to-2014_f7cc79c95.html" class="movielink" title="Dumb and Dumber To (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/f7cc79c95-1.jpg" alt="Dumb and Dumber To (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/c5d0f100f-1.jpg" alt="Tusk (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/tusk-2014_c5d0f100f.html" class="launch_ba" title="Tusk (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Tusk (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Kevin Smith</span>
+			        <p><span>Dodato <time datetime="2014-12-27T21:39:13+0100" title="Saturday, December 27, 2014 9:39 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">26.2k Pregleda / 4 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:42:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/tusk-2014_c5d0f100f.html" class="movielink" title="Tusk (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/c5d0f100f-1.jpg" alt="Tusk (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/5324186cc-1.jpg" alt="The Drop (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-drop-2014_5324186cc.html" class="launch_ba" title="The Drop (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Drop (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Michaël R. Roskam</span>
+			        <p><span>Dodato <time datetime="2014-12-27T21:28:34+0100" title="Saturday, December 27, 2014 9:28 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">24k Pregleda / 23 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:46:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-drop-2014_5324186cc.html" class="movielink" title="The Drop (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/5324186cc-1.jpg" alt="The Drop (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/f3c134625-1.jpg" alt="The Interview (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-interview-2014_f3c134625.html" class="launch_ba" title="The Interview (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Interview (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Evan Goldberg, Seth Rogen</span>
+			        <p><span>Dodato <time datetime="2014-12-27T21:12:44+0100" title="Saturday, December 27, 2014 9:12 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">22.6k Pregleda / 18 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:52:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-interview-2014_f3c134625.html" class="movielink" title="The Interview (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/f3c134625-1.jpg" alt="The Interview (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/7c77af354-1.jpg" alt="Ask Me Anything (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/ask-me-anything-2014_7c77af354.html" class="launch_ba" title="Ask Me Anything (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Ask Me Anything (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Allison Burnett</span>
+			        <p><span>Dodato <time datetime="2014-12-25T21:39:07+0100" title="Thursday, December 25, 2014 9:39 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">30.7k Pregleda / 13 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:40:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/ask-me-anything-2014_7c77af354.html" class="movielink" title="Ask Me Anything (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/7c77af354-1.jpg" alt="Ask Me Anything (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/fc84dceb9-1.jpg" alt="Goodbye to All That (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/goodbye-to-all-that-2014_fc84dceb9.html" class="launch_ba" title="Goodbye to All That (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Goodbye to All That (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Angus MacLachlan</span>
+			        <p><span>Dodato <time datetime="2014-12-25T21:26:00+0100" title="Thursday, December 25, 2014 9:26 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">24.8k Pregleda / 2 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:27:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/goodbye-to-all-that-2014_fc84dceb9.html" class="movielink" title="Goodbye to All That (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/fc84dceb9-1.jpg" alt="Goodbye to All That (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/2e26028f9-1.jpg" alt="Nightcrawler (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/nightcrawler-2014_2e26028f9.html" class="launch_ba" title="Nightcrawler (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Nightcrawler (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Dan Gilroy</span>
+			        <p><span>Dodato <time datetime="2014-12-22T16:33:10+0100" title="Monday, December 22, 2014 4:33 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">24.8k Pregleda / 13 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:57:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/nightcrawler-2014_2e26028f9.html" class="movielink" title="Nightcrawler (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/2e26028f9-1.jpg" alt="Nightcrawler (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/9e3a17bec-1.jpg" alt="The Guest (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/the-guest-2014_9e3a17bec.html" class="launch_ba" title="The Guest (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>The Guest (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Adam Wingard</span>
+			        <p><span>Dodato <time datetime="2014-12-22T16:22:24+0100" title="Monday, December 22, 2014 4:22 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">28.8k Pregleda / 15 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:39:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/the-guest-2014_9e3a17bec.html" class="movielink" title="The Guest (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/9e3a17bec-1.jpg" alt="The Guest (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/01bc36cf1-1.jpg" alt="Outcast (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/outcast-2014_01bc36cf1.html" class="launch_ba" title="Outcast (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Outcast (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">Nick Powell</span>
+			        <p><span>Dodato <time datetime="2014-12-22T16:09:28+0100" title="Monday, December 22, 2014 4:09 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">27.8k Pregleda / 37 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:38:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/outcast-2014_01bc36cf1.html" class="movielink" title="Outcast (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/01bc36cf1-1.jpg" alt="Outcast (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/82ab4bd78-1.jpg" alt="Guardians of the Galaxy (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/guardians-of-the-galaxy-2014_82ab4bd78.html" class="launch_ba" title="Guardians of the Galaxy (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Guardians of the Galaxy (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">James Gunn</span>
+			        <p><span>Dodato <time datetime="2014-12-20T16:44:25+0100" title="Saturday, December 20, 2014 4:44 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">21.6k Pregleda / 31 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">2:01:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/guardians-of-the-galaxy-2014_82ab4bd78.html" class="movielink" title="Guardians of the Galaxy (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/82ab4bd78-1.jpg" alt="Guardians of the Galaxy (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+				  <li class="film_frame">
+		  <img src="http://www.film-club.net/uploads/thumbs/f2995deca-1.jpg" alt="Annabelle (2014)" height="100%" width="100%">
+		  <a href="http://www.film-club.net/annabelle-2014_f2995deca.html" class="launch_ba" title="Annabelle (2014)" data-action="Cinemur:loadMovie"></a>	
+
+		  <section class="film_overlay">
+		  		
+		<h3>Annabelle (2014)</h3>
+		<span class="director">
+					<b>Režiser:</b> <span style="color: #ffffff;">John R. Leonetti</span>
+			        <p><span>Dodato <time datetime="2014-12-20T16:30:50+0100" title="Saturday, December 20, 2014 4:30 PM">1 mesec pre</time></span></p>
+	
+		<p class="clear">18.2k Pregleda / 15 Sviđanja</p>						<p class="right film_cinemurometre">
+							<span class="pm-label-duration border-radius3 opac7">1:38:00</span>					</p>
+	</section>
+
+	<a href="http://www.film-club.net/annabelle-2014_f2995deca.html" class="movielink" title="Annabelle (2014)" data-action="Cinemur:loadMovie">	
+
+		<img class="img_frame" src="http://www.film-club.net/uploads/thumbs/f2995deca-1.jpg" alt="Annabelle (2014)" height="100%" width="14.3%" data-wall-position="1" />
+		<b class="compPhotoShadow"></b>
+																	
+															
+	</a>     
+	
+</li>
+			    
+		
+    
+</ol>		
+		<div class="clear"></div>
+		
+	</section>
+	
+	<section id="featuredVideos" class="uiWallModule"><span class="paper small"></span>
+<span class="paper middle"></span>
+
+<section id="wrapper_news">
+
+	<section id="socialsub">
+		<p>Pratite nas na Twitteru</p>
+		<iframe allowtransparency="true" style="margin-top:-18px; margin-left:137px;" src="//platform.twitter.com/widgets/follow_button.html?screen_name=filmclubnet" frameborder="0" scrolling="no"></iframe>
+	</section>
+	<a href="" title="" target="_blank" class="right fanpage"></a>
+	<h2><img src="/img/topnews.png"></img>  Aktuelnosti</h2>
+	
+	<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FFILM-Club%2F356901136330&amp;send=false&amp;layout=standard&amp;width=475&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=45" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:475px; height:45px; margin-top:7px;float:left;" allowTransparency="true"></iframe>
+
+	<ol>
+ <table width="100%" height="250" CELLPADDING=10>
+<td width="300" height="250"><!-- BEGIN STANDARD TAG - 300 x 250 - Film Club_ROS: Run-of-site - DO NOT MODIFY -->
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO width="300" height="250" SRC="http://film-club.net/baneri/adcash300x250_1.html"></IFRAME>
+<!-- END TAG -->
+</td>
+<td width="300" height="250">		
+<!-- BEGIN STANDARD TAG - 300 x 250 - Film Club_ROS: Run-of-site - DO NOT MODIFY -->
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO width="300" height="250" SRC="http://film-club.net/baneri/aff300x250.html"></IFRAME>
+<!-- END TAG -->
+</td>
+<td width="300" height="250">			
+<!-- BEGIN STANDARD TAG - 300 x 250 - Film Club_ROS: Run-of-site - DO NOT MODIFY -->
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO width="300" height="250" SRC="http://film-club.net/baneri/aff300x250.html"></IFRAME>
+<!-- END TAG -->
+	</td>
+<td width="300" height="250">		
+<!-- BEGIN STANDARD TAG - 300 x 250 - Film Club_ROS: Run-of-site - DO NOT MODIFY -->
+<IFRAME FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO width="300" height="250" SRC="http://film-club.net/baneri/adcash300x250_2.html"></IFRAME>
+<!-- END TAG -->
+	</td></table>		<img src="http://www.film-club.net/ajax.php?p=stats&do=show&aid=15&at=1" width="1" height="1" border="0" />
+						</ol>
+	
+</section></section>
+	
+	<section class="uiSplitter firstone"></section>
+</section>      </section>
+      
+    </section>
+    
+    <footer>
+	
+	<section class="right">
+		<ol>
+					<li><a href="http://www.film-club.net/index.html">Početna</a> | </li>
+        <li><a href="http://www.film-club.net/contact_us.html">Kontaktirajte nas</a> | </li>
+        <li><a href="http://www.film-club.net/register.html">Registruj se</a> | </li>                                      <li><a href="http://www.film-club.net/pages/disclaimer.html">Disclaimer</a> | </li>
+                      <li><a href="http://www.film-club.net/pages/pomoc.html">Uputstvo</a> | </li>
+                      <li><a href="http://www.film-club.net/pages/dmca.html">DMCA</a> | </li>
+                  		<li><a href="http://filmska.info/" target="_blank" title="Filmska baza" >Filmska baza</a> | </li>
+		<li><a href="http://savrsenspoj.com/" target="_blank" title="Savrsen spoj">Savršen spoj</a> | </li>
+		<li><a  href="http://muzika.xyz" target="_blank" title ="Muzika">Muzika.xyz</a> | </li> 
+		</ol>
+		
+		<p>
+			<span>Copyright © 2014</span>
+			<a href="https://twitter.com/filmclubnet" class="icon_twitter" target="_blank">Twitter</a>
+			<a href="http://www.facebook.com/pages/FILM-Club/356901136330" class="icon_fb" target="_blank">Facebook</a>
+			<a href="" class="icon_gplus" rel="publisher">Google+</a>
+		</p>
+	</section>
+	
+	<img src="http://www.film-club.net/templates/cinemur/img/logo.png" alt="Film-CLUB">
+	<p>Vaša online videoteka</p>
+	</br></br></br>
+	<center>
+	
+	</center>
+</footer>    
+
+
+<script src="http://www.film-club.net/templates/cinemur/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.cookee.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.validate.min.js" type="text/javascript"></script>
+
+
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.carouFredSel.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.touchwipe.min.js" type="text/javascript"></script>
+
+
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.maskedinput-1.3.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.tagsinput.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.uniform.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/jquery.ba-dotimeout.min.js" type="text/javascript"></script>
+
+<script src="http://www.film-club.net/js/melody.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/melody.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/lightbox.min.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#pm-ul-wn-videos").carouFredSel({
+		items				: 4,
+		circular			: false,
+		direction			: "left",
+		height				: null,
+		width       		: null,
+		infinite			: false,
+		responsive			: true,
+		prev	: {	
+			button	: "#pm-slide-prev",
+			key		: "left"
+		},
+		next	: { 
+			button	: "#pm-slide-next",
+			key		: "right"
+		},
+	scroll		: {
+		items			: null,		//	items.visible
+		fx				: "scroll",
+		easing			: "swing",
+		duration		: 500,
+		wipe			: true,
+		event			: "click",
+	},
+	auto: false
+				
+	});	
+});
+
+$(document).ready(function() {
+	$("#pm-ul-top-videos").carouFredSel({
+	items: 5,
+	direction: "up",
+	width: "variable",
+	height:  "variable",
+	circular: false,
+	infinite: false,
+	scroll: {
+		fx: "fade",
+		event: "click",
+		wipe: true,
+		duration: 150
+	},
+	auto: false,
+		prev	: {	
+			button	: "#pm-slide-top-prev",
+			key		: "left"
+		},
+		next	: { 
+			button	: "#pm-slide-top-next",
+			key		: "right"
+		}
+	});	
+});
+</script>
+
+    
+    <script type="text/javascript">
+    
+        $('#header-login-form').on('shown', function () {
+            $('.hocusfocus').focus();
+        });
+    
+    </script>
+    
+
+<script src="http://www.film-club.net/templates/cinemur/js/waypoints.min.js" type="text/javascript"></script>
+<script src="http://www.film-club.net/templates/cinemur/js/melody.social.min.js" type="text/javascript"></script> 
+
+
+
+<script type="text/javascript" >
+$(document).ready(function(){
+
+   $('.open_close').openclose({			 
+		speed: 800,  // speed of the sliding animation
+		easing: '',  // the animation effect - slow and easing - Remove this line if you dont want your animation.
+		changeText: 0, // if you dont want the button text to change, set this to 0
+		openText: 'Open', // the button text to show when a div is closed
+		closeText: 'Close' // the button text to show when a div is open
+					 
+	}); 
+
+});
+</script>            
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="free web counter" ><script  type="text/javascript" >
+try {Histats.start(1,949744,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?949744&101" alt="free web counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12499147-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html> 

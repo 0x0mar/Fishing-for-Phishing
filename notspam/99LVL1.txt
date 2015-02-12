@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html  lang="en-US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>DailyTekk | tech &amp; app discovery</title>
+
+		<!--<link href="http://dailytekk.com/wp-content/themes/DailyTekk/sass/style.css" rel="stylesheet">-->
+
+	<link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,100' rel='stylesheet' type='text/css'>
+
+							
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<link rel="alternate" type="application/rss+xml" title="DailyTekk &raquo; Blog Comments Feed" href="http://dailytekk.com/blog/feed/" />
+<link rel='stylesheet' id='fancybox2-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_reset-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/reset.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_newtheme2-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme2/css/newtheme2.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://dailytekk.com/wp-content/themes/DailyTekk/style.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://dailytekk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailytekk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailytekk.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='canonical' href='http://dailytekk.com/' />
+<link rel='shortlink' href='http://wp.me/P2kxT1-3gN' />
+<style type='text/css'>img#wpstats{display:none}</style>	<meta property="og:site_name" content="DailyTekk" />
+	<meta property="og:title" content="Blog" />
+			<meta property="og:url" content="http://dailytekk.com/" />
+		<meta property="og:type" content="website" />
+				<meta property="og:description" content="" />
+			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '1575089616085357',
+					xfbml      : true,
+					version    : 'v2.2'
+				});
+			};
+
+			(function(d, s, id){
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	
+</head>
+			<body>
+		<!-- BuySellAds Ad Code -->
+		<script type="text/javascript">
+			(function(){
+				var bsa = document.createElement('script');
+				bsa.type = 'text/javascript';
+				bsa.async = true;
+				bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+				(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+			})();
+		</script>
+		<!-- End BuySellAds Ad Code -->
+		<input type="checkbox" name="menu-toggle" id="menu-toggle" class="checkbox-toggle" />
+		<label for="menu-toggle" class="menu-toggle">
+			<div class="bar-icon-wrapper">
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+			</div>
+		</label>
+		<div id="page" class="page-wrapper">
+			<header class="header">
+								<div class="container">
+					<a href="http://dailytekk.com" class="logo"><svg width="35" height="36" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M0,28.8590495 L0,35.0376096 L6.17862593,35.0376096 C3.71067937,33.4351947 1.602432,31.3269698 0,28.8590495"></path>
+	<path d="M26.0255607,28.8241236 C25.9498934,28.881153 25.8727352,28.9363187 25.7955769,28.9914845 L25.7355649,29.0343497 C23.3216664,30.7672241 20.4738924,31.6830495 17.5001305,31.6830495 C9.70118075,31.6830495 3.35556493,25.3382468 3.35481944,17.5393801 L3.35481944,17.4681865 L3.35481944,17.467441 L3.35481944,12.1637048 L3.35481944,11.219551 L3.35481944,7.86487914 L3.35481944,6.99900105 L3.35481944,3.39235603 L17.5001305,3.39235603 C25.2998257,3.39235603 31.6454415,9.73790428 31.6454415,17.5375164 C31.6458142,22.0070576 29.5972061,26.1206308 26.0255607,28.8241236 M17.5005032,0.0376841475 L17.5005032,0.0376841475 L0.000111823587,0.0376841475 L0.000111823587,17.5375164 L0.000111823587,17.5393801 C0.00123005946,27.2034443 7.83559057,35.0377214 17.5001305,35.0377214 C21.3039961,35.0377214 24.8212207,33.8203483 27.6921049,31.7594615 C27.8121289,31.6733583 27.9325256,31.5880005 28.0499404,31.4989153 C32.2712808,28.3037767 35.0001491,23.2400859 35.0001491,17.5378892 C35.0005218,7.87270671 27.1654158,0.0376841475 17.5005032,0.0376841475"></path>
+	<path d="M17.5004659,11.2199238 C18.4159284,11.2199238 19.2836794,11.4197131 20.0697992,11.7715809 C20.3396668,11.8923491 20.598352,12.0328726 20.8466004,12.1886785 C21.0791935,12.3347931 21.3058226,12.4902262 21.5167964,12.6642964 C22.9216734,13.8238946 23.8181259,15.5780153 23.8181259,17.5378892 C23.8181259,18.5368359 23.5788234,19.4787532 23.1643306,20.3192849 C22.1333171,22.4103637 19.985186,23.8558545 17.5000932,23.8558545 L17.4978567,23.8558545 C14.0152975,23.8547363 11.1824333,21.0211568 11.1824333,17.5382619 L7.82772565,17.5382619 C7.82772565,22.8237338 12.0908135,27.1337417 17.3603137,27.2094082 L17.3755963,27.2105264 L17.5000932,27.2105264 C21.2048086,27.2105264 24.5282056,25.1384574 26.1727579,21.8031681 C26.8362445,20.4579447 27.1724607,19.0228906 27.1724607,17.5378892 C27.1724607,14.6439255 25.8894714,11.9244049 23.6522542,10.0774716 C23.352567,9.82997138 23.0178417,9.5910442 22.6301866,9.34764412 C22.2421588,9.10387129 21.8414576,8.88917229 21.4396382,8.70951097 C20.1879595,8.14928077 18.8624772,7.86562462 17.5000932,7.86562462 L15.4611764,7.86562462 L15.4611764,11.2202965 L17.5004659,11.2202965 L17.5004659,11.2199238 Z"></path>
+	<path d="M7.8276511,11.2199238 L7.8276511,15.8232791 L11.1823587,15.8232791 L11.1823587,11.2199238 L13.7468463,11.2199238 L13.7468463,7.86525188 L11.1823587,7.86525188 L7.8276511,7.86525188 L5.06933595,7.86525188 L5.06933595,11.2199238 L7.8276511,11.2199238 Z"></path>
+</svg>
+<span class="logo__title">DailyTekk</span></a>
+					<div class="menu-wrapper">
+						<form method="get" id="searchform" class="searchform" action="http://dailytekk.com" >
+	<input type="text" name="s" id="s" class="search__input" placeholder="Search..."/>
+	<input type="submit" value="search" id="searchsubmit" class="search__btn" />
+</form>
+
+						<ul class="menu"><li id="menu-item-13421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13421"><a href="http://dailytekk.com/category/features/">Features</a></li><li id="menu-item-13419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13419"><a href="http://dailytekk.com/category/lists/">Lists</a></li><li id="menu-item-13420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13420"><a href="http://dailytekk.com/category/reviews/">Reviews</a></li><li id="menu-item-13422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13422"><a href="http://dailytekk.com/products/">Products</a></li><li id="menu-item-13423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13423"><a href="http://dailytekk.com/category/community/">Community</a></li>
+</ul>					</div>
+				</div>
+			</header>
+			<main class="page-content">
+
+
+
+	<div class="ad ad--big">
+		<div class="container">
+			<!-- DT 970 x 90 Large Leaderboard -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:970px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6229458023"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+
+	<div class="container front">
+							<div class="featured-post col-two-thirds m-hide">
+									<figure class="figure">
+												<a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">
+							<img width="630" height="250" class="attachment-featured-size wp-post-image" alt="15014456652_3fcefa1de8_k" srcset="http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-630x250.jpg, http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-630x250@2x.jpg 2x" />						</a>
+												<figcaption class="figcaption">
+							<h2 class="post__title"><a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">T-Mobile Has Horrible Customer Service: Here&#8217;s How To Get A Resolution</a></h2>
+						</figcaption>
+					</figure>
+							</div><!--
+					--><div class=" col-one-third m-hide ad-wrapper">
+													<!-- DT AYL 300x250 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:250px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="3721281629"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>							</div>
+															<div class="ad ad--text ad--front m-hide">
+													<div class="follow-wrapper">
+								<iframe class="twitter-iframe" allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=DailyTekk&show_count=false" style="width:125px; height:20px;"></iframe>
+							</div>
+												<p><a href="http://dailytekk.com/2015/02/09/introducing-stack-task-management-done-right-for-programmers-and-designers/">Introducing Stack: Task Management Done Right for Programmers and Designers</a></p>
+					</div>
+																			<div class="col-first">
+				<h2 class="section__title"><a href="">Features</a></h2>
+				<div class="slider slider-features">
+																							<div class="slider-features__item front__item">
+							<div class="img ">
+																	<a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="15014456652_3fcefa1de8_k" srcset="http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-140x140.jpg, http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-140x140@2x.jpg 2x" />																					<img width="630" height="250" class="s-hide wp-post-image" alt="15014456652_3fcefa1de8_k" srcset="http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-630x250.jpg, http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-630x250@2x.jpg 2x" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">T-Mobile Has Horrible Customer Service: Here&#8...</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img ">
+																	<a href="http://dailytekk.com/2015/02/09/roost-is-the-marketing-platform-publishers-cant-ignore/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="Screen Shot 2015-02-09 at 5.30.21 PM" srcset="http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-140x140.png, http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-140x140@2x.png 2x" />																					<img width="630" height="250" class="s-hide wp-post-image" alt="Screen Shot 2015-02-09 at 5.30.21 PM" srcset="http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-630x250.png, http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-630x250@2x.png 2x" />											<img width="390" height="250" class="s-hide wp-post-image" alt="Screen Shot 2015-02-09 at 5.30.21 PM" srcset="http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-390x250.png, http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-390x250@2x.png 2x" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2015/02/09/roost-is-the-marketing-platform-publishers-cant-ignore/">Roost Is The Marketing Platform Publishers Can’...</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img sponsored">
+																	<a href="http://dailytekk.com/2015/02/09/introducing-stack-task-management-done-right-for-programmers-and-designers/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="unnamed" srcset="http://dailytekk.com/wp-content/uploads/2015/02/unnamed-140x140.png, http://dailytekk.com/wp-content/uploads/2015/02/unnamed-140x140@2x.png 2x" />																					<img width="630" height="250" src="http://dailytekk.com/wp-content/uploads/2015/02/unnamed-630x250.png" class="s-hide wp-post-image" alt="unnamed" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2015/02/09/introducing-stack-task-management-done-right-for-programmers-and-designers/">Introducing Stack: Task Management Done Right f...</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img ">
+																	<a href="http://dailytekk.com/2015/01/05/focus-folder-ultimate-iphone-productivity-technique-free/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="IMG_5158" srcset="http://dailytekk.com/wp-content/uploads/2015/01/IMG_5158-e1420480829152-140x140.png, http://dailytekk.com/wp-content/uploads/2015/01/IMG_5158-e1420480829152-140x140@2x.png 2x" />																					<img width="630" height="250" src="http://dailytekk.com/wp-content/uploads/2015/01/IMG_5158-e1420480829152-630x250.png" class="s-hide wp-post-image" alt="IMG_5158" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2015/01/05/focus-folder-ultimate-iphone-productivity-technique-free/">Focus Folder: the Ultimate iPhone Productivity ...</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img sponsored">
+																	<a href="http://dailytekk.com/2014/12/30/tech-sense-college-tips/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="" srcset="http://dailytekk.com/wp-content/uploads/2014/12/3476669265_ec0d758217_o-e1419977693167-140x140.jpg, http://dailytekk.com/wp-content/uploads/2014/12/3476669265_ec0d758217_o-e1419977693167-140x140@2x.jpg 2x" />																					<img width="630" height="250" src="http://dailytekk.com/wp-content/uploads/2014/12/3476669265_ec0d758217_o-e1419977693167-630x250.jpg" class="s-hide wp-post-image" alt="" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2014/12/30/tech-sense-college-tips/">Tech-Sense College Tips</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img ">
+																	<a href="http://dailytekk.com/2014/11/26/why-wordpress-is-the-best-cms-for-dailytekk-and-your-website-too/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="wordpress-website-development-hyderabad" srcset="http://dailytekk.com/wp-content/uploads/2014/11/wordpress-website-development-hyderabad-140x140.jpg, http://dailytekk.com/wp-content/uploads/2014/11/wordpress-website-development-hyderabad-140x140@2x.jpg 2x" />																					<img width="630" height="250" class="s-hide wp-post-image" alt="wordpress-website-development-hyderabad" srcset="http://dailytekk.com/wp-content/uploads/2014/11/wordpress-website-development-hyderabad-630x250.jpg, http://dailytekk.com/wp-content/uploads/2014/11/wordpress-website-development-hyderabad-630x250@2x.jpg 2x" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2014/11/26/why-wordpress-is-the-best-cms-for-dailytekk-and-your-website-too/">Why WordPress Is The Best CMS For DailyTekk (An...</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img ">
+																	<a href="http://dailytekk.com/2014/11/25/how-to-free-up-gigs-of-space-on-your-mac-in-under-30-seconds/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="diskapp-step2" srcset="http://dailytekk.com/wp-content/uploads/2014/11/diskapp-step2-140x140.jpg, http://dailytekk.com/wp-content/uploads/2014/11/diskapp-step2-140x140@2x.jpg 2x" />																					<img width="630" height="250" src="http://dailytekk.com/wp-content/uploads/2014/11/diskapp-step2-630x250.jpg" class="s-hide wp-post-image" alt="diskapp-step2" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2014/11/25/how-to-free-up-gigs-of-space-on-your-mac-in-under-30-seconds/">How To Free Up Gigs Of Space On Your Mac In Und...</a></h6>
+						</div>
+																							<div class="slider-features__item front__item">
+							<div class="img ">
+																	<a href="http://dailytekk.com/2014/11/25/this-is-the-best-bible-study-app-hands-down/">
+										<img width="140" height="140" class="m-hide wp-post-image" alt="Screen Shot 2014-11-25 at 10.45.40 AM" srcset="http://dailytekk.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-25-at-10.45.40-AM-e1416937671180-140x140.png, http://dailytekk.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-25-at-10.45.40-AM-e1416937671180-140x140@2x.png 2x" />																					<img width="630" height="250" src="http://dailytekk.com/wp-content/uploads/2014/11/Screen-Shot-2014-11-25-at-10.45.40-AM-e1416937671180-630x250.png" class="s-hide wp-post-image" alt="Screen Shot 2014-11-25 at 10.45.40 AM" />																			</a>
+															</div>
+							<h6 class="post-title"><a href="http://dailytekk.com/2014/11/25/this-is-the-best-bible-study-app-hands-down/">This Is The Best Bible Study App, Hands-Down</a></h6>
+						</div>
+									</div>
+				<a href="http://dailytekk.com/category/features/" class="more-items">More Features</a>
+			</div><!--
+				--><div class="tab col-second">
+			<input type="radio" name="tab-toggle" id="lists-toggle" class="radio-toggle" checked="checked"/>
+			<input type="radio" name="tab-toggle" id="reviews-toggle" class="radio-toggle" />
+			<input type="radio" name="tab-toggle" id="products-toggle" class="radio-toggle" />
+			<ul class="tab__labels">
+				<li>
+					<label for="lists-toggle" class="tab__toogle lists-toggle">Lists</label>
+				</li>
+				<li>
+					<label for="reviews-toggle" class="tab__toogle reviews-toggle">Reviews</label>
+				</li>
+				<li>
+					<label for="products-toggle" class="tab__toogle products-toggle">Products</label>
+				</li>
+			</ul>
+			<div class="col-small-first">
+																		<div class="tab__item" data-tab="tab-lists">
+						<h2 class="section__title"><a href="http://dailytekk.com/category/lists/">Lists</a></h2>
+						<div class="tab__content">
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2015-01-12 at 7.24.25 AM" srcset="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-150x150.png, http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">10 Stylish and High-Quality Internet Radios</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/01/05/the-5-best-wearable-action-cameras-available-now-2015/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="CHDHX-401_life2" srcset="http://dailytekk.com/wp-content/uploads/2015/01/CHDHX-401_life2-150x150.jpg, http://dailytekk.com/wp-content/uploads/2015/01/CHDHX-401_life2-150x150@2x.jpg 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/01/05/the-5-best-wearable-action-cameras-available-now-2015/">The 5 Best Wearable &#038; Action Cameras Avail...</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/01/04/the-6-best-4k-ultra-hd-tvs-for-the-ultimate-tv-movie-and-gaming-experience-2015/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="awesomebest4ktvs" srcset="http://dailytekk.com/wp-content/uploads/2015/01/awesomebest4ktvs-150x150.jpg, http://dailytekk.com/wp-content/uploads/2015/01/awesomebest4ktvs-150x150@2x.jpg 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/01/04/the-6-best-4k-ultra-hd-tvs-for-the-ultimate-tv-movie-and-gaming-experience-2015/">The 6 Best 4K Ultra HD TVs for the Ultimate TV,...</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/01/04/the-5-best-coolest-and-most-useful-chromebooks-you-can-buy-2015/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2015-01-04 at 6.03.15 AM" srcset="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-04-at-6.03.15-AM-150x150.png, http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-04-at-6.03.15-AM-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/01/04/the-5-best-coolest-and-most-useful-chromebooks-you-can-buy-2015/">The 5 Best, Coolest and Most Useful Chromebooks...</a></h6>
+							</div>
+												<a href="http://dailytekk.com/category/lists/" class="more-items">More Lists</a>
+						</div>
+					</div>
+				
+																		<div class="tab__item" data-tab="tab-reviews">
+						<h2 class="section__title"><a href="http://dailytekk.com/category/reviews/">Reviews</a></h2>
+						<div class="tab__content">
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/02/10/grovemade-maple-iphone-6-plus-case-review/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="iPhone_6_Phase_14519Captureone_2048x2048" srcset="http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-150x150.jpg, http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-150x150@2x.jpg 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/02/10/grovemade-maple-iphone-6-plus-case-review/">Grovemade Maple iPhone 6 Plus Case Review</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/01/12/mujjo-leather-wallet-case-80-for-iphone-6-6-plus-review/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="mujjoleatherwallet80iphone6" srcset="http://dailytekk.com/wp-content/uploads/2015/01/mujjoleatherwallet80iphone6-150x150.png, http://dailytekk.com/wp-content/uploads/2015/01/mujjoleatherwallet80iphone6-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/01/12/mujjo-leather-wallet-case-80-for-iphone-6-6-plus-review/">Mujjo Leather Wallet Case 80° for iPhone 6 / 6 ...</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2015/01/04/chop-chop-psd-to-html-service-review/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="chopchoppsdtohtml" srcset="http://dailytekk.com/wp-content/uploads/2015/01/chopchoppsdtohtml-150x150.png, http://dailytekk.com/wp-content/uploads/2015/01/chopchoppsdtohtml-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2015/01/04/chop-chop-psd-to-html-service-review/">Chop Chop PSD to HTML Review</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2014/12/16/stance-the-coolest-little-iphone-tripod-stand-ive-used-so-far/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2014-12-16 at 6.33.05 AM" srcset="http://dailytekk.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-6.33.05-AM-150x150.png, http://dailytekk.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-16-at-6.33.05-AM-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2014/12/16/stance-the-coolest-little-iphone-tripod-stand-ive-used-so-far/">Stance: the coolest little iPhone tripod &#038;...</a></h6>
+							</div>
+												<a href="http://dailytekk.com/category/reviews/" class="more-items">More Reviews</a>
+						</div>
+					</div>
+																	<div class="ad-wrapper">
+						<!-- DT AYL 300x250 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:250px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="3721281629"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>					</div>
+																						<div class="tab__item" data-tab="tab-community">
+						<h2 class="section__title"><a href="http://dailytekk.com/category/community/">Community</a></h2>
+						<div class="tab__content">
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2014/10/17/bundll-a-better-private-space-than-moments/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="" srcset="http://dailytekk.com/wp-content/uploads/2014/10/Screen-Shot-2014-10-15-at-9.49.41-AM-150x150.png, http://dailytekk.com/wp-content/uploads/2014/10/Screen-Shot-2014-10-15-at-9.49.41-AM-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2014/10/17/bundll-a-better-private-space-than-moments/">Bundll: A better private space than Moments</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2014/07/14/social-media-business-strategy/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="7910370882_eeaed9b952_k" srcset="http://dailytekk.com/wp-content/uploads/2014/07/7910370882_eeaed9b952_k-150x150.jpg, http://dailytekk.com/wp-content/uploads/2014/07/7910370882_eeaed9b952_k-150x150@2x.jpg 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2014/07/14/social-media-business-strategy/">11 better ways to use social media for business</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2014/03/05/7-apps-that-might-save-your-chaotic-life/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="" srcset="http://dailytekk.com/wp-content/uploads/2014/03/shutterstock_66710941-e1394031726589-150x150.jpg, http://dailytekk.com/wp-content/uploads/2014/03/shutterstock_66710941-e1394031726589-150x150@2x.jpg 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2014/03/05/7-apps-that-might-save-your-chaotic-life/">7 Apps That Might Save Your Chaotic Life</a></h6>
+							</div>
+																				<div class="front__item flag">
+																	<div class="flag--img img ">
+									<a href="http://dailytekk.com/2014/02/04/top-five-mistakes-to-avoid-in-mobile-ux-design/">
+										<img width="150" height="150" class="attachment-thumbnail wp-post-image" alt="" srcset="http://dailytekk.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-04-at-10.37.11-AM-150x150.png, http://dailytekk.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-04-at-10.37.11-AM-150x150@2x.png 2x" />									</a>
+									</div>
+																<h6 class="post-title flag--body"><a href="http://dailytekk.com/2014/02/04/top-five-mistakes-to-avoid-in-mobile-ux-design/">Top Five Mistakes to Avoid in Mobile UX Design</a></h6>
+							</div>
+												<a href="http://dailytekk.com/category/community/" class="more-items">More Community</a>
+						</div>
+					</div>
+							</div><!--
+										--><div class="tab__item col-small-second" data-tab="tab-products">
+					<h2 class="section__title"><a href="http://dailytekk.com/products/">Products</a></h2>
+					<div class="tab__content widget widget_dailytekk_products">
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://itunes.apple.com/us/app/moovit-bus-train-metro-subway/id498477945?mt=8#">Moovit</a></h2>
+																	 <h3 class="product__description">Live Public Transit Directions</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13280" data-social-counter="+1">
+									<span class="social--counter">7</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13280"
+									data-url="http://dailytekk.com/products/"
+									data-text="Moovit - Live Public Transit Directions"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fmoovit%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/moovit/"
+									data-post_id="13280"
+									data-text="Moovit - Live Public Transit Directions"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fmoovit%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://itunes.apple.com/app/silver/id915620447">Silver</a></h2>
+																	 <h3 class="product__description">Compare hundreds of Credit Cards in seconds</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13272" data-social-counter="+1">
+									<span class="social--counter">6</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13272"
+									data-url="http://dailytekk.com/products/"
+									data-text="Silver - Compare hundreds of Credit Cards in seconds"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsilver%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/silver/"
+									data-post_id="13272"
+									data-text="Silver - Compare hundreds of Credit Cards in seconds"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsilver%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://play.google.com/store/apps/details?id=co.mindquake.nester">Nester</a></h2>
+																	 <h3 class="product__description">Perfect kids mode with time education</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13275" data-social-counter="+1">
+									<span class="social--counter">5</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13275"
+									data-url="http://dailytekk.com/products/"
+									data-text="Nester - Perfect kids mode with time education"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnester%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/nester/"
+									data-post_id="13275"
+									data-text="Nester - Perfect kids mode with time education"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnester%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://itunes.apple.com/us/app/contacts+-for-iphone/id622367004">Contacts+</a></h2>
+																	 <h3 class="product__description">A smart & beautiful contacts app</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13276" data-social-counter="+1">
+									<span class="social--counter">2</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13276"
+									data-url="http://dailytekk.com/products/"
+									data-text="Contacts+ - A smart & beautiful contacts app"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fcontacts%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/contacts/"
+									data-post_id="13276"
+									data-text="Contacts+ - A smart & beautiful contacts app"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fcontacts%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://www.fullcontact.com/gmail/">FullContact</a></h2>
+																	 <h3 class="product__description">Your Gmail. On steroids.</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13285" data-social-counter="+1">
+									<span class="social--counter">2</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13285"
+									data-url="http://dailytekk.com/products/"
+									data-text="FullContact - Your Gmail. On steroids."
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffullcontact%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/fullcontact/"
+									data-post_id="13285"
+									data-text="FullContact - Your Gmail. On steroids."
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffullcontact%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://itunes.apple.com/us/app/truly-wireless-business-phone/id940117014?ls=1&mt=8">Truly</a></h2>
+																	 <h3 class="product__description">Run your business with your cellphone</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13283" data-social-counter="+1">
+									<span class="social--counter">1</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13283"
+									data-url="http://dailytekk.com/products/"
+									data-text="Truly - Run your business with your cellphone"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftruly%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/truly/"
+									data-post_id="13283"
+									data-text="Truly - Run your business with your cellphone"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftruly%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://itunes.apple.com/us/app/fleksy-keyboard-happy-typing/id520337246?ls=1&mt=8">Fleksy Keyboard</a></h2>
+																	 <h3 class="product__description">A fun, customizable way to type</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13284" data-social-counter="+1">
+									<span class="social--counter">1</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13284"
+									data-url="http://dailytekk.com/products/"
+									data-text="Fleksy Keyboard - A fun, customizable way to type"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffleksy-keyboard%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/fleksy-keyboard/"
+									data-post_id="13284"
+									data-text="Fleksy Keyboard - A fun, customizable way to type"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffleksy-keyboard%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://play.google.com/store/apps/details?id=com.textra">Textra SMS</a></h2>
+																	 <h3 class="product__description">The 1st messaging app featuring Lollipop Material Design</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13274" data-social-counter="+1">
+									<span class="social--counter"></span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13274"
+									data-url="http://dailytekk.com/products/"
+									data-text="Textra SMS - The 1st messaging app featuring Lollipop Material Design"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftextra-sms%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/textra-sms/"
+									data-post_id="13274"
+									data-text="Textra SMS - The 1st messaging app featuring Lollipop Material Design"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftextra-sms%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://itunes.apple.com/us/app/dash-smarter-driving-every/id904108101">Dash</a></h2>
+																	 <h3 class="product__description">Smarter. Driving. Every Day.</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13278" data-social-counter="+1">
+									<span class="social--counter"></span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13278"
+									data-url="http://dailytekk.com/products/"
+									data-text="Dash - Smarter. Driving. Every Day."
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdash-2%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/dash-2/"
+									data-post_id="13278"
+									data-text="Dash - Smarter. Driving. Every Day."
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdash-2%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+											
+						<div class="product product--item product--count front__item ">
+							<div class="product__text">
+								<h2 class="product__title"><a href="https://www.sendsonar.com">Sonar</a></h2>
+																	 <h3 class="product__description">Send and receive text messages with your customers simply</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-vote-everything="everything" data-post_id="13282" data-social-counter="+1">
+									<span class="social--counter"></span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13282"
+									data-url="http://dailytekk.com/products/"
+									data-text="Sonar - Send and receive text messages with your customers simply"
+																			data-via="DailyTekk"
+																		target="_blank"
+									href="http://twitter.com/intent/tweet?text= - &amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsonar%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/sonar/"
+									data-post_id="13282"
+									data-text="Sonar - Send and receive text messages with your customers simply"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsonar%2F&amp;t= ">
+									Share</a>
+								</div>
+							</div>
+						</div>
+										<a href="http://dailytekk.com/products/" class="more-items">More Products</a>
+					</div>
+				</div>
+					</div>
+	</div>
+
+	</main>
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT AYL 728 x 90 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:728px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6674748022"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p class="footnote">© MMXV DailyTekk.</p><!--
+			--><ul class="menu"><li id="menu-item-13417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="http://dailytekk.com/advertise/">Advertise</a></li><li id="menu-item-13416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="http://dailytekk.com/about/">About</a></li><li id="menu-item-13418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="http://dailytekk.com/contact/">Contact</a></li>
+</ul>		</div>
+	</footer>
+
+				<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51766718-1', 'dailytekk.com');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+</script>	
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<!-- GumGum: You need to configure your Zone ID. -->        <script>var _roost = _roost || [];</script>
+                <script src="//cdn.goroost.com/roostjs/f508ef4fe9b846ef87277d425bc91f4e" async></script>
+        <script type="text/javascript" src="http://s.skimresources.com/js/72148X1521037.skimlinks.js"></script>
+	<div style="display:none">
+	</div>
+		<script>
+		    var snp_f = [];
+		</script>
+		<div class="snp-root">
+			<input type="hidden" id="snp_popup" value="" />
+			<input type="hidden" id="snp_popup_id" value="" />
+			<input type="hidden" id="snp_popup_theme" value="" />
+			<input type="hidden" id="snp_exithref" value="" />
+			<input type="hidden" id="snp_exittarget" value="" />
+				<div id="snppopup-welcome" class="snp-pop-12068 snppopup"><input type="hidden" class="snp_open" value="load" /><input type="hidden" class="snp_open_after" value="3" /><input type="hidden" class="snp_open_scroll" value="10" /><input type="hidden" class="snp_optin_redirect_url" value="" /><input type="hidden" class="snp_show_cb_button" value="yes" /><input type="hidden" class="snp_popup_id" value="12068" /><input type="hidden" class="snp_popup_theme" value="newtheme2" /><input type="hidden" class="snp_overlay" value="default" /><input type="hidden" class="snp_cookie_conversion" value="30" /><input type="hidden" class="snp_cookie_close" value="-1" /><div class="snp-fb snp-newtheme2">
+    <header>
+	<h2>Stay current!</h2> 
+	 
+    </header>
+	<a class="snp-close snp_nothanks" href="#"></a>    <div class="snp-newsletter-content">
+	<h2>Thousands of tech & app lovers can't be wrong!</h2><p>We'll send you the latest (and best) tech and apps Monday-Friday. Plus, subscribers get exclusive extras and surprises!</p> 
+	<form action="#" method="post" class="snp-subscribeform snp_subscribeform">
+	                <div>
+		<input type="text" name="email" id="snp_email" placeholder="Your Email..."  class="snp-field snp-field-email" /><input type="text" name="name" id="snp-name" placeholder="Your Name..." class="snp-field snp-field-name" />            </div>
+            <input type="submit" class="snp-subscribe-button snp-submit" data-loading="" data-success="" value="Subscribe!">
+	</form>
+	<p><small><img src="http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme2/img/lock.png" alt="">We will NEVER share or sell your info.</small></p>    </div>
+    <div class="snp-powered-b"><a href="http://codecanyon.net/item/ninja-popups-for-wordpress/3476479?ref=dailytekk" target="_blank">Powered by <strong>Ninja Popups</strong></a></div></div>
+<style>.snp-pop-12068 .snp-newtheme2 { width: 660px;}
+.snp-pop-12068 .snp-newtheme2 h2 {font-size: 24px; color: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2 {font-size: 16px;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2 {color: #959595;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content p {font-size: 12px;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content p {color: #959595;}
+.snp-pop-12068 .snp-newtheme2 .snp-submit { color: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 .snp-submit { background-color: #F95549;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2:before { background-color: #F95549;}
+.snp-pop-12068 .snp-newtheme2 form input[type="submit"] { -webkit-box-shadow: 4px 4px 0 #D00F00; -moz-box-shadow: 4px 4px 0 #D00F00; box-shadow: 4px 4px 0 #D00F00;}
+.snp-pop-12068 .snp-newtheme2 form input[type="submit"]:hover { -webkit-box-shadow: 0 0 0 #D00F00; -moz-box-shadow: 0 0 0 #D00F00; box-shadow: 0 0 0 #D00F00;}
+.snp-pop-12068 .snp-newtheme2 { background: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 header { background: #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 { border-bottom: 4px solid #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content:before { border-top: 20px solid #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content { background: #EBEBEB;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content:before { border-left: 20px solid #EBEBEB; border-right: 20px solid #EBEBEB;}
+</style></div>		</div>
+		<script>
+			var snp_timer;
+			var snp_timer_o;
+			var snp_ajax_url= 'http://dailytekk.com/wp-admin/admin-ajax.php';
+			var snp_ignore_cookies = false;
+			var snp_is_interal_link;
+			var snp_enable_analytics_events = false;var snp_enable_mobile = true;			jQuery(document).ready(function(){
+				jQuery('[placeholder]').placeholder();				jQuery(".snp_nothanks, .snp_closelink, .snp-close-link").click(function(){
+					snp_close();
+					return false;
+				});
+				jQuery(".snp_subscribeform").submit(function(){
+					return snp_onsubmit(jQuery(this));
+				});
+												var snp_open=jQuery('#snppopup-welcome .snp_open').val();
+								var snp_open_after=jQuery('#snppopup-welcome .snp_open_after').val();
+								var snp_open_inactivity=jQuery('#snppopup-welcome .snp_open_inactivity').val();
+								var snp_open_scroll=jQuery('#snppopup-welcome .snp_open_scroll').val();
+								var snp_op_welcome = false;
+								if(snp_open=='inactivity')
+								{
+								    var snp_idletime=0;
+								    function snp_timerIncrement()
+								    {
+									snp_idletime++;
+									if (snp_idletime > snp_open_inactivity)
+									{
+									    window.clearTimeout(snp_idleInterval);
+									    snp_open_popup('','','snppopup-welcome','welcome');
+									}
+								    }
+								    var snp_idleInterval = setInterval(snp_timerIncrement, 1000);
+								    jQuery(this).mousemove(function (e) {
+									snp_idletime = 0;
+								    });
+								    jQuery(this).keypress(function (e) {
+									snp_idletime = 0;
+								    });
+								}
+								else if(snp_open=='scroll')
+								{
+								    jQuery(window).scroll(function() {
+									var h = jQuery(document).height()-jQuery(window).height();
+									var sp = jQuery(window).scrollTop();
+									var p = parseInt(sp/h*100);
+									if(p>=snp_open_scroll &&  snp_op_welcome == false){
+									    snp_open_popup('','','snppopup-welcome','welcome'); snp_op_welcome = true;
+									}
+								     });
+								}
+								else
+								{
+								    if(snp_open_after)
+								    {
+									    snp_timer_o=setTimeout("snp_open_popup('','','snppopup-welcome','welcome');",snp_open_after*1000);	
+								    }
+								    else
+								    {
+									    snp_open_popup('','','snppopup-welcome','welcome');
+								    }
+								}
+								});	
+					</script>
+		<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/jquery.ck.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/jquery.placeholder.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/ninjapopups.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/comment-reply.min.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteVars = {"siteUrl":"http:\/\/dailytekk.com","templateUrl":"http:\/\/dailytekk.com\/wp-content\/themes\/DailyTekk","ajaxUrl":"http:\/\/dailytekk.com\/wp-admin\/admin-ajax.php","nonce":"2084c5cfd3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/themes/DailyTekk/js/functions.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=2.2.0.2014.12.19'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201507'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.1'></script>
+
+	<script src="http://stats.wp.com/e-201507.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.1',blog:'34449495',post:'12573',tz:'-7'});
+	var load_cmc = function(){linktracker_init(34449495,12573,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><!-- Begin ADSNATIVE Code -->
+<script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script>
+<!-- End ADSNATIVE Code -->
+</body>
+</html>

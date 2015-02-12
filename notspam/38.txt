@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7 no-free eng"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8  no-free eng"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9  no-free eng"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10  no-free eng"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js  no-free eng"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title> vidhaze - Watch Movies Instantly Online</title>
+<!--BootstrapStyle-->
+<link rel="shortcut icon" href="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/assets/favicon.ico" /><link rel="stylesheet" type="text/css" href="https://gs1.wac.edgecastcdn.net/8051D5/gamez/theme/Flix/Veteran/css/subscriptions/theme/blue.css" />
+<!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="https://gs1.wac.edgecastcdn.net/8051D5/gamez/components/Bootstrap-IE7Fix/css/bootstrap-ie7fix.min.css" /><![endif]-->
+
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/components/html5shiv/dist/html5shiv.js"></script>    <script type="text/javascript" src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/components/respond/src/respond.js"></script><![endif]-->
+    </head>
+    <body>
+        <!-- Emergency Alerts-->
+        
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/logos/flix/min/vidhaze.png" alt="vidhaze.com - Home Page" class="" />                    </div>
+                    <div class="col-sm-9">
+                        <div class="pull-right movie-covers hidden-xs"></div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section class="content container">
+    <div class="row">
+        <div class="col-md-3 col-sm-3 hidden-xs">
+            <div class="points">
+                <ul>
+                    <li><i class="fa fa-check"></i><strong>Watch</strong> as many <strong>movies</strong> you want!</li>
+                    <li><i class="fa fa-check"></i>Secure Scanned, No Virus Detected</li>
+                    <li><i class="fa fa-check"></i>Thousands of movies to choose from - <strong>Hottest new releases</strong>.</li>
+                    <li><i class="fa fa-check"></i><strong>Click it and Watch it!</strong> - no waiting to download movies, its instant!</li>
+                    <li><i class="fa fa-check"></i>HD Streaming - 720p</li>
+                    <li><i class="fa fa-check"></i>Guaranteed to <strong>save time</strong> and money - Its quick and <strong>hassle free</strong>, forget going to the post office.</li>
+                    <li><i class="fa fa-check"></i>It works on your <strong>TV, PC or MAC!</strong></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6 col-sm-6">
+            <div class="form-wrap">
+                <h2>
+                                            Sign Up Now!                                        <div class="borders">
+                        <div class="left-border"></div>
+                        <div class="right-border"></div>
+                        <div class="middle-arrow"></div>
+                    </div>
+                </h2>
+
+                <form action="/subscriptions/registrationaff/m-2-eagleNF" class="frmReg form-horizontal" role="form" id="subscriptionsRegistrationaffForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>
+                    <p>
+                        Please fill out all of the following fields to create an account.                    </p>
+
+                    
+                    <div class="form-group">
+                        <label for="inputEmail3" class="col-sm-4 col-md-4 control-label">Email</label>
+                        <div class="col-sm-8 col-md-8">
+                            <input name="data[User][username]" placeholder="Email..." maxlength="30" class="" value="" type="email" id="UserUsername"/>                            <span class="help-block">&nbsp;</span>
+                            <i class="fa "></i>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputEmail3" class="col-sm-4 col-md-4 control-label">Password</label>
+                        <div class="col-sm-8 col-md-8">
+                            <input name="data[User][password]" placeholder="Password..." maxlength="30" class="" value="" type="password" id="UserPassword"/>                            <span class="help-block">&nbsp;</span>
+                            <i class="fa "></i>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputEmail3" class="col-sm-4 col-md-4 control-label">Verify Password</label>
+                        <div class="col-sm-8 col-md-8">
+                            <input name="data[User][password2]" placeholder="Verify Password..." maxlength="30" class="" value="" type="password" id="UserPassword2"/>                            <span class="help-block">&nbsp;</span>
+                            <i class="fa "></i>
+                        </div>
+                    </div>
+
+                    <p class="text-center login">
+                        Already have an account?                        <a href="#login-modal" data-toggle="modal">Click here to login</a>
+                    </p>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <button type="submit" class="btn">
+                                <p>
+                                    CONTINUE                                                                            <span>CREATE YOUR ACCOUNT</span>
+                                                                    </p>
+                                <i class="fa fa-arrow-right"></i>
+                            </button>
+                        </div>
+                    </div>
+                </form>            </div>
+        </div>
+
+        <div class="col-md-3 col-sm-3">
+            <div class="points">
+                <ul>
+                    <li><i class="fa fa-check"></i>Checkout what all the buzz is about - <strong>So easy to use!</strong></li>
+                    <li><i class="fa fa-check"></i><strong>Thousands</strong> of satisfied customers!</li>
+                    <li><i class="fa fa-check"></i>Keep watching your <strong>favorite movies</strong> over and over!</li>
+                    <li><i class="fa fa-check"></i>It works anywhere in the world!</li>
+                    <li><i class="fa fa-check"></i>No late fees or fixed contracts - <strong>cancel anytime!</strong></li>
+                </ul>
+            </div>
+
+            <hr>
+
+            <p class="lead">
+                Fill out the signup form today and start watching movies instantly!!            </p>
+
+            <hr>
+
+            <p>
+                <strong>
+                    Questions? Give us a call at : 1-855-202-5592                </strong>
+
+            </p>
+
+        </div>
+    </div>
+</section>
+        <section class="content steps container hidden-xs">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="clearfix">
+                        <li>
+                            <div class="icon-signup"></div>
+                            <h2>CREATE AN ACCOUNT NOW</h2>
+                            <div class="right-arrow"></div>
+                            <div class="right-arrow-border"></div>
+                        </li>
+                        <li class="darker">
+                            <div class="icon-collection"></div>
+                            <h2>Choose from our vast selection of movies</h2>
+                            <div class="right-arrow darker"></div>
+                            <div class="right-arrow-border"></div>
+                        </li>
+                        <li>
+                            <div class="icon-popcorn"></div>
+                            <h2>Stream movies in HD quality!</h2>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul id="lang" class="list-inline">
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=fra">fr</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=fra">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/fr.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=spa">es</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=spa">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/es.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=gem">de</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=gem">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/de.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=ell">el</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=ell">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/el.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=ita">it</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=ita">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/it.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=pol">pl</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=pol">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/pl.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=por">pt</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=por">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/pt.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=jpn">jp</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=jpn">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/jp.png" alt="" />            </a>
+        </li>
+            <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=rus">ru</a>
+        </li>
+        <li>
+            <a href="/registration?a_aid=4e70fbcc5f149&a_bid=73c10a95&chan=&clickid=&data1=&g=adc0753d37641ed117f7b999a0ae79a0&pubid=&ref=1423758285&sid=&subid=&theme=m-2-eagleNF&lang=rus">
+                <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/flags/min/ru.png" alt="" />            </a>
+        </li>
+    </ul>                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul id="links" class="list-inline hidden-xs">
+                            <li><a target="_blank" href="/terms-and-conditions">Terms</a></li>
+                            <li><a target="_blank" href="/privacy-policy">Privacy Policy</a></li>
+                            <li><a target="_blank" href="/refund-policy">Refund Policy</a></li>
+                            <li><a target="_blank" href="/support">Support</a></li>
+                            <li><a target="_blank" href="http://affbeat.com/join/?a_aid=4e70fbcc5f149&join=1">Affiliates</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                                    <div class="row">
+                        <div class="col-md-12">
+                            <p class='rebill'>
+                                Amazing content all in one fantatic site! Thousands of new releases right at your fingertips - just click and watch. Secure and with no restrictions. Instant and all HD quality - no more waiting to download or stream! Watching your favorite movies is quick, hassle-free and optimized for all devices and browsers. Save time searching and more time watching your favorite content!                            </p>
+                            <br>
+                            <p class="rebill">
+                                                                    *To enroll in the membership program, you will be required to enter into a trial membership of 5 days, during which time your credit card will not be charged. If you decide to continue, do nothing, and your credit card will be charged the monthly payment of $49.95 on day 6 of your enrollment. To discontinue your membership, call 1-855-202-5592 any time 24 hours a day to cancel. Unless you call to cancel, you will be charged a membership fee of $49.95 per month every month.
+                                    <br>
+                                    <br>
+                                                            </p>
+                        </div>
+                    </div>
+                
+                <div class="row">
+                    <div class="col-md-12">
+                           <address>
+    Copyright &copy; 2015 vidhaze.com - Adlib Media LTD - Watch Movies Online - All rights reserved.</address>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <div class="modal fade" id="modalReasons" tabindex="-1" role="dialog" aria-labelledby="modalReasons" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Possible Reasons :</h4>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <span>The credit card entered may have insufficient funds.</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <span>The credit card number or CVV number was not entered properly.</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <span>Your issuing bank was unable to match the CVV or expiry date to the credit card provided.</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <span>Your billing address entered doesn't match the billing address on your credit card.</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <span>Credit card submitted is already in use. Try using another card.</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title text-center">Member Login</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/logos/flix/min/vidhaze_dark.png" alt="vidhaze.com - Home Page" class="img-responsive" />                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <form action="/users/login" role="form" id="UserLoginForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>
+                        <div class="form-group">
+                            <input name="data[User][username]" placeholder="Email..." class="form-control validate[required,custom[email]]" maxlength="255" type="text" id="UserUsername"/>                        </div>
+
+                        <div class="form-group">
+                            <input name="data[User][password]" placeholder="Password..." class="form-control validate[required]" type="password" id="UserPassword"/>                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" class="btn">
+                                Login                            </button>
+                        </div>
+
+                        </form>                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="row">
+                    <div class="col-md-6 clearfix">
+                        <a class="pull-left" data-target="#ppvFP" data-toggle="modal">Forgot Password?</a>
+                    </div>
+                    <div class="col-md-6 clearfix">
+                                                    <a class="pull-right" href='/subscriptions/registrationaff/m-2-eagleNF'>No account? Register now!</a>
+                                            </div>
+                </div>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div>
+
+    <div class="modal fade" id="ppvFP" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title text-center">Forgot Password</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/img/logos/flix/min/vidhaze_dark.png" alt="vidhaze.com - Home Page" class="img-responsive" />                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+
+                            <form action="/users/forgotPassword" id="UserForgotPasswordForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>
+                            <legend>Forgot Password?</legend>
+                            <p>Please enter an email linked with this account, we will send your password by email</p>
+
+                            <div class="form-group">
+                                <input name="data[User][user_email]" placeholder="Email..." class="form-control validate[required,custom[email]]" type="text" id="UserUserEmail"/>                            </div>
+
+                            <div class="form-group">
+                                <button type="submit" class="btn">
+                                    Submit                                </button>
+                            </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div>
+<!-- JS Code -->
+<script>
+        var isIE11 = !!navigator.userAgent.match(/Trident.*rv\:11\./);
+    var assets_url = '/theme/';
+    var accountExists = false;
+    var ccFail = false;
+    var isCheckout = false;
+    var theme = 'm-2-eagleNF';
+    var variation = {"no-free":true};
+    var cdnUrl = 'https://gs1.wac.edgecastcdn.net/8051D5/gamez/';
+    var errorMsg = {
+        "ERROR_EMAIL_ENTER" : "Please enter your email address.",
+        "ERROR_EMAIL_INVALID" : "Email address is invalid, please review.",
+        "ERROR_PASSWORD_ENTER" : "Please enter a password.",
+        "ERROR_PASSWORD_CONFIRM" : "Please confirm your password.",
+        "ERROR_PASSWORD_LENGHT" : "Passwords must be 6 to 30 characters long.",
+        "ERROR_PASSWORD_MATCH" : "Password and Confirmation do not match.",
+        "ERROR_ACCOUNT_EXIST" : "This account already exists on our site, please login. If you have any problems please contact customer support.",
+        "ERROR_PASSWORD_EXIST_BUT_CANCELED" : "This account already exists on our site, but it has been canceled or has open invoice.",
+        "ERROR_WRONG_INFO" : "Your info was incorrect. Please verify it.",
+
+        "ERROR_CC_EXIST" : "Your credit card already exists on our site. Please login or contact our customer service team.",
+        "ERROR_CC_DECLINED" : "Your credit card was declined - <span id=\"errdesc\" style=\"font-weight:bold;cursor: pointer;text-decoration:underline\">Click here</span> to understand why this happened.",
+        "ERROR_CC_INSUFFICIENT_FUNDS" : "The credit card entered may have insufficient funds.",
+        "ERROR_CC_BAD_NUMBERS" : "The credit card number or CVV number was not entered properly.",
+        "ERROR_CC_BANK_MATCH" : "Your issuing bank was unable to match the CVV or <br/>expiry date to the credit card provided.",
+        "ERROR_CC_POSSIBLE_REASONS" : "possible reasons:",
+        "ERROR_CC_BILLING_ADDRESS" : "Your billing address entered doesn�t match the billing address on your credit card.",
+        "ERROR_CC_ENTER" : "Please enter your credit card number.",
+        "ERROR_CC_VALID" : "Please enter a valid credit card number.",
+        "ERROR_CC_EXPIRE_DATE" : "Please enter your credit card's expiry date.",
+        "ERROR_CC_HAS_EXPIRED" : "Your credit card has expired.",
+        "ERROR_NAME_FIRST_ENTER" : "Please enter your first name.",
+        "ERROR_NAME_LAST_ENTER" : "Please enter your last name.",
+        "ERROR_ZIP_ENTER" : "Please enter your zip code.",
+        "ERROR_COUNTRY_ENTER" : "Please select your country.",
+        "ERROR_ADDRESS_ENTER" : "Please select your address linked to your card.",
+        "ERROR_STATE_ENTER" : "Please select your province/state.",
+        "ERROR_CITY_ENTER" : "Please select your city.",
+        "ERROR_CVV_ENTER" : "CVV must be 3 digits.",
+        "ERROR_FILL_INFO" : "Please properly fill in all your info.",
+        "ERROR_INVALID_CHAR" : "No numbers or invalid characters ex:!$%^&*()_+|~=`{}?"
+    };
+
+<!--    if(isIE11){-->
+<!--        $('html').addClass('ie11');-->
+<!--    }-->
+</script>
+
+<script type="text/javascript" src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/theme/Flix/Veteran/js/subscriptions/min/scripts.min.js"></script>
+    <script type="text/javascript" src="https://gs1.wac.edgecastcdn.net/8051D5/gamez/theme/Flix/Veteran/js/subscriptions/validation/min/regValidation.min.js"></script>            <script type="text/javascript">
+            document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + "affiliate-robot.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                PostAffTracker.track();
+            } catch (err) { }
+        </script>
+
+        <script type="text/javascript">
+            document.write(unescape("%3Cscript id='pap_x2s6df8dAffBeat' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
+                "affbeat.com/scripts/trackjs.php?pap_tracking_suffix=AffBeat' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var CampaignID='8f36b2e6';
+                PostAffTrackerAffBeat.track();
+            } catch (err) { console.log(err); }
+        </script>
+
+<img height="1" width="1" style="border-style:none;" alt="" src="https://insight.adsrvr.org/track/evnt/?adv=ybt8qpy&ct=0:r6n67it5&fmt=3"/>
+
+<!--Google Analytics-->
+<script>
+    
+    if(typeof ga == "undefined"){
+        ga = function(){
+            console.log('GA Omitted');
+        }
+    }
+</script>
+<!-- 0 -->
+    <script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>

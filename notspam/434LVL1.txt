@@ -1,0 +1,918 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/css/dmoz-main.css" />
+<title>DMOZ - Society: Religion and Spirituality</title>
+
+<style>
+.remBld {float:left; font-weight:bold; margin-right:5px; font-size:17px;}
+#_alt_ctrl_ALL, #_alt_ctrl_Z {border-right:none !important;}
+ul.right_align {float:left;}
+div.flag {  float : right ;  width : 16px ;  height : 16px ;}
+ul.directory-url li {  clear : right ;}
+li.cool a.listinglink {background:url('/img/star.gif') no-repeat right -2px; font-weight:bold; padding-right:16px; }
+div.flag img {  width:0px;  height:0px;  padding:8px;
+  background: url('/img/flag-faint.png');
+}
+ul.directory-url li:hover {  background-color : #e4e4e4 ;}
+ul.directory-url li:hover div.flag img {  background: url('/img/flag.png');}
+ul.directory-url li:hover div.flag:hover img {  background: url('/img/flag-highlight.png');}
+
+
+
+</style>
+</head>
+<body dir="LTR"><div class="none">
+<!-- SiteCatalyst code version: H.7.  Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+</div>
+
+<div id="doc"  class="nodViewN">
+	<div id="hd" style="border-bottom:0;">
+    	<a id="logo" class="logoN" href="/" alt="DMOZ logo" title="DMOZ"></a>
+
+        <div id="partnership">
+                <img width="72" height="36" align="middle" alt="In Partnership with AOL" src="/img/public/aolpartner.png"/>
+        </div>
+    </div>
+    <div id="hd-bar">
+
+        <div class="float-l" style="margin-left:8px;">
+
+        <!-- Twitter follow button -->
+          <a href="https://twitter.com/dmoz" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @dmoz</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <!-- End Twitter follow button -->
+
+        </div>
+
+        <div class="float-r">
+            <a style="font-weight:700" href="/docs/en/about.html">about dmoz</a> | 
+            <a href="http://blog.dmoz.org/">dmoz blog</a> | 
+            
+
+			<a href="/public/update?cat=Society/Religion_and_Spirituality">update listing</a> | 
+			
+            <a href="/public/abuse?cat=Society/Religion_and_Spirituality&lang=en">report abuse/spam</a> | 
+            <a href="/help/en/helpmain.html">help</a>
+        </div>
+       
+    </div>
+    <div id="bd-cross">
+    	<form class="center mb1em" action="/search" method="get">
+            <input size="45" name="q" class="searchNod" >
+            <input type=submit value="Search" class="btn" >
+            <select name="cat" class="selectNod" >
+			   
+               <option value="all" selected id="all-yes"><label for="all-yes">the entire directory</label></option>
+			   
+                 <option value="Society/Religion_and_Spirituality"  id="all-no"><label for="all-no">only in Society/Religion_and_Spirituality</label></option>
+                 
+            </select>
+            <input type=hidden name=all value="no" >
+        </form>
+
+        <div class="navigate" style="">
+            <div class="descript">
+
+                    <div id="descript" class="descriptN"><a href="/desc/Society/Religion_and_Spirituality">Description</a></div>
+
+            </div>
+            <ul class="navigate">
+                <li class="first">
+
+                    <a href="/">Top</a></li>
+<li><b>: </b><a href='/Society/'>Society</a></li>
+                        <li class="last">
+                            <strong><span class='remBld'>: </span>Religion and Spirituality</strong>&nbsp;<em>(84,414)</em>
+                        </li>
+
+            </ul>
+        </div>
+<div class='alphanumeric'><span class='start'>[</span><span class='links'><a id='_alt_ctrl_A' href='/Society/Religion_and_Spirituality/A/'>A</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_B' href='/Society/Religion_and_Spirituality/B/'>B</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_C' href='/Society/Religion_and_Spirituality/C/'>C</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_D' href='/Society/Religion_and_Spirituality/D/'>D</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_E' href='/Society/Religion_and_Spirituality/E/'>E</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_F' href='/Society/Religion_and_Spirituality/F/'>F</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_G' href='/Society/Religion_and_Spirituality/G/'>G</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_H' href='/Society/Religion_and_Spirituality/H/'>H</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_I' href='/Society/Religion_and_Spirituality/I/'>I</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_J' href='/Society/Religion_and_Spirituality/J/'>J</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_K' href='/Society/Religion_and_Spirituality/K/'>K</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_L' href='/Society/Religion_and_Spirituality/L/'>L</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_M' href='/Society/Religion_and_Spirituality/M/'>M</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_N' href='/Society/Religion_and_Spirituality/N/'>N</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_O' href='/Society/Religion_and_Spirituality/O/'>O</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_P' href='/Society/Religion_and_Spirituality/P/'>P</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Q' href='/Society/Religion_and_Spirituality/Q/'>Q</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_R' href='/Society/Religion_and_Spirituality/R/'>R</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_S' href='/Society/Religion_and_Spirituality/S/'>S</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_T' href='/Society/Religion_and_Spirituality/T/'>T</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_U' href='/Society/Religion_and_Spirituality/U/'>U</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_V' href='/Society/Religion_and_Spirituality/V/'>V</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_W' href='/Society/Religion_and_Spirituality/W/'>W</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_X' href='/Society/Religion_and_Spirituality/X/'>X</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Y' href='/Society/Religion_and_Spirituality/Y/'>Y</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Z' href='/Society/Religion_and_Spirituality/Z/'>Z</a></span><span class='end'>]</span></div>
+        <div class="clear"></div>		
+        
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Advaita_Vedanta/">Advaita Vedanta</a>&nbsp;<em>(184)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/African/">African</a>&nbsp;<em>(80)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Agnosticism/">Agnosticism</a>&nbsp;<em>(24)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Atheism/">Atheism</a>&nbsp;<em>(220)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Baha%27ism/">Baha'ism</a>&nbsp;<em>(155)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Buddhism/">Buddhism</a>&nbsp;<em>(1,947)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Cao_Dai/">Cao Dai</a>&nbsp;<em>(8)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Christianity/">Christianity</a>&nbsp;<em>(65,674)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Philosophy/Eastern_Philosophy/Confucianism/">Confucianism</a>@&nbsp;<em>(26)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Deism/">Deism</a>&nbsp;<em>(36)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Esoteric_and_Occult/">Esoteric and Occult</a>&nbsp;<em>(1,638)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Ethical_Culture/">Ethical Culture</a>&nbsp;<em>(17)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Falun_Dafa/">Falun Dafa</a>&nbsp;<em>(23)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Fourth_Way/">Fourth Way</a>&nbsp;<em>(82)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Gnosticism/">Gnosticism</a>&nbsp;<em>(72)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Hinduism/">Hinduism</a>&nbsp;<em>(933)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Humanism/">Humanism</a>&nbsp;<em>(109)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Islam/">Islam</a>&nbsp;<em>(1,179)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Jainism/">Jainism</a>&nbsp;<em>(29)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Judaism/">Judaism</a>&nbsp;<em>(2,528)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Modern_Movements/">Modern Movements</a>&nbsp;<em>(47)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Native_American/">Native American</a>&nbsp;<em>(26)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/New_Age/">New Age</a>&nbsp;<em>(1,036)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/New_Thought/">New Thought</a>&nbsp;<em>(60)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Noahidism/">Noahidism</a>&nbsp;<em>(4)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Pagan/">Pagan</a>&nbsp;<em>(956)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Pantheism/">Pantheism</a>&nbsp;<em>(16)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Scientology/">Scientology</a>&nbsp;<em>(369)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Shamanism/">Shamanism</a>&nbsp;<em>(74)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Shintoism/">Shintoism</a>&nbsp;<em>(11)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Sikhism/">Sikhism</a>&nbsp;<em>(124)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Spiritualism/">Spiritualism</a>&nbsp;<em>(338)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Taoism/">Taoism</a>&nbsp;<em>(355)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Unitarianism_and_Universalism/">Unitarianism and Universalism</a>&nbsp;<em>(804)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Universal_Life_Church/">Universal Life Church</a>&nbsp;<em>(20)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Zoroastrianism/">Zoroastrianism</a>&nbsp;<em>(30)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Arts/">Arts</a>&nbsp;<em>(71)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Community/">Community</a>&nbsp;<em>(2)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Computers/">Computers</a>&nbsp;<em>(12)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Conferences_and_Events/">Conferences and Events</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Directories/">Directories</a>&nbsp;<em>(4)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Divination/">Divination</a>&nbsp;<em>(1,172)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Reference/Encyclopedias/Subject_Encyclopedias/Religion/">Encyclopedias</a>@&nbsp;<em>(10)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Enlightenment/">Enlightenment</a>&nbsp;<em>(108)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Fictional/">Fictional</a>&nbsp;<em>(39)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Gender_and_Sexuality/">Gender and Sexuality</a>&nbsp;<em>(1)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/History/By_Topic/Social_History/Religion/">History</a>@&nbsp;<em>(44)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Humor/">Humor</a>&nbsp;<em>(10)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Interfaith/">Interfaith</a>&nbsp;<em>(52)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Meditation/">Meditation</a>&nbsp;<em>(90)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Morality/">Morality</a>&nbsp;<em>(15)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Reference/Museums/Cultural/Religious/">Museums</a>@&nbsp;<em>(67)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Religion_and_Spirituality/Mysticism/">Mysticism</a>&nbsp;<em>(105)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Death/Near_Death_Experiences/">Near Death Experiences</a>@&nbsp;<em>(70)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/News_and_Media/">News and Media</a>&nbsp;<em>(24)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Opposing_Views/">Opposing Views</a>&nbsp;<em>(888)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Organizations/Religious/">Organizations</a>@&nbsp;<em>(0)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/People/">People</a>&nbsp;<em>(710)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Philosophy/Philosophy_of_Religion/">Philosophy of Religion</a>@&nbsp;<em>(26)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Prophecies/">Prophecies</a>&nbsp;<em>(7)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Reference/Quotations/Religion_and_Spirituality/">Quotations</a>@&nbsp;<em>(48)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Reincarnation/">Reincarnation</a>&nbsp;<em>(44)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Religious_Studies/">Religious Studies</a>&nbsp;<em>(101)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Religious_Texts/">Religious Texts</a>&nbsp;<em>(5)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Religious_Tolerance/">Religious Tolerance</a>&nbsp;<em>(18)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Science/Science_in_Society/Science_and_Religion/">Science</a>@&nbsp;<em>(67)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Shopping/">Shopping</a>&nbsp;<em>(3)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Spiritual_Beings/">Spiritual Beings</a>&nbsp;<em>(51)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Tantra/">Tantra</a>&nbsp;<em>(9)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Work/Workplace_Spirituality/">Workplace Spirituality</a>@&nbsp;<em>(16)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Society/Religion_and_Spirituality/Yoga/">Yoga</a>&nbsp;<em>(1,664)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+            <fieldset class="fieldcap">
+                <legend>See also:</legend>
+                <ul class="directory">
+                
+                	<li>
+                        <a href="/Kids_and_Teens/People_and_Society/Religion_and_Spirituality/">Kids and Teens: People and Society: Religion and Spirituality</a> 
+                        <em>(247)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Society/Issues/Church-State_Relations/">Society: Issues: Church-State Relations</a> 
+                        <em>(62)</em>
+                    </li>
+                
+                </ul>
+            </fieldset>
+
+                <fieldset class="fieldcap fieldcapN">
+                <legend>This category in other languages:</legend>
+                <ul class="language">
+
+                    <li>
+                    	<a href="/World/Afrikaans/Samelewing/Godsdiens">Afrikaans</a>
+                        <em>(79)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Aragon%C3%A9s/Sociedat/Relichi%C3%B3n">Aragonés</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Azerbaijani/C%C9%99miyy%C9%99t/Din_v%C9%99_M%C9%99%27n%C9%99viyyat">Azərbaycanca</a>
+                        <em>(20)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Indonesia/Masyarakat/Agama">Bahasa Indonesia</a>
+                        <em>(148)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Melayu/Masyarakat/Agama">Bahasa Melayu</a>
+                        <em>(34)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bosanski/Dru%C5%A1tvo/Religija_i_duhovnost">Bosanski</a>
+                        <em>(21)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Brezhoneg/Kevredigezh/Feiz_ha_kredenno%C3%B9">Brezhoneg</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Catal%C3%A0/Societat/Religi%C3%B3_i_espiritualitat">Català</a>
+                        <em>(122)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C4%8Cesky/Spole%C4%8Dnost/N%C3%A1bo%C5%BEenstv%C3%AD_a_spiritualita">Česky</a>
+                        <em>(206)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Cymraeg/Cymdeithas/Crefydd">Cymraeg</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Dansk/Samfund/Religion">Dansk</a>
+                        <em>(850)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Deutsch/Gesellschaft/Religion_und_Spiritualit%C3%A4t">Deutsch</a>
+                        <em>(6056)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Eesti/%C3%9Chiskond/Usu%C3%BChingud">Eesti</a>
+                        <em>(13)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Espa%C3%B1ol/Sociedad/Religi%C3%B3n_y_espiritualidad">Español</a>
+                        <em>(1817)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Esperanto/Socio/Religio">Esperanto</a>
+                        <em>(107)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Euskara/Gizartea/Erlijioa">Euskara</a>
+                        <em>(4)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Fran%C3%A7ais/Soci%C3%A9t%C3%A9/Religion_et_spiritualit%C3%A9">Français</a>
+                        <em>(2903)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/F%C3%B8royskt/Samfelag/%C3%81tr%C3%BAna%C3%B0ur">Føroyskt</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Gaeilge/Pobal/Creideamh">Gaeilge</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Galego/Sociedade/Relixi%C3%B3n">Galego</a>
+                        <em>(15)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/G%C3%A0idhlig/Poball/Creideamh">Gàidhlig</a>
+                        <em>(7)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hrvatski/Dru%C5%A1tvo/Religija_i_duhovnost">Hrvatski</a>
+                        <em>(402)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Interlingua/Societate/Religion_e_spiritualitate">Interlingua</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C3%8Dslenska/Samf%C3%A9lag/Tr%C3%BAarbr%C3%B6g%C3%B0">Íslenska</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Italiano/Societ%C3%A0/Religione_e_Spiritualit%C3%A0">Italiano</a>
+                        <em>(1449)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kiswahili/Jamii/Dini">Kiswahili</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Latviski/Sabiedr%C4%ABba/Reli%C4%A3ija">Latviešu</a>
+                        <em>(40)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lietuvi%C5%B3/Visuomen%C4%97/Religija">Lietuvių</a>
+                        <em>(205)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lingua_Latina/Vita_Communis/Religio_ac_Spiritualitas">Lingua_Latina</a>
+                        <em>(9)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Magyar/T%C3%A1rsadalom/Vall%C3%A1sok">Magyar</a>
+                        <em>(121)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Nederlands/Maatschappij/Religie_en_Spiritualiteit">Nederlands</a>
+                        <em>(2303)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Norsk/Samfunn/Religion_og_livssyn">Norsk</a>
+                        <em>(242)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/O%27zbekcha/Jamiyat/Din_va_aqida">O'zbekcha</a>
+                        <em>(9)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Polski/Spo%C5%82ecze%C5%84stwo/Religia_i_duchowo%C5%9B%C4%87">Polski</a>
+                        <em>(1528)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Portugu%C3%AAs/Sociedade/Religi%C3%A3o_e_Espiritualidade">Português</a>
+                        <em>(559)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Punjabi_Gurmukhi/%E0%A8%B8%E0%A8%AE%E0%A8%BE%E0%A8%9C%E0%A8%BC/%E0%A8%A7%E0%A8%B0%E0%A8%AE">Punjabi_Gurmukhi</a>
+                        <em>(8)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Rom%C3%A2n%C4%83/Societate/Religie_%C5%9Fi_spiritualitate">Română</a>
+                        <em>(1041)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Sardu/Sotzied%C3%A0di/Religione_e_Ispiritualidade">Sardu</a>
+                        <em>(8)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Shqip/Shoq%C3%ABria/Feja">Shqip</a>
+                        <em>(12)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensko/Dru%C5%BEba/Religija">Slovensko</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensky/Spolo%C4%8Dnos%C5%A5/N%C3%A1bo%C5%BEenstvo_a_duchovno">Slovensky</a>
+                        <em>(41)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Srpski/Dru%C5%A1tvo/Religija_i_duhovnost">Srpski</a>
+                        <em>(93)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Suomi/Yhteiskunta/Uskonto">Suomi</a>
+                        <em>(130)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Svenska/Samh%C3%A4lle/Religion">Svenska</a>
+                        <em>(960)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Tagalog/Lipunan/Relihiyon">Tagalog</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Taiwanese/%E4%BA%BA%E4%BD%AE%E4%BA%BA/%E5%AE%97%E6%95%99">Taiwanese</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Tatar%C3%A7a/C%C3%A4m%C4%9Fi%C3%A4t/Din">Tatarça</a>
+                        <em>(21)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Telugu/Samgham/Daivikam">Telugu</a>
+                        <em>(13)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/X%C3%A3_h%E1%BB%99i/T%C3%B4n_gi%C3%A1o_-_T%C3%ADn_ng%C6%B0%E1%BB%A1ng">Tiếng_Việt</a>
+                        <em>(31)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/T%C3%BCrk%C3%A7e/Toplum/Din_ve_Maneviyat">Türkçe</a>
+                        <em>(530)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Greek/%CE%9A%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1/%CE%98%CF%81%CE%B7%CF%83%CE%BA%CE%B5%CE%AF%CE%B1">Ελληνική</a>
+                        <em>(49)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Belarusian/%D0%93%D1%80%D0%B0%D0%BC%D0%B0%D0%B4%D0%B7%D1%82%D0%B2%D0%B0/%D0%A0%D1%8D%D0%BBi%D0%B3i%D1%8F">Беларуская</a>
+                        <em>(16)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bulgarian/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F_%D0%B8_%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D1%81%D1%82">Български</a>
+                        <em>(36)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Makedonski/%D0%9E%D0%BF%D1%88%D1%82%D0%B5%D1%81%D1%82%D0%B2%D0%BE/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%98%D0%B0">Македонски</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Russian/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F_%D0%B8_%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8">Русский</a>
+                        <em>(3276)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ukrainian/%D0%A1%D1%83%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE/%D0%A0%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D1%8F">Українська</a>
+                        <em>(164)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kazakh/%D2%9A%D0%BE%D2%93%D0%B0%D0%BC/%D0%94%D1%96%D0%BD_%D0%B1%D0%B5%D0%BD_%D1%80%D1%83%D1%85%D0%B0%D0%BD%D0%B8">Қазақша</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Armenian/%D5%80%D5%A1%D5%BD%D5%A1%D6%80%D5%A1%D5%AF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6/%D4%BF%D6%80%D5%B8%D5%B6_%D6%87_%D5%80%D5%B8%D5%A3%D6%87%D5%B8%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6">Հայերեն</a>
+                        <em>(19)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hebrew/%D7%97%D7%91%D7%A8%D7%94/%D7%93%D7%AA_%D7%95%D7%A8%D7%95%D7%97%D7%A0%D7%99%D7%95%D7%AA">עברית</a>
+                        <span style="visibility:hidden">i</span><em>(282)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Arabic/%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%88_%D8%A7%D9%84%D9%82%D9%8A%D9%85_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D9%8A%D8%A9">العربية</a>
+                        <span style="visibility:hidden">i</span><em>(378)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Persian/%D8%AC%D8%A7%D9%85%D8%B9%D9%87/%D8%AF%DB%8C%D9%86_%D9%88_%D8%B1%D9%88%D8%AD%D8%A7%D9%86%DB%8C%D8%AA">فارسی</a>
+                        <span style="visibility:hidden">i</span><em>(14)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Marathi/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE">मराठी</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hindi/%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C/%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE">हिन्दी</a>
+                        <em>(37)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Gujarati/%E0%AA%B8%E0%AA%AE%E0%AA%BE%E0%AA%9C/%E0%AA%A7%E0%AA%B0%E0%AB%8D%E0%AA%AE">ગુજરાતી</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Tamil/%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%95%E0%AE%AE%E0%AF%8D/%E0%AE%AE%E0%AE%A4%E0%AE%AE%E0%AF%8D">தமிழ்</a>
+                        <em>(66)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kannada/%E0%B2%B8%E0%B2%AE%E0%B2%BE%E0%B2%9C/%E0%B2%A7%E0%B2%B0%E0%B3%8D%E0%B2%AE">ಕನ್ನಡ</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Thai/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1/%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B8%B2">ไทย</a>
+                        <em>(165)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Japanese/%E7%A4%BE%E4%BC%9A/%E5%AE%97%E6%95%99%E3%83%BB%E7%B2%BE%E7%A5%9E%E4%B8%96%E7%95%8C">日本語</a>
+                        <em>(4968)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Simplified/%E7%A4%BE%E4%BC%9A/%E5%AE%97%E6%95%99%E4%B8%8E%E4%BF%A1%E4%BB%B0">简体中文</a>
+                        <em>(206)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Traditional/%E7%A4%BE%E6%9C%83/%E5%AE%97%E6%95%99%E8%88%87%E5%BF%83%E9%9D%88">繁體中文</a>
+                        <em>(327)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Korean/%EC%82%AC%ED%9A%8C/%EC%A2%85%EA%B5%90%EC%99%80_%EC%98%81%EC%84%B1">한국어</a>
+                        <em>(81)</em>
+                    </li>
+
+                </ul>
+                </fieldset>
+			
+			<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+			<fieldset class="fieldcap">
+                        <ul class="directory-url" style="margin-left:0;">
+            
+                                    <li>
+	
+                                <a href="http://www.selectsmart.com/RELIGION" class="listinglink">Belief System Selector</a> 
+			
+                                - Online questionnaire that rates religions by their compatibility with your beliefs.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Society%2FReligion_and_Spirituality&url=http%3A%2F%2Fwww.selectsmart.com%2FRELIGION"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                        </ul>
+                        </fieldset>
+        
+
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+		
+        <fieldset class="fieldcap fieldcapRn" style="font-size:1.2em; margin-top:11px;">
+
+            <ul class="disc-large">
+	    <div class="float-l">
+
+                    <li>Usenet alt.religion 
+					- <a href="news:alt.religion">news: </a>
+					- <a href="http://groups.google.com/group/alt.religion">Google Groups</a></li>
+
+                    <li>Usenet soc.religion 
+					- <a href="news:soc.religion">news: </a>
+					- <a href="http://groups.google.com/group/soc.religion">Google Groups</a></li>
+
+                    <li>Usenet talk.religion.misc 
+					- <a href="news:talk.religion.misc">news: </a>
+					- <a href="http://groups.google.com/group/talk.religion.misc">Google Groups</a></li>
+
+            </div>
+            </ul>
+
+        <ul class="disc-large">
+	<div class="float-l">
+		<li >
+			<span style="margin-right:140px; font-size:16px;">
+			"<b>Religion and Spirituality</b>"&nbsp;search&nbsp;on:</span>
+				
+	            <a href="http://search.aol.com/aol/search?query=religion+and+spirituality">AOL</a> -
+<a href="http://www.ask.com/web?q=religion+and+spirituality">Ask</a> -
+<a href="https://www.bing.com/search?q=religion+and+spirituality">Bing</a> -
+<a href="https://blekko.com/#?q=religion+and+spirituality">Blekko</a> -
+<a href="https://duckduckgo.com/?q=religion+and+spirituality">DuckDuckGo</a> -
+<a href="https://gigablast.com/search?q=religion+and+spirituality">Gigablast</a> -
+<a href="https://www.google.com/search?q=religion+and+spirituality">Google</a> -
+<a href="https://www.ixquick.com/do/search/?q=religion+and+spirituality">ixquick</a> -
+<a href="https://search.yahoo.com/search?p=religion+and+spirituality">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=religion+and+spirituality">Yandex</a> -
+<a href="http://new2.yippy.com/search?query=religion+and+spirituality">Yippy</a>  				
+				
+				</li>
+	            </div>
+        </ul>
+
+        </fieldset>
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+        <fieldset class="fieldcap center">
+        	
+        	<span class="volEditN">
+        	
+	        Category editor:
+	         <a href="/public/profile?editor=icxcnika">icxcnika</a>
+        	</span>
+        	
+        	
+        </fieldset>
+	  
+
+        <div class="float-r">
+        	<img src="/img/moz/climb.gif" width = 116 height = 150 alt="">
+        </div>
+    </div>
+    <div id="ft">
+    	
+        
+            <span class="float-l">Copyright &copy; 1998-2015 AOL Inc.</span>
+        
+        <span class="float-r"><a href="/docs/en/termsofuse.html" style="font-size:.9em;">Terms of Use</a></span>
+    </div>
+    <div id="ft-bar" class="ft-barN" style="color:#000; font-family:times New Roman;font-size:16px;">
+    	<b>Visit our sister sites</b>&nbsp;&nbsp;<a href="http://www.mozilla.org/">mozilla.org</a>&nbsp;|&nbsp;<a href="http://musicmoz.org/">MusicMoz</a>&nbsp;|&nbsp;<a href="http://en.wikipedia.org/">Wikipedia</a><br><br>
+    	<div  class="ft-barUpN">Last update: 
+		
+                                November 9, 2014 at 13:05:09 UTC
+		
+		- <a href="/editors/editcat/index?cat=Society/Religion_and_Spirituality&fwdapply=1">edit</a></div>
+    </div>
+</div>
+<div id="omniture">
+<script type="text/javascript">
+function runOmni(){(function(){var F,t,n,v,p,q,u,o,i,f,D,d,k,c,b,x,g,E,s,z,C,m,r,a,l,B,e,w,A,y,j,h;F=location.protocol.toLowerCase();t=location.hostname.toLowerCase();n=location.port;v=location.pathname.toLowerCase();p=location.search.toLowerCase();q=document.title.toLowerCase();s_265.pfxID="odp";s_265.server=t;s_265.channel="us.dmozodp";s_265.charSet="UTF-8";s_265.linkInternalFilters="aol.com,javascript:,dmoz.org";u=t.split(".");o=(u.length>1)?u[u.length-2]+"."+u[u.length-1]:"";if((o==="dmoz.org")||(t+":"+n==="dmozqa-m01.ihost.aol.com:8081")||(t+":"+n==="10.146.172.49:9099")){s_265.prop12=F+"//"+t+v;i=(v.indexOf("/world/")>-1)?1:0;f=v.split("/");D=(i===1)?parseInt(f.length,10)-4:parseInt(f.length,10)-2;d=(f[f.length-1].length>0)?f[f.length-1].split(".")[0]:" - ";k=(f[f.length-1].length>0)?f[f.length-1]:" - ";c=(i===1)?f[3]:f[1];b=(i===1)?f[4]:f[2];if(i===0){x="english"}else{if((i===1)&&(D===-1)){x="world top"}else{if((i===1)&&(D>-1)){x=f[2]}}}s_265.prop16=x;j=(D>0)?"level-"+D:"level-0";switch(D){case -1:A=t+" - world top";y=A;h=A;break;case 0:if(d!==" - "){A="utilities";y="general info";h=t+" - "+d}else{A=t+" - top";y=A;h=A}break;case 1:A=c;y="top";h=(d!==" - ")?h=A+" - "+d:h="category main";break;case 2:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="subcategory main";break;default:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="level-"+D+" main";break}if(t==="search.dmoz.org"){A="utilities";y="search";j="level-0";h=d+" - home";g=((d==="search")&&(p.split("=")[0]==="?search"))?1:0;if(g===1){E=s_265.getQueryParam("search","",p);s_265.eVar11="sTerms:f|"+E;s_265.prop18=(s_265.getQueryParam("all").toLowerCase()!=="yes")?s_265.getQueryParam("cat").toLowerCase():"";s_265.prop18=s_265.prop18||"all";s=s_265.getQueryParam("t").toLowerCase();z=s_265.getQueryParam("morecat").toLowerCase();if(s==="c"||s==="s"||s==="b"){s_265.prop19=s}else{s_265.prop19=(z===1)?"c":"b"}C=(parseInt(s_265.getQueryParam("Kids"),10)===1)?"kids":"none";m=(parseInt(s_265.getQueryParam("Teens"),10)===1)?"teens":"none";r=(parseInt(s_265.getQueryParam("Mteens"),10)===1)?"mteens":"none";s_265.prop20=C+"|"+m+"|"+r;a=((s_265.prop19!=="c")&&(z.length===0)&&(s_265.getQueryParam("co").length===0))?((parseInt(s_265.getQueryParam("start")/20,10)+1)+""):(z.length===0)?((parseInt(s_265.getQueryParam("start")/25,10)+1)+""):((parseInt(s_265.getQueryParam("morecat")/25,10)+1)+"");s_265.prop21="page "+a;h="search results";l=(((a*1)===1)&&(z.length===0)&&(s_265.getQueryParam("start","",document.referrer).length===0))?1:0;if(l===1){B=(s.length>0)?"advanced search":((s.length===0)&&(s_265.getQueryParam("cat").length>0))?"branch search":"standard search";s_265.events="event1";s_265.eVar1=B}}e=1}if(e!==1){switch(c){case"help":A="utilities";y="help";j="level-0";h=(d!==" - ")?"dmoz help - "+d:"dmoz help - helpmain";e=1;break;case"profiles":A="utilities";y="profiles";j="level-0";h="dmoz - user profile";s_265.mmxtitle=h;s_265.mmxcustom="http://www.dmoz.org/profiles/user.html";e=1;break;case"become_an_editor":case"user-banners":case"awards":A="utilities";y="general info";j="level-0";h="dmoz - general info - "+q;e=1;break;case"guidelines":A="utilities";y="editors";j="level-0";h=(D>1)?"editors - "+c+" - "+b+" - "+q:"editors guidelines - "+q;e=1;break;case"newsletter":j="level-0";switch(D){case 1:y="newsletter article archive";h=y;break;case 2:h="newsletter "+y+" - "+q;break}e=1;break;case"erz":A="utilities";y="editors";j="level-0";h=(D>1)?"erz - "+b+" - "+q:"erz - top - "+q;e=1;break}}if(e!==1){if((t==="www.dmoz.org")&&(D===0)&&(d==="reinstate")){A="utilities";y="editors";h="editors - "+q;e=1}if(t==="report-abuse.dmoz.org"){A="utilities";y="report abuse";j="level-0";h=((D===0)&&(d==="faq"))?"dmoz report abuse system faq":"dmoz report abuse system";e=1}else{if(t==="rdf.dmoz.org"){A="utilities";y="rdf";j="level-0";if((D===0)&&(d===" - ")){h="rdf - main"}else{if((D===1)&&(d===" - ")){h="rdf - file index"}else{if((D===1)&&(d!==" - ")){h="rdf - "+d}}}e=1}}}if(e!==1){if((c==="cgi-bin")&&(t!=="search.dmoz.org")){A="utilities";j="level-0";switch(d){case"apply":case"forgot":y="editors";h=(d==="forgot")?"editors - password reminder form":(s_265.getQueryParam("submit").length===0)?"editors - application info":"editors - application";e=1;break;case"add":case"update":case"update2":case"update3":case"reinstate":y="editors";if(d==="add"){h="editors - submit a site instructions"}else{if(d==="update"){h="editors - update listing instructions"}else{if(d==="update2"){h="editors - update listing form"}else{if(d==="update3"){h="editors - update listing form received"}else{if(d==="reinstate"){h="editors - account reinstatement form received"}}}}}e=1;break;case"send":case"send2":y="editors";h=(d==="send")?"send editors feedback":"editors feedback received";e=1;break}}}if(e!==1){if((k==="desc.html")||(k==="faq.html")){w=(k==="desc.html")?"description":"faq";h=(D===1)?"branch category ":(D===2)?"branch subcategory ":"branch level-"+D+" ";h=h+w}}s_265.trackExternalLinks=false;s_265.mmxgo=true;s_265.prop1=A;s_265.prop2=y;s_265.prop17=j;s_265.pageName=h;s_265.t()}}())}var s_account="aoldmozodp,aolsvc";(function(){var b=document,a=b.createElement("script");a.type="text/javascript";a.src=(location.protocol==="https:"?"https://s":"http://o")+".aolcdn.com/omniunih.js";b.getElementsByTagName("head")[0].appendChild(a)}());
+</script>
+</div>
+</body>
+</html>
+

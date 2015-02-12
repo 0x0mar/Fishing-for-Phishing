@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>StyleCaster</title>
+	<atom:link href="http://stylecaster.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://stylecaster.com</link>
+	<description>Style News and Trends</description>
+	<lastBuildDate>Wed, 11 Feb 2015 23:55:42 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='stylecaster.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>http://1.gravatar.com/blavatar/f95e80beb275448b98a924f84cc3473a?s=96&#038;d=http%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>StyleCaster</title>
+		<link>http://stylecaster.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="http://stylecaster.com/osd.xml" title="StyleCaster" />
+	<atom:link rel='hub' href='http://stylecaster.com/?pushpress=hub'/>
+	<item>
+		<title>Mesmerizing: Watch This NYC Ballet Dancer Move For a Fashion Shoot</title>
+		<link>http://stylecaster.com/watch-this-nyc-ballet-dancer-taylor-stanley-move-for-a-fashion-shoot/</link>
+		<comments>http://stylecaster.com/watch-this-nyc-ballet-dancer-taylor-stanley-move-for-a-fashion-shoot/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 21:18:17 +0000</pubDate>
+		<dc:creator><![CDATA[Jasmine Garnsworthy]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[farfetch]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[new york city ballet]]></category>
+		<category><![CDATA[Taylor Stanley]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=342075</guid>
+		<description><![CDATA[He's mesmerizing.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=342075&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<div id="attachment_342085" style="width: 610px" class="wp-caption aligncenter"><img class=" wp-image-342085" src="https://scstylecaster.files.wordpress.com/2015/02/ts_05_large.jpg?w=600&#038;h=405" alt="NYC Soloist Taylor Stanley " width="600" height="405" title="Mesmerizing: Watch This NYC Ballet Dancer Move For a Fashion Shoot" /></a><p class="wp-caption-text"><em>Photo: <a href="http://www.farfetch.com/editorial/the-new-york-city-ballets-taylor-stanley.aspx" target="_blank" target="_blank">Farfetch/Anthony Maule</a></em></p></div>
+<p>If you&#8217;ve ever been privy to a fashion photo shoot in action, you&#8217;ll know that seeing a talented model turning it on for the camera can be fascinating to watch. It&#8217;s something in the way they move fluidly, intuitively knowing which angles will flatter the clothes&#8211;and themselves&#8211;the most. But, of all the shoots we&#8217;ve sat in on, none have looked quite like the partnership between online retailer Farfetch and the New York City Ballet.</p>
+<h2><strong>MORE: <a href="http://stylecaster.com/burlesque-twerk-beethoven/"title="Best Video Ever: Watch This Burlesque Dancer Twerk to Beethoven"  target="_blank">Watch This Burlesque Dancer Twerk to Beethoven</a></strong></h2>
+<p>Farfetch snagged NYC Ballet soloist, <strong>Taylor Stanley</strong>, to feature in an all-white menswear campaign. Modeling sleek all-white garb by Balmain, Our Legacy, Alexander McQueen, DSquared2, and more names from Farfetch&#8217;s designer offering, Stanley performed for the camera in a way that most models never could.</p>
+<p>The incredible dancer&#8211;who told us he rehearses from 10:30 a.m. until 8:00 p.m, and then performs on stage nearly every single day&#8211;is mesmerizing to watch.</p>
+<p>Take a look at this exclusive behind-the-scenes video we recorded at the shoot, and then <a href="http://www.farfetch.com/editorial/the-new-york-city-ballets-taylor-stanley.aspx" target="_blank" target="_blank">check out the full feature</a> over at Farfetch.</p>
+<p><a href="http://instagram.com/p/y90LIGB-Hi/?modal=true" title="View on Instagram" target="_blank"><img src="http://instagr.am/p/am.com/media/?size=l" alt="Instagram Photo" title="Mesmerizing: Watch This NYC Ballet Dancer Move For a Fashion Shoot" /></a></p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/342075/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/342075/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=342075&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/watch-this-nyc-ballet-dancer-taylor-stanley-move-for-a-fashion-shoot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/farfetch.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/farfetch.jpg?w=150" medium="image">
+			<media:title type="html">NYC Ballet Soloist taylor Stanley</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fbaad76020db98f48be0adbb99582db9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jasminegarnsworthy1805</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/ts_05_large.jpg?w=670" medium="image">
+			<media:title type="html">NYC Soloist Taylor Stanley </media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>30 Ways Instagram Stars Stack Their Rings</title>
+		<link>http://stylecaster.com/30-ways-instagram-stars-stack-their-rings/</link>
+		<comments>http://stylecaster.com/30-ways-instagram-stars-stack-their-rings/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 20:30:50 +0000</pubDate>
+		<dc:creator><![CDATA[Jasmine Garnsworthy]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Outfit Ideas + Tips]]></category>
+		<category><![CDATA[accessories]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[jewelry]]></category>
+		<category><![CDATA[Rings]]></category>
+		<category><![CDATA[stacked rings]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=342007</guid>
+		<description><![CDATA[30 combos to copy now. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=342007&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;re anything like us, you love to &#8220;like&#8221; close-ups of <a href="http://stylecaster.com/stacking-rings/"title="How to Start Stacking Rings Like a Pro" >cool rings</a> and jewelry layered <em>just</em> right on Instagram. Whether it&#8217;s bloggers showing off new jewels while artfully clutching a mug of coffee, or someone draping their ring-laden fingers over an It-bag, you can&#8217;t get enough of the strategic ring placement on social media.</p>
+<h2><strong>MORE: <a href="http://stylecaster.com/mixing-gold-and-silver/"title="25 Reasons Mixing Gold and Silver Jewelry is Seriously Stylish" >25 Ways to Mix Gold and Silver</a></strong></h2>
+<p>We too are always looking online for cool new ring combinations, because when it comes to stacking this kind of jewelry, the styling options are endless. Social media stars are mixing metals like silver, gold, and rose gold, and teaming chunky and dainty styles together. Meanwhile, minimalists are wearing a single, thin dainty ring on every finger for a less obvious approach.</p>
+<h2><strong>MORE: <a href="http://stylecaster.com/winter-outfits-from-instagram/"title="Incredible Winter Outfits From Instagram to Shop Right Now!" >Incredible Winter Outfits to Shop From Instagram Right Now</a></strong></h2>
+<p>&nbsp;</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/342007/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/342007/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=342007&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/30-ways-instagram-stars-stack-their-rings/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/banner-image.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/banner-image.jpg?w=150" medium="image">
+			<media:title type="html">how to layer rings</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fbaad76020db98f48be0adbb99582db9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jasminegarnsworthy1805</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Flu Season Etiquette: A Field Guide to Being Sick at Work</title>
+		<link>http://stylecaster.com/flu-season-etiquette-a-field-guide-to-being-sick-at-work/</link>
+		<comments>http://stylecaster.com/flu-season-etiquette-a-field-guide-to-being-sick-at-work/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 20:07:49 +0000</pubDate>
+		<dc:creator><![CDATA[Leah Bourne]]></dc:creator>
+				<category><![CDATA[Health + Fitness]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Anna Post]]></category>
+		<category><![CDATA[etiquette]]></category>
+		<category><![CDATA[flu season]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[workplace issues]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341984</guid>
+		<description><![CDATA[There ARE rules when it comes to being sick in public. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341984&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<div id="attachment_341986" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-341986" src="https://scstylecaster.files.wordpress.com/2015/02/wenn214569881.jpg?w=600&#038;h=941" alt="Trooping of the Colour Celebration at Buckingham Palace" width="600" height="941" title="Flu Season Etiquette: A Field Guide to Being Sick at Work" /></a><p class="wp-caption-text">Photo: Wenn.</p></div>
+<p>The flu is everywhere this winter. It&#8217;s at the grocery store where the checkout person is sneezing, on the public bus where you&#8217;re sitting next to someone who can&#8217;t stop hacking, and the most problematic, at work, where the co-worker you practically share a desk with has been wheezing for weeks.</p>
+<p>According to a <a href="http://officeteam.rhi.mediaroom.com/2014-01-28-survey-seven-in-10-workers-frequently-come-to-the-office-when-feeling-sick" target="_blank">2014 OfficeTeam survey,</a> seven in 10 workers say they come to work when they&#8217;re feeling sick, not wanting to take time off. This is a particularly frightening statistic considering the Center of Disease Control says people with the flu can spread the virus to people up to six feet away, mostly from droplets made when they sneeze, cough, or even just talk. People can also get the flu by touching objects or surfaces that have the virus on it.</p>
+<h2>MORE: <a href="http://stylecaster.com/13-ways-to-make-your-desk-a-healthier-space-in-2015/">How To Make Your Workplace Healthier </a></h2>
+<p>Indeed, the workplace is a minefield for illness, and soldiering on when you&#8217;re under the weather isn&#8217;t only bad for your own health, but also the health of everyone around you.</p>
+<p>Here, some etiquette rules to live by when you come down with something, with expert tips from <strong>Anna Post</strong>, the great-great-granddaughter of Emily Post, and a co-author of <em>Emily Post&#8217;s Etiquette, 18th edition</em>. &#8220;Good flu etiquette is really about having consideration for other people and not getting them sick,&#8221; Post told us. Amen.</p>
+<p><strong>1. Know the difference between the flu and the cold. </strong></p>
+<p>The flu and a cold come with similar symptoms, but it is crucial to know the difference between the two because the flu is <em>highly</em> contagious. Experts advise remembering the &#8216;F.A.C.T.S.&#8217; acronym to decide if you have the flu—F stands for fever, A is for aches, C is for chills, T is for tiredness and S stands for sudden onset (unlike a cold, the flu strikes fast). If you do find that you have the flu, keep in mind that the virus is contagious for a solid five to seven days, that it can spread via airborne droplets, and can infect someone who is up to six feet away from it. Yikes is right.</p>
+<p><strong>2. If you&#8217;re contagious, just stay home. </strong></p>
+<p>So you officially have the flu and you&#8217;re contagious. &#8220;I think the biggest flu etiquette offense is knowing you have flu symptoms and still going out instead of making an appointment with your doctor,&#8221; Post says. &#8220;If you know you&#8217;re not feeling well, you need to stay at home. That goes for work and travel and parties.&#8221;</p>
+<p><strong>3. Clean and disinfect the surfaces that you touch. </strong></p>
+<p>Those who have the flu should consider it their responsibility to clean and disinfect that they touch including sink faucets and door handles. Disinfecting wipes are your new best friend—just while you&#8217;re sick, of course.</p>
+<p><strong>4. Be aware when you sneeze and cough. </strong></p>
+<p>Cover your nose and mouth with a tissue when you sneeze and then throw the tissue away, immediately. Public health officials even suggest using anti-viral tissues since cold and flu viruses can live up to 24 hours on regular tissues. Find yourself without a tissue and need to sneeze or cough? Do it into your elbow, to prevent the virus from spreading.</p>
+<p><strong>5. Wash your hands and often</strong>.</p>
+<p>If you come down with something, become slightly compulsive about washing your hands (and for at least 20 seconds with both soap and warm water). This is particularly important before eating, after using the restroom, and after being outside. Hand sanitizer can also come in handy if you find yourself unable to wash your hands, so make sure that if you are sick you are carrying some around with you.</p>
+<p><strong>6. Just stop sharing things.</strong></p>
+<p>Just stop sharing things when you&#8217;re sick—particularly utensils, dishes, and linens. During flu season, simply switch over to disposable products where and when you can.</p>
+<p><strong>7. Stop being so polite.</strong></p>
+<p>Not sure what to do when normal social etiquette requires that you go in for a hug or a handshake and you&#8217;re sick? &#8220;Just tell them &#8216;I&#8217;m sorry, I feel like I&#8217;m coming down with something but it&#8217;s nice to meet you,'&#8221; says Post. &#8220;And if they&#8217;re sick, I would keep it simple and tell them, &#8216;I&#8217;m sorry I can&#8217;t shake hands but it&#8217;s nice to meet you.&#8217; Or shake hands and then immediately wash up.&#8221; Better safe than sorry.</p>
+<h2>MORE: <a href="http://stylecaster.com/is-it-really-okay-to-instagram-at-a-wedding-etiquette-experts-weigh-in/">Is It Really Okay to Instagram at a Wedding?</a></h2><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341984/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341984/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341984&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/flu-season-etiquette-a-field-guide-to-being-sick-at-work/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/sick1.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/sick1.jpg?w=150" medium="image">
+			<media:title type="html">Trooping of the Colour Celebration at Buckingham Palace</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6512c9332d6bbd9a9122e18ba9e19b6d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lbournestylecaster</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/wenn214569881.jpg" medium="image">
+			<media:title type="html">Trooping of the Colour Celebration at Buckingham Palace</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How to Turn an Old Book into a New Clutch</title>
+		<link>http://stylecaster.com/diy-book-clutch/</link>
+		<comments>http://stylecaster.com/diy-book-clutch/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 18:57:28 +0000</pubDate>
+		<dc:creator><![CDATA[Perrie Samotin]]></dc:creator>
+				<category><![CDATA[DIY]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[book bags]]></category>
+		<category><![CDATA[book clutch]]></category>
+		<category><![CDATA[diy projects]]></category>
+		<category><![CDATA[fashion diy projects]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[kate spade]]></category>
+		<category><![CDATA[olympia le-tan]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=342011</guid>
+		<description><![CDATA[Such a fun fashion DIY. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=342011&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<div id="attachment_342048" style="width: 916px" class="wp-caption aligncenter"><img class="wp-image-342048 size-full" src="https://scstylecaster.files.wordpress.com/2015/02/how-to-turn-an-old-book-into-a-new-clutch.jpg?w=906&#038;h=1254" alt="How to Turn an Old Book into a New Clutch" width="906" height="1254" title="How to Turn an Old Book into a New Clutch" /><p class="wp-caption-text">Olympia Le-Tan&#8217;s Book Clutch is almost $2,000. Time to DIY.</p></div>
+<p>You might have noticed that book bags—quite literally bags that are made to look like books—are having a fashion moment, often popping up on red carpets, on your favorite high-end shopping sites, and in the hands of street style stars.</p>
+<p>If you&#8217;re a fan, you also might have noticed that the really good ones—we&#8217;re talking <strong>Charlotte Olympia</strong>, <strong>Kate Spade</strong>, and <strong>Olympia Le-Tan</strong>—aren&#8217;t cheap. Quite the opposite: <a href="http://www.net-a-porter.com/product/516588/Olympia_Le_Tan/disney-peter-pan-embroidered-clutch" target="_blank" target="_blank">Le-Tan&#8217;s embroidered styles go for nearly $2,000. </a></p>
+<p>So, what&#8217;s a girl to do when faced with the desire for a piece of fashion, but not the budget? DIY that sh*t.</p>
+<p>While browsing one of our favorite blogs, A Beautiful Mess, <a href="http://www.abeautifulmess.com/2015/01/turn-an-old-book-into-a-new-purse.html" target="_blank" target="_blank">we found a do-it-yourself tutorial </a>that illustrates how to turn an old book (we suggest trolling thrift stores for vintage finds) into a rad clutch—and there&#8217;s no sewing required.</p>
+<p><a href="http://www.abeautifulmess.com/2015/01/turn-an-old-book-into-a-new-purse.html" target="_blank" target="_blank">Head over to A Beautiful Mess</a> now to see how to do it—it&#8217;s really easy!</p>
+<div id="attachment_342014" style="width: 810px" class="wp-caption aligncenter"><img class="wp-image-342014 size-full" src="https://scstylecaster.files.wordpress.com/2015/02/6a00d8358081ff69e201b8d0af362f970c-800wi.jpg?w=800&#038;h=1200" alt="DIY book clutch bag" width="800" height="1200" title="How to Turn an Old Book into a New Clutch" /><p class="wp-caption-text">Photos: A Beautiful Mess</p></div>
+<p><img class="aligncenter size-full wp-image-342024" src="https://scstylecaster.files.wordpress.com/2015/02/6a00d8358081ff69e201bb07cbab72970d-800wi.jpg?w=800&#038;h=1200" alt="6a00d8358081ff69e201bb07cbab72970d 800wi How to Turn an Old Book into a New Clutch" width="800" height="1200" title="How to Turn an Old Book into a New Clutch" /></p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/342011/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/342011/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=342011&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/diy-book-clutch/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/book-bag-diy.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/book-bag-diy.jpg?w=150" medium="image">
+			<media:title type="html">book bag diy</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5ef48b6c7d702c5acfd6756e3cf549cb?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">perriesamotin</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/how-to-turn-an-old-book-into-a-new-clutch.jpg" medium="image">
+			<media:title type="html">How to Turn an Old Book into a New Clutch</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/6a00d8358081ff69e201b8d0af362f970c-800wi.jpg" medium="image">
+			<media:title type="html">DIY book clutch bag</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/6a00d8358081ff69e201bb07cbab72970d-800wi.jpg" medium="image">
+			<media:title type="html">6a00d8358081ff69e201bb07cbab72970d-800wi</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>25 Celebrities Who Got Naked for PETA</title>
+		<link>http://stylecaster.com/celebrities-who-got-naked-for-peta-ads/</link>
+		<comments>http://stylecaster.com/celebrities-who-got-naked-for-peta-ads/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 17:50:23 +0000</pubDate>
+		<dc:creator><![CDATA[Kristen Bousquet]]></dc:creator>
+				<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[animal cruelty]]></category>
+		<category><![CDATA[celebrities in peta ads]]></category>
+		<category><![CDATA[celebrity ads]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[naked celebrities]]></category>
+		<category><![CDATA[naked celebrity photos]]></category>
+		<category><![CDATA[naked peta ads]]></category>
+		<category><![CDATA[Newsletter Main]]></category>
+		<category><![CDATA[peta]]></category>
+		<category><![CDATA[peta ads]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341922</guid>
+		<description><![CDATA[Movie stars, reality stars, porn stars, and more. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341922&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>When it come to anti-animal cruelty, anti-fur and vegetarianism, celebrities are leading the charge. Apart from publicly declaring they won&#8217;t wear fur or pledging allegiance to a plant-based diet, lots of famous folks also prove their point by getting naked in PETA&#8217;s iconic ads.</p>
+<h2>MORE: <a href="http://stylecaster.com/animal-instagram-accounts/"title="The 20 Cutest Animal Instagram Accounts" >The 20 Cutest Animal Instagram Accounts</a></h2>
+<p>The newest star to bare all for PETA? That&#8217;d be rocker Pink, whose ad just debuted, but the organization also has a knack for tapping movie stars, reality stars, and porn stars.</p>
+<p>Here, we&#8217;ve rounded up 25 celebs who used their large followings to get the word out about animal cruelty by baring it all in PETA advertisements.</p>
+<p>&nbsp;</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341922/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341922/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341922&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/celebrities-who-got-naked-for-peta-ads/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/petapinkfurad721.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/petapinkfurad721.jpg?w=150" medium="image">
+			<media:title type="html">PETApinkFURad721</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/906ee5615e7fb36a28b1bf15b10895d4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">couturekristen</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>We Asked 4 Top Bloggers to Flat-Lay Their Fashion Week Outfits</title>
+		<link>http://stylecaster.com/bloggers-to-flat-lay-their-fashion-week-outfits/</link>
+		<comments>http://stylecaster.com/bloggers-to-flat-lay-their-fashion-week-outfits/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 17:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[Jasmine Garnsworthy]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Fashion Blogs]]></category>
+		<category><![CDATA[fashion bloggers]]></category>
+		<category><![CDATA[Fashion Week]]></category>
+		<category><![CDATA[flat-lay]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[margaret zhang]]></category>
+		<category><![CDATA[New York Fashion Week]]></category>
+		<category><![CDATA[Newsletter Main]]></category>
+		<category><![CDATA[Pink Peonies]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341339</guid>
+		<description><![CDATA[We asked 4 jet-setters to flat lay what they're bringing.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341339&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Unless you&#8217;ve been hibernating under a rock this winter (wouldn&#8217;t blame you), you probably aware that <a href="http://stylecaster.com/what-nyfw-is-like-for-a-street-style-photographer-getty-images-timur-emek-tells-all/"title="What NYFW is Like For a Street Style Photographer: Getty Images’ Timur Emek Tells All" >New York Fashion Week</a> is kicking off tomorrow. That means out-of-town <a href="http://stylecaster.com/17-fashion-bloggers-who-also-have-awesome-online-stores/"title="17 Fashion Bloggers Who Also Have Awesome Online Stores" >fashion bloggers</a> are rolling into the city&#8217;s airports today, toting bags filled with who-knows-what wardrobe wonders.</p>
+<p>So, ahead of fashion&#8217;s biggest week, we asked four of our favorite jet-set style bloggers to go ahead and show us what they&#8217;re packing for the New York circuit. We gathered four flat lay shots from across the globe to get a better idea of what you can expect the style crowd to step out in this season. Take a look.</p>
+<div id="attachment_341940" style="width: 680px" class="wp-caption aligncenter"><img class="wp-image-341940 size-medium" src="https://scstylecaster.files.wordpress.com/2015/02/10955430_10153089876829882_59161445_o.jpg?w=670&#038;h=514" alt="what fashion bloggers pack for fashion week" width="670" height="514" title="We Asked 4 Top Bloggers to Flat Lay Their Fashion Week Outfits" /></a><p class="wp-caption-text"><em>Photo: Margaret Zhang</em></p></div>
+<p><strong>1. Margaret Zhang, <a href="http://shinebythree.com/" target="_blank" target="_blank">Shine by Three</a></strong></p>
+<p><strong>Home is:</strong> Sydney, Australia.</p>
+<p><strong>What I&#8217;m packing for for New York Fashion Week: </strong>Uniqlo heat tech thermals (thank god), a massive Preen khaki overcoat to make anything look put together, my cameras, laptop, various chargers, and a seriously good hydrating face mask.</p>
+<p><strong>Shows I&#8217;m most looking forward to: </strong>I&#8217;m so looking forward to see what<strong> Jonathan Simkhai</strong> and<strong> Delpozo</strong> come up with this season&#8211;they always push the envelope when it comes to silhouettes and textiles.</p>
+<h2><strong>MORE: <a href="http://stylecaster.com/17-fashion-bloggers-who-also-have-awesome-online-stores/"title="17 Fashion Bloggers Who Also Have Awesome Online Stores" >17 Fashion Bloggers Who Have Online Stores</a></strong></h2>
+<div id="attachment_341341" style="width: 610px" class="wp-caption aligncenter"><img class="wp-image-341341" src="https://scstylecaster.files.wordpress.com/2015/02/unknown.jpeg?w=600&#038;h=600" alt="what fashion bloggers are bringing to New York Fashion Week" width="600" height="600" title="We Asked 4 Top Bloggers to Flat Lay Their Fashion Week Outfits" /></a><p class="wp-caption-text"><em>Photo: Fashionata</em></p></div>
+<p><strong>2. Sofia Valkiers, <a href="http://www.fashionata.com/" target="_blank">Fashionata</a></strong></p>
+<p><strong>Home is:</strong> Antwerp, Belgium.</p>
+<p><strong>What I&#8217;m packing for New York Fashion Week:</strong> My MacBook, a pair of statement heels, loads of denim, my La Mer moisturizer and my oversized sunglasses.</p>
+<p><strong>Most memorable fashion week moment:</strong> Falling flat on my face at a Kenzo show when everybody was already seated. <em>Auch</em>!!! But I just got up and pretended like nothing happened with a big smile&#8211;just like a runway model, right?</p>
+<div id="attachment_341938" style="width: 513px" class="wp-caption aligncenter"><img class="size-medium wp-image-341938" src="https://scstylecaster.files.wordpress.com/2015/02/image11.jpg?w=503&#038;h=670" alt="what fashion blogger pack for fashion week" width="503" height="670" title="We Asked 4 Top Bloggers to Flat Lay Their Fashion Week Outfits" /></a><p class="wp-caption-text"><em>Photo: Pink Peonies</em></p></div>
+<p><strong> 3.</strong> <strong>Rachel Parcell, <a href="http://pinkpeonies.com/" target="_blank">Pink Peonies</a></strong></p>
+<p><strong>Home is: </strong>Salt Lake City, U.S.A.</p>
+<p><strong>What I&#8217;m packing for New York Fashion Week: </strong>Sophisticated (and warm) coats, chic booties, leather glove, feminine jewelry, versatile handbags, and nude pumps.</p>
+<p><strong>Shows I&#8217;m most looking forward to:</strong><i> </i><strong>Tory Burch</strong> is always a favorite of mine. I love the prints and textures she uses in each collection!</p>
+<div id="attachment_341972" style="width: 610px" class="wp-caption aligncenter"><img class=" wp-image-341972" src="https://scstylecaster.files.wordpress.com/2015/02/flatlay.jpg?w=600&#038;h=600" alt="what fashion bloggers are packing for fashion week" width="600" height="600" title="We Asked 4 Top Bloggers to Flat Lay Their Fashion Week Outfits" /></a><p class="wp-caption-text"><em>Photo: Xssat Street Fashion</em></p></div>
+<p><strong>4. Ashka Shen, <a href="http://www.xssatstreetfashion.com/" target="_blank" target="_blank">Xssat Street Fashion</a></strong></p>
+<p><strong>Home is:</strong> Shanghai, China/Sydney, Australia (and soon New York).</p>
+<p class="p1"><strong>What I&#8217;m packing for New York Fashion Week: </strong>A down coat, snow boots, my Saint Laurent Betty bag, lots of multivitamins for the long days and my Canon camera of course.</p>
+<p class="p1"><strong>Most memorable fashion week moment:</strong> The first time I shot street style at NYFW was 2012: When I spotted the likes of street style stars <a href="http://stylecaster.com/street-style-milan-miroslava-duma/"title="20 Street Style Snaps from Milan: Miroslava Duma, Anna Dello Russo, More"  target="_blank"><strong>Miroslava Duma</strong></a> and <strong>Anna Dello Russo</strong>, my jaw just dropped, and it took me a good second or two before I snapped out of it and start snapping <em>photos</em>. Even though we&#8217;ve all seen hundreds of photos of them, it was still amazing to see with my own eyes just how stylish and daring these women are.</p>
+<h2 class="p1"><strong>MORE: <a href="http://stylecaster.com/what-nyfw-is-like-for-a-street-style-photographer-getty-images-timur-emek-tells-all/"title="What NYFW is Like For a Street Style Photographer: Getty Images’ Timur Emek Tells All" >What NYFW is Like For a Street Style Photographer</a></strong></h2>
+<p>&nbsp;</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341339/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341339/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341339&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/bloggers-to-flat-lay-their-fashion-week-outfits/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/10955430_10153089876829882_59161445_o1-e1423672801782.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/10955430_10153089876829882_59161445_o1-e1423672801782.jpg?w=150" medium="image">
+			<media:title type="html">what fashion bloggers are bringing to NYFW</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fbaad76020db98f48be0adbb99582db9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jasminegarnsworthy1805</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/10955430_10153089876829882_59161445_o.jpg?w=670" medium="image">
+			<media:title type="html">what fashion bloggers pack for fashion week</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/unknown.jpeg?w=670" medium="image">
+			<media:title type="html">what fashion bloggers are bringing to New York Fashion Week</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/image11.jpg?w=503" medium="image">
+			<media:title type="html">what fashion blogger pack for fashion week</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/flatlay.jpg?w=670" medium="image">
+			<media:title type="html">what fashion bloggers are packing for fashion week</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Turns Out, Men Aren&#8217;t Hardwired to Sleep Around After All</title>
+		<link>http://stylecaster.com/men-not-hardwired-to-be-players-and-sleep-around/</link>
+		<comments>http://stylecaster.com/men-not-hardwired-to-be-players-and-sleep-around/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 16:58:50 +0000</pubDate>
+		<dc:creator><![CDATA[Leah Bourne]]></dc:creator>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Love + Dating]]></category>
+		<category><![CDATA[Dating]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[men]]></category>
+		<category><![CDATA[Newsletter Main]]></category>
+		<category><![CDATA[relationships]]></category>
+		<category><![CDATA[sex]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341956</guid>
+		<description><![CDATA[Despite long-held theories. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341956&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-341981" src="https://scstylecaster.files.wordpress.com/2015/02/kf2xvk7nodxiuhfvigyx.jpg?w=636&#038;h=358" alt="carrie and big" width="636" height="358" title="Turns Out, Men Arent Hardwired to Sleep Around After All" /></p>
+<p>For years, men have been given a pass for being players, using evolution as a viable explanation for their behavior. The long-held theory assumes the more women a man has sex with, the more likely he is to pass on his genes—the measure of evolutionary success.</p>
+<h2>MORE: <a href="http://stylecaster.com/call-it-the-clooney-effect-how-george-is-affecting-the-way-men-date/">How George Clooney is Affecting the Way Men Date</a></h2>
+<p>Not so fast, guys. In a<a href="http://www.reuters.com/article/2015/01/14/us-science-mating-idUSKBN0KN00R20150114" target="_blank"> new study conducted at the University of Utah</a>, anthropologists presented evidence that male promiscuity is <em>not</em> actually something that&#8217;s hardwired, and found that whether men prefer commitment or flings actually depends a lot on their circumstances, particularly gender ratios.</p>
+<p>Bottom line here: When men don&#8217;t find themselves surrounded by a lot of women, they actually prefer long-term relationships. Women, meanwhile, when surrounded by a lot of men, and with a lot of dating choices, can be similarly interested in one-night stands, going against the common stereotype that women like to settle down.</p>
+<h2>MORE: <a href="http://stylecaster.com/study-says-you-should-be-less-picky-about-finding-a-partner/">Holding Out For Mr.Right? Don&#8217;t Bother</a></h2>
+<p><strong>Ryan Schacht</strong> and <strong>Monique Borgerhoff Mulder</strong> of the University of California Davis conducted a similar study examining eight communities in Makushi, Amerindians of Guyana. They found that the more men outnumbered women, the less likely they were to prefer flings over commitment.</p>
+<p>According to Schacht that makes perfect evolutionary sense too, because, according to him, commitment actually increases the number of &#8220;mating opportunities&#8221; men have compared to when they have to constantly seek out new partners.</p>
+<p>&#8220;The best strategy is to find one woman and stick with her,&#8221; he told <a href="http://www.reuters.com/article/2015/01/14/us-science-mating-idUSKBN0KN00R20150114" target="_blank">Reuters</a>.</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341956/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341956/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341956&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/men-not-hardwired-to-be-players-and-sleep-around/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/kf2xvk7nodxiuhfvigyx.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/kf2xvk7nodxiuhfvigyx.jpg?w=150" medium="image">
+			<media:title type="html">carrie and big</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/6512c9332d6bbd9a9122e18ba9e19b6d?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">lbournestylecaster</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/kf2xvk7nodxiuhfvigyx.jpg" medium="image">
+			<media:title type="html">carrie and big</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Traveling? 25 Comfy-But-Cute Outfits to Wear on the Plane</title>
+		<link>http://stylecaster.com/outfits-to-wear-while-traveling-on-a-plane/</link>
+		<comments>http://stylecaster.com/outfits-to-wear-while-traveling-on-a-plane/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 16:35:28 +0000</pubDate>
+		<dc:creator><![CDATA[Kristen Bousquet]]></dc:creator>
+				<category><![CDATA[Fashion]]></category>
+		<category><![CDATA[Outfit Ideas + Tips]]></category>
+		<category><![CDATA[What to Wear]]></category>
+		<category><![CDATA[airplane outfits]]></category>
+		<category><![CDATA[airport style]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[things to wear on an airplane]]></category>
+		<category><![CDATA[travel outfit]]></category>
+		<category><![CDATA[traveling outfit]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341883</guid>
+		<description><![CDATA[Chic on a plane. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341883&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Whether you&#8217;re headed to New York City for NYFW or you&#8217;re jetting off to see your long distance boyfriend for Valentine&#8217;s Day, if you&#8217;re traveling this weekend, looking stylish but being comfy is a must.</p>
+<h2>MORE: <a href="http://stylecaster.com/15-ways-to-sport-jogging-pants-like-a-fashion-pro/"title="15 Ways to Sport Jogging Pants Like a Fashion Pro" >15 Ways to Sport Jogging Pants Like a Fashion Pro</a></h2>
+<p>Managing to chose clothing that both looks good and is suitable for hours on an airplane can be a feat, but right now—when <a href="http://stylecaster.com/15-ways-to-sport-jogging-pants-like-a-fashion-pro/"title="15 Ways to Sport Jogging Pants Like a Fashion Pro"  target="_blank">jogging pants</a> and <a href="http://stylecaster.com/ways-to-style-an-oversized-sweater/"title="25 Ways to Pull Off an Oversized Sweater This Fall"  target="_blank">oversized sweaters</a> are trneding—it&#8217;s easier than ever.</p>
+<p>We&#8217;ve found some 25 outfits to wear when traveling that will be just as comfortable as they are stylish. Click through the slideshow above to check them out!</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341883/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341883/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341883&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/outfits-to-wear-while-traveling-on-a-plane/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/f605b651d0e1774f66f12bba6ff27b9d1.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/f605b651d0e1774f66f12bba6ff27b9d1.jpg?w=150" medium="image">
+			<media:title type="html">f605b651d0e1774f66f12bba6ff27b9d</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/906ee5615e7fb36a28b1bf15b10895d4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">couturekristen</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Of Course: Taylor Swift and Kanye West Are Recording a Song Together</title>
+		<link>http://stylecaster.com/it-was-only-a-matter-of-time-taylor-swift-and-kanye-west-are-recording-a-song-together/</link>
+		<comments>http://stylecaster.com/it-was-only-a-matter-of-time-taylor-swift-and-kanye-west-are-recording-a-song-together/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 16:13:49 +0000</pubDate>
+		<dc:creator><![CDATA[Jasmine Garnsworthy]]></dc:creator>
+				<category><![CDATA[Celebrity News]]></category>
+		<category><![CDATA[Entertainment]]></category>
+		<category><![CDATA[Music]]></category>
+		<category><![CDATA[collaborations]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[kanye west]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[Newsletter Featured]]></category>
+		<category><![CDATA[ryan seacrest]]></category>
+		<category><![CDATA[taylor swift]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341947</guid>
+		<description><![CDATA[It was only a matter of time. <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341947&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<div id="attachment_341970" style="width: 584px" class="wp-caption aligncenter"><img class="size-medium wp-image-341970" src="https://scstylecaster.files.wordpress.com/2015/02/banner-23.jpg?w=574&#038;h=670" alt="kanye west and taylor swift are collaborating" width="574" height="670" title="Of Course: Taylor Swift and Kanye West Are Recording a Song Together" /></a><p class="wp-caption-text"><em>Photo: Getty</em></p></div>
+<p>Here&#8217;s some surprising news:<strong> Kanye West</strong> and<strong> Taylor Swift</strong> have clearly moved passed West&#8217;s &#8220;<a href="http://stylecaster.com/kanye-west-apologizes-taylor-swift-interrupting-her-speech/"title="Kanye West Apologizes to Taylor Swift for Interrupting Her Speech"  target="_blank">Imma let you finish</a>&#8221; blunder, and are set to collaborate on a song together.</p>
+<p>Nope, this isn&#8217;t an early April Fools joke: Kanye made the announcement early this morning in a radio interview with <strong>Ryan Seacrest</strong>, suggesting the pair patched things up at the <a href="http://stylecaster.com/grammys-red-carpet-2015-all-the-amazing-and-outrageous-outfits/"title="Grammys Red Carpet 2015: All the Amazing—and Outrageous—Outfits"  target="_blank">Grammys</a> on the weekend, and now plan to work together on a musical collaboration.</p>
+<p>“[Taylor] wants to go in the studio,” Kanye <a href="http://t.co/gWfy6uhpia" target="_blank" rel="nofollow" target="_blank">told Ryan</a> this morning. He continued to explain that he is always looking to work with any artist who has a massive fan base, Swift included.</p>
+<p>“You heard it here first: <a href="https://twitter.com/kanyewest" target="_blank" target="_blank">@kanyewest</a> and <a href="https://twitter.com/taylorswift13" target="_blank" target="_blank">@taylorswift13</a> are going into the studio together!” tweeted Ryan Seacrest’s <a href="https://twitter.com/OnAirWithRyan/status/565528243814813697" target="_blank" rel="nofollow" target="_blank">radio show</a> after his interview with Kanye.</p>
+<div class="embed-twitter">
+<blockquote class="twitter-tweet" width="500">
+<p>You heard it here first: <a href="https://twitter.com/kanyewest" target="_blank">@kanyewest</a> and <a href="https://twitter.com/taylorswift13" target="_blank">@taylorswift13</a> are going into the studio together! 😱</p>
+<p>&mdash; On Air/Ryan Seacrest (@OnAirWithRyan) <a href="https://twitter.com/OnAirWithRyan/status/565528243814813697" target="_blank">February 11, 2015</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<p>The announcement comes shortly after Kanye <a href="http://stylecaster.com/rihanna-kanye-and-paul-mccartneys-fourfiveseconds-video-is-here/"title="Rihanna, Kanye, and Paul McCartney’s ‘FourFiveSeconds’ Video is Here!"  target="_blank">released a song</a> &#8220;FourFiveSeconds&#8221; with <strong>Rihanna</strong> and <strong>Paul McCartney. </strong></p>
+<p>We can&#8217;t wait to see what Swift and West come up with.</p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341947/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341947/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341947&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/it-was-only-a-matter-of-time-taylor-swift-and-kanye-west-are-recording-a-song-together/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/banner-taylow-swift-and-kanye.jpg?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/banner-taylow-swift-and-kanye.jpg?w=150" medium="image">
+			<media:title type="html">banner-taylow-swift-and-kanye</media:title>
+		</media:content>
+
+		<media:content url="http://0.gravatar.com/avatar/fbaad76020db98f48be0adbb99582db9?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">jasminegarnsworthy1805</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/banner-23.jpg?w=574" medium="image">
+			<media:title type="html">kanye west and taylor swift are collaborating</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Your BFF Needs This Taco-Shaped Cord Organizer Perfect For Valentine&#8217;s Day</title>
+		<link>http://stylecaster.com/leather-cord-organizer/</link>
+		<comments>http://stylecaster.com/leather-cord-organizer/#comments</comments>
+		<pubDate>Wed, 11 Feb 2015 15:35:16 +0000</pubDate>
+		<dc:creator><![CDATA[Perrie Samotin]]></dc:creator>
+				<category><![CDATA[Accessories]]></category>
+		<category><![CDATA[Shopping]]></category>
+		<category><![CDATA[black leather bag]]></category>
+		<category><![CDATA[cord organizers]]></category>
+		<category><![CDATA[editor's pick]]></category>
+		<category><![CDATA[homepage]]></category>
+		<category><![CDATA[small leather goods]]></category>
+		<category><![CDATA[this is ground]]></category>
+		<category><![CDATA[valentine's day]]></category>
+		<category><![CDATA[valentine's day gift]]></category>
+
+		<guid isPermaLink="false">http://stylecaster.com/?p=341910</guid>
+		<description><![CDATA[A leather cord organizer. Shaped like a taco. That says funny things.<img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341910&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-341916" src="https://scstylecaster.files.wordpress.com/2015/02/screenshot-2015-01-30-14-26-51.png?w=582&#038;h=577" alt="Screenshot 2015-01-30 14.26.51" width="582" height="577" title="Your BFF Needs This Taco Shaped Cord Organizer Perfect For Valentines Day" /></p>
+<p><a href="http://stylecaster.com/the-daily-edited-monogrammed-leather-accessories/"title="Minimalists Will Love This New Leather Accessories Brand"  target="_blank">Like many women</a>, I&#8217;m a sucker for <a href="http://stylecaster.com/the-daily-edited-monogrammed-leather-accessories/"title="Minimalists Will Love This New Leather Accessories Brand"  target="_blank">small leather goods</a>—mini card cases, pouches, and passport holders, even minuscule address books (those are actual <em>books</em> where people would write down where other people live—what a concept.) One thing I don&#8217;t have? A mini leather cord organizer shaped like a taco embossed with sayings like &#8220;Swipe Right,&#8221; &#8220;Eat Me,&#8221; and &#8220;I&#8217;d Tag That.&#8221;</p>
+<h2>MORE: <a href="http://stylecaster.com/valentines-day-ideas/"title="50 Genius Valentine’s Day Ideas From Pinterest"  target="_blank">50 Genius Valentine’s Day Ideas From Pinterest</a></h2>
+<p>They&#8217;re called Sweetheart Tacos, and they&#8217;re the perfect way to contain earbuds, USB cords, phone chargers, and other sundry wires we schlep around (and dedicate precious moments of our lives untangling.)</p>
+<p>Plus—because they&#8217;re adorable without being sappy—they&#8217;re also the best Valentine&#8217;s Day gift ever if you&#8217;re in the market for something cute for your BFF. Or BFFs, since you can snag all five for $40.</p>
+<p>I&#8217;m planning to keep one for myself—my small leather goods collection could use a modern update (sorry, address books.)</p>
+<p><em>Sweetheart Tacos, $12 each or all five for $40; at <a href="http://thisisground.com/products/sweetheart-tacos" target="_blank" target="_blank">This is Ground</a></em></p>
+<p><img class="aligncenter size-full wp-image-341917" src="https://scstylecaster.files.wordpress.com/2015/02/this-is-ground_st_2.png?w=691&#038;h=663" alt="This Is Ground_ST_2" width="691" height="663" title="Your BFF Needs This Taco Shaped Cord Organizer Perfect For Valentines Day" /></p>
+<p><img class="aligncenter size-full wp-image-341918" src="https://scstylecaster.files.wordpress.com/2015/02/this-is-ground_st_3.png?w=732&#038;h=681" alt="This Is Ground_ST_3" width="732" height="681" title="Your BFF Needs This Taco Shaped Cord Organizer Perfect For Valentines Day" /></p>
+<p><img class="aligncenter size-full wp-image-341919" src="https://scstylecaster.files.wordpress.com/2015/02/this-is-ground_st_.png?w=698&#038;h=714" alt="This Is Ground_ST_" width="698" height="714" title="Your BFF Needs This Taco Shaped Cord Organizer Perfect For Valentines Day" /></p><br />  <a href="http://feeds.wordpress.com/1.0/gocomments/scstylecaster.wordpress.com/341910/"rel="nofollow"  target="_blank"><img alt="" border="0" src="http://feeds.wordpress.com/1.0/comments/scstylecaster.wordpress.com/341910/" /></a> <img alt="" border="0" src="http://pixel.wp.com/b.gif?host=stylecaster.com&#038;blog=35011528&#038;post=341910&#038;subd=scstylecaster&#038;ref=&#038;feed=1" width="1" height="1" />]]></content:encoded>
+			<wfw:commentRss>http://stylecaster.com/leather-cord-organizer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="https://scstylecaster.files.wordpress.com/2015/02/screenshot-2015-01-30-14-26-51.png?w=150" />
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/screenshot-2015-01-30-14-26-51.png?w=150" medium="image">
+			<media:title type="html">Screenshot 2015-01-30 14.26.51</media:title>
+		</media:content>
+
+		<media:content url="http://2.gravatar.com/avatar/5ef48b6c7d702c5acfd6756e3cf549cb?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">perriesamotin</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/screenshot-2015-01-30-14-26-51.png" medium="image">
+			<media:title type="html">Screenshot 2015-01-30 14.26.51</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/this-is-ground_st_2.png" medium="image">
+			<media:title type="html">This Is Ground_ST_2</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/this-is-ground_st_3.png" medium="image">
+			<media:title type="html">This Is Ground_ST_3</media:title>
+		</media:content>
+
+		<media:content url="https://scstylecaster.files.wordpress.com/2015/02/this-is-ground_st_.png" medium="image">
+			<media:title type="html">This Is Ground_ST_</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

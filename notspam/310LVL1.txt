@@ -1,0 +1,4916 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<![endif]-->
+
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+<!--<![endif]-->
+
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="initial-scale=0.25">
+<meta name="google-site-verification" content="AtTLn3QoNphtSnwY0DJf2fR2nVEnBiIrejAjqEF-ah0" />
+<title>Designer Suits for Women| Designer Blouses| Dresses for Girls| Ekmatra.com</title>
+<!--<link href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/febric.css' rel='stylesheet' type='text/css'>-->
+<link href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/febric.css' rel='stylesheet' type='text/css'>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="shortcut icon" href="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/favicon.ico" type="image/x-icon"/>
+
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+<!--<link href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/productscript.css' rel='stylesheet' type='text/css'>
+
+<link href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/cloud-zoom.css' rel='stylesheet' type='text/css'>-->
+<link href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/productscript.css' rel='stylesheet' type='text/css'>
+
+<link href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/cloud-zoom.css' rel='stylesheet' type='text/css'>
+
+<link rel="pingback" href="http://ekmatra.com/eshopbox/xmlrpc.php" />
+
+
+<!--[if lt IE 9]>
+
+<script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+
+<![endif]-->
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.19 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="Buy designer suits for women, designer blouses and dresses for girls from wide range at our store. Get best styles in shirts for girls and designer suits at Ekmatra.com"/>
+<link rel="canonical" href="http://ekmatra.com/product-category/ladies/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Designer Suits for Women| Designer Blouses| Dresses for Girls| Ekmatra.com" />
+<meta property="og:url" content="http://ekmatra.com/product-category/ladies/" />
+<meta property="og:site_name" content="Ekmatra" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='stylesheet' id='contact-form-7-css'  href='http://ekmatra.com/eshop-ekmatra/applications/contact-form-7/includes/css/styles.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/style.css?ver=4.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='mytheme-css'  href='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/css/ekmatra.css?ver=20121010' type='text/css' media='all' />
+<script type='text/javascript' src='http://ekmatra.com/eshopbox/eshop-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshopbox/eshop-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MyAjax = {"ajaxurl":"http:\/\/ekmatra.com\/eshopbox\/eshop-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/eshopbox-checkcod/assets/app.js?ver=4.0'></script>
+<meta name="generator" content="WordPress 4.0" />
+<link rel="alternate" type="application/rss+xml"  title="New products added to Ladies" href="http://ekmatra.com/shop/feed/?product_cat=ladies" />
+
+<!-- WooCommerce Version -->
+<meta name="generator" content="WooCommerce 2.0.12" />
+
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<!--<script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/jquery-1.8.3.min.js" type="text/javascript"></script>-->
+<script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<!--<script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/jquery.isotope.min.js" type="text/javascript"></script>-->
+
+<script type="text/javascript" src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/tracker.min.js"></script> 
+
+<script type="text/javascript">giveterTracker("false");</script>
+
+<script>
+jQuery(function () {
+	jQuery(window).scroll(function () {
+				if (jQuery(this).scrollTop() > 96) {
+					jQuery('body').addClass('fixed');
+				} else {
+					jQuery('body').removeClass('fixed');
+				}
+	});
+	});
+</script>
+
+<script>
+	jQuery(document).ready(function(){
+	//var popupopen=jQuery('#popupopen').val();
+	//alert(jQuery.cookie('shown_modal'));
+	//if (jQuery.cookie('shown_modal')==undefined) {
+		//jQuery.cookie('shown_modal', 'true');
+		//var id = jQuery(this).attr('href');
+		//var maskHeight = jQuery(document).height();
+		//var maskWidth = jQuery(window).width();
+		//jQuery('#mask').css({'width':maskWidth,'height':maskHeight});
+		//jQuery('#mask').fadeIn(1000);
+		//jQuery('#mask').fadeTo("fast",0.8);
+		//var winH = jQuery(window).height();
+		//var winW = jQuery(window).width();
+		//jQuery('#offer_popup').show();
+		//jQuery('#mask').show();
+		//jQuery('#popupopen').val('5');
+	//}
+	
+	jQuery('.zoomclose_icon').click(function(e) {
+		jQuery('#mask').hide();
+		jQuery('#offer_popup').hide();
+	 });
+	 
+	});
+	</script>
+ <script>
+jQuery(document).ready(function(){
+jQuery('.headerofferblock').click(function(e){alert('ekmatra');
+	//Cancel the link behavior
+				e.preventDefault();
+				//Get the A tag
+				var id = jQuery(this).attr('href');
+				//Get the screen height and width
+				var maskHeight = jQuery(document).height();
+				var maskWidth = jQuery(window).width();
+				//Set heigth and width to mask to fill up the whole screen
+				jQuery('#mask').css({'width':maskWidth,'height':maskHeight});
+				//transition effect
+				jQuery('#mask').fadeIn(1000);
+				jQuery('#mask').fadeTo("fast",0.8);
+				//Get the window height and width
+				var winH = jQuery(window).height();
+				var winW = jQuery(window).width();		
+				//jQuery(id).fadeIn(1000);
+				jQuery('#offer_popup').show();
+		});										
+jQuery(".headerofferblock").css("display","none").first().fadeIn(1000);
+	setInterval(displayPosts, 4000);	
+								
+});
+function displayPosts(){
+   		jQuery(".headerofferblock:visible").fadeOut(function(){
+        jQuery(".headerofferblock").eq((jQuery(this).index() + 1)%2).fadeIn(1000);
+   })
+}
+</script>      
+<script type="text/javascript">
+function cycleImages(){
+      var $active = jQuery('#cycler .active');
+      var $next = ($active.next().length > 0) ? $active.next() : jQuery('#cycler img:first');
+      $next.css('z-index',2);//move the next image up the pile
+      $active.fadeOut(1500,function(){//fade out the top image
+	  $active.css('z-index',1).show().removeClass('active');//reset the z-index and unhide the image
+      $next.css('z-index',3).addClass('active');//make the next image the top one
+      });
+    }
+
+jQuery(document).ready(function(){
+
+   
+   	
+	
+// run every 7s
+setInterval('cycleImages()', 5000);
+})</script>
+
+</head>
+
+<input type="hidden" name="popupopen" id="popupopen" value="1" />
+<body class="archive tax-product_cat term-ladies term-64 full-width custom-font-enabled single-author woocommerce woocommerce-page">
+<div id="top"></div>
+<div id="back-top" style="">
+	<a href="#top"><span></span></a>
+</div>
+<header id="masthead" class="site-header" role="banner">
+
+    	<div class="maincontainer">
+            
+    		<div class="pull-left">
+
+        	<div class="logo">
+
+        	
+			<a href="http://ekmatra.com/"><img src="http://ekmatra.com/eshop-ekmatra/uploads/copy-copy-logo-1.png" class="header-image" alt="" /></a>
+
+		
+        </div>
+
+        </div>
+
+    		<div class="pull-right">
+
+        	<ul id="ajaxcartdata" style="visibility:hidden;">
+				<!--<li class="headerofferblock headerofferblock1"><a href="javascript://">Get 20% off</a></li>
+                 <li class="headerofferblock headerofferblock2"><a href="javascript://">Get 20% off</a></li>
+                <li class="seperator">|</li>-->
+            	<li><a href="/faqs/" title="CUSTOMER SERVICE">CUSTOMER SERVICE</a></li>
+
+                <li class="seperator">|</li>
+
+            	<li><a href="/trackmyorder" title="Track Order">Track Order</a></li>
+
+            	<li class="seperator">|</li>
+<li class="last"><a  href="/cart" title="Shopping Cart">Shopping Cart (0)</a></li><!--                <li class="last"><a href="/cart" title="Shopping Cart">Shopping Cart ()</a></li>-->
+
+            </ul>
+
+            <nav id="site-navigation" class="main-navigation" role="navigation">
+
+			<h3 class="menu-toggle">Menu</h3>
+
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+
+			<div class="menu-header-menu-container"><ul id="menu-header-menu" class="nav-menu"><li id="menu-item-2717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2717"><a href="http://ekmatra.com">HOME</a></li>
+<li id="menu-item-2715" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2715"><a href="http://ekmatra.com/product-category/gents/">MEN</a></li>
+<li id="menu-item-2716" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-2716"><a href="http://ekmatra.com/product-category/ladies/">WOMEN</a></li>
+<li id="menu-item-3643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3643"><a href="http://ekmatra.com/about/">About</a></li>
+<li id="menu-item-3767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3767"><a href="http://ekmatra.com/fabric-2/">Fabric</a></li>
+<li id="menu-item-3810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3810"><a href="http://ekmatra.com/contactus/">CONTACT</a></li>
+</ul></div>
+		</nav><!-- #site-navigation -->
+
+        
+
+        </div>
+
+        </div>
+
+    </header><!-- #masthead -->
+
+	<div id="page" class="hfeed site">
+
+		<div id="main" class="wrapper">
+
+
+<div id="listingbanner">	
+   		
+</div>
+<div class="widgetblock" id="options">
+	<aside id="nav_menu-5" class="widget widget_nav_menu"><h3 class="widget-title">WOMENS COLLECTION :</h3><div class="menu-listingwomencategory-container"><ul id="menu-listingwomencategory" class="menu"><li id="menu-item-2811" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-2811"><a href="http://ekmatra.com/product-category/ladies/">All Styles</a></li>
+<li id="menu-item-2812" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2812"><a href="http://ekmatra.com/product-category/ladies/ladies-kurta/">Kurta</a></li>
+<li id="menu-item-6844" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6844"><a href="http://ekmatra.com/product-category/ladies/ladies-tunic/">Tunic</a></li>
+<li id="menu-item-2813" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2813"><a href="http://ekmatra.com/product-category/ladies/ladies-shirt/">Shirt</a></li>
+<li id="menu-item-2814" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-2814"><a href="http://ekmatra.com/product-category/ladies/ladies-suit/">Suit</a></li>
+<li id="menu-item-4954" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4954"><a href="http://ekmatra.com/product-category/ladies/ladies-blause/">Top</a></li>
+<li id="menu-item-5305" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-5305"><a href="http://ekmatra.com/product-category/ladies/bottom-wear/">Bottom Wear</a></li>
+</ul></div></aside></div>
+<div class="categoryimage">
+<img width="1038" height="350" src="http://ekmatra.com/eshop-ekmatra/uploads/categoryimage.jpg" class="attachment-shop_enlarge" alt="categoryimage" /></div>
+	
+
+	<div id="primary" class="site-content"><div id="content" role="main"><nav class="woocommerce-breadcrumb" itemprop="breadcrumb"><a class="home" href="http://ekmatra.com">Home</a> &#47; Ladies</nav>
+
+
+		
+
+
+			<h1 class="page-title">Ladies</h1>
+
+
+
+		
+
+
+		
+
+
+		
+
+
+			<p class="woocommerce-result-count">
+	Showing all 81 results</p><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby">
+		<option value="menu_order"  selected='selected'>Default sorting</option><option value="popularity" >Sort by popularity</option><option value="date" >Sort by newness</option><option value="price" >Sort by price: low to high</option><option value="price-desc" >Sort by price: high to low</option>	</select>
+	</form>
+
+
+
+			
+<ul class="products" id="foo6">
+
+
+
+				
+
+
+				
+
+
+					
+<li class="post-7273 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/charvee-boat-neck-top/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/1-46-345x514.jpg" class="attachment-medium wp-post-image" alt="1 (46)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/charvee-boat-neck-top/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/charvee-boat-neck-top/">Charvee Boat Neck Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,299</span></del> <ins><span class="amount">INR 800</span></ins></span>
+<span class="ekmatra_offprice">-38 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Boat neckline top. Half sleeves. Empire cut with button placket detail on the back.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  M, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/charvee-boat-neck-top/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/charvee-boat-neck-top/" rel="nofollow" data-product_id="7273" data-product_sku="LB041" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-7057 product type-product status-publish has-post-thumbnail hentry isotope-item element product-124 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/taruni-bell-sleeves-top/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/1-34-345x514.jpg" class="attachment-medium wp-post-image" alt="1 (34)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/taruni-bell-sleeves-top/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/taruni-bell-sleeves-top/">Taruni Bell Sleeves Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,199</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Wrap top with ban collar &amp; v cut. Soft gathers below the waist to add flare to the top. Bell sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/taruni-bell-sleeves-top/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/taruni-bell-sleeves-top/" rel="nofollow" data-product_id="7057" data-product_sku="LB040" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6867 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/chandika-contrast-stitch-tunic/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0148-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0148" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/chandika-contrast-stitch-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/chandika-contrast-stitch-tunic/">Chandika Contrast Stitch Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,799</span></del> <ins><span class="amount">INR 1,259</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Mandarin collar with v cut tunic. Contrast stitch detail at the two yokes. Half sleeves</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/chandika-contrast-stitch-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/chandika-contrast-stitch-tunic/" rel="nofollow" data-product_id="6867" data-product_sku="LLK548" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-7050 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-152 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/vandya-half-sleeves-tunic/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/1-19-345x514.jpg" class="attachment-medium wp-post-image" alt="1 (19)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/vandya-half-sleeves-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/vandya-half-sleeves-tunic/">Vandya half sleeves tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,299</span></del> <ins><span class="amount">INR 1,609</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Rounded v neck with a patch insert. No armhole. Solders are extended till the sleeve length. Elasticated waist line that creates soft gathers. Side slit on the left side.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, M, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/vandya-half-sleeves-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/vandya-half-sleeves-tunic/" rel="nofollow" data-product_id="7050" data-product_sku="LLK542" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-7029 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-65 no-transition sale featured instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/brahmane-ban-collar-shirt/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="515" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0077-345x515.jpg" class="attachment-medium wp-post-image" alt="DSC_0077" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/brahmane-ban-collar-shirt/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/brahmane-ban-collar-shirt/">Brahmane Ban Collar Shirt</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,399</span></del> <ins><span class="amount">INR 979</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Ban collar shirt, front open till bottom hem. 10 rows of 1/4” width pin tucks along the placket. 3/4th sleeves with cuff of 1 1/4”.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XXS, XS, S, M, L</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/brahmane-ban-collar-shirt/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/brahmane-ban-collar-shirt/" rel="nofollow" data-product_id="7029" data-product_sku="LSH010" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-7019 product type-product status-publish has-post-thumbnail hentry isotope-item element product-65 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ayyai-mandarin-collar-shirt/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/1-28-345x514.jpg" class="attachment-medium wp-post-image" alt="1 (28)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ayyai-mandarin-collar-shirt/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ayyai-mandarin-collar-shirt/">Ayyai Mandarin Collar Shirt</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 1,299</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Mandarin color stirt. Three quarter sleeves with cuff &#038; slits. Mittered shape patch pocket on the left front.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ayyai-mandarin-collar-shirt/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ayyai-mandarin-collar-shirt/" rel="nofollow" data-product_id="7019" data-product_sku="LSH009" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-7008 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/bala-round-neck-tunic-3/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0156-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0156" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/bala-round-neck-tunic-3/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/bala-round-neck-tunic-3/">Bala Round Neck Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,799</span></del> <ins><span class="amount">INR 1,959</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck line with three rows of silk braids. Three quarter puffed sleeves. Waist dart in front, Pleats at the back under the neck line. A-line tunic.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/bala-round-neck-tunic-3/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/bala-round-neck-tunic-3/" rel="nofollow" data-product_id="7008" data-product_sku="LLK 547" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6817 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-137 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anuttama-ban-collar-tunic/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="515" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0267-345x515.jpg" class="attachment-medium wp-post-image" alt="DSC_0267" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anuttama-ban-collar-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anuttama-ban-collar-tunic/">Anuttama Ban Collar Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,299</span></del> <ins><span class="amount">INR 1,609</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Mandarin collar A-line front open kurta, with potli button enclosure. Arm hole princess cut with pipin detailing. Three quarter sleeves. No Side Slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anuttama-ban-collar-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anuttama-ban-collar-tunic/" rel="nofollow" data-product_id="6817" data-product_sku="LLK553" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6997 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-137 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anavadyangi-embroidered-long-kurta/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0260-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0260" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anavadyangi-embroidered-long-kurta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anavadyangi-embroidered-long-kurta/">Anavadyangi Embroidered Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,299</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>V veck lokng kurta with a glass shaped yoke, which has contrast color embroidery along the yoke. Three quarter sleeves, side slits open.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anavadyangi-embroidered-long-kurta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anavadyangi-embroidered-long-kurta/" rel="nofollow" data-product_id="6997" data-product_sku="LLK563" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6985 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ojovati-shirt-collar-tunic/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0209-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0209" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ojovati-shirt-collar-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ojovati-shirt-collar-tunic/">Ojovati Shirt Collar Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,299</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>shirt collar tunic with concieled placket till the waist. Glass shaped yoke, with contrast color embroidery detailing.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  M, L, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ojovati-shirt-collar-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ojovati-shirt-collar-tunic/" rel="nofollow" data-product_id="6985" data-product_sku="LLK564" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6974 product type-product status-publish has-post-thumbnail hentry isotope-item element product-137 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/nirakula-wrap-long-kurta/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0338-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0338" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/nirakula-wrap-long-kurta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/nirakula-wrap-long-kurta/">Nirakula wrap long kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 3,599</span></del> <ins><span class="amount">INR 2,519</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Wrap style long kurta, v neck with contrast color silk pipin detail. Full sleeves with slits. Side slits open.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/nirakula-wrap-long-kurta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/nirakula-wrap-long-kurta/" rel="nofollow" data-product_id="6974" data-product_sku="LLK558" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6964 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-137 no-transition sale featured instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/madhuprita-swan-neck-long-kurta/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0290-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0290" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/madhuprita-swan-neck-long-kurta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/madhuprita-swan-neck-long-kurta/">Madhuprita Swan Neck Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 5,399</span></del> <ins><span class="amount">INR 3,779</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>swan neck long flared kurta. Broad kalis from the empire line that adds flare to the kurta. Broad silk border. Three quarter sleeves, sleeve opening slanted with silk detail.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/madhuprita-swan-neck-long-kurta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/madhuprita-swan-neck-long-kurta/" rel="nofollow" data-product_id="6964" data-product_sku="LLK557" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6954 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/kamya-angrakha-kurta/">
+
+		<img width="345" height="515" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0180-345x515.jpg" class="attachment-medium wp-post-image" alt="DSC_0180" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/kamya-angrakha-kurta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/kamya-angrakha-kurta/">Kamya Angrakha Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,699</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Angrakha style v neck kurta with contrast color stitch detailing on the left yoke &amp; contrast color pipin at neck, sleeves&amp; hem. Three quarter flared sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/kamya-angrakha-kurta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/kamya-angrakha-kurta/" rel="nofollow" data-product_id="6954" data-product_sku="LLK549" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6944 product type-product status-publish has-post-thumbnail hentry isotope-item element product-137 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/kalalapa-self-stripe-long-kurta/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0300-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0300" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/kalalapa-self-stripe-long-kurta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/kalalapa-self-stripe-long-kurta/">Kalalapa Self Stripe Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,299</span></del> <ins><span class="amount">INR 1,609</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck with a slit. Three quarter sleeves. Front and back has shoulder princess. Side slits open with the detail of potli button.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/kalalapa-self-stripe-long-kurta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/kalalapa-self-stripe-long-kurta/" rel="nofollow" data-product_id="6944" data-product_sku="LLK540" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6845 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/bala-round-neck-tunic-2/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0326-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0326" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/bala-round-neck-tunic-2/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/bala-round-neck-tunic-2/">Bhumarupa V Neck Textured Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,199</span></del> <ins><span class="amount">INR 1,539</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A-line long kurta. V neck with textured panel in center front &amp; silk pipin on both sides of the texture. Three quarter sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/bala-round-neck-tunic-2/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/bala-round-neck-tunic-2/" rel="nofollow" data-product_id="6845" data-product_sku="LLK559" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6920 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-137 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/hamsini-line-tunic/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0187-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0187" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/hamsini-line-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/hamsini-line-tunic/">Hamsini A Line Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,899</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck flared tunic. Grey upper bodice With silk detailing &amp; white flare. Grey &amp; pink border. Half sleeve</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/hamsini-line-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/hamsini-line-tunic/" rel="nofollow" data-product_id="6920" data-product_sku="LLK555" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6910 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-152 no-transition featured instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/guhamba-color-blocking-tunic/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0219-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0219" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/guhamba-color-blocking-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/guhamba-color-blocking-tunic/">Guhamba Color Blocking Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,399</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck A-Line Tunic with pink silk verticle stripes on the right side from the neck &amp; left sleeve opening.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/guhamba-color-blocking-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/guhamba-color-blocking-tunic/" rel="nofollow" data-product_id="6910" data-product_sku="LLK544" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6900 product type-product status-publish has-post-thumbnail hentry isotope-item element product-137 no-transition sale featured instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/gopti-long-kaftan/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="515" src="http://ekmatra.com/eshop-ekmatra/uploads/1-81-345x515.jpg" class="attachment-medium wp-post-image" alt="1 (81)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/gopti-long-kaftan/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/gopti-long-kaftan/">Gopti Long Kaftan</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,699</span></del> <ins><span class="amount">INR 1,889</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round Neck with lace insert, Kaftaan style long kurta. Quilting with contrast thread on the necline, sleeve &amp; side slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/gopti-long-kaftan/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/gopti-long-kaftan/" rel="nofollow" data-product_id="6900" data-product_sku="LLK541" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6890 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ekakini-ruffled-tunic/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/1-13-345x514.jpg" class="attachment-medium wp-post-image" alt="1 (13)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ekakini-ruffled-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ekakini-ruffled-tunic/">Ekakini Ruffled Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,499</span></del> <ins><span class="amount">INR 1,749</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round Neck front open long tunic. Ruffle attached on the neck yoke. &amp; pleats below the yoke. Three quarter sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ekakini-ruffled-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ekakini-ruffled-tunic/" rel="nofollow" data-product_id="6890" data-product_sku="LLK546" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6880 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-124 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/deveshi-kimono-sleeves-blouse/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="515" src="http://ekmatra.com/eshop-ekmatra/uploads/1-7-345x515.jpg" class="attachment-medium wp-post-image" alt="1 (7)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/deveshi-kimono-sleeves-blouse/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/deveshi-kimono-sleeves-blouse/">Deveshi Kimono Sleeves Blouse</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,799</span></del> <ins><span class="amount">INR 1,259</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Kimono sleeve blouse. V neck. Box pleats on the waist line to add flare.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/deveshi-kimono-sleeves-blouse/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/deveshi-kimono-sleeves-blouse/" rel="nofollow" data-product_id="6880" data-product_sku="LB038" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6857 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/chandahsara-v-neck-kurta/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0279-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0279" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/chandahsara-v-neck-kurta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/chandahsara-v-neck-kurta/">Chandahsara V neck kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,399</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>V neck with lace insert A- Line kurta. Pleasts along neck &amp; shoulder to add flarte to the garment. Half sleeves with lace insert.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/chandahsara-v-neck-kurta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/chandahsara-v-neck-kurta/" rel="nofollow" data-product_id="6857" data-product_sku="LLK545" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6812 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition sale featured instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/bala-round-neck-tunic/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0166-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0166" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/bala-round-neck-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/bala-round-neck-tunic/">Bala Round Neck Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,799</span></del> <ins><span class="amount">INR 1,959</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck line with three rows of silk braids. Three quarter puffed sleeves. Waist dart in front, Pleats at the back under the neck line. A-line tunic.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/bala-round-neck-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/bala-round-neck-tunic/" rel="nofollow" data-product_id="6812" data-product_sku="LLK547" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-6931 product type-product status-publish has-post-thumbnail hentry isotope-item element product-152 no-transition instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/jaya-bobble-button-tunic/">
+
+		<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0195-345x514.jpg" class="attachment-medium wp-post-image" alt="DSC_0195" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/jaya-bobble-button-tunic/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/jaya-bobble-button-tunic/">Jaya Bobble Button Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,799</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Front open kurta with bobble button enclosure. Pink silk pipin detail at sleeve opening, neckline, CF &#038; bottom hem. Bias stitch detailing.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/jaya-bobble-button-tunic/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/jaya-bobble-button-tunic/" rel="nofollow" data-product_id="6931" data-product_sku="LLK543" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4804 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/harsitha/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK408-BEIGE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK408 BEIGE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/harsitha/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/harsitha/">Harsitha Twill Tape Embellished A- Line Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck kurta with twill tape detailing on the neck.<br />
+A-line kurta with round bottom hem.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/harsitha/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/harsitha/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-5821 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-150 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/gira-mandarin-collar-sleeveless-jacket/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/N-LNJ031-OFF-WHITE-3-345x514.jpg" class="attachment-medium wp-post-image" alt="N-LNJ031 OFF WHITE 3" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/gira-mandarin-collar-sleeveless-jacket/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/gira-mandarin-collar-sleeveless-jacket/">Gira Mandarin collar sleeveless jacket</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="amount">INR 2,999</span></span>
+
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Mandarin collar sleeveless jacket with silk lining. Welt sides pockets. Armhole princess cut.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  36,38, 40, 42, 44, 46</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/gira-mandarin-collar-sleeveless-jacket/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/gira-mandarin-collar-sleeveless-jacket/" rel="nofollow" data-product_id="5821" data-product_sku="LNJ031-Off-White" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4742 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/harmya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK508-IVORY-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK508 IVORY FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/harmya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/harmya/">Harmya Smocking Yoke Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,199</span></del> <ins><span class="amount">INR 1,100</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck kurta with Smocking detail in the front yoke.<br />
+Three quarter sleeves &amp; side slits</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/harmya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/harmya/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4701 product type-product status-publish has-post-thumbnail hentry isotope-item element product-67 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/gunjita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK503-YELLOW-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK503 YELLOW FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/gunjita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/gunjita/">Gunjita Yellow Raw Edge Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 3,799</span></del> <ins><span class="amount">INR 1,900</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck with kurta placket.<br />
+Long kurta, fuul sleeves.<br />
+Sleeves &amp; bottom has rows of frayed hem edges.<br />
+Side slits</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/gunjita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/gunjita/" rel="nofollow" data-product_id="4701" data-product_sku="LLK503" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4782 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/indrakshi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK510-WHITE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK510 WHITE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/indrakshi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/indrakshi/">Indrakshi Black Floral Embroidery Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,799</span></del> <ins><span class="amount">INR 900</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck with V cut, floral embroidery detail on the left side of the neck.<br />
+Yoke at empire line. Full sleeves.<br />
+Straight kurta with side slits.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/indrakshi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/indrakshi/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4743 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-67 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/hrudya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK509-OFF-WHITE-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK509 OFF WHITE" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/hrudya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/hrudya/">Hrudya Box Pleat Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 3,999</span></del> <ins><span class="amount">INR 2,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck suit with slit. Contrast color border at hem &amp; sleeve opening.<br />
+Flared kurta with box pleats on both the sides of the the garment.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/hrudya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/hrudya/" rel="nofollow" data-product_id="4743" data-product_sku="LLK509" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4740 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/gyanishtha/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK505-YELLOW-FRONT-2-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK505 YELLOW FRONT 2" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/gyanishtha/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/gyanishtha/">Gyanishtha</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 3,999</span></del> <ins><span class="amount">INR 2,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Kaftaan style kurta.<br />
+Round neck with v cut &amp; bail embroidery.<br />
+Three quarter sleeves with embroidery on sleeve hem.<br />
+Side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/gyanishtha/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/gyanishtha/" rel="nofollow" data-product_id="4740" data-product_sku="LLK505" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4801 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/jayantika/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK493-PINK-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK493 PINK FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/jayantika/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/jayantika/">Jayantika Grey Pin Tucks Pink Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,599</span></del> <ins><span class="amount">INR 800</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck with V cut &amp; contrast fabric detailing.<br />
+Pintucks with contrast color detailing in front.<br />
+Full sleeves with contrast fabric at the opening.<br />
+Straight kurta with side slits.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/jayantika/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/jayantika/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4803 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/mahita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK403-BEIGE-FRONT-2-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK403 BEIGE FRONT 2" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/mahita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/mahita/">Mahita Petal Bottom Hem Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,599</span></del> <ins><span class="amount">INR 800</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck kurta. Front hem &amp; sleeves is petal shaped.<br />
+Print fabric detail on the bottom left.<br />
+Wooden buttons near the left armhole.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/mahita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/mahita/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4698 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-124 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/gatita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LB030-IVORY-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LB030 IVORY FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/gatita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/gatita/">Gatita Printed Round Neck Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 999</span></del> <ins><span class="amount">INR 500</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck, mega sleeves, A-Line top.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/gatita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/gatita/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4921 product type-product status-publish has-post-thumbnail hentry isotope-item element product-144 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/alipriya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LSP004-GREY-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LSP004 GREY FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/alipriya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/alipriya/">Alipriya Shaded Grey String Pant</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 899</span></del> <ins><span class="amount">INR 809</span></ins></span>
+<span class="ekmatra_offprice">-10 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Comfort fit casual trousers.<br />
+Elasticated back belt &amp; draw string in front, Side pockets.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/alipriya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/alipriya/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4599 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/candrani/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK496-SAGE-FRONT-2-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK496 SAGE FRONT 2" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/candrani/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/candrani/">Candrani Green Front Open Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>V neck long tunic front open.<br />
+The tunic is made in multiple yokes cut in bias.<br />
+Full sleeves. Back same as front.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/candrani/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/candrani/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4879 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-144 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/arijaata/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LCPR002-BEIGE-FRONT-2-345x514.jpg" class="attachment-medium wp-post-image" alt="LCPR002 BEIGE FRONT 2" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/arijaata/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/arijaata/">Arijaata Beige Regular Fit Capri</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,299</span></del> <ins><span class="amount">INR 909</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Normal waist cropped trousers.<br />
+Five belt loops, side pockets, front button closure, hidden front zipper and buttons.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/arijaata/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/arijaata/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2763 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-67 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/rabhya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0734-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0734" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/rabhya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/rabhya/">Rabhya A-Line Lace Suit Set</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 4,499</span></del> <ins><span class="amount">INR 2,250</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Complete suit with muslin dupatta &amp; sf churidaar.<br />
+Long length kurta.</p>
+<p>Round neck with lace insert all round neck.</p>
+<p>Front side panels have combination of vertical lace inserts &amp; pin tucks.</p>
+<p>Three quarter sleeves with lace &amp; pin tuck detailing.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/rabhya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/rabhya/" rel="nofollow" data-product_id="2763" data-product_sku="LSU 123" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4700 product type-product status-publish has-post-thumbnail hentry isotope-item element product-67 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/girija/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK502-SALMON-FRONT-3-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK502 SALMON FRONT 3" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/girija/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/girija/">Girija Salmon Ruffled Neck Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 3,899</span></del> <ins><span class="amount">INR 1,950</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>V neck with rows of gathered strips.<br />
+Bottom hem &amp; sleeves has frayed edge.<br />
+Half sleeves. Side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/girija/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/girija/" rel="nofollow" data-product_id="4700" data-product_sku="LLK502" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4661 product type-product status-publish has-post-thumbnail hentry isotope-item element product-124 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/elakshi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LB029-YELLOW-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LB029 YELLOW FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/elakshi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/elakshi/">Elakshi Yellow Boat Neck Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,099</span></del> <ins><span class="amount">INR 550</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Boat neck top with muslin yoke.<br />
+Half sleeves. A-Line top.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/elakshi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/elakshi/" rel="nofollow" data-product_id="4661" data-product_sku="LB029 yel" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4852 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-144 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/kumudam/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LTR020-GREEN-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LTR020 GREEN FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/kumudam/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/kumudam/">Kumudam Green Trouser</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 1,049</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Narrow bottom opening fitted trouser.<br />
+Flat front.<br />
+Side pockets, front button closure, hidden front zipper and buttons.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes : 32, 34, 36</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/kumudam/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/kumudam/" rel="nofollow" data-product_id="4852" data-product_sku="LTR 020 grn" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4209 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/bhuvi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK495-WHITE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK495 WHITE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/bhuvi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/bhuvi/">Bhuvi Chawal Tanka Detail Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck kurta with raw edge muslin detail &amp; hand embroidery with black thread.<br />
+Three quarter sleeves with with same detail as neck &amp; bottom hem.<br />
+Princess cut from armhole in front.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/bhuvi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/bhuvi/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4660 product type-product status-publish has-post-thumbnail hentry isotope-item element product-124 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/eshita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LB029-SLAMON-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LB029 SLAMON FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/eshita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/eshita/">Eshita Salmon Boat Neck Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,099</span></del> <ins><span class="amount">INR 550</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Boat neck top with muslin yoke.<br />
+Half sleeves. A-Line top.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/eshita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/eshita/" rel="nofollow" data-product_id="4660" data-product_sku="LB029 sel" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4601 product type-product status-publish has-post-thumbnail hentry isotope-item element product-124 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/chitrangi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LB028-WHITE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LB028 WHITE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/chitrangi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/chitrangi/">Chitrangi White Box Pleat Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 899</span></del> <ins><span class="amount">INR 450</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck top with 2 1/2 inch box plkeat in center front.<br />
+Cap sleeves.<br />
+Back plain</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/chitrangi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/chitrangi/" rel="nofollow" data-product_id="4601" data-product_sku="LB028 wht" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4600 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/chinmayi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LLK497-SAGE-FRONT-1-345x514.jpg" class="attachment-medium wp-post-image" alt="LLK497 SAGE FRONT 1" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/chinmayi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/chinmayi/">Chinmayi Green Mandarin Collar Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Mandarin collar front open tunic, elasticated at the empire line which creates soft gathers at bust &amp; waist.<br />
+Three quarter sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, M, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/chinmayi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/chinmayi/" rel="nofollow" data-product_id="4600" data-product_sku="LLK497" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4904 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-144 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/shreekhandam/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LTR020-MAUVE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LTR020 MAUVE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/shreekhandam/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/shreekhandam/">Shreekhandam Onion Pink Trouser</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 1,049</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Narrow bottom opening fitted trouser.<br />
+Flat front.<br />
+Side pockets, front button closure, hidden front zipper and buttons.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes : 32, 34, 36</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/shreekhandam/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/shreekhandam/" rel="nofollow" data-product_id="4904" data-product_sku="LTR 020 mav" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4176 product type-product status-publish has-post-thumbnail hentry isotope-item element product-65 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/aikya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LSH004-IVORY-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LSH004 IVORY FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/aikya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/aikya/">Aikya Red Trim Detail Shirt</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,199</span></del> <ins><span class="amount">INR 600</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Ben collar with v neck shirt.<br />
+Red pipin highlights in the front along with pin tuck detailing.<br />
+Back longer than the front. Full sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  M, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/aikya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/aikya/" rel="nofollow" data-product_id="4176" data-product_sku="LSH004" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4189 product type-product status-publish has-post-thumbnail hentry isotope-item element product-124 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/alpana/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LB026-WHITE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LB026 WHITE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/alpana/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/alpana/">Alpana White Kimono Sleeve Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 899</span></del> <ins><span class="amount">INR 450</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Broad V neck top.<br />
+Wraglon sleeves, three quarter length, wide sleeve opening.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/alpana/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/alpana/" rel="nofollow" data-product_id="4189" data-product_sku="LB026" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2907 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/alinda/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0803-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0803" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/alinda/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/alinda/">Alinda Pink Pin Tuck Front Open Kurti</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic is front open with placket.</p>
+<p>Ban collar neck.</p>
+<p>Center front has fine pin tucks at a distance of 1/2&#8243; on both side of the placket.</p>
+<p>Three quarter muslin sleeves. Side slit open till hip line.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/alinda/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/alinda/" rel="nofollow" data-product_id="2907" data-product_sku="LLK473" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4190 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-124 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anjasi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LB026-YELLOW-FRONT-1-345x514.jpg" class="attachment-medium wp-post-image" alt="LB026 YELLOW FRONT 1" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anjasi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anjasi/">Anjasi Yellow Kimono Sleeve Top</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 899</span></del> <ins><span class="amount">INR 450</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Broad V neck top.<br />
+Wraglon sleeves, three quarter length, wide sleeve opening.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anjasi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anjasi/" rel="nofollow" data-product_id="4190" data-product_sku="LB026 yel" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2870 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/amati/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1445-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1445" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/amati/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/amati/">Amati Pink Bail Embroidery Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Long neck kurta with round neck &amp; placket till the waist.</p>
+<p>Vertical embroidery is done at the shoulder princess till the bottom hem.</p>
+<p>Three quarter sleeves.</p>
+<p>Round bottom hem no side slits.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/amati/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/amati/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2722 product type-product status-publish has-post-thumbnail hentry isotope-item element product-65 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/sasmita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1472-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1472" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/sasmita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/sasmita/">Sasmita Frill Detail Muslin Shirt</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,199</span></del> <ins><span class="amount">INR 600</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Peter pan collar shirt with frill edging, front open with placket with frills on the inner side of the placket.<br />
+4 rows of fine pin tuck &amp; a row of frill.<br />
+3/4th sleeves with 1” cuff &amp; frill edging.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/sasmita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/sasmita/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-4168 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-65 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/adri/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="514" src="http://ekmatra.com/eshop-ekmatra/uploads/LSH003-WHITE-FRONT-345x514.jpg" class="attachment-medium wp-post-image" alt="LSH003 WHITE FRONT" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/adri/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/adri/">Adri Black Pipin Detail Shirt</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,199</span></del> <ins><span class="amount">INR 600</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Mandarin collar shirt with black pipin detail.<br />
+Back longer than the front.<br />
+Three quarter sleeves with slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/adri/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/adri/" rel="nofollow" data-product_id="4168" data-product_sku="LSH003" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2969 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/darshwana/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1004-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1004" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/darshwana/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/darshwana/">Darshwana Blue Pin Tuck Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,799</span></del> <ins><span class="amount">INR 900</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top, ban collar with rounded V neck, collar &amp; neck has a contrast fabric patch with hand done running stitch.</br></p>
+<p>Front has vertical pintucks in contrast thread till waist, pintuck end is patched with a contrast fabric same as neck.</br><br />
+Three quarter muslin sleeves.</br><br />
+No side slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/darshwana/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/darshwana/" rel="nofollow" data-product_id="2969" data-product_sku="LLK 474" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3042 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/priyata/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1195-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1195" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/priyata/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/priyata/">Priyata Pink Floral Embroidery Kurti</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,399</span></del> <ins><span class="amount">INR 700</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Ban collar with V cut neck front open till waist with button &amp; loop.</p>
+<p>Neck has a yoke with a floral embroidery on all three sides of the yoke.</p>
+<p>Half sleeve kurta.</p>
+<p>Round bottom hem without side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/priyata/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/priyata/" rel="nofollow" data-product_id="3042" data-product_sku="LLK 477" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2929 product type-product status-publish has-post-thumbnail hentry isotope-item element product-67 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/dhimahi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_07591-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0759" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/dhimahi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/dhimahi/">Dhimahi Pink Ladder Lace Suit Set</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 4,999</span></del> <ins><span class="amount">INR 2,500</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Complete suit with muslin dupatta &amp; sf churidaar.<br />
+Long length kurta with collar.</p>
+<p>Front open kurta fastened with button &amp; loop.</p>
+<p>Center front panel is embellished with a combination of ladder lace &amp; diagonal pleats creating V.</p>
+<p>Three quarter muslin sleeves with lace &amp; pin tuck at sleeve opening.</p>
+<p>No side slit.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/dhimahi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/dhimahi/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3009 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/druthi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0911-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0911" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/druthi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/druthi/">Druthi Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Round neck front open tunic fastened with hooks.</p>
+<p>Center front yoke has diagonal pleats.</p>
+<p>Side yoke has V shaped stitches with double thread to create texture.</p>
+<p>Three quarter sleeves.</p>
+<p>No side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/druthi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/druthi/" rel="nofollow" data-product_id="3009" data-product_sku="LLK 482" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2839 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anukaari/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1461-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1461" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anukaari/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anukaari/">Anukaari Embroidered Yoke Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 3,499</span></del> <ins><span class="amount">INR 1,750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Long length flared kurta.</p>
+<p>Ban collar neck with rounded v cut wit pipin, front open till waist with hooks.</p>
+<p>Front yoke is covered with embroidery.</p>
+<p>Three quarter muslin sleeves with cuff opening.</p>
+<p>Round bottom hem with no sid slit.</p>
+<p>Hemline is detailed with pipin &amp; double fabric.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anukaari/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anukaari/" rel="nofollow" data-product_id="2839" data-product_sku="LLK 480" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2968 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/rajashri/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_12051-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1205" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/rajashri/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/rajashri/">Rajashri Lace Hem Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Long length flared kurta.</p>
+<p>Scooped out neck.</p>
+<p>The kurta is embellished with various types of laces at bottom &amp; sleeve cuff.</p>
+<p>Three quarter sleeves round bottom hem without side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/rajashri/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/rajashri/" rel="nofollow" data-product_id="2968" data-product_sku="LLK 476" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3129 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anudisha/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/ek_MG_0944-1-345x518.jpg" class="attachment-medium wp-post-image" alt="ek_MG_0944 (1)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anudisha/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anudisha/">Anudisha Lapel Collar Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,099</span></del> <ins><span class="amount">INR 550</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Lapel collar, front open with concealed placket.</p>
+<p>Sides have bobin elastic at waist for the fit.</p>
+<p>Bottom hem is U shaped with a lace inset at 4&#8243; from the bottom.</p>
+<p>&nbsp;</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anudisha/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anudisha/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3065 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ruchika/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1051-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1051" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ruchika/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ruchika/">Ruhika Gathered Neckline Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,399</span></del> <ins><span class="amount">INR 1,200</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Scooped out round neck with contrast color binding in center front.</p>
+<p>Front is double layer of fabric.<br />
+There are gathers in center front.</p>
+<p>Round bottom hem without side slits.</p>
+<p>A contrast color belt to be tied at waist.</p>
+<p><span style="line-height: 1.714285714; font-size: 1rem;">Three quarter sleeves with contrast color binding at sleeve opening.</span></p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ruchika/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ruchika/" rel="nofollow" data-product_id="3065" data-product_sku="LLK 478" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2890 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anubhavah/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1101-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1101" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anubhavah/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anubhavah/">Anubhavah Tie Dye Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top.</p>
+<p>Round neck front open till waist with concealed placket.</p>
+<p>4 rows of running stitch along the neck &amp; the placket.</p>
+<p>Half sleeve.</p>
+<p>No side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anubhavah/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anubhavah/" rel="nofollow" data-product_id="2890" data-product_sku="LLK 484" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2765 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ashna/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1267-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1267" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ashna/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ashna/">Ashna Ruffle &#038; Lace Yoke Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,499</span></del> <ins><span class="amount">INR 1,250</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top fitted with concealed zipper, stitched in left side seam, flat ban collar with rounded V cut, front open with placket till empire line at waist.</p>
+<p>Front top yoke has vertical rows of muslin gathered strips with lace patched on it.</p>
+<p>Side pockets with lace patched at the opening. Bottom is round without side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ashna/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ashna/" rel="nofollow" data-product_id="2765" data-product_sku="LLK 471" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3077 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anandini/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0821-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0821" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anandini/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anandini/">Anandini Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,099</span></del> <ins><span class="amount">INR 1,050</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top, ban collar with rounded V neck, front open with a placket till the empire line at waist, collar placket &amp; cuff are in contrast color fabric.</p>
+<p>Front yoke has horizontal box pleats with bar tack in contrast color.</p>
+<p>There are few soft gathers at waist.<br />
+Round bottom hem without side slits.</p>
+<p>Three quarter sleeves with rolled up cuff &amp; epaulette</p>
+<p>&nbsp;</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anandini/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anandini/" rel="nofollow" data-product_id="3077" data-product_sku="LLK 479" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2879 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anulipta/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1131-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1131" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anulipta/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anulipta/">Anulipta Chawal Tanka Yoke Tie &#038; Dye Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,599</span></del> <ins><span class="amount">INR 800</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top.</p>
+<p>Round neck with yoke having multiple rows of stab stitch.</p>
+<p>Front open till waist, fastened with button &amp; loop.</p>
+<p>Three quarter sleeves.</p>
+<p>No side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anulipta/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anulipta/" rel="nofollow" data-product_id="2879" data-product_sku="LLK 486" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2889 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anusaara/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1315-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1315" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anusaara/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anusaara/">Anusaara Blue Pin Tuck Front Open Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic is front open with placket.</p>
+<p>Ban collar neck.</p>
+<p>Center front has fine pin tucks at a distance of 1/2&#8243; on both side of the placket.</p>
+<p>Three quarter muslin sleeves. Side slit open till hip line.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anusaara/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anusaara/" rel="nofollow" data-product_id="2889" data-product_sku="LLK 473" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3011 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/rakshita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0949-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0949" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/rakshita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/rakshita/">Rakshita Blue Stab Stitch Tunic</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,299</span></del> <ins><span class="amount">INR 650</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A line tunic with ban collar, front open till waist.</p>
+<p>Bottom is round without side slits.</p>
+<p>Stab stitch hand made on collar, placket, armhole, sleeve, &amp; horizontal patch below the placket.<br />
+Three quarter sleeves bell shaped, wranglon armhole.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/rakshita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/rakshita/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2946 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/archisha/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1296-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1296" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/archisha/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/archisha/">Archisha Blue Pleat &#038; Pin Tuck Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,699</span></del> <ins><span class="amount">INR 1,190</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top, ban collar with rounded V neck, front open with a placket till the empire line, there are few soft gathers at bust to give fullness.</p>
+<p>The center front panel has inverted V pleats at a distance of an inch.</p>
+<p>Side panel has fine pin tucks.</p>
+<p>Three quarter muslin sleeves.</p>
+<p>No side slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/archisha/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/archisha/" rel="nofollow" data-product_id="2946" data-product_sku="LLK475" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2783 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/agya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1026-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1026" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/agya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/agya/">Agya Blue Chain Stitch Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,298</span></del> <ins><span class="amount">INR 1,149</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A Line long length kurta with ban collar &amp; a glass shaped yoke with inverted V pintuck, chain stitch embroidery along the yoke.</p>
+<p>2 1/2&#8243; border with diagonal pin tuck &amp; embroidery.</p>
+<p>Bottom is round without side slits.</p>
+<p>Three quarter sleeves.</p>
+<p>Diagonal pin tuck at cuff.</p>
+<p>Cuff width is 2 1/2” with a row of chain stitch embroidery along the cuff.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/agya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/agya/" rel="nofollow" data-product_id="2783" data-product_sku="LLK 468" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2997 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anena/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1342-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1342" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anena/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anena/">Anena Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,499</span></del> <ins><span class="amount">INR 750</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A line tunic length top with scooped out neck, shows buttons &amp; loops in center front.</p>
+<p>Fine pin tucks on both side of the button from neck to bottom hem.</p>
+<p>1/4&#8243; pin tuck from shoulder till hip line.</p>
+<p>Half sleeves.</p>
+<p>Front slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anena/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anena/" rel="nofollow" data-product_id="2997" data-product_sku="LLK 481" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3194 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ganika/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0510-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0510" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ganika/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ganika/">Ganika Digital Floral Print Kalidaar Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,499</span></del> <ins><span class="amount">INR 1,250</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length A-line kurta. Beetal leaf shaped neck.</p>
+<p>Three qaurter sleeves.</p>
+<p>Kalidaar kurta, kali&#8217;s starting from the shoulder.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ganika/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ganika/" rel="nofollow" data-product_id="3194" data-product_sku="LLK329" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2989 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/sarakshi/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1404-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1404" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/sarakshi/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/sarakshi/">Sarakshi Blue Pin Tuck Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,799</span></del> <ins><span class="amount">INR 1,260</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top, ban collar with rounded V neck, collar &amp; neck has a contrast fabric patch with hand done running stitch.<br />
+Front has vertical pintucks in contrast thread till waist, pintuck end is patched with a contrast fabric same as neck.<br />
+Three quarter muslin sleeves.<br />
+No side slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, M, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/sarakshi/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/sarakshi/" rel="nofollow" data-product_id="2989" data-product_sku="LLK474" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2830 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/sanchita/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1423-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1423" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/sanchita/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/sanchita/">Sanchita Blue Pintuck &#038; Embroidery Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,499</span></del> <ins><span class="amount">INR 1,250</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A Line long length kurta with pintuck neck line &amp; sleeves &amp; hint of embroidery along the neck &amp; sleeve opening.</p>
+<p>Bottom is round without side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/sanchita/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/sanchita/" rel="nofollow" data-product_id="2830" data-product_sku="LLK 466" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3185 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale outofstock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/ratnavali/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/ek_MG_1161-1-345x518.jpg" class="attachment-medium wp-post-image" alt="ek_MG_1161 (1)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/ratnavali/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/ratnavali/">Ratnavali Gold Print Traditional Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,849</span></del> <ins><span class="amount">INR 1,425</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Long length traditional flared kurta, round neck, with inverted U shaped cut out till waist, heavy gathers at waist to create flare at bottom. Churidaar sleeves.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/ratnavali/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/ratnavali/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2858 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/abhaavah/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1364-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1364" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/abhaavah/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/abhaavah/">Abhaavah Mandarin Collar Smockec Yoke Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic style top with front rectangular shape yoke.</p>
+<p>Yoke width is about 8&#8243;, yoke has horizontal pleats of 1cm at a distance of 1&#8243; which is then turned up &amp; stitched with a single lock stitch at center, on both sides there are 2 horizontal pleats of 1cm without gaping, there is a 1&#8243; patch of the same fabric at the bottom of the yoke.</p>
+<p>Tunic is front open with a placket.</p>
+<p>There are soft gathers below the yoke.</p>
+<p>Bottom is round without side slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/abhaavah/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/abhaavah/" rel="nofollow" data-product_id="2858" data-product_sku="LLK 467" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3166 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/sawini/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/MG_1132_1-345x518.jpg" class="attachment-medium wp-post-image" alt="MG_1132_1" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/sawini/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/sawini/">Sawini Long Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,849</span></del> <ins><span class="amount">INR 1,425</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Long length flared kurta, with draw string at waist, creating gathers &amp; therefore, flaired bottom.</p>
+<p>Round neck and three quarter sleeves.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  M, L</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/sawini/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/sawini/" rel="nofollow" data-product_id="3166" data-product_sku="LLK323" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3098 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/abhaya-2/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/ek_MG_0658-1-345x518.jpg" class="attachment-medium wp-post-image" alt="ek_MG_0658 (1)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/abhaya-2/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/abhaya-2/">Abhaya Crochet Neck Patch Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,199</span></del> <ins><span class="amount">INR 600</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Straight fit garment with side slits.</p>
+<p>Round neck with placket &amp; Crochet patch is patched on the both sides of the placket &amp; neck.</p>
+<p>Waist is highlighted with piping.<br />
+There are few soft gathers at the bust to create fullness.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XS, S, M, L, XL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/abhaya-2/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/abhaya-2/" rel="nofollow" data-product_id="3098" data-product_sku="LLK315" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2793 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/nilasha/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0611-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0611" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/nilasha/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/nilasha/">Nilasha Blue Lace Ruffled Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,399</span></del> <ins><span class="amount">INR 700</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Long length A-line kurta.</p>
+<p>Round scooped out neck.</p>
+<p>The kurta is embellished with various types of laces &amp; ruffled muslin strips at bottom.</p>
+<p>Three half sleeves round bottom hem without side slits.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/nilasha/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/nilasha/" rel="nofollow" data-product_id="2793" data-product_sku="LLK 490" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2802 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/avani/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1411-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1411" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/avani/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/avani/">Avani Blue Chain Stitch Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 2,299</span></del> <ins><span class="amount">INR 1,610</span></ins></span>
+<span class="ekmatra_offprice">-30 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A Line long length kurta with ban collar &amp; a glass shaped yoke with inverted V pintuck, chain stitch embroidery.<br />
+Bottom is round without side slits.<br />
+Three quarter sleeves. Diagonal pintuck at cuff.<br />
+Cuff width is 2 1/2” with a row of chain stitch embroidery along the cuff.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, M, L, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/avani/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/avani/" rel="nofollow" data-product_id="2802" data-product_sku="LLK468" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2927 product type-product status-publish has-post-thumbnail hentry isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_0847-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_0847" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anya/">Anya White Pleat &#038; Pintuck Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,699</span></del> <ins><span class="amount">INR 850</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Tunic length top, ban collar with rounded V neck, front open with a placket till the empire line, there are few soft gathers at bust to give fullness.</p>
+<p>The center front panel has inverted V pleats at a distance of an inch.</p>
+<p>Side panel has fine pin tucks.</p>
+<p>Three quarter muslin sleeves.</p>
+<p>No side slit.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  S, XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anya/" rel="nofollow" data-product_id="2927" data-product_sku="LLK 475" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-2848 product type-product status-publish has-post-thumbnail hentry last isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/anika/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/DSC_1154-345x518.jpg" class="attachment-medium wp-post-image" alt="DSC_1154" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/anika/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/anika/">Anika White Pintuck &#038; Embroidery Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 1,999</span></del> <ins><span class="amount">INR 1,000</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>A-line tunic front open with functional placket till the bottom hem.</p>
+<p>1/8th&#8221; 2 pintucks then a row of embroidery &amp; 2 pin tucks of 1/8th&#8221; is repeated on both sides of the placket in front starting from shoulder till hip at around 18&#8243;.</p>
+<p>Bottom is round without side slits.</p>
+<p>Three quarter sleeves with 3/4th inch cuff with slit &amp; the cuff is up turned.</p>
+ </div>
+    	<div class="sizesblock">Sold Out</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/anika/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/anika/" class="button">Read More</a>
+
+
+
+
+</li>
+
+
+
+
+				
+
+
+					
+<li class="post-3141 product type-product status-publish has-post-thumbnail hentry first isotope-item element product-66 no-transition sale instock">
+
+
+
+	
+		<div class="imageblock">
+
+		<div class="ratio">
+
+			<a href="http://ekmatra.com/product/mahaniya/">
+
+		
+	<span class="onsale">Sale!</span>
+<img width="345" height="518" src="http://ekmatra.com/eshop-ekmatra/uploads/ek_MG_0867-3-345x518.jpg" class="attachment-medium wp-post-image" alt="ek_MG_0867 (3)" />
+        </a>
+
+        </div>
+        <div class="hoverimageblock"></div>
+        <div class="shopnow_btn"><a href="http://ekmatra.com/product/mahaniya/">SHOP NOW</a></div>
+        </div>
+				<h3><a href="http://ekmatra.com/product/mahaniya/">Mahaniya Muslin Shoulder Yoke Kurta</a></h3>
+		<div class="priceblock">
+		
+	<span class="price"><span class="from">From: </span><del><span class="amount">INR 899</span></del> <ins><span class="amount">INR 450</span></ins></span>
+<span class="ekmatra_offprice">-50 % </span>
+
+	</div>
+
+    <div class="viewitemblock">
+    	<div class="descriptionblock"><p>Straight fit tunic length kurta.</p>
+<p>Muslin yoke with 4 pleats on the princess seam point on the left.<br />
+Body is in sf.</p>
+<p>Round bottom hem.</p>
+<p>Flower embroidery motif in front on the left hand side at the joint of the yoke below the pleats.</p>
+ </div>
+    	<div class="sizesblock">Available Sizes :  XL, XXL</div>
+        <div class="viewitem"><a href="http://ekmatra.com/product/mahaniya/" title="View item">View item</a></div>
+	</div>
+
+
+
+	
+
+	<a href="http://ekmatra.com/product/mahaniya/" rel="nofollow" data-product_id="3141" data-product_sku="LLK309" class=" button product_type_variable">Select options</a>
+
+
+
+</li>
+
+
+
+
+				
+
+
+			</ul>
+ <a id="prev2" class="prev" href="javascript://"></a>
+		 <a id="next2" class="next" href="javascript://"></a>
+
+
+
+			
+
+
+		
+
+
+		</div>
+</div>
+
+
+	
+
+
+	</div><!-- #main .wrapper -->
+    </div><!-- #page -->
+	<footer id="colophon" role="contentinfo">
+    	<div class="charkhablock"></div>
+    	<div class="maincontainer">
+    		<div class="pull-top">
+            	<aside id="execphp-2" class="widget widget_execphp">			
+			<div class="execphpwidget"><div class="leftblock">
+                	<div class="pull-left">
+                    	<div class="widget-title">Need Help ?</div>
+                    	<div class="container">
+                        	<ul>
+                            	<li><a href="/trackmyorder/">Order Status</a></li>
+                                <li><a href="/shipping-delivery/">Shipping & Delivery</a></li>
+                                <li><a href="/returns-cancellations/">Returns & Exchange</a></li>
+                                <li><a href="/faqs/">FAQs</a></li>
+                            </ul>
+                        	<div class="contact_btn"><a href="/contactus/">Contact Us</a></div>
+                        </div>
+                    
+                    </div>
+                	<div class="pull-right">
+                    	<ul>
+                        	<li><a href="http://ekmatra.com/" class="homeicon">Home</a></li>
+                            <li><a href="/product-category/gents/" class="menicon">Men</a></li>
+                            <li><a href="/product-category/ladies/" class="womenicon">Women</a></li>
+                            <li><a href="/cart/" class="carticon">cart</a></li>
+                        </ul>
+                        <div class="contact_number">Or give us a call <br /><span class="number_text">( +91 8882088442 )</span></div>
+                    </div>
+                    
+                    
+                </div>
+                <div class="rightblock">
+                	<div class="widget-title">About Ekmatra </div>
+                    <div class="aboutcontainer">
+                    In todays time, Ekmatra is extremely relevant as it provides natural product for enviornmental friendly people. 
+Clothing is considered to be second skin and fashion today follows the fabric therefore, most natural line of 
+products in Ekmatra <a href="/about/">Read more...</a>
+                    </div>
+                   
+                    <div class="processcontainer" style="float:left;">
+                    	 <div class="widget-title">The Process of making</div>
+                    	<img src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/images/footer_process.png" />
+                    </div>
+                    <div style="float:right;">
+                     <div class="widget-title">Find us on</div>
+                    <a href="http://www.sweetcouch.com/womens/online-shop/ekmatra" target="_blank"> <img style="padding:10px; cursor: hand" src="http://static1.sweetcouch.com/shield_featured_small.png" title="Ekmatra - Kurta, Shirt, Suit, Trouser" alt="Ekmatra - Kurta, Shirt, Suit, Trouser" border="0"></a>
+                    </div>
+                    
+                
+                
+                </div></div>
+		</aside>            </div>
+         </div>
+         <div class="pull-bottom">
+         		<div class="maincontainer">
+                <aside id="execphp-3" class="widget widget_execphp">			
+			<div class="execphpwidget"><div class="leftblock">
+                	<div class="footer_logo"><img src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/images/footer_logo.png" /></div>
+                  	<div class="socialblock">
+                    	<div class="likeblock">
+                        	<div class="facebooklike">
+                            	<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FEkmatraIndia%3Fref%3Dhl&amp;send=false&amp;layout=standard&amp;width=53&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:53px; height:27px;" allowTransparency="true"></iframe>
+                            
+                            </div>
+                            <div class="twitterlike">
+                            <a href="https://twitter.com/EkmatraIndia" class="twitter-follow-button" data-show-count="false">Follow @EkmatraIndia</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            </div>
+                        </div>	
+                    <div class="copyrightblock">
+                    	<div class="copyright_text">&copy; Ekmatra.com, all rights reserved 2013 - powerd by </div>
+                    	<a href="http://www.eshopbox.com" title="eshopbox" target="_blank"></a>
+                    </div>	
+                    </div>
+                </div>
+                <div class="rightblock">
+                	<ul>
+                    	<li><a href="/privacy-policy/">Privacy Policy</a></li>
+                        <li><a href="/terms-conditions/">Terms & Conditions</a></li>
+                        <li><a href="/disclaimer/">Disclaimer</a></li>
+                    </ul>
+                </div></div>
+		</aside>	
+             	</div>
+             </div>
+	</footer><!-- #colophon -->
+	<!--<script type='text/javascript' src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/common.js"></script>-->
+<script type='text/javascript' src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/common.js"></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/contact-form-7/includes/js/jquery.form.min.js?ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/ekmatra.com\/eshop-ekmatra\/applications\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/contact-form-7/includes/js/scripts.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.0.12'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"countries":"{\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"}}","plugin_url":"http:\/\/ekmatra.com\/eshop-ekmatra\/applications\/woocommerce","ajax_url":"\/eshopbox\/eshop-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/ekmatra.com\/eshop-ekmatra\/applications\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"no","update_order_review_nonce":"38831c9583","apply_coupon_nonce":"a195990632","option_guest_checkout":"yes","checkout_url":"\/eshopbox\/eshop-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"1272546fa9","cart_url":"http:\/\/ekmatra.com\/cart\/","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.0.12'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.0.12'></script>
+<script type='text/javascript' src='http://ekmatra.com/eshop-ekmatra/applications/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.12'></script>
+<!-- WooCommerce JavaScript-->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+			$('.add_to_cart_button:not(.product_type_variable, .product_type_grouped)').click(function() {
+				_gaq.push(['_trackEvent', 'Products', 'Add to Cart', ($(this).data('product_sku')) ? ('SKU: ' + $(this).data('product_sku')) : ('#' + $(this).data('product_id'))]);
+			});
+		
+});
+</script>
+<div id="popup_popup">
+
+<div class="popup_popup_content">
+<a style="cursor:pointer;" class="zoomclose_icon"></a>
+	<p>We strive to deliver products purchased from Ekmatra.com in excellent condition and in the fastest time possible. A shipping charge of <strong> Rs. 49 </strong> is levied on each order you place at Ekmatra.com. It will take 5-7 working days if it is to be delivered in Delhi/NCR. However, it may take 10-12 days to ship to the destination depending on the shipping address you have provided.</p>
+
+<p>Once your order has been dispatched, you will receive an email containing shipment details for your order. These details along with the current status of your order will also be available in <a href="http://ekmatra.com/trackmyorder/" target="_blank" title="Track Order">Track Order.</a></p>
+
+<p>We are happy to exchange the product if it doesn't fits in. Return will be reviewed and honored up to 7 days from the date of order delivered.Return products must be unused and returned with all original packaging and tags with which they are shipped. In case, if the package delivered to you is broken/damaged/unsealed, please do not accept the package.</p> </div>   
+ </div>
+  
+ 
+ <div id="sizepopup_popup">
+
+<div class="sizepopup_popup_content">
+<a style="cursor:pointer;" class="zoomclose_icon"></a>
+	<img alt="" src="http://ekmatra.com/eshop-ekmatra/uploads/size-chartswomen.jpg" /> </div>   
+ </div>
+
+<div id="offer_popup">
+
+<div class="offer_popup_content">
+<a style="cursor:pointer;" class="zoomclose_icon"></a>
+	<img src="http://ekmatra.com/eshop-ekmatra/uploads/ekmatra_offerpopupimage.jpg" /> </div>   
+ </div>
+
+
+  <div id="mask"></div> 
+<script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/cloud-zoom.1.0.2.js" type="text/javascript"></script>
+  <script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/cache-data.js" type="text/javascript"></script>
+  <!--<script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/cloud-zoom.1.0.2.js" type="text/javascript"></script>
+  <script src="http://ekmatra.com/eshop-ekmatra/themes/twentytwelve/js/cache-data.js" type="text/javascript"></script>-->
+<script type="text/javascript">
+		jQuery(document).ready(function() {
+			jQuery("#back-top").hide();
+			// fade in #back-top
+			jQuery(function () {
+				jQuery(window).scroll(function () {
+				if (jQuery(this).scrollTop() > 100) {
+				jQuery('#back-top').fadeIn();
+				} else {
+					jQuery('#back-top').fadeOut();
+				}
+				});
+				// scroll body to 0px on click
+		
+				jQuery('#back-top a').click(function () {
+		
+					jQuery('body,html').animate({
+		
+						scrollTop: 0
+		
+					}, 800);
+		
+					return false;
+		
+				});
+		
+			});
+			
+			
+			jQuery('.zoomclose_icon').click(function(e) {
+			jQuery('#mask').hide();	
+			jQuery('#sizepopup_popup').hide();
+		});		
+		jQuery('.knowyoursize a').click(function(e){
+				//Cancel the link behavior
+				e.preventDefault();
+				//Get the A tag
+				var id = jQuery(this).attr('href');
+				//Get the screen height and width
+				var maskHeight = jQuery(document).height();
+				var maskWidth = jQuery(window).width();
+				//Set heigth and width to mask to fill up the whole screen
+				jQuery('#mask').css({'width':maskWidth,'height':maskHeight});
+				//transition effect
+				jQuery('#mask').fadeIn(1000);
+				jQuery('#mask').fadeTo("fast",0.8);
+				//Get the window height and width
+				var winH = jQuery(window).height();
+				var winW = jQuery(window).width();		
+				//jQuery(id).fadeIn(1000);
+				jQuery('#sizepopup_popup').show();
+		});
+		
+		
+			
+				
+		});
+	</script>
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43175760-1', 'ekmatra.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: ekmatra.com @ 2015-02-12 06:30:11 by W3 Total Cache -->

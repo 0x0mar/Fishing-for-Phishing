@@ -1,0 +1,344 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>June | 2010 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>June 2010</span>	</h2>	
+		<div id="post-1561" class="post-1561 post type-post status-publish format-standard hentry category-about-me category-motherhood tag-birth tag-delivery tag-vbac">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/06/30/my-birth-story/" rel="bookmark" title="Permalink to My Birth Story">My Birth Story</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		June 30, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/06/30/my-birth-story/#comments">10 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I wanted to write this to share with you all my birth story and also to keep the memory alive for myself. The event of our second son&#8217;s birth is something I wish I could relive again and again because of how beautiful and amazing it was. The birth of my first son was something I will never forget, but there was also some disappointment in that I couldn&#8217;t see his face as they delivered him via C-section, then couldn&#8217;t hold him for another two hours after my surgery. It wasn&#8217;t long after recovering from his birth that I was already thinking about attempting a VBAC for my next one. So after learning I was pregnant 9 months ago, my husband and I weighed the risks and moved forward with a VBAC delivery. I&#8217;m so glad I did. Here&#8217;s how my birth story started.</p>
+<p>With both of my pregnancies, it&#8217;s normal for me to have several hours of close together contractions before the real onset of labor starts. So was the case on the night of June 5th. I started contracting 4 minutes apart and about a minute long. Growing tired of timing them, I finally fell asleep only to awaken in the morning by them still occurring. At this point I had a gut feeling that this was it. So I went about my day seeing if they would grow stronger or more regular. They were inconsistent, but still about 3-8 minutes apart. By evening they grew noticeably stronger and closer together. I made arrangements for the care of our older son and my husband and I prepared to make the trip to the hospital. We arrived around 7pm, they checked me and I was dialated to 1 cm. The nurse told me I could walk around and see if I progressed any more. So we walked the halls of the hospital for an hour, they checked me again and I was the same. So they sent us home. We went to bed and the contractions grew stronger. After about 40 minutes, I felt the familiar feeling of my water breaking and exclaimed &#8220;Oh my gosh! My water broke!&#8221; My husband bolted out of bed very excited and we made the trek back to the hospital. By now it was about midnight.</p>
+<p>Labor grew more painful as the night wore on, but still bearable. My goal was to have a natural birth without anything for pain, but I still had an open mind.</p>
+<p><strong>4:00am</strong> My parents came around 4 am and my mom coached me through the contractions&#8230;it was so nice having her there! The night is sort of a blur, but eventually I was checked around this same time to find my cervix dialated to 3 cm, but the baby was at a -3 station, which means he hadn&#8217;t dropped yet and was at the highest point he could be in my uterus.</p>
+<p><strong>7:30am</strong> Three and half hours later they checked me again and I was still at a 3 (ugh!) but he had dropped some to a -2 station. Which meant I was finally able to walk around to help labor progress. The rest of the day wore on, the contractions were about 5 minutes apart as long as I was standing, and still not too painful.</p>
+<p><strong>11am</strong> Before noon I was checked with still no progress. At this point we began discussing our options. I could continue this course to see if I would progress on my own, induce more intense labor with pitocin, or have a repeat c-section. I was already aware of the risks of having a VBAC, and I knew the chances of uterine rupture would double with pitocin. I really didn&#8217;t want to go this route. With every contraction I had, at the forefront of my mind was the thought that my uterus could tear open at any moment (morbid, I know). I gave in to fear and told my husband that I wanted another c-section. Thank God a dear friend was there to remind me of the verse &#8220;God has not given me a spirit of fear, but of power, love and a sound mind.&#8221; Such a simple truth, but so glad she reminded me of it. It wasn&#8217;t long after that that I prayed and felt peace about going with a low pitocin drip.</p>
+<p><strong>12pm</strong> At around noon, they hooked me up and it wasn&#8217;t long before I experienced awful, painful contractions, the worst pain I&#8217;ve ever felt IN MY LIFE. Standing up helped me cope, and my husband and mother coached me through each one. After over 3 hours of increasing pain and contractions 1-2 minutes apart, I chose to have an epidural because I felt so tired at this point and there was no way after so many hours of labor my body would have endured on it&#8217;s own.</p>
+<p><strong>3:18pm</strong> I got an epidural, which in and of itself was one of the worst points of the day. Trying to hold still during the worst pain you&#8217;ve ever felt while you get a needle in your back was not easy. If I do an epidural with my next one, I&#8217;ll be sure to get it much earlier! Once it kicked in though&#8230;ah. I couldn&#8217;t feel a darn thing. It was awesome!</p>
+<p><strong>5:00pm</strong> After a couple hours of labor with epidural and increasing the pitocin drip, my contractions were very close together and super strong. And they were doing something! At this point, I was 8 cm dialated and he was at a +1 station. I could tell it was going to go fast now!</p>
+<p><strong>7:00pm</strong> I began asking if my doctor was going to get here soon, because I could feel the weight of the baby bearing down on my backside. With every contraction, I could feel him moving down, it was incredible. But still no pain.</p>
+<p><strong>7:30pm</strong> Very strong contractions and I felt like he was ready to just come sliding out all on his own! I told my mom that I thought I could push and my mom ran to get nurses and check me. I was dialated 10 cm and he was pretty much ready to come out. They told me with the next two contractions that I would &#8220;labor down&#8221; and not to push just yet. The doctor came in casually, then realized very quickly that she had come just in time. I was given a quick tutorial about pushing and with the next contraction, I pushed with all my might. After about 6 pushes and just a couple minutes, my little man was born. My doctor and I couldn&#8217;t believe how easy it was! Kent cut the cord and they put him on my tummy. I was elated. I thought I would cry buckets, but I was surprised that I just felt overwhelming joy as I looked at him for the first time. The tears came a couple minutes later.</p>
+<p><img class="alignnone size-full wp-image-1568" title="P1000237" src="http://evie-s.com/news/wp-content/uploads/2010/06/P1000237.jpg" alt="" width="571" height="386" /></p>
+<p>Recovery was great. Hours after he was born I had a dramatic dip in my blood pressure from some post-partum hemorrhaging and I also had a fever from an infection. Yuck. That was not fun. But those issues were cleared up by the next morning.</p>
+<p><img class="alignnone size-full wp-image-1567" title="P1000268" src="http://evie-s.com/news/wp-content/uploads/2010/06/P1000268.jpg" alt="" width="571" height="295" /></p>
+<p>For any of you reading this considering a VBAC, I would highly encourage you to try it. It&#8217;s not for everyone obviously, but if you find a great doctor that thinks you are a good candidate, you should go for it. I&#8217;m so thrilled that I was able to experience childbirth this way, and really learned a good lesson about not letting fear control my decisions.</p>
+<p>Thanks for reading and letting me share! After a wonderful break, I hope to get back to regular posting by next week!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1557" class="post-1557 post type-post status-publish format-standard hentry category-kids category-motherhood category-news">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/06/11/welcome-baby/" rel="bookmark" title="Permalink to Welcome Baby!">Welcome Baby!</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		June 11, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/06/11/welcome-baby/#comments">17 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Hello all! Just a quick post to let you know that our little Abe Alexander entered the world on June 6th. He&#8217;s such a great baby, very cuddly, a great sleeper and eater, with a head of dark hair and as cute as can be.</p>
+<p><img class="alignnone size-full wp-image-1558" title="welcomebaby" src="http://evie-s.com/news/wp-content/uploads/2010/06/welcomebaby.jpg" alt="" width="571" height="528" /></p>
+<p>I&#8217;d love to write another post with the full birth story soon, but I&#8217;m pleased to report that my VBAC was successful and experiencing the miracle of birth was nothing short of amazing. Thank you to everyone who supported, prayed for, and encouraged me!</p>
+<p>We are all doing fine and recovering nicely (despite a case of jaundice after coming home from the hospital) and adjusting to life with a fourth member of the family. Love to you all!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

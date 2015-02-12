@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments for </title>
+	<atom:link href="http://evie-s.com/news/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://evie-s.com/news</link>
+	<description></description>
+	<lastBuildDate>Thu, 16 Jan 2014 17:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
+	<item>
+		<title>Comment on Week of Paper: Pinwheels by Natalie</title>
+		<link>http://evie-s.com/news/2010/08/30/week-of-paper-pinwheels/comment-page-1/#comment-13537</link>
+		<dc:creator>Natalie</dc:creator>
+		<pubDate>Thu, 16 Jan 2014 17:45:46 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=1647#comment-13537</guid>
+		<description><![CDATA[Thank you so much for the tutorial! I love it!]]></description>
+		<content:encoded><![CDATA[<p>Thank you so much for the tutorial! I love it!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Please, Steal My Ideas by Lora</title>
+		<link>http://evie-s.com/news/2011/05/21/please-steal-my-ideas/comment-page-2/#comment-13532</link>
+		<dc:creator>Lora</dc:creator>
+		<pubDate>Sat, 11 Jan 2014 14:51:28 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=2187#comment-13532</guid>
+		<description><![CDATA[You are a muse. Very wise words, you opened my mind for something i didn&#039;t know how to explain to myself.]]></description>
+		<content:encoded><![CDATA[<p>You are a muse. Very wise words, you opened my mind for something i didn&#8217;t know how to explain to myself.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Rubber Band Jewelry by DIY Jewellery &#124; Fashion Fetishism.</title>
+		<link>http://evie-s.com/news/2012/03/29/rubber-band-jewelry/comment-page-1/#comment-13531</link>
+		<dc:creator>DIY Jewellery &#124; Fashion Fetishism.</dc:creator>
+		<pubDate>Wed, 08 Jan 2014 21:39:45 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=2891#comment-13531</guid>
+		<description><![CDATA[[&#8230;] is a big thing in the fashion industry I&#8217;m always positively surprised to find DIY geniuses who use things that lie around in our daily householdes. In this case : jewellery from rubber. I [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] is a big thing in the fashion industry I&#8217;m always positively surprised to find DIY geniuses who use things that lie around in our daily householdes. In this case : jewellery from rubber. I [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on DIY Project: Piercing Template for Scalloped Edges by angeline</title>
+		<link>http://evie-s.com/news/2008/02/20/diy-project-piercing-template-for-scalloped-edges/comment-page-1/#comment-13530</link>
+		<dc:creator>angeline</dc:creator>
+		<pubDate>Mon, 06 Jan 2014 13:35:46 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=160#comment-13530</guid>
+		<description><![CDATA[I saw your diy project. I&#039;m interesting abt it. But now i jobless i hope can find something to do. I&#039;m not asking for your help. Because i love handicraft so i can learn . I want start from basic. Are you willing share with me?]]></description>
+		<content:encoded><![CDATA[<p>I saw your diy project. I&#8217;m interesting abt it. But now i jobless i hope can find something to do. I&#8217;m not asking for your help. Because i love handicraft so i can learn . I want start from basic. Are you willing share with me?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Realities of RV Living by Cheryl Webb</title>
+		<link>http://evie-s.com/news/2013/10/09/realities-of-rv-living/comment-page-1/#comment-13529</link>
+		<dc:creator>Cheryl Webb</dc:creator>
+		<pubDate>Sat, 04 Jan 2014 02:33:52 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3611#comment-13529</guid>
+		<description><![CDATA[Ginger is awesome for carsickness or any kind of nausea. If it&#039;s for your little one, you&#039;d have to open the capsules &amp; pour out the ginger into something &amp; mix it up...not sure if the taste would be too much (ginger can be pretty &#039;hot&#039;). Maybe ginger snap cookies (make your own to be sure you have enough in them to actually prevent or soothe the nausea. Premade cookies can have artificial flavoring, which would do no good). Hope this helps!]]></description>
+		<content:encoded><![CDATA[<p>Ginger is awesome for carsickness or any kind of nausea. If it&#8217;s for your little one, you&#8217;d have to open the capsules &amp; pour out the ginger into something &amp; mix it up&#8230;not sure if the taste would be too much (ginger can be pretty &#8216;hot&#8217;). Maybe ginger snap cookies (make your own to be sure you have enough in them to actually prevent or soothe the nausea. Premade cookies can have artificial flavoring, which would do no good). Hope this helps!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Nature Collection: South Carolina by Friday Footnotes &#124; Creating For Our Creator</title>
+		<link>http://evie-s.com/news/2013/11/17/nature-collection-south-carolina/comment-page-1/#comment-13528</link>
+		<dc:creator>Friday Footnotes &#124; Creating For Our Creator</dc:creator>
+		<pubDate>Fri, 03 Jan 2014 16:53:39 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3636#comment-13528</guid>
+		<description><![CDATA[[&#8230;] trip to Florida, and back in November she posted her first &#8220;nature collection&#8221; from South Carolina. It&#8217;s really a classy way to &#8220;save&#8221; all those [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] trip to Florida, and back in November she posted her first &#8220;nature collection&#8221; from South Carolina. It&#8217;s really a classy way to &#8220;save&#8221; all those [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Florida Treasure by Friday Footnotes &#124; Creating For Our Creator</title>
+		<link>http://evie-s.com/news/2013/12/04/florida-treasure/comment-page-1/#comment-13527</link>
+		<dc:creator>Friday Footnotes &#124; Creating For Our Creator</dc:creator>
+		<pubDate>Fri, 03 Jan 2014 16:51:15 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3646#comment-13527</guid>
+		<description><![CDATA[[&#8230;] love how Evie creates such gorgeous collages from various vacation momentos&#8230; This particular one is from a [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] love how Evie creates such gorgeous collages from various vacation momentos&#8230; This particular one is from a [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on DIY Yarn Wrapped Monograms by DIY wedding details &#124; The Budget Savvy Bride</title>
+		<link>http://evie-s.com/news/2011/01/24/diy-yarn-wrapped-monograms/comment-page-2/#comment-13523</link>
+		<dc:creator>DIY wedding details &#124; The Budget Savvy Bride</dc:creator>
+		<pubDate>Sat, 28 Dec 2013 15:18:39 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=1828#comment-13523</guid>
+		<description><![CDATA[[&#8230;] Now that you have seen our awesome invitations, I can show you this fun and easy project which can be used for all kinds of events! I originally saw this idea over on Evie S. for a yarn wrapped monogram. [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Now that you have seen our awesome invitations, I can show you this fun and easy project which can be used for all kinds of events! I originally saw this idea over on Evie S. for a yarn wrapped monogram. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Please, Steal My Ideas by james widing</title>
+		<link>http://evie-s.com/news/2011/05/21/please-steal-my-ideas/comment-page-2/#comment-13522</link>
+		<dc:creator>james widing</dc:creator>
+		<pubDate>Thu, 26 Dec 2013 14:38:20 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?p=2187#comment-13522</guid>
+		<description><![CDATA[Yes. Sing your job and get paid for quality not quanity. When things are given the econmy gets better and equalizes debt. That is what fixes things. All of your uniqueness stems from little copies pieced together to make the art yours. Creation is to copy.]]></description>
+		<content:encoded><![CDATA[<p>Yes. Sing your job and get paid for quality not quanity. When things are given the econmy gets better and equalizes debt. That is what fixes things. All of your uniqueness stems from little copies pieced together to make the art yours. Creation is to copy.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Top 150 Makers Blog List by About Pikaland: An art and illustration blog</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-13520</link>
+		<dc:creator>About Pikaland: An art and illustration blog</dc:creator>
+		<pubDate>Sat, 21 Dec 2013 03:35:25 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-13520</guid>
+		<description><![CDATA[[&#8230;] Twitter: Our favorites to follow. 10 best arty eye candy blogs 100 must see art blogs in every form 150 Best Makers Blogs Interview with Susan of Artesprit Blanket Magazine Kindred Share Some Candy contributor A curator [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Twitter: Our favorites to follow. 10 best arty eye candy blogs 100 must see art blogs in every form 150 Best Makers Blogs Interview with Susan of Artesprit Blanket Magazine Kindred Share Some Candy contributor A curator [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

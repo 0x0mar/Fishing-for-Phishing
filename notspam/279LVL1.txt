@@ -1,0 +1,692 @@
+<!DOCTYPE HTML>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<title>40 Best Fitness Websites of 2013 - Psychology Of EatingPsychology Of Eating</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript">
+var pathInfo = {
+base: 'http://psychologyofeating.com/wp-content/themes/psychologyofeating/',
+css: 'css/',
+js: 'js/',
+swf: 'swf/',
+}
+</script>
+<script async src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script async src="//fast.wistia.com/static/embed_shepherd-v1.js"></script>
+<script>
+wistiaEmbeds.onFind(function(video) {
+video.videoFoam(true);
+});
+</script>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '397223577099676']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=397223577099676&amp;ev=PixelInitialized" /></noscript>
+<meta property="fb:app_id" content="775052972550843" />
+<!--noptimize-->
+<script type="text/javascript">
+var popup_domination_admin_ajax = 'http://psychologyofeating.com/wp-admin/admin-ajax.php';
+var popup_domination = {"defaults":[],"delay":3,"cookie_time":1,"center":"Y","cookie_path":"\/","show_opt":"open","tab_height":"","tab_color":"#ee2222","tab_font_color":"#333333","tab_text":"Click To Subscribe","show_anim":"slideLeft","show_where":"center","show_color":"#000000","show_opacity":"70","advance_custom_css":"@font-face {\r\n    font-family: 'museo300';\r\n    src: url('fonts\/museo300-regular-webfont.eot');\r\n    src: url('fonts\/museo300-regular-webfont.eot?#iefix') format('embedded-opentype'),\r\n         url('fonts\/museo300-regular-webfont.woff2') format('woff2'),\r\n         url('fonts\/museo300-regular-webfont.woff') format('woff'),\r\n         url('fonts\/museo300-regular-webfont.ttf') format('truetype'),\r\n         url('fonts\/museo300-regular-webfont.svg#museo300') format('svg');\r\n    font-weight: normal;\r\n    font-style: normal;\r\n\r\n}\r\n.popup-dom-lightbox-wrapper .lightbox-main .lightbox-signup-panel p {font-family: museo !important; font-style: italic !important; margin-top: 13px !important; margin-bottom: 13px !important;font-size: large !important;}\r\n.popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-grey-panel p.heading {\r\ncolor: white !important;\r\nfont-family: museo !important;\r\ntext-shadow: none !important;\r\nfont-style: normal !important;\r\nfont-weight: normal !important;\r\nfont-size: 31px !important; text-align: center !important;\r\nmargin-bottom: -6px !important;\r\n}\r\n.popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-grey-panel p.heading span {color: #db52ff;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx {float: left !important; width: 293px !important; margin-left: 23px;}\r\n.popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel .lightbox-product-image {float: right !important; width: 138px !important;}\r\n.popup-dom-lightbox-wrapper .powered {display: none !important;}\r\n.popup-dom-lightbox-wrapper .lightbox-main .lightbox-signup-panel p.heading2 {background: #033916 !important; margin: 0px -16px 0px -10px  !important;\r\npadding: 20px  !important; font-family: museo !important; text-shadow: none !important; font-style: normal !important; font-size: 30px !important; line-height: 36px !important;} .popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-signup-panel {padding-top: 36px !important;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-signup-panel p.heading2 span {color: #b8d450;text-transform: uppercase;font-weight: 900;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx ul { padding-left: 15px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx li {list-style: none; font-family: museo !important;\r\nlist-style-position: outside; position: relative; padding: 0 0 0px 31px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx li:before {background: url(http:\/\/psychologyofeating.com\/wp-content\/themes\/psychologyofeating\/images\/sprite.png) no-repeat -73px -205px;content: ''; position: absolute; left: 0; top: 1px; height: 21px; width: 23px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel .lightbox-product-image img {float: right !important; right: -30px !important; position: relative !important; width: 229px !important; top: 14px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel {background-image: url('http:\/\/psychologyofeating.com\/wp-content\/uploads\/2015\/02\/popup-main-panel-1.png') !important;} .popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-signup-panel {\r\nbackground-image: url('http:\/\/psychologyofeating.com\/wp-content\/uploads\/2015\/02\/popup-right-panel1.png') !important;} .popup-dom-lightbox-wrapper .lightbox-signup-panel p.secure {text-shadow: none !important;}  .popup-dom-lightbox-wrapper input[type=\"submit\"].blue-button {background: #b8d450 !important;border-radius: 5px !important;text-shadow: none !important;color: #033916 !important;font-weight: bold !important;font-family: museo !important;font-size: x-large !important;} .popup-dom-lightbox-wrapper .lightbox-signup-panel p.secure {font-style: normal !important; font-size: 11px !important;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel {padding-top: 56px !important;}","disable_analytics":"","show_referral":"","show_background":"true","hide_mobile":"","allow_background_close":"true","linkclick":"popup-domination-link","unload_msg":"Don't leave! We have a special offer waiting for you!","impression_count":0,"redirect":"","splitcookie":false,"conversionpage":"","campaign":"","popupid":"1","mailingid":"1","close_option":"","google_goal":"","output":"<div class=\"popup-dom-lightbox-wrapper\" id=\"popup_domination_lightbox_wrapper\" style=\"display:none\">\n<div class=\"lightbox-overlay\"><\/div>\n\t<div class=\"lightbox-main lightbox-color-green\">\n\t<a href=\"#\" class=\"lightbox-close\" id=\"popup_domination_lightbox_close\"><span>Close<\/span><\/a>\n\t<div class=\"lightbox-clear\"><\/div>\n\t\t<div class=\"lightbox-grey-panel\">\n\t\t\t<p class=\"heading\">Transform Your Relationship with Food<br><span>+<\/span> Launch an Exciting New Career<\/p>\n\t\t\t<div class=\"lightbox-product-image\">\n                <img src=\"http:\/\/psychologyofeating.com\/wp-content\/uploads\/2015\/02\/popup-media1.png\" alt=\"\" \/>\t\t\t<\/div>\n\t\t\t<div class=\"lightbox-contentxx\">\n\t\t\t\t<p><ul><li>Learn key principles taught\u00a0in our Programs<\/li><br \/>\r\n\t<li>Be inspired by a positive &amp; uplifting approach to eating<\/li><br \/>\r\n\t<li>Get fresh insights to create real and lasting change<\/li><br \/>\r\n\t<li>Empower your metabolism in a whole new way<\/li><br \/>\r\n\t<li>Catalyze breakthroughs in your personal &amp; professional life<\/li><\/ul><\/p>\n\t\t\t\t<div class=\"bullet-listx\">\n                    <ul class=\"bullet-list\">                    <\/ul>\n\t\t\t\t\t<div class=\"lightbox-clear\"><\/div>\n\t\t\t\t<\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"lightbox-clear\"><\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"lightbox-signup-panel\">\n\t\t\t<p class=\"heading2\">Get Your <span>Free<\/span><br>Video Series<\/p>\n\t\t\t<p>Practical tools + insights that<br>will forever change your<br>relationship with food<\/p>\n            <form method=\"post\" action=\"https:\/\/ipe.infusionsoft.com\/app\/form\/process\/728236c1208d5bc5c17ca4b52f418a3c\"target=\"_self\">\n                <div>\n                    <input class=\"provider\" type=\"hidden\" name=\"provider\" value=\"form\" \/><input class=\"listid\" type=\"hidden\" name=\"listid\" value=\"\" \/><input class=\"listname\" type=\"hidden\" name=\"listname\" value=\"\" \/><input class=\"mailingid\" type=\"hidden\" name=\"mailingid\" value=\"1\" \/><input class=\"mailnotify\" type=\"hidden\" name=\"mailnotify\" value=\"\" \/><input class=\"campaignid\" type=\"hidden\" name=\"campaignid\" value=\"1\" \/><input class=\"campname\" type=\"hidden\" name=\"campname\" value=\"Main Pop-up\" \/><input name=\"inf_form_xid\" type=\"hidden\" value=\"728236c1208d5bc5c17ca4b52f418a3c\" \/><input name=\"inf_form_name\" type=\"hidden\" value=\"New(1) DEP Opt In - Squeeze Page\" \/><input name=\"infusionsoft_version\" type=\"hidden\" value=\"1.38.0.34\" \/><input type=\"text\" class=\"name\" placeholder=\"Your First Name\" name=\"inf_field_FirstName\" \/><input type=\"text\" class=\"email\" placeholder=\"Your Email Address\" name=\"inf_field_Email\" \/>                    <input type=\"submit\" value=\"Get Videos Now\" src=\"http:\/\/psychologyofeating.com\/wp-content\/plugins\/popup-domination\/themes\/lightbox5\/images\/trans.png\" class=\"blue-button\" \/>\n                    <p class=\"secure\">Your information will never be shared with any third party<\/p>\n                <\/div>\n            <\/form>\n\t\t<\/div>\n\t\t\t\t<div class=\"lightbox-clear\"><\/div>\t\n\t\t<p class=\"powered\"><a href=\"http:\/\/www.popupdomination.com\/\" target=\"_blank\">Powered By <u>PopUp Domination<\/u><\/a><\/p>\t<\/div>\n<\/div>","dom_head":"<style>@font-face {\r\n    font-family: 'museo300';\r\n    src: url('fonts\/museo300-regular-webfont.eot');\r\n    src: url('fonts\/museo300-regular-webfont.eot?#iefix') format('embedded-opentype'),\r\n         url('fonts\/museo300-regular-webfont.woff2') format('woff2'),\r\n         url('fonts\/museo300-regular-webfont.woff') format('woff'),\r\n         url('fonts\/museo300-regular-webfont.ttf') format('truetype'),\r\n         url('fonts\/museo300-regular-webfont.svg#museo300') format('svg');\r\n    font-weight: normal;\r\n    font-style: normal;\r\n\r\n}\r\n.popup-dom-lightbox-wrapper .lightbox-main .lightbox-signup-panel p {font-family: museo !important; font-style: italic !important; margin-top: 13px !important; margin-bottom: 13px !important;font-size: large !important;}\r\n.popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-grey-panel p.heading {\r\ncolor: white !important;\r\nfont-family: museo !important;\r\ntext-shadow: none !important;\r\nfont-style: normal !important;\r\nfont-weight: normal !important;\r\nfont-size: 31px !important; text-align: center !important;\r\nmargin-bottom: -6px !important;\r\n}\r\n.popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-grey-panel p.heading span {color: #db52ff;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx {float: left !important; width: 293px !important; margin-left: 23px;}\r\n.popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel .lightbox-product-image {float: right !important; width: 138px !important;}\r\n.popup-dom-lightbox-wrapper .powered {display: none !important;}\r\n.popup-dom-lightbox-wrapper .lightbox-main .lightbox-signup-panel p.heading2 {background: #033916 !important; margin: 0px -16px 0px -10px  !important;\r\npadding: 20px  !important; font-family: museo !important; text-shadow: none !important; font-style: normal !important; font-size: 30px !important; line-height: 36px !important;} .popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-signup-panel {padding-top: 36px !important;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-signup-panel p.heading2 span {color: #b8d450;text-transform: uppercase;font-weight: 900;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx ul { padding-left: 15px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx li {list-style: none; font-family: museo !important;\r\nlist-style-position: outside; position: relative; padding: 0 0 0px 31px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-contentxx li:before {background: url(http:\/\/psychologyofeating.com\/wp-content\/themes\/psychologyofeating\/images\/sprite.png) no-repeat -73px -205px;content: ''; position: absolute; left: 0; top: 1px; height: 21px; width: 23px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel .lightbox-product-image img {float: right !important; right: -30px !important; position: relative !important; width: 229px !important; top: 14px;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel {background-image: url('http:\/\/psychologyofeating.com\/wp-content\/uploads\/2015\/02\/popup-main-panel-1.png') !important;} .popup-dom-lightbox-wrapper .lightbox-color-green .lightbox-signup-panel {\r\nbackground-image: url('http:\/\/psychologyofeating.com\/wp-content\/uploads\/2015\/02\/popup-right-panel1.png') !important;} .popup-dom-lightbox-wrapper .lightbox-signup-panel p.secure {text-shadow: none !important;}  .popup-dom-lightbox-wrapper input[type=\"submit\"].blue-button {background: #b8d450 !important;border-radius: 5px !important;text-shadow: none !important;color: #033916 !important;font-weight: bold !important;font-family: museo !important;font-size: x-large !important;} .popup-dom-lightbox-wrapper .lightbox-signup-panel p.secure {font-style: normal !important; font-size: 11px !important;} .popup-dom-lightbox-wrapper .lightbox-main .lightbox-grey-panel {padding-top: 56px !important;}<\/style><link rel=\"stylesheet\" href=\"\/54dbb8f9e0cd6\/themes\/lightbox5\/lightbox.css?ver=3.9.6\" type=\"text\/css\" media=\"all\" id=\"popdom_lightbox_theme\"\/>\n<script type=\"text\/javascript\" src=\"\/54dbb8f9e0cd6\/js\/lightbox.js?ver=3.9.6\"><\/script>\n"};
+var popup_non = 'false';
+var popup_domination_new_window = "no";
+</script>
+<!--/noptimize-->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://psychologyofeating.com/40-fitness-websites-2013/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="40 Best Fitness Websites of 2013 - Psychology Of Eating" />
+<meta property="og:description" content="Here are our picks for 2013 Top 40 Fitness Websites. Please enjoy!  Here at The Institute for the Psychology of Eating,  we’re on a mission to forever change the way the world understands food, body and health. The Institute for the Psychology of Eating is the world&#8217;s only online school dedicated to a progressive, positive, holistic understanding of eating psychology and nutrition. [...]" />
+<meta property="og:url" content="http://psychologyofeating.com/40-fitness-websites-2013/" />
+<meta property="og:site_name" content="Psychology Of Eating" />
+<meta property="article:tag" content="guest" />
+<meta property="article:tag" content="Top Blogs" />
+<meta property="article:section" content="Guest Blog" />
+<meta property="article:published_time" content="2013-10-01T16:57:50+00:00" />
+<meta property="article:modified_time" content="2014-10-20T20:43:16+00:00" />
+<meta property="og:updated_time" content="2014-10-20T20:43:16+00:00" />
+<meta property="og:image" content="http://psychologyofeating.com/wp-content/uploads/2013/10/top40-fitness2013150x150.jpg" />
+<!-- / Yoast WordPress SEO plugin. -->
+<link rel="alternate" type="application/rss+xml" title="Psychology Of Eating &raquo; Feed" href="http://psychologyofeating.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Psychology Of Eating &raquo; Comments Feed" href="http://psychologyofeating.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Psychology Of Eating &raquo; 40 Best Fitness Websites of 2013 Comments Feed" href="http://psychologyofeating.com/40-fitness-websites-2013/feed/" />
+<link rel='stylesheet' id='minit-15bd0fa9b8775a61565e18258d2446fa-css'  href='http://psychologyofeating.com/wp-content/uploads/minit/15bd0fa9b8775a61565e18258d2446fa.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://psychologyofeating.com/54dbb8f9e0cd6/js/load_lightbox.js?ver=3.9.6'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://psychologyofeating.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://psychologyofeating.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://psychologyofeating.com/?p=9681' />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css">.broken_link, a.broken_link {
+text-decoration: line-through;
+}</style>
+<link media="all" rel="stylesheet" href="http://psychologyofeating.com/wp-content/themes/psychologyofeating/font.css">
+<style> @import url(http://fonts.googleapis.com/css?family=Rokkitt);address,applet,blockquote,dl,embed,form,frameset,h1,h2,h3,h4,h5,h6,iframe,object,ol,p,table,ul{margin:0 0 14px}a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,font,footer,form,frameset,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,p,pre,q,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{border:0;background:0 0}*{max-height:100000px;margin:0;padding:0}article,aside,figure,footer,header,main,nav,section{display:block}body{background:#fafafa;color:#555;font:15px/20px museo300,Arial,Helvetica,sans-serif;min-width:320px}a{color:#004D1D;outline:0;text-decoration:underline}#wrapper{position:relative;overflow:hidden;width:100%}#header .holder{max-width:1024px;margin:0 auto}#header .holder:after{content:'';display:block;clear:both}.header-holder{background:url(http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/bg-panel.png) 50% 0 #e8e8e8;color:#fff;font-size:14px}.header-holder .holder{height:44px}.header-holder .col-right{float:right;padding:10px 1px 0 0}.open-close .opener{display:none}.header-frame{background:#fafafa}.nav{float:left;line-height:16px}.nav>ul{margin:0;float:left}.nav>ul>li{float:left;list-style:none;margin:0 18px 0 0}.nav>ul>li>a{color:#fff;display:block;line-height:46px;height:44px;padding:0 8px;text-decoration:none}.nav>ul>li.hover,.nav>ul>li:hover{position:relative;z-index:999}.nav>ul>li.active>a,.nav>ul>li.hover>a,.nav>ul>li:hover>a{background:#013719}.nav>ul>li.hover .drop,.nav>ul>li:hover .drop{left:0}.nav .drop{background:#013719;position:absolute;padding:2px 0 11px;left:-9999px;top:100%;z-index:999;width:278px}.nav .drop ul{margin:0;padding:0}.nav .drop li{list-style:none;margin:0 0 -2px}.nav .drop a{color:#fff;padding:11px 18px;display:block}.nav .drop a:hover{background:#7b2a8f}.contact-us{float:left;margin:4px 21px 0 0}.contact-us a{color:#fff}.contact-us a:hover{opacity:.7}.social-networks{float:left;margin:0}.social-networks li:first-child{margin:0}.social-networks li{float:left;margin:0 0 0 8px;list-style:none}.social-networks a{background:url(http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/sprite.png) no-repeat;display:block;overflow:hidden;position:relative;text-indent:-9999px;height:26px;width:29px}.social-networks .facebook a{background-position:0 0}.social-networks .twitter a{background-position:-35px 0}.social-networks .google a{background-position:-70px 0}.social-networks .youtube a{background-position:-105px 0}.social-networks .picasa a{background-position:-141px 0}.social-networks .linkedin a{background-position:-176px 0}.social-networks .facebook:hover a{background-position:0 -28px}.social-networks .twitter:hover a{background-position:-35px -28px}.social-networks .google:hover a{background-position:-70px -28px}.social-networks .youtube:hover a{background-position:-105px -28px}.social-networks .picasa:hover a{background-position:-141px -28px}.social-networks .linkedin:hover a{background-position:-176px -28px}.logo{margin:28px 1px 0;float:left;width:377px}.logo img{display:block;height:auto;width:100%}#nav{float:right}#nav>ul{font:18px/22px Rokkitt,Arial,Helvetica,sans-serif;float:left;margin:0}#nav>ul>li{border-left:1px solid #fff;float:left;list-style:none}#nav>ul>li>a{background:#f3f3f3;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;color:#2e7249;display:block;height:106px;padding:70px 10px 10px;position:relative;text-align:center;width:114px}#nav>ul>li.active>a{background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwNGQxYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxOTk0NDEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+) #004d1c;background:-moz-linear-gradient(top,#004d1c 0,#199441 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#004d1c),color-stop(100%,#199441));background:-webkit-linear-gradient(top,#004d1c 0,#199441 100%);background:-o-linear-gradient(top,#004d1c 0,#199441 100%);background:-ms-linear-gradient(top,#004d1c 0,#199441 100%);background:linear-gradient(to bottom,#004d1c 0,#199441 100%);color:#fff}#nav>ul>li.hover,#nav>ul>li:hover{position:relative;z-index:999}#nav>ul>li.hover .drop,#nav>ul>li:hover .drop{left:0}#nav .drop{background:#199441;position:absolute;left:-9999px;top:100%;padding:4px 0 7px;line-height:16px;width:346px;z-index:999}#nav>ul>li>a span{background:url(http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/sprite.png) no-repeat;position:absolute;left:50%;top:25px;z-index:999}#nav>ul>li.item1 span{background-position:0 -70px;height:40px;width:38px;margin:0 0 0 -19px}#nav>ul>li.item2 span{background-position:-51px -70px;height:35px;width:22px;margin:1px 0 0 -14px}#nav>ul>li.item3 span{background-position:-89px -70px;height:37px;width:41px;margin:1px 0 0 -23px}#nav>ul>li.item4 span{background-position:-144px -70px;height:36px;width:38px;margin:5px 0 0 -20px}#nav>ul>li.item1.active span{background-position:0 -120px}#nav>ul>li.item2.active span{background-position:-51px -120px}#nav>ul>li.item3.active span{background-position:-89px -120px}#nav>ul>li.item4.active span{background-position:-144px -120px}#nav .drop ul{margin:0;padding:0}#nav .drop li{list-style:none;margin:0 0 3px}#nav .drop a{color:#fff;display:block;padding:15px 24px 13px}#nav .drop a:hover{background:#7d2c91}.bar{background:url(images/bg-bar.png) 50% 0;margin:0 0 53px}.promocontainerhome{position:relative;width:100%}.promo{background:url(http://psychologyofeating.com/wp-content/uploads/2014/11/webinarbackgroundbrightfleur.jpg) 50% 0;color:#333}.promo .holder{margin:0 auto;max-width:1024px;font-size:20px;line-height:27px;padding:34px 0 32px;text-align:center}.promo h1{font:65px/68px Rokkitt,Arial,Helvetica,sans-serif;margin:0 0 -1px}.promo p{margin:0 0 22px}.promo .video{border:none;margin:0;padding:0;float:left;width:100%;height:100%;position:relative;left:0}.videoh{border:7px solid #d4d4d4;margin:auto;padding:0;width:618px}.homesidebar{border:none;background:url(http://psychologyofeating.com/wp-content/uploads/2015/02/opt-in-top.jpg) 0 0/cover #05602a;padding:0;position:absolute;right:0;height:412px;width:37.9%;border-radius:0;float:right}.homesidebar .title{color:#fff;font:40px/36px museo_sans500,Arial,Helvetica,sans-serif;margin:15px 0 19px;word-spacing:-2px;text-shadow:none}.homesidebar .title2{color:#fff;font:21px/29px museo_sans300,Arial,Helvetica,sans-serif;margin:0 0 19px;word-spacing:-2px;text-shadow:1px 1px #000}.homesidebar .infusion-form .infusion-field{float:left;margin:5px 0 10px!important;width:280px!important}.homesidebar .title3{color:#fff;font-size:15px;margin:0 0 2px;word-spacing:-2px;text-shadow:1px 1px #000}.homesidebar .title4{color:#fff;font-size:13px;margin:0 0 2px;opacity:.8}.homesidebar .infusion-form{margin:0 auto;padding:0 10px;position:relative;width:280px!important;left:0!important}.homesidebar .input-placeholder-text{top:9px!important}.homesidebar .homesubmit{width:280px!important;height:52px!important;font:26px/30px Rokkitt,Arial,Helvetica,sans-serif!important;margin:4px 0 13px!important;background:#7e2d91;border-bottom:3px solid #2f1543;border-top:none;border-left:none;border-right:none;border-radius:3px;color:#fff;display:inline-block;vertical-align:top;cursor:pointer}#ot{width:636px;height:412px;background-image:url(http://psychologyofeating.com/wp-content/uploads/2015/02/video-button-hide.jpg);float:left}#ti{width:62.1%;display:none}.fluid-width-video-wrapper{width:100%;position:relative;padding:0}.fluid-width-video-wrapper embed,.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object{position:absolute;top:0;left:0;width:100%;height:100%}@media only screen and (max-width:1024px){#ti{display:block}.logo{width:292px}.header-holder .holder{height:auto;padding:0}.header-holder .col-right{float:left;padding:10px 1px 10px 8px}.promo .video,.videoh{width:94%}.promo .holder{padding:32px 10px}#main .m1{padding:0 10px 26px;width:auto}.homesidebar{position:relative;width:100%;right:0;margin:0!important;padding:24px 0}.promo .video{width:100%!important;left:0!important;margin:0 auto}}@media only screen and (max-width:767px){.open-close .opener{background:#199441;display:block;color:#fff;font:20px/42px Rokkitt,Arial,Helvetica,sans-serif;height:40px;text-align:center}#header{position:relative;z-index:999}#header .header-frame .holder{padding:16px 0 0}.header-holder .holder{padding:0 0 14px}.header-holder .col-right{padding:13px 0 0;float:none;text-align:center}.nav{float:none;width:100%}.nav>ul{float:none}.nav>ul:after{content:'';display:block;clear:both}.nav>ul>li{margin:0;float:none;display:block}.nav>ul>li.hover .drop{display:block}.nav .drop{display:none;position:static;text-align:center;width:100%}.nav>ul>li>a{text-align:center}.contact-us,.social-networks{float:none;margin:0;display:inline-block;vertical-align:middle}.logo{display:block;float:none;margin:0 auto 20px;width:290px}#nav,#nav>ul{float:none;width:100%}#nav>ul>li{margin:0 0 1px;float:none}#nav>ul>li.hover .drop{display:block}#nav>ul>li>a span{display:none}#nav>ul>li>a{height:auto;padding:10px;width:100%}#nav .drop{display:none;position:static;background:#f3f3f3;text-align:center;width:100%}#nav .drop li{border-top:1px solid #fff}#nav .drop a{color:#2e7249}#nav .drop li:hover a{color:#fff}.block-get,.get-holder,.promo .holder,.question .heading p{font-size:18px;line-height:22px}.block-event h2,.block-get h2,.forever .col-left h1,.forever .col-right h2,.get-holder .title,.offer h1,.post-area h2,.post-free h2,.promo h1,.question h2,.related .title,.training h2{font-size:30px;line-height:32px;margin:0 0 10px}}@media only screen and (min-width:767px){.open-close .slide{position:static!important;display:block!important} #main .m1{margin:0 auto;max-width:1024px;padding:0 0 26px;width:100%}</style>
+<link rel="shortcut icon" href="http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/favicon.ico" />
+<!--[if lt IE 9]>
+<script type="text/javascript" async src="http://psychologyofeating.com/wp-content/themes/psychologyofeating/js/ie.js"></script>
+<link rel="stylesheet" type="text/css" href="http://psychologyofeating.com/wp-content/themes/psychologyofeating/css/ie.css" media="screen">
+<![endif]-->
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" async src="http://w.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"68aa5045-7e13-4898-a423-98ce83ce46f8"});var st_type="wordpress3.9.1";</script>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T69TQK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T69TQK');</script>
+<!-- End Google Tag Manager -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1434065273511660&version=v2.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+<header id="header">
+<div class="header-holder">
+<div class="holder">
+<div class="open-close"><a href="#" class="opener">Top Menu</a><div class="slide"><nav class="nav"><ul><li id="menu-item-11347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11347"><a href="http://psychologyofeating.com/health-coach-training/">About</a>
+<div class="drop"><ul>
+<li id="menu-item-11349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11349"><a href="http://psychologyofeating.com/the-movement/">The Movement</a></li>
+<li id="menu-item-11350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11350"><a href="http://psychologyofeating.com/health-coach-training/">The Institute</a></li>
+<li id="menu-item-11351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11351"><a href="http://psychologyofeating.com/psychology-nutrition/">Our Philosophy</a></li>
+<li id="menu-item-11352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11352"><a href="http://psychologyofeating.com/about-marc-david/">Marc David &#8211; Founder</a></li>
+<li id="menu-item-11353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11353"><a href="http://psychologyofeating.com/about-emily-rosen/">Emily Rosen &#8211; Director</a></li>
+<li id="menu-item-11355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11355"><a href="http://psychologyofeating.com/nutrition-training/">What is Mind Body Nutrition?</a></li>
+<li id="menu-item-11356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11356"><a href="http://psychologyofeating.com/what-is-dynamic-eating-psychology/">What Is Dynamic Eating Psychology?</a></li>
+<li id="menu-item-11371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11371"><a href="http://psychologyofeating.com/books/">Marc&#8217;s Books</a></li>
+</ul></div>
+</li>
+<li id="menu-item-12307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12307"><a href="http://psychologyofeating.com/ipe-blog/">Blog</a>
+<div class="drop"><ul>
+<li id="menu-item-12531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12531"><a href="http://psychologyofeating.com/ipe-blog/">Eating Psychology &#038; Mind Body Nutrition Articles and Video Blogs</a></li>
+<li id="menu-item-11962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11962"><a href="http://psychologyofeating.com/guest-blog/">Additional Articles</a></li>
+</ul></div>
+</li>
+<li id="menu-item-17868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17868"><a href="http://psychologyofeating.com/shop/free-audio-gift/">Free for You</a>
+<div class="drop"><ul>
+<li id="menu-item-11332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11332"><a href="http://psychologyofeating.com/shop/free-audio-gift/">Free Eating Psychology Video Series</a></li>
+<li id="menu-item-17869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17869"><a href="http://psychologyofeating.com/free-sd-chapter/">Free Chapter of the Slow Down Diet</a></li>
+<li id="menu-item-17870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17870"><a href="http://psychologyofeating.com/free-nw-chapter/">Free Chapter of Nourishing Wisdom</a></li>
+<li id="menu-item-14937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14937"><a href="http://psychologyofeating.com/inspiration1/">Free Inspirational Images 1</a></li>
+<li id="menu-item-15337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15337"><a href="http://psychologyofeating.com/inspiration2/">Free Inspirational Images 2</a></li>
+<li id="menu-item-15815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15815"><a href="http://psychologyofeating.com/inspiration3/">Free Inspirational Images 3</a></li>
+<li id="menu-item-17226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17226"><a href="http://psychologyofeating.com/inspiration4/">Free Inspirational Images 4</a></li>
+<li id="menu-item-17961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17961"><a href="http://psychologyofeating.com/epcc-info-video-series/">Free Eating Psychology Coaching Video Series</a></li>
+<li id="menu-item-18211" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18211"><a href="https://institute.leadpages.net/10-simple-strategies/">Free Report</a></li>
+</ul></div>
+</li>
+<li id="menu-item-13012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13012"><a href="http://psychologyofeating.com/free-updates/">Free Updates</a></li>
+<li id="menu-item-12189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12189"><a href="http://psychologyofeating.com/contact-us/">Connect</a>
+<div class="drop"><ul>
+<li id="menu-item-11311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11311"><a href="http://psychologyofeating.com/contact-us/">Connect with Us</a></li>
+<li id="menu-item-11312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11312"><a href="http://psychologyofeating.com/counseling/">Counseling &#038; Coaching</a></li>
+<li id="menu-item-11313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11313"><a href="http://psychologyofeating.com/speaking-and-consulting/">Speaking &#038; Consulting</a></li>
+<li id="menu-item-11314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11314"><a href="http://psychologyofeating.com/connect/affiliates/">Become a Promotional Partner</a></li>
+<li id="menu-item-11315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11315"><a href="http://psychologyofeating.com/connect/affiliate-login/">IPE Affiliate Login</a></li>
+</ul></div>
+</li>
+</ul></nav></div></div>
+<div class="col-right">
+<ul class="social-networks">
+<li class="facebook"><a href="https://www.facebook.com/IPEfanpage" target="_blank">facebook</a></li>
+<li class="twitter"><a href="https://twitter.com/Psych_of_Eating" target="_blank">twitter</a></li>
+<li class="google"><a href="https://plus.google.com/u/1/b/104465602283906481920/+Psychologyofeating/posts" target="_blank">google</a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/MarcDavidIPE" target="_blank">youtube</a></li>
+<li class="picasa"><a href="http://www.pinterest.com/eatingpsych/" target="_blank">picasa</a></li>
+<li class="linkedin"><a href="https://www.linkedin.com/company/the-institute-for-the-psychology-of-eating" target="_blank">linkedin</a></li>										<li class="instagram"><a href="http://instagram.com/eatingpsychology" target="_blank">Instagram</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="header-frame">
+<div class="holder">
+<a href="http://psychologyofeating.com" class="logo">
+<img src="http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/logo.png" width="377" height="60" alt="institute for the PSYCHOLOGY of EATHING the World&#039;s Leading School in Nutritional Psychology">
+</a>
+<div class="open-close"><a href="#" class="opener">Main Menu</a><div class="slide"><nav id="nav"><ul><li id="menu-item-11375" class="item1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11375"><a href="http://psychologyofeating.com/nutritionist-certification/"><span class="icon"></span>Get Certified</a>
+<div class="drop"><ul>
+<li id="menu-item-15421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15421"><a href="http://psychologyofeating.com/nutritionist-certification/">Become an Eating Psychology Coach</a></li>
+<li id="menu-item-15724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15724"><a href="http://psychologyofeating.com/health-and-wellness-coaching/">The Opportunity</a></li>
+<li id="menu-item-11244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11244"><a href="http://psychologyofeating.com/is-this-training-for-me/">Is This Training for Me?</a></li>
+<li id="menu-item-11386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11386"><a href="http://psychologyofeating.com/nutrition-careers/">Your Career</a></li>
+<li id="menu-item-11245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11245"><a href="http://psychologyofeating.com/how-the-training-works/">How the Training Works</a></li>
+<li id="menu-item-11248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11248"><a href="http://psychologyofeating.com/holistic-psychology-curriculum/">Our Eating Psychology Curriculum</a></li>
+<li id="menu-item-11296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11296"><a href="http://psychologyofeating.com/bonus-nutrition-module/">Bonus Nutrition Module</a></li>
+<li id="menu-item-11301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11301"><a href="http://psychologyofeating.com/bonus-business-module/">Bonus Business Development Module</a></li>
+<li id="menu-item-11246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11246"><a href="http://psychologyofeating.com/schedule/">Schedule</a></li>
+<li id="menu-item-11247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11247"><a href="http://psychologyofeating.com/tuition/">Tuition + What the Training Includes</a></li>
+<li id="menu-item-11249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11249"><a href="http://psychologyofeating.com/frequently-asked-questions/">FAQ</a></li>
+<li id="menu-item-17962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17962"><a href="http://psychologyofeating.com/epcc-info-video-series/">Free Eating Psychology Coaching Series</a></li>
+<li id="menu-item-17968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17968"><a href="http://psychologyofeating.com/epcc-webinar/">Free EPCC Informational Webinar</a></li>
+</ul></div>
+</li>
+<li id="menu-item-11990" class="item2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11990"><a href="http://psychologyofeating.com/transform-relationship-food/"><span class="icon"></span>Programs</a>
+<div class="drop"><ul>
+<li id="menu-item-11305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11305"><a href="http://psychologyofeating.com/transform-relationship-food/">Transform Your Relationship with Food™</a></li>
+</ul></div>
+</li>
+<li id="menu-item-11963" class="item3 menu-item menu-item-type-post_type menu-item-object-page menu-item-11963"><a href="http://psychologyofeating.com/events/"><span class="icon"></span>Events</a></li>
+<li id="menu-item-11382" class="item4 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11382"><a href="http://psychologyofeating.com/testimonials/written-testimonials/"><span class="icon"></span>Testimonials</a>
+<div class="drop"><ul>
+<li id="menu-item-11383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11383"><a href="http://psychologyofeating.com/testimonials/written-testimonials/">Written Testimonials</a></li>
+<li id="menu-item-11384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11384"><a href="http://psychologyofeating.com/testimonials/video-testimonials/">Graduate Video Testimonials</a></li>
+</ul></div>
+</li>
+</ul></nav></div></div>
+</div>
+</div>
+</header><div id="main" role="main">
+<div class="bar">
+<nav class="breadcrumbs">
+<ul>
+<!-- Breadcrumb NavXT 5.2.0 -->
+<li class="home"><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to Psychology Of Eating." href="http://psychologyofeating.com" class="home">Home</a></span></li>
+<li><span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to the Guest Blog category archives." href="http://psychologyofeating.com/category/guest-blog/" class="taxonomy category">Guest Blog</a></span></li>
+<li class="current_item"><span typeof="v:Breadcrumb"><span property="v:title">40 Best Fitness Websites of 2013</span></span></li>
+</ul>
+</nav>
+</div>
+<div class="m1">
+<div id="content">
+<div class="c1">
+<div class="single">
+<article class="article">
+<h1>40 Best Fitness Websites of 2013</h1>
+<a id="dd_start"></a><p><b><a href="http://psychologyofeating.com/40-fitness-websites-2013/"><img class="wp-image-9689 alignright" src="http://bpsstaging.com/POE/wp-content/uploads/2013/10/top40-fitness-blogs.png" alt="top40-fitness-blogs" width="194" height="190" /></a></b></p>
+<p><span style="color: #222222;">Here are our picks for <strong>2013 Top 40 Fitness Websites</strong></span><span style="color: #9929bd;">. </span><span style="color: #222222;">Please enjoy!  Here at </span><b style="color: #222222;"><a style="color: #1155cc;" href="http://psychologyofeating.com/" target="_blank"><span style="color: #2672ec;">The Institute for the Psychology of Eating</span></a>, </b><span style="color: #222222;"> we’re on a mission to forever change the way the world understands food, body and health.</span></p>
+<p><span style="color: #222222;">T</span><span style="color: #222222;">he Institute for the Psychology of Eating</span><b style="color: #222222;"> is </b><span style="color: #222222;">the world&#8217;s only online school dedicated to a progressive, positive, holistic understanding of eating psychology and nutrition. Unique and revolutionary in its approach, the Institute teaches students and professionals how to effectively work with the most common and compelling eating challenges of our times &#8211; </span><span style="color: #222222;">weight, body image, overeating, binge eating, emotional eating, endless dieting, digestion, fatigue, immunity, mood and much more.</span></p>
+<p><span style="color: #222222;">The Institute features an internationally acclaimed distance learning </span><span style="color: #222222;">professional offering &#8211; the<a style="color: #1155cc;" href="http://psychologyofeating.com/epcc/" target="_blank"><b> <span style="color: #2672ec;">Eating Psychology Coach Certification Training</span> </b></a>- along with well loved online programs for the public, including <a style="color: #1155cc;" href="http://psychologyofeating.com/transform-relationship-food/" target="_blank"><span style="color: #2672ec;"><b>Transform Your Relationship with Food</b></span></a>. </span><span style="color: #222222;">No matter what nutritional system you follow, we all have a relationship with food that profoundly impacts our behavior and metabolism.</span><b style="color: #222222;"> </b><span style="color: #222222;">I</span><span style="color: #222222;">f you’re interested in learning more about the work we do, please check out our FREE Video Series called <a style="color: #1155cc;" href="http://psychologyofeating.com/free-video-gift/" target="_blank"><b><span style="color: #2672ec;">The Dynamic Eating Psychology </span></b></a></span><span style="color: #222222;"><b><a style="color: #1155cc;" href="http://psychologyofeating.com/free-video-gift/" target="_blank"><span style="color: #2672ec;"><b>Breakthrough</b></span></a>.</b> You can sign up for it <a style="color: #1155cc;" href="http://psychologyofeating.com/free-video-gift/" target="_blank"><b><span style="color: #2672ec;">HERE</span></b></a></span><span style="color: #9929bd;">.</span><span style="color: #222222;"> </span><span style="color: #222222;">The list below for <strong>2013 Top 40 Fitness Websites</strong><strong> </strong></span><span style="color: #222222;">is in no particular order. They’re all ranked highly in our eyes! </span></p>
+<h3>Been selected? <em>Want to share this badge on your website?</em></h3>
+<p>Just copy and paste the code below!</p>
+<p><iframe style="border: none; width: 100%;" src="http://pastebin.com/embed_iframe.php?i=8eDwEJmn" width="300" height="150"></iframe></p>
+<h2>40 Best Fitness Websites</h2>
+<p>1. <a href="http://alanaragon.com/" target="_blank"><strong>Alan Aragon</strong></a> &#8211; Alan Aragon has more than two decades of experience and success in the field of fitness. His unbiased monthly critical analysis of the most recent research published about nutrition and exercise helps separate the good advice from the not so good advice.</p>
+<p>2. <strong><a href="http://allnaturalathlete.blogspot.com/" target="_blank">All-Natural Athlete</a> </strong>- Megan Jennings is a part-time vegan, full-time athlete, 100% All-natural…. Life-long admirer of the human body, admitted food purist, and a lover of 5:30am lifting sessions and hilly half marathons. Who else is ready?!</p>
+<p>3. <a href="http://athleticfoodie.com/" target="_blank"><strong>Athletic Foodie</strong></a> &#8211; Garrett Weber-Gale is an Olympic gold-medalist and a self-described foodie who knows firsthand that good nutrition is key to athletic success. His site offers healthy recipes to try and different strategies for living a healthy and fit life.</p>
+<p>4. <a href="http://barefootrunning.fas.harvard.edu/" target="_blank"><strong>Barefoot Running @ Harvard</strong></a> &#8211; If you were ever curious about how humans ran before they were introduced to the modern shoe, this is the website for you. The information on this site comes from a respected research lab at Harvard dedicated to studying the biomechanics of endurance running.</p>
+<p>5. <a href="http://www.theballetblog.com/" target="_blank"><strong>The Ballet Blog</strong></a> &#8211; Lisa Howell, a physiotherapist in Australia, started a clinic devoted to providing one-on-one rehabilitation and technique correction for dancers in a caring environment. The Ballet Blog is an expansion of this clinic and is the online destination for dancers looking to learn about injuries or how to improve technique.</p>
+<p>6. <a href="http://www.bornfitness.com/" target="_blank"><strong>Born Fitness</strong></a> &#8211; Adam Bornstein is a well-known writer for fitness publications who believes that it is difficult to make sense of all of the different fitness advice and facts. His site, Born Fitness, wants to help filter out the junk so you can understand and transform your body.</p>
+<p>7. <a href="http://www.scottabel.com/" target="_blank"><strong>Coach Scott Abel</strong> </a>- Scott realized early on that people&#8217;s physique goals were not ends in themselves. People didn&#8217;t really want the enhanced physique. They wanted what they thought the enhanced physique would bring to their lives. He understood that in our modern world, we need a balanced proportion of mental, emotional, and physical well-being, the three elements in what he calls: the Triangle of Awareness</p>
+<p>8. <a href="http://eplifefit.com/" target="_blank"><strong>Everyday Paleo Life &amp; Fitness</strong></a><strong> &#8211; </strong>EPL&amp;F is the collaborative effort of three paleo fitness extraordinaires: Sarah and John Fragoso (of Everyday Paleo) and Jason Seib. This is a great way to begin building strength and ranges of motion that help support athletic performance and overall fitness, from beginner modules to more advanced programs.</p>
+<p>9. <a href="http://www.dancespirit.com/" target="_blank"><strong>Dance Spirit</strong> </a>- Dance Spirit is a magazine designed and written for people who love &#8212; and live &#8212; to dance. The magazine contains useful tips for learning new dance techniques, following the hottest dance styles, and maintaining a healthy body and mind.</p>
+<p>10. <a href="http://www.theglowingedge.com/" target="_blank"><strong>The Glowing Edge</strong></a> &#8211; The Glowing Edge is written by a woman who is a professional writer and marketer and competitive boxer. Her website covers her experiences in and out of the ring &#8212; everything from training for fights, sparring with new boxers, and going on family camping trips with her three boys.</p>
+<p>11. <strong><a href="http://gainfitness.com/" target="_blank">Gain Fitness </a></strong>- GainFitness wants personal training to be instantly available to anyone who is ready to work out. When you use their app, you receive customized workout plans built by personal trainers based on your body, goals, and lifestyle.</p>
+<p>12. <a href="#" target="_blank"><strong>Get Sweaty</strong></a> &#8211;  Get Sweaty is designed to encourage kids to engage in daily physical activity. The site also offers ideas to help parents and educations make physical activity more fun for kids, as well as to help them make healthy food choices.</p>
+<p>13. <a href="http://glomotion.com/" target="_blank"><strong>Gudni Gunnarrson</strong> </a>- Gudni Gunnarsson is the creator of GlóMotion, a one-of-a-kind fitness system that merges traditional yoga with modern technology. GlóMotion helps people increase their awareness as they practice mindful training of their bodies, minds, and soul.</p>
+<p>14. <a href="http://www.exuberantanimal.com/index.php#.UkX28bw1dFR" target="_blank"><strong>Exuberant Animal</strong> </a>- Frank Forencich designed Exuberant Animal to be a &#8220;leadership organization that promotes performance, health, team cohesion and physical happiness&#8221;. The organization helps individuals and organizations meet the challenges of modern day living, such as sedentary lifestyles and chronic stress, while also remaining fit and balanced.</p>
+<p>15. <a href="http://www.thefruitarian.com/" target="_blank"><strong>The Fruitarian</strong></a> &#8211; Michael Arnstein&#8217;s recipe for health includes following a fruitarian diet, getting lots of exercise, having time for sufficient sleep, and engaging in positive relationships. His website highlights why eating a diet full of fruits works for him and how it even helps fuel him as he completes 100+ mile races.</p>
+<p>16. <a href="http://fitnessblackbook.com/" target="_blank"><strong>Fitness Black Book</strong> </a>- Rusty Moore started his blog, <em>Fitness Black Book</em>, back in 2007 as a place to share his own non-bodybuilding approach to training. Over the past six years, the site has expanded to cover more topics on nutrition and celebrities&#8217; approaches to fitness, as well as to provide a very popular online free course called Abs Blueprint.</p>
+<p>17. <a href="http://fitmamatraining.com/" target="_blank"><strong>Fit Mama Training</strong></a> &#8211; Fit Mama offers personalized training programs for women who are ready to remove the physical and mental barriers to health and wellness. She also writes a self-described &#8220;bad ass&#8221; blog that motivates women to quit the self-hate and make peace with their bodies.</p>
+<p>18. <a href="http://www.lanimuelrath.com/" target="_blank"><strong>Lani Muelrath</strong> </a>- If you’re truly ready to make change andd begin being accountable to your body&#8217;s fitness and health NOW, Lani Meulrath might be a good place to start. She&#8217;s a huge proponent for Plant-Based nutrition and fitness strategies. Tire-kickers need not apply.</p>
+<p>19. <a href="http://www.llbean.com/llb/shop/1000001692?page=adventure-lander" target="_blank"><strong>LL Bean Outdoor Discovery Schools</strong></a> &#8211; The L.L.Bean Discovery Schools provide all the instruction and tools you need for being active in the great outdoors. They offer courses in archery, stand-up paddleboarding, cross-country skiing, canoeing,and bicycling, as well as the opportunity to design your own sporting adventure course!</p>
+<p>20. <a href="http://www.movnat.com/#sthash.dLMPOmw8.dpbs" target="_blank"><strong>Mov Nat</strong> </a>- Erwan Le Corre is the founder of “MovNat”, a synthesis of his long-term passion for real-world physical competency, his love of movement in nature, his extensive knowledge of Physical Education history, and his personal philosophy of life. He believes it is everyone’s universal and biological birthright to be strong, healthy, happy and free. He calls this state of being our “True Nature”.</p>
+<div class="su-note" style="border-color: lightgreen;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;border-width: 6px;margin: 0 0 1.5em 0;border-style: solid;"><div class="su-note-inner su-clearfix" style="background-color:#F6f7f7;border-color:#fdfdfd;color:#404040;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px; padding: 1em;border-width: 1px;border-style: solid;">We hope you’re enjoying our picks for <strong>2013 Top 40 Fitness Websites!</strong> Here at the <b style="color: #222222;"><a href="http://psychologyofeating.com/40-fitness-websites-2013/">Institute for the Psychology of Eating</a>, </b><span style="color: #222222;">we’re on a mission to forever change the way the world relates to food, body and health through a whole new approach called</span> <b><a href="http://psychologyofeating.com/free-video-gift/">Dynamic Eating Psychology,</a> </b>and forever change the way you relate to food, your body and your health. Access this <a href="http://psychologyofeating.com/free-video-gift/#sthash.nYnpA6ar.dpuf">Free Video Series HERE.</a></div></div>
+<p>21. <a href="http://www.vibesfitness.com.au/" target="_blank"><strong>Vibes Fitness &#8211; Australia</strong></a> &#8211; Vibes Fitness is a gym in Australia that offers pilates classes, sport specific training, personal training services, life coaching, and corporate wellness programs. Their list of services and classes is so comprehensive that it may make you wonder why your gym does not offer anti-gravity yoga and educational courses on the lymphatic system.</p>
+<p>22. <a href="http://fitbottomedgirls.com/" target="_blank"><strong>Fit Bottom Girls</strong></a> &#8211; The Fit Bottomed Girls, Erin and Jenn, know that health and wellness are not about counting calories or watching the number of the scale, but about engaging in activities you love, eating good, healthy food, and having a positive outlook on life. Their blog is not afraid to tell it like it is and offers all sorts of information on new fitness gear reviews, personal accounts of their exercise endeavors, tidbits on healthy food, workout music playlists, and fitness humor.</p>
+<p>23. <a href="http://drmichellecleere.com/" target="_blank"><strong>Dr. Michelle Cleere</strong> </a>- Dr. Michelle Cleere offers sports psychology coaching to professional, Olympic, and amateur, as well as performance coaching for musicians, writers, actors, executives, and non-profit leaders. Her work and blog focus on helping us see the deep connection between our mind and body and how changing our mindset can really help us achieve our goals.</p>
+<p>24. <a href="http://www.girlsgonestrong.com/" target="_blank"><strong>Girls Gone Strong</strong></a> &#8211; Girls Gone Strong is the work of three women who want to break down the barriers that prevent women from maximizing the strength of their body, mind and character. Besides offering numerous tips for exercising, cooking, managing time and finding balance, the website also inspires with words such as: &#8220;Thou shalt not require assistance moving furniture.&#8221;</p>
+<p>25. <a href="http://www.thegreatfitnessexperiment.com/" target="_blank"><strong>The Great Fitness Experiment</strong></a> &#8211; Charlotte Hilton Andersen reads all of the health and fitness research she can get her hands on and then tests it out either on herself or on her dedicated Gym Buddies. Her website describes their successes and failures trying new health and fitness regimes, as well as being a chronicle of her own wellness journey in a fun yet informative voice.</p>
+<p>26. <a href="http://johnspencerellis.com/" target="_blank"><strong>John Spencer Ellis</strong></a> &#8211; John Spencer Ellis is an award-winning fitness and personal development expert, philanthropist, entrepreneur, professional speaker, author, and martial artist. His work and words are inspiring to others who are called to the fields of fitness, health, and nutrition.</p>
+<p>27. <a href="http://swingthiskettlebells.com/" target="_blank"><strong>Swing this Kettlebell</strong></a> &#8211; Swing This Kettlebell and Functional Strength is a gym located just south of Cincinnati, Ohio that offers kettle-bell classes and training. Their blog provides useful training tips, ideas, and motivation for those of us that cannot make it to Cincinnati to train in the gym.</p>
+<p>28. <a href="http://q.equinox.com/" target="_blank"><strong>Q by Equinox</strong></a> &#8211; One of the goals of Q by Equinox is the change the conversation about fitness and wellness. They want people to know that the ultimate investment they can make is devoting energy and time into taking care of their bodies through physical activity, nutrition, sleep, and work/life balance.</p>
+<p>29. <a href="https://www.itrain.com" target="_blank"><strong>iTrain</strong> </a>- Grace Lazenby, a fitness expert in the Hollywood training industry, and Sebastian Reant, an entertainment industry executive, co-founded this popular mp3-based training tool. iTrain combines knowledgeable fitness instructors with energetic music to create routines that can be downloaded anytime you are ready for an intense, portable workout.</p>
+<p>30. <a href="http://mizfitonline.com/" target="_blank"><strong>MiZFit Online</strong></a> &#8211;  Carla Birnberg&#8217;s health motto is &#8220;fitness isn’t about fitting in&#8221;. She believes that we all have the same goal of living a healthier and more vibrant life, but that we all must follow our own unique path to achieving this goal.</p>
+<p>31. <a href="http://ultrarunnergirl.com/" target="_blank"><strong>Ultra Runner Girl</strong></a> &#8211; Stephanie Case is the Ultra Runner Girl who has completed a number of ultra races all over the world. Her blog documents her experience training and running wherever she is living, the conversations she has with other ultra runners, and practical advice for others interested in running very, very long distances.</p>
+<p>32. <a href="http://www.stronghealthywoman.com/blog/" target="_blank"><strong>Strong Healthy Woman</strong></a> &#8211; Laura Miranda is the owner of Strong Healthy Woman, a company that develops boot camps and running camps just for women. If it is not possible for you to join one of the camps in-person, you also have the option of signing up for a Virtual Training Club that provides weekly workouts, nutrition plans, grocery lists, and inspirational emails to keep you motivated.</p>
+<p>33. <a href="http://tonyhortonsworld.com/" target="_blank"><strong>Tony Horton</strong></a> &#8211; Tony Horton is the man behind the best-selling P90X fitness program that is known for its results-driven, intense workouts. With the right mix of discipline, humor, and encouragement, Tony is the trainer and fitness expert to go to if you want to try out circuit, cross, and interval training.</p>
+<p>34. <a href="http://www.romanfitnesssystems.com/" target="_blank"><strong>Roman Fitness Systems</strong></a> &#8211; John Romaniello is a New York based personal trainer, coach, author, and model who describes himself as &#8220;A fitness dude who makes people laugh.  Or maybe I’m a comedy dude who makes people fit.&#8221; His website is the perfect combination of humor, fitness motivation, and random postings about books, sex, and how to live an awesome life.</p>
+<p>35. <a href="http://jackiewarner.com/" target="_blank"><strong>Jackie Warner</strong></a> &#8211; Jackie Warner is a fitness expert and media star who has helped thousands of people achieve their fitness and lifestyle goals. In addition to opening a number of innovative brick and mortar gyms, Jackie has also started an online fitness and wellness center known as Eat.Move.Believe.</p>
+<p>36. <a href="http://www.usms.org/" target="_blank"><strong>US Masters Swimming</strong> </a>- U.S. Masters Swimming is a non-profit organization that provides membership benefits to adult swimmers across the U.S Their website is packed with information on upcoming swimming events, training techniques, practical tips for what to bring to the pool, definitions of common swimming jargon, and how to circle swim.</p>
+<p>37. <a href="http://www.zumba.com/en-US" target="_blank"><strong>Zumba</strong></a> &#8211; Zumba&#8217;s motto is &#8220;ditch the workout, join the party&#8221;. If you have ever participated in a Zumba fitness-dance class, purchased one of their DVD workouts, or listened to a Zumba music collection, you know their motto is very, very true.</p>
+<p>38. <a href="http://www.letsmove.gov/" target="_blank"><strong>Let&#8217;s Move</strong></a> &#8211; Let&#8217;s Move is an initiative begun by First Lady, Michelle Obama, to encourage children to live active, healthy lives. While the initiative is geared towards children, the information on the Let&#8217;s Move site is for parents, caregivers, and teachers who are interested in learning how they can help their communities become healthier places for children to live.</p>
+<p>39. <a href="http://toughmudder.com/" target="_blank"><strong>Tough Mudder</strong></a><strong> -</strong> Tough Mudder events are obstacle courses designed to challenge physical and mental strength, stamina, and perseverance. The events happen all over the world, raise money for the Wounded Warrior Project, and have had over one million hardcore participants to date.</p>
+<p>40. <a href="http://wildernessawareness.org/" target="_blank"><strong>Wilderness Awareness School</strong></a> &#8211; Wilderness Awareness School is a not-for-profit environmental education organization that offers courses in ancient and modern ecological wisdom, such as foraging wild edible plants and wildlife tracking. The curriculum of the school encourages students of all ages to continue to learn from nature even when their coursework is complete.</p>
+<p>We hope you enjoy!</p>
+<p>Warm Regards,<br />
+<a href="http://psychologyofeating.com/"><b>The Institute for the Psychology of Eating</b><i> </i></a><br />
+<i>© Institute For The Psychology of Eating, All Rights Reserved, 2014</i> <p></p>
+<div class="get">
+<div class="get-holder">
+<div class="title">Get Your <mark>FREE</mark> Video Series</div>
+<div class="sub-title">New Insights to Forever Transform Your Relationship with Food</div>
+<form id="hform1e" class="infusion-form" accept-charset="UTF-8" action="https://ipe.infusionsoft.com/app/form/process/6d08c619a742f0a87ef67722cc18ecdd" method="POST" style="left: 0px;"><input name="inf_form_xid" type="hidden" value="6d08c619a742f0a87ef67722cc18ecdd" /> <input name="inf_form_name" type="hidden" value="New(1) DEP Opt In - Blog Page" /> <input name="infusionsoft_version" type="hidden" value="1.33.0.47" /><div class="infusion-field"><label for="inf_field_FirstName">First Name *</label> <input id="inf_field_FirstName" class="infusion-field-input-container  required fnm1e" name="inf_field_FirstName" type="text" placeholder="Your Name" /></div><div class="infusion-field"><label for="inf_field_Email">Email *</label> <input id="inf_field_Email" class="infusion-field-input-container  required-email eml1e" name="inf_field_Email" type="text" placeholder="Your Email" /><span class="error">Please use a correct email format e.g. jon@gmail.com</span></div><div class="infusion-submit"><input class="dbuttond" id="sbmtbtn" type="submit" value="Submit" /><div class="clearfixb"> </div><div class="errmsgfrme"> </div></div></form></div>
+</div>
+<strong>P.S. </strong><b></b>If you haven’t had a chance to check out our <span style="color: #800080;"><strong>FREE</strong></span> information-packed video series, <em><strong>The Dynamic Eating Psychology Breakthrough</strong></em>, you can sign up for it <span style="color: #008000;"><strong><a href="http://psychologyofeating.com/free-video-gift/" target="_blank"><span style="color: #008000;">HERE</span></a></strong>.</span> It’s a great way to get a better sense of the work we do here at the Institute for the Psychology of Eating. If you&#8217;re inspired by this work and want to learn about how you can become certified as an <strong>Eating Psychology Coach</strong>, please go <span style="color: #008000;"><strong><a href="http://psychologyofeating.com/epcc" target="_blank"><span style="color: #008000;">HERE</span></a></strong></span> to learn more. And if you’re interested in working on your own personal relationship with food, check out our breakthrough 8-week program designed for the public, <strong>Transform Your Relationship with Food</strong>, <span style="color: #008000;"><strong><a href="http://psychologyofeating.com/transform-relationship-food/" target="_blank"><span style="color: #008000;">HERE</span></a></strong>.</span></p>
+<a id="dd_end"></a><div class='dd_outer'><div class='dd_inner'><div id='dd_ajax_float'><div class='dd_button_v'><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://psychologyofeating.com/40-fitness-websites-2013/" data-count="vertical" data-text="40 Best Fitness Websites of 2013" data-via="" ></a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></div><div style='clear:left'></div><div class='dd_button_v'><a href="http://bufferapp.com/add" class="buffer-add-button" data-count="vertical" data-text="40 Best Fitness Websites of 2013" data-url="http://psychologyofeating.com/40-fitness-websites-2013/" data-via=""></a><script type="text/javascript" src="http://static.bufferapp.com/js/button.js"></script></div><div style='clear:left'></div><div class='dd_button_v'><iframe src="http://www.reddit.com/static/button/button2.html?width=51&url=http%3A%2F%2Fpsychologyofeating.com%2F40-fitness-websites-2013%2F&title=40%20Best%20Fitness%20Websites%20of%202013&newwindow='1'" height="69" width="51" scrolling='no' frameborder='0'></iframe></div><div style='clear:left'></div><div class='dd_button_v'><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://psychologyofeating.com/40-fitness-websites-2013/" send="false" show_faces="false"  layout="box_count" width="50"  ></fb:like></div><div style='clear:left'></div><div class='dd_button_v'><a name='fb_share' type='box_count' share_url='http://psychologyofeating.com/40-fitness-websites-2013/' href='http://www.facebook.com/sharer.php'></a><script src='http://static.ak.fbcdn.net/connect.php/js/FB.Share' type='text/javascript'></script></div><div style='clear:left'></div><div class='dd_button_v'><script type='text/javascript' src='https://apis.google.com/js/plusone.js'></script><g:plusone size='tall' href='http://psychologyofeating.com/40-fitness-websites-2013/'></g:plusone></div><div style='clear:left'></div><div class='dd_button_v'><a href="http://www.tumblr.com/share?link=http%3A%2F%2Fpsychologyofeating.com%2F40-fitness-websites-2013%2F" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:61px; height:20px; background:url('http://platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;">Share on Tumblr</a><script src="http://platform.tumblr.com/v1/share.js"></script></div><div style='clear:left'></div><div class='dd_button_v'><script src='//platform.linkedin.com/in.js' type='text/javascript'></script><script type='IN/Share' data-url='http://psychologyofeating.com/40-fitness-websites-2013/' data-counter='top'></script></div><div style='clear:left'></div><div class='dd_button_extra_v'><script type="text/javascript">jQuery(document).load(function(){ stLight.options({publisher:'68aa5045-7e13-4898-a423-98ce83ce46f8'}); });</script><div class="st_email_custom"><span id='dd_email_text'>email</span></div></div><div style='clear:left'></div></div></div></div><script type="text/javascript">var dd_offset_from_content = 40;var dd_top_offset_from_content = 0;var dd_override_start_anchor_id = "";var dd_override_top_offset = "";</script><script type="text/javascript" src="http://psychologyofeating.com/wp-content/plugins/digg-digg//js/diggdigg-floating-bar.js?ver=5.3.6"></script><div class='yarpp-related'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://psychologyofeating.com/75-yoga-pilates-websites-2013/" rel="bookmark" title="75 Best Yoga + Pilates Websites 2013">75 Best Yoga + Pilates Websites 2013 </a></li>
+<li><a href="http://psychologyofeating.com/50-emotional-eating-2013/" rel="bookmark" title="50 Best Emotional Eating Websites 2013">50 Best Emotional Eating Websites 2013 </a></li>
+<li><a href="http://psychologyofeating.com/35-psychology-websites-2013/" rel="bookmark" title="35 Best Psychology Websites 2013">35 Best Psychology Websites 2013 </a></li>
+<li><a href="http://psychologyofeating.com/100-best-nutrition-2013/" rel="bookmark" title="100 Best Nutrition Websites Awards 2013">100 Best Nutrition Websites Awards 2013 </a></li>
+</ol>
+</div>
+</article>
+<div id="psts"><p><a href="http://psychologyofeating.com/secret-digestive-wellness/" rel="prev">Previous post</a> - 
+<a href="http://psychologyofeating.com/100-best-foodies-13/" rel="next">Next post</a></p></div>
+<div class="share">
+<div class="share-title">Share</div>
+<ul>
+<li><span class='st_twitter_hcount' st_url='http://psychologyofeating.com/40-fitness-websites-2013/' displayText='Tweet'></span></li>
+<li><span class='st_fblike_hcount' st_url='http://psychologyofeating.com/40-fitness-websites-2013/' displayText='Facebook Like'></span></li>
+<li><span class='st_plusone_hcount' st_url='http://psychologyofeating.com/40-fitness-websites-2013/' displayText='Google +1'></span></li>
+<li><span class='st_stumbleupon_hcount' st_url='http://psychologyofeating.com/40-fitness-websites-2013/' displayText='StumbleUpon'></span></li>
+<li><span class='st_linkedin_hcount' st_url='http://psychologyofeating.com/40-fitness-websites-2013/' displayText='LinkedIn'></span></li>
+</ul> 
+</div>
+<div class="tags"><span>Tagged with:</span><ul><li><a href="http://psychologyofeating.com/tag/guest/" rel="tag">guest</a></li><li><a href="http://psychologyofeating.com/tag/top-blogs/" rel="tag">Top Blogs</a></li></ul></div>
+<section class="comment">
+<div id="disqus_thread">
+<div id="dsq-content">
+<div class="navigation">
+<div class="nav-previous">
+<span class="meta-nav">&larr;</span>&nbsp;
+<a href="http://psychologyofeating.com/40-fitness-websites-2013/comment-page-5/#comments" >Older Comments</a>                </div>
+<div class="nav-next">
+&nbsp;<span class="meta-nav">&rarr;</span>
+</div>
+</div> <!-- .navigation -->
+<ul id="dsq-comments">
+<li class="comment even thread-even depth-1" id="dsq-comment-2620">
+<div id="dsq-comment-header-2620" class="dsq-comment-header">
+<cite id="dsq-cite-2620">
+http://www.psychologyofeating.com/                <span id="dsq-author-user-2620">Psychology of Eating</span>
+</cite>
+</div>
+<div id="dsq-comment-body-2620" class="dsq-comment-body">
+<div id="dsq-comment-message-2620" class="dsq-comment-message"><p>Thanks Lisa! We&#8217;re so glad you find the list helpful. Feel free to check out our other &#8220;best of&#8221; website lists too and let us know what you think! Warmly, IPE Staff</p>
+</div>
+</div>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="dsq-comment-2663">
+<div id="dsq-comment-header-2663" class="dsq-comment-header">
+<cite id="dsq-cite-2663">
+<span id="dsq-author-user-2663">Greg Parry</span>
+</cite>
+</div>
+<div id="dsq-comment-body-2663" class="dsq-comment-body">
+<div id="dsq-comment-message-2663" class="dsq-comment-message"><p>Thanks for sharing this list of fitness website.Anyone can get tips of taking care of their body physically and mentally.</p>
+<p><a href="http://www.onelifeblog.com/blog/" rel="nofollow">http://www.onelifeblog.com/blog/</a></p>
+</div>
+</div>
+<ul class="children">
+<li class="comment even depth-2" id="dsq-comment-2665">
+<div id="dsq-comment-header-2665" class="dsq-comment-header">
+<cite id="dsq-cite-2665">
+http://www.psychologyofeating.com/                <span id="dsq-author-user-2665">Psychology of Eating</span>
+</cite>
+</div>
+<div id="dsq-comment-body-2665" class="dsq-comment-body">
+<div id="dsq-comment-message-2665" class="dsq-comment-message"><p>Hi Greg, You&#8217;re so welcome, and thanks so much for being a part of our online community! Warmly, IPE Staff</p>
+</div>
+</div>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul>
+<div class="navigation">
+<div class="nav-previous">
+<span class="meta-nav">&larr;</span>
+&nbsp;<a href="http://psychologyofeating.com/40-fitness-websites-2013/comment-page-5/#comments" >Older Comments</a>                </div>
+<div class="nav-next">
+&nbsp;<span class="meta-nav">&rarr;</span>
+</div>
+</div><!-- .navigation -->
+</div>
+</div>
+<script type="text/javascript">
+var disqus_url = 'http://psychologyofeating.com/40-fitness-websites-2013/';
+var disqus_identifier = '9681 http://psychologyofeating.com/?p=9681';
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = 'psychologyofeating';
+var disqus_title = "40 Best Fitness Websites of 2013";
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+/*
+All currently supported events:
+onReady: fires when everything is ready,
+onNewComment: fires when a new comment is posted,
+onIdentify: fires when user is authenticated
+*/
+this.page.remote_auth_s3 = 'W10= e41ab7c3a9c8ad91445a00ebb612aa19d427f2cc 1423702371';
+this.page.api_key = 'MTZCzXFz7opXIEmpGx5MCrijzrrkNT5eaD6HcfIQPpCGtbw3kP1Z2VSRIXNRZneM';
+this.sso = {     
+name: "Psychology Of Eating",       
+button: "",       
+url: "http://psychologyofeating.com/wp-login.php",        
+logout: "http://psychologyofeating.com/wp-login.php?action=logout",       
+width: "800",        
+height: "700"        
+};
+this.language = '';
+this.callbacks.onReady.push(function () {
+// sync comments in the background so we don't block the page
+var script = document.createElement('script');
+script.async = true;
+script.src = '?cf_action=sync_comments&post_id=9681';
+var firstScript = document.getElementsByTagName('script')[0];
+firstScript.parentNode.insertBefore(script, firstScript);
+});
+if (disqus_config_custom) {
+disqus_config_custom.call(this);
+}
+};
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+dsq.async = true;
+dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+</section>
+<div class="about">
+<div class="title">About The Author</div>
+<div class="box">
+<div class="box-holder">
+<div class="avatar1">
+<img alt='' src='http://0.gravatar.com/avatar/a1518236a36d9764496465b73de2a996?s=84&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D84&amp;r=G' class='avatar avatar-84 photo' height='84' width='84' />									</div>
+<div class="holder">
+<div class="name">Emily Rosen</div>
+<div class="position">Chief Operating Officer</div>
+<p>Emily
+Rosen is the Director of the Institute for the Psychology of Eating, 
+where she oversees business development strategies, student affairs, 
+marketing and public relations in addition to her role as Senior Teacher. With an extensive and varied background 
+in nutritional science, counseling, natural foods, the culinary arts, 
+conscious sex education, mind body practices, business management and 
+marketing, Emily brings a unique skill-set to her role at the Institute. She has also been a long-term 
+director and administrator for Weight Loss Camps and Programs serving 
+teens and adults and has held the position of Executive Chef at various 
+retreat centers. Her passion for health and transformation has provided 
+her the opportunity to teach, counsel, manage, and be at the forefront 
+of the new wave of professionals who are changing the way we understand 
+the science and psychology of eating and sexuality. Emily is also co -founder of the Institute for Conscious Sexuality and Relationship.</p>
+</div>
+</div>
+</div>
+</div>
+<section class="related">
+<div class='yarpp-related'>
+<h3>Related posts:</h3><ol>
+<li><a href="http://psychologyofeating.com/75-yoga-pilates-websites-2013/" rel="bookmark" title="75 Best Yoga + Pilates Websites 2013">75 Best Yoga + Pilates Websites 2013 </a></li>
+<li><a href="http://psychologyofeating.com/50-emotional-eating-2013/" rel="bookmark" title="50 Best Emotional Eating Websites 2013">50 Best Emotional Eating Websites 2013 </a></li>
+<li><a href="http://psychologyofeating.com/35-psychology-websites-2013/" rel="bookmark" title="35 Best Psychology Websites 2013">35 Best Psychology Websites 2013 </a></li>
+<li><a href="http://psychologyofeating.com/100-best-nutrition-2013/" rel="bookmark" title="100 Best Nutrition Websites Awards 2013">100 Best Nutrition Websites Awards 2013 </a></li>
+</ol>
+</div>
+</section>
+</div>
+</div>
+</div>
+<aside id="sidebar">
+<div class="widget widget_text widget-get" id="text-2">			<div class="get" style="background-image: url(http://psychologyofeating.com/wp-content/uploads/2014/12/opt-in_sidebar_space.jpg); background-size: cover; width: auto; height: 648px; background-position: center;"><div class="clearfixb"></div><div style="height:428px;-webkit-margin-after: 19px; width: auto;"></div><div class="errmsgfrm5"></div><form accept-charset="UTF-8" action="https://ipe.infusionsoft.com/app/form/process/7176b1a095e25d532eca63f30804f36e" class="infusion-form validate-form" method="POST" id="hform5"><input name="inf_form_xid" type="hidden" value="7176b1a095e25d532eca63f30804f36e" /><input name="inf_form_name" type="hidden" value="New(1) DEP Opt In - Side Bar" /><input name="infusionsoft_version" type="hidden" value="1.33.0.47" /><div class="infusion-field"><label for="inf_field_FirstName">First Name *</label><input class="infusion-field-input-container required bguser fnm5" id="inf_field_FirstName" name="inf_field_FirstName" type="text" placeholder="Your Name" required/></div><div class="infusion-field"><label for="inf_field_Email">Email *</label><input class="infusion-field-input-container required-email bgemail eml5" id="inf_field_Email" name="inf_field_Email" type="text"  placeholder="Your Email" required/><span class="error">Please use a correct email format e.g. jon@gmail.com</span></div><div class="infusion-submit"><input type="submit" value="Submit" onclick="javascript:xt.style.display='none';"/></div></form><div class="text-small" id="xt" style="color: white;">We won't sell your privacy, cross our heart!</div></div>		</div><div class="widget widget_text widget-proffessional" id="text-3">			<style>
+.widget-proffessional #a {
+border-bottom: 3px solid #23072a;
+background: #450f52;
+border-radius: 5px;
+color: #fff;
+display: block;
+margin: 0 auto 12px auto;
+font: 26px/44px 'rokkittregular', Arial, Helvetica, sans-serif;
+text-align: center;
+width: 84%;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+.widget-proffessional a {
+display: initial;
+font: 15px/20px 'museo_sans300', Arial, Helvetica, sans-serif;
+text-align: left;
+}
+a:hover > #a {
+background: #813194;
+}
+</style>
+<a href="/epcc">
+<div class="block proffessional">
+<div class="holder">
+<img src="http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/icon01.png" width="56" height="56" alt="image description" class="icon">
+<div class="frame">
+<div class="title">Professional</div>
+<p>Be a Certified Coach</p>
+</div>
+</div>
+<div id="a"><span>Get Started</span></div>
+</div></a>		</div><div class="widget widget_text widget-program" id="text-4">			<style>
+.widget-program #a {
+border-bottom: 3px solid #7c911f;
+background: #bfd842;
+border-radius: 5px;
+color: #3c4706;
+display: block;
+margin: 0 auto 12px auto;
+font: 26px/44px 'rokkittregular', Arial, Helvetica, sans-serif;
+text-align: center;
+width: 84%;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+}
+.widget-program a {
+display: initial;
+font: 15px/20px 'museo_sans300', Arial, Helvetica, sans-serif;
+text-align: left;
+}
+a:hover > #a {
+background: #813194;
+}
+</style>
+<a href="/transform-relationship-food/">
+<div class="block program">
+<div class="holder">
+<img src="http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/icon08.png" width="38" height="60" alt="image description" class="icon">
+<div class="frame">
+<div class="title">Public Program</div>
+<p>Transform your Relationship with Food</p>
+</div>
+</div>
+<a id="a"><span>Get Started</span></a>
+</div></a>		</div><div class="widget widget_text widget-checkout" id="text-5">			<div class="checkout">
+<div class="checkout-holder">
+<img src="http://psychologyofeating.com/wp-content/themes/psychologyofeating/images/icon02.png" width="52" height="46" alt="image description" class="icon">
+<div class="title">Check out our</div>
+<p>Live Events, Workshops and Online Conferences</p>
+<a href="/events" class="lean-more"><span>Learn More</span></a>
+</div>
+</div>		</div><div class="widget widget_text widget-facebook" id="text-6">			<div class="fb-like-box" data-href="https://www.facebook.com/IPEfanpage" data-width="258" data-height="273" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>		</div><div class="widget widget_text widget-finder" id="text-7">			<div class="finder">
+<div class="finder-holder">
+<div class="holder">
+<div class="title">Find a Practitioner</div>
+<p>Eating Psychology Coach Directory</p>
+</div>
+<a href="http://directory.psychologyofeating.com/" class="lean-more" target="_blank"><span>Learn More</span></a>
+</div>
+</div>		</div><div class="widget widget_search widget_search" id="search-3"><form method="get" class="search" action="http://psychologyofeating.com" >
+<label for="s" class="assistive-text">Search</label>
+<input id="s" type="text" name="s" placeholder="Search..." />
+<input type="submit" value="Search" />
+</form></div>		<div class="widget widget_recent-posts " id="recent-posts-3">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+<li>
+<div class="image">
+<a href="http://psychologyofeating.com/weight-gain-trauma-connection/"><img width="75" height="68" src="http://psychologyofeating.com/wp-content/uploads/2015/02/iStock_000002903290Large-2-75x68.jpg" class="attachment-recent wp-post-image" alt="Weight Gain and Trauma: Is There a Connection?" /></a>
+</div>
+<div class="holder">
+<a href="http://psychologyofeating.com/weight-gain-trauma-connection/">Weight Gain and Trauma: Is There a Connection?</a>
+<span class="posted">Posted on <time datetime="2015-02-09">February 9, 2015</time></span>
+</div>
+</li>
+<li>
+<div class="image">
+<a href="http://psychologyofeating.com/food-body-competition-with-your-daughter-video-marc/"><img width="75" height="68" src="http://psychologyofeating.com/wp-content/uploads/2015/01/Are-You-in-a-Food-and-Body-Competition-with-Your-Daughter-75x68.jpg" class="attachment-recent wp-post-image" alt="Are You in a Food and Body Competition with Your Daughter" /></a>
+</div>
+<div class="holder">
+<a href="http://psychologyofeating.com/food-body-competition-with-your-daughter-video-marc/">Are You in a Food and Body Competition with Your Daughter &#8211; Video with Marc David</a>
+<span class="posted">Posted on <time datetime="2015-02-09">February 9, 2015</time></span>
+</div>
+</li>
+<li>
+<div class="image">
+<a href="http://psychologyofeating.com/psychology-symptoms-4-psychological-types-video-emily-rosen/"><img width="75" height="68" src="http://psychologyofeating.com/wp-content/uploads/2015/02/How-Do-You-Deal-with-Symptoms-75x68.jpg" class="attachment-recent wp-post-image" alt="How do You Deal with Symptoms?" /></a>
+</div>
+<div class="holder">
+<a href="http://psychologyofeating.com/psychology-symptoms-4-psychological-types-video-emily-rosen/">The Psychology of Symptoms: The 4 Psychological Types &#8211; Video with Emily Rosen</a>
+<span class="posted">Posted on <time datetime="2015-02-09">February 9, 2015</time></span>
+</div>
+</li>
+<li>
+<div class="image">
+<a href="http://psychologyofeating.com/6-things-know-binge-purge/"><img width="75" height="68" src="http://psychologyofeating.com/wp-content/uploads/2015/02/iStock_000026768516Large-75x68.jpg" class="attachment-recent wp-post-image" alt="6 Things to Know if you Binge and Purge" /></a>
+</div>
+<div class="holder">
+<a href="http://psychologyofeating.com/6-things-know-binge-purge/">6 Things to Know if You Binge and Purge</a>
+<span class="posted">Posted on <time datetime="2015-02-06">February 6, 2015</time></span>
+</div>
+</li>
+</ul>
+</div>	
+</aside>
+</div>
+</div>
+<footer id="footer">
+<div class="footer-holder">
+<div class="holder">
+<nav class="nav-footer"><strong class="title">Navigation</strong><ul><li id="menu-item-11691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11691"><a href="http://psychologyofeating.com/nutritionist-certification/">Get Certified</a></li>
+<li id="menu-item-13257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13257"><a href="http://psychologyofeating.com/transform-relationship-food/">Public Program</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://psychologyofeating.com/events/">Holistic Health Workshops &#038; Events</a></li>
+<li id="menu-item-12518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12518"><a href="http://psychologyofeating.com/contact-us/">Connect</a></li>
+</ul></nav>                                            <div class="box">
+<nav class="social">
+<strong class="title">Connect with us</strong>
+<ul>
+<li class="facebook"><a href="https://www.facebook.com/IPEfanpage" target="_blank">Facebook</a></li>                                        <li class="twitter"><a href="https://twitter.com/Psych_of_Eating" target="_blank">Twitter</a></li>                                        <li class="google"><a href="https://plus.google.com/u/1/b/104465602283906481920/+Psychologyofeating/posts" target="_blank">Google +</a></li>                                        <li class="pinterest"><a href="http://www.pinterest.com/eatingpsych/" target="_blank">Pinterest</a></li>                                        <li class="linkedin"><a href="https://www.linkedin.com/company/the-institute-for-the-psychology-of-eating" target="_blank">Linkedin</a></li>                                        <li class="youtube"><a href="https://www.youtube.com/user/MarcDavidIPE" target="_blank">Youtube</a></li>					<li class="instagram"><a href="http://instagram.com/eatingpsychology" target="_blank">Instagram</a></li>
+</ul>
+</nav>
+<div class="text">
+<div><strong>Approved By</strong></div>
+<p>Colorado Department of Higher Education, Division of Private Occupational Schools</p>
+</div>
+</div>
+<div class="form">
+<div>
+<strong class="title">Get a Free Video Series</strong>
+</div>
+<p>The Dynamic Eating Psychology Breakthrough</p>
+<div class="clearfixb"></div>
+<div class="errmsgfrm4">&nbsp;</div>
+<div class="clearfixb"></div>
+<form id="hform4" accept-charset="UTF-8" action="https://ipe.infusionsoft.com/app/form/process/db2aaf6ac42067ba953b7d3bdc2648ea" class="infusion-form validate-form" method="POST">
+<input name="inf_form_xid" type="hidden" value="db2aaf6ac42067ba953b7d3bdc2648ea">
+<input name="inf_form_name" type="hidden" value="New(1) DEP Opt In - General">
+<input name="infusionsoft_version" type="hidden" value="1.33.0.47">
+<div class="infusion-field">
+<label for="inf_field_FirstName">First Name *</label>	
+<input class="infusion-field-input-container required fnm4" id="inf_field_FirstName" name="inf_field_FirstName" type="text" placeholder="Your Name">
+</div>
+<div class="infusion-field"><label for="inf_field_Email">Email *</label>
+<input class="infusion-field-input-container required-email eml4" id="inf_field_Email" name="inf_field_Email" type="text" placeholder="Your Email">
+<span class="error">Please use a correct email format e.g. jon@gmail.com</span>
+</div>
+<div class="infusion-submit">	
+<input type="submit" value="Submit">
+<a href="http://psychologyofeating.com/web-disclaimers/" class="privacy">We love Privacy</a>
+</div>
+</form>
+<span id="pty_trigger"></span>                            
+</div>
+</div>
+</div>
+<div class="footer-frame">
+<div class="holder">
+<div class="copyright">&copy; 2015 Institute for the Psychology of Eating</div>
+<ul class="add-menu">
+<li><a href="http://psychologyofeating.com/web-disclaimers/">Privacy &amp; Policy</a></li>
+<li><a href="http://psychologyofeating.com/web-disclaimers/">Disclaimer and Terms</a></li>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+<script>
+var cb = function() {
+var l = document.createElement('link'); l.rel = 'stylesheet';
+l.href = 'http://psychologyofeating.com/wp-content/themes/psychologyofeating/style.css';
+var m = document.createElement('link'); m.rel = 'stylesheet';
+m.href = 'http://psychologyofeating.com/wp-content/themes/psychologyofeating/theme.css';
+var h = document.getElementsByTagName('head')[0]; h.parentNode.insertBefore(l, h);
+h.parentNode.insertBefore(m, h);
+};
+var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+webkitRequestAnimationFrame || msRequestAnimationFrame;
+if (raf) raf(cb);
+else window.addEventListener('load', cb);
+</script>
+<script type="text/javascript">
+// <![CDATA[
+var disqus_shortname = 'psychologyofeating';
+(function () {
+var nodes = document.getElementsByTagName('span');
+for (var i = 0, url; i < nodes.length; i++) {
+if (nodes[i].className.indexOf('dsq-postid') != -1) {
+nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+url = nodes[i].parentNode.href.split('#', 1);
+if (url.length == 1) { url = url[0]; }
+else { url = url[1]; }
+nodes[i].parentNode.href = url + '#disqus_thread';
+}
+}
+var s = document.createElement('script'); 
+s.async = true;
+s.type = 'text/javascript';
+s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+// ]]>
+</script>
+<script type="text/javascript">
+(function() {
+window._pa = window._pa || {};
+// _pa.orderId = "myUser@email.com"; // OPTIONAL: include your user's email address or order ID
+// _pa.revenue = "19.99"; // OPTIONAL: include dynamic purchase value for the conversion
+// _pa.onLoadEvent = "sign_up"; // OPTIONAL: name of segment/conversion to be fired on script load
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/53c814b791e0990a2c0000b5.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script><script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/psychologyofeating.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://psychologyofeating.com/wp-content/uploads/minit/df5acded9dc323f9f666aa70416bd720.js'></script>
+<!-- Asynchronous scripts by Minit -->
+<script id="minit-async-scripts" type="text/javascript">
+(function() {
+var js, fjs = document.getElementById('minit-async-scripts'),
+add = function( url, id ) {
+js = document.createElement('script');
+js.type = 'text/javascript';
+js.src = url;
+js.async = true;
+js.id = id;
+fjs.parentNode.insertBefore(js, fjs);
+};
+add("http://w.sharethis.com/button/buttons.js", "async-script-dd_sharethis_js"); add("/54dbb8f9e0cd6/js/load_lightbox.js?ver=3.9.6", "async-script-popup_domination_lightbox"); 		})();
+</script>
+</body>
+</html><!-- WP Fastest Cache file was created in 0.246709108353 seconds, on 12-02-15 0:52:51 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36-->

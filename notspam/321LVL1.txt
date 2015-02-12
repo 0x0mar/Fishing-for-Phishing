@@ -1,0 +1,1303 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>
+
+        Buy party Handbags, Clutches, Wallets & Crossbody bags at DONE BY NONE.    </title>
+<!--    <meta name="description" content="" />
+-->
+        <meta name="description" content="With a wide range of  totes, satchels, shoulder-bags, box-clutches, cross-bodies, handheld, hobo et al, this is the place where your handbag dreams come true! " />
+    <meta name="keywords" content="" />
+    <meta name="google-site-verification" content="sp0QJUaOPHybcpligmZUytJlIllZhmcvAUxa1hqauHg" /> <!-- Added by BH -->
+    <meta name="robots" content="INDEX,FOLLOW" />
+    <link rel="icon" href="http://www.donebynone.com/all-images/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://www.donebynone.com/all-images/images/favicon.ico" type="image/x-icon" />
+    <link rel="canonical" href="/handbags.html"/>
+    <meta http-equiv="expires" content="Thu, 12 Feb 2015 09:12:45 +0000">
+
+<link rel="stylesheet" type="text/css" href="/skin/frontend/default/donebynone1/css/dbn-style.1403769227.css" media="all" /><link rel="alternate" type="application/rss+xml" href="http://www.donebynone.com/rss/catalog/new/store_id/1/" title="New Products" /><!--[if lt IE 9]><script type="text/javascript" src="http://www.donebynone.com/js/donebynone/html5.js" ></script><link rel="stylesheet" type="text/css" href="/skin/frontend/default/donebynone1/css/ie.1391520685.css" media="all" /><![endif]--><link rel="stylesheet" type="text/css" href="http://www.donebynone.com//skin/frontend/default/donebynone1/css/ffc-style4.css"/>
+    <meta name="p:domain_verify" content="ca674c82adbe3e43a19719e826ea8cc4"/>
+
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    var dataLayer=[];
+</script>
+<script type="text/javascript">
+    dataLayer.push({'pageType': 'CategoryPage'});
+</script>
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-HH66"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-HH66');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+    var clicky_custom = {};
+    clicky_custom.session = {
+        username: ' ',
+        email: '',
+        session_id: 'en8cgn3s3n4jcof97hm09mb4s1'
+    };
+    clicky_custom.timer = 200;
+</script>
+
+<script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(66550259);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+
+<!-- BEGIN Inchoo Facebook Connect -->
+
+<script type="text/javascript">
+    //<![CDATA[
+    var appId = "366460640040356";
+    var channelUrl = 'http://www.donebynone.com/facebook/channel/index/locale/en_US/';
+    var baseUrl = "http://www.donebynone.com/";
+    var contentUrl = 'http://www.donebynone.com/facebook/customer_account/connect/';
+    var params = "email,user_birthday";
+    //]]>
+</script>
+
+
+<!-- END Inchoo Facebook Connect -->
+<script>
+
+    if(screen.availWidth >= screen.availHeight)
+    {
+        if(screen.availWidth >= 1200)
+        {
+            var today = new Date();
+            var expire = new Date();
+            expire.setTime(today.getTime() + 3600000*24*24);
+            document.cookie = "res"+"="+"1"+ ";expires="+expire.toGMTString();
+        }
+        else if(screen.availWidth >= 750)
+        {
+            var today = new Date();
+            var expire = new Date();
+            expire.setTime(today.getTime() + 3600000*24*24);
+            document.cookie = "res"+"="+"2"+ ";expires="+expire.toGMTString();
+        }
+        else
+        {
+            var today = new Date();
+
+            var expire = new Date();
+            expire.setTime(today.getTime() + 3600000*24*24);
+            document.cookie = "res"+"="+"0"+ ";expires="+expire.toGMTString();
+        }
+    }
+    else
+    {
+        if(screen.availHeight >= 1200)
+        {
+            var today = new Date();
+            var expire = new Date();
+            expire.setTime(today.getTime() + 3600000*24*24);
+            document.cookie = "res"+"="+"1"+ ";expires="+expire.toGMTString();
+        }
+        else if(screen.availHeight >= 750)
+        {
+            var today = new Date();
+            var expire = new Date();
+            expire.setTime(today.getTime() + 3600000*24*24);
+            document.cookie = "res"+"="+"2"+ ";expires="+expire.toGMTString();
+        }
+        else
+        {
+            var today = new Date();
+
+            var expire = new Date();
+            expire.setTime(today.getTime() + 3600000*24*24);
+            document.cookie = "res"+"="+"0"+ ";expires="+expire.toGMTString();
+        }
+    }
+
+</script>
+
+<header class="relative">
+    <div class="top-sober-bar">
+        <div class="row">
+
+
+            <div class="large-12 column">
+
+                
+
+ 
+ <div class="left hide-on-small-device">
+            <ul class="breadcrumbs">
+
+  <li data-tooltip  class="has-tip" title="Go to Home Page"><a href="http://www.donebynone.com/">Home</a></li><li class="gt-space"> &gt; </li><li data-tooltip  class="has-tip" title="Handbags">Handbags</li>
+    </ul>
+        </div>
+                <div class="right">
+                    <nav class="top-bar">
+                        <ul class="title-area">
+                            <li class="name"></li>
+                            <li class="toggle-topbar menu-icon"><a href="javascript:void(0);" class="dbn-sprite"><span>&nbsp;</span></a></li>
+                        </ul>
+                        <section>
+                            <!-- Right Nav Section -->
+                            <ul class="single-line-list hdr-top-links">
+                                                                <li><a href="javascript:void(0)" onclick="showAccountLoginPopup()" id="account-anchor" class="gtm-track">Account</a></li>
+                                                                <li class="hide-on-small-device">|</li>
+                                
+                                                                <!--
+				<li><a href="">Wishlist</a></li>
+                                                                 <li><a href="javascript:void(0)" id="wishlist-anchor" class="gtm-track" onclick="showWishlistLoginPopup()">Wishlist</a></li>
+                                 <?php// endif; ?>
+
+                                <li class="hide-on-small-device">|</li>-->
+                                                                                                                                
+                                <li ><a href="javascript:void(0)"  class="cart-anchor gtm-track" onclick="setLocation('http://www.donebynone.com/checkout/cart/')">Cart(0)</a></li>
+                                <li class="hide-on-small-device">|</li>
+                                                                <li><a href="javascript:void(0)" onclick="showLoginPopup()" id="login-anchor" class="login-register gtm-track">Login</a><span class="hide-on-small-device"> or </span><a href="javascript:void(0)" class="gtm-track" onclick="showRegisterPopup()" id="register-anchor">Register</a></li>
+                                                                <li class="has-form">
+                                    <form class="relative left gtm-track" id="search_form" action="http://www.donebynone.com/catalogsearch/result/">
+                                        <span class="top-search-button"><button type="submit" class="dbn-sprite"></button></span>
+                                        <input type="search" class="search-box" placeholder="Search Product here" id="search_inputbox">
+                                    </form>
+                                </li>
+                            </ul>
+                            <div class="clear-both"></div>
+                        </section>
+                    </nav>
+                    <div class="clear-both"></div>
+
+                </div>
+            </div>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="large-12 column">
+        <div class="dotted-logo-brd nobg-small-screen ">
+            <div class="dbn-logo columns small-centered text-center">
+                    <span class="white-bg"><a href="http://www.donebynone.com/" class="gtm-track" id="dbn_logo"><img src="http://cdn.donebynone.com/images/dbnlogo.jpg" alt="Done By None"></a></span>
+
+                </div>
+                <div class="clear-both"></div>
+            </div>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+
+    <style>
+	@media only screen and (max-width: 1000px) {
+		#balerdropdown2 > form > input[type=search]{width:100% !important; border:1px solid #000 !important; border-radius:8px; box-shadow:none !important; transtition:none}
+		.top-search-button {top: 1px; right: 6px;}
+		.dbn-sprite, .orbit-next, .orbit-prev, .click-zoom-small, .color-filter-list li {background-image: url('http://www.donebynone.com/skin/frontend/default/donebynone1/images/search_bg.png'); }
+.top-search-button button {background-position: -5px 0;}
+}
+</style>
+<div class="row desktop-nav text-center">
+    <div class="top-navigation inline-table text-left">
+        <nav class="top-bar">
+            <ul class="title-area">
+                <li class="name"></li>
+                <li class="toggle-topbar menu-icon"><a href="javascript:void(0);" class="dbn-sprite"><span> &nbsp;</span></a></li>
+            </ul>
+            <section class="top-bar-section">
+                <ul class="no-bullet">
+                    <li class="has-dropdown gtm-track "><a href="http://www.donebynone.com/clothing.html">Clothing</a><ul class="dropdown gtm-track"><li class="title back js-generated"><a href="javascript:void(0);"><strong>&laquo; Back</strong></a></li><li class="js-generated gtm-track"><a href="http://www.donebynone.com/clothing.html">Clothing</a></li><li><a href="http://www.donebynone.com/clothing/top-wear.html">Topwear</a></li><li><a href="http://www.donebynone.com/clothing/dresses.html">Dresses</a></li><li><a href="http://www.donebynone.com/clothing/bottoms.html">Bottoms</a></li><li ><a class="nav-hover gtm-track" href="http://www.donebynone.com/clothing.html?dir=asc&order=base_rating">Best Sellers</a></li><li ><a class="nav-hover gtm-track" href="http://www.donebynone.com/clothing.html?dir=desc&order=entity_id">New Arrivals</a></li></ul></li><li class="has-dropdown gtm-track "><a href="http://www.donebynone.com/footwear.html">Footwear</a><ul class="dropdown gtm-track"><li class="title back js-generated"><a href="javascript:void(0);"><strong>&laquo; Back</strong></a></li><li class="js-generated gtm-track"><a href="http://www.donebynone.com/footwear.html">Footwear</a></li><li><a href="http://www.donebynone.com/footwear/sandals.html">Sandals</a></li><li><a href="http://www.donebynone.com/footwear/shoes.html">Shoes</a></li><li ><a class="nav-hover gtm-track" href="http://www.donebynone.com/footwear.html?dir=asc&order=base_rating">Best Sellers</a></li><li ><a class="nav-hover gtm-track" href="http://www.donebynone.com/footwear.html?dir=desc&order=entity_id">New Arrivals</a></li></ul></li><li class="has-dropdown gtm-track "><a href="http://www.donebynone.com/handbags.html">Handbags</a><ul class="dropdown gtm-track"><li class="title back js-generated"><a href="javascript:void(0);"><strong>&laquo; Back</strong></a></li><li class="js-generated gtm-track"><a href="http://www.donebynone.com/handbags.html">Handbags</a></li><li><a class="nav-hover gtm-track" href="http://www.donebynone.com/handbags.html?dir=asc&order=base_rating">Best Sellers</a></li><li><a class="nav-hover gtm-track" href="http://www.donebynone.com/handbags.html?dir=desc&order=creation_date">New Arrivals</a></li></ul></li><li class="has-dropdown gtm-track "><a href="http://www.donebynone.com/accessories.html">Accessories</a><ul class="dropdown gtm-track"><li class="title back js-generated"><a href="javascript:void(0);"><strong>&laquo; Back</strong></a></li><li class="js-generated gtm-track"><a href="http://www.donebynone.com/accessories.html">Accessories</a></li><li><a href="http://www.donebynone.com/accessories/jewellery.html">Jewellery</a></li><li><a href="http://www.donebynone.com/accessories/scarves.html">Scarves</a></li><li ><a class="nav-hover gtm-track" href="http://www.donebynone.com/accessories.html?dir=asc&order=base_rating">Best Sellers</a></li><li ><a class="nav-hover gtm-track" href="http://www.donebynone.com/accessories.html?dir=desc&order=entity_id">New Arrivals</a></li></ul></li>                </ul>
+            </section>
+        </nav>
+    </div>
+	<ul class="mobile_menu" id="mobile_menu">
+    	<li class="bucket"><a href="javascript:void(0);" id="mobile_menu_shop" class="gtm-track">Shop<img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/li_bg.png" width="10px" height="6px" /></a>
+        	       
+      	<ul class="dropdown" id="balerdropdown" style="display:none;">
+                                                    
+
+                    <li class=" flevel  baler1Stli">
+                    <a class="gtm-track" href="javascript:void(0);                        ">         
+					Clothing                    </a>                  
+                                            
+                    <ul style="display:none;" class="balerbacha">                                                                                                       
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/clothing/top-wear.html">Topwear</a></li>
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/clothing/dresses.html">Dresses</a></li>
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/clothing/bottoms.html">Bottoms</a></li>
+                                                 
+                          </ul>                                                                                                               
+                                        </li> 
+                                                     
+
+                    <li class=" flevel  baler1Stli">
+                    <a class="gtm-track" href="javascript:void(0);                        ">         
+					Footwear                    </a>                  
+                                            
+                    <ul style="display:none;" class="balerbacha">                                                                                                       
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/footwear/sandals.html">Sandals</a></li>
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/footwear/shoes.html">Shoes</a></li>
+                                                 
+                          </ul>                                                                                                               
+                                        </li> 
+                                                     
+
+                    <li class=" hasnocatchild baler1Stli">
+                    <a class="gtm-track" href="http://www.donebynone.com/handbags.html                    			                        ">         
+					Handbags                    </a>                  
+                                        </li> 
+                                                     
+
+                    <li class=" flevel  baler1Stli">
+                    <a class="gtm-track" href="javascript:void(0);                        ">         
+					Accessories                    </a>                  
+                                            
+                    <ul style="display:none;" class="balerbacha">                                                                                                       
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/accessories/jewellery.html">Jewellery</a></li>
+                                                      <li class="slevel"> <a class="gtm-track" href="http://www.donebynone.com/accessories/scarves.html">Scarves</a></li>
+                                                 
+                          </ul>                                                                                                               
+                                        </li> 
+              
+  </ul> 
+            </li>
+        <li class="search"><a href="javascript:void(0);" class="ser-nonactive gtm-track" id="mob-search">Search</a>
+        	<div id="balerdropdown2" class="dropdownSearch" style="display:none;"><form class="relative left gtm-track" id="search_form" action="http://www.donebynone.com//catalogsearch/result/">
+                                        <span class="top-search-button"><button type="submit" class="dbn-sprite"></button></span>
+                                        <input type="search" class="search-box" name='q' placeholder="Search Product here" id="search_inputbox">
+                                    </form></div>
+        </li>
+        <li onclick="showAccountLoginPopup()"><a href="javascript:void(0);"  id="account-anchor" class="gtm-track moblogINpop" data-reveal-id="login-register">My account</a></li>
+        <li><a class="gtm-track" id="cart-item" href="http://www.donebynone.com//checkout/cart">Cart(0)</a></li>
+    </ul>
+    <div class="vaterbreadcrumbs">
+
+ 
+
+            <ul class="breadcrumbs">
+
+  <li data-tooltip  class="has-tip" title="Go to Home Page"><a href="http://www.donebynone.com/">Home</a></li><li class="gt-space"> &gt; </li><li data-tooltip  class="has-tip" title="Handbags">Handbags</li>
+    </ul>
+</div>
+    <div class="large-12 column pdtb-0 hide-on-small-device"><div class="desktop-nav-section"><div class="desktop-sub-nav"></div></div></div>
+</div>
+<div class="clear-both pd-5 hide-on-small-device"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
+</script>
+<script>
+$(document).ready(function(){
+	$("#mobile_menu_shop ").click(function(){
+		
+	if($('li.bucket a').hasClass("active")){
+		$("#balerdropdown").slideUp();
+		$('li.bucket a').removeClass('active');
+
+		}
+		else{
+			$('li.bucket a').addClass('active');
+			$('li.slevel').find('a').removeClass("active");
+			$('li.flevel').find('a').removeClass("active");
+			$('li.bucket').siblings('.search').children('.dropdownSearch').slideUp();
+			$('body > header > div.row.desktop-nav.text-center > div.vaterbreadcrumbs').css('margin-top','0');<!--Edit_by_sudipta_11.4.14-->
+			if($('li.bucket').children('.dropdown').css('display')=='block'){
+				//$(this).children('.dropdown').css('display','none');
+			}else
+			{
+			 $('li.bucket').children('.dropdown').slideDown();
+			 $('li.slevel').find('a').removeClass("active");
+			$('li.flevel').find('a').removeClass("active");
+			//$(this).siblings('li').slideUp();
+			}
+		
+		}
+	});
+	/* shop dropdown  is  script */ 
+	$('#balerdropdown > li > a').click(function(e) {	
+		$('#balerdropdown li').removeClass('flevelOpen').addClass('flevel');
+		if(!$(this).parent().hasClass('hasnocatchild')){
+		if($(this).parent().hasClass("activeLOpen")){
+			$(this).parent().children('ul').slideUp();
+			$(this).parent().removeClass('activeLOpen');
+			$(this).parent().addClass('flevel').removeClass('flevelOpen');
+
+		}else{
+		
+			$(this).parent().siblings('li').removeClass('activeLOpen');
+			$(this).parent().addClass('activeLOpen');
+        	$(this).parent().children('ul').slideDown();
+			$(this).parent().removeClass('flevel').addClass('flevelOpen');
+
+		}
+		}
+
+		$('#balerdropdown').css("display","block");
+		$(this).parent().siblings('.flevel').children('ul').slideUp();
+		
+		$('li.slevel').find('a').removeClass("active");
+		$('li.flevel').find('a').removeClass("active");
+		
+		$('#balerdropdown  > li').each(function(index, element) {
+		/* comment not showing drop in no child cat */
+			if($(this).hasClass("hasnocatchild")){
+			$(this).removeClass('flevelOpen');
+			$(this).removeClass('flevel');
+		}
+            
+        });
+		
+    });
+	
+
+	/* event when  click on search button */
+	$(".ser-nonactive").click(function(){
+		if($('.ser-nonactive').hasClass("searchactive")){
+		$('.ser-nonactive').removeClass("searchactive");
+		$(this).parent().children('.dropdownSearch').slideUp();
+		$('body > header > div.row.desktop-nav.text-center > div.vaterbreadcrumbs').css('margin-top','0');<!--Edit_by_sudipta_11.4.14-->
+		}else{
+		$('li.search > a').addClass("searchactive");
+		$(this).parent().siblings('.bucket').children('ul').slideUp();
+		$(this).parent().children('.dropdownSearch').slideDown();
+		$('body > header > div.row.desktop-nav.text-center > div.vaterbreadcrumbs').css('margin-top','45px');<!--Edit_by_sudipta_11.4.14-->
+		$(this).parent().siblings('.bucket').find('a').removeClass('active');
+		}
+	});
+	$('.moblogINpop').click(function(e) {
+		/* hidden all bucket drop */
+		$("#balerdropdown").slideUp();
+		$('li.bucket a').removeClass('active');
+		/* hidden all search doropdown */
+		$('.dropdownSearch').slideUp();
+		$('.ser-nonactive').removeClass("searchactive");
+		showAccountLoginPopup();
+        
+    });
+	
+	
+	if($('.balerbacha').css('display')=='block'){
+		
+		
+	}
+	
+});
+</script>
+</header>
+
+    
+ <!--       <div class="right-tab coupon-tab fixed">
+            <div class="left">
+                <div class="left wor-middle hide">
+                    <div class="disbar_container">
+                        <h6>FLAT RS. 250 OFF ON FOOTWEAR<sup>*</sup></h6>
+                        <hr>
+                        <div class="button no-bdr radius"><h5 class="no-pd  no-mg">SHOP250</h5></div>
+                        <p><span class="italic sober-txt small-txt">Coupon valid till 5th August 2014</span></p>
+                        <p><span class="italic sober-txt small-txt">Not Valid on Sale Items</span></p>
+                    </div>
+                </div>
+                <div class="wor-tab white-txt padd-tb-18 left text-center dbn-sprite"></div>
+            </div>
+        </div>-->
+ <?php// } ?>
+
+
+<div class="row">
+    <div class="large-12 column">
+                	<img src="http://cdn.donebynone.com/ban/1/all_cat_banner_0314.jpg"></div><div class="clear-both"></div>
+<div class="large-10 column small-centered full-width-320" id="new-refined">
+
+    <div class="new-top-sort">
+        <div class="menu-title hide">
+            <span class="dbn-sprite menu-arrow right"></span>
+            <span class="">REFINE BY</span>
+            <div class="clear-both"></div>
+        </div>
+        <div class="absolute-500 track-submenu">
+            <div class="submenu-section large-3 column">
+                <div class="cat-title"><span class="dbn-sprite expand-icon right"></span> <strong>Category</strong>
+
+                    <div class="clear-both"></div>
+                </div>
+                <div class="subcat-section off-subcat">
+                    <ul class="no-bullet no-mg chekbox-mark">
+                                                    <li><strong class="txt-uppercase"></strong></li>
+                                                
+                    </ul>
+                    <div class="clear-both"></div>
+                </div>
+
+                <div class="clear-both"></div>
+            </div>
+            <div class="submenu-section large-3 column">
+                <div class="cat-title"><span class="dbn-sprite expand-icon right"></span> <strong>Price</strong>
+
+                    <div class="clear-both"></div>
+                </div>
+                <div class="subcat-section off-subcat">
+                    <ul class="no-bullet no-mg chekbox-mark">
+                                                                                                                                                                                                    </ul>
+                </div>
+                                                                                                                                <div class="clear-both"></div>
+            </div>
+
+            <div class="submenu-section large-3 column">
+                <div class="cat-title"><span class="dbn-sprite expand-icon right"></span> <strong>Size</strong>
+
+                    <div class="clear-both"></div>
+                </div>
+                <div class="subcat-section off-subcat">
+                    <ul class="no-bullet size-unorder-list no-mg">
+                                                                                                                                                                                                        </ul>
+                    <div class="clear-both"></div>
+                </div>
+
+                <div class="clear-both"></div>
+            </div>
+                                                                        <div class="submenu-section large-3 column">
+                <div class="cat-title"><span class="dbn-sprite expand-icon right"></span> <strong>Color</strong>
+
+                    <div class="clear-both"></div>
+                </div>
+                <div class="subcat-section off-subcat">
+                    <ul class="no-bullet single-line-list color-filter-list">
+                                                                                                                                                                                                                            </ul>
+                    <div class="clear-both"></div>
+                </div>
+
+                <div class="clear-both"></div>
+                <div class="small-txt large-12 column text-right remove-selection"><a href="http://www.donebynone.com/handbags.html" class="no-pd sky-blue-txt normal-txt">Clear All Selection</a> </div>
+            </div>
+                            <div class="clear-both"></div>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+    
+
+    <div class="large-7 column small-txt full-width-320">
+        <div class="new-sort-section">
+            <span class="menu-title left full-width-small"><span class="dbn-sprite menu-arrow right"></span>SORT BY:</span>
+            <div class="absolute-500 track-submenu">
+        <span class="submenu-section">
+                    <a href="http://www.donebynone.com/handbags.html?dir=desc&amp;order=position" class="gtm-track" id="Sort_Bestmatch">Best Match</a>  <span class="hide-on-small-device">|</span>
+                    <a href="http://www.donebynone.com/handbags.html?dir=desc&amp;order=base_rating" class="gtm-track" id="Sort_Bestseller">Best Seller</a>  <span class="hide-on-small-device">|</span>
+                    <a href="http://www.donebynone.com/handbags.html?dir=desc&amp;order=creation_date" class="gtm-track" id="Sort_New_In">New In</a>  <span class="hide-on-small-device">|</span>
+                    <a href="http://www.donebynone.com/handbags.html?dir=desc&amp;order=price" class="gtm-track" id="Sort_Price_High_to_Low">Price High to Low</a>  <span class="hide-on-small-device">|</span>
+                    <a href="http://www.donebynone.com/handbags.html?dir=asc&amp;order=price" class="gtm-track" id="Sort_Price_Low_to_High">Price Low to High</a>
+        </span>
+            </div>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+
+    <!--<div class="large-2 column full-width-small">
+                
+    </div>-->
+
+    <div class="large-3 column small-txt text-right showing-items right hide-on-small-device">0 Item(s)</div>
+
+	 <div class="large-2 column full-width-small right">
+            </div>
+
+    <div class="clear-both"></div>
+    <input type="hidden" id="total-num-pages" value="1"/>
+    <input type="hidden" id="total-items" value="0"/>
+    <input type="hidden" id="current-num-page" value="1"/>
+<input type="hidden" id="islogin" name="login" value="0" ><div class="row product-category" xmlns="http://www.w3.org/1999/html">
+
+
+</div>
+
+
+<script>
+    function loadMoreProducts() {
+        var tnPages = parseInt($('#total-num-pages').val());
+        var cuPage = parseInt($('#current-num-page').val());
+        if (tnPages > 1 && tnPages > cuPage) {
+            var totalNum = parseInt($('#total-items').val());
+            var leftNum = totalNum - (cuPage * 12);
+            $('#total-items-list').text(leftNum + ' ' + 'items');
+            $('#load-more').removeClass('hide');
+        }
+        else {
+            $('#no-more-results').removeClass('hide');
+        }
+
+    }
+    // window.addEventListener('load',loadMoreProducts,false);
+</script>
+
+    <div id="no-more-results" class="large-12 column"><div class="pd-5 gray-bg text-center">No more results to display</div></div>
+<div id="quick-look-window" class="reveal-modal large top-5 no-pd"></div>
+<div class="reveal-modal small no-pd" id="complete-your-order"><a href="javascript:void(0);" class="close-reveal-modal gtm-track" id="Close_on_login_popup">&#215;</a>
+<div class="clear-both padd-tb-18"></div>
+<div class="large-12">
+    <div class="dotted-logo-brd column">
+        <div class="large-9 column small-centered dotted-1-brd white-bg popup-dotted-header">
+            <span class="dbn-sprite complete-order-icon"></span>
+            <strong class="txt-uppercase">complete your order now!</strong><br>
+            <span class="font-12">Your order details will be sent to this e-mail address</span>
+        </div>
+    </div>
+</div>
+
+<div class="clear-both pd-10"></div>
+<div class="complete-order-head-section column small-centered text-center clear-both">
+    <div class="large-8 column small-centered text-center" id="addtocart-email-div">
+        <input type="text" id="addtocart-email" name="addtocart[email]"  placeholder="Enter your email here" class=" small-txt sober-txt radius" />
+        <div class="error-message" id="addtocart-email-error" style="display:none">Please enter a valid email.</div>
+        <div class="clear-both pd-10"></div>
+        <div class="text-center">
+            <a href="javascript:void(0)" id="add-to-cart-login-link" class="brown-add-cart left gtm-track" onclick="login_buynow_email1('http://www.donebynone.com/mymodule/try/sessionEmail')">CONTINUE</a>
+            <div class="progress-loader left" id="progress-ajaxloader" style="display:none"><img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/opc-ajax-loader.gif"></div>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+</div>
+<div class="clear-both pd-10"></div>
+<div class="dotted-logo-brd">
+    <div class="column small-centered dotted-1-brd width-50 text-center pb-0 mt-10 white-bg"> OR </div>
+</div>
+
+<div class="clear-both pd-10"></div>
+
+<div class="large-6 column small-centered text-center clear-both">
+    SIGN IN WITH
+    <div class="clear-both pd-10"></div>
+    <div class="width-200 column small-centered">
+            <span style="width:38px;margin-right: 15px;display: inline-block" >
+                <a href="javascript:void(0);" class="gtm-track" id="Sign_in_with_f" onclick="facebook_connect1('http://www.donebynone.com/facebook/customer_account/connect/')"><img class="pb-18" src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/CHECKOUT_fb.jpg"></a>
+            </span>
+
+        <!--Google Login Button -->
+<span style="width:38px;display: inline-block" >
+        <a href="javascript:void(0)" onclick="googleLogin_AddToCartQuickLook('https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=http%3A%2F%2Fwww.donebynone.com%2Fgoogleconnect%2Findex%2Fconnect%2F&client_id=680383851276.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=force&state=http%253A%252F%252Fwww.donebynone.com%252Fhandbags.html','http://www.donebynone.com/mymodule/try/googlesessionset')"><img class="pb-18" src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/CHECKOUT_gmail.jpg"></a>
+ </span>        <div class="clear-both pd-10"></div>
+    </div>
+</div></div>
+</div>
+
+            
+    <footer>
+
+
+    <div class="row">
+        <div class="large-12 columns pb-0">
+            <div class="dotted-logo-brd text-center padd-tb-18b">
+                <div class="small-centered column join-cult white-bg">
+                    <div id="all-ready-subscribed" class="absolute alert-box alert mt-m50 joint-cult-success text-left hide">
+                        <span class="dbn-sprite remove-icon"></span>
+                        You have Already subscribed to the newsletter
+                    </div>
+                    <div id="join-successfully" class="absolute alert-box success mt-m50 joint-cult-success text-left hide">
+                        <span class="dbn-sprite new-pass-sent"></span>
+                        Thank you for your subscription.
+                    </div>
+                    <form method="post"  id='newsletter-detail'>
+                        <span class="yellow-devider"><img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/join-cult.png"></span>
+                    <span class="left pr-10 relative">
+                        <input type="text" name="email" id="newsletter" placeholder="Enter your email here" class="left join-cult-input radius">
+                        <img  class="absolute join-cult-loder hide" id="progress-ajaxloader-newsletter" src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/opc-ajax-loader.gif">
+                    </span>
+                    <span class="left cult-go ">
+
+                        <button type="button" id="newsletter-button" onclick ="validate_newsletter('http://www.donebynone.com/newsletter/subscriber/new/'); return true;" class="radius cult-button white-txt gtm-track">GO</button>
+                    </span>
+                    </form>
+                    <div class="clear-both"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="row new-foot-section hide-for-small">
+        <div class="large-12 ">
+            <div class="large-3 column">
+                <a href="http://www.donebynone.com/mostviewed/index/result ">
+                    <img src="http://cdn.donebynone.com/1/t/8903895070474-f.jpg" alt="most-viewed">
+                </a>
+                <div class="gray-bg cult-bot mt-10">
+                    <div class="cult-icon most-visited-icon dbn-sprite">&nbsp;</div>
+                    <div class="txt-uppercase"><strong>MOST VIEWED</strong></div>
+                    <div class="sober-txt">185 views an hour</div>
+                </div>
+            </div>
+            <div class="large-3 column">
+                <a href="http://www.donebynone.com/justbought/index/result" class="gtm-track" id="just-bought">
+                    <img src="http://cdn.donebynone.com/1/t/8903895077626-f.jpg"  alt="just bought">
+                </a>
+                <div class="gray-bg cult-bot mt-10">
+                    <div class="cult-icon just-bought-icon dbn-sprite">&nbsp;</div>
+                    <div class="txt-uppercase"><strong>just bought</strong></div>
+                    <div class="sober-txt">Swarnima from Calcutta <br>     At 02:45 pm today  </div>
+                </div>
+            </div>
+            <div class="large-3 column">
+                <a href="http://www.donebynone.com/mymodule/try/asseen" id="media" class="gtm-track">
+                    <img src="http://cdn.donebynone.com/asseenon/as-seen-on.jpeg" alt="As seen on Media">
+                </a>
+                <div class="gray-bg cult-bot mt-10">
+                    <div class="cult-icon as-seen-icon dbn-sprite">&nbsp;</div>
+                    <div class="txt-uppercase"><strong>as seen on</strong></div>
+                    <div class="sober-txt"> Elle Magazine </div>
+                </div>
+            </div>
+
+            <div class="large-3 column overflow-hidden bot-comments-section">
+                <a href="http://www.donebynone.com/blog" target="_blank" id="our-blog" class="gtm-track"><img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/Blog_Footer_widget2.jpg" alt="Our blog" ></a>
+                <div class="TxtPAternBox small-txt absolute hide">
+                                            <div class="bot-comments color-black">I am so impressed ! I ordered late Friday night and got delivery on Sunday afternoon. Loved the shirts they were even better than the pictures on the website. You have found yourself a regular custome....</div>
+                        <div class="pinkTxt">Sarah Sham</div>
+                                        <div class="clear-both"></div>
+                    <div class="text-right pinkTxt"> (read more) </div>
+                </div>
+                <div class="gray-bg cult-bot mt-10">
+                    <div class="cult-icon just-commented-icon dbn-sprite">&nbsp;</div>
+                    <div class="txt-uppercase"><strong>Our blog</strong></div>
+                    <div class="sober-txt">Turn on Tune in Top out</div>
+                </div>
+            </div>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+
+    <div class="clear-both"></div>
+
+    <div class="row">
+        <div class="large-12 column pb-0">
+            <div class="quick-services relative">
+                <div class="large-3 no-mg column home-tip">
+                    <div class="services-list ">
+                        <ul class="no-bullet">
+                            <span class="dbn-sprite comment-service-icon absolute"></span>
+                            <li><a class="Footer Menu gtm-track" id="Cancellation" href="http://www.donebynone.com/faq?orders?4">Cancellation</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Returns" href="http://www.donebynone.com/faq?exchange-return?1">Returns</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Exchange" href="http://www.donebynone.com/faq?exchange-return?2">Exchange</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Refund" href="http://www.donebynone.com/faq?exchange-return?3">Refund</a></li>
+                        </ul>
+                    </div>
+                    <span class="dbn-sprite quick-services-icon"></span> CANCELLATION &amp; RETURNS
+                </div>
+                <div class="large-3 no-mg column home-tip hide show-for-small">
+                    <div class="services-list ">
+                        <ul class="no-bullet">
+                            <span class="dbn-sprite comment-service-icon absolute"></span>
+                            <li><a class="Footer Menu gtm-track" id="Sale" href="http://www.donebynone.com/sale.html">Sale</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Clothing" href="http://www.donebynone.com/clothing.html">Clothing</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Footwear" href="http://www.donebynone.com/footwear.html">Footwear</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Handbags" href="http://www.donebynone.com/handbags.html">Handbags</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Accessories" href="http://www.donebynone.com/accessories.html">Accessories</a></li>
+                        </ul>
+                    </div>
+                    <span class="dbn-sprite quick-services-icon"></span> SHOPPING
+                </div>
+                <div class="large-3 no-mg column home-tip">
+                    <div class="services-list">
+                        <ul class="no-bullet">
+                            <span class="dbn-sprite comment-service-icon absolute"></span>
+                            <li><a class="Footer Menu gtm-track" id="FAQ" href="http://www.donebynone.com/faq">FAQ</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Free Shipping" href="http://www.donebynone.com/faq?shipping-delivery?1">Free Shipping</a></li>
+                            <li><a class="Footer Menu gtm-track" id="Cash On Delivery" href="http://www.donebynone.com/faq?cash-on-delivery?3">Cash On Delivery</a></li>
+                        </ul>
+                    </div>
+                    <span class="dbn-sprite quick-services-icon"></span> SHIPPING
+                </div>
+                <div class="large-3 no-mg column home-tip">
+                    <div class="services-list">
+                        <ul class="no-bullet">
+                            <span class="dbn-sprite comment-service-icon absolute"></span>
+                            <li><span class="dbn-sprite small-email-icon"></span><a href="mailto:happyhelp@donebynone.com" class="skyblue">happyhelp@donebynone.com</a>
+                            </li>
+<!--                            <li><a href="tel:+1800229933"><span class="dbn-sprite small-phone-icon"></span>+91-9266-80-2999</a>-->
+                            </li>
+                            <li><span class="dbn-sprite small-clock-icon"></span>Mon-Sat, 9am - 6pm</li>
+                            <li>
+                                <div class="left width20"><span class="dbn-sprite small-postal-icon"></span></div>
+                                <div class="left width85-prc">9106, Garden Villas, Phase - IV, Gurgaon - Haryana</div>
+                            </li>
+                        </ul>
+                    </div>
+                    <span class="dbn-sprite quick-services-icon"></span>CUSTOMER CARE
+                </div>
+                <div class="large-3 no-mg column home-tip">
+                    <div class="services-list">
+                        <ul class="no-bullet">
+                            <span class="dbn-sprite comment-service-icon absolute"></span>
+                            <li><a class="Footer Menu gtm-track" id="Work With Us" href="http://www.donebynone.com/join-us">Work With Us</a></li>
+                            <li><a class="Footer Menu gtm-track" id="About Us" href="http://www.donebynone.com/about-us">About Us</a></li>
+                        </ul>
+                    </div>
+                    <span class="dbn-sprite quick-services-icon"></span> CAREERS
+                </div>
+                <div class="clear-both"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="copy-right">&copy; <time datetime="2014">2014(a)</time> DONE BY NONE. All Rights Reserved <a class="Footer Menu gtm-track" id="Term & Conditions" href="http://www.donebynone.com/term-conditions">Terms &amp; Conditions </a>|<a class="Footer Menu gtm-track" id="Privacy Policy" href="http://www.donebynone.com/privacy-policies"> Privacy Policy</a></div>
+        </div>
+    </div>
+    <div id="fb-root"></div>
+
+
+    <div class="side-banner2 hide hide-on-mobile" id="mullah-rough"></div>
+
+    </footer>
+
+
+
+    <div id="signup-coupon" class="reveal-modal signup-coupon small">
+        <a class="signup-coupon-close right" id="coupon-close"  onclick="closeCouponPopup('http://www.donebynone.com/mymodule/try/setCookie')"><span class="font-12">close</span> &#215;</a>
+        <h3 class="text-center white-txt">
+            Sign up to receive your<br>
+            <span>Rs. 250/- welcome coupon.</span>
+        </h3>
+        <div class="large-12 column">
+            <form method="post" id="signup-coupon-form">
+                <div class="large-9 column padd-tb-18">
+                    <input type="email" name="email"  class="radius" placeholder="Enter your Email id..." id="emailpop">
+                    <img class="absolute join-cult-loder mt-10"  id="progress-ajaxloader-popup" style="display:none" src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/opc-ajax-loader.gif">
+                    <div class="alert-box absolute hide" id="coupon-popup-email-error">Please enter valid email.</div>
+                </div>
+                <div class="large-3 right text-right">
+                    <input type="button" class="yellow-button pd-5" value="GET IT NOW" onclick="sendPopupcoupon('http://www.donebynone.com/mymodule/try/coupon')">
+
+
+                    <input type="reset" class="pd-5" id="no-thanks" onclick="closeCouponPopup('http://www.donebynone.com/mymodule/try/setCookie')" value="NO, THANKS">
+                </div>
+                <div class="clear-both"></div>
+                <div class="white-txt padd-tb-18">
+                    <sup>*</sup> Valid upto 21 February 2015 from receipt on a minimum purchase of Rs. 899/-
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="right-tab fixed when-reach-tab">
+        <div class="left">
+            <div class="left wor-middle hide">
+                <div class="prom_mddle">
+                                        <div class="select-city-tab">
+
+                        <select name="Select" class="width-100 no-mg" onchange="getTime(this.value,0);">
+                            <option value="select">Select</option>
+                            <option value="Delhi">Delhi NCR</option>
+                            <option value="Mumbai">Mumbai</option>
+                            <option value="Chennai">Chennai</option>
+                            <option value="Kolkata">Kolkata</option>
+                            <option value="Hyderabad">Hyderabad</option>
+                            <option value="Nes">North Eastern State</option>
+                            <option value="Bangalore">Bangalore</option>
+                            <option value="other">Other Cities</option>
+                        </select>
+                    </div>
+                    <hr>
+
+                    <div class="sober-txt" >Expected Delivery Date:</div>
+                    <div class="clear-both"></div>
+                    <div class="gray-bg radius pd-5 text-center mt-10" id="delivery-content"><strong>Select City</strong></div>
+                    <div class="clear-both pd-5"></div>
+                    <div class="sober-txt">For orders before<br> 5 PM today</div>
+                </div>
+
+            </div>
+            <div class="wor-tab white-txt padd-tb-18 left text-center dbn-sprite gtm-track" id="Speedy_Shipping">&nbsp;</div>
+        </div>
+
+    </div>
+
+    <div class="right-tab stay-conn-tab fixed" height="auto">
+        <div class="left">
+            <div class="left wor-middle gtm-track hide" id="fb-clash">
+                <div class="fb-like-box gtm-track" data-href="http://www.facebook.com/DONEbyNONE" data-width="168" data-height="168" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+                <!--       <div class="pd-10 pdTB-0">
+                           <a href="https://www.facebook.com/DONEbyNONE" target="_blank"><span class="dbn-sprite skyblue-fb"></span> <span class="dark-turquoise-bg turquoise-button">LIKE US</span></a>
+                           <div class="clear-both pd-5"></div>
+                           <a href="https://twitter.com/donebynone" target="_blank"><span class="dbn-sprite skyblue-tw"></span> <span class="dark-turquoise-bg turquoise-button">FOLLOW US</span></a>
+                       </div>-->
+            </div>
+            <div class="wor-tab white-txt padd-tb-18 left text-center dbn-sprite gtm-track" id="Hangout">&nbsp;</div>
+        </div>
+    </div>
+
+
+
+
+    <div class="right-tab last-view-tab fixed">
+            </div>
+
+
+
+
+
+
+    <div id="login-register" class="reveal-modal medium pd-5">
+
+        <div class="row popup-cont">
+    <div class="or small-txt">or</div>
+    <div class="sober-bg pd-5 white-txt small-txt">
+        <a href="javascript:void(0)" class="close-reveal-modal white-txt"><span class="small-txt">close x</span></a>
+        <span class="pop-title" id="registered-title">Login to Done by None</span>
+        <span class="pop-title hide" id="not-registered-title">Register with Done by None</span>
+        <span class="pop-title hide" id="forgot-pasword-title">Forgot Your Password</span>
+        <span class="pop-title hide" id="forgot-password-sent-title">New Password Sent</span>
+    </div>
+
+    <div class="large-6 column or-brd">
+
+
+        <div class="large-6 column full-width-420 text-center">
+            <a rel="facebook-connect" title="Facebook Connect"
+               href="javascript:void(0)" onclick="facebook_connect('http://www.donebynone.com/facebook/customer_account/connect/')" class="dbn-sprite facebook-connect"><span class="hide">Connect With Facebook</span></a>
+        </div>
+        <div class="large-6 column full-width-420 text-center">
+                        <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=http%3A%2F%2Fwww.donebynone.com%2Fgoogleconnect%2Findex%2Fconnect%2F&client_id=680383851276.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&access_type=offline&approval_prompt=force&state=http%253A%252F%252Fwww.donebynone.com%252Fhandbags.html" class="dbn-sprite login-gmail "><span class="hide">Connect With Gmail</span></a>
+        </div>
+        <div class="text-center">
+
+            <p>So you don't have to remember<br> another password</p>
+        </div>
+
+    </div>
+    <div class="large-6 column padd-tb-18 lmb">
+
+        <div id="registered">
+            <form method="post"  id="login-form">
+                <!--<span class="error" style="display:block;color: #d14;">Please enter a valid email.</span>-->
+                <ul class="no-bullet">
+                    <div class="alert-box alert hide" id="register-ajax-error">You are the existing user.Please Login....</div>
+                    <div class="alert-box alert" id="login-ajax-error" style="display:none">Please enter valid email and password.</div>
+                    <li id="login-email-li">
+
+                        <label class="required">Enter your Email </label>
+                        <input type="text"  id="login-email" name="loginAjax[username]" title="Email Address"  class="radius" autocomplete="off" />
+
+                    </li>
+                    <li id="login-password-li">
+                        <label class="required">Enter your Password </label>
+                        <input type="password" id="login-password" name="loginAjax[password]" title="Password" class="radius" autocomplete="off">
+
+                    </li>
+                    <li><a href="javascript:void(0);" id="forgot-password"> Forgot Password?</a></li>
+                    <li>
+                        <button class="brown-add-cart ptb-10 large-5 left" id="send2" name="send" onclick ="validate_login('http://www.donebynone.com/customer/account/loginPostAjax/','home')" title="Login" type="button">Login</button>
+                        <div class="progress-loader left" id="progress-ajaxloader-login" style="display:none"><img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/opc-ajax-loader.gif"></div>
+                        <div class="clear-both"></div>
+                    </li>
+                    <li>Not a registered user? <a href="javascript:void(0);" id="register-here">Register here</a></li>
+
+                </ul>
+            </form>
+        </div>
+
+        <div class="hide" id="not-registered">
+            <form method="post"  id="register-form">
+                <ul class="no-bullet">
+
+                    <li id="register-fname-li">
+                        <label class="required">Enter your Full Name </label>
+                        <input type="text" id="register-name" name="firstname" title="Enter your Full Name" class="radius">
+                    </li>
+                    <li id="register-email-li">
+                        <label class="required">Enter your Email </label>
+                        <input type="text" id="register-email" name="email" title="Enter your Email" class="radius">
+                    </li>
+                    <li>
+                        <button class="brown-add-cart ptb-10 large-5 left" title="Login" id="register-button-header" onclick="validate_register('http://www.donebynone.com/customer/account/createpost/')"  type="button">Register</button>
+                        <div class="progress-loader left" id="progress-ajaxloader-register" style="display:none"><img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/opc-ajax-loader.gif"></div>
+                        <div class="clear-both"></div>
+                    </li>
+                    <li>Already registered? <a href="javascript:void(0)" id="login-here">Login here</a></li>
+                </ul>
+            </form>
+        </div>
+
+        <div class="hide" id="forgot-pasword">
+             <form method="post" action="" id="forgot-password-form">
+                <ul class="no-bullet">
+                    <div class="alert-box alert" id="forget-ajax-error" style="display:none">Please enter Registered Email id.</div>
+                    <li>
+                        Please enter your email below and we'll send you a new password.
+                    </li>
+                    <li id="forget-password-li">
+                        <label class="required"> Enter you email address  </label>
+                        <input type="text" id= "forgot-email" name="email" title="Enter your Email" class="radius">
+                    </li>
+                    <li>
+
+                        <button type="button" class="brown-add-cart ptb-10 large-5 left" title="Login" id="forgot-button-header" onclick="validate_forgot_password('http://www.donebynone.com/customer/account/forgotpasswordpost/','home')">Send Password</button>
+                        <div class="progress-loader left" id="progress-ajaxloader-forgot" style="display:none"><img src="http://www.donebynone.com/skin/frontend/default/donebynone1/images/opc-ajax-loader.gif"></div>
+                        <div class="clear-both"></div>
+                    </li>
+
+                    <li>Already registered? <a href="javascript:void(0)" id="login-here2">Login here</a></li>
+                </ul>
+            </form>
+        </div>
+
+        <div class="hide" id="sent-password">
+
+                <ul class="no-bullet">
+                    <li>
+                        Your new password has been sent to you.Please check your mail.
+                    </li>
+
+                    <li><button class="brown-add-cart ptb-10 large-5" title="Login" onclick="continueWithNewPass()"  type="button">Continue</button></li>
+                </ul>
+
+        </div>
+
+    </div>
+
+
+    <div class="clear-both"></div>
+</div>
+    </div>
+
+<!--<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js"></script>
+<script>
+    var invite_referrals = window.invite_referrals || {};
+    (function() {
+        var script = document.createElement('script');script.async = true;
+        script.src = (document.location.protocol == 'https:' ? "//d11yp7khhhspcr.cloudfront.net" : "//cdn.invitereferrals.com") + '/js/invite-referrals-1.0.js';
+        var entry = document.getElementsByTagName('script')[0];entry.parentNode.insertBefore(script, entry); })();
+</script>
+-->
+<div id="fb-root"></div>
+<div id="friend-connection" class="reveal-modal no-pd medium">
+<a id="20-ffc-close" href="javascript:void(0);" onclick="windowReload();" class="close-reveal-modal gtm-track"><img src="http://cdn.donebynone.com/images/ffc/close.png" border="0"/></a>
+<div id="ffc-loader" class="hide"></div>
+
+<div id="ffc-pre-user"  class="container hide">
+    <div class="image-cont">
+        <div class="page-title1">
+            <h1 class="white">SNAG</h1>
+            <img width="489" height="119" border="0" alt="oops" src="http://cdn.donebynone.com/images/ffc/welcome-head.png"> </div>
+        <div class="progress-bar"> <img width="729" height="24" border="0" alt="progress bar" src="http://cdn.donebynone.com/images/ffc/progress-bar1.png"> </div>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center ffc-pre-user-pic1">
+            <img src="http://cdn.donebynone.com/images/ffc/ffc-pre-user.png">
+        </div>
+        <div class="clear-both pd-5"></div>
+        <div class="clear-both"></div>
+        <div class="progress-bar"> <img width="732" height="25" border="0" alt="progress bar" src="http://cdn.donebynone.com/images/ffc/progress-bar2.png"> </div>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center"> <a id="connectf" onclick="connectFB();" href="javascript:void(0);" class="width-176 gtm-track"><img width="176" height="38" border="0" src="http://cdn.donebynone.com/images/ffc/ffc-connect-grp.png" alt="connect with fb"></a> </div>
+        <div class="white-txt align-center">
+            <div class="strong pd-5">CONNECT NOW TO GET UPTO 40% OFF<sup>*</sup> </div>
+            <u><a onclick="howItWorks1();" id="ffc-how-works" class="how-it-work gtm-track" href="javascript:void(0)">*HERE&rsquo;S HOW IT WORKS</a></u>
+        </div>
+        <div class="pd-5 right-0 absolute z-index-99 bottom-0 block-forever-ffc-popup text-center"><a href="javascript:void(0);" onclick="notshowagain()">DON'T SHOW ME THIS POPUP AGAIN</a></div>
+    </div>
+
+    <div class="clear-both"></div>
+</div>
+<div id="ffc1"  class="container hide">
+    <div class="image-cont">
+        <div class="page-title1">FRIEND CONNECTION <br> DISCOUNT</div>
+        <div class="progress-bar"> <img src="http://cdn.donebynone.com/images/ffc/first-screen-grp.png" width="729" height="24" alt="progress bar" border="0"/> </div>
+        <div class="clear-both pd-5"></div>
+        <h6 class="lt-color align-center">
+            CONNECT NOW TO GET UPTO 40% OFF<sup>*</sup> !
+        </h6>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center"> <a class="width-176 gtm-track" href="javascript:void(0);" onclick="connectFB();" id="connectf" ><img width="176" border="0" height="38" alt="connect with fb" src="http://cdn.donebynone.com/images/ffc/ffc-connect-grp.png"></a> </div>
+        <div class="clear-both">&nbsp;</div>
+
+        <div class="white-txt align-center">
+            <u><a href="javascript:void(0)" id="30-ffc-howitworks" class="how-it-work gtm-track" onclick="howItWorks1();">*Here's how it works</a></u>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+<div id="ffc5" class="container hide">
+    <!--awesome-->
+    <div class="image-cont">
+        <div class="page-title"> AWESOME!! </div>
+        <div class="progress-bar"> <img src="http://cdn.donebynone.com/images/ffc/border-pink.png" alt="progress bar" border="0"/> </div>
+        <div class="code-desc1">
+            <div class="used-code pink-txt-ffc">YOUR FRIENDS WHO LIKED US = <a href="#" class="shop-now"><span id="likecount">10</span></a></div>
+            <div class="used-code pink-txt-ffc">DISCOUNT YOU HAVE SCORED = <a href="#" class="shop-now"><span id="discount"></span></a></div>
+        </div>
+        <div class="progress-bar "> <img src="http://cdn.donebynone.com/images/ffc/border-pink.png" alt="progress bar" border="0"/> </div>
+        <div class="code-desc relative">
+            <div class="used-code1 lt-blue">
+                <span class="pink-txt-ffc">YOUR DISCOUNT COUPON CODE IS<sup>*</sup></span> <span class="shop-now word-break" id='coupon' style="font-size:15px"></span>
+                <div class="clear-both"></div>
+                <div class="valid font-11 full-width-small"><span class="pink-txt-ffc">VALID ONLY ON <a href="http://www.donebynone.com/ffc-promo.html">FRIENDS CONNECTION CATALOG</a></span></div>
+                <div class="valid absolute font-11 full-width-small pink-txt-ffc" id='validtill'></div>
+            </div>
+
+        </div>
+        <div class="clear-both">&nbsp;</div>
+        <div class="align-center"><a href="javascript:void(0);" onclick="redeemNow();" id="50-ffc-redeemnow" class="gtm-track shop-now" style="cursor:pointer">CLICK HERE TO REDEEM NOW</a></div>
+        <div class="align-center"><img style="max-width:40px;" src="http://cdn.donebynone.com/images/ffc/thumbs-up1.png" alt="progress bar" border="0"/></div>
+        <div class="align-center padd-top-btm15 font-23 dark-blue" id="or"> OR </div>
+        <div class="padd-btm20" id="ffc5-inv">
+            <div class="dark-blue-bg align-left" id="inviterf0" style="max-width:600px;margin:0 auto;padding:5px; border-radius:5px;">
+                <span class="font-18">INVITE MORE FRIENDS GET MORE DISCOUNT</span>
+            </div>
+        </div>
+        <div class="align-center pink-txt-ffc hide">*your discount will be updated after 10 days</div>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center"><a href="javascript:void(0)" id="ffc-how" class="lt-color gtm-track" onclick="howItWorks();"><u>How It Works?</u></a></div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+<div id="ffc4" class="container hide">
+    <div class="image-cont">
+        <div class="page-title">
+            HOLD ON!!
+        </div>
+        <div class="progress-bar">
+            <img src="http://cdn.donebynone.com/images/ffc/thumb-up.png" alt="progress bar" border="0"/>
+        </div>
+        <div class="code-desc pdlr-20">
+            <div class="update-disc3">PLEASE LIKE OUR FB PAGE <br> TO CONTINUE PLAYING</div>
+        </div>
+        <div class="like" id='pasteLike'>
+
+        </div>
+        <div class="progress-bar">
+            <img src="http://cdn.donebynone.com/images/ffc/border-pink.png" alt="progress bar" border="0"/>
+        </div>
+        <div class="clear-both"></div>
+    </div>
+</div>
+
+<div id="ffc3" class="container hide">
+    <div class="image-cont">
+        <div class="page-title"> OOPS!! </div>
+        <div class="progress-bar"> <img src="http://cdn.donebynone.com/images/ffc/oops-down-thumb.png" alt="progress bar" border="0"/> </div>
+        <div class="code-desc">
+            <div class="used-code2">SEEMS LIKE YOU HAVE ALREADY USED YOUR CODE!</div>
+            <div class="update-disc2">
+                <strong>PLEASE CHECK BACK HERE AFTER<br/>
+                    <span id="date">16/10/13</span> TO SEE UPDATED DISCOUNT.</strong>
+            </div>
+        </div>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center progress-bar clear-both"> <a href="javascript:void(0);" onclick="windowReload();" ><img src="http://cdn.donebynone.com/images/ffc/back2shopping.png" alt="progress bar" border="0"/></a> </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+
+<div id="ffc8" class="container hide">
+    <!-- here how it works-->
+    <div class="image-cont">
+        <div class="page-title1"> HERE’S HOW IT WORKS </div>
+        <div class="clear-both pd-5"></div>
+        <div class="disc-calc">
+            <div class="ques"> <span class="ffc-bullet2"></span>
+                <div class="ques-head">How my discount is calculated ?</div>
+            </div>
+            <div class="ans"> NUMBER OF FRIENDS WHO LIKED US <span class="yellow">:</span> DISCOUNT YOU SCORE </div>
+            <div class="clear-both">&nbsp;</div>
+            <div class="perc">
+                <div class="float-left"><span class="red-txt">0</span></div>
+                <div class="float-right"><span class="faq-equal"> = 0%</span></div>
+                <div class="float-left"><span class="red-txt">1 - 10</span></div>
+                <div class="float-right"><span class="faq-equal"> = 10%</span></div>
+                <div class="float-left"><span class="red-txt">11 - 20</span></div>
+                <div class="float-right"><span class="faq-equal"> = 20%</span></div>
+                <div class="float-left"><span class="red-txt">21 - 30</span></div>
+                <div class="float-right"><span class="faq-equal"> = 30%</span></div>
+                <div class="float-left"><span class="red-txt">31 &amp; above</span></div>
+                <div class="float-right"><span class="faq-equal"> = 40%</span></div>
+                <div class="clear-both">&nbsp;</div>
+            </div>
+            <div class="clear-both">&nbsp;</div>
+            <div class="ques"> <span class="ffc-bullet2"></span>
+                <div class="ques-head">Coupon is valid only on items in the <a href="http://www.donebynone.com/ffc-promo.html">FRIEND CONNECTION</a> catalog<br></div></div>
+            <div class="clear-both">&nbsp;</div>
+            <div class="terms-cond">
+                <div class="ques"> <span class="ffc-bullet2"></span>
+                    <div class="ques-head">Coupon T&amp;C's</div>
+                    <ul>
+                        <li>Coupon can be redeemed only once.</li>
+                        <li>Coupon is not valid on sale items.</li>
+                        <li>Coupon cannot be clubbed with other offers.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="ques"> <span class="ffc-bullet2"></span>
+                <div class="ques-head">How to redeem a coupon?</div>
+                <div class="ans word-break">
+                    <a href="http://www.donebynone.com/how-to">Visit www.donebynone.com/how-to</a>
+                    <div class="clear-both">&nbsp;</div>
+                </div>
+            </div>
+            <div class="chk align-center"> CONNECT NOW TO SEE YOUR DISCOUNT <div class="clear-both pd-5"></div><a href="javascript:void(0);"  onclick="connectFB();" class="width-176 gtm-track"><img src="http://cdn.donebynone.com/images/ffc/ffc-connect-grp.png" width="176" height="38"
+                                                                                                                                                                                                      alt="connect with fb" border="0"/></a></div>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+
+<div id="ffc9" class="container hide">
+    <div class="image-cont">
+        <div class="page-title1"> HERE’S HOW IT WORKS </div>
+        <div class="clear-both pd-5"></div>
+        <div class="disc-calc">
+            <div class="ques"> <span class="ffc-bullet2"></span>
+                <div class="ques-head">How my discount is calculated ?</div>
+            </div>
+            <div class="ans"> NUMBER OF FRIENDS WHO LIKED US <span class="yellow">:</span> DISCOUNT YOU SCORE </div>
+            <div class="clear-both">&nbsp;</div>
+            <div class="perc">
+                <div class="float-left"><span class="red-txt">0</span></div>
+                <div class="float-right"><span class="faq-equal"> = 0%</span></div>
+                <div class="float-left"><span class="red-txt">1 - 10</span></div>
+                <div class="float-right"><span class="faq-equal"> = 10%</span></div>
+                <div class="float-left"><span class="red-txt">10 - 20</span></div>
+                <div class="float-right"><span class="faq-equal"> = 20%</span></div>
+                <div class="float-left"><span class="red-txt">20 - 30</span></div>
+                <div class="float-right"><span class="faq-equal"> = 30%</span></div>
+                <div class="float-left"><span class="red-txt">30 &amp; Above</span></div>
+                <div class="float-right"><span class="faq-equal"> = 40%</span></div>
+                <div class="clear-both">&nbsp;</div>
+            </div>
+            <div class="clear-both">&nbsp;</div>
+            <div class="ques"> <span class="ffc-bullet2"></span>
+                <div class="ques-head">Coupon is valid only on items in the <a href="http://www.donebynone.com/ffc-promo.html">FRIEND CONNECTION</a>catalog<br>
+                </div></div>
+            <div class="clear-both">&nbsp;</div>
+            <div class="terms-cond">
+                <div class="ques"> <span class="ffc-bullet2"></span>
+                    <div class="ques-head">Coupon T&amp;C's</div>
+                    <ul>
+                        <li>Coupon can be redeemed only once.</li>
+                        <li>Coupon is not valid on sale items.</li>
+                        <li>Coupon cannot be clubbed with other offers.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="ques"> <span class="ffc-bullet2"></span>
+                <div class="ques-head">How to redeem a coupon?</div>
+                <div class="ans word-break">
+                    <a href="http://www.donebynone.com/how-to">Visit www.donebynone.com/how-to</a>
+                    <div class="clear-both">&nbsp;</div>
+                </div>
+            </div>
+            <a href="javascript:void(0)" onclick="backffc()" class="right ffcback">&laquo; BACK</a>
+            <div class="clear-both"></div>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+<div id="ffc0" class="container hide">
+    <!--awesome-->
+    <div class="image-cont">
+        <div class="page-title"> <img src="http://cdn.donebynone.com/images/ffc/oops-2.png" width="281" height="76" alt="oops" border="0"/> </div>
+        <div class="progress-bar"> <img src="http://cdn.donebynone.com/images/ffc/progress-bar1.png" width="729" height="24" alt="progress bar" border="0"/> </div>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center font-23">
+            <strong class="lt-blue">NO ONE IN YOUR FRIEND LIST<br>HAS LIKED OUR FB PAGE</strong>
+
+        </div>
+        <div class="clear-both pd-5"></div>
+        <div class="progress-bar "> <img src="http://cdn.donebynone.com/images/ffc/progress-bar2.png" width="732" height="25" alt="progress bar" border="0"/> </div>
+        <div class="clear-both pd-5"></div>
+        <div class="padd-btm20" id="ffc0-inv">
+            <div class="orange-bg align-left" id="inviterf1">
+                <span class="text-underline">INVITE MORE FRIENDS GET MORE DISCOUNT</span>
+            </div>
+        </div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+<div id="ffc2" class="container hide">
+    <div class="image-cont">
+        <div class="page-title">OOPS!!</div>
+        <div class="code-desc">
+            <img src="http://cdn.donebynone.com/images/ffc/something-went-wrong.png" alt="something-went-wrong" border="0"/>
+        </div>
+        <div class="clear-both pd-5"></div>
+        <div class="fb-like"> <a href="javascript:void(0);"  onclick="connectFB();">
+                <img src="http://cdn.donebynone.com/images/ffc/ffc-connect-grp.png" width="304" height="64" alt="connect with facebook" border="0"/></a> </div>
+        <div class="clear-both"></div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+<div id="ffcnoauth" class="container hide">
+    <div class="image-cont">
+        <div class="page-title"> <img src="http://cdn.donebynone.com/images/ffc/oops-2.png" width="281" height="76" alt="oops" border="0"/> </div>
+        <div class="code-desc">
+            <div class="font-33"><span class="lt-blue">TO GET THIS COOL DISCOUNT<br/> YOU WILL HAVE TO</span></div>
+        </div>
+        <div class="get-ur-disc font-23">GRANT US FACEBOOK PERMISSIONS</div>
+        <div class="clear-both pd-5"></div>
+        <div class="align-center white strong pd-5">TRY AGAIN NOW</div>
+        <div class="fb-like"> <a href="javascript:void(0);"  onclick="connectFB();"><img src="http://cdn.donebynone.com/images/ffc/connect-fb.png" width="304" height="64" alt="connect with facebook"
+                                                                                         border="0"/></a> </div>
+        <div class="clear-both"></div>
+    </div>
+    <div class="clear-both"></div>
+</div>
+
+</div>
+<script src="http://www.donebynone.com/js/donebynone/ffc5.js"></script>
+<script>
+    function openffc(){
+        $('#ffc-pre-user').addClass('hide');
+        $('#ffc1').removeClass('hide');
+        $('#friend-connection').foundation('reveal','open');
+    }
+
+    function openIpadFFC()
+    {
+        var newvar = document.URL.split("?")[1];
+        if(newvar){
+            var couponarray = newvar.split('=');
+            var tempstr = couponarray[1].split('&');
+            if(tempstr[0]=='openffc')
+            {
+                $('#friend-connection').foundation('reveal','open');
+                $('#connectf').click();
+            }
+        }
+    }
+
+    window.addEventListener('load',openIpadFFC,false);
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
+<script type="text/javascript" src="http://www.donebynone.com/js/donebynone/all-in-one.js" ></script>
+
+<!-- giveter script -->
+<script type="text/javascript" src="/js/donebynone/marketing.js"></script>
+<script type="text/javascript">giveterTracker("false");</script>
+</body>
+<html>
+

@@ -1,0 +1,1949 @@
+<!doctype html>
+<!--[if lt IE 7]> 
+<html class="no-js ie6 oldie" id="in" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 7]>    
+<html class="no-js ie7 oldie" id="in" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 8]>    
+<html class="no-js ie8 oldie" id="in" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 9]>    
+<html class="no-js ie9" id="in" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if gt IE 9]><!--> 
+<html class="no-js" id="in"> <!--<![endif]-->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Online Shopping For Office Supplies, Online Stationery Store -OfficeYes</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="google-site-verification" content="ySLxIcjobD_l7kGiaKMXs-CmhnplY8DDtnyhcrYrCh4" />
+    <meta name="description" content="OfficeYes is India&amp;#039;s #1 supplier of Office Stationery and Office Supplies online such as Office Furniture, Corporate Gifts, Ink Cartridges, Computers and more. Buy at Wholesale Rates." />
+    <meta name="keywords" content="Online Shopping India, buy office supplies, paper products, Ink cartridges &amp;amp; toner, Office machines, computing equipment, customized stationery, Office Furniture, Corporate Gifting, Stationery Vendors,  
+stationery Suppliers," />
+                
+<link rel="canonical" href="http://www.officeyes.com/" />
+        
+<link rel="icon" href="/images/local/favicon.ico" type="image/x-icon" />
+    
+<link rel="shortcut icon" href="/images/local/favicon.ico" type="image/x-icon" />
+
+<link rel="apple-touch-icon" href="/images/local/oy_apple_fav.png" />
+
+            <meta property="og:title" content="Online Shopping For Office Supplies, Online Stationery Store -OfficeYes"/>        <meta property="og:type" content="product"/>        <meta property="og:image" content="http://static.officeyes.com/images/logo.jpg"/>        <meta property="og:description" content="OfficeYes is India&#039;s #1 supplier of Office Stationery and Office Supplies online such as Office Furniture, Corporate Gifts, Ink Cartridges, Computers and more. Buy at Wholesale Rates."/>                <!--pankaj bisht /:1-->
+        
+                                    
+<link rel="stylesheet" type="text/css" href="http://static.officeyes.com/css/live/alice-min-home.1422035989.css" media="all" />
+                                        
+    
+    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEV1NWGwAGVldUBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+                                                        <script src="http://static.officeyes.com/js/live/alice-home-1422036012.js" type="text/javascript"></script>
+                                                <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31019702-1']);
+  _gaq.push(['_setDomainName', 'officeyes.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setCustomVar', 1, 'Navigation', 'V2_Horizontal_Nav', 2]);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="l-full-hd ui-page-bg  thm-core thm-core_home thm-multistore thm-local_home thm-local thm-local_home_multistore  l-hasSidebar l-flipped abtest-horizontal_nav">
+
+<div id="page" class="l-page">
+    <!--  FLOAT CAMPAIGN LINK -->
+<div id="fl_menu_left">
+</div>
+<!-- float campaign link - end here  -->
+<header id="header" class="FntArial fsm horizontal_nav CallMeActive">
+    <div class="HdrMeta1 HdrRow1">
+      <div class="l-pageWrapper Relative">
+        <ul class="HdrTopLeftLink clearfix Absolute">
+          <li class="Shipping">Safe Shipping</li>
+          <li class="Cash">Cash on Delivery</li>
+          <li class="Return">Easy Returns</li>
+          
+        </ul>
+        <div class="HotlineNumber strong">+91 7838 101010 <span class="fsxs normal">(9 a.m. to 6 p.m., Mon-Sat)</span></div>
+        <ul class="HdrTopRightLink clearfix strong Absolute">
+                        <li class=""><a class="TxtBlue mrs" 
+            href="/corporates" 
+            title="Corporate Sales">Corporate Sales</a>|&nbsp;&nbsp;</li>
+            
+            <!--li class=""><a class="TxtBlue mrs" 
+            href="/reseller" 
+            title=""></a>|&nbsp;&nbsp;</li-->
+            
+            <li class=""><a class="TxtBlue mrs" 
+            href="/what_is_officeyes" 
+            title="What is OfficeYes?">What is OfficeYes?</a>|&nbsp;&nbsp;</li>
+            
+            <li><a class="TxtBlue mrs sel-home-my-account"
+            href="/customer/account/create"
+            title="New User Register Now">
+            Register</a>|</li>
+         <li><a class="TxtBlue mls sel-login"
+          href="/customer/account/login"
+          title="Existing User Login Here">Login</a> </li>          
+        </ul>
+        
+        <p class="prd-tooltipUP" id="clickToCall">
+        <span class="l-cell msg pvs phm normal fsm txtGray"><span class="ArrowUp">&nbsp;</span> Please fill out your phone number and then click on Call Me. One of our representatives will call to speak with you. <br>
+<span class="fss italic">Please note any information collected here will be used solely for this “Click to Call” experience.</span></span>
+</p>    
+        <div class="CallMeOuter">
+            </div>   
+
+      </div>
+    </div>
+    <div class="l-pageWrapper Relative HdrRow2">       
+         <div class="hdMainBar-split-testing">
+   <div class="OfficeYesLogo Absolute"><a href="/">Logo</a></div>
+
+<div class="SearchBar Absolute">
+        <div class="SearchFieldOuter">
+        <div id="ssg-loading"></div>
+        <form id="search" class="  " action="/catalog/" method="get">
+            <input type="hidden" id="category" name="category" />
+        <fieldset class="ui-searchInput-horizontal_nav">
+                    <input id="searchInput" class="ui-inputText SearchField unit sel-search-input" type="text" value="" placeholder="What are you looking for?" autocomplete="off"/>
+                    <input id="searchInputAux" name="q" type="hidden" value="" />
+     <button type="submit" name="submit" class="sel-search-button UiButtonRed Search TxtWhite unit"><span class="iconSearch fsml"><b>Search</b></span></button>
+                    <input id="baseUrl" name="baseUrl" type="hidden" value="" />
+  </fieldset>
+               </form>
+               <div id="searchSuggestResult" class="ssg-result" style="display: none;"></div>
+       </div>
+      </div>
+      <div class="mll Norton Absolute"><div class="LineHdrVertcl"></div></div>
+     <div class="Cart nav_Cart Absolute">
+      
+               
+        <p><span id="cart_link_number">0</span> Items</p>
+        <div class="IconCart"> </div>
+        <p><a id="cart_link" class="itm-link strong txtWhite" style="position:static" href="/cart/" title="My cart: 0 Items"><span>My cart</span></a></p>
+        
+                
+</div>
+
+    <div id="my-cart" class="nav_Cart" >
+<table id="hdCart_box">
+    <tbody>
+        <tr>
+            <td class="nav_pop_tl nav_pop_h"><div class="nav_pop_lr_min"></div></td>
+            <td class="nav_pop_tc nav_pop_h"><div class="arrow_down">&nbsp;</div></td>
+            <td class="nav_pop_tr nav_pop_h"><div class="nav_pop_lr_min"></div></td>
+        </tr>
+        <tr>
+        <td class="nav_pop_cl nav_pop_v"></td>
+        <td class="nav_pop_cc ap_content">
+        <div class="messageBarContainer txtDarkGray">
+        MY CART LIST        <div id="messageBarCart"></div>
+        </div>
+        <table >
+        <tbody>
+        <tr>
+        <td>
+        <div id="my-cart-items" class="hdCart_items_container">
+        <script type="text/javascript">
+setTimeout(function(){
+$(".last_added_txt").hide(); 
+$(".last_added").removeClass("last_added");
+}, 2000);
+</script>
+
+        </div>
+        </td>
+        <tr>
+        <td >
+                <span class ="cart-total-row mtm ptm ui-borderTopDotted ">
+                    <span id="cart-subtotal-label" class="cart-total-label ">Subtotal for (0) item</span>
+                    <span id="cart-subtotal-value" class="cart-total-value txtRed">&#x20b9; 0</span>
+                </span>
+        </td>
+        </tr>
+        <tr>
+        <td >
+                <span class="cart-total-row">
+        <span id="cart-shipping-label" class="cart-total-label txtGreen">Shipping</span>
+        <span id="cart-shipping-value" class="cart-total-value txtGreen">Free</span>
+        </span>
+                            <span class="cart-total-row" style="display:none;" id="surcharge-main-div">
+                <span id="cart-surcharge-label-disable" class="cart-total-label">Surcharge</span>
+                <span id="cart-surcharge-value-disable" class="cart-total-value">&#x20b9; 0</span>
+            </span>
+                            <span class="cart-total-row" style="display:none;" id="loading-charge-main-div">
+                <span id="cart-loading-charge-label-disable" class="cart-total-label">Loading Charge</span>
+                <span id="cart-loading-charge-value-disable" class="cart-total-value">&#x20b9; 0</span>
+            </span>
+                </td>
+        </tr>
+
+                <tr>
+        <td id="b2cMinimumOrderValueMsg" style="color: #FF0000;">
+                </td>
+        </tr>
+        
+        <tr>
+                <td>
+                    <span class="cart-total-row mtm ptm ui-borderTopDotted final">
+                        <span id="cart-total-label" class="cart-total-label cart-total-sum-label txtRed">Estimated Total</span>
+                        <span id="cart-total-value" class="cart-total-value cart-total-sum-value txtRed">&#x20b9; 0</span>
+                    </span>
+                <span class="cart-total-row">
+                        <span class="cart-total-label">&nbsp;</span>
+                        <span class="cart-total-value vat">VAT excl.</span>
+                </span>
+             </td>
+        </tr>
+        <tr>
+                <td >
+                    <p class="prd-tooltipUPCartFloat" id="checkout-tooltip-top"  style="display: none;">
+                    <span id="checkout-tooltip-top-msg" class="l-cell msg pvs phm normal fsm txtGray "></span><span class="ArrowUp">&nbsp;</span>
+                    </p>
+                                        <a id="cartFloatCheckout" class="rfloat ui-button ui-buttonArrow" href="/checkout/index" style="margin-top: 10px;">
+                    <span>
+                    Checkout                    </span>
+                    </a>
+                </td>
+        </tr>
+        <tr>
+                <td >
+                <a class="rfloat txtRed" href="/cart/">
+                <span>
+                or Edit/View Cart                </span>
+                </a>
+                </td>
+        </tr>
+        </tbody>
+      </table>
+   </td>
+    <td class="nav_pop_cr nav_pop_v"></td>
+   </tr>
+    <tr>
+        <td class="nav_pop_bl nav_pop_v"></td>
+        <td class="nav_pop_bc nav_pop_h"></td>
+        <td class="nav_pop_br nav_pop_v"></td>
+    </tr>
+    </tbody>
+</table>
+
+
+</div>
+<input type="hidden" value="1" id="fastCart"/><input type="hidden" value="0" id="expandableCart"/>        </div>
+
+        
+<script type="text/javascript">
+        $(document).ready(function(){
+            $("#searchCategory").selectbox();
+            var curItem = jQuery(".ui-searchInput [class*=-currentItem]");
+            if(curItem.text().length>16){
+            curItem.text(curItem.text().substr(0, 14)+"...");
+            }
+            $("#messageBarCart").hide();
+            $(".nav_Cart").hover(
+                function(){
+                    if ($('#expandableCart').val() == 1){
+                        $("#hdCart_box").show();
+                    }
+                },
+                function(){
+                    $("#hdCart_box").hide();
+                }
+            );
+
+
+            
+});
+
+    /*    jquery part to show social plugin start here  */
+    if($('#fl_menu').position())
+            var menuPosition=$('#fl_menu').position().top;
+        else
+            var menuPosition= 0;
+        
+    if ( $('#fl_menu_left').size() > 0 ) {  
+        var menuPositionLeft=$('#fl_menu_left').position().top;
+   }
+    
+    function FloatMenu()
+    {
+    var animationSpeed=1000;
+    var animationEasing='easeOutQuint';
+    var scrollAmount=$(document).scrollTop();
+    var newPosition=menuPosition+scrollAmount;
+    if (menuPosition!=undefined){
+    if($(window).height()<$('#fl_menu').height()+$('#fl_menu .menu').height()){
+    $('#fl_menu').css('top',menuPosition);
+    } else {
+    $('#fl_menu').stop().animate({top: newPosition}, animationSpeed, animationEasing);
+    }
+    }
+    if (menuPositionLeft!=undefined){
+    if($(window).height()<$('#fl_menuleft').height()+$('#fl_menu_left .menu').height()){
+    $('#fl_menu_left').css('top',menuPosition);
+    } else {
+    $('#fl_menu_left').stop().animate({top: newPosition}, animationSpeed, animationEasing);
+    }
+    }
+    }
+    
+    
+    $(window).load(function() {
+    //menuPosition=$('#fl_menu').position().top;
+    FloatMenu();
+    });
+    $(window).scroll(function () { 
+    FloatMenu();
+    });
+    /*    jquery part to show social plugin end here  */
+</script>
+    </div>
+    <div class="l-pageWrapper Relative HdrRow3" style="z-index:509">
+    <div class="TopNavigation clearfix">
+<!--MegaMenu Starts-->
+<div class="megamenudiv clearfix" id="scroller">
+<ul class="megamenu clearfix" >
+      <li class="mm-item"><a href="/" class="mm-item-link Home active">&nbsp;</a></li>
+                          
+          <li class="mm-item">
+                <a href="/paper_products/" id="cat_313" class="mm-item-link fsm sel-cat-paper_products">
+        <span class="nav-subTxt">Paper products</span>
+        </a>
+                <div class="item-content paper_products">
+          <div class="category-image"><img src="http://static.officeyes.com/cms/paper-product-menu-bg-22-january.jpg" align="right" /></div>            
+     <ul class="MenuColUL">
+         <li class="MenuCol1 MenuCol">
+    <p class="MenuHeading">Shop By Categories</p>
+        <ul class="RedBullet">
+                                                                                                                            <li><a href="/paper_products/accounting_books_forms/">Accounting&nbsp;Books&nbsp;&&nbsp;Forms</a></li>
+                                                                                                                                                                            <li><a href="/paper_products/business_books_forms/">Business&nbsp;Books&nbsp;&&nbsp;Forms</a></li>
+                                                                                                                                                                            <li><a href="/paper_products/diaries_notebooks_notepads/">Diaries,Notebooks&nbsp;&&nbsp;Notepads</a></li>
+                                                                                                                                                                            <li><a href="/paper_products/paper_card/">Paper&nbsp;&&nbsp;Card</a></li>
+                                                                                                                                                                            <li><a href="/paper_products/printer_paper/">Printer&nbsp;paper</a></li>
+                                                                                </ul>
+                </li>
+                                       <li class="MenuCol3 MenuCol">
+      <p class="MenuHeading">Shop By Verticals</p>
+<ul>
+<li><a href="/paper_products/diaries_notebooks_notepads/">Diaries Notebooks Notepads</a></li>
+</ul>        </li>
+                <li class="MenuCol4 MenuCol lastLine">
+        <p class="MenuHeading">Shop By Brands</p>
+<ul>
+<li><a href="/paper_products/bilt/">Bilt</a></li>
+<li><a href="/paper_products/citizen/">Citizen</a></li>
+<li><a href="/paper_products/lotus/">Lotus</a></li>
+<li><a href="/paper_products/mpa/">MPA</a></li>
+<li><a href="/paper_products/moleskin/">Moleskin</a></li>
+<li><a href="/paper_products/nightingale/">Nightingale</a></li>
+<li><a href="/paper_products/paperkraft/">Paperkraft</a></li>
+</ul>        </li>
+                      </ul>
+           </div>
+          </li>
+                                       
+          <li class="mm-item">
+                <a href="/office_supplies/" id="cat_341" class="mm-item-link fsm sel-cat-office_supplies">
+        <span class="nav-subTxt">Office supplies</span>
+        </a>
+                <div class="item-content office_supplies">
+          <div class="category-image"><img src="http://static.officeyes.com/cms/office-supplies-menu-bg-21-january.gif" align="right" /></div>            
+     <ul class="MenuColUL">
+         <li class="MenuCol1 MenuCol">
+    <p class="MenuHeading">Shop By Categories</p>
+        <ul class="RedBullet">
+                                                                                                                            <li><a href="/office_supplies/desk_accessories/">Desk&nbsp;accessories</a></li>
+                                                                                                                                                                            <li><a href="/office_supplies/desk_stationery/">Desk&nbsp;stationery</a></li>
+                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/office_supplies/envelopes_bags/">Envelopes&nbsp;&&nbsp;Bags</a></li>
+                                                                                                                                                                                                                                                                            <li><a href="/office_supplies/exhibition_conference/">Exhibition&nbsp;&&nbsp;Conference</a></li>
+                                                                                                                                                                            <li><a href="/office_supplies/filing_and_archive/">Filing&nbsp;and&nbsp;Archive</a></li>
+                                                                                                                                                                            <li><a href="/office_supplies/labels/">Labels</a></li>
+                                                                                                                                                                            <li><a href="/office_supplies/meeting_presentation/">Meeting&nbsp;&&nbsp;Presentation</a></li>
+                                                                                                                                                                            <li><a href="/office_supplies/packaging_supplies/">Packaging&nbsp;Supplies</a></li>
+                                                                                                                                                                                                                                                                            <li><a href="/office_supplies/pens_pencils_and_markers/">Pens,&nbsp;Pencils&nbsp;and&nbsp;Markers</a></li>
+                                                                                                                                                                                </ul>
+                </li>
+                                       <li class="MenuCol3 MenuCol">
+      <p class="MenuHeading">Shop By Verticals</p>
+<ul>
+<li><a href="/office_supplies/desk_accessories/">Desk Accessories</a></li>
+</ul>        </li>
+                <li class="MenuCol4 MenuCol lastLine">
+        <p class="MenuHeading">Shop By Brands</p>
+<ul>
+<li><a href="/office_supplies/3m/">3M</a></li>
+<li><a href="/office_supplies/apex/">Apex</a></li>
+<li><a href="/office_supplies/camlin/">Camlin</a></li>
+<li><a href="/office_supplies/classmate/">Classmate</a></li>
+<li><a href="/office_supplies/cross/">Cross</a></li>
+<li><a href="/office_supplies/deli/">Deli</a></li>
+<li><a href="/office_supplies/faber-castell/">Faber Castell</a></li>
+<li><a href="/office_supplies/generic/">Generic</a></li>
+</ul>        </li>
+                      </ul>
+           </div>
+          </li>
+                                       
+          <li class="mm-item">
+                <a href="/technology/" id="cat_606" class="mm-item-link fsm sel-cat-technology">
+        <span class="nav-subTxt">Technology</span>
+        </a>
+                <div class="item-content technology">
+          <div class="category-image"><img src="http://static.officeyes.com/cms/technology-18Feb.jpg" align="right" /></div>            
+     <ul class="MenuColUL">
+         <li class="MenuCol1 MenuCol">
+    <p class="MenuHeading">Shop By Categories</p>
+        <ul class="RedBullet">
+                                                                                                                                                                                                                            <li><a href="/technology/accessories/">Accessories</a></li>
+                                                                                                                                                                            <li><a href="/technology/storage-devices/">Storage&nbsp;Devices</a></li>
+                                                                                                                                                                            <li><a href="/technology/printers-scanners-faxes/">Printers,&nbsp;Scanners&nbsp;&&nbsp;Faxes</a></li>
+                                                                                                                                                                                                                                                                                                                                                                            <li><a href="/technology/office_machines/">Office&nbsp;Machines</a></li>
+                                                                                                                                                                            <li><a href="/technology/power-devices/">Power&nbsp;Devices</a></li>
+                                                                                                                                                                                                                                                                            <li><a href="/technology/technology-combo/">Technology&nbsp;Combo</a></li>
+                                                                                </ul>
+                </li>
+                                       <li class="MenuCol3 MenuCol">
+      <p class="MenuHeading">Shop By Price</p>
+<ul>
+<li><a href="/technology/?price=*-100">0-100</a></li>
+<li><a href="/technology/?price=100-500">100-500</a></li>
+<li><a href="/technology/?price=500-1000">500-1000</a></li>
+<li><a href="/technology/?price=1000-*">Above 1000</a></li>
+</ul>        </li>
+                <li class="MenuCol4 MenuCol lastLine">
+        <p class="MenuHeading">Shop By Brands</p>
+<ul>
+<li><a href="/technology/apple/">Apple</a></li>
+<li><a href="/technology/karbonn/">Karbonn</a></li>
+<li><a href="/technology/micromax/">Micromax</a></li>
+<li><a href="/technology/nokia/">Nokia</a></li>
+<li><a href="/technology/samsung/">Samsung</a></li>
+<li><a href="/technology/sony/">Sony</a></li>
+<li><a href="/technology/zync/">Zync</a></li>
+</ul>        </li>
+                      </ul>
+           </div>
+          </li>
+                                       
+          <li class="mm-item">
+                <a href="/ink_cartridges_toner/" id="cat_287" class="mm-item-link fsm sel-cat-ink_cartridges_toner">
+        <span class="nav-subTxt">Ink cartridges & toner</span>
+        </a>
+                <div class="item-content ink_cartridges_toner">
+          <div class="category-image"><img src="http://static.officeyes.com/cms/ink-cartridges-menu-bg-21-january.jpg" align="right" /></div>            
+     <ul class="MenuColUL">
+         <li class="MenuCol1 MenuCol">
+    <p class="MenuHeading">Shop By Categories</p>
+        <ul class="RedBullet">
+                                                                                                                            <li><a href="/ink_cartridges_toner/canon/">Canon</a></li>
+                                                                                                                                                                            <li><a href="/ink_cartridges_toner/epson_/">Epson</a></li>
+                                                                                                                                                                            <li><a href="/ink_cartridges_toner/hp/">HP</a></li>
+                                                                                                                                                                                                                                                                                </ul>
+                </li>
+                                       <li class="MenuCol3 MenuCol">
+      <p class="MenuHeading">Shop By Price</p>
+<ul>
+<li><a href="/ink_cartridges_toner/?sort=price&dir=asc&--page--">Low to High</a></li>
+<li><a href="/ink_cartridges_toner/?sort=price&dir=desc&--page--">Low to High</a></li>
+</ul>        </li>
+                <li class="MenuCol4 MenuCol lastLine">
+        <p class="MenuHeading">Shop By Brands</p>
+<ul>
+<li><a href="/ink_cartridges_toner/canon_/">Canon</a></li>
+<li><a href="/ink_cartridges_toner/h_p/">HP</a></li>
+<li><a href="/ink_cartridges_toner/impression/">Impression</a></li>
+</ul>        </li>
+                      </ul>
+           </div>
+          </li>
+                                                
+          <li class="mm-item">
+                <a href="/facilities/" id="cat_2" class="mm-item-link fsm sel-cat-facilities">
+        <span class="nav-subTxt">Facilities</span>
+        </a>
+                <div class="item-content facilities">
+          <div class="category-image"><img src="http://static.officeyes.com/cms/facility-menu-bg-21-january.jpg" align="right" /></div>            
+     <ul class="MenuColUL">
+         <li class="MenuCol1 MenuCol">
+    <p class="MenuHeading">Shop By Categories</p>
+        <ul class="RedBullet">
+                                                                                                                                                                                                                            <li><a href="/facilities/cleaning_janitorial/">Cleaning&nbsp;&&nbsp;Janitorial</a></li>
+                                                                                                                                                                                </ul>
+                </li>
+                                       <li class="MenuCol3 MenuCol">
+      <p class="MenuHeading">Shop By price</p>
+<ul>
+<li><a href="http://www.officeyes.com/facilities/?price=*-100">0-100</a></li>
+<li><a href="http://www.officeyes.com/facilities/?price=100-500">100-500</a></li>
+<li><a href="http://www.officeyes.com/facilities/?price=500-1000">500-1000</a></li>
+<li><a href="http://www.officeyes.com/facilities/?price=1000-*">Above 1000</a></li>
+</ul>        </li>
+                <li class="MenuCol4 MenuCol lastLine">
+        <p class="MenuHeading">Shop By Brands</p>
+<ul>
+<li><a href="/facilities/air-show/">Air Show</a></li>
+<li><a href="/facilities/airwick/">Airwick</a></li>
+<li><a href="/facilities/freelance/">Freelance</a></li>
+<li><a href="/facilities/georgia/">Georgia</a></li>
+<li><a href="/facilities/jay/">Jay</a></li>
+<li><a href="/facilities/lizol/">Lizol</a></li>
+<li><a href="/facilities/skyline/">Skyline</a></li>
+<li><a href="/facilities/ultra/">Ultra</a></li>
+</ul>        </li>
+                      </ul>
+           </div>
+          </li>
+                                                          
+        </ul>
+<!--MegaMenu Ends-->      
+</div>
+</div>    
+    
+<script>
+$(document).ready(function(){
+
+var div = $('div.megamenudiv'),
+    ul= $('ul.megamenu');
+
+// Get menu width
+var divWidth = div.width();
+
+// Find last image container
+var lastLi  = ul.find('li.mm-item:last-child');
+var ulWidth = lastLi[0].offsetLeft + lastLi.outerWidth() - 5;
+    
+if ($('html').hasClass('ie7')==false){
+
+    // If megamenu is bigger than container
+    if (ulWidth > divWidth){
+    ul.css('width',ulWidth);
+
+    ul.hoverscroll({
+vertical      : false,
+width         : 938,
+height        : 29,
+arrows        : false,
+arrowsOpacity : 0.7,
+    fixedArrows   : false,
+rtl           : false,
+debug         : false
+});
+
+    div.css('overflow','visible');
+    }
+
+} else {
+
+size = $('ul.megamenu a.mm-item-link').css('font-size').replace('px','');
+ul.css('width',ulWidth);
+
+while (ulWidth > divWidth){
+size--;
+$('ul.megamenu a.mm-item-link').css('font-size',size);
+ulWidth = lastLi[0].offsetLeft + lastLi.outerWidth();
+
+}
+
+if (ulWidth > divWidth){
+ul.css('width',ulWidth);
+} else {
+ul.css('width',divWidth);
+}
+
+div.css('overflow','visible');
+}
+
+$(".megamenu").megamenu();
+        var stickyPanelOptions = {
+        topPadding: 0,
+        afterDetachCSSClass: "sticky_menu",
+        savePanelSpace: true
+      };
+        $("#scroller").stickyPanel(stickyPanelOptions);
+    
+        });
+</script>
+    </div>
+</header>
+
+    <div id="content" role="main">
+        <div></div>        <div class="l-pageWrapper">
+    <div class="l-main">
+        
+        <div id="Slideshow" class="hpSlideshow horizontal_nav">
+            <div class="hpSlideshowNav"></div>
+        <div class="hpSlideshowControls">
+                <a class="ui-buttonPrevSlide ui-buttonFit-l" href="#" title=""><div class="icon i-slidePrev hiddenText">next</div></a>
+                <a class="ui-buttonNextSlide ui-buttonFit-r" href="#" title=""><div class="icon i-slideNext hiddenText">prev</div></a>
+            </div>
+            <div class="hpSlideshowSlides box box-bdr">
+           <a href="/stationery-supplies/" ><img src="http://static.officeyes.com/cms/office-supplies-5June-722.jpg" alt="Office Supplies Upto 65% off" /></a>            </div>
+        </div>
+        
+        <style type="text/css" media="all">
+
+.thm-multistore #content{padding-top:0px;}
+#content{padding-bottom:0px;}
+.cms-staticpage{padding:0px !important; width:946px !important; border:none!important;}
+
+</style>
+
+<div>
+<table width="100%" border="0" cellpadding="5" cellspacing="0" class="LandingOuter mtm ">
+      
+      <tr>
+        <td height="44" align="center"><a href="/office_supplies/desk_stationery/"><img src="http://static.officeyes.com/cms/MegaSale/desk-stationery-home-23.jpg" alt="View All Desk Stationery" border="0" /></a></td>
+        <td align="center"><a href="/ink_cartridges_toner/"><img src="http://static.officeyes.com/cms/MegaSale/ink-toner-23.jpg" alt="INK Toner & Cartridge"  border="0" /></a></td>
+        <td align="center"><a href="/office_supplies/paper_products/"><img src="http://static.officeyes.com/cms/MegaSale/paper-products-23.jpg" alt="View All Paper Products" border="0" /></a></td>
+        <!--td align="center"><a href="/office_supplies/pens_pencils_and_markers/"><img src="http://static.officeyes.com/cms/MegaSale/pens-pencials-23.jpg" alt="Pen, Pecils & Markers" border="0"  /></a></td-->
+      </tr>
+      <tr>
+        <td height="10"> </td>
+        <td> </td>
+        <td> </td>
+        <!--td> </td-->
+      </tr>
+      <tr>
+        <td height="44" align="center"><a href="/office_supplies/desk_accessories/"><img src="http://static.officeyes.com/cms/MegaSale/desk-accessories-home-15March.jpg" alt="View All Desk Accessories" border="0" /></a></td>
+        <!--td align="center"><a href="/office_supplies/filing_and_archive/"><img src="http://static.officeyes.com/cms/MegaSale/filing-archive-23.jpg" alt="View All Filing Archive" border="0" /></a></td-->
+        <td align="center"><a href="/office_supplies/meeting_presentation/"><img src="http://static.officeyes.com/cms/MegaSale/meeting-28.jpg" alt="View All Meeting & Presentation" border="0" /></a></td>
+        <td align="center"><a href="/office_supplies/diaries_notebooks_notepads/"><img src="http://static.officeyes.com/cms/MegaSale/diaries-22April.jpg" alt="View All Notebook & Diaries" border="0" /></a></td>
+      </tr>
+
+
+ <tr>
+        <td height="10"> </td>
+        <td> </td>
+        <td> </td>
+        <!--td> </td-->
+      </tr>
+
+      <tr>
+        <td colspan="3" align="center"><a href="/stationery-supplies/"><img src="http://static.officeyes.com/cms/MegaSale/landing-05-07-13.jpg" alt="Save BIG on every Stationery Sale Upto 65% off" width="700" style="border: 1px solid BLACK" /></a></td>
+        </tr>
+
+
+    </table>
+</div>
+<br>        
+        <div id="productsCatalog">
+            <section class="box clearfix productTeaserBox">
+    
+<header class="header">
+        <div class="ui-borderBottom clearfix">
+            <div class="lfloat h3">Office Supplies</div>
+            <a class="rfloat icon i-arrowRight strong mts" href="/office_supplies/">View All Office Supplies</a>        </div>
+    </header>
+    <div class="content">
+        <ul class="itmSimpleList mbl clearfix">
+                        
+
+<li id="3M008OS56CDNINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="3M008OS56CDNINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Scotch-Magic-Tape-19mm-x-329mm-Blister-Pack-1443.html" title="Scotch Magic Tape 19mm x 32.9mm Blister Pack">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-3M008OS56CDNINSTA" id="http://static.officeyes.com/p/3m-2310-3441-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/3m-2310-3441-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">3M</span>
+            <em class="itm-title">
+                Scotch Magic Tape 19mm x 32.9mm Blister Pack            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 104.76</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="CA078OS61FCGINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="CA078OS61FCGINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Glue-Bottle-300ml-7834216-3438.html" title="Glue Bottle 300ml (7834216)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-CA078OS61FCGINSTA" id="http://static.officeyes.com/p/camel-7377-8343-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/camel-7377-8343-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">Camel</span>
+            <em class="itm-title">
+                Glue Bottle 300ml (7834216)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 31.11</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="KA020OS29BWWINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="KA020OS29BWWINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Stapler-No10-For-10-NoPin-HD-10-1270.html" title="Stapler No.10 For 10 No.Pin (HD-10)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-KA020OS29BWWINSTA" id="http://static.officeyes.com/p/kangaro-1192-0721-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/kangaro-1192-0721-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">Kangaro</span>
+            <em class="itm-title">
+                Stapler No.10 For 10 No.Pin (HD-10)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 26.25</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="3M008PP39FWIINSTA" class="itm hasOverlay unit size1of4 last lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="3M008PP39FWIINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Post-It-Note-3x3-100-sheets-3960.html" title="Post-It Note 3&quot;x3&quot; (100 sheets)">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-3M008PP39FWIINSTA" id="http://static.officeyes.com/p/3m-9513-0693-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/3m-9513-0693-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/3m-9513-0693-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">3M</span>
+            <em class="itm-title">
+                Post-It Note 3"x3" (100 sheets)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 47.62</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+        </ul>
+    </div>
+</section><section class="box clearfix productTeaserBox">
+    
+<header class="header">
+        <div class="ui-borderBottom clearfix">
+            <div class="lfloat h3">Ink Cartridges & Toner</div>
+            <a class="rfloat icon i-arrowRight strong mts" href="/ink_cartridges_toner/">View All Ink Cartridges & Toner</a>        </div>
+    </header>
+    <div class="content">
+        <ul class="itmSimpleList mbl clearfix">
+                        
+
+<li id="HP002IT94BEZINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="HP002IT94BEZINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/26-Black-Ink-Cartridge-51626AA-805.html" title="26 Black Ink Cartridge (51626AA)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-HP002IT94BEZINSTA" id="http://static.officeyes.com/p/h_p-6983-508-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/h_p-6983-508-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">HP</span>
+            <em class="itm-title">
+                26 Black Ink Cartridge (51626AA)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 1,651.43</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="HP002IT93BFAINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="HP002IT93BFAINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/29-Black-Large-Ink-Cartridge-51629AA-806.html" title="29 Black Large Ink Cartridge (51629AA)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-HP002IT93BFAINSTA" id="http://static.officeyes.com/p/h_p-6964-608-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/h_p-6964-608-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">HP</span>
+            <em class="itm-title">
+                29 Black Large Ink Cartridge (51629AA)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 1,651.43</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="HP002IT91BFCINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="HP002IT91BFCINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/40A-Black-Ink-Cartridge-51640AA-808.html" title="40A Black Ink Cartridge (51640AA)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-HP002IT91BFCINSTA" id="http://static.officeyes.com/p/h_p-6929-808-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/h_p-6929-808-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">HP</span>
+            <em class="itm-title">
+                40A Black Ink Cartridge (51640AA)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 1,746.80</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="HP002IT86BFHINSTA" class="itm hasOverlay unit size1of4 last lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="HP002IT86BFHINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/44-Cyan-Ink-Cartridge-51644CA-813.html" title="44 Cyan Ink Cartridge (51644CA)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-HP002IT86BFHINSTA" id="http://static.officeyes.com/p/h_p-6846-318-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/h_p-6846-318-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">HP</span>
+            <em class="itm-title">
+                44 Cyan Ink Cartridge (51644CA)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 1,559.05</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+        </ul>
+    </div>
+</section><section class="box clearfix productTeaserBox">
+    
+<header class="header">
+        <div class="ui-borderBottom clearfix">
+            <div class="lfloat h3">Pen, Pencils & Markers</div>
+            <a class="rfloat icon i-arrowRight strong mts" href="/pens_pencils_and_markers/">View All Pen, Pencils & Markers</a>        </div>
+    </header>
+    <div class="content">
+        <ul class="itmSimpleList mbl clearfix">
+                        
+
+<li id="RE030OS37CICINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="RE030OS37CICINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/045-Ball-Pen-pack-of-10-1562.html" title="045 Ball Pen (pack of 10)">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-RE030OS37CICINSTA" id="http://static.officeyes.com/p/reynolds-4504-2651-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/reynolds-4504-2651-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/reynolds-4504-2651-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">Reynolds</span>
+            <em class="itm-title">
+                045 Ball Pen (pack of 10)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 51.25</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="RE030OS30CIJINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="RE030OS30CIJINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Racer-Gel-Pen-Pack-of-10-1569.html" title="Racer Gel Pen (Pack of 10)">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-RE030OS30CIJINSTA" id="http://static.officeyes.com/p/reynolds-8918-9651-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/reynolds-8918-9651-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/reynolds-8918-9651-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">Reynolds</span>
+            <em class="itm-title">
+                Racer Gel Pen (Pack of 10)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 88.75</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="RE030OS25DJMINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="RE030OS25DJMINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Whiteboard-Marker-2274.html" title="Whiteboard Marker">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-RE030OS25DJMINSTA" id="http://static.officeyes.com/p/reynolds-1499-4722-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/reynolds-1499-4722-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/reynolds-1499-4722-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">Reynolds</span>
+            <em class="itm-title">
+                Whiteboard Marker            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 23.75</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="LU024OS13CQSINSTA" class="itm hasOverlay unit size1of4 last lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="LU024OS13CQSINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/921-Sign-Marker-Pen-Pack-of-10-1786.html" title="921 Sign Marker Pen (Pack of 10)">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-LU024OS13CQSINSTA" id="http://static.officeyes.com/p/luxor-6722-6871-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/luxor-6722-6871-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/luxor-6722-6871-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">Luxor</span>
+            <em class="itm-title">
+                921 Sign Marker Pen (Pack of 10)            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 52.50</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+        </ul>
+    </div>
+</section><section class="box clearfix productTeaserBox">
+    
+<header class="header">
+        <div class="ui-borderBottom clearfix">
+            <div class="lfloat h3">Paper Products</div>
+            <a class="rfloat icon i-arrowRight strong mts" href="/office_supplies/paper_products/">View All Paper Products</a>        </div>
+    </header>
+    <div class="content">
+        <ul class="itmSimpleList mbl clearfix">
+                        
+
+<li id="BI044OS61DTQINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="BI044OS61DTQINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Matrix-B5-Black-PP-Single-Rule-Spiral-Notebook-1-Subject-Section-notebook-160Pages-2538.html" title="Matrix B5 Black PP Single Rule Spiral Notebook , 1 Subject/ Section notebook (160Pages)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-BI044OS61DTQINSTA" id="http://static.officeyes.com/p/bilt-5843-8352-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/bilt-5843-8352-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">BILT</span>
+            <em class="itm-title">
+                Matrix B5 Black PP Single Rule Spiral Notebook , 1 Subjec...            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 123.80</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="BI044OS60DTRINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="BI044OS60DTRINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Matrix-A5-Black-PP-Single-Rule-Spiral-Notebook-1-Subject-Section-notebook-160Pages-2539.html" title="Matrix A5 Black PP Single Rule Spiral Notebook , 1 Subject/ Section notebook (160Pages)">
+        <span class="lazyImage" >
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-BI044OS60DTRINSTA" id="http://static.officeyes.com/p/bilt-2376-9352-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/bilt-2376-9352-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">BILT</span>
+            <em class="itm-title">
+                Matrix A5 Black PP Single Rule Spiral Notebook , 1 Subjec...            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 95.24</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay narrow">
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="BI044PP18FXDINSTA" class="itm hasOverlay unit size1of4  lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="BI044PP18FXDINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Matrix-A5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3981.html" title="Matrix A5 Black PP Single Rule Spiral Notebook 5 Subject/ Section Notebook (300Pages)">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-BI044PP18FXDINSTA" id="http://static.officeyes.com/p/bilt-2378-1893-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/bilt-2378-1893-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/bilt-2378-1893-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">BILT</span>
+            <em class="itm-title">
+                Matrix A5 Black PP Single Rule Spiral Notebook 5 Subject/...            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 137.14</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay ">
+                <ul class="itm-moreImages ui-borderRight phs">
+                        <li>
+                <a href="/Matrix-A4-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3979.html" onmouseout="catalog.resetImage('BI044PP18FXDINSTA');" onmouseover="catalog.swapImage('BI044PP18FXDINSTA','http://static.officeyes.com/p/bilt-3177-9793-1-catalog.jpg');">
+                    <img width="44" height="44" src="http://static.officeyes.com/p/bilt-3177-9793-1-gallery.jpg" alt=''/>
+                </a>
+            </li>
+                        <li>
+                <a href="/Matrix-B5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3980.html" onmouseout="catalog.resetImage('BI044PP18FXDINSTA');" onmouseover="catalog.swapImage('BI044PP18FXDINSTA','http://static.officeyes.com/p/bilt-5677-0893-1-catalog.jpg');">
+                    <img width="44" height="44" src="http://static.officeyes.com/p/bilt-5677-0893-1-gallery.jpg" alt=''/>
+                </a>
+            </li>
+                        <li>
+                <a href="/Matrix-A5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3981.html" onmouseout="catalog.resetImage('BI044PP18FXDINSTA');" onmouseover="catalog.swapImage('BI044PP18FXDINSTA','http://static.officeyes.com/p/bilt-2378-1893-1-catalog.jpg');">
+                    <img width="44" height="44" src="http://static.officeyes.com/p/bilt-2378-1893-1-gallery.jpg" alt=''/>
+                </a>
+            </li>
+                    </ul>
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+
+
+<li id="BI044PP19FXCINSTA" class="itm hasOverlay unit size1of4 last lastrow">
+  <div class="itm-decoration">
+        
+    
+    <div class="quickviewZoom itm-quickview ui-button ui-buttonQuickview l-absolute pos-t" title="QuickView" data-sku="BI044PP19FXCINSTA">Quickview</div>
+
+<!--<div class="quickviewZoom itm-quickview l-absolute pos-t" title="QuickView" data-sku=""></div>-->
+
+    <a class="itm-link" href="/Matrix-B5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3980.html" title="Matrix B5 Black PP Single Rule Spiral Notebook , 5 Subject/ Section Notebook (300Pages)">
+        <span class="lazyImage" data-js-function="initMouseMove">
+            <span style="width:160px;height:160px;" class="itm-imageWrapper itm-imageWrapper-BI044PP19FXCINSTA" id="http://static.officeyes.com/p/bilt-5677-0893-1-catalog.jpg" data-itm-img-width="160" data-itm-img-height="160" data-itm-img-sprites="4">
+                <noscript><img src="http://static.officeyes.com/p/bilt-5677-0893-1-catalog.jpg" width="160" height="160" class="itm-img" alt=''></noscript>
+            </span>
+                            <span class="sprite" style="display:none">http://static.officeyes.com/p/bilt-5677-0893-sprite.jpg</span>
+                    </span>
+
+                        
+        
+                <span class="itm-titleBox ui-block">
+            <span class="itm-brand strong">BILT</span>
+            <em class="itm-title">
+                Matrix B5 Black PP Single Rule Spiral Notebook , 5 Subjec...            </em>
+        </span>
+
+                
+                        <span class="itm-priceBox">
+                        <span class="price-prefix-listing ">from </span>
+            <span class="itm-price ">&#x20b9; 164.57</span>
+                                </span>
+    </a>
+
+        <div class="itm-overlay ">
+                <ul class="itm-moreImages ui-borderRight phs">
+                        <li>
+                <a href="/Matrix-A4-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3979.html" onmouseout="catalog.resetImage('BI044PP19FXCINSTA');" onmouseover="catalog.swapImage('BI044PP19FXCINSTA','http://static.officeyes.com/p/bilt-3177-9793-1-catalog.jpg');">
+                    <img width="44" height="44" src="http://static.officeyes.com/p/bilt-3177-9793-1-gallery.jpg" alt=''/>
+                </a>
+            </li>
+                        <li>
+                <a href="/Matrix-B5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3980.html" onmouseout="catalog.resetImage('BI044PP19FXCINSTA');" onmouseover="catalog.swapImage('BI044PP19FXCINSTA','http://static.officeyes.com/p/bilt-5677-0893-1-catalog.jpg');">
+                    <img width="44" height="44" src="http://static.officeyes.com/p/bilt-5677-0893-1-gallery.jpg" alt=''/>
+                </a>
+            </li>
+                        <li>
+                <a href="/Matrix-A5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3981.html" onmouseout="catalog.resetImage('BI044PP19FXCINSTA');" onmouseover="catalog.swapImage('BI044PP19FXCINSTA','http://static.officeyes.com/p/bilt-2378-1893-1-catalog.jpg');">
+                    <img width="44" height="44" src="http://static.officeyes.com/p/bilt-2378-1893-1-gallery.jpg" alt=''/>
+                </a>
+            </li>
+                    </ul>
+        
+                        </div>
+
+    
+  </div>    
+</li>
+
+        </ul>
+    </div>
+</section>        </div>
+
+
+        <div id="Brands" class="hpBrands box box-bdr box-bgcolor">
+            <h3 class="mam pbs ui-borderBottom">SHOP BY BRANDS</h3>
+                <div class="carouselTopBrands">
+        <div class="button prev"></div>
+            <div class="jCarousel">
+            <ul>
+                                                                    <li>
+                        <a class="itm-link phm" href="3m" title="3M">
+                            <img class="itm-img" src="http://static.officeyes.com/b/3m.jpg" alt="3M" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="apple" title="Apple">
+                            <img class="itm-img" src="http://static.officeyes.com/b/apple.jpg" alt="Apple" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="bilt" title="BILT">
+                            <img class="itm-img" src="http://static.officeyes.com/b/bilt.jpg" alt="BILT" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="canon_" title="Canon">
+                            <img class="itm-img" src="http://static.officeyes.com/b/canon.jpg" alt="Canon" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="casio" title="Casio">
+                            <img class="itm-img" src="http://static.officeyes.com/b/casio.jpg" alt="Casio" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="cello" title="Cello">
+                            <img class="itm-img" src="http://static.officeyes.com/b/cello.jpg" alt="Cello" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="cross" title="Cross">
+                            <img class="itm-img" src="http://static.officeyes.com/b/cross.jpg" alt="Cross" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="deli" title="Deli">
+                            <img class="itm-img" src="http://static.officeyes.com/b/deli.jpg" alt="Deli" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="faber-castell" title="Faber-Castell">
+                            <img class="itm-img" src="http://static.officeyes.com/b/faber-castell.jpg" alt="Faber-Castell" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="h_p" title="HP">
+                            <img class="itm-img" src="http://static.officeyes.com/b/hp.jpg" alt="HP" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="jk" title="JK">
+                            <img class="itm-img" src="http://static.officeyes.com/b/jk.jpg" alt="JK" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="lotus" title="Lotus">
+                            <img class="itm-img" src="http://static.officeyes.com/b/lotus.jpg" alt="Lotus" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="moser-baer" title="Moser Baer">
+                            <img class="itm-img" src="http://static.officeyes.com/b/moser-baer.jpg" alt="Moser Baer" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="reynolds" title="Reynolds">
+                            <img class="itm-img" src="http://static.officeyes.com/b/reynolds.jpg" alt="Reynolds" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="samsung" title="Samsung">
+                            <img class="itm-img" src="http://static.officeyes.com/b/samsung.jpg" alt="Samsung" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="sony" title="Sony">
+                            <img class="itm-img" src="http://static.officeyes.com/b/sony.jpg" alt="Sony" />
+                        </a>
+                    </li>
+                                                        <li>
+                        <a class="itm-link phm" href="staedtler" title="Staedtler">
+                            <img class="itm-img" src="http://static.officeyes.com/b/staedtler.jpg" alt="Staedtler" />
+                        </a>
+                    </li>
+                                                                </ul>
+            </div>
+            <div class="button next"></div>
+   <div class="clear"></div>   
+        </div>
+        </div>
+                
+         
+           <div id="Testimonials" class="hpTestimonials box box-bdr box-bgcolor">
+               <h3 class="mam pbs ui-borderBottom">WHAT OUR CLIENTS ARE SAYING</h3>
+            <ul class="testimonialsContent clearfix">
+       <li class="fsm">
+<blockquote> The quality of work completed by the team is <strong>consistently of a high quality that meets our standards.</strong> We look forward to a continued successful relationship with your team and would be comfortable recommending you to others.
+ </blockquote>
+<span><img src="http://static.officeyes.com/cms/convergys.jpg" alt="CONVERGYS" /> Ajay Chaudhary </span> 
+</li>
+<li class="fsm">
+<blockquote> I am <strong>happy</strong> with the delivery services as committed, it was on-time. I would like to place more orders in the years to come.  <strong>A pleasure to do business with you.</strong>
+ </blockquote>
+<span><img src="http://static.officeyes.com/cms/Dena_Bank.jpg" alt="Dena Bank" /> Digamber Behera, Dena bank </span> 
+</li>
+<li class="fsm">
+<blockquote> We visited at your website and found that <strong> Excellent service, good response time and largest range of products</strong> describes it all for officeyes.com .... Simply outstanding</blockquote>
+<span><img src="http://static.officeyes.com/cms/tata.jpg" alt="Tata Climate Change" /> 
+Satish Kumar</span> 
+</li>
+            </ul>                    
+           </div>
+              
+                  <div id="SeoText" class="hpSeoText">
+               <div class="seoContent">
+<h1>OfficeYes.com - India's Largest Online Vendor for Office Supplies, Stationery Office Furniture and More!Experience Online Shopping at your Fingertips…</h1>
+
+<p><a href="http://www.officeyes.com/"><b><u>OfficeYes.com</u></b></a> OfficeYes.com is India's largest online supplier for office stationery, supplies and office equipment. We have on offer a whole suite of products like Office Stationery, Office Supplies and much more, handpicked to add value, style and functionality to every aspect and department of your business.<br><br>
+
+<b><u>Best Value = More Savings:</u></b> Because of the fact that we are online vendors, we don't have to invest in expensive retail real estate and by aggregating demand and negotiating discounts with major suppliers, we are able to provide the best value to our customers across all our categories, be it office stationery, office supplies, <a href="http://www.officeyes.com/technology/office_machines/" rel="nofollow"><b><u>office machines</u></b></a> or anything else! We also have the <a href="http://www.officeyes.com/lowest-price-guarantee/" rel="nofollow"><b>Lowest Price Guarantee</b></a> on many office products, which means that we have really worked hard to bring to you the best bargain around town. So, when you shop with us, you save more!<br><br> 
+
+<b><u>Widest Range = Better Buying Experience:</u></b> <a href="http://www.officeyes.com/" rel="nofollow"><b>Our Online Office Supplies Store</b></a> has 4000+ office products from hundreds of top brands, so there's no need for you to ever run out of the office resources your business needs. We have a fantastic selection of Office Furniture, Office Supplies,Office Stationery, <a href="http://www.officeyes.com/facilities/" rel="nofollow"><b><u>Pantry Products</u></b></a>, Office machines, <a href="http://www.officeyes.com/customised_products/" rel="nofollow"><b><u>Customized Products</u></b></a>, <a href="http://www.officeyes.com/corporate-gifts/" rel="nofollow"><b><u>Corporate Gifts</u></b></a> and much more. We are a treasure-trove of office supplies! Plus we ensure that all the products listed on our website are a selection of the latest models, newest designs and are up-to-date with technology, thereby giving you the luxury to choose from the best products simply with a click of the mouse, all from an easy-to-use website!<br><br>
+
+<b><u>Great Customer Satisfaction = Happiness Guaranteed:</u></b> Our Company understands that when businesses need office supplies they need them rapidly, via a service that is professional and hassle free. That's why our company dedicates a lot of resources towards ensuring that our delivery and customer service is truly world-class, and that our customers are always kept happy. Our Online Store also has many value-added features like <b>Multiple payment options, with the facility to pay by cash on delivery; 14-days free return policy in the rare case that you are not happy with your purchase; free express delivery for orders above Rs. 2,500; dedicated customer care helpline</b>; order tracking facility and the promise of fantastic quality every time. So every purchase you make at our Online Store, comes with the promise of Happiness Guaranteed!<br></p>
+
+<h2>Think Office Needs! Think OfficeYes.com!</h2>
+</div>
+           </div>
+           </div>
+    
+    <div class="l-sidebar">
+                            <div class="box box-bdr sidebarBox  sidebarBoxSmallSingle">
+                <a href="/corporates/"><img src="http://static.officeyes.com/cms/office-yes-rhs-banner-2.jpg" alt="" /></a>                            </div>
+                
+        <section class="box box-bdr productTeaserSidebar">
+    
+<header class="box-hd">
+        <div class="ui-borderBottom pbm">
+            <h3 style="text-align: center">TOP BUYS</h3>
+        </div>
+    </header>
+    <div class="box-bd">
+        <dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/Scissors-150mm-SL-1160-1285.html">
+                <img src="http://static.officeyes.com/p/kangaro-7891-5821-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Scissors-150mm-SL-1160-1285.html"><em class="itm-brand" style="cursor: pointer;">Kangaro</em> <em class="itm-title" style="cursor: pointer;">Scissors 150mm (SL-1160)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 53.13</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/Copier-Paper-75-GSM-FS-PAPER-15557.html">
+                <img src="http://static.officeyes.com/p/spectra-4920-75551-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Copier-Paper-75-GSM-FS-PAPER-15557.html"><em class="itm-brand" style="cursor: pointer;">Spectra</em> <em class="itm-title" style="cursor: pointer;">Copier Paper 75 GSM FS PAPER</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 181.52</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/Matrix-B5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3980.html">
+                <img src="http://static.officeyes.com/p/bilt-5677-0893-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Matrix-B5-Black-PP-Single-Rule-Spiral-Notebook-5-Subject-Section-Notebook-300Pages-3980.html"><em class="itm-brand" style="cursor: pointer;">BILT</em> <em class="itm-title" style="cursor: pointer;">Matrix B5 Black PP Single Rule Spiral Notebook , 5 Subject/ Section Notebook (300Pages)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 164.57</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/Platinum-Register-Hardbound-144-Pages-3906.html">
+                <img src="http://static.officeyes.com/p/lotus-7596-6093-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Platinum-Register-Hardbound-144-Pages-3906.html"><em class="itm-brand" style="cursor: pointer;">Lotus</em> <em class="itm-title" style="cursor: pointer;">Platinum Register Hardbound (144 Pages)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 61.77</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/855-Tricolor-Ink-Cartridge-C8766ZZ-898.html">
+                <img src="http://static.officeyes.com/p/h_p-8728-898-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/855-Tricolor-Ink-Cartridge-C8766ZZ-898.html"><em class="itm-brand" style="cursor: pointer;">HP</em> <em class="itm-title" style="cursor: pointer;">855 Tricolor Ink Cartridge (C8766ZZ)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 1,537</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/702-Black-Ink-Cartridge-CC660AA-987.html">
+                <img src="http://static.officeyes.com/p/h_p-5687-789-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/702-Black-Ink-Cartridge-CC660AA-987.html"><em class="itm-brand" style="cursor: pointer;">HP</em> <em class="itm-title" style="cursor: pointer;">702 Black Ink Cartridge (CC660AA)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 1,396.20</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/CB540A-Black-Print-Toner-Cartridge-CB540A-1703.html">
+                <img src="http://static.officeyes.com/p/h_p-6654-3071-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/CB540A-Black-Print-Toner-Cartridge-CB540A-1703.html"><em class="itm-brand" style="cursor: pointer;">HP</em> <em class="itm-title" style="cursor: pointer;">CB540A Black Print Toner Cartridge (CB540A)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 3,805.20</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/DVD-R-Pro-10-Pack-Normal-Cake-Box-4623.html">
+                <img src="http://static.officeyes.com/p/moser-baer-1376-3264-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/DVD-R-Pro-10-Pack-Normal-Cake-Box-4623.html"><em class="itm-brand" style="cursor: pointer;">Moser Baer</em> <em class="itm-title" style="cursor: pointer;">DVD-R Pro 10 Pack Normal Cake Box</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 214.29</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/Racer-Gel-Pen-Pack-of-10-1569.html">
+                <img src="http://static.officeyes.com/p/reynolds-8918-9651-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Racer-Gel-Pen-Pack-of-10-1569.html"><em class="itm-brand" style="cursor: pointer;">Reynolds</em> <em class="itm-title" style="cursor: pointer;">Racer Gel Pen (Pack of 10)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 88.75</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical ">
+    <dt class="itm-preview">
+                    <a href="/Stapler-Pins-No-10-1000-staples-1260.html">
+                <img src="http://static.officeyes.com/p/kangaro-1210-0621-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Stapler-Pins-No-10-1000-staples-1260.html"><em class="itm-brand" style="cursor: pointer;">Kangaro</em> <em class="itm-title" style="cursor: pointer;">Stapler Pins No. 10 (1000 staples)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 6.22</span>
+                                </p>
+    </dd>
+</dl>
+<dl class="itm-vertical last">
+    <dt class="itm-preview">
+                    <a href="/Binder-Clips-51MM-12Pcs-Pack-10860.html">
+                <img src="http://static.officeyes.com/p/yihai-6884-06801-1-gallery.jpg" width="44" height="44" class="itm-img" alt=''>
+            </a>
+            </dt>
+    <dd class="itm-descr">
+        <p><a class="itm-link" href="/Binder-Clips-51MM-12Pcs-Pack-10860.html"><em class="itm-brand" style="cursor: pointer;">YIHAI</em> <em class="itm-title" style="cursor: pointer;">Binder Clips 51MM (12Pcs Pack)</em></a></p>
+        <p class="itm-priceBox">
+            <span class="price-prefix-listing">from </span>
+            <span class="itm-price">&#x20b9; 82.50</span>
+                                </p>
+    </dd>
+</dl>
+    </div>
+    <div class="box-ft">
+        <div class="ui-borderTop ptm txtCenter">
+            <a class="icon i-arrowRight strong" href="/office_supplies">View more recommendations</a>        </div>
+    </div>
+</section>       
+    </div>
+</div>
+
+    </div>
+    <footer id="footer" class="mtl footer clearfix">
+    <div class="l-pageWrapper">
+    <div class="line ptl pbl">
+        <div class="unit footer1of5 mtm mrm">
+            <div class="cms-footerlist-a box fss mrm">
+            <h4 class="hdl">Customer Service</h4>
+<ul class="linkList">
+<li><a href="/contact" title="Contact">Contact Us</a></li>
+<li><a href="/shipping" title="Shipping">Shipping</a></li>
+<li><a href="/payment_methods" title="Payment Methods">Payment Methods</a></li>
+<li><a href="/order_and_tracking" title="Ordering And Tracking">Ordering And Tracking</a></li>
+<li><a href="/privacy" title="Privacy">Privacy</a></li>
+<li><a href="/faq" title="Frequently Asked Questions">FAQ's</a></li>
+
+</ul>            </div>
+        </div>
+        <div class="unit footer2of5 mtm mrm">
+            <div class="cms-footerlist-a box fss">
+            <h4 class="hdl">Information</h4>
+<ul class="linkList">
+<li><a href="/about_us" title="About us">About us</a></li>
+<li><a href="http://blog.officeyes.com/" title="Blog" target="_blank">Blog</a></li>
+<li><a href="/help" title="Help">Help</a></li>
+<li><a href="/terms_of_use" title="Terms of Use">Terms And Conditions</a></li>
+<li><a href="/customer/account/login" title="Login">Register/Login</a></li>
+<li><a href="/cancellations_and_returns" title=" Cancellation & Returns">Cancellation & Returns</a></li>
+<li><a href=" http://static.officeyes.com/cms/OfficeYes_Introduction_Brochure_Final.pdf" target="_blank" title="Click here to download corporate presentation">Corporate Presentation</a></li>
+</ul>            </div>
+        </div>
+        <div class="unit footer3of5 mtm mrm">
+            <div class="cms-footerlist-a box fss">
+            <h4>Join us on</h4>
+<ul>
+<li><a class="icon footer-social-icon i-socFacebook" href="http://www.facebook.com/OfficeYes" target="_blank" title="Facebook">Facebook</a></li>
+<li><a class="icon footer-social-icon i-socTwitter" href="http://www.twitter.com/Office_Yes" target="_blank" title="Twitter">Twitter</a></li>
+<li><a class="icon footer-social-icon i-socGooglePlus" href="https://plus.google.com/105840643008951568086/posts" target="_blank" title="Google+">Google+</a></li>
+</ul>
+<br />
+            </div>
+            <div class="cms-footerlist-a box fss">
+                            </div>
+        </div>
+        <div class="unit footer4of5 mtm mrm">
+            <div class="cms-footerlist-a box fss mbl">
+            <style type="text/css" media="all">
+.OfficeYes-Sprite{background:url(http://static.officeyes.com/cms/officeYes-sprite-2.png) no-repeat;}
+.Payment-Icon-Ftr{background-position:-11px -13px; height:50px; width:190px; text-indent:-1000px; margin-top:4px;  }
+
+ul.megamenu a.mm-item-link:link, ul.megamenu a.mm-item-link:visited{font-size:12px; font-size:1.2rem; padding:8px 6px;}
+
+</style>
+</style>
+<h4>Payment Methods</h4>
+<ul class="ui-listHorizontal">
+<li class="OfficeYes-Sprite Payment-Icon-Ftr">Cash on Delivery</li>
+</ul>            </div>
+            <div class="cms-footerlist-a box fss mbl">
+            <style type="text/css" media="all">
+.Shipping-Icon-Ftr{background-position:-11px -79px; height:25px; width:193px; text-indent:-1000px; margin-top:5px; }
+</style>
+<h4>Shipping Partner</h4>
+<ul class="ui-listHorizontal">
+<li class="OfficeYes-Sprite Shipping-Icon-Ftr">Shipping Partner</li>
+</ul>            </div>
+            <div  class="cms-footerlist-a box fss mbl">
+                        </div>
+        </div>
+        <div class="unit footer5of5 lastUnit mtm">
+            <div class="cms-footerlist-b box fss">
+                <section class="box ftNewsletter right">
+                    <div id="FooterNewsletter">
+                        <form action="#" class="footerNewsletterForm">
+                            <div class="ui-formRow">
+                                <label for="newsletter-email" class="fsml strong ptm pbm label">Trends, special offers and coupons via e-mail!</label>
+                                <div class="collection box-bd pbn txtCenter">
+                                    <input id="newsletter-email" class="ui-inputText lfloat newsletterEmail" type="text" name="NewsletterSignupForm[email]"  placeholder="Type your e-mail address" /><button class="ui-button ui-buttonCta newsletterBtn" type="submit" name="subscription"><span>Sign up for newsletter</span></button>
+                                    <div class="s-error msgBox pas mts" style="display:none">
+                                        Sorry. An error occurred.                                    </div>
+
+                                </div>
+                            </div>
+
+                            <input type="hidden" name="YII_CSRF_TOKEN" id="token" value="b59a3ed08d68c9f3022ed65e280f4fa2520adbc0">
+                            <div class="s-success msgBox pas" style="display: none">
+                                Congratulations! You've successfully signed up.                            </div>
+                        </form>
+                    </div>
+                    <div class="box-ft fss lhs txtLight ptn txtCenter">
+                        Your information will not be disclosed to third parties. You can unsubscribe at any time.                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    <div class="line">
+    <div class="unit footer1of2 mtm mrm">
+    <div class="cms-footerlist-a">
+        <h4 class="hdl">Top Brands</h4>
+        <div class="line">
+                                                            <div class="unit size1of4">
+                        <div class="box fss mrm">
+                            <ul class="linkList">
+                                                                <li><a href="/3m" title="3M">3M</a></li>
+                                                                <li><a href="/add" title="Add">Add</a></li>
+                                                                <li><a href="/apsara" title="Apsara">Apsara</a></li>
+                                                                <li><a href="/ashoka" title="Ashoka">Ashoka</a></li>
+                                                                <li><a href="/bilt" title="BILT">BILT</a></li>
+                                                                <li><a href="/camel" title="Camel">Camel</a></li>
+                                                                <li><a href="/camlin" title="Camlin">Camlin</a></li>
+                                                                <li><a href="/canon_" title="Canon">Canon</a></li>
+                                                                <li><a href="/casio" title="Casio">Casio</a></li>
+                                                                <li><a href="/cello" title="Cello">Cello</a></li>
+                                                                <li><a href="/century" title="Century">Century</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="unit size1of4">
+                        <div class="box fss mrm">
+                            <ul class="linkList">
+                                                                <li><a href="/citizen" title="Citizen">Citizen</a></li>
+                                                                <li><a href="/colin" title="Colin">Colin</a></li>
+                                                                <li><a href="/deer" title="Deer">Deer</a></li>
+                                                                <li><a href="/desmat" title="Desmat">Desmat</a></li>
+                                                                <li><a href="/duracell" title="Duracell">Duracell</a></li>
+                                                                <li><a href="/eveready" title="Eveready">Eveready</a></li>
+                                                                <li><a href="/faber-castell" title="Faber-Castell">Faber-Castell</a></li>
+                                                                <li><a href="/gel" title="Gel">Gel</a></li>
+                                                                <li><a href="/generic" title="Generic">Generic</a></li>
+                                                                <li><a href="/hans" title="Hans">Hans</a></li>
+                                                                <li><a href="/jk" title="JK">JK</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="unit size1of4">
+                        <div class="box fss mrm">
+                            <ul class="linkList">
+                                                                <li><a href="/kangaro" title="Kangaro">Kangaro</a></li>
+                                                                <li><a href="/konark" title="Konark">Konark</a></li>
+                                                                <li><a href="/kores" title="Kores">Kores</a></li>
+                                                                <li><a href="/leaderart" title="Leaderart">Leaderart</a></li>
+                                                                <li><a href="/lotus" title="Lotus">Lotus</a></li>
+                                                                <li><a href="/luxor" title="Luxor">Luxor</a></li>
+                                                                <li><a href="/moser-baer" title="Moser Baer">Moser Baer</a></li>
+                                                                <li><a href="/my-choice" title="My choice">My choice</a></li>
+                                                                <li><a href="/nataraj" title="Nataraj">Nataraj</a></li>
+                                                                <li><a href="/oddy" title="Oddy">Oddy</a></li>
+                                                                <li><a href="/omax" title="Omax">Omax</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="unit size1of4">
+                        <div class="box fss mrm">
+                            <ul class="linkList">
+                                                                <li><a href="/pilot" title="Pilot">Pilot</a></li>
+                                                                <li><a href="/R.SIGNS" title="R.SIGNS">R.SIGNS</a></li>
+                                                                <li><a href="/reynolds" title="Reynolds">Reynolds</a></li>
+                                                                <li><a href="/saya" title="Saya">Saya</a></li>
+                                                                <li><a href="/simra" title="Simra">Simra</a></li>
+                                                                <li><a href="/sony" title="Sony">Sony</a></li>
+                                                                <li><a href="/spectra" title="Spectra">Spectra</a></li>
+                                                                <li><a href="/wintex" title="Wintex">Wintex</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                            </div>
+    </div>
+    </div>
+    <div class="unit footer2of2 mtm">
+    <div class="cms-footerlist-a">
+    <h4 class="hdl">Top Categories</h4>
+                <ul class="linkList">
+                                                                            <li><a href="/office_supplies" title="Office supplies">Office supplies</a></li>
+                                        <li><a href="/desk_stationery" title="Desk stationery">Desk stationery</a></li>
+                                        <li><a href="/desk_accessories" title="Desk accessories">Desk accessories</a></li>
+                                        <li><a href="/filing_and_archive" title="Filing and Archive">Filing and Archive</a></li>
+                                        <li><a href="/pens_pencils_and_markers" title="Pens, Pencils and Markers">Pens, Pencils and Markers</a></li>
+                                                        </ul>
+    </div>
+            <div class="cms-footerlist-a">
+            <br/>
+<h4 class="hdl">Partner Sites</h4>
+<br/>
+<ul class="linkList">
+<li><a href="http://www.foodpanda.in/" target="_blank" title="Foodpanda" rel="nofollow">Foodpanda</a></li>
+<li><a href="http://www.fabfurnish.com/" target="_blank" title="Fabfurnish" rel="nofollow">Fabfurnish</a></li>
+
+</ul>            </div>
+    </div>
+    </div>
+    </div>
+    
+</footer>
+
+<script type="text/javascript">
+
+    String.prototype.valid = function(__type) {
+        var _regexp;
+        switch(__type) {
+            case 'email'  :
+                _regexp = new RegExp(/^(("[\w-+\s]+")|([\w-+]+(?:\.[\w-+]+)*)|("[\w-+\s]+")([\w-+]+(?:\.[\w-+]+)*))(@((?:[\w-+]+\.)*\w[\w-+]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                break;
+            case 'zipcode':
+                _regexp = new RegExp(/^[0-9]{5}$/);
+                break;
+            default       :
+                _regexp = new RegExp(/^.+$/);
+        }
+        return _regexp.test(this);
+    }
+    var nslAjaxCallAllowed = true;
+    $(document).ready(function() {
+        $('#FooterNewsletter form button').click(onFooterNewsletterSubmit);
+    });
+    ;
+    function onFooterNewsletterSubmit(__event) {
+        var _form  = $('#FooterNewsletter form');
+        _form.find('.s-success, .s-error').hide();
+        var _email = _form.find('#newsletter-email').val();
+        if(nslAjaxCallAllowed == true){
+            nslAjaxCallAllowed = false;
+            if(_email.valid('email')) {
+                var _gender = $(__event.target).val();
+                var _base   = '/newsletter/validate/';
+                var _token  = _form.find('#token').val();
+                var _url    = _base + '?YII_CSRF_TOKEN=' + _token + '&email=' + _email + '&gender=' + _gender;
+
+                $.get(_url, function(__data) {
+                    __data = $.parseJSON(__data);
+                    if(__data['validation']) {
+                        _form.find('button').hide();
+                        _form.find('.s-success').show();
+                    } else {
+                        onFooterNewsletterError(_form, __data['error']);
+                    }
+                    nslAjaxCallAllowed = true;
+                });
+            } else {
+                onFooterNewsletterError(_form, 'Invalid email address');
+                nslAjaxCallAllowed = true;
+            }
+        }
+
+        return false;
+    }
+
+    function onFooterNewsletterError(__form, __error) {
+        if (__error) {
+            __form.find('.s-error').text(__error);
+        }
+        __form.find('.s-error').show();
+    }
+
+</script>
+</div>
+
+<script type="text/javascript">window.store["priceStore"]["3M008OS56CDNINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"3M008OS56CDNINSTA-2007":{"price":"&#x20b9; 110.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["CA078OS61FCGINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"CA078OS61FCGINSTA-4709":{"price":"&#x20b9; 32.67","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["KA020OS29BWWINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"KA020OS29BWWINSTA-1830":{"price":"&#x20b9; 29.53","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"12.50"}}};
+window.store["priceStore"]["3M008PP39FWIINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"3M008PP39FWIINSTA-5402":{"price":"&#x20b9; 50.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["HP002IT94BEZINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"HP002IT94BEZINSTA-1365":{"price":"&#x20b9; 1,734.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["HP002IT93BFAINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"HP002IT93BFAINSTA-1366":{"price":"&#x20b9; 1,734.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["HP002IT91BFCINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"HP002IT91BFCINSTA-1368":{"price":"&#x20b9; 1,834.14","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["HP002IT86BFHINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"HP002IT86BFHINSTA-1373":{"price":"&#x20b9; 1,637.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["RE030OS37CICINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"RE030OS37CICINSTA-2202":{"price":"&#x20b9; 53.81","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS37CICINSTA-2203":{"price":"&#x20b9; 53.81","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS37CICINSTA-2204":{"price":"&#x20b9; 53.81","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["RE030OS30CIJINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"RE030OS30CIJINSTA-2215":{"price":"&#x20b9; 93.19","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS30CIJINSTA-2212":{"price":"&#x20b9; 93.19","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS30CIJINSTA-2213":{"price":"&#x20b9; 93.19","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS30CIJINSTA-2214":{"price":"&#x20b9; 93.19","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["RE030OS25DJMINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"RE030OS25DJMINSTA-3112":{"price":"&#x20b9; 24.94","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS25DJMINSTA-3113":{"price":"&#x20b9; 24.94","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS25DJMINSTA-3114":{"price":"&#x20b9; 24.94","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"RE030OS25DJMINSTA-3115":{"price":"&#x20b9; 24.94","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["LU024OS13CQSINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"LU024OS13CQSINSTA-2464":{"price":"&#x20b9; 55.13","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"LU024OS13CQSINSTA-2465":{"price":"&#x20b9; 55.13","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"LU024OS13CQSINSTA-2466":{"price":"&#x20b9; 55.13","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"},"LU024OS13CQSINSTA-2467":{"price":"&#x20b9; 55.13","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["BI044OS61DTQINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"BI044OS61DTQINSTA-3549":{"price":"&#x20b9; 129.99","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["BI044OS60DTRINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"BI044OS60DTRINSTA-3550":{"price":"&#x20b9; 100.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["BI044PP18FXDINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"BI044PP18FXDINSTA-5423":{"price":"&#x20b9; 144.00","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};
+window.store["priceStore"]["BI044PP19FXCINSTA"] = {"currency":"&#x20b9;","price_label_without_special":"Price","price_label_with_special":"Our Price","special_price_label":"MRP","saving_label":"You save","points_cost_label":"Points:","points_reward_label":"Reward Points:","prices":{"BI044PP19FXCINSTA-5422":{"price":"&#x20b9; 172.80","special_price":null,"saving_percentage":null,"points_cost":null,"points_reward":null,"tax_percent":"5.00"}}};</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"778648b4a9","applicationID":"362662","transactionName":"NF0HYkRYChFYVxJcVg0XJkNFTQsPFl0IUVwb","queueTime":0,"applicationTime":966,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
+</body>
+</html>
+

@@ -1,0 +1,884 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/css/dmoz-main.css" />
+<title>DMOZ - Business</title>
+
+<style>
+.remBld {float:left; font-weight:bold; margin-right:5px; font-size:17px;}
+#_alt_ctrl_ALL, #_alt_ctrl_Z {border-right:none !important;}
+ul.right_align {float:left;}
+div.flag {  float : right ;  width : 16px ;  height : 16px ;}
+ul.directory-url li {  clear : right ;}
+li.cool a.listinglink {background:url('/img/star.gif') no-repeat right -2px; font-weight:bold; padding-right:16px; }
+div.flag img {  width:0px;  height:0px;  padding:8px;
+  background: url('/img/flag-faint.png');
+}
+ul.directory-url li:hover {  background-color : #e4e4e4 ;}
+ul.directory-url li:hover div.flag img {  background: url('/img/flag.png');}
+ul.directory-url li:hover div.flag:hover img {  background: url('/img/flag-highlight.png');}
+
+
+
+</style>
+</head>
+<body dir="LTR"><div class="none">
+<!-- SiteCatalyst code version: H.7.  Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+</div>
+
+<div id="doc"  class="nodViewN">
+	<div id="hd" style="border-bottom:0;">
+    	<a id="logo" class="logoN" href="/" alt="DMOZ logo" title="DMOZ"></a>
+
+        <div id="partnership">
+                <img width="72" height="36" align="middle" alt="In Partnership with AOL" src="/img/public/aolpartner.png"/>
+        </div>
+    </div>
+    <div id="hd-bar">
+
+        <div class="float-l" style="margin-left:8px;">
+
+        <!-- Twitter follow button -->
+          <a href="https://twitter.com/dmoz" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @dmoz</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <!-- End Twitter follow button -->
+
+        </div>
+
+        <div class="float-r">
+            <a style="font-weight:700" href="/docs/en/about.html">about dmoz</a> | 
+            <a href="http://blog.dmoz.org/">dmoz blog</a> | 
+            
+
+			<a href="/public/update?cat=Business">update listing</a> | 
+			
+            <a href="/public/abuse?cat=Business&lang=en">report abuse/spam</a> | 
+            <a href="/help/en/helpmain.html">help</a>
+        </div>
+       
+    </div>
+    <div id="bd-cross">
+    	<form class="center mb1em" action="/search" method="get">
+            <input size="45" name="q" class="searchNod" >
+            <input type=submit value="Search" class="btn" >
+            <select name="cat" class="selectNod" >
+			   
+               <option value="all" selected id="all-yes"><label for="all-yes">the entire directory</label></option>
+			   
+                 <option value="Business"  id="all-no"><label for="all-no">only in Business</label></option>
+                 
+            </select>
+            <input type=hidden name=all value="no" >
+        </form>
+
+        <div class="navigate" style="">
+            <div class="descript">
+
+                    <div id="descript" class="descriptN"><a href="/desc/Business">Description</a></div>
+
+            </div>
+            <ul class="navigate">
+                <li class="first">
+
+                    <a href="/">Top</a></li>
+
+                        <li class="last">
+                            <strong><span class='remBld'>: </span>Business</strong>&nbsp;<em>(185,943)</em>
+                        </li>
+
+            </ul>
+        </div>
+
+        <div class="clear"></div>		
+        
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Business/Accounting/">Accounting</a>&nbsp;<em>(2,381)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Business_and_Society/">Business and Society</a>&nbsp;<em>(33)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Cooperatives/">Cooperatives</a>&nbsp;<em>(46)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Customer_Service/">Customer Service</a>&nbsp;<em>(221)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/E-Commerce/">E-Commerce</a>&nbsp;<em>(555)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Education_and_Training/">Education and Training</a>&nbsp;<em>(833)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Employment/">Employment</a>&nbsp;<em>(895)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Human_Resources/">Human Resources</a>&nbsp;<em>(694)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Business/Information_Services/">Information Services</a>&nbsp;<em>(56)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/International_Business_and_Trade/">International Business and Trade</a>&nbsp;<em>(687)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Investing/">Investing</a>&nbsp;<em>(3,882)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Major_Companies/">Major Companies</a>&nbsp;<em>(86)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Management/">Management</a>&nbsp;<em>(2,635)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Marketing_and_Advertising/">Marketing and Advertising</a>&nbsp;<em>(4,783)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Opportunities/">Opportunities</a>&nbsp;<em>(1,540)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Small_Business/">Small Business</a>&nbsp;<em>(797)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Business/Aerospace_and_Defense/">Aerospace and Defense</a>&nbsp;<em>(1,727)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Agriculture_and_Forestry/">Agriculture and Forestry</a>&nbsp;<em>(6,126)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Arts_and_Entertainment/">Arts and Entertainment</a>&nbsp;<em>(14,579)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Automotive/">Automotive</a>&nbsp;<em>(2,606)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Biotechnology_and_Pharmaceuticals/">Biotechnology and Pharmaceuticals</a>&nbsp;<em>(1,261)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Business_Services/">Business Services</a>&nbsp;<em>(14,989)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Chemicals/">Chemicals</a>&nbsp;<em>(4,408)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Construction_and_Maintenance/">Construction and Maintenance</a>&nbsp;<em>(16,037)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Consumer_Goods_and_Services/">Consumer Goods and Services</a>&nbsp;<em>(14,052)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Electronics_and_Electrical/">Electronics and Electrical</a>&nbsp;<em>(7,392)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Energy/">Energy</a>&nbsp;<em>(3,693)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Environment/">Environment</a>&nbsp;<em>(1,533)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Financial_Services/">Financial Services</a>&nbsp;<em>(11,100)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Food_and_Related_Products/">Food and Related Products</a>&nbsp;<em>(5,437)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Business/Healthcare/">Healthcare</a>&nbsp;<em>(4,571)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Hospitality/">Hospitality</a>&nbsp;<em>(2,221)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Industrial_Goods_and_Services/">Industrial Goods and Services</a>&nbsp;<em>(17,496)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Information_Technology/">Information Technology</a>&nbsp;<em>(859)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Materials/">Materials</a>&nbsp;<em>(1,753)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Mining_and_Drilling/">Mining and Drilling</a>&nbsp;<em>(480)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Publishing_and_Printing/">Publishing and Printing</a>&nbsp;<em>(4,398)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Real_Estate/">Real Estate</a>&nbsp;<em>(1,624)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Retail_Trade/">Retail Trade</a>&nbsp;<em>(1,196)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Telecommunications/">Telecommunications</a>&nbsp;<em>(4,141)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Textiles_and_Nonwovens/">Textiles and Nonwovens</a>&nbsp;<em>(14,712)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Transportation_and_Logistics/">Transportation and Logistics</a>&nbsp;<em>(6,965)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Business/Wholesale_Trade/">Wholesale Trade</a>&nbsp;<em>(133)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Business/Associations/">Associations</a>&nbsp;<em>(14)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Directories/">Directories</a>&nbsp;<em>(36)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/News_and_Media/">News and Media</a>&nbsp;<em>(221)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Regional/">Regional</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Resources/">Resources</a>&nbsp;<em>(59)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+            <fieldset class="fieldcap">
+                <legend>See also:</legend>
+                <ul class="directory">
+                
+                	<li>
+                        <a href="/Science/Social_Sciences/Economics/">Science: Social Sciences: Economics</a> 
+                        <em>(2,020)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Shopping/">Shopping</a> 
+                        <em>(68,582)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Society/People/Women/Business/">Society: People: Women: Business</a> 
+                        <em>(185)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Society/Work/">Society: Work</a> 
+                        <em>(388)</em>
+                    </li>
+                
+                </ul>
+            </fieldset>
+
+                <fieldset class="fieldcap fieldcapN">
+                <legend>This category in other languages:</legend>
+                <ul class="language">
+
+                    <li>
+                    	<a href="/World/Afrikaans/Besigheid">Afrikaans</a>
+                        <em>(17)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Aragon%C3%A9s/Negocios">Aragonés</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Asturianu/Negocios">Asturianu</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Azerbaijani/Biznes">Azərbaycanca</a>
+                        <em>(68)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Indonesia/Bisnis">Bahasa Indonesia</a>
+                        <em>(210)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Melayu/Perniagaan">Bahasa Melayu</a>
+                        <em>(16)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bosanski/Poslovanje">Bosanski</a>
+                        <em>(88)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Brezhoneg/Ko%C3%B1vers_hag_armerzh">Brezhoneg</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Catal%C3%A0/Economia_i_empresa">Català</a>
+                        <em>(1653)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C4%8Cesky/Obchod_a_slu%C5%BEby">Česky</a>
+                        <em>(3322)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Cymraeg/Busnes">Cymraeg</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Dansk/Erhverv">Dansk</a>
+                        <em>(5722)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Deutsch/Wirtschaft">Deutsch</a>
+                        <em>(53662)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Eesti/%C3%84ri">Eesti</a>
+                        <em>(310)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Espa%C3%B1ol/Negocios">Español</a>
+                        <em>(2758)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Esperanto/Komerco">Esperanto</a>
+                        <em>(23)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Euskara/Ekonomia">Euskara</a>
+                        <em>(131)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Fran%C3%A7ais/Commerce_et_%C3%A9conomie">Français</a>
+                        <em>(11550)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Frysk/Saaklik">Frysk</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Furlan/Af%C3%A2rs">Furlan</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/F%C3%B8royskt/Vinnul%C3%ADv">Føroyskt</a>
+                        <em>(4)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Gaeilge/Gn%C3%B3">Gaeilge</a>
+                        <em>(9)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Galego/Negocios">Galego</a>
+                        <em>(317)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/G%C3%A0idhlig/Gn%C3%AComhachas">Gàidhlig</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hrvatski/Poslovanje">Hrvatski</a>
+                        <em>(941)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Interlingua/Commercio">Interlingua</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C3%8Dslenska/Vi%C3%B0skipti">Íslenska</a>
+                        <em>(39)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Italiano/Affari">Italiano</a>
+                        <em>(26025)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kiswahili/Biashara">Kiswahili</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kurd%C3%AE/Bazar_%C3%BB_Abor%C3%AE">Kurdî</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Latviski/Bizness">Latviešu</a>
+                        <em>(408)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lietuvi%C5%B3/Verslas">Lietuvių</a>
+                        <em>(974)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lingua_Latina/Negotia">Lingua_Latina</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/L%C3%ABtzebuergesch/Business">Lëtzebuergesch</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Magyar/%C3%9Czlet">Magyar</a>
+                        <em>(4642)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Nederlands/Zakelijk">Nederlands</a>
+                        <em>(10970)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Nordfriisk/%C3%96konomii">Nordfriisk</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Norsk/N%C3%A6ringsliv">Norsk</a>
+                        <em>(969)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/O%27zbekcha/Biznes">O'zbekcha</a>
+                        <em>(7)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Occitan/Economia_e_empresa">Occitan</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Polski/Biznes">Polski</a>
+                        <em>(9642)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Portugu%C3%AAs/Neg%C3%B3cios">Português</a>
+                        <em>(975)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Punjabi_Gurmukhi/%E0%A8%B5%E0%A8%AA%E0%A8%BE%E0%A8%B0">Punjabi_Gurmukhi</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Rom%C3%A2n%C4%83/Afaceri">Română</a>
+                        <em>(1923)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Rumantsch/Affairs">Rumantsch</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Sardu/Afares">Sardu</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Seeltersk/Wirtskup">Seeltersk</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Shqip/Biznes">Shqip</a>
+                        <em>(22)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensko/Posel">Slovensko</a>
+                        <em>(156)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensky/Obchod_a_slu%C5%BEby">Slovensky</a>
+                        <em>(1267)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Srpski/Posao">Srpski</a>
+                        <em>(638)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Suomi/Elinkeinoel%C3%A4m%C3%A4">Suomi</a>
+                        <em>(958)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Svenska/N%C3%A4ringsliv">Svenska</a>
+                        <em>(3111)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Tagalog/Kalakal">Tagalog</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Taiwanese/%E5%95%86%E5%8B%99">Taiwanese</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Tatar%C3%A7a/%C3%8Dqt%C3%ADsad">Tatarça</a>
+                        <em>(16)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Doanh_nghi%E1%BB%87p">Tiếng_Việt</a>
+                        <em>(65)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/T%C3%BCrkmen%C3%A7e/Biznes">Türkmençe</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/T%C3%BCrk%C3%A7e/Ekonomi_ve_%C4%B0%C5%9F_D%C3%BCnyas%C4%B1">Türkçe</a>
+                        <em>(8322)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Uyghurche/Ish">Uyghurche</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Greek/%CE%95%CF%80%CE%B9%CF%87%CE%B5%CE%B9%CF%81%CE%AE%CF%83%CE%B5%CE%B9%CF%82">Ελληνική</a>
+                        <em>(848)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bashkir/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">Башҡортса</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Belarusian/%D0%91i%D0%B7%D0%BD%D1%8D%D1%81">Беларуская</a>
+                        <em>(26)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bulgarian/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">Български</a>
+                        <em>(915)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ossetian/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">Ирон</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kyrgyz/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">Кыргызча</a>
+                        <em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Makedonski/%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%98%D0%B0_%D0%B8_%D1%81%D1%82%D0%BE%D0%BF%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE">Македонски</a>
+                        <em>(56)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Russian/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">Русский</a>
+                        <em>(11860)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ukrainian/%D0%91%D1%96%D0%B7%D0%BD%D0%B5%D1%81">Українська</a>
+                        <em>(1321)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kazakh/%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">Қазақша</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Armenian/%D4%B3%D5%B8%D6%80%D5%AE%D5%A1%D6%80%D5%A1%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6">Հայերեն</a>
+                        <em>(193)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hebrew/%D7%A2%D7%A1%D7%A7%D7%99%D7%9D">עברית</a>
+                        <span style="visibility:hidden">i</span><em>(1534)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Urdu/%DA%A9%D8%A7%D8%B1%D9%88%D8%A8%D8%A7%D8%B1">اردو</a>
+                        <span style="visibility:hidden">i</span><em>(1)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Arabic/%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9">العربية</a>
+                        <span style="visibility:hidden">i</span><em>(258)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Persian/%D8%A8%D8%A7%D8%B2%D8%B1%DA%AF%D8%A7%D9%86%DB%8C">فارسی</a>
+                        <span style="visibility:hidden">i</span><em>(173)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Marathi/%E0%A4%8A%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97">मराठी</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hindi/%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AA%E0%A4%BE%E0%A4%B0">हिन्दी</a>
+                        <em>(14)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Gujarati/%E0%AA%B5%E0%AB%8D%E0%AA%AF%E0%AA%BE%E0%AA%AA%E0%AA%BE%E0%AA%B0">ગુજરાતી</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kannada/%E0%B2%B5%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%AA%E0%B2%BE%E0%B2%B0">ಕನ್ನಡ</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Sinhala/%E0%B7%80%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B6%B4%E0%B7%8F%E0%B6%BB%E0%B7%92%E0%B6%9A">සිංහල</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Thai/%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88">ไทย</a>
+                        <em>(734)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Japanese/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9">日本語</a>
+                        <em>(34166)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Simplified/%E5%95%86%E4%B8%9A">简体中文</a>
+                        <em>(5976)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Traditional/%E5%95%86%E6%A5%AD">繁體中文</a>
+                        <em>(697)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Korean/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EC%99%80_%EA%B2%BD%EC%A0%9C">한국어</a>
+                        <em>(457)</em>
+                    </li>
+
+                </ul>
+                </fieldset>
+
+
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+		
+        <fieldset class="fieldcap fieldcapRn" style="font-size:1.2em; margin-top:11px;">
+
+        <ul class="disc-large">
+	<div class="float-l">
+		<li >
+			<span style="margin-right:140px; font-size:16px;">
+			"<b>Business</b>"&nbsp;search&nbsp;on:</span>
+				
+	            <a href="http://search.aol.com/aol/search?query=business">AOL</a> -
+<a href="http://www.ask.com/web?q=business">Ask</a> -
+<a href="https://www.bing.com/search?q=business">Bing</a> -
+<a href="https://blekko.com/#?q=business">Blekko</a> -
+<a href="https://duckduckgo.com/?q=business">DuckDuckGo</a> -
+<a href="https://gigablast.com/search?q=business">Gigablast</a> -
+<a href="https://www.google.com/search?q=business">Google</a> -
+<a href="https://www.ixquick.com/do/search/?q=business">ixquick</a> -
+<a href="https://search.yahoo.com/search?p=business">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=business">Yandex</a> -
+<a href="http://new2.yippy.com/search?query=business">Yippy</a>  				
+				
+				</li>
+	            </div>
+        </ul>
+
+        </fieldset>
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+        <fieldset class="fieldcap center">
+        	
+        	<span class="volEditN">
+        	
+	        Category editors:
+	         <a href="/public/profile?editor=jcand">jcand</a>, <a href="/public/profile?editor=sundancerz">sundancerz</a>
+        	</span>
+        	
+        	
+        </fieldset>
+	  
+
+        <div class="float-r">
+        	<img src="/img/moz/factory.gif" width=200 height=150 alt="&#x005B;Factory Mozilla]">
+        </div>
+    </div>
+    <div id="ft">
+    	
+        
+            <span class="float-l">Copyright &copy; 1998-2015 AOL Inc.</span>
+        
+        <span class="float-r"><a href="/docs/en/termsofuse.html" style="font-size:.9em;">Terms of Use</a></span>
+    </div>
+    <div id="ft-bar" class="ft-barN" style="color:#000; font-family:times New Roman;font-size:16px;">
+    	<b>Visit our sister sites</b>&nbsp;&nbsp;<a href="http://www.mozilla.org/">mozilla.org</a>&nbsp;|&nbsp;<a href="http://musicmoz.org/">MusicMoz</a>&nbsp;|&nbsp;<a href="http://en.wikipedia.org/">Wikipedia</a><br><br>
+    	<div  class="ft-barUpN">Last update: 
+		
+                                October 21, 2014 at 13:03:05 UTC
+		
+		- <a href="/editors/editcat/index?cat=Business&fwdapply=1">edit</a></div>
+    </div>
+</div>
+<div id="omniture">
+<script type="text/javascript">
+function runOmni(){(function(){var F,t,n,v,p,q,u,o,i,f,D,d,k,c,b,x,g,E,s,z,C,m,r,a,l,B,e,w,A,y,j,h;F=location.protocol.toLowerCase();t=location.hostname.toLowerCase();n=location.port;v=location.pathname.toLowerCase();p=location.search.toLowerCase();q=document.title.toLowerCase();s_265.pfxID="odp";s_265.server=t;s_265.channel="us.dmozodp";s_265.charSet="UTF-8";s_265.linkInternalFilters="aol.com,javascript:,dmoz.org";u=t.split(".");o=(u.length>1)?u[u.length-2]+"."+u[u.length-1]:"";if((o==="dmoz.org")||(t+":"+n==="dmozqa-m01.ihost.aol.com:8081")||(t+":"+n==="10.146.172.49:9099")){s_265.prop12=F+"//"+t+v;i=(v.indexOf("/world/")>-1)?1:0;f=v.split("/");D=(i===1)?parseInt(f.length,10)-4:parseInt(f.length,10)-2;d=(f[f.length-1].length>0)?f[f.length-1].split(".")[0]:" - ";k=(f[f.length-1].length>0)?f[f.length-1]:" - ";c=(i===1)?f[3]:f[1];b=(i===1)?f[4]:f[2];if(i===0){x="english"}else{if((i===1)&&(D===-1)){x="world top"}else{if((i===1)&&(D>-1)){x=f[2]}}}s_265.prop16=x;j=(D>0)?"level-"+D:"level-0";switch(D){case -1:A=t+" - world top";y=A;h=A;break;case 0:if(d!==" - "){A="utilities";y="general info";h=t+" - "+d}else{A=t+" - top";y=A;h=A}break;case 1:A=c;y="top";h=(d!==" - ")?h=A+" - "+d:h="category main";break;case 2:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="subcategory main";break;default:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="level-"+D+" main";break}if(t==="search.dmoz.org"){A="utilities";y="search";j="level-0";h=d+" - home";g=((d==="search")&&(p.split("=")[0]==="?search"))?1:0;if(g===1){E=s_265.getQueryParam("search","",p);s_265.eVar11="sTerms:f|"+E;s_265.prop18=(s_265.getQueryParam("all").toLowerCase()!=="yes")?s_265.getQueryParam("cat").toLowerCase():"";s_265.prop18=s_265.prop18||"all";s=s_265.getQueryParam("t").toLowerCase();z=s_265.getQueryParam("morecat").toLowerCase();if(s==="c"||s==="s"||s==="b"){s_265.prop19=s}else{s_265.prop19=(z===1)?"c":"b"}C=(parseInt(s_265.getQueryParam("Kids"),10)===1)?"kids":"none";m=(parseInt(s_265.getQueryParam("Teens"),10)===1)?"teens":"none";r=(parseInt(s_265.getQueryParam("Mteens"),10)===1)?"mteens":"none";s_265.prop20=C+"|"+m+"|"+r;a=((s_265.prop19!=="c")&&(z.length===0)&&(s_265.getQueryParam("co").length===0))?((parseInt(s_265.getQueryParam("start")/20,10)+1)+""):(z.length===0)?((parseInt(s_265.getQueryParam("start")/25,10)+1)+""):((parseInt(s_265.getQueryParam("morecat")/25,10)+1)+"");s_265.prop21="page "+a;h="search results";l=(((a*1)===1)&&(z.length===0)&&(s_265.getQueryParam("start","",document.referrer).length===0))?1:0;if(l===1){B=(s.length>0)?"advanced search":((s.length===0)&&(s_265.getQueryParam("cat").length>0))?"branch search":"standard search";s_265.events="event1";s_265.eVar1=B}}e=1}if(e!==1){switch(c){case"help":A="utilities";y="help";j="level-0";h=(d!==" - ")?"dmoz help - "+d:"dmoz help - helpmain";e=1;break;case"profiles":A="utilities";y="profiles";j="level-0";h="dmoz - user profile";s_265.mmxtitle=h;s_265.mmxcustom="http://www.dmoz.org/profiles/user.html";e=1;break;case"become_an_editor":case"user-banners":case"awards":A="utilities";y="general info";j="level-0";h="dmoz - general info - "+q;e=1;break;case"guidelines":A="utilities";y="editors";j="level-0";h=(D>1)?"editors - "+c+" - "+b+" - "+q:"editors guidelines - "+q;e=1;break;case"newsletter":j="level-0";switch(D){case 1:y="newsletter article archive";h=y;break;case 2:h="newsletter "+y+" - "+q;break}e=1;break;case"erz":A="utilities";y="editors";j="level-0";h=(D>1)?"erz - "+b+" - "+q:"erz - top - "+q;e=1;break}}if(e!==1){if((t==="www.dmoz.org")&&(D===0)&&(d==="reinstate")){A="utilities";y="editors";h="editors - "+q;e=1}if(t==="report-abuse.dmoz.org"){A="utilities";y="report abuse";j="level-0";h=((D===0)&&(d==="faq"))?"dmoz report abuse system faq":"dmoz report abuse system";e=1}else{if(t==="rdf.dmoz.org"){A="utilities";y="rdf";j="level-0";if((D===0)&&(d===" - ")){h="rdf - main"}else{if((D===1)&&(d===" - ")){h="rdf - file index"}else{if((D===1)&&(d!==" - ")){h="rdf - "+d}}}e=1}}}if(e!==1){if((c==="cgi-bin")&&(t!=="search.dmoz.org")){A="utilities";j="level-0";switch(d){case"apply":case"forgot":y="editors";h=(d==="forgot")?"editors - password reminder form":(s_265.getQueryParam("submit").length===0)?"editors - application info":"editors - application";e=1;break;case"add":case"update":case"update2":case"update3":case"reinstate":y="editors";if(d==="add"){h="editors - submit a site instructions"}else{if(d==="update"){h="editors - update listing instructions"}else{if(d==="update2"){h="editors - update listing form"}else{if(d==="update3"){h="editors - update listing form received"}else{if(d==="reinstate"){h="editors - account reinstatement form received"}}}}}e=1;break;case"send":case"send2":y="editors";h=(d==="send")?"send editors feedback":"editors feedback received";e=1;break}}}if(e!==1){if((k==="desc.html")||(k==="faq.html")){w=(k==="desc.html")?"description":"faq";h=(D===1)?"branch category ":(D===2)?"branch subcategory ":"branch level-"+D+" ";h=h+w}}s_265.trackExternalLinks=false;s_265.mmxgo=true;s_265.prop1=A;s_265.prop2=y;s_265.prop17=j;s_265.pageName=h;s_265.t()}}())}var s_account="aoldmozodp,aolsvc";(function(){var b=document,a=b.createElement("script");a.type="text/javascript";a.src=(location.protocol==="https:"?"https://s":"http://o")+".aolcdn.com/omniunih.js";b.getElementsByTagName("head")[0].appendChild(a)}());
+</script>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Arvo'), url(http://fonts.gstatic.com/s/arvo/v8/MViwy4K6e56oHcyeMzjbCQ.ttf) format('truetype');
+}

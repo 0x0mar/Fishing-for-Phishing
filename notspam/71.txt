@@ -1,0 +1,890 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Watch free movies online - movie25</title>
+<meta name="author" content="movie25.cm" />
+<meta name="keywords" content="watch free movies online,watch movies online free,watch latest movies online for free,watch latest hollywood movies,watch latest bollywood movies,watch free online movies,watch new movies online,watch english movies online,free movies to watch">
+<meta name="description" content="watch movies online, watch free movies online, online movies, latest movies, download movies, free online movie downloads, film downloads, free films, watch films online">
+<meta name="robots" content="index,follow">
+<meta name="revisit-after" content="1 days">
+<meta http-equiv="content-language" content="en">
+<link href="/images/style5.css" rel="stylesheet" type="text/css" />
+<script src="/images/js/box3.js" type="text/javascript"></script>
+<script src="/images/js/ajax3.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script language="javascript">
+if( top.location != self.location) top.location.href=self.location.href;
+</script>
+</head>
+<body>
+<div class="top">
+  <div id="login">
+    <div id="log"><a href="Javascript:" onclick="alertWin('Sign in to Movie25','login',300,200);">Sign in</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="Javascript:" onclick="alertWin('Welcome to Movie25','reg',400,300);">Sign up</a>
+      <input type="hidden"  id="yhzt" value="0" />
+    </div>
+  </div>
+  
+    <div class="logo"><a href="/"><img src="/images/logo1.gif" alt="Movie25" width="250" height="28" border="0" /></a></div>
+    <div align="center" class="tz">
+      You can access our site via <a href="http://www.movie25.cm">movie25.cm</a> <a href="http://www.movie25.tw">movie25.tw</a>. For UK visitors you can use <a href="http://www.movie25.la">movie25.la</a>.
+    </div>
+	<div class="search">
+		  <form name="from1" action="/search.php">
+			<div class="search_frame">
+			  <input name="key" value="" class="sear_a" type="text"/>
+			  <button class="search_go" type="submit">Search</button>
+			</div>			
+		  </form>
+	</div>
+  
+</div>
+<div class="navigation">
+  <div class="navigation_text">
+    <ul class="navigation_top">
+      <li><a href="/">Movies</a></li>
+	  <li><a href="http://www.tvonline.tw/">TV Shows</a></li>
+      <li><a href="/new-releases/" title="New Releases">New Releases</a></li>
+      <li><a href="/latest-added/"  title="Latest Added">Latest Added</a></li>
+      <li><a href="/featured-movies/" title="Featured Movies">Featured Movies</a></li>
+	  <li><a href="/latest-hd-movies/" title="Latest HD Movies">Latest HD Movies</a></li>
+      <li><a href="/most-viewed/" title="Most Viewed">Most Viewed</a></li>
+      <li><a href="/most-voted/" title="Most Voted">Most Voted</a></li>
+	  <li><a href="/movie-list/" title="Movie List">Movie List</a></li>
+      <li><a href="/submit-links.php">Submit Links</a></li>
+    </ul>
+  </div>
+</div>
+<div class="banner_bg">
+  <div class="banner_body">
+    <ul>
+  <li>
+    <div class=pic_top_movie><a href="/project-almanac-2014-54497.html" title="Watch Project Almanac (2014) online"><img src="http://i.imgur.com/WSr3lRL.jpg" alt="Project Almanac (2014)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/black-or-white-2014-54743.html" title="Watch Black or White (2014) online"><img src="http://i.imgur.com/daoPWBC.jpg" alt="Black or White (2014)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/the-loft-2014-54741.html" title="Watch The Loft (2014) online"><img src="http://i.imgur.com/a25eBnA.jpg" alt="The Loft (2014)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/blackhat-2015-54496.html" title="Watch Blackhat (2015) online"><img src="http://i.imgur.com/o3fmJn4.jpg" alt="Blackhat (2015)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/love-rosie-2014-54656.html" title="Watch Love, Rosie (2014) online"><img src="http://i.imgur.com/rIJFbgJ.jpg" alt="Love, Rosie (2014)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/the-boy-next-door-2015-54521.html" title="Watch The Boy Next Door (2015) online"><img src="http://i.imgur.com/uLpbGto.jpg" alt="The Boy Next Door (2015)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/wild-card-2015-54407.html" title="Watch Wild Card (2015) online"><img src="http://i.imgur.com/aI7c3si.jpg" alt="Wild Card (2015)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/mortdecai-2015-54369.html" title="Watch Mortdecai (2015) online"><img src="http://i.imgur.com/nS5ecEq.jpg" alt="Mortdecai (2015)" width=90 height=130 /></a></div>
+  </li>
+  <li>
+    <div class=pic_top_movie><a href="/the-wedding-ringer-2015-54007.html" title="Watch The Wedding Ringer (2015) online"><img src="http://i.imgur.com/9uLadmX.jpg" alt="The Wedding Ringer (2015)" width=90 height=130 /></a></div>
+  </li>
+    </ul>
+  </div>
+</div>
+<div style="height:20px;background:#333;width:100%;"><div style="height:20px;background:#333;width:1020px;"></div></div>
+<div class="main">
+  <div class="right">
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  <div class="fb-like-box" data-href="https://www.facebook.com/official.movie25.fanclub" data-width="214" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+  <div class="genres">
+    <div class="genres_top">
+      <h1>Genres</h1>
+    </div>
+    <div class="genres_body">
+      <ul><li><a href="/action/">Action</a></li>
+<li><a href="/adventure/">Adventure</a></li>
+<li><a href="/animation/">Animation</a></li>
+<li><a href="/biography/">Biography</a></li>
+<li><a href="/comedy/">Comedy</a></li>
+<li><a href="/crime/">Crime</a></li>
+<li><a href="/documentary/">Documentary</a></li>
+<li><a href="/drama/">Drama</a></li>
+<li><a href="/family/">Family</a></li>
+<li><a href="/fantasy/">Fantasy</a></li>
+<li><a href="/history/">History</a></li>
+<li><a href="/horror/">Horror</a></li>
+<li><a href="/music/">Music</a></li>
+<li><a href="/musical/">Musical</a></li>
+<li><a href="/mystery/">Mystery</a></li>
+<li><a href="/romance/">Romance</a></li>
+<li><a href="/sci-fi/">Sci-Fi</a></li>
+<li><a href="/short/">Short</a></li>
+<li><a href="/sport/">Sport</a></li>
+<li><a href="/thriller/">Thriller</a></li>
+<li><a href="/war/">War</a></li>
+<li><a href="/western/">Western</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+  <div class="left">
+    <div class="left_top">
+      <h1>Featured Movies</h1>
+	  <h2><a href="/featured-movies/">More</a>>></h2>
+    </div>
+    <div class="left_body">
+      <div class="movie_table" >
+        <ul>
+          			   <li>
+				<div class="movie_pic"><a href="/project-almanac-2014-54497.html"  target="_self" title="Project Almanac (2014)">
+				  				  <img src="http://i.imgur.com/WSr3lRL.jpg" width="130" height="190" alt="Project Almanac (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/project-almanac-2014-54497.html" target="_self" title="Project Almanac (2014)">
+					  Project Almanac (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:66px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/black-or-white-2014-54743.html"  target="_self" title="Black or White (2014)">
+				  				  <img src="http://i.imgur.com/daoPWBC.jpg" width="130" height="190" alt="Black or White (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/black-or-white-2014-54743.html" target="_self" title="Black or White (2014)">
+					  Black or White (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:73px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/the-loft-2014-54741.html"  target="_self" title="The Loft (2014)">
+				  				  <img src="http://i.imgur.com/a25eBnA.jpg" width="130" height="190" alt="The Loft (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-loft-2014-54741.html" target="_self" title="The Loft (2014)">
+					  The Loft (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:80px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/blackhat-2015-54496.html"  target="_self" title="Blackhat (2015)">
+				  				  <img src="http://i.imgur.com/o3fmJn4.jpg" width="130" height="190" alt="Blackhat (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/blackhat-2015-54496.html" target="_self" title="Blackhat (2015)">
+					  Blackhat (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:74px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/love-rosie-2014-54656.html"  target="_self" title="Love, Rosie (2014)">
+				  				  <img src="http://i.imgur.com/rIJFbgJ.jpg" width="130" height="190" alt="Love, Rosie (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/love-rosie-2014-54656.html" target="_self" title="Love, Rosie (2014)">
+					  Love, Rosie (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:90px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/the-boy-next-door-2015-54521.html"  target="_self" title="The Boy Next Door (2015)">
+				  				  <img src="http://i.imgur.com/uLpbGto.jpg" width="130" height="190" alt="The Boy Next Door (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-boy-next-door-2015-54521.html" target="_self" title="The Boy Next Door (2015)">
+					  The Boy Next Door (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:77px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/wild-card-2015-54407.html"  target="_self" title="Wild Card (2015)">
+				  				  <img src="http://i.imgur.com/aI7c3si.jpg" width="130" height="190" alt="Wild Card (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/wild-card-2015-54407.html" target="_self" title="Wild Card (2015)">
+					  Wild Card (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:82px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/mortdecai-2015-54369.html"  target="_self" title="Mortdecai (2015)">
+				  				  <img src="http://i.imgur.com/nS5ecEq.jpg" width="130" height="190" alt="Mortdecai (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/mortdecai-2015-54369.html" target="_self" title="Mortdecai (2015)">
+					  Mortdecai (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:75px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/the-wedding-ringer-2015-54007.html"  target="_self" title="The Wedding Ringer (2015)">
+				  				  <img src="http://i.imgur.com/9uLadmX.jpg" width="130" height="190" alt="The Wedding Ringer (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-wedding-ringer-2015-54007.html" target="_self" title="The Wedding Ringer (2015)">
+					  The Wedding Ringer (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:81px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/escobar-paradise-lost-2014-54006.html"  target="_self" title="Escobar: Paradise Lost (2014)">
+				  				  <img src="http://i.imgur.com/i9vGvsQ.jpg" width="130" height="190" alt="Escobar: Paradise Lost (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/escobar-paradise-lost-2014-54006.html" target="_self" title="Escobar: Paradise Lost (2014)">
+					  Escobar: Paradise Lost (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:81px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+		        </ul>
+      </div>
+    </div>
+    <div class="left_top">
+      <h1>New Releases</h1>
+	  <h2><a href="/new-releases/">More</a>>></h2>
+    </div>	
+    <div class="left_body">
+      <div class="movie_table" >
+        <ul>
+          			   <li>
+				<div class="movie_pic"><a href="/the-timber-2015-54831.html"  target="_self" title="The Timber (2015)">
+				  				  <img src="http://i.imgur.com/gL69yYC.jpg" width="130" height="190" alt="The Timber (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-timber-2015-54831.html" target="_self" title="The Timber (2015)">
+					  The Timber (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:59px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/bodybuilder-2014-54830.html"  target="_self" title="Bodybuilder (2014)">
+				  				  <img src="http://i.imgur.com/QGZCxYg.jpg" width="130" height="190" alt="Bodybuilder (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/bodybuilder-2014-54830.html" target="_self" title="Bodybuilder (2014)">
+					  Bodybuilder (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:78px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/dont-go-breaking-my-heart-2-2014-54829.html"  target="_self" title="Don't Go Breaking My Heart 2 (2014)">
+				  				  <img src="http://i.imgur.com/5PBatj3.jpg" width="130" height="190" alt="Don't Go Breaking My Heart 2 (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/dont-go-breaking-my-heart-2-2014-54829.html" target="_self" title="Don't Go Breaking My Heart 2 (2014)">
+					  Don't Go Breaking My Heart 2 (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:100px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/grizzly-2014-54828.html"  target="_self" title="Grizzly (2014)">
+				  				  <img src="http://i.imgur.com/MbX9ENR.jpg" width="130" height="190" alt="Grizzly (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/grizzly-2014-54828.html" target="_self" title="Grizzly (2014)">
+					  Grizzly (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:90px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/a-mouse-tale-2015-54827.html"  target="_self" title="A Mouse Tale (2015)">
+				  				  <img src="http://i.imgur.com/P5UPctN.jpg" width="130" height="190" alt="A Mouse Tale (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/a-mouse-tale-2015-54827.html" target="_self" title="A Mouse Tale (2015)">
+					  A Mouse Tale (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:100px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/little-red-riding-hood-2015-54825.html"  target="_self" title="Little Red Riding Hood (2015)">
+				  				  <img src="http://i.imgur.com/ukGk8UU.jpg" width="130" height="190" alt="Little Red Riding Hood (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/little-red-riding-hood-2015-54825.html" target="_self" title="Little Red Riding Hood (2015)">
+					  Little Red Riding Hood (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:46px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/my-mistress-2014-54820.html"  target="_self" title="My Mistress (2014)">
+				  				  <img src="http://i.imgur.com/CSrITzo.jpg" width="130" height="190" alt="My Mistress (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/my-mistress-2014-54820.html" target="_self" title="My Mistress (2014)">
+					  My Mistress (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:86px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/weapon-of-choice-2014-54811.html"  target="_self" title="Weapon of Choice (2014)">
+				  				  <img src="http://i.imgur.com/G6SDBAr.jpg" width="130" height="190" alt="Weapon of Choice (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/weapon-of-choice-2014-54811.html" target="_self" title="Weapon of Choice (2014)">
+					  Weapon of Choice (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:64px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/last-summer-2013-54809.html"  target="_self" title="Last Summer (2013)">
+				  				  <img src="http://i.imgur.com/eMYK8B4.jpg" width="130" height="190" alt="Last Summer (2013)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/last-summer-2013-54809.html" target="_self" title="Last Summer (2013)">
+					  Last Summer (2013)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:73px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/legacy-of-thorn-2014-54804.html"  target="_self" title="Legacy of Thorn (2014)">
+				  				  <img src="http://i.imgur.com/fBWjMrT.jpg" width="130" height="190" alt="Legacy of Thorn (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/legacy-of-thorn-2014-54804.html" target="_self" title="Legacy of Thorn (2014)">
+					  Legacy of Thorn (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:52px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+		        </ul>
+      </div>
+    </div>
+    <div class="left_top">
+      <h1>Most Viewed Today</h1>
+	  <h2><a href="/most-viewed-today/">More</a>>></h2>
+    </div>	
+    <div class="left_body">
+      <div class="movie_table" >
+        <ul>
+          			   <li>
+				<div class="movie_pic"><a href="/american-sniper-2014-53565.html"  target="_self" title="American Sniper (2014)">
+				  				  <img src="http://i.imgur.com/Ot9R6mL.jpg" width="130" height="190" alt="American Sniper (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/american-sniper-2014-53565.html" target="_self" title="American Sniper (2014)">
+					  American Sniper (2014)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:87px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/the-boy-next-door-2015-54521.html"  target="_self" title="The Boy Next Door (2015)">
+				  				  <img src="http://i.imgur.com/uLpbGto.jpg" width="130" height="190" alt="The Boy Next Door (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-boy-next-door-2015-54521.html" target="_self" title="The Boy Next Door (2015)">
+					  The Boy Next Door (2015)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:77px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/project-almanac-2014-54497.html"  target="_self" title="Project Almanac (2014)">
+				  				  <img src="http://i.imgur.com/WSr3lRL.jpg" width="130" height="190" alt="Project Almanac (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/project-almanac-2014-54497.html" target="_self" title="Project Almanac (2014)">
+					  Project Almanac (2014)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:66px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/big-hero-6-2014-51806.html"  target="_self" title="Big Hero 6 (2014)">
+				  				  <img src="http://i.imgur.com/o0OVSbe.jpg" width="130" height="190" alt="Big Hero 6 (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/big-hero-6-2014-51806.html" target="_self" title="Big Hero 6 (2014)">
+					  Big Hero 6 (2014)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:86px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/taken-3-2014-53762.html"  target="_self" title="Taken 3 (2014)">
+				  				  <img src="http://i.imgur.com/kmxbYal.jpg" width="130" height="190" alt="Taken 3 (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/taken-3-2014-53762.html" target="_self" title="Taken 3 (2014)">
+					  Taken 3 (2014)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:81px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/seventh-son-2014-53579.html"  target="_self" title="Seventh Son (2014)">
+				  				  <img src="http://i.imgur.com/lcDufbk.jpg" width="130" height="190" alt="Seventh Son (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/seventh-son-2014-53579.html" target="_self" title="Seventh Son (2014)">
+					  Seventh Son (2014)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:80px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/blackhat-2015-54496.html"  target="_self" title="Blackhat (2015)">
+				  				  <img src="http://i.imgur.com/o3fmJn4.jpg" width="130" height="190" alt="Blackhat (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/blackhat-2015-54496.html" target="_self" title="Blackhat (2015)">
+					  Blackhat (2015)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:74px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/wild-card-2015-54407.html"  target="_self" title="Wild Card (2015)">
+				  				  <img src="http://i.imgur.com/aI7c3si.jpg" width="130" height="190" alt="Wild Card (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/wild-card-2015-54407.html" target="_self" title="Wild Card (2015)">
+					  Wild Card (2015)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:82px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/the-wedding-ringer-2015-54007.html"  target="_self" title="The Wedding Ringer (2015)">
+				  				  <img src="http://i.imgur.com/9uLadmX.jpg" width="130" height="190" alt="The Wedding Ringer (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-wedding-ringer-2015-54007.html" target="_self" title="The Wedding Ringer (2015)">
+					  The Wedding Ringer (2015)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:81px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/horrible-bosses-2-2014-52497.html"  target="_self" title="Horrible Bosses 2 (2014)">
+				  				  <img src="http://i.imgur.com/5kv5DyZ.jpg" width="130" height="190" alt="Horrible Bosses 2 (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/horrible-bosses-2-2014-52497.html" target="_self" title="Horrible Bosses 2 (2014)">
+					  Horrible Bosses 2 (2014)					  </a></h1>
+				    <div class="movie_about_rate">					
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:82px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+		        </ul>
+      </div>
+    </div>	
+    <div class="left_top">
+      <h1>Latest HD Movies</h1>
+	  <h2><a href="/latest-hd-movies/">More</a>>></h2>
+    </div>	
+    <div class="left_body">
+      <div class="movie_table" >
+        <ul>
+          			   <li>
+				<div class="movie_pic"><a href="/the-theory-of-everything-2014-52021.html"  target="_self" title="The Theory of Everything (2014)">
+				  				  <img src="http://i.imgur.com/6nEmKKJ.jpg" width="130" height="190" alt="The Theory of Everything (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-theory-of-everything-2014-52021.html" target="_self" title="The Theory of Everything (2014)">
+					  The Theory of Everything (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:89px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/the-boy-next-door-2015-54521.html"  target="_self" title="The Boy Next Door (2015)">
+				  				  <img src="http://i.imgur.com/uLpbGto.jpg" width="130" height="190" alt="The Boy Next Door (2015)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/the-boy-next-door-2015-54521.html" target="_self" title="The Boy Next Door (2015)">
+					  The Boy Next Door (2015)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:77px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/beyond-the-lights-2014-51973.html"  target="_self" title="Beyond the Lights (2014)">
+				  				  <img src="http://i.imgur.com/u8K98G7.jpg" width="130" height="190" alt="Beyond the Lights (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/beyond-the-lights-2014-51973.html" target="_self" title="Beyond the Lights (2014)">
+					  Beyond the Lights (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:85px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/birdman-2014-53569.html"  target="_self" title="Birdman (2014)">
+				  				  <img src="http://i.imgur.com/1sOEA5q.jpg" width="130" height="190" alt="Birdman (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/birdman-2014-53569.html" target="_self" title="Birdman (2014)">
+					  Birdman (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:72px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/top-five-2014-53374.html"  target="_self" title="Top Five (2014)">
+				  				  <img src="http://i.imgur.com/yjEqazG.jpg" width="130" height="190" alt="Top Five (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/top-five-2014-53374.html" target="_self" title="Top Five (2014)">
+					  Top Five (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:77px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/paddington-2014-53075.html"  target="_self" title="Paddington (2014)">
+				  				  <img src="http://i.imgur.com/DiGrK12.jpg" width="130" height="190" alt="Paddington (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/paddington-2014-53075.html" target="_self" title="Paddington (2014)">
+					  Paddington (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:77px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/addicted-2014-50966.html"  target="_self" title="Addicted (2014)">
+				  				  <img src="http://i.imgur.com/g9cp6YZ.jpg" width="130" height="190" alt="Addicted (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/addicted-2014-50966.html" target="_self" title="Addicted (2014)">
+					  Addicted (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:79px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/kill-the-messenger-2014-53694.html"  target="_self" title="Kill the Messenger (2014)">
+				  				  <img src="http://i.imgur.com/FJ4GsPh.jpg" width="130" height="190" alt="Kill the Messenger (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/kill-the-messenger-2014-53694.html" target="_self" title="Kill the Messenger (2014)">
+					  Kill the Messenger (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:88px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/taken-3-2014-53762.html"  target="_self" title="Taken 3 (2014)">
+				  				  <img src="http://i.imgur.com/kmxbYal.jpg" width="130" height="190" alt="Taken 3 (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/taken-3-2014-53762.html" target="_self" title="Taken 3 (2014)">
+					  Taken 3 (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:81px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+					   <li>
+				<div class="movie_pic"><a href="/alexander-and-the-terrible-horrible-no-good-very-bad-day-2014-52845.html"  target="_self" title="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)">
+				  				  <img src="http://i.imgur.com/iymbBag.jpg" width="130" height="190" alt="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)" >
+				  				  </a>
+				</div>
+				<div class="movie_about">
+					<h1><a href="/alexander-and-the-terrible-horrible-no-good-very-bad-day-2014-52845.html" target="_self" title="Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)">
+					  Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)					  </a></h1>
+				    <div class="movie_about_rate">
+					  <div id="vote">
+						<ul class="unit-rating" style="width:100px; ">
+						  <li class="current-rating" style="width:85px;background:url(/images/images/starrating.gif)bottom left repeat-x;"></li>
+						</ul>
+					  </div>
+				    </div>
+				 </div>                
+			   </li>
+		        </ul>
+      </div>
+    </div>	
+  </div>
+</div>
+<div class="foot">
+  <div class="bottom"><br />
+    <div class="copyright">movie25 does not host or upload any video, films, media files ( avi, mov, flv, mpg, mpeg, divx, dvd rip, mp3, mp4, torrent, ipod, psp ). <br />
+      movie25 is absolutly legal and contain only links to other sites on the Internet : (Google, Dailymotion, YouTube, etc.). movie25 is not <br />
+      responsible for what other people upload to 3rd party sites. We urge all copyright owners, to recognize that the links contained within this site<br />
+      are located somewhere else on the web. If you have any legal issues<br />
+      please contact appropriate media file owners / hosters.</div>
+  </div>
+</div>
+<div id="smallLay" >
+  <div id="Div_style">
+    <h1 id="Div_tit"></h1>
+    <h2 onclick="showexit()">X</h2>
+  </div>
+  <ul>
+    <span id="DivIDstr"></span>
+  </ul>
+</div>
+<!-- Histats.com  START (hidden counter)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="cool hit counter" ><script  type="text/javascript" >
+try {Histats.start(1,2722165,4,0,0,0,"");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2722165&101" alt="cool hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+<script type="text/javascript" src="http://www.adcash.com/script/java.php?option=rotateur&rotateur=297259"></script>
+<script language="javascript">Ajax_user();</script>
+<script data-cfasync="false">
+var _gunggo={settings:{siteID:"S0004496",pop:{type:"tab"}}};
+</script>
+<script data-cfasync="false" src="//cdn.directrev.com/js/gp.min.js?s=S0004496"></script>
+</body>
+</html>

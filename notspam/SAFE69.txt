@@ -1,0 +1,1280 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="shortcut icon" href="http://pbs.twimg.com/media/BDRs9CpCEAEGIXU.png">
+<meta name="distribution" content="global">
+<meta name="robots" content="index,follow">
+<meta name="title" content="MEGASHARE.TO - Watch Full Movies Online For Free MEGASHARE.INFO">
+<meta name="description" content="Megashare - Watch Movies Online Free. Download your newest movies online free on Megashare.info. No registration required at MEGASHARE.">
+<meta name="keywords" content="Watch, movies, online, free, films, watch movies online for free, movies online, free movies, free films">
+<meta property="og:title" content="Megashare.to: Megashare.info is back!" />
+<meta property="og:description" content="Megashare is now Megashare.TO!" /> 
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.megashare.to/" />
+<meta property="og:image" content="http://img.megashare.to/fb_graphic.png" />
+<meta property="og:site_name" content="megashare.to" />
+<style>html,body{font-size:12px;font-family:'Lucida Grande', Verdana, Arial, Sans-Serif;color:#565050;line-height:1.2em;margin:0;padding:0}
+small{font-family:Arial, Helvetica, Sans-Serif;font-size:10px;line-height:1.5em}
+h1,h2,h3{font-family:'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;font-weight:700}
+h1{font-size:4em;text-align:center}
+h2{font-size:1.6em}
+h2.pagetitle{margin:0}
+h3{font-size:1.3em}
+acronym,abbr,span.caps{font-size:.9em;letter-spacing:.07em;cursor:help}
+a:link,a:visited{color:#A42828;text-decoration:none}
+a:hover{color:#565050;text-decoration:underline}
+.clear{clear:both}
+p img{max-width:100%;padding:0}
+p{margin:0 0 10px}
+#dhtmltooltip{color:#000;font-size:10px;position:absolute;left:-300px;width:350px;border:1px solid #000;background-color:#f6f6f6;visibility:hidden;z-index:100;padding:5px}
+#dhtmlpointer{position:absolute;left:-300px;z-index:101;visibility:hidden}
+#header{width:980px;height:70px;margin:0 auto;padding:0}
+#headleft{width:400px;float:left;text-align:left}
+#headright{width:580px;float:left;text-align:right;text-transform:lowercase;padding-top:5px}
+#headright ul{list-style:none}
+#headright li{display:inline;margin:0 0 0 15px}
+#searchwrap{height:27px;float:right;background:url(http://www.megashare.to/assets/searchwrap.jpg) top left no-repeat;margin:0}
+#searchwrap input{vertical-align:middle;background:none;color:#A7A7A7;font-family:arial,helvetica,verdana,sans-serif}
+#searchwrap #s{font-size:14px;border:none;margin-right:3px;width:250px;padding:4px}
+#searchsubmit{width:60px;z-index:-10}
+#popupbox{float:left}
+#featured{width:100%;height:375px;background:url(http://i1.ytimg.com/bg/4SsNCe5dUdht97SIdDYXwQ/102.jpg) top left repeat-x;overflow:hidden;padding:15px 0 0}
+#watchnow{position:absolute;top:250px;left:10px;width:180px;height:29px;background:url(http://i1.ytimg.com/bg/4SsNCe5dUdht97SIdDYXwQ/103.jpg) top left no-repeat;cursor:pointer}
+#watchnow:hover{background:url(http://i1.ytimg.com/bg/4SsNCe5dUdht97SIdDYXwQ/104.jpg) top left no-repeat}
+.insert{position:absolute;top:0;left:25px;width:200px;height:350px;background:url(http://pbs.twimg.com/profile_background_images/457878418797768704/_IwOn354.png) top left no-repeat;color:#FFF;line-height:1.2em;margin:0 0 0 550px;padding:0}
+.insert h2{line-height:1em;font-size:15px;font-weight:400;margin:0 0 10px}
+.insert a:link,.insert a:hover,.insert a:visited{color:#FFF;text-decoration:none}
+.ftext{font-family:Verdana,Arial,Verdana,Helvetica,sans-serif;font-size:11px;word-wrap:break-word;width:180px;text-align:left;padding:10px 0 0 10px}
+#slider{width:100%;position:relative;margin:0 auto}
+.scroll{height:350px;width:800px;overflow:auto;overflow-x:hidden;position:relative;left:0;margin:0 auto}
+.scrollContainer div.panel{height:350px;width:800px;overflow:hidden}
+#shade{height:50px}
+.scrollButtons{position:absolute;top:140px;cursor:pointer}
+.scrollButtons.left{left:20px}
+.scrollButtons.right{right:20px}
+#contentwrap{width:100%;background:#EFEFEF;border-bottom:1px solid #D3D3D3;float:left}
+#pagewrap{width:100%;background:#EFEFEF;border-bottom:1px solid #D3D3D3;border-top:1px solid #D3D3D3;float:left}
+#content{width:980px;margin:0 auto;padding:5px 0 15px}
+#menubar{width:980px;height:25px}
+ul,li{border:0;list-style:none;margin:0;padding:0}
+.FilmCat{font-size:11px;color:gray}
+.FilmName{font-weight:700}
+.title-main{font-size:11pt;font-family:Trebuchet MS,sans-serif;font-weight:700;color:#fff;letter-spacing:-1px;background:url(http://i1.ytimg.com/bg/T-G2C_J77_4m24vYDG95RQ/103.jpg) left no-repeat;margin-bottom:3px;padding:2px 7px}
+.listtop{width:740px;float:left;margin:0}
+#videogallery{width:740px;float:left}
+.titlechannel{font-size:14px;width:740px;padding-bottom:10px;text-transform:uppercase}
+.videoitem{width:180px;height:235px;float:left;background:url(http://i3.ytimg.com/bg/RLwJEImWLbopSyp_0mvu0g/110.jpg) top center no-repeat;padding-top:9px}
+.thumbnail{width:180.9px;padding:0 0 10px}
+h2.itemtitle{font-size:14px;font-weight:400;display:block;width:142px;margin:10px 0 0;padding:0}
+#catSub{text-transform:none;border-bottom-style:solid;width:190px;border-color:#1b1b1b;border-width:0;margin:3px;padding:3px}
+a.catSub{color:#A42828}
+a.catSub :link,a.catSub :active,a.catSub :visited{color:#FFF}
+a.catSub:hover{color:blue}
+#sidebar{width:240px;float:left;text-align:left;margin:0;padding:15px 0 0}
+acronym,abbr{border-bottom:1px dashed #999}
+blockquote{padding-left:20px;border-left:5px solid #ddd;margin:15px 30px 0 10px}
+blockquote cite{display:block;margin:5px 0 0}
+.center{text-align:center}
+a img{border:none}
+#footer{width:980px;clear:both;margin:0 auto;padding:5px 0 50px}
+#footer a:link,#footer a:visited{color:#565050}
+#footer small{color:#999191}
+.hide,.hidden,hr{display:none}
+img.thumb,a:hover img.thumb{width:116px;height:142px}
+#contentx { background: #000  ; padding: 10px 15px 10px 10px; }
+#contentx h1 { text-align: left; margin-top:0px;font-size: 18px; color: #fff;}
+#maincontent4 { background: #fff; padding: 5px;}
+</style>
+<script language="javascript1.1" src="http://www.megashare.to/assets/load.php"></script>
+<script language="javascript1.1" src="http://www.megashare.to/assets/call.php"></script>
+<script type="text/javascript" charset="utf-8">
+var http = createRequestObject();
+
+function createRequestObject() {
+var xmlhttp;
+try {
+xmlhttp = new ActiveXObject("Msxml2.XMLHTTP")
+} catch (e) {
+try {
+xmlhttp = new ActiveXObject("Microsoft.XMLHTTP")
+} catch (f) {
+xmlhttp = null
+}
+}
+if (!xmlhttp && typeof XMLHttpRequest != "undefined") {
+xmlhttp = new XMLHttpRequest()
+}
+return xmlhttp
+}
+
+function eHide(_objName) {
+eval(_objName).style.visibility = "hidden"
+}
+
+function eShow(_objName) {
+eval(_objName).style.visibility = ""
+}
+_urlLast = '';
+
+function urlChange() {
+try {
+var _urlCurrent = window.location.href;
+if (_urlCurrent != _urlLast) {
+_urlLast = _urlCurrent;
+return true
+}
+} catch (e) {}
+return false
+}
+
+function urlReset() {
+_urlLast = ''
+}
+
+function urlEncode(_uniString) {
+try {
+var _st = _uniString;
+_st = _st.replace(/\n/g, '<BR>');
+_st = _st.replace(/&amp;/g, '%26');
+_st = _st.replace(/&/g, '%26');
+return _st
+} catch (_e) {
+return ''
+}
+}
+_urlSplitChar = ',';
+
+function urlRequest(_id) {
+try {
+var _urlCurrent = window.location.href;
+_urlCurrent = _urlCurrent.split('#');
+if (_urlCurrent[1]) {
+_urlCurrent = _urlCurrent[1];
+if (_id) {
+_urlCurrent = _urlCurrent.split(_urlSplitChar);
+if (_urlCurrent[_id]) return _urlCurrent[_id]
+} else return _urlCurrent
+}
+} catch (_e) {
+return ''
+}
+return ''
+}
+
+function getVar(cnt) {
+var url;
+url = window.location.href;
+url = url + '#';
+url = url.split('#');
+url = url[1];
+url = url + ',';
+url = url.split(',');
+url = url[cnt];
+if (!url) return '';
+return url
+}
+
+function do_Login() {
+var Username = encodeURIComponent(document.f_Login.txt_UserName.value);
+var PassWord = encodeURIComponent(document.f_Login.txt_PassWord.value);
+if (Username == '') {
+eval("loginError").innerHTML = 'B?n ph?i nh?p <b>T�n s? d?ng</b> dang nh?p.';
+document.f_Login.txt_UserName.value = '';
+eval("loginError").style.display = 'block';
+return false
+}
+if (PassWord == '') {
+eval("loginError").innerHTML = 'B?n ph?i nh?p <b>M?t kh?u</b> dang nh?p.';
+document.f_Login.txt_PassWord.value = '';
+eval("loginError").style.display = 'block';
+return false
+}
+eval("loginHTML").style.display = 'none';
+eval("loadingLogin").style.display = 'block';
+try {
+http.open('POST', 'auth/login');
+http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+http.onreadystatechange = response_Login;
+http.send('obj=doLogin&identity=' + Username + '&password=' + PassWord)
+} catch (e) {} finally {}
+return false
+}
+
+function response_Login() {
+try {
+if ((http.readyState == 4) && (http.status == 200)) {
+document.body.scrollTop = 0;
+response = http.responseText;
+if (response != '') {
+eval("loginHTML").style.display = 'block';
+eval("loadingLogin").style.display = 'none';
+eval("loginError").innerHTML = '' + response + '';
+eval("loginError").style.display = 'block'
+} else {
+location.reload();
+}
+}
+} catch (e) {
+do_Login()
+} finally {}
+}
+var cPage = 1;
+var cView = 1;
+
+function show_HTML(_url) {
+document.body.scrollTop = 400;
+showLoadding('loadingHTML');
+try {
+http.open('POST', 'main/call');
+http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+http.onreadystatechange = response_show_HTML;
+http.send('obj=' + _url + '&page=' + cPage + '&view=' + cView)
+} catch (e) {} finally {}
+return false
+}
+
+function response_show_HTML() {
+try {
+if ((http.readyState == 4) && (http.status == 200)) {
+cancelLoadding('loadingHTML');
+document.body.scrollTop = 500;
+response = http.responseText;
+if (response) eval("mainHTML").innerHTML = response;
+else {
+show_HTML()
+}
+}
+} catch (e) {
+show_HTML()
+} finally {}
+}
+
+function loadPage() {
+var cURL = urlRequest();
+if (!cURL) cURL = 'Home';
+show_HTML(cURL)
+}
+
+function urlCheck() {
+if (urlChange()) setTimeout("loadPage()", 100)
+}
+
+function do_Logout() {
+try {
+http.open('POST', 'http://www.megashare.to/auth/logout');
+http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+http.onreadystatechange = response_doLogout;
+http.send('act=Logout')
+} catch (e) {} finally {}
+return false;
+return false
+}
+
+function response_doLogout() {
+try {
+if ((http.readyState == 4) && (http.status == 200)) {
+response = http.responseText;
+window.location = "main/call?refresh=1"
+}
+} catch (e) {
+alert('Sever error, please click F5 in KeyBoard')
+} finally {}
+}
+
+function do_UpdateInfo() {
+var txtFullname = encodeURIComponent(document.fr_Infomation.txtFullname.value);
+var txtSex = encodeURIComponent(document.fr_Infomation.txtSex.value);
+var txtDay = encodeURIComponent(document.fr_Infomation.txtDay.value);
+var txtMonth = encodeURIComponent(document.fr_Infomation.txtMonth.value);
+var txtYear = encodeURIComponent(document.fr_Infomation.txtYear.value);
+var txtPassword = encodeURIComponent(document.fr_Infomation.txtPassword.value);
+var txtRePassword = encodeURIComponent(document.fr_Infomation.txtRePassword.value);
+var txtEmail = encodeURIComponent(document.fr_Infomation.txtEmail.value);
+var txtAvatar = encodeURIComponent(document.fr_Infomation.txtAvatar.value);
+if (txtPassword != txtRePassword) {
+alert("Password Did not matched!");
+return false
+}
+try {
+http.open('POST', 'http://www.megashare.to/main/call');
+http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+http.onreadystatechange = response_doUpdateInfo;
+http.send('act=UpdateInfo&fullname=' + txtFullname + '&pass=' + txtPassword + '&sex=' + txtSex + '&day=' + txtDay + '&month=' + txtMonth + '&year=' + txtYear + '&mail=' + txtEmail + '&avatar=' + txtAvatar)
+} catch (e) {} finally {}
+return false
+}
+function do_check() {
+var txtUsername = encodeURIComponent(document.fr_Signup.txtUsername.value);
+if (check_Str(txtUsername) == "") {
+alert('Please fill in username.');
+return false;
+}
+try {
+http.open('POST', 'http://www.megashare.to/main/call');
+http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+http.onreadystatechange = response_doCheck;
+http.send('obj=Check&username=' + txtUsername )
+} catch (e) {} finally {}
+return false
+}
+
+function response_doCheck() {
+try {
+if ((http.readyState == 4) && (http.status == 200)) {
+response = http.responseText;
+if (response) {
+document.getElementById("reg_Error").innerHTML = response;
+document.getElementById("reg_Error").style.color  = "red"
+document.getElementById("reg_Error").style.display = "block"
+} else {
+document.getElementById("reg_Error").innerHTML = 'Username is available.';
+document.getElementById("reg_Error").style.color  = "green"
+document.getElementById("reg_Error").style.display = "block"
+}
+}
+} catch (e) {
+alert('Sever error, please click F5 in KeyBoard')
+} finally {}
+}
+function response_doUpdateInfo() {
+try {
+if ((http.readyState == 4) && (http.status == 200)) {
+response = http.responseText;
+if (response) {
+document.getElementById("reg_Error").innerHTML = response;
+document.getElementById("reg_Error").style.display = "block"
+} else {
+alert('Signup successful, you can Login now ...')
+}
+}
+} catch (e) {
+alert('Sever error, please click F5 in KeyBoard')
+} finally {}
+}
+function check_Str(str)
+{
+return str;
+}
+function do_Signup() {
+var txtUsername = encodeURIComponent(document.fr_Signup.txtUsername.value);
+var txtFullname = encodeURIComponent(document.fr_Signup.txtFullname.value);
+var txtSex = encodeURIComponent(document.fr_Signup.txtSex.value);
+var txtDay = encodeURIComponent(document.fr_Signup.txtDay.value);
+var txtMonth = encodeURIComponent(document.fr_Signup.txtMonth.value);
+var txtYear = encodeURIComponent(document.fr_Signup.txtYear.value);
+var txtPassword = encodeURIComponent(document.fr_Signup.txtPassword.value);
+var txtRePassword = encodeURIComponent(document.fr_Signup.txtRePassword.value);
+var txtEmail = encodeURIComponent(document.fr_Signup.txtEmail.value);
+var txtConfirmEmail = encodeURIComponent(document.fr_Signup.txtConfirmEmail.value);
+if (check_Str(txtUsername) == "" || check_Str(txtFullname) == "" || check_Str(txtPassword) == "" || check_Str(txtRePassword) == "" || check_Str(txtEmail) == "" || check_Str(txtConfirmEmail) == "") {
+alert('Please fill in all required fields.');
+return false;
+}
+if (txtPassword != txtRePassword) {
+alert("Password did not matched !");
+return false;
+}
+if (txtEmail != txtConfirmEmail) {
+alert("Email did not matched!");
+return false;
+}
+try {
+http.open('POST', 'http://www.megashare.to/main/call');
+http.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+http.onreadystatechange = response_doSignup;
+http.send('act=Signup&user=' + txtUsername + '&fullname=' + txtFullname + '&pass=' + txtPassword + '&sex=' + txtSex + '&day=' + txtDay + '&month=' + txtMonth + '&year=' + txtYear + '&mail=' + txtEmail)
+} catch (e) {} finally {}
+return false;
+}
+
+function response_doSignup() {
+try {
+if ((http.readyState == 4) && (http.status == 200)) {
+response = http.responseText;
+if (response) {
+document.getElementById("reg_Error").innerHTML = response;
+document.getElementById("reg_Error").style.display = "block"
+} else {
+alert('Signup successful, you can Login now ...');
+window.location = '/'
+}
+}
+} catch (e) {
+alert('Sever error, please click F5 in KeyBoard')
+} finally {}
+}
+
+function check_Search() {
+var txtSearch = document.f_Search.txt_Search.value;
+if (txtSearch.length < 2 || txtSearch == 'Nh&#7853;p t&#7915; kh&#243;a t&#236;m ki&#7871;m ...') {
+alert("T&#7915; kh&#243;a ph&#7843;i c&#243; chi&#7873;u d&#224;i t&#7915; 2 k&#237; t&#7921; tr&#7903; l&#234;n!");
+document.f_Search.txt_Search.focus();
+document.f_Search.txt_Search.value = '';
+return false
+}
+window.location = '#Search,' + txtSearch;
+return false
+}
+
+function getWinSize() {
+if (window.innerHeight) {
+d = (window.scrollMaxY > 0) ? 17 : 0;
+pageWidth = window.innerWidth + window.scrollMaxX - d;
+pageHeight = window.innerHeight + window.scrollMaxY
+} else if (document.body.scrollHeight > document.body.offsetHeight) {
+pageWidth = document.body.scrollWidth;
+pageHeight = document.body.scrollHeight
+} else {
+pageWidth = document.body.offsetWidth + document.body.offsetLeft;
+pageHeight = document.body.offsetHeight + document.body.offsetTop
+}
+var winSize = new Array(pageWidth, pageHeight);
+return winSize
+}
+
+function showDiv(obj) {
+obj.style.display = 'block'
+}
+
+function hideDiv(obj) {
+obj.style.display = 'none'
+}
+
+function showLoadding(dlg) {
+winSize = getWinSize();
+myLoadding = document.getElementById(dlg);
+myLoadding.style.display = 'block';
+myLoadding.style.visibility = 'hidden';
+h = myLoadding.clientHeight;
+w = myLoadding.clientWidth;
+var myMask = document.getElementById('myMask');
+myMask.style.width = winSize[0] + 'px';
+myMask.style.height = winSize[1] + 'px';
+myMask.style.display = 'block';
+var hscroll = (document.all ? document.scrollLeft : window.pageXOffset);
+var vscroll = (document.all ? document.scrollTop : window.pageYOffset);
+left = (winSize[0] - w) / 2;
+myLoadding.style.left = left + 'px';
+myLoadding.style.display = 'block';
+myLoadding.style.visibility = 'visible'
+}
+
+function cancelLoadding(dlg) {
+hideDiv(document.getElementById('myMask'));
+hideDiv(document.getElementById(dlg));
+document.mainHTMLFF.e.focus();
+mainHTML.focus()
+}
+
+function ietruebody() {
+return document.compatMode && document.compatMode != "BackCompat" ? document.documentElement : document.body
+}
+
+function ddrivetip(e, t, n) {
+if (ns6 || ie) {
+if (typeof t != "undefined") tipobj.style.width = t + "px";
+if (typeof n != "undefined" && n != "") tipobj.style.backgroundColor = n;
+tipobj.innerHTML = e;
+enabletip = true;
+return false
+}
+}
+
+function positiontip(e) {
+if (enabletip) {
+var t = false;
+var n = ns6 ? e.pageX : event.clientX + ietruebody().scrollLeft;
+var r = ns6 ? e.pageY : event.clientY + ietruebody().scrollTop;
+var i = ie && !window.opera ? ietruebody().clientWidth : window.innerWidth - 20;
+var s = ie && !window.opera ? ietruebody().clientHeight : window.innerHeight - 20;
+var o = ie && !window.opera ? i - event.clientX - offsetfromcursorX : i - e.clientX - offsetfromcursorX;
+var u = ie && !window.opera ? s - event.clientY - offsetfromcursorY : s - e.clientY - offsetfromcursorY;
+var a = offsetfromcursorX < 0 ? offsetfromcursorX * -1 : -1e3;
+if (o < tipobj.offsetWidth) {
+tipobj.style.left = n - tipobj.offsetWidth + "px";
+t = true
+} else if (n < a) tipobj.style.left = "5px";
+else {
+tipobj.style.left = n + offsetfromcursorX - offsetdivfrompointerX + "px";
+pointerobj.style.left = n + offsetfromcursorX + "px"
+} if (u < tipobj.offsetHeight) {
+tipobj.style.top = r - tipobj.offsetHeight - offsetfromcursorY + "px";
+t = true
+} else {
+tipobj.style.top = r + offsetfromcursorY + offsetdivfrompointerY + "px";
+pointerobj.style.top = r + offsetfromcursorY + "px"
+}
+tipobj.style.visibility = "visible";
+if (!t) pointerobj.style.visibility = "visible";
+else pointerobj.style.visibility = "hidden"
+}
+}
+
+function hideddrivetip() {
+if (ns6 || ie) {
+enabletip = false;
+tipobj.style.visibility = "hidden";
+pointerobj.style.visibility = "hidden";
+tipobj.style.left = "-1000px";
+tipobj.style.backgroundColor = "";
+tipobj.style.width = ""
+}
+}
+var offsetfromcursorX = 12;
+var offsetfromcursorY = 10;
+var offsetdivfrompointerX = 10;
+var offsetdivfrompointerY = 14;
+document.write('<div id="dhtmltooltip"></div>');
+document.write('<img id="dhtmlpointer" src="http://s.ytimg.com/yt/img/pixel-vfl3z5WfW.gif">');
+var ie = document.all;
+var ns6 = document.getElementById && !document.all;
+var enabletip = false;
+if (ie || ns6) var tipobj = document.all ? document.all["dhtmltooltip"] : document.getElementById ? document.getElementById("dhtmltooltip") : "";
+var pointerobj = document.all ? document.all["dhtmlpointer"] : document.getElementById ? document.getElementById("dhtmlpointer") : "";
+document.onmousemove = positiontip;
+</script>
+</head>
+<body>
+<div id="dialog-message" title="Website Update">
+<p>
+Because there were problems with video hosting company, MEGASHARE is Moved from .INFO to .TO .
+<br /><br />
+Welcome BACK !... Thank you for your support!
+<br /><br />
+P.S.: Please spread the world with MEGASHARE.TO as the only Original!
+</p>
+</div>
+<img id="dhtmlpointer" src="http://www.megashare.to/assets/pixel-vfl3z5WfW.gif" style="left: 630px; top: 723px; visibility: hidden;">
+<script type="text/javascript" src="http://www.megashare.to/assets/jquery-1.5.2.js"></script>
+<script src="http://www.megashare.to/assets/jquery.scrollTo.min-1.4.0.js" type="text/javascript"></script>
+<script src="http://www.megashare.to/assets/jquery.localscroll-min.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://www.megashare.to/assets/jquery.serialScroll.min-1.2.1.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.megashare.to/assets/jquery-ui.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.megashare.to/assets/jquery-ui.css">
+<style type="text/css">
+#dialog-message { font: normal normal normal 12px/1.5 Arial, Helvetica, sans-serif; }
+.ui-widget, .ui-widget button {
+font-family: Verdana,Arial,sans-serif;
+font-size: 10px;
+}
+</style>
+<script type="text/javascript">
+$(window).load(function(){
+$("#dialog-message").dialog({
+modal: false,
+draggable: false,
+resizable: false,
+position: ['center', 'center'],
+show: 'blind',
+hide: 'blind',
+width: 400,
+buttons: {
+"I've read and understand this": function() {
+$(this).dialog("close");
+}
+}
+});
+});
+</script>
+<script type="text/javascript" charset="utf-8">$(document).ready(function(){function i(){$(this).parents("ul:first").find("a").removeClass("selected").end().end().addClass("selected")}function s(e){var t=$("#slider .navigation").find('a[href$="'+e.id+'"]').get(0);i.call(t)}var e=$("#slider .scrollContainer > div");var t=$("#slider .scrollContainer");var n=true;if(n){e.css({"float":"left",position:"relative"});t.css("width",e[0].offsetWidth*e.length)}var r=$("#slider .scroll").css("overflow","hidden");r.before('<img class="scrollButtons left" src="http://i1.ytimg.com/bg/T-G2C_J77_4m24vYDG95RQ/101.jpg" />').after('<img class="scrollButtons right" src="http://i1.ytimg.com/bg/T-G2C_J77_4m24vYDG95RQ/102.jpg" />');$("#slider .navigation").find("a").click(i);if(window.location.hash){s({id:window.location.hash.substr(1)})}else{$("ul.navigation a:first").click()}var o=parseInt((n?t.css("paddingTop"):t.css("paddingLeft"))||0)*-1;var u={target:r,items:e,navigation:".navigation a",prev:"img.left",next:"img.right",axis:"xy",onAfter:s,offset:o,duration:550,easing:"swing"};$("#slider").serialScroll(u);$.localScroll(u);u.duration=1;$.localScroll.hash(u)})</script>
+<link rel="alternate" href="http://feeds.feedburner.com/megashare/nPiF?format=xml" title="My RSS feed" type="application/rss+xml">
+<title>MEGASHARE.TO - Watch Full Movies Online For Free MEGASHARE.INFO</title>
+<script type="text/javascript">
+function doClear(theText) {
+if (theText.value == theText.defaultValue) {
+theText.value = ""
+}
+}
+</script>
+<div id="page" style="text-align: center;">
+<div id="header">
+<div id="headleft">
+<a href="http://www.megashare.to/#Home" title=""><img src="http://www.megashare.to/assets/101.jpg" alt=""></a>
+</div>
+<div style="position:absolute;z-index:2;left:530px;top:45px;">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style " addthis:url="http://www.megashare.to" style="color:#FFF; font-family: Arial, Helvetica, sans-serif; font-size: 10px;">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:href="https://www.facebook.com/pages/megashareto/633348930091002" fb:like:width="140" data-width="140"></a>
+<!--<a class="fb-like" data-href="http://www.megashare.to" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false"></a>-->
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5331bea72199bf08"></script>
+<!-- AddThis Button END -->
+</div>
+<div id="headright">
+<style type="text/css">
+#popupbox{
+float: left;
+visibility: hidden;
+}
+</style>
+<script language="JavaScript" type="text/javascript">
+function login(showhide){
+
+if(showhide == "show"){
+document.getElementById('popupbox').style.visibility="visible"; /* If the function is called with the variable 'show', show the login box */
+}else if(showhide == "hide"){
+document.getElementById('popupbox').style.visibility="hidden"; /* If the function is called with the variable 'hide', hide the login box */
+}
+}
+</script>
+<div id="popupbox">
+<form name="f_Login" method="POST" enctype="multipart/form-data" action="" onsubmit="return do_Login();">
+<div id="loadingLogin" style="display:none"><img src="http://www.megashare.to/assets/loading.gif"></div>
+<div id="loginHTML" style="display:">
+Username:
+<input type="text" name="txt_UserName" value="" size="10">
+Password:
+<input type="password" name="txt_PassWord" value="" size="10">
+<input type="submit" name="Login" value="" class="btnLogin">
+<a href="javascript:login('hide');">X</a>
+</div>
+</form>
+</div>
+<ul style="padding-right: 15px;" class="usernav" id="logged-out-nav">
+<li class="border-left">
+<a class="utility-link" href="http://www.megashare.to/#Home">Home</a>
+</li>
+
+<li class="border-left">
+<a href="javascript:login('show');">Login</a>
+</li>
+<li class="border-left">
+<a class="utility-link" href="http://www.megashare.to/#" onclick="window.location=&#39;#Signup&#39;;return false;">Sign Up</a>
+</li>
+
+</ul>
+<div id="searchwrap">
+<form name="f_Search" id="searchForm" method="GET" enctype="multipart/form-data" action="" onsubmit="return check_Search();">
+<input id="s" type="text" value="The Movies Title..." onfocus="doClear(this)" name="txt_Search"><input id="searchsubmit" name="Search" type="image" src="http://www.megashare.to/assets/LzlxJ-uw.png" alt="Submit">
+</form>
+</div>
+</div>
+</div>
+
+<div id="featured" >
+<div id="slider">
+<img class="scrollButtons left" src="http://www.megashare.to/assets/101(1).jpg">
+<div class="scroll" style="overflow: hidden;">
+<div class="scrollContainer" style="width: 4000px;">
+<div class="panel" id="post-22277" style="background-image: url(http://img.megashare.to/thumbs/cover-1403211393-Animal-megashare-film.jpg); float: left; position: relative; background-position: 0% 0%; background-repeat: no-repeat no-repeat;">
+<div class="insert">
+<h2><a href="http://www.megashare.to/watch-Animal-online-22277.html" title="Animal">Animal</a></h2>
+<p class="ftext">When plans for a weekend vacation hit a dead end, a group of close-knit friends find themselves stranded in unfamiliar territory, pursued by a menacing, blood thirsty predator. Holed up in an isolated cabin, tensions mount as long-buried secrets are revealed. As the body count rises, the group must put their differences aside and fight for survival.                Written by
+Chiller</p>
+<a href="http://www.megashare.to/watch-Animal-online-22277.html" title="Animal">
+<div id="watchnow"></div>
+</a>
+</div>
+</div>
+<div class="panel" id="post-22669" style="background-image: url(http://img.megashare.to/thumbs/cover-1419260390-Dumb-And-Dumber-To-megashare-film.jpg); float: left; position: relative; background-position: 0% 0%; background-repeat: no-repeat no-repeat;">
+<div class="insert">
+<h2><a href="http://www.megashare.to/watch-Dumb-And-Dumber-To-online-22669.html" title="Dumb and Dumber To">Dumb and Dumber To</a></h2>
+<p class="ftext">20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption.</p>
+<a href="http://www.megashare.to/watch-Dumb-And-Dumber-To-online-22669.html" title="Dumb and Dumber To">
+<div id="watchnow"></div>
+</a>
+</div>
+</div>
+<div class="panel" id="post-22752" style="background-image: url(http://img.megashare.to/thumbs/cover-1422043016-Taken-3-megashare-film.jpg); float: left; position: relative; background-position: 0% 0%; background-repeat: no-repeat no-repeat;">
+<div class="insert">
+<h2><a href="http://www.megashare.to/watch-Taken-3-online-22752.html" title="Taken 3">Taken 3</a></h2>
+<p class="ftext">Ex-government operative Bryan Mills is accused of a ruthless murder he never committed or witnessed. As he is tracked and pursued, Mills brings out his particular set of skills to find the true killer and clear his name.</p>
+<a href="http://www.megashare.to/watch-Taken-3-online-22752.html" title="Taken 3">
+<div id="watchnow"></div>
+</a>
+</div>
+</div>
+<div class="panel" id="post-22634" style="background-image: url(http://img.megashare.to/thumbs/cover-1417646617-Nightcrawler-megashare-film.jpg); float: left; position: relative; background-position: 0% 0%; background-repeat: no-repeat no-repeat;">
+<div class="insert">
+<h2><a href="http://www.megashare.to/watch-Nightcrawler-online-22634.html" title="Nightcrawler">Nightcrawler</a></h2>
+<p class="ftext">When Lou Bloom, a driven man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.</p>
+<a href="http://www.megashare.to/watch-Nightcrawler-online-22634.html" title="Nightcrawler">
+<div id="watchnow"></div>
+</a>
+</div>
+</div>
+<div class="panel" id="post-22606" style="background-image: url(http://img.megashare.to/thumbs/cover-1416151458-St-Vincent-megashare-film.jpg); float: left; position: relative; background-position: 0% 0%; background-repeat: no-repeat no-repeat;">
+<div class="insert">
+<h2><a href="http://www.megashare.to/watch-St-Vincent-online-22606.html" title="St. Vincent">St. Vincent</a></h2>
+<p class="ftext">A young boy whose parents just divorced finds an unlikely friend and mentor in the misanthropic, bawdy, hedonistic, war veteran who lives next door.</p>
+<a href="http://www.megashare.to/watch-St-Vincent-online-22606.html" title="St. Vincent">
+<div id="watchnow"></div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<img class="scrollButtons right" src="http://www.megashare.to/assets/102.jpg">
+</div>
+</div>
+<div id="contentwrap" style="text-align: center;">
+<div id="content" style="text-align: center;">
+<div id="menubar">
+<div style="text-align:center;padding:0px;margin:2px"><a style="font-size:12px;" title="View All" href="http://www.megashare.to/#AllFilm" onclick="cPage=1;"><b>All</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,A" onclick="cPage=1;"><b>A</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,B" onclick="cPage=1;"><b>B</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,C" onclick="cPage=1;"><b>C</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,D" onclick="cPage=1;"><b>D</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,E" onclick="cPage=1;"><b>E</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,F" onclick="cPage=1;"><b>F</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,G" onclick="cPage=1;"><b>G</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,H" onclick="cPage=1;"><b>H</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,I" onclick="cPage=1;"><b>I</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,J" onclick="cPage=1;"><b>J</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,K" onclick="cPage=1;"><b>K</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,L" onclick="cPage=1;"><b>L</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,M" onclick="cPage=1;"><b>M</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,N" onclick="cPage=1;"><b>N</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,O" onclick="cPage=1;"><b>O</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,P" onclick="cPage=1;"><b>P</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,Q" onclick="cPage=1;"><b>Q</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,R" onclick="cPage=1;"><b>R</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,S" onclick="cPage=1;"><b>S</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,T" onclick="cPage=1;"><b>T</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,U" onclick="cPage=1;"><b>U</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,V" onclick="cPage=1;"><b>V</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,W" onclick="cPage=1;"><b>W</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,X" onclick="cPage=1;"><b>X</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,Y" onclick="cPage=1;"><b>Y</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,Z" onclick="cPage=1;"><b>Z</b></a> &nbsp;|&nbsp; <a style="font-size:12px;" href="http://www.megashare.to/#AllFilm,0-9" onclick="cPage=1;"><b>0-9</b></a> </div>
+</div>
+<br>
+<br>
+<div id="sidebar">
+<div style="padding-left:15px; padding-top:15px;">
+
+<div class="title-main">Single Movies</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,0S5UT2">Action</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,CWTr24">Adventure</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,H7BbEV">Animation</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,0sTEOQ">Comedy</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,UXFYlD">Drama</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,0IFLxG">Fantasy</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1MUQ7C">Horror</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1IQUcV">Sci-Fi</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1YSGsM">Thriller</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,EpEQNK">War</a></li>
+</div>
+<div class="title-main">Series Movies</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#latest_episodes">Latest Episodes</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,151DhJ">Action and Adventure</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,WYFsUM">Cartoon</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1NqRO8">Comedy</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,OjDKMJ">Drama</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,AtFMUV">Family</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,GGT8j9">Fantasy</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1THy4I">News</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,VrUUVR">Romance</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1E2OZy">Science Fiction</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a class="catSub" onclick="urlReset();" href="http://www.megashare.to/#Cat,1K7YJ8">Thriller</a></li>
+</div>
+<div id="catSub" style="padding-left:14px;">
+<li><a target='_blank' href="http://www.seriespepito.to/" title="Series Online" target="_blank">Series Online</a></li>
+</div>
+<div class="title-main">Social</div>
+<div class="social_pages">
+<a target='_blank' class="new-window" href="https://www.facebook.com/pages/megashareto/633348930091002"><img class="facebook" width="28" height="28" title="Join Us on Facebook" src="http://img.megashare.to/fb.png"></a>
+<a target='_blank' class="new-window" href="https://twitter.com/MegashareTo"><img class="twitter" width="28" height="28" title="Follow Us on Twitter" src="http://img.megashare.to/tw.png"></a>
+<a target='_blank' class="new-window" href="http://www.megashare.to/rss-movies.html"><img class="rss_url" width="28" height="28" title="Our RSS Feed" src="http://img.megashare.to/rss.png"></a>
+</div>
+<div class="title-main">Sponsors</div>
+<div class="pages">
+<script type="text/javascript" src="http://srvpub.com/adServe/banners?tid=SP1MEGASHARE.TO_15249_8&size=160x600" ></script>
+</div>
+
+
+
+</div>
+<br><br><br>
+</div>
+<div id="videogallery">
+<style type="text/css">
+#myMask {
+position:absolute;
+left:0px;
+top:0px;
+z-index:1;
+display: none;
+background-color:#000000;
+-moz-opacity: 0.6;
+opacity:0.6;
+filter: alpha(opacity=60);
+}
+#loadingHTML {
+position:absolute;
+z-index:2;
+display: none;
+}
+</style>
+<div id="myMask"></div>
+<div id="loadingHTML" style="text-align:center;display:none;">
+<div style="margin:5px;padding:5px;width:350px;background-color:#FFFFFF;">
+<font color="red"><b>Loading data, please wait ...</b></font><br/>
+<img style="margin-top:2px;" border="0" src="http://www.google.com/mapmaker/mapfiles/loading.gif" width="32" height="32" />
+</div>
+</div>
+<div id="mainHTML" style="text-align:center;">                 <div id="infoo" align="center"><p class="leftTitleC1"><b>IMPORTANT: Please register/login at google (gmail) to watch movies and series online.</b></p>
+				 
+				 <p><strong>Megashare Alternativ Domains: <a href="http://109.163.230.131/">http://109.163.230.131/</a> - <a href="http://www.megashare.tl/">http://www.megashare.tl/</a></strong><br /><br /></p></div>
+
+				<p>
+                  <div class="listtop">
+                        <div class="titlechannel">
+                           <p class="leftTitleC1"><b>Recent Movies Update</b></p>
+                        </div>
+							                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423700028-The-Mark-2-Redemption-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The Mark 2: Redemption&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Moments after parachuting from Flight 777, a former Marine and a flight attendant find themselves descending into a world of madness. Panic and chaos plague the streets, cities are on fire, and they're being hunted by a team of mercenaries.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-The-Mark-2-Redemption-online-10678.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423700028-The-Mark-2-Redemption-megashare-film.jpg" alt="The Mark 2: Redemption"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-The-Mark-2-Redemption-online-10678.html">The Mark 2: Redemption</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0S5UT2,showAll">Single Movies - Action</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423699955-Accidental-Love-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Accidental Love&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;An original political satire about a naive small town waitress who accidentally gets a nail buried in her head, causing erratic and outrageous behavior that leads her to Washington DC. There she falls for a dashing, but clueless, Congressman who searches for the courage to save her.                Written by
+Anonymous&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Accidental-Love-online-22778.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423699955-Accidental-Love-megashare-film.jpg" alt="Accidental Love"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Accidental-Love-online-22778.html">Accidental Love</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423604742-Dragonheart-3-The-Sorcerer-S-Curse-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Dragonheart 3: The Sorcerer's Curse&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;When aspiring knight Gareth goes in search of a fallen comet rumored to contain gold, he is shocked to instead find the dragon Drago. After Drago saves Gareth's life the two become intricately bonded, and must work together to defeat an evil sorcerer and stop his reign of terror. Along the way, Gareth learns the true meaning of being a knight in this fantasy action-adventure for the ages.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Dragonheart-3-The-Sorcerer-S-Curse-online-22776.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423604742-Dragonheart-3-The-Sorcerer-S-Curse-megashare-film.jpg" alt="Dragonheart 3: The Sorcerer's Curse"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Dragonheart-3-The-Sorcerer-S-Curse-online-22776.html">Dragonheart 3: The Sorcerer's Curse</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,CWTr24,showAll">Single Movies - Adventure</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423604665-The-Better-Angels-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The Better Angels&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Indiana, 1817. The entire nation, only 40 years old and a few years removed from a second war of independence, is raw. Men, women, and children alike must battle nature and disease to survive in remote log cabins. This is young Abraham Lincoln's world. Spanning three years of the future president's childhood, The Better Angels explores his family, the hardships that shaped him, the tragedy that marked him forever, and the two women who guided him to immortality.                Written by
+Amplify&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-The-Better-Angels-online-22777.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423604665-The-Better-Angels-megashare-film.jpg" alt="The Better Angels"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-The-Better-Angels-online-22777.html">The Better Angels</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423516453-Starry-Eyes-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Starry Eyes&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;A hopeful young starlet uncovers the ominous origins of the Hollywood elite and enters into a deadly agreement in exchange for fame and fortune.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Starry-Eyes-online-22774.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423516453-Starry-Eyes-megashare-film.jpg" alt="Starry Eyes"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Starry-Eyes-online-22774.html">Starry Eyes</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,1MUQ7C,showAll">Single Movies - Horror</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423516407-Convict-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Convict&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Set in the dark and old Parramatta prison built by the original convicts our lead character Ray a war veteran finds himself serving 18 months for manslaughter after defending his fiance. He soon realizes that the prison boss has it in for him and does everything possible to break Ray even going after his fiance. He has to learn how to navigate his way around the internal politics and turf wars that exist and find a way to make it through to see his fiance again.                Written by
+George &#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Convict-online-22773.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423516407-Convict-megashare-film.jpg" alt="Convict"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Convict-online-22773.html">Convict</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1417645410-Supernatural-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Supernatural S10 E13&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Two brothers follow their father's footsteps as \"hunters\" fighting evil supernatural beings of many kinds including monsters, demons, and gods that roam the earth.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Supernatural-season-10-episode-13-online-11950.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1417645410-Supernatural-megashare-film.jpg" alt="Supernatural S10 E13"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Supernatural-season-10-episode-13-online-11950.html">Supernatural S10 E13</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1420654989-Agent-Carter-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Agent Carter S01 E06&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Peggy Carter becomes a S.H.I.E.L.D. agent during WW2 after her boyfriend, Steve Rogers (Captain America) is feared dead in an explosion.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Agent-Carter-season-01-episode-06-online-22713.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1420654989-Agent-Carter-megashare-film.jpg" alt="Agent Carter S01 E06"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Agent-Carter-season-01-episode-06-online-22713.html">Agent Carter S01 E06</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,151DhJ,showAll">Series Movies - Action</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1411502993-Gotham-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Gotham S01 E15&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;The origin story behind Commissioner James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Gotham-season-01-episode-15-online-22503.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1411502993-Gotham-megashare-film.jpg" alt="Gotham S01 E15"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Gotham-season-01-episode-15-online-22503.html">Gotham S01 E15</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1423604462-Better-Call-Saul-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Better Call Saul S01 E01&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;The trials and tribulations of criminal lawyer, Saul Goodman, in the time leading up to establishing his strip-mall law office in Albuquerque, New Mexico.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Better-Call-Saul-season-01-episode-01-online-22775.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1423604462-Better-Call-Saul-megashare-film.jpg" alt="Better Call Saul S01 E01"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Better-Call-Saul-season-01-episode-01-online-22775.html">Better Call Saul S01 E01</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,1NqRO8,showAll">Series Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1415653592-The-Walking-Dead-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The Walking Dead S05 E09&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Police officer Rick Grimes leads a group of survivors in a world overrun by zombies.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-The-Walking-Dead-season-05-episode-09-online-22309.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1415653592-The-Walking-Dead-megashare-film.jpg" alt="The Walking Dead S05 E09"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-The-Walking-Dead-season-05-episode-09-online-22309.html">The Walking Dead S05 E09</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1392569659-Game-Of-Thrones-Das-Lied-Von-Eis-Und-Feuer-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Game of Thrones S05 E00&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Seven noble families fight for control of the mythical land of Westeros.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Game-Of-Thrones-season-05-episode-00-online-11946.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1392569659-Game-Of-Thrones-Das-Lied-Von-Eis-Und-Feuer-movie8k-film.jpg" alt="Game of Thrones S05 E00"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Game-Of-Thrones-season-05-episode-00-online-11946.html">Game of Thrones S05 E00</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+												
+                        <div style="text-align:right;width:720px;margin-top:0px;margin-bottom:15px;margin-right:5px;float: left;"><a style="color:#5588BB" href="http://www.megashare.to/#AllFilm">Next &gt;&gt;&gt;</a></div>
+                        &nbsp;
+                     </div>
+					 
+					 <div class="listtop">
+                        <div class="titlechannel">
+                           <p class="leftTitleC1"><b>Most Popular Series</b></p>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1392569659-Game-Of-Thrones-Das-Lied-Von-Eis-Und-Feuer-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Game of Thrones&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Game-Of-Thrones-watch-tvshow-11946.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1392569659-Game-Of-Thrones-Das-Lied-Von-Eis-Und-Feuer-movie8k-film.jpg" alt="Game of Thrones"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Game-Of-Thrones-watch-tvshow-11946.html">Game of Thrones</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1415653592-The-Walking-Dead-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The Walking Dead&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/The-Walking-Dead-watch-tvshow-22309.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1415653592-The-Walking-Dead-megashare-film.jpg" alt="The Walking Dead"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/The-Walking-Dead-watch-tvshow-22309.html">The Walking Dead</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1392292255-Pretty-Little-Liars-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Pretty Little Liars&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Pretty-Little-Liars-watch-tvshow-11966.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1392292255-Pretty-Little-Liars-movie8k-film.jpg" alt="Pretty Little Liars"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Pretty-Little-Liars-watch-tvshow-11966.html">Pretty Little Liars</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1403551187-Teen-Wolf-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Teen Wolf&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Teen-Wolf-watch-tvshow-22326.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1403551187-Teen-Wolf-megashare-film.jpg" alt="Teen Wolf"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Teen-Wolf-watch-tvshow-22326.html">Teen Wolf</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,1NqRO8,showAll">Series Movies - Comedy</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1403718952-Falling-Skies-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Falling Skies&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Falling-Skies-watch-tvshow-22338.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1403718952-Falling-Skies-megashare-film.jpg" alt="Falling Skies"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Falling-Skies-watch-tvshow-22338.html">Falling Skies</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,151DhJ,showAll">Series Movies - Action</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1392123299-True-Blood-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: True Blood&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/True-Blood-watch-tvshow-11954.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1392123299-True-Blood-movie8k-film.jpg" alt="True Blood"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/True-Blood-watch-tvshow-11954.html">True Blood</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1403889601-The-Last-Ship-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The Last Ship&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/The-Last-Ship-watch-tvshow-22345.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1403889601-The-Last-Ship-megashare-film.jpg" alt="The Last Ship"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/The-Last-Ship-watch-tvshow-22345.html">The Last Ship</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1392291998-The-Vampire-Diaries-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The Vampire Diaries&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/The-Vampire-Diaries-watch-tvshow-11965.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1392291998-The-Vampire-Diaries-movie8k-film.jpg" alt="The Vampire Diaries"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/The-Vampire-Diaries-watch-tvshow-11965.html">The Vampire Diaries</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1404046971-Vikings-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Vikings&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Vikings-watch-tvshow-22357.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1404046971-Vikings-megashare-film.jpg" alt="Vikings"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Vikings-watch-tvshow-22357.html">Vikings</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1403356904-Dominion-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Dominion&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Dominion-watch-tvshow-22306.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1403356904-Dominion-megashare-film.jpg" alt="Dominion"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Dominion-watch-tvshow-22306.html">Dominion</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,OjDKMJ,showAll">Series Movies - Drama</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1401415322-The-100-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: The 100&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/The-100-watch-tvshow-22053.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1401415322-The-100-megashare-film.jpg" alt="The 100"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/The-100-watch-tvshow-22053.html">The 100</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,1E2OZy,showAll">Series Movies - Sci-Fi</a></div>
+                        </div>
+						<div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1402970513-Californication-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Californication&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;nA&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/Californication-watch-tvshow-22258.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1402970513-Californication-megashare-film.jpg" alt="Walk of Shame"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/Californication-watch-tvshow-22258.html">Californication</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,1NqRO8,showAll">Series Movies - Comedy</a></div>
+                        </div>					
+                        <div style="text-align:right;width:720px;margin-top:0px;margin-bottom:15px;margin-right:5px;float: left;"><a style="color:#5588BB" href="http://www.megashare.to/#AllFilm">Next &gt;&gt;&gt;</a></div>
+                        &nbsp;
+                     </div>
+					 
+					                     <div class="listtop">
+                        <div class="titlechannel">
+                           <p class="leftTitleC1"><b>Most Views Movies</b></p>
+                        </div>
+							                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115160-Women-Art-Revolution-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: !Women Art Revolution&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Through intimate interviews, provocative art, and rare, historical film and video footage, this feature documentary reveals how art addressing political consequences of discrimination and violence, the Feminist Art Revolution radically transformed the art and culture of our times.                Written by
+Anonymous&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Women-Art-Revolution-online-1.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115160-Women-Art-Revolution-movie8k-film.jpg" alt="!Women Art Revolution"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Women-Art-Revolution-online-1.html">!Women Art Revolution</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,YF4JUq,showAll">Single Movies - Documentary</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115224-1-Cheerleader-Camp-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: #1 Cheerleader Camp&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;When they're hired to work at a cheerleading camp for the summer, two lusty college friends prepare for the most spirited three months of their lives. But the squad won't be ready for serious competition without some remedial training in sex appeal.                Written by
+Anonymous&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-Cheerleader-Camp-online-2.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115224-1-Cheerleader-Camp-movie8k-film.jpg" alt="#1 Cheerleader Camp"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-Cheerleader-Camp-online-2.html">#1 Cheerleader Camp</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115242-5-A-Day-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: $5.00 a day&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;In L.A., Flynn Parker loses his job as a health inspector when his time in prison comes to light, his girlfriend Maggie moves out because of his prevarications, and his ne'er-do-well father, Nat, summons him to Atlantic City with a tale of a malignant cancer. Flynn doesn't like Nat, a small-time hustler and the cause of Flynn's jail time, but Nat cajoles his son into a cross-country trip through family memories toward New Mexico where an experimental treatment awaits. The trip is not just about &#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-5-00-A-Day-online-3.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115242-5-A-Day-movie8k-film.jpg" alt="$5.00 a day"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-5-00-A-Day-online-3.html">$5.00 a day</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115258-50k-And-A-Call-Girl-A-Love-Story-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: $50K and a Call Girl: A Love Story&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;When Ross is diagnosed with terminal brain cancer and given six weeks to live, his newly engaged older brother Seth offers to spend his $50,000 wedding fund on a final trip of a lifetime. Their plans are complicated when Ross invites a call girl to join the group and Seth's uptight fiancÃ©e insists on tagging along. This raucous road trip comedy features hip-hop star Asher Roth.                Written by
+Anonymous&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-50k-And-A-Call-Girl-A-Love-Story-online-4.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115258-50k-And-A-Call-Girl-A-Love-Story-movie8k-film.jpg" alt="$50K and a Call Girl: A Love Story"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-50k-And-A-Call-Girl-A-Love-Story-online-4.html">$50K and a Call Girl: A Love Story</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115332-9-99-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: $9.99&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;A stop-motion animated story about people living in a Syndey apartment complex looking for meaning in their lives.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-9-99-online-5.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115332-9-99-movie8k-film.jpg" alt="$9.99"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-9-99-online-5.html">$9.99</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115356-Crocodile-Dundee-Ii-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Crocodile Dundee II&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Mick and Sue continue where they left off in "'Crocodile' Dundee". New York drug lords are pursuing Sue for having solid evidence against them for murder, so for her safety, Mick takes her back to Australia. When the gangsters follow them, Mick demonstrates his outback skills once more.                Written by
+Rob Hartill&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Crocodile-Dundee-Ii-online-6.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115356-Crocodile-Dundee-Ii-movie8k-film.jpg" alt="Crocodile Dundee II"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Crocodile-Dundee-Ii-online-6.html">Crocodile Dundee II</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115366-Master-Harold-And-The-Boys-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Master Harold... and the Boys&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;This movie is of Hally, an adolescent white South African. He is stuck between his intolerant father's outlook of him and those of his caretaker, Sam. Sam is a black waiter and Hally's friend and teacher. Hally is required to laugh at his father's racist jokes, by contrast, Sam exposes Hally to uplifting experiences. One day Hally was terribly humiliated by his father and Sam shows Hally how to be proud of something he can achieve.                Written by
+Centralhighstudents&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Master-Harold-And-The-Boys-online-7.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115366-Master-Harold-And-The-Boys-movie8k-film.jpg" alt="Master Harold... and the Boys"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Master-Harold-And-The-Boys-online-7.html">Master Harold... and the Boys</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115379-500-Days-Of-Summer-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: (500) Days of Summer&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;After it looks as if she's left his life for good this time, Tom Hansen reflects back on the just over one year that he knew Summer Finn. Despite being physically average in almost every respect, Summer had always attracted the attention of men, Tom included. For Tom, it was love at first sight when she walked into the greeting card company where he worked, she the new administrative assistant. Soon, Tom knew that Summer was the woman with whom he wanted to spend the rest of his life. Although S&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-500-Days-Of-Summer-online-8.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115379-500-Days-Of-Summer-movie8k-film.jpg" alt="(500) Days of Summer"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-500-Days-Of-Summer-online-8.html">(500) Days of Summer</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115481-Batteries-Not-Included-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Batteries Not Included&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;A group of tenants in an apartment block are being forced to move out so that it can be demolished. The tenants are reluctant to move, so the developers hire a local gang to 'persuade' them to leave. Fortunately, visiting alien mechanical life-forms come to town. When they befriend the tenants, the aliens use their extraterrestrial abilities to defeat the developers.                Written by
+Rob Hartill&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Batteries-Not-Included-online-9.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115481-Batteries-Not-Included-movie8k-film.jpg" alt="Batteries Not Included"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Batteries-Not-Included-online-9.html">Batteries Not Included</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115491-1-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: +1&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Three college friends hit the biggest party of the year, where a mysterious phenomenon disrupts the night, quickly descending into a chaos that challenges their friendships -- and whether they can stay alive.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-online-10.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115491-1-movie8k-film.jpg" alt="+1"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-online-10.html">+1</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,1IQUcV,showAll">Single Movies - Sci-Fi</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115566--First-Do-No-Harm-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: First Do No Harm&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;When Lori Reimuller learns that her young son Robbie has epilepsy, she first trusts the judgment of the hospital staff in how best to bring it under control. As Robbie's health slides radically downhill, however, she becomes frustrated and desperate, and so does her own research into the existing literature on treatments. When she decides to try an alternative treatment called the Ketogenic Diet, devised long ago by a doctor from Johns Hopkins, she is met with narrow-minded resistance from Robbi&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-First-Do-No-Harm-online-11.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115566--First-Do-No-Harm-movie8k-film.jpg" alt="First Do No Harm"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-First-Do-No-Harm-online-11.html">First Do No Harm</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem"> 
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115586-45-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: .45&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Kate and her brutish boyfriend Big Al sell handguns on the streets of New York. She's smart, stylish, and self-confident, but all that leaves her when Al, in a jealous and self-indulgent rage, beats her. Three friends encourage her recovery: Vic, a woman who would like to be Kate's lover; Reilly, who runs with Al but also is attracted to Kate and repulsed by Al's violence; and, Liz, the counselor assigned to Kate from a battered-women's program. Vic and Reilly talk about killing Al, Liz gives pe&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-45-online-12.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115586-45-movie8k-film.jpg" alt=".45"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-45-online-12.html">.45</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div style="text-align:right;width:720px;margin-top:0px;margin-bottom:15px;margin-right:5px;float: left;"><a style="color:#5588BB" href="http://www.megashare.to/#AllFilm">Next &gt;&gt;&gt;</a></div>
+                        &nbsp;
+                     </div>
+                     <div class="listtop">
+                        <div class="titlechannel">
+                           <p class="leftTitleC1"><b>Random Movies</b></p>
+                        </div>
+							                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115639-1-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 1&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Set in the golden era of Grand Prix Racing '1' tells the story of a generation of charismatic drivers who raced on the edge, risking their lives during Formula 1's deadliest period, and the men who stood up and changed the sport forever.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-online-14.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115639-1-movie8k-film.jpg" alt="1"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-online-14.html">1</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,YF4JUq,showAll">Single Movies - Documentary</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115710-1-A-Minute-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 1 a Minute&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;The film chronicles the diagnosis and treatment of a breast cancer survivor, interspersed with personal tales from famous international celebrities who are also survivors, or affected closely by cancer.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-A-Minute-online-15.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115710-1-A-Minute-movie8k-film.jpg" alt="1 a Minute"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-A-Minute-online-15.html">1 a Minute</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115723-1-Day-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 1 Day&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;1 Day follows 24 hours in the life of Flash, an inner-city hustler who's day steadily gets worse when he finds out local gang leader Angel is being released from prison and wants his £500k he left with him for safekeeping.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-Day-online-16.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115723-1-Day-movie8k-film.jpg" alt="1 Day"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-Day-online-16.html">1 Day</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115746-1-Out-Of-7-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 1 Out of 7&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Lexi, seeks to escape her overbearing mother Jan. After yet another abusive incident, what starts as an escape turns into a new life among the hundreds of forgotten and disfranchised street-kids living in the shadows of Portland, Oregon. Lexi meets a handsome street kid, Eric, as her search for belonging and new found love blinds her of the unseen danger ahead. Lexi's underground life crumbles when Eric abandons her and goes in search of his next high. She soon finds herself alone, living among &#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-Out-Of-7-online-17.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115746-1-Out-Of-7-movie8k-film.jpg" alt="1 Out of 7"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-Out-Of-7-online-17.html">1 Out of 7</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115804-1-000-Times-More-Brutal-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: Brutal&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Four friends pay the ultimate price,when they seek revenge against a low-level Gangster.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-Brutal-online-18.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115804-1-000-Times-More-Brutal-movie8k-film.jpg" alt="Brutal"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-Brutal-online-18.html">Brutal</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0S5UT2,showAll">Single Movies - Action</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/default.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 1. Mai&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;An eleven-year-old Turkish boy, two young men from a small town, and a cuckolded policeman from the sticks all find their way to Berlin on May Day, where, in the district of Kreuzberg, emotions come to the boil every year. Little Yavuz is eager to gain recognition and is determined to 'floor a cop' in order to impress his older brother. But then he meets Hary, a onetime member of the student revolts of the late sixties, and things turn out completely differently. Jacob and Pelle from Minden are &#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-1-Mai-online-19.html"><img class="thumb" src="http://img.megashare.to/thumbs/default.jpg" alt="1. Mai"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-1-Mai-online-19.html">1. Mai</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115830-10-1-2-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 10 1/2&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;Tommy, 10 years old, is well known by Social Services. He is considered a danger to society. Gilles, his guardian at this halfway house, sees potential for redemption in this kid driven by violence.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-10-1-2-online-20.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115830-10-1-2-movie8k-film.jpg" alt="10 1/2"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-10-1-2-online-20.html">10 1/2</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115846-10-Items-Or-Less-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 10 Items or Less&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;A well-known actor, who hasn't accepted a role in four years, is considering a project. The cousin of the director drives him to Archie's Ranch Market, in Carson, and drops him off to do a little research. He's fascinated by one of the checkers, Scarlet, a young woman from Spain with a preternatural ability to ring up items at the cash register. She hates her job, stuck at the 10 items or less lane. The actor chats her up, and when her shift ends, he asks for a ride. In the course of the afterno&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-10-Items-Or-Less-online-21.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115846-10-Items-Or-Less-movie8k-film.jpg" alt="10 Items or Less"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-10-Items-Or-Less-online-21.html">10 Items or Less</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/default.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 10 On Ten&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;10 on Ten is a 2004 Iranian documentary film directed by Abbas Kiarostami. It was screened in the Un Certain Regard section at the 2004 Cannes Film Festival. Looking to his own art for inspiration, Abbas Kiarostami reflects on his techniques of filming and how he taped certain sequences in Ten in 2001.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-10-On-Ten-online-22.html"><img class="thumb" src="http://img.megashare.to/thumbs/default.jpg" alt="10 On Ten"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-10-On-Ten-online-22.html">10 On Ten</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,YF4JUq,showAll">Single Movies - Documentary</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115874-10-Questions-For-The-Dalai-Lama-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 10 Questions for the Dalai Lama&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;How do you reconcile a commitment to non-violence when faced with violence? Why do the poor often seem happier than the rich? Must a society lose its traditions in order to move into the future? These are some of the questions posed to His Holiness the Dalai Lama by filmmaker and explorer Rick Ray. Ray examines some of the fundamental questions of our time by weaving together observations from his own journeys throughout India and the Middle East, and the wisdom of an extraordinary spiritual lea&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-10-Questions-For-The-Dalai-Lama-online-23.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115874-10-Questions-For-The-Dalai-Lama-movie8k-film.jpg" alt="10 Questions for the Dalai Lama"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-10-Questions-For-The-Dalai-Lama-online-23.html">10 Questions for the Dalai Lama</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,YF4JUq,showAll">Single Movies - Documentary</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1391115884-10-Rillington-Place-movie8k-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 10 Rillington Place&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;London, 1949. John Christie is an unassuming, middle aged man who, along with his wife Ethel, manages the apartment building at 10 Rillington Place. His unassuming demeanor masks the fact of being a serial killer. His modus operandi is to act as a person with a medical background, lure unsuspecting women to his apartment on the pretense of curing them of some ailment, knock them unconscious with carbon monoxide gas, gain his sexual release through contact with the unconscious body, then strangle&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-10-Rillington-Place-online-24.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1391115884-10-Rillington-Place-movie8k-film.jpg" alt="10 Rillington Place"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-10-Rillington-Place-online-24.html">10 Rillington Place</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,UXFYlD,showAll">Single Movies - Drama</a></div>
+                        </div>
+						                        <div class="videoitem">
+                           <div class="thumbnail">
+                              <a onmouseover="ddrivetip(&#39;&lt;img src=http://img.megashare.to/thumbs/cover-1409936658-10-Rules-For-Sleeping-Around-megashare-film.jpg width=110 height=140 align=left style=\&#39;padding-right:5px;\&#39; border=0&gt;&lt;b&gt;- Movie: 10 Rules for Sleeping Around&lt;/b&gt;&lt;br&gt;&lt;b&gt; - Writer: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Cast: &lt;/b&gt;&lt;br&gt;&lt;b&gt; - Plot Summary: &lt;/b&gt;&lt;br&gt;A screw ball sex comedy following two couples and their ten rules to a happy healthy and open relationship.&#39;)" onmouseout="hideddrivetip()" target="_view" href="http://www.megashare.to/watch-10-Rules-For-Sleeping-Around-online-25.html"><img class="thumb" src="http://img.megashare.to/thumbs/cover-1409936658-10-Rules-For-Sleeping-Around-megashare-film.jpg" alt="10 Rules for Sleeping Around"></a>
+                           </div>
+                           <div style="padding-bottom:2px;"><a target="_blank" class="FilmName" href="http://www.megashare.to/watch-10-Rules-For-Sleeping-Around-online-25.html">10 Rules for Sleeping Around</a></div>
+                           <div style="width: 170px;padding-left:5px;"><a class="FilmCat" style="color:gray;" href="http://www.megashare.to/#Cat,0sTEOQ,showAll">Single Movies - Comedy</a></div>
+                        </div>
+						                        <div style="text-align:right;width:720px;margin-top:0px;margin-bottom:15px;margin-right:5px;float: left;"><a style="color:#5588BB" href="http://www.megashare.to/#AllFilm">Next &gt;&gt;&gt;</a></div>
+                        &nbsp;
+                     </div>
+					</div>
+                  <form name="mainHTMLFF" style="margin-top: 0px; margin-bottom: 0px;"><input name="e" style="width: 0px; height: 0px; border-left: #FFFFFF; border-right: #FFFFFF;"></form>
+                  <script>
+                     setInterval("urlCheck()",100);
+                  </script>
+               </div>
+            </div>
+         </div>
+         <br>
+      </div>
+      <h5 style="text-align: center;">Copyright @<a href="http://www.megashare.to/">Megashare.to</a></h5>
+      <h5 style="text-align: center;"><strong>Videos content are embed from various sources. Megashare don't host any movies on our server.</strong></h5>
+
+	  <br /><br />
+
+<div id="setext" style="padding: 5px;margin: 0 auto 0 400px;width:760px;">
+<h1 style="font-size: 22px; margin-bottom: 8px;">Watch movies online on Megashare at Megashare.to</h1>
+
+<p class="f-small">Megashare is one of the best and easiest <strong>free movies</strong> websites to <strong>watch movies</strong> online on the internet.
+The huge amount of cinema movies and old movies are available to all of our visitors.
+Simply select the movie and tv-shows of your choice for free and without registration.</p>
+
+<h2 style="margin-top: 16px;">Largest Putlocker Online Movie Database on Megashare.info! &nbsp;</h2>
+
+<p class="f-small">We are one of the biggest internet stream sites with <strong>free online movies</strong> from years ago to the current date.
+<strong>Watch online movies</strong> and enjoy the fast streaming for a lot of genres from <a class="f-small" href="http://www.megashare.to/#Cat,0S5UT2" title="Watch action movies online at Megashare.to">action</a>, comedies,<a class="f-small" href="http://www.megashare.to/#Cat,CWTr24" title="Watch adventure movies online at Megashare.to">adventure</a>, classic movies to some more.
+Search our free movie portal and watch movie you want.</p>
+
+<p class="f-small">Megashare.to is a absolutly legal project and a alternative for watching movies in the cinema.
+Find <strong>online movies</strong> and watch movies through our database and download <strong>Putlocker videos</strong>.
+Megashare is the biggest and best movie <strong>online streaming database</strong> out there and better than Primewire or Movie4k.to!
+</p>
+</div>
+    
+	
+    <SCRIPT>
+     $(function() {  
+        $(".loginbutton").click(function() {  
+	 alert("YES");
+     			return false;
+        });  
+    
+     });  
+    </SCRIPT><script type='text/javascript' src='http://go.pub2srv.com/apu.php?zoneid=80459'></script>
+<script type="text/javascript">
+var adParams = {
+  a: '51171570', size:'800x600', numOfTimes: '2',duration: '12',serverdomain: 'ads.adplxmd.com' ,period: 'hour'  , openNewTab: true
+};
+</script>
+<script type="text/javascript" src="http://cdn.adplxmd.com/adplexmedia/scripts/popunder/popunder.js"></script>
+	
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50864975-1', 'megashare.to');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+   </body>
+</html>

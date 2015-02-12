@@ -1,0 +1,1194 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>              <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>                 <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>                 <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]>      <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie9"> <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="sailthru.tags" content="Grow,Health and Fitness Blogs" />
+<link rel="shortcut icon" href="http://greatist.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="sailthru.author" content="The Greatist Team" />
+<meta name="sailthru.title" content="60 Must-Read Health, Fitness, and Happiness Blogs for 2014" />
+<meta name="sailthru.date" content="2014-01-23T07:30:00-05:00" />
+<meta name="description" content="Looking for some new reading material? Check out these 60 blogs loaded with quality health, fitness, and happiness information." />
+<meta name="keywords" content="health,fitness,nutrition,recipes,workouts,greatist" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://greatist.com/health/must-read-health-fitness-blogs" />
+<link rel="shortlink" href="http://greatist.com/node/1792" />
+<meta property="fb:admins" content="1101180055" />
+<meta property="fb:app_id" content="338405982951793" />
+<meta property="og:site_name" content="Greatist" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="60 Must-Read Health, Fitness, and Happiness Blogs for 2014" />
+<meta property="og:url" content="http://greatist.com/health/must-read-health-fitness-blogs" />
+<meta property="og:description" content="Looking for some new reading material? Check out these 60 blogs loaded with quality health, fitness, and happiness information." />
+<meta property="og:image" content="http://greatist.com/sites/default/files/styles/big_share/public/BestBlogs_Feature.png?itok=9yMkSsCM" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@greatist" />
+<meta name="twitter:url" content="http://greatist.com/health/must-read-health-fitness-blogs" />
+<meta name="twitter:title" content="60 Must-Read Health, Fitness, and Happiness Blogs for 2014" />
+<meta name="twitter:description" content="Looking for some new reading material? Check out these 60 blogs loaded with quality health, fitness, and happiness information." />
+<meta name="twitter:image:src" content="http://greatist.com/sites/default/files/styles/article_main/public/BestBlogs_Feature.png?itok=HFYSFFNi" />
+<meta property="article:publisher" content="https://www.facebook.com/greatistblog" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAFVldUGwsJU1BWAQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="msvalidate.01" content="F278AF2F0E4E8926793D700CF27DA993" />
+  <meta name="google-site-verification" content="fjgY6e3MJuL9VdcVmhgvCRs4rTIxZj3-c_yS6vbGiDE" />
+  <link href="https://plus.google.com/+Greatist" rel="publisher" />
+  <link rel="apple-touch-icon" href="/sites/default/files/Mobile-Icon-V3.jpg"/>
+
+  <title>60 Must-Read Health, Fitness, and Happiness Blogs for 2014 | Greatist</title>
+  <link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_qKsSCcrOVT4pKULgi4iAVuPQPU3lfSzuSXMJCARUKic.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_IIuB84W_LTUOQsR6QxwVHhKRjG3RIcelyNgHD3ccBfs.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_yYuTvjdq5_epDRBZUITk8EG5FPEk00zL4y1ftmiAgXY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_zIep3CyXXbbaozLY4V9fqRVWY7fEcSt7WcalSF3kxpc.css" media="all" />
+  <script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_PSgAsAtLmjiD5PBmE1rRXHN2jvIgrMefBfWBidjewrc.js"></script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-20914064-2", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("set", "dimension1", "January 23, 2014");ga("set", "dimension2", "The Greatist Team");ga("set", "dimension3", "health and fitness blogs");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var greatist_globals = {"env":"live","themepath":"\/sites\/all\/themes\/greatist2x","jsfolder":"\/sites\/all\/themes\/greatist2x\/js\/c","yieldbot":true,"yb_pub_id":"1ce9","yb_pub_id_mobile":"7a53","horizon":true,"thinglink":false,"require":{"baseUrl":"\/sites\/all\/themes\/greatist2x\/js\/c\/greatist-build","urlArgs":"v=1423731175"},"nodepage":true,"prod_url":"http:\/\/greatist.com\/health\/must-read-health-fitness-blogs","article_nid":"1792","article_uid":"7","article_created":"1390480200","article_title":"60 Must-Read Health, Fitness, and Happiness Blogs for 2014","article_type":"article","tags":["Health and Fitness Blogs"],"tags_dfp":["health and fitness blogs"],"categories":["Grow"],"categories_dfp":["grow"],"pinterest_hashtags":"#best #blogs #health #fitness","author":"The Greatist Team"};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_1cZ0sSNmCDURwwlpHCGQBDJYLMYvGNVB-GFK_OZTTX4.js"></script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_EGHnHuhPTuENKQGuwH4dC7nJUYDOz-UfqZdEvD23yZk.js"></script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_a0UKqEHU0SsEcCqABnoKKagjtVVdrVvKMv60ck-rxFI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"greatist2x","theme_token":"kLsBSbfulFEGo29yKRXo1BACIfF2eEhYHR-uaQFARes","js":{"sites\/all\/themes\/greatist2x\/js\/c\/greatist-build\/main.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/all\/themes\/greatist2x\/js\/c\/require_m.js":1,"sites\/all\/themes\/greatist2x\/js\/c\/greatist-build\/require-config.js":1,"sites\/all\/themes\/greatist2x\/js\/c\/lib\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/print.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/print\/css\/printlinks.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/magnific-popup.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/jquery.qtip.min.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if lte IE 9 ]><link type="text/css" rel="stylesheet" href="/sites/all/themes/greatist2x/css/old-ie.css" media="all" /><![endif]-->
+  <script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://greatist.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://greatist.com/search?search={search_term}",
+     "query-input": "required name=search_term"
+   }
+}
+</script>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1792 node-type-article env-live" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <div class="leaderboard"><div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-leaderboard"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_728x90"
+  data-ad-slot="div-gpt-ad-1408633905912-0"
+  data-ad-size="728x90"
+  class="dfp-tag-wrapper dfp-ad-article-ad-leaderboard"></div>
+
+<div
+  data-restrict-context-to="x-small,small,medium"
+  data-dfp-g-id="article-ad-mobile-top"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_320x50_Mobile"
+  data-ad-slot="div-gpt-ad-1412623396310-0"
+  data-ad-size="300x50,320x50"
+  class="dfp-tag-wrapper dfp-ad-article-ad-mobile-top"></div>
+
+</div>
+  <div data-header class="header-wrapper">
+  <header role="banner" class="clearfix">
+    <nav role="navigation">
+      <div id="nav-touch-wrapper" ng-controller="menuCtrl">
+        <div id="main-menu">
+  <ul class="topNav left-menu menu">
+    <li class="logo">
+      <div class="wrapper-item">
+         <div itemscope itemtype="http://schema.org/Organization">
+          <div class="mobile-menu" ng-controller="hamburgerCtrl">
+            <div class="icon-wrapper" ng-click="toggle()">
+              <i class="fa fa-bars"></i/>
+            </div>
+            <div class="hamburger-menu" ng-class="open">
+  <ul class="topics-ham">
+     <li ng-repeat="item in topicsMenu" class="{{item.class}}">
+        <a href="{{item.path}}"> <h3 > <span>{{item.title}}</span> </h3> </a>
+     </li>
+  </ul>
+
+  <ul class="more-ham">
+     <li ng-repeat="item in moreMenu">
+        <a href="{{item.path}}"> <h3> {{item.title}}</h3> </a>
+     </li>
+  </ul>
+</div>
+          </div>
+          <div class="logo-wrapper">
+            <a itemprop="url" href="/" title="Home" rel="home" id="logo">
+              <img itemprop="logo" src="/sites/all/themes/greatist2x/images/logo_white.svg" alt="Home" />
+              <span class="element-hidden" itemprop="name">Greatist</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="menu-item topics hover no-small">
+       <div class="wrapper-item">
+         <h4>TOPICS <i class="fa fa-caret-down"></i></h4>
+         <div class="sub-menu sub-topics">
+            <ul class="sub-menu-list" data-links=[{"path":"\/taxonomy\/term\/1684","title":"EAT","class":"eat"},{"path":"\/taxonomy\/term\/1685","title":"MOVE","class":"move"},{"path":"\/taxonomy\/term\/1687","title":"PLAY","class":"play"},{"path":"\/taxonomy\/term\/1686","title":"GROW","class":"grow"},{"path":"\/taxonomy\/term\/1688","title":"CONNECT","class":"connect"},{"path":"\/taxonomy\/term\/1689","title":"DISCOVER","class":"discover"}]>
+    <li class="eat">
+    <a ng-click="click()" track="cat-eat"  href="/eat" >
+      <h3>
+        <span> EAT </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-eat-img" class="img" href="/health/valentines-day-best-healthy-recipes-021014" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/ValentinesFeature.jpg?itok=gJtIj7GT" />
+        </a>
+        <a ng-click="click()" track="sub-eat-txt" class="text" href="/health/valentines-day-best-healthy-recipes-021014" >
+          13 Valentine's Day Recipes That Beat a Box of Chocolates        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-eat-img" class="img" href="/eat/gluten-free-breakfast-recipes" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Chocolate-Chip-Cookie-Pancakes.jpg?itok=UD8P99Hk" />
+        </a>
+        <a ng-click="click()" track="sub-eat-txt" class="text" href="/eat/gluten-free-breakfast-recipes" >
+          44 Easy Breakfast Recipes You Won't Believe Are Gluten-Free        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-eat-img" class="img" href="/health/100-calorie-snacks" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/cheesy-popcorn.jpg?itok=PpO2kYce" />
+        </a>
+        <a ng-click="click()" track="sub-eat-txt" class="text" href="/health/100-calorie-snacks" >
+          100-Calorie Snacks That Actually Keep You Full and Satisfied        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-eat-more" href="/eat"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="move">
+    <a ng-click="click()" track="cat-move"  href="/move" >
+      <h3>
+        <span> MOVE </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-move-img" class="img" href="/move/reasons-working-out-night-best" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/NighttimeFitness.jpg?itok=lOEhOzn6" />
+        </a>
+        <a ng-click="click()" track="sub-move-txt" class="text" href="/move/reasons-working-out-night-best" >
+          The Surprising Benefits of Exercising at Night        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-move-img" class="img" href="/fitness/25-must-try-medicine-ball-exercises" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/MedicineBall_Feature.jpg?itok=cEGSY8PK" />
+        </a>
+        <a ng-click="click()" track="sub-move-txt" class="text" href="/fitness/25-must-try-medicine-ball-exercises" >
+          25 Must-Try Medicine Ball Exercises        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-move-img" class="img" href="/move/morning-yoga-for-beginners" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/morning-yoga-prayer-position.jpg?itok=6HlVdE43" />
+        </a>
+        <a ng-click="click()" track="sub-move-txt" class="text" href="/move/morning-yoga-for-beginners" >
+          This 15-Minute Routine Wakes You Up Better Than Coffee        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-move-more" href="/move"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="play">
+    <a ng-click="click()" track="cat-play"  href="/play" >
+      <h3>
+        <span> PLAY </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-play-img" class="img" href="/play/first-date-ideas" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/bike-ride-date.jpg?itok=LcXq34s9" />
+        </a>
+        <a ng-click="click()" track="sub-play-txt" class="text" href="/play/first-date-ideas" >
+          29 Crazy-Fun First Date Ideas That Don’t Involve Sitting at a Bar        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-play-img" class="img" href="/happiness/valentines-day-friendships" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Friendship-Dog-feature.jpg?itok=LyO6L7K8" />
+        </a>
+        <a ng-click="click()" track="sub-play-txt" class="text" href="/happiness/valentines-day-friendships" >
+          If We All Did This, Everyone Would Love Valentine’s Day (and Every Day)        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-play-img" class="img" href="/happiness/no-such-thing-as-one-true-love" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/One-True-Love.jpeg?itok=y93XH-Mc" />
+        </a>
+        <a ng-click="click()" track="sub-play-txt" class="text" href="/happiness/no-such-thing-as-one-true-love" >
+          There's No Such Thing as One True Love. Here's Why That's Awesome        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-play-more" href="/play"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="grow">
+    <a ng-click="click()" track="cat-grow"  href="/grow" >
+      <h3>
+        <span> GROW </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-grow-img" class="img" href="/grow/friendship-breakups" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/FriendBreakupFeature.jpg?itok=7yaX9mtf" />
+        </a>
+        <a ng-click="click()" track="sub-grow-txt" class="text" href="/grow/friendship-breakups" >
+          How to Deal—and Heal—When a Friend Breaks Up With You        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-grow-img" class="img" href="/grow/how-to-be-organized" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Organize_Feat_V4.png?itok=IkuDv_Qn" />
+        </a>
+        <a ng-click="click()" track="sub-grow-txt" class="text" href="/grow/how-to-be-organized" >
+          How to Be the Most Organized Person in the World, Starting Now        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-grow-img" class="img" href="/grow/answers-embarrassing-underwear-questions" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/UnderwearFeature.jpg?itok=CYln6Yvb" />
+        </a>
+        <a ng-click="click()" track="sub-grow-txt" class="text" href="/grow/answers-embarrassing-underwear-questions" >
+          The 5 Underwear Questions You’re too Embarrassed to Ask (But We’re Not!)        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-grow-more" href="/grow"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="connect">
+    <a ng-click="click()" track="cat-connect"  href="/connect" >
+      <h3>
+        <span> CONNECT </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-connect-img" class="img" href="/connect/boring-meditation-made-exciting" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Meditation_NL.jpg?itok=0jymWzta" />
+        </a>
+        <a ng-click="click()" track="sub-connect-txt" class="text" href="/connect/boring-meditation-made-exciting" >
+          Bored by Meditation? This Will Change How You Feel        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-connect-img" class="img" href="/connect/never-cleanse-again" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/iStock_000044130328_Large.jpg?itok=m3awoHfV" />
+        </a>
+        <a ng-click="click()" track="sub-connect-txt" class="text" href="/connect/never-cleanse-again" >
+          I’ve Tried Almost Every Cleanse. Here’s Why I’ll Never Do One Again        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-connect-img" class="img" href="/connect/experts-best-advice" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/InfluencersQuotesFeature.jpg?itok=Aqn0ZB0t" />
+        </a>
+        <a ng-click="click()" track="sub-connect-txt" class="text" href="/connect/experts-best-advice" >
+          Experts Reveal: "The One Piece of Advice That's Changed My Life the Most"        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-connect-more" href="/connect"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="discover">
+    <a ng-click="click()" track="cat-discover"  href="/discover" >
+      <h3>
+        <span> DISCOVER </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-discover-img" class="img" href="/discover/fat-is-not-a-feeling-video" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/fat-is-not-a-feeling.jpg?itok=ujxm6jlx" />
+        </a>
+        <a ng-click="click()" track="sub-discover-txt" class="text" href="/discover/fat-is-not-a-feeling-video" >
+          Years of Hating Her Body and Then One Simple Choice Changed Everything        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-discover-img" class="img" href="/discover/google-health-search" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/google_health.jpg?itok=-UfloKSQ" />
+        </a>
+        <a ng-click="click()" track="sub-discover-txt" class="text" href="/discover/google-health-search" >
+          New Google Search Tool Is Almost as Good as a Trip to the Doctor         </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-discover-img" class="img" href="/discover/greatist-things-on-the-internet-020515" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/greatistthing_1800%20%281%29_9_1.png?itok=f8ERyfR3" />
+        </a>
+        <a ng-click="click()" track="sub-discover-txt" class="text" href="/discover/greatist-things-on-the-internet-020515" >
+          So That’s How Avocados Got So Popular (And 5 More Links You Can’t Miss)         </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-discover-more" href="/discover"> MORE</a>
+      </li>
+    </ul>
+      </li>
+  </ul>
+         </div>
+       </div>
+    </li>
+      <li class="menu-item more hover" ng-controller="basicTracking" ng-init="initAnalytics('navbar-menu-about', {implicitClick: true})">
+    <a href="/about">
+      <div class="wrapper-item">
+        <h4>ABOUT</h4>
+      </div>
+    </a>
+  </li>
+  <li class="menu-item more hover" ng-controller="basicTracking" ng-init="initAnalytics('navbar-menu-shop', {implicitClick: true})">
+    <a href="/shop">
+      <div class="wrapper-item">
+        <h4>SHOP</h4>
+      </div>
+    </a>
+  </li>
+  <li class="menu-item more hover" ng-controller="basicTracking" ng-init="initAnalytics('navbar-menu-subscribe', {implicitClick: true})">
+    <a href="/newsletter">
+      <div class="wrapper-item">
+        <h4>SUBSCRIBE</h4>
+      </div>
+    </a>
+  </li>
+    <li class="menu-item more-medium hover">
+      <div class="wrapper-item">
+        <h4> MORE <i class="fa fa-caret-down"></i> </h4>
+        <div class="sub-menu sub-more">
+          <ul class="sub-menu-list" data-links=[{"path":"\/about","title":"ABOUT","class":"about"},{"path":"\/shop","title":"SHOP","class":"shop"},{"path":"\/newsletter","title":"SUBSCRIBE","class":"subscribe"}]>
+    <li class="about">
+    <a ng-click="click()" track="cat-about"  href="/about" >
+      <h3>
+        <span> ABOUT </span>      </h3>
+    </a>
+      </li>
+    <li class="shop">
+    <a ng-click="click()" track="cat-shop"  href="/shop" >
+      <h3>
+        <span> SHOP </span>      </h3>
+    </a>
+      </li>
+    <li class="subscribe">
+    <a ng-click="click()" track="cat-subscribe"  href="/newsletter" >
+      <h3>
+        <span> SUBSCRIBE </span>      </h3>
+    </a>
+      </li>
+  </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <ul class="topNav right-menu menu">
+    <li class="menu-item promotion">
+      <div class="wrapper-item">
+        <div ng-controller="basicTracking" ng-init="initAnalytics('promotion-navbar', {implicitClick: true})">
+  <a href="/shop/greatist-cookbook">
+    <span class="title"><i class="fa fa-cutlery"></i> The Greatist Cookbook is here.</span>
+    <br/>
+    <span class="cta">Download Now! <i class="caret fa fa-chevron-right"></i></span>
+  </a>
+<div>
+      </div>
+    </li>
+    <li class="menu-item search hover ">
+        <div class="wrapper-item">
+          <a href="/search" class="search-button">
+  <i class="fa fa-search"></i>
+</a>
+        </div>
+    </li>
+  </ul>
+</div>
+      </div>
+    </nav>
+  </header>
+</div>
+  <div id="main-background" data-sticky-g-trigger>
+    <div id="main-block" role="main">
+      <div class="main-content">
+                
+                <div class="container-grid">
+  <div class="article-top">
+    <article
+      class="article-main-column main-column"
+      ng-controller="articleCtrl"
+      itemscope
+      itemtype="http://schema.org/Article"
+    >
+      <h1 class="title" id="page-title" itemprop="name headline alternativeHeadline">60 Must-Read Health, Fitness, and Happiness Blogs for 2014</h1>
+
+              <div itemprop="description" class="element-hidden">Looking for some new reading material? Check out these 60 blogs loaded with quality health, fitness, and happiness information. </div>
+      
+              <div class="group-article-meta">
+            <div class="field article-author-top" itemscope itemprop="author" itemtype="http://schema.org/Person">
+  <a
+    href="/p/greatist-team"
+    title="User profile of "
+    class="username"
+    about="/p/greatist-team"
+    typeof="sioc:UserAccount"
+    itemprop="url"
+  >
+          <img src="http://greatist.com/sites/default/files/styles/article-avatar-40x40/public/Greatist_Logo_Badge_Blue.jpg?itok=p2CVeYB1" alt="The Greatist Team"  itemprop="image" />
+        <span itemprop="name">The Greatist Team</span>
+  </a>
+</div>
+
+            <div
+  class="field field-name-post-date"
+  itemprop="datePublished"
+  content="2014-01-23"
+>
+  January 23, 2014</div>
+            <a href="/print/1792" rel="nofollow" class="print-button" title="Print this article">
+  <i class="fa fa-print"></i>
+  </a>
+        </div>
+      
+      <div class="feature-image element-hidden">
+    <img
+      data-feature-image
+      typeof="foaf:Image"
+      src="http://greatist.com/sites/default/files/styles/article_main/public/BestBlogs_Feature.png?itok=HFYSFFNi"
+      itemprop="image"
+      width="604"       height="313"       alt="60 Must-Read Health, Fitness, and Happiness Blogs for 2014"
+    />
+</div>
+
+      <div class="top-share">
+        <div class="group_share ">
+  <div class="field-group-format-wrapper" style="display: block;">
+          <div class="total-shares full-total-shares">
+        <span class="total-num">22.6K</span><i class="icon-font"></i>
+      </div>
+        <div class="share-buttons icons" data-origin="top">
+      <div ng-controller="socialCtrl"
+  data-href="http://greatist.com/health/must-read-health-fitness-blogs"
+  data-media="http%3A%2F%2Fgreatist.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fbig_share%2Fpublic%2FBestBlogs_Feature.png%3Fitok%3D9yMkSsCM"
+  data-title="60 Must-Read Health, Fitness, and Happiness Blogs for 2014"
+  data-twitter=""
+  data-twitter-url="http://grt.st/1jq7mrX"
+>
+
+  <div class="greatist-pin large greatist-share">
+    <a class="pin greatist-pin-button icon-font"
+    ng-click="share_pin()" ><span class="share-alt">Pin it</span></a>
+  </div>
+  <div class="greatist-facebook large greatist-share">
+    <a
+      class="fb-share-button icon-font fb"
+      ng-click="share_fb($event)"
+      data-share-fb
+    ><span class="share-alt">Share</span></a>
+  </div>
+  <div class="greatist-email greatist-share">
+    <a class="greatist-email-button icon-font email"
+    ng-click="share_email()"><span class="share-alt">Email</span></a>
+  </div>
+  <div class="greatist-stumble greatist-share">
+    <a class="greatist-stumble-button icon-font stumble"
+    ng-click="share_stumble()"><span class="share-alt">Stumble</span></a>
+  </div>
+</div>
+    </div>
+      </div>
+</div>
+      </div>
+
+      <div class="side-share">
+        <div ng-controller="socialCtrl"
+  data-href="http://greatist.com/health/must-read-health-fitness-blogs"
+  data-media="http%3A%2F%2Fgreatist.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fbig_share%2Fpublic%2FBestBlogs_Feature.png%3Fitok%3D9yMkSsCM"
+  data-title="60 Must-Read Health, Fitness, and Happiness Blogs for 2014"
+  data-twitter=""
+  data-twitter-url="http://grt.st/1jq7mrX"
+  data-origin="side"
+>
+  <a class="share-pinterest" ng-click="share_pin()">
+    <i class="fa fa-pinterest-p"></i>
+  </a>
+  <a class="share-facebook" ng-click="share_fb($event)" data-share-fb>
+    <i class="fa fa-facebook"></i>
+  </a>
+  <a class="share-email" ng-click="share_email()">
+    <i class="fa fa-envelope-o"></i>
+  </a>
+  <a class="share-stumbleupon" ng-click="share_stumble()">
+    <i class="fa fa-stumbleupon"></i>
+  </a>
+</div>
+      </div>
+
+      <div class="article-body block"  data-sticky-g-trigger data-scroll-reach-tracking="article-content-beginning">
+        <div class="article-body-content" data-target-blank itemprop="articleBody">
+  <p><img height="604" width="604" class="media-element file-default" alt="60 Must-Read Health &amp; Fitness Blogs for 2014" typeof="foaf:Image" src="http://greatist.com/sites/default/files/60_Health%26FitnessBlogsFor2014.png" />Whether you scroll through 'em while sipping that morning cup of coffee or use your lunch break to catch up on the latest news and gossip, nearly <em>everyone</em> reads blogs. There are thousands (if not millions) of options out there, which means it can be hard to know which writers are legit and which ones are just kinda... not so much.<strong> We picked 60 of our favorite blogs that are shaking up the health and wellness space by posting great content, interacting with readers, and generally providing kick-ass information to the Internet at large.</strong>&nbsp;</p>
+<div
+  data-restrict-context-to="medium,small,x-small"
+  data-dfp-g-id="article-ad-mobile-inline"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_300x250_Mobile_Entry"
+  data-ad-slot="div-gpt-ad-1410556946418-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-mobile-inline"></div>
+
+
+<p>Specifically, we looked for blogs that feature actionable, useful, and positive posts that reflect <a href="http://greatist.com/manifesto" target="_blank">Greatist's mission</a> of living a healthy and happy life. We also looked at comments and engagement with readers, social media followers, quantity of posts, and design.&nbsp;<strong>These 60 site aren't the&nbsp;<em>only&nbsp;</em>blogs you should read, but they're a good place to start. </strong>Can't get enough? Check out <a href="http://greatist.com/must-read-health-fitness-blogs-2013" target="_blank">last year's list</a> for even more bloggy goodness.&nbsp;</p>
+<p><em>Note: Blogs are arranged in no particular order — the first entry in a given section is no better than the last entry. That's just how the (gluten-free, dairy-free, no-sugar-added) cookie crumbles.&nbsp;</em></p>
+<p><img height="400" width="604" class="media-element file-default" alt="Best Blogs: General Health &amp; Fitness" typeof="foaf:Image" src="http://greatist.com/sites/default/files/BestBlogs_Health%26Fitness_604.png" /></p>
+<p><strong>1. </strong><a href="http://breakingmuscle.com/"><strong>Breaking Muscle</strong></a> No matter your workout of choice, it’s likely that Breaking Muscle has covered it: The fitness experts behind the site have written on martial arts, workouts for pregnant women, and how to execute certain lifts and master skills. They also share their opinions on popular fitness trends, give their take on health- and fitness- related studies, and provide a variety of daily workouts.</p>
+<p><strong>2. </strong><a href="http://www.foodpolitics.com/"><strong>Food Politics</strong></a> Even though she’s a published author (with <a href="http://www.foodpolitics.com/books/" style="line-height: 1.5em;">eight books</a> under her belt) and a full-time professor at New York University, Marion Nestle finds time to write lengthy, thought-provoking pieces on the politics of nutrition almost every day on her blog. From <a href="http://www.foodpolitics.com/2014/01/are-gmos-natural-the-fda-wont-say/" style="line-height: 1.5em;">GMOs</a> to the <a href="http://www.foodpolitics.com/2014/01/congress-on-curbing-food-marketing-to-kids-not-a-chance/" style="line-height: 1.5em;">FDA and USDA</a>, Nestle’s well-written articles simplify current issues in the food industry and raise important questions about our food supply. &nbsp;</p>
+<p><strong>3. <a href="http://markbittman.com/">Mark Bittman</a></strong> He’s one of our top <a href="http://greatist.com/health/most-influential-health-fitness-people" target="_blank">influencers</a>&nbsp;(two years running) and food industry <a href="http://greatist.com/health/crusaders-food-industry" style="line-height: 1.5em;" target="_blank">crusaders</a>, and writes a blog that’s one of our favorites on the Internet. A prolific food writer (check out his column for <a href="http://topics.nytimes.com/top/reference/timestopics/people/b/mark_bittman/index.html?action=click&amp;contentCollection=Opinion&amp;module=Byline&amp;region=Header&amp;pgtype=article" style="line-height: 1.5em;">The New York Times</a> and lengthy <a href="http://markbittman.com/store/" style="line-height: 1.5em;">list of books</a>), Bittman may mince garlic, but not words — his outspoken political opinions and position <a href="http://markbittman.com/horrific-animal-abuses-uncovered-at-smithfiel/" style="line-height: 1.5em;">against factory farming</a> make him one of the strongest voices on the food scene today.</p>
+<p><strong>4. <a href="http://www.marksdailyapple.com/#axzz2qxdrNdeL">Mark’s Daily Apple</a></strong> What Would A Caveman Do? That’s what Mark Sisson, the voice behind Mark’s Daily Apple, surely asks himself before eating, drinking, or working out. His site is a one-stop shop for those interested in pursuing the Paleo lifestyle, with a wide variety of information ranging from workouts and recipes to personal stories and supplements.</p>
+<p><strong>5. <a href="http://www.npr.org/blogs/thesalt/">NPR’s The Salt</a></strong> Why do many people find <a href="http://www.npr.org/blogs/thesalt/2014/01/15/262741403/why-sugar-makes-us-feel-so-good" style="line-height: 1.5em;">sugar irresistible</a>? What are “<a href="http://www.npr.org/blogs/thesalt/2014/01/20/263510533/how-food-hubs-are-helping-new-farmers-break-into-local-food" style="line-height: 1.5em;">food hubs</a>” and why are they important? What’s the latest food trend? These are just a few of the questions asked every day on NPR’s food blog, The Salt. The blog covers everything related to eating, including food trends, food science, and food production, with NPR’s signature all-encompassing scope and attention to detail. Plus, there’s plenty of humor. One favorite column is <a href="http://www.npr.org/blogs/thesalt/162947372/sandwich-monday" style="line-height: 1.5em;">Sandwich Monday</a> (<a href="http://www.npr.org/blogs/thesalt/2013/03/25/175267907/sandwich-monday-the-mccamembert" style="line-height: 1.5em;">McCamembert</a>, anyone?), where members of the NPR newsroom try out famous local lunches, often with ridiculous results.</p>
+<p><strong>6. <a href="http://www.precisionnutrition.com/blog/">Precision Nutrition</a></strong> As its name suggests, this company is all about teaching people how to demystify healthy eating and make smart decisions for their own personal needs. Precision Nutrition is first an online nutrition coaching biz, but the company’s blog is well worth a look. Blog posts tackle real-life issues we all face, such as “<a href="http://www.precisionnutrition.com/whos-taking-care-of-you" style="line-height: 1.5em;">For Women: Is Taking Care of Yourself Really That Selfish?</a>” and “<a href="http://www.precisionnutrition.com/busy-mans-guide" style="line-height: 1.5em;">The Busy Man’s Guide to Getting In Shape</a>.”</p>
+<p><strong>7. <a href="http://q.equinox.com/">Q by Equinox</a></strong> With beautifully styled, <a href="http://q.equinox.com/articles/2014/01/heavy-lifting-video" style="line-height: 1.5em;">fashion-editorial worthy</a> photos and videos and plenty of celebrity endorsements, the luxurious Equinox gym chain uses its website to make health and fitness pretty darn sexy. The blog covers lifestyle topics as well as fitness, with tips on <a href="http://q.equinox.com/articles/2014/01/apartment-therapy" style="line-height: 1.5em;">healthifying your home</a> and ideas for outside-the-box <a href="http://q.equinox.com/articles/2014/01/winter-sports" style="line-height: 1.5em;">winter vacations</a>.</p>
+<p><strong>8. <a href="http://www.theatlantic.com/james-hamblin/">James Hamblin (at The Atlantic)</a></strong> Our favorite <a href="http://greatist.com/health/fistbumping-handshake-video-12/13/13" style="line-height: 1.5em;" target="_blank">fist-bumping doctor</a> doesn’t just write about why we should ditch handshakes for good. Hamblin’s a Senior Editor at <em>The Atlantic, </em>where he writes about gluten, anxiety, caffeine, babies, multivitamins, sex, HIV, cats, autism, and… we think you get the picture. Hamblin publishes a new column nearly every day and, given his interest in all types of health (including mental, physical, and sexual), we don’t expect him to run out of material anytime soon. &nbsp;</p>
+<p><img height="400" width="604" class="media-element file-default" alt="Best Blogs: Running" typeof="foaf:Image" src="http://greatist.com/sites/default/files/BestBlogs_Running_604.png" /></p>
+<p><strong>9. <a href="http://www.irunnerblog.com/">iRunnerBlog</a></strong> Scott Miles from iRunnerBlog entered his first marathon in 2007. He immediately caught the running bug and began documenting his journey on iRunnerBlog. Since then, he’s expanded the site to be less of a personal blog and more of a resource for runners of all levels. Miles and his team of athletes, physical therapists, trainers, and nutritionists provide information about apparel, technique, workouts, racing, and nutrition, to name just a few topics.</p>
+<p><strong>10. <a href="http://strengthrunning.com/">Strength Running</a></strong> Love running? According to Jason Fitzgerald, you need to learn to love strength training, too. Fitzgerald, a longtime runner and USAFT-certified running coach (and <a href="http://greatist.com/p/jasonfitzgerald" style="line-height: 1.5em;" target="_blank">Greatist Expert</a>!), wants to teach runners how to achieve their goals and prevent injuries through specialized workouts, recovery techniques, and strength exercises. Strength Running is a must-read site for any runner with a history of injuries (or any runner who wants to avoid an injury in the future).</p>
+<p><strong>11. <a href="http://www.blackgirlsrun.com/">Black Girls RUN!</a></strong> Toni Carey and Ashley Hicks were shocked and saddened when they found out that according to the CDC, <a href="http://minorityhealth.hhs.gov/templates/content.aspx?ID=6456" style="line-height: 1.5em;">80 percent of African-American women</a> are overweight. So they founded Black Girls RUN! in 2009 to teach women about the importance of fitness and healthy living. In addition to providing training and nutrition info, the blog covers beauty and fashion. Carey and Hicks don’t just talk the talk: They’ve launched nearly 70 active running groups for African-American women across the country and encourage readers to participate in virtual races and attend fitness conferences.</p>
+<p><strong>12. <a href="http://www.mile-posts.com/">Mile Posts</a></strong> Need an inspirational story to help get out the door for that morning jog? Take a peek at Mile Posts, Dorothy Beal’s blog, which focuses on running and overcoming obstacles. After learning to manage three chronic illnesses, Beal became a dedicated runner and racer. Her blog’s loaded with fitness tips, running instructions, and, of course, motivational quotations and stories to get your engine going.</p>
+<p><strong>13. </strong><a href="http://www.oiselle.com/blog"><strong>Oiselle</strong></a> This Seattle-based women’s running apparel company manages to take the sport seriously and stay down-to-earth at the same time. Oiselle is famous for supporting female athletes, and the blog reflects this priority. Check it out to read profiles on <a href="http://www.oiselle.com/blog/get-know-ashley-evans" style="line-height: 1.5em;">Oiselle Team runners</a>, stretching and <a href="http://www.oiselle.com/blog/booty-strength-runners" style="line-height: 1.5em;">strengthening techniques</a>, race recaps, Q and A’s with pro runners, and plenty of <a href="http://www.oiselle.com/blog/when-life-hands-you-lemons-throw-those-lemons-lifes-crotch" style="line-height: 1.5em;">motivational personal stories</a>.</p>
+<p><strong>14. <a href="http://www.runnersworld.com/deans-blog">Dean’s Blog</a></strong> Although he’s famous in ultra-running circles, most weekend warriors have unfortunately never heard of superstar Dean Karnazes — which is why it’s great for everyone (not just 100-milers) that Runner’s World gave him his own online column. Karnazes, who has competed in and won dozens of 100-plus mile races over the past 20 years, muses about pretty much anything running-related that strikes his fancy. Dean’s Blog manages to be clever, funny, and pretty darn random all at once — it's perfect fodder for mulling over on your next (ultra) long run.</p>
+<p><strong>15. <a href="http://ultrarunnergirl.com/">Ultra Runner Girl</a></strong> Like many of us, human rights advisor Stephanie Case always packs running shoes when she travels for work. Unlike most nine-to-fivers, she’s trained or competed in Vietnam, Nepal, Australia, China, Afghanistan, Kyrgyzstan, Ecuador, Ethiopia, and Malaysia. She documents her travels (as well as her runs) on her blog. Whether you’re interested in humanitarian fieldwork, long-distance running, or exotic travel, her blog has a little something for everyone with an adventurous spirit.</p>
+<p><strong>16. <a href="http://asklaurenfleshman.com/">Ask Lauren Fleshman</a></strong> Ever wish you had a professional runner friend to field all your questions about technique, training, recovery, nutrition, and racing? Lauren Fleshman, a 15-time All-American and five-time NCAA champion middle-distance runner, is here to help. On Ask Lauren Fleshman, the pro runner answers reader questions and writes about <a href="http://greatist.com/happiness/pro-runner-body-image-media" target="_blank">body image</a>, motherhood, and overcoming injuries. (She even pens a few poems.)</p>
+<p><img height="400" width="604" class="media-element file-default" alt="Best Blogs: Strength Training and CrossFit" typeof="foaf:Image" src="http://greatist.com/sites/default/files/BestBlogs_StrengthTrainingAndCrossfit_604.png" /></p>
+<p><strong>17. <a href="http://www.romanfitnesssystems.com/blog/" style="line-height: 1.5em;">Roman Fitness Systems</a></strong> Self-identified badass John Romaniello is a personal trainer and author who means what he says, says what he means, and does it all with a playful goofiness that make blog posts like “<a href="http://www.romanfitnesssystems.com/blog/free-fat-loss-tips/" style="line-height: 1.5em;">Three Completely Obvious (And Free) Aspects of Rapid Fat Loss You’re Blatantly Ignoring</a>” and “<a href="http://www.romanfitnesssystems.com/blog/beer-bourbon-cupcakes/" style="line-height: 1.5em;">The Best Damn Cupcakes Ever</a>” (Spoiler alert: They’re made with both bourbon and beer) as fun to read as they are informative. Make this a daily stop for detailed training advice, nutritional strategies, and more.</p>
+<p><strong>18. <a href="http://www.tonygentilcore.com/">Tony Gentilcore</a></strong> Tony Gentilcore is a Certified Strength and Conditioning Specialist who is committed to sharing his love of lifting heavy with the world. His blog posts provide in-depth descriptions of various lifts, instructions on how to improve technique, and his take on various topics in fitness and strength training. He also provides a not-to-be-missed weekly roundup of his favorite fitness and nutrition content from around the web.</p>
+<p><strong>19. <a href="http://gritbybrit.com/">Grit By Brit</a></strong> Fitness instructor and former division-one basketball player Brit Rettig believes that mental grit, or “perseverance and passion for long term goals,” is the key to fitness success. She is as dedicated to helping readers build self-confidence and cultivate positivity as she is to providing workouts, nutritional guidance, and fitspiration.</p>
+<p><strong>20. <a href="http://www.girlsgonestrong.com/">Girls Gone Strong</a></strong> The women behind Girls Gone Strong are on a mission to inspire and empower other women to pursue strength of both body and mind. Bloggers Neghar Fonooni, Molly Galbraith, and Alli McKee cover mastering lifts, conquering stress, understanding supplements and nutrition, and finding fitness motivation. GGS regularly turns the spotlight on its readers, highlighting their workout habits and healthy lifestyle inspirations in a feature called &nbsp;“GGS Spotlight.”</p>
+<p><strong>21. <a href="http://www.mobilitywod.com/">Mobility WOD</a></strong> In 2010, Doctor of Physical Therapy and CrossFit coach <a href="http://greatist.com/fitness/kelly-starrett-mobility-injury-free" style="line-height: 1.5em;">Kelly Starrett</a> posted a video with instructions on how to <a href="http://www.mobilitywod.com/2010/08/episode-01-the-first-of-many-beat-downs/" style="line-height: 1.5em;">squat</a> deeper. In that video, he also announced that he intended to post one video on movement and mobility per day for the rest of his life. Since then, MobilityWOD.com has become a treasure trove of short videos on resolving pain, dealing with injury, and maximizing athletic potential. If you’ve had a question about a nagging workout-related ache or pain, there’s a good chance Starrett has video-blogged about it.</p>
+<p><strong>22. <a href="http://www.niashanks.com/">Nia Shanks</a></strong> Nia Shanks backs up her no-nonsense directive to “be the most awesome and strongest version of you” with blog posts that provide as much encouragement as they do instruction. Shanks believes that lasting results come from fitness and <a href="http://greatist.com/health/ditch-diet-rules-listen-your-body-optimal-health" target="_blank">diet regimens emphasizing strength, confidence, and empowerment</a> (as opposed to punishing workouts and restrictive dieting). Her blog posts challenge readers to look at working out and eating healthily as steps on a journey to getting fitter, happier, and stronger.</p>
+<p><strong>23. <a href="http://www.negharfonooni.com/blog/">Neghar Fonooni</a></strong> Fitness expert Neghar Fonooni believes in “eating mindfully, training intuitively, and living joyfully,” and her blog has the fitness, nutrition, and lifestyle tips to help you do all three. Fonooni shares workouts, recipes, and her thoughts on various healthy-living related themes (<a href="http://www.negharfonooni.com/2012/06/06/everything-and-nothing-in-moderation/" style="line-height: 1.5em;">moderation</a>, <a href="http://www.negharfonooni.com/2014/01/10/guilt-sucks/" style="line-height: 1.5em;">guilt</a>,&nbsp;<a href="http://www.negharfonooni.com/2013/02/26/assess-accept-adapt-a-guide-to-more-productive-training-sessions/" style="line-height: 1.5em;">productive workouts</a>, ) along with a healthy dose of positivity.</p>
+<p><strong>24. <a href="http://mentalitywod.com/">Mentality WOD</a></strong> Dawn Fletcher coaches top-level CrossFit athletes not in strength technique or athletic conditioning, but in leveling up their mental toughness. Fletcher believes that success in the gym comes from cultivating a positive attitude, self-confidence, and a can-do sprit that celebrates achievements, takes challenges in stride, and reframes failure as something that can inspire the next success.</p>
+<!--MEDIA-WRAPPER-START-4--><p><img alt="" class="file-default media-element" src="http://greatist.com/sites/default/files/styles/article_main/public/BestBlogs_HappinessAndWellness_604.png?itok=_7zfKD3n" style="height:400px; width:604px" title=""></p>
+<p><strong>25. <a href="http://lessdoing.com/blog/">Art of Less Doing</a></strong> What is less doing? According to author Ari Meisel, it’s all about optimizing, automating, and outsourcing. The <a href="http://greatist.com/happiness/most-efficient-man-alive-interview-ari-meisel" style="line-height: 1.5em;" target="_blank">most efficient man alive</a> uses his blog to share tips that boost efficiency, increase output, and save time. From conquering email to staying in shape, Meisel’s blog has tips and tricks to give nearly every aspect of everyday life a productivity boost.&nbsp;</p>
+<p><strong>26. <a href="http://www.dailycupofyoga.com/">Daily Cup of Yoga</a></strong> This one-stop yoga site describes itself as a source for “tips, tools, and wisdom on yoga, books, and technology.” We couldn’t have said it better ourselves. From reviewing mats, clothing, and books to discussing big topics like how to <a href="http://www.dailycupofyoga.com/2014/01/15/defeating-unhappiness/" style="line-height: 1.5em;">overcome unhappiness</a> and “<a href="http://www.dailycupofyoga.com/2013/11/21/soul-freedom-and-how-it-relates-to-your-real-world-life/" style="line-height: 1.5em;">soul freedom</a>,” blogger Brian Call’s site is a virtual campfire for yogis to gather around.</p>
+<p><strong>27. <a href="http://www.bodylovewellness.com/">Body Love Wellness</a></strong> Holistic health advocate Golda Poretsky thinks you look fine just the way you are. Body Love Wellness covers topics from self-esteem, to developing healthy relationships with food and exercise, to learning to love yourself at any weight — all&nbsp;with a healthy dose of humor and kindness.</p>
+<p><strong>28. <a href="http://rebeccapacheco.com/omgal/">Om Gal</a></strong> Need some “om” in your life? Check out Massachusetts-based yogi Rebecca Pacheco’s blog, where yoga and stretching videos share space with philosophical musings and empowering observations. Om Gal is basically Pacheco’s online diary, but it’s definitely an interesting one — the yoga teacher recently <a href="http://rebeccapacheco.com/sports/teaching-yoga-at-fenway-park-that-happened/" style="line-height: 1.5em;">taught a class</a> at Boston’s Fenway Park and <a href="http://rebeccapacheco.com/sports/road-trip-to-runners-world-a-marathon-in-pa-photos/" style="line-height: 1.5em;">collaborated with Runner’s World</a> on a series of yoga videos.</p>
+<p><strong>29. <a href="http://www.mindbodygreen.com/">MindBodyGreen</a></strong> Pursuing health is about so much more than eating oatmeal for breakfast and hitting the gym after work. MindBodyGreen addresses nearly every aspect of a healthy lifestyle, including far-reaching topics like relationships, finances, stress, spirituality, and overall mental health.</p>
+<p><strong>30. <a href="http://tinybuddha.com/">Tiny Buddha</a></strong> When you could use a change in perspective, this is the place to turn for some much-needed words of wisdom. At Tiny Buddha, you’ll find quotations from sources as varied as Oprah Winfrey and F. Scott Fitzgerald. Blogger Lori Deschene uses the quotations to launch discussions on topics such as personal growth, dealing with change, and learning to forgive.&nbsp;</p>
+<p><strong>31. <a href="http://zenhabits.net/" style="line-height: 1.5em;">Zen Habits</a></strong> Leo Babauta has been writing about developing healthier habits since 2006, so he might possibly know what he’s talking about. Zen Habits is a treasure trove of advice that’s helpful (but never preachy) on topics as wide-ranging as child-rearing, exercise, and managing debt. Babauta’s holistic lifestyle proves that it’s possible to make big changes in many areas by changing your overall attitude.</p>
+<p><strong>32. <a href="http://www.20-nothings.com/">30-Nothings</a></strong> Formerly called 20-Nothings, this site tells the tale of one writer’s journey through the often-confusing period between ages 20 and 30 (and now, 30 and 40). Jessie Rosen pens blog posts mainly about self-esteem, body image, relationships, social media, and feminism. If you’re a 20- or 30- something woman (or friends with one), it’s a no-brainer read.</p>
+<p><strong>33. <a href="http://www.theminimalists.com/">The Minimalists</a></strong> Many of us confuse fulfillment with material things and subsequently end up squeezing new purchases into already stuffed closets. In 2010, childhood friends Joshua Fields Millburn and Ryan Nicodemus decided to regain control over their lives by starting a 21-day journey to minimalism. During the process (and after) they discovered that <a href="http://greatist.com/happiness/less-stuff-happier" target="_blank">living with less</a> can provide more satisfaction than a McMansion full of stuff. Their blog, The Minimalists, is full of insightful, surprising, and inspirational observations about living simply.</p>
+<p><strong>34. <a href="http://www.manifestyourself.com/">Manifest Yourself</a></strong> Kimberly Whittaker’s sunny smile on the sidebar of Manifest Yourself serves as a portent of things to come — this blog is all about positivity and inspiration. Manifest Yourself is relatively new (Whittaker started writing in the summer of 2013), but it’s already a favorite thanks to its cool design, motivational quotations, and the author’s upbeat persona.&nbsp;</p>
+<p><strong>35. <a href="http://www.lumosity.com/blog/">Lumosity Blog</a></strong> According to Lumosity, a brain-training online program, neuroscience is<em> so</em> in this year. The company’s blog sheds interesting light on how our brains actually work. A few interesting recent topics include how <a href="http://blog.lumosity.com/meditation2/" style="line-height: 1.5em;">meditation affects alpha brain waves</a> and how <a href="http://blog.lumosity.com/bilingualism/" style="line-height: 1.5em;">bilingualism can alter the brain</a>.</p>
+<p><strong>36. <a href="http://blog.ted.com/">TED</a></strong> Considering how fascinating and addicting <a href="http://blog.ted.com/" style="line-height: 1.5em;">TED talks</a> are, it’s no surprise that the organization’s blog is equally thought provoking. Like the talks, the blog articles are chock full of “<a href="http://www.ted.com/pages/about" style="line-height: 1.5em;">ideas worth spreading</a>” and even follow up on some <a href="http://blog.ted.com/2014/01/15/ted-news-in-brief-1-15-2104/" style="line-height: 1.5em;">popular talk topics</a>.</p>
+<!--MEDIA-WRAPPER-START-5--><p><img alt="" class="file-default media-element" src="http://greatist.com/sites/default/files/styles/article_main/public/BestBlogs_HealthyRecipesAndDiets_604.png?itok=zmPVN7r5" style="height:400px; width:604px" title=""></p>
+<p><strong>37. <a href="http://101cookbooks.com/">101 Cookbooks</a></strong> Heidi Swanson’s got 101 problems, but recipes ain’t one. Back in 2003, Swanson launched 101 Cookbooks with the goal of cooking through her monstrous collection of recipe books. More than ten years later, the blog’s focus on natural, <a href="http://greatist.com/health/wtfis-clean-eating" style="line-height: 1.5em;">whole foods</a> and beautiful photography has won <a href="http://101cookbooks.com/about/#press" style="line-height: 1.5em;">multiple awards</a>, been featured in countless publications, and even turned into two <a href="http://www.amazon.com/exec/obidos/ASIN/1580082777/heidiswanson-20" style="line-height: 1.5em;">bestselling</a> <a href="http://www.amazon.com/exec/obidos/ASIN/1587612755/heidiswanson-20" style="line-height: 1.5em;">cookbooks</a>.</p>
+<p><strong>38. <a href="http://www.choosingraw.com/">Choosing Raw</a></strong> When most of us think about “raw food,” we picture a meager dinner of raw carrots and celery sticks. Not so, according to Gena Hamshaw, the voice behind Choosing Raw. Choosing Raw’s mission is to teach us that vegan and raw food can be satisfying, convenient, and fun (and Hamshaw succeeds).</p>
+<p><strong>39. <a href="http://thugkitchen.com/">Thug Kitchen</a></strong> This isn’t your mama’s cooking blog. In fact, it might be a good idea to not read it while hanging out with your mother (or at work) — the blog’s tagline is “Eat Like You Give a F@!k.” Thug Kitchen may use plenty of street slang and profanities, but it also features some kick-ass plant-based recipes served up with a sense of humor.</p>
+<p><strong>40. <a href="http://www.greenkitchenstories.com/">Green Kitchen Stories</a></strong> The globetrotting family behind Green Kitchen Stories is hardly stuck on one type of cuisine. David and Luise met while studying in Rome before moving to Stockholm to start a family. They document their <a href="http://greatist.com/health/complete-vegetarian-proteins" target="_blank">vegetarian cooking</a> experiments on Green Kitchen Stories. Their adventures aren’t limited to the kitchen, though: In 2011, the writers spent six months traveling the world with their baby daughter, documenting their culinary escapades and picking up plenty of new recipes.</p>
+<p><strong>41. <a href="http://www.preventionrd.com/">Prevention RD</a></strong> Founding father Benjamin Franklin once said, “An ounce of prevention is worth a pound of cure.” Writer and registered dietician Nicole Morrissey took those words to heart after finding a healthy weight thanks to diet and exercise. Prevention RD features seriously delicious recipes that don’t make you feel deprived. (Plus, every recipe includes detailed nutritional information.)&nbsp;</p>
+<p><strong>42. <a href="http://nomnompaleo.com/">Nom Nom Paleo</a></strong> Pigtailed pharmacist Michelle Tam is out to prove that <a href="http://greatist.com/paleo" style="line-height: 1.5em;" target="_blank">eating Paleo</a> isn’t just for meathead bodybuilders. Nom Nom Paleo shows us how the Caveman lifestyle is adaptable, convenient, and can even work for a busy family of four. Tam is currently kicking off the New Year with <a href="http://nomnompaleo.com/tagged/January-Jumpstart" style="line-height: 1.5em;">2014 January Jumpstart</a> — a month-long meal plan loaded with new, healthy recipes.</p>
+<p><strong>43. <a href="http://naturallyella.com/">Naturally Ella</a></strong> Vegetarians, get ready to start your engines: Naturally Ella is a veritable treasure chest for people who eat a plant-based diet. Califorina-based blogger and photographer Erin Alderson has invented hundreds of <a href="http://greatist.com/health/7-alternative-proteins-meatless-mondays" target="_blank">veggie-friendly recipes</a>. Naturally Ella also features tips on seasonal eating, <a href="http://naturallyella.com/2012/08/10/canning-the-rundown-recipes-ideas-and-information/" style="line-height: 1.5em;">preserving food</a>, cooking with <a href="http://naturallyella.com/bulk-bins/" style="line-height: 1.5em;">bulk grains</a>, <a href="http://naturallyella.com/2013/09/24/stocking-a-whole-foods-pantry/" style="line-height: 1.5em;">stocking a pantry</a>, and prepping meals for people with <a href="http://naturallyella.com/special-diets/" style="line-height: 1.5em;">special diets</a>.</p>
+<p><strong>44. <a href="http://www.skinnytaste.com/">Skinny Taste</a></strong> Gina Homolka’s diet-friendly recipes are light on calories but not on taste. The writer, photographer, and avid home cook has developed hundreds of healthy recipes, each complete with detailed nutritional information. And since her recipes include treats like <a href="http://www.skinnytaste.com/2009/11/chocolate-chip-clouds.html" style="line-height: 1.5em;">chocolate cookies</a>, <a href="http://www.skinnytaste.com/2009/02/zucchini-lasagna.html" style="line-height: 1.5em;">lasagna</a>, and <a href="http://www.skinnytaste.com/2011/04/healthy-baked-chicken-nuggets.html" style="line-height: 1.5em;">chicken nuggets</a>, there’s no reason to swear off certain foods when trying to eat healthy.</p>
+<p><strong>45. <a href="http://robbwolf.com/blog/">The Paleo Solution</a></strong> Robb Wolf isn’t a character from Game of Thrones, but he’s definitely into old-school eating habits. The Paleo Solution is a science-stuffed blog that explains why <a href="http://greatist.com/health/ultimate-guide-eating-paleo-infographic" style="line-height: 1.5em;" target="_blank">eating like a caveman</a> can provide serious nutritional perks for modern-day people. From testimonials from real people to tips for celebrating holidays without going crazy, The Paleo Solution offers sound advice for nearly every situation.</p>
+<p><strong>46. <a href="http://www.runningonrealfood.com/">Running on Real Food</a></strong> It’s time to put down the energy bars and start fueling those ten-milers with some quality nutrients. Running on Real Food blogger Deryn Macey shares recipes for wholesome meals (including plenty of gym-friendly snacks like homemade <a href="http://www.runningonrealfood.com/lemon-pie-larabars-vegan-paleo-gluten-free/" style="line-height: 1.5em;">Lemon Pie Larabars</a>), as well as workouts, motivational posts, her favorite music, and what she’s eating right now.</p>
+<p><strong>47. <a href="http://www.sproutedkitchen.com/">Sprouted Kitchen</a></strong> Sprouted Kitchen proves that a dynamic duo is often better than the sum of the individual parts. Vegetable-loving home cook Sara and her beau, photographer Hugh, teamed up in 2009 to create a site that inspires wannabe chefs and home cooks. Sprouted Kitchen is a love story of whole foods, fresh seasonal vegetables, and the healthy meals that result when the two are combined. Sara’s honest, warm voice and Hugh’s stunning photos are a winning combo, as well.</p>
+<p><strong>48. <a href="http://paleomg.com/">PaleOMG</a></strong> PaleOMG is a veritable encyclopedia for those who like to <a href="http://greatist.com/health/debunking-diets-paleo-pros-and-cons" style="line-height: 1.5em;" target="_blank">eat caveman-style</a>. Author Juli Bauer posts tons of recipes for Paleo-friendly eats, including sweet treats and CrockPot meals. Her instructive <a href="http://paleomg.com/category/cooking-videos/" style="line-height: 1.5em;">cooking videos</a>, extensive knowledge of the Paleo diet, and pervasive sense of humor take this site above and beyond typical food blogs.</p>
+<p><strong>49. <a href="http://fitfoodiefinds.com/">Fit Foodie Finds</a></strong> Like many of us, the author behind Fit Foodie Finds is trying to find a healthy balance between eating right, exercising, and still having time to pursue other hobbies (like traveling, playing with dogs, and crocheting). Our favorite thing about FFF is without doubt its awesome creator, Lee Hersh: Her down-to-earth tone, genuine love of food, and flair for graphic design make this site a Greatist team fave.</p>
+<p><strong>50. <a href="http://www.foodheavenmadeeasy.com/">Food Heaven Made Easy</a></strong> Food Heaven Made Easy sounds like the name of an amazingly delicious food delivery service. But that’s not exactly accurate — the blog is actually a compilation of healthy recipes, cooking videos, and nutrition tips. Adorable and extremely well dressed dieticians Wendy Lopez and Jessica Jones appear in every video. Food Heaven Made easy teaches home cooks (no matter how strapped for time or inexperienced in the kitchen) that making <a href="http://greatist.com/health/cheap-healthy-recipe-collection" target="_blank">healthy recipes</a> from scratch <em>is </em>possible.</p>
+<p><strong>51. <a href="http://www.buzzfeed.com/food">BuzzFeed Food</a></strong> BuzzFeed Food is like the dessert of food blogs: fun to read, not exactly healthy or useful, and you sometimes feel bad after wasting calories (read: time) on it. In true BuzzFeed fashion, the articles contain entertaining (or delicious-looking) photos, silly captions, and surprisingly relevant truths about how we actually behave. We’re obsessed with the site’s numbered lists (like <a href="http://www.buzzfeed.com/tashweenali/gooey-desserts" style="line-height: 1.5em;">21 Desserts That Are Really Excited to See You</a>) and rankings (for example, <a href="http://www.buzzfeed.com/rachelysanders/the-definitive-ranking-of-chips" style="line-height: 1.5em;">The Definitive Ranking of Chips</a>).</p>
+<!--MEDIA-WRAPPER-START-6--><p><img alt="" class="file-default media-element" src="http://greatist.com/sites/default/files/styles/article_main/public/BestBlogs_HealthyLifestyle_604.png?itok=wx0VNHWF" style="height:400px; width:604px" title=""></p>
+<p><strong>52. <a href="http://blackgirlsguidetoweightloss.com/">A Black Girl’s Guide to Weight Loss</a></strong> Who better to motivate your next workout or healthy food choice than someone who has forged her own path from couch potato to personal trainer and fitness blogger? Erika Nicole Kendall’s journey includes a 170-pound weight loss, triumph over emotional eating habits, and the desire to help others achieve their own goals. She addresses topics like <a href="http://blackgirlsguidetoweightloss.com/food-101/what-is-sugar-addiction/" style="line-height: 1.5em;">sugar addiction</a> and <a href="http://blackgirlsguidetoweightloss.com/tools-for-weight-loss/understanding-calorie-counting-the-basics/" style="line-height: 1.5em;">calorie counting</a> and provides nutrition advice and workout tips.</p>
+<p><strong>53. <a href="http://www.fannetasticfood.com/">fANNEtastic food</a></strong> Anne Mauney is a Washington, DC-based Registered Dietician with an online nutrition-counseling practice and a blog full of recipes and tips for healthy eating. Though she’s also a runner, yogi, and CrossFit-er, she doesn’t just dole out advice for optimizing fitness and nutrition. Her blog posts regularly recap her own adventures in eating, running, and working out. Go for the great tips, stay for the friendly, BFF vibe.</p>
+<p><strong>54.&nbsp;<a href="http://fitbottomedgirls.com/">Fit-Bottomed Girls</a></strong> The women behind Fit Bottomed Girls believe that fitness comes from an active lifestyle, sensible and enjoyable eating habits, and a positive outlook. Their blog provides workout routines, recipes, book and fitness equipment reviews, and thoughtful meditations on best practices for getting fit without being fixated on the numbers (read: calories or the scale).</p>
+<p><strong>55. <a href="http://www.theleangreenbean.com/">The Lean Green Bean</a></strong> Whether you’re after recipes with mouth-watering photos, ideas and inspiration for all kinds of workouts, or link roundups including some of the best fitness and nutrition info around, The Lean Green Bean is a great source for healthy living information and motivation. Run by a registered dietitian (who has collected all of her <a href="http://www.theleangreenbean.com/becoming-an-rd/" style="line-height: 1.5em;">RD-related blog posts</a> on one handy page), the blog is also home to <a href="http://www.theleangreenbean.com/foodie-penpals/" style="line-height: 1.5em;">Foodie Penpals</a>, a program that matches readers for a monthly exchange of delicious edibles via mail.</p>
+<p><strong>56. <a href="http://www.runtothefinish.com/">Run to the Finish</a></strong> By focusing on “progress, not perfection,” the blogger behind Run to the Finish believes in changing one habit at a time to build a healthier lifestyle. She shares her workouts and recipes, reviews races and books, and provides comprehensive resources on staying active and healthy while traveling.</p>
+<p><strong>57. <a href="http://fitandfeminist.wordpress.com/">Fit and Feminist</a></strong> The blogger behind Fit and Feminist is as serious about feminism as she is about running, which is why her blog is an incredible resource not just for fitness motivation and race recaps, but for thoughtful explorations of some of the social and political issues related to women and fitness. The blog tackles topics such as beauty norms, body confidence, and women-only races.</p>
+<p><strong>58. <a href="http://www.artofmanliness.com/category/health-sports/">The Art of Manliness (Health and Sports Section)</a></strong> No matter how “manly” you are or aspire to be, this blog is a fun and informative way to learn about a super diverse array of fitness-related topics. Whether you’re looking to better understand the mechanics of a <a href="http://www.artofmanliness.com/2013/11/05/clean-and-power-clean-technique/" style="line-height: 1.5em;">lift</a>, how to <a href="http://www.artofmanliness.com/2013/11/27/how-to-tackle-like-a-pro-2/" style="line-height: 1.5em;">tackle</a> like a pro footballer, or transform your garage into a <a href="http://www.artofmanliness.com/2013/10/04/garage-gym/" style="line-height: 1.5em;">home gym</a>, the awesome write-ups and eye-catching visuals will turn you into a fitness pro.</p>
+<p><strong>59. <a href="http://purelytwins.com/">Purely Twins</a></strong> Lori and Michelle are twin sisters with a serious passion for all things fitness and healthy living. If you’re equally excited about cookie-dough-filled <a href="http://purelytwins.com/2014/01/08/yeastfree-cookie-dough-cinnamon-rolls-cookie-dough-frosting/" style="line-height: 1.5em;">cinnamon rolls</a> with cookie dough frosting, home workout routines, and motivational quotes to inspire your next healthy choice, Purely Twins is for you.</p>
+<p><strong>60.&nbsp;<a href="http://www.blisstree.com/">Bliss Tree</a></strong> Bliss Tree has mastered the art of combining super informative content with a goofy vibe that makes you want to click on just about everything on the page. The blog rounds up and breaks down news and trends in fitness, food, and beauty, all with just the right amount of irreverence. &nbsp;&nbsp;</p>
+<p><em>What are your favorite health and fitness blogs? Share them in the comments below or get in touch with us on Twitter <a href="http://twitter.com/Greatist">@Greatist</a>.</em></p>
+</div>
+<div
+  data-popcart
+  class="foodily-popcart-button mb">
+  <i class="fa fa-cutlery"></i> Send Me the Ingredients!
+  <a href="http://getpopcart.com" class="powered-by">Powered by Popcart</a>
+</div>
+
+        <div class="bottom-next-article">
+  <div
+    class="next-link"
+    ng-init='initAnalytics("read-next-bottom")'
+    ng-controller="basicTracking"
+  >
+    <span><i class="fa fa-chevron-circle-right"></i> READ THIS NEXT:</span>
+    <a href="/fitness/best-health-fitness-apps" >
+      The 65 Best Health &amp; Fitness Apps of 2014    </a>
+  </div>
+</div>
+
+        <div
+          class="bottom-share"
+          data-scroll-reach-tracking="article-content-end"
+          data-scroll-reach-tracking-near="article-content-near-end"
+        >
+          <div class="group_share ">
+  <div class="field-group-format-wrapper" style="display: block;">
+        <div class="share-buttons icons" data-origin="bottom">
+      <div ng-controller="socialCtrl"
+  data-href="http://greatist.com/health/must-read-health-fitness-blogs"
+  data-media="http%3A%2F%2Fgreatist.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fbig_share%2Fpublic%2FBestBlogs_Feature.png%3Fitok%3D9yMkSsCM"
+  data-title="60 Must-Read Health, Fitness, and Happiness Blogs for 2014"
+  data-twitter=""
+  data-twitter-url="http://grt.st/1jq7mrX"
+>
+
+  <div class="greatist-pin large greatist-share">
+    <a class="pin greatist-pin-button icon-font"
+    ng-click="share_pin()" ><span class="share-alt">Pin it</span></a>
+  </div>
+  <div class="greatist-facebook large greatist-share">
+    <a
+      class="fb-share-button icon-font fb"
+      ng-click="share_fb($event)"
+      data-share-fb
+    ><span class="share-alt">Share</span></a>
+  </div>
+  <div class="greatist-email greatist-share">
+    <a class="greatist-email-button icon-font email"
+    ng-click="share_email()"><span class="share-alt">Email</span></a>
+  </div>
+  <div class="greatist-stumble greatist-share">
+    <a class="greatist-stumble-button icon-font stumble"
+    ng-click="share_stumble()"><span class="share-alt">Stumble</span></a>
+  </div>
+</div>
+    </div>
+      </div>
+</div>
+        </div>
+
+        <div ng-controller="basicTracking" ng-init="initAnalytics('recirculation-outbrain-below-content', {implicitClick: true})">
+          <div data-outbrain></div>
+        </div>
+
+        <div data-fb-like-box="article-mobile-bottom-like-box" data-restrict-context-to=">medium" class="hide-for-ready">
+          <h2 class="section-title">Like Us On Facebook</h2>
+        </div>
+
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" rel="dc:subject"><a href="/health-and-fitness-blogs" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Health and Fitness Blogs</a></div>
+      </div>
+</div>
+      </div>
+
+      <div id="ym_966589724821756968" data-yieldmo="ym_966589724821756968" data-yieldmo-tablet="ym_976629314492243103" class="ym"></div>
+          </article>
+
+    <aside class="article-sidebar-column sidebar-column">
+                  <div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-sidebar-1"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_Flex_300x250//300x600"
+  data-ad-slot="div-gpt-ad-1409786991744-0"
+  data-ad-size="300x250,300x600"
+  class="dfp-tag-wrapper dfp-ad-article-ad-sidebar-1"></div>
+
+      <div class="newsletter-block article-sidebar-newsletter mb no-small" ng-controller="NewsletterCtrl" data-origin="homepage_sidebar">
+  <h2 class="section-title">Get The Newsletter</h2>
+  <form name="newsletterForm" ng-submit="subscribeEmail('article-sidebar-newsletter')">
+    <ul>
+      <li ng-repeat="newsletter in newsletters">
+        <input id="article-sidebar-newsletter-{{newsletter.name}}" class="newsletter-checkbox" type="checkbox" ng-model="newsletter.selected">
+        <label for="article-sidebar-newsletter-{{newsletter.name}}" class="newsletter-title"><div class="newsletter-heading" ng-cloak>{{newsletter.title}}</div></label>
+      </li>
+    </ul>
+    <input type="email" ng-model="newsletterEmail" placeholder="Your Email" ng-disabled="submitted">
+    <input type="submit" value="Sign me up!" ng-disabled="submitted">
+  </form>
+  <div class="message message-error" ng-show="error" ng-cloak>{{error}}</div>
+  <div class="message message-success" ng-show="success" ng-cloak>{{success}}</div>
+</div>
+
+      <div class="sub-sidebar">
+        <div class="popular-list-block mb no-medium"
+  ng-init='initAnalytics("must-read-after-round-3-20-items")'
+  ng-controller="basicTracking">
+  <h2 class="section-title">MUST READS</h2>
+  <ul class="popular-list">
+              <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-fast-breakfast-recipes"
+          title="34 Healthy Breakfasts for Busy Mornings"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Breakfast_Feature.png?itok=RGtMrfSg" />
+          <span>34 Healthy Breakfasts for Busy Mornings</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/high-protein-snacks-portable"
+          title="31 Healthy and Portable High-Protein Snacks"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/PortableLunch_FeatureB_2.png?itok=f77Zit0p" />
+          <span>31 Healthy and Portable High-Protein Snacks</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-exciting-chicken-breast-recipes"
+          title="60 Ways to Spice Up Boring Chicken Breasts"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Spicy%20Asian%20Chicken%20and%20Noodle%20Soup_f.jpg?itok=lg-bHdVb" />
+          <span>60 Ways to Spice Up Boring Chicken Breasts</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/cant-sleep-advice-and-tips"
+          title="Never Lie Awake in Bed Again—Seriously"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Sleep-Solutions-Feature.png?itok=4qPEEitV" />
+          <span>Never Lie Awake in Bed Again—Seriously</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/best-foods-eat-when-sick"
+          title="The Best and Worst Foods to Eat When You&#039;re Sick"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Soup-and-Toast-feature.png?itok=Gn17Lw2m" />
+          <span>The Best and Worst Foods to Eat When You&#039;re Sick</span>
+        </a>
+      </li>
+              <div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-sidebar-between-recommendations"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_300x250_BTM2"
+  data-ad-slot="div-gpt-ad-1410557044720-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-sidebar-between-recommendations"></div>
+
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/35-quick-and-healthy-low-calorie-lunches"
+          title="35 Quick and Healthy Low-Calorie Lunches"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/35_QuickHealthyLowCalorieLunches_Feature.png?itok=1VAaunpe" />
+          <span>35 Quick and Healthy Low-Calorie Lunches</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/52-healthy-meals-12-minutes-or-less"
+          title="52 Healthy Meals in 12 Minutes or Less"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/quesadillas.jpg?itok=iGlQCUS1" />
+          <span>52 Healthy Meals in 12 Minutes or Less</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-crock-pot-recipes"
+          title="77 Healthy Crock-Pot Recipes"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/wp-content/uploads/2013/01/Cinnamon-Apple-Oatmeal1.jpg?itok=RC4NiEEn" />
+          <span>77 Healthy Crock-Pot Recipes</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/surprising-high-fiber-foods"
+          title="The 16 Most Surprising High-Fiber Foods"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/482095967.jpg?itok=DHYGtSgE" />
+          <span>The 16 Most Surprising High-Fiber Foods</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/complete-vegetarian-proteins"
+          title="12 Complete Proteins Vegetarians Need to Know About"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/12%20CompleteVeganProteins_Featured.png?itok=9OamR0sI" />
+          <span>12 Complete Proteins Vegetarians Need to Know About</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-single-serving-meals"
+          title="29 Insanely Easy, Healthy Meals for One"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Stuffed-Avocado-feature_0.png?itok=vVCaxjdT" />
+          <span>29 Insanely Easy, Healthy Meals for One</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-peanut-butter-recipes"
+          title="50 Healthier Peanut Butter Recipes You&#039;ve Never Tried Before"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Sweet%20Potato%20Peanut%20Soup_OS-.jpg?itok=IOQSRXtY" />
+          <span>50 Healthier Peanut Butter Recipes You&#039;ve Never Tried Before</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/best-healthy-cereal-brands"
+          title="The 20 Cereals That Are Actually Healthy"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/cereal_feat_1.jpg?itok=tNU2dgX3" />
+          <span>The 20 Cereals That Are Actually Healthy</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/100-calorie-snacks"
+          title="100-Calorie Snacks That Actually Keep You Full and Satisfied"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/cheesy-popcorn.jpg?itok=-FJFD40w" />
+          <span>100-Calorie Snacks That Actually Keep You Full and Satisfied</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-meals-for-two"
+          title="Cooking for Two: 34 Healthy Meals for You and Your Boo"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/CinnaBuns_2.jpg?itok=yhshuc2O" />
+          <span>Cooking for Two: 34 Healthy Meals for You and Your Boo</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/18-surprising-dairy-free-sources-calcium"
+          title="18 Surprising Dairy-Free Sources of Calcium"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Bok-Choy-featured.jpg?itok=E67fVb8P" />
+          <span>18 Surprising Dairy-Free Sources of Calcium</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/88-unexpected-snacks-under-100-calories"
+          title="88 Unexpected Snacks Under 100 Calories"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/88_100CalorieSnacks_Feature.png?itok=WE5Gl0d1" />
+          <span>88 Unexpected Snacks Under 100 Calories</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/surprising-healthy-microwave-recipes"
+          title="40 Delicious Things You Didn&#039;t Know You Could Make in a Microwave"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Mochi%20Donuts_Feature.png?itok=Jb8bQECY" />
+          <span>40 Delicious Things You Didn&#039;t Know You Could Make in a Microwave</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/cheap-healthy-lunch-dinner-entree-recipes"
+          title="87 Cheap and Healthy Lunch and Dinner Recipes"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/LunchAndDinnerRecipes_Feature.png?itok=1PE4z2Se" />
+          <span>87 Cheap and Healthy Lunch and Dinner Recipes</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/lower-carb-alternatives"
+          title="20 Low-Carb Substitutes That Don&#039;t Suck"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/LowerCarb_Feature.png?itok=WcRfw2dZ" />
+          <span>20 Low-Carb Substitutes That Don&#039;t Suck</span>
+        </a>
+      </li>
+            </ul>
+</div>
+        <div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-sidebar-2"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_300x250_BTM"
+  data-ad-slot="div-gpt-ad-1411421640459-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-sidebar-2"></div>
+
+      </div>
+    </aside>
+  </div>
+
+  <div class="esi-placeholder"data-esi="article/recirculation" data-token="VKzSQXyf-frcDCkauCB9kQk3RbJrme0v3hd_ObIQG1c" data-params="{&quot;nid&quot;:&quot;1792&quot;,&quot;show_more_from_author&quot;:0}" data-bodyevent="reach-article-content-near-end"><img src="/sites/all/themes/greatist2x/images/design/SiteLoader.gif">Loading...</div></div>
+
+
+<!-- Extras -->
+<div class="article-sticky-bar fix-header" ng-class="state" ng-controller="stickyBarCtrl">
+  <div class="sticky-wrapper" ng-class="statusClass" ng-if="is_small">
+    <h3 class="sticky-title-deck">{{deck_title}}</h3>
+  </div>
+</div>
+<div class="article-sticky-bottom sharing" data-origin="sticky-bottom">
+  <div ng-controller="socialCtrl" data-href="http://greatist.com/health/must-read-health-fitness-blogs">
+    <a class="share-button share-button-facebook" ng-click="share_fb($event)" data-share-fb>
+      <span class="share-alt"><i class="fa fa-facebook"></i> Share on Facebook</span>
+    </a>
+  </div>
+</div>
+<div class="bottom-fb-slider">
+  <div ng-controller="bottomSliderCtrl">
+    <div class="bottom-slider fb-slider" ng-class="status">
+      <div class="header">
+        <h3>DON'T WORRY, BE HEALTHY.<br/>LIKE US ON FACEBOOK!</h3>
+        <a href="" ng-click='hide()' title="Close" type="button" class="slide-close">×</a>
+      </div>
+      <div class="content" data-bottom-slider-fb-box></div>
+    </div>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="overlay-wrapper">
+  <div id="search-page-wrapper">
+    <div id="search-page" ng-controller="SearchCtrl" ng-init="init()" ng-keydown="keydown($event)">
+
+      <!-- SEARCH FORM -->
+      <form name="searchForm" ng-submit="search()">
+        <input type="text" ng-model="searchQuery" placeholder="Search" id="search-input">
+        <span class="search-close-button"><i class="fa fa-times"></i></span>
+      </form>
+
+      <div data-search-autocomplete class="search-autocomplete">
+        <ul>
+          <div class="header" ng-if="suggestedTaxonomies.length">
+            Categories
+          </div>
+          <li ng-repeat="suggestion in suggestedTaxonomies" class="suggestion">
+            <a ng-href="{{suggestion.url}}">{{suggestion.name}}</a>
+          </li>
+
+          <div class="header" ng-if="suggestedUsers.length">
+            Profiles
+          </div>
+          <li ng-repeat="suggestion in suggestedUsers" class="suggestion">
+            <a ng-href="{{suggestion.url}}">{{suggestion.name}}</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="search-status">
+        <div ng-show="isLoading">
+            <img alt="Search Loading" class="loader-image"/>
+        </div>
+        <div class="search-message">{{searchMessage}}</div>
+      </div>
+
+      <!-- SEARCH RESULTS -->
+      <div class="search-result article-feed">
+        <div class="article" ng-repeat="article in articles">
+          <div class="article-image">
+            <a href='{{article.articlePath}}'>
+              <img ng-src='{{article.imagePath}}' />
+            </a>
+          </div>
+          <div class="article-title"><a href='{{article.articlePath}}'>{{article.title}}</a></div>
+          <div class="article-author">{{article.author}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="popup-wrapper">
+  <div ng-controller="nlCtrl" class="newsletter-template mfp-with-anim mfp-hide">
+    <div newsletter
+      email="newsletterEmail"
+      model="newsletter"
+      subscribe="subscribeEmail"
+      init="initCheck"
+    >
+    </div>
+  </div>
+</div>
+  <div>
+  <div data-fb-popup class="fb-popup white-popup mfp-with-anim mfp-hide">
+    <hgroup>
+      <h1 class="first">Nice share!</h1>
+      <h1> Like us on <a style="color:#325c99" href="http://facebook.com/greatistblog">Facebook</a> while you're at it. </h1>
+    </hgroup>
+    <div class="fb-like-body">
+      <div class="fb-like" data-href="https://facebook.com/greatistblog" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false">
+      </div>
+    </div>
+    <div class="opt-out">
+      <a data-type="fb-like" href="javascript:void(0);">Don't have to tell me twice!</a>
+      I'm already a Greatist fan.
+    </div>
+  </div>
+  <div data-pin-popup class="pin-popup white-popup mfp-with-anim mfp-hide">
+    <hgroup>
+      <h1 class="first">That's an awesome pin you chose.</h1>
+      <h1>Find more like it by following us on
+      <a style="color: #be1e3c" class="pinterst-link" target="_blank" href="http://www.pinterest.com/greatist" >Pinterest!<a></h1>
+    </hgroup>
+    <div class="follow-pin">
+      <a data-pin-do="buttonFollow" href="http://www.pinterest.com/greatist/">Follow Greatist on Pinterest</a>
+    </div>
+    <div class="pins">
+      <span class="embed_pin">
+        <a data-pin-do="embedPin" href="http://www.pinterest.com/pin/161074124146866205/">Greatist on Pinterest.</a>
+      </span>
+      <span class="embed_pin">
+       <a data-pin-do="embedPin" href="http://www.pinterest.com/pin/161074124147159526/">Greatist on Pinterest.</a>
+      </span>
+      <span class="embed_pin">
+        <a data-pin-do="embedPin" href="http://www.pinterest.com/pin/161074124146843286/">Greatist on Pinterest.</a>
+      </span>
+    </div>
+    <div class="opt-out">
+      <a data-type="pin-board" href="javascript:void(0);">Don't have to tell me twice!</a>
+      I already follow Greatist.
+    </div>
+  </div>
+</div>
+  <div class="footer-wrapper">
+  <footer id="footer" class="clearfix">
+    <div id="footer-menu" class="footer-block">
+  <div class="greatist-logo">
+    <img src="/sites/all/themes/greatist2x/images/design/Greatist_Logo_Badge_Blue.png" class="footer-logo" />
+  </div>
+  <ul class="menu"><li class="first leaf"><a href="/about" title="">About</a></li>
+<li class="leaf"><a href="/shop" title="">Shop</a></li>
+<li class="leaf"><a href="/careers" title="Work at the Greatist">Careers</a></li>
+<li class="last leaf"><a href="/advertise" title="Advertise">Advertise</a></li>
+</ul></div>
+    <div id="footer-share" class="footer-block">
+  <div id="slider-like-button">
+    <div
+      class="fb-like-box"
+      data-fb-tracking-id="footer-like-box"
+      data-href="https://www.facebook.com/greatistblog"
+      data-colorscheme="dark"
+      data-show-faces="true"
+      data-height="180"
+      data-header="false"
+      data-stream="false"
+      data-show-border="false"
+    ></div>
+  </div>
+</div>
+    <div id="footer-newsletter" class="footer-block">
+  <div class="newsletter-block" ng-controller="NewsletterCtrl" data-origin="footer">
+    <div class="description"><a href="/newsletter" class="text-blue" title="Get our free email with Greatist's top health tips, workout ideas, delicious recipes, and more.">Greatist Daily:</a> Awesome workouts, easy recipes, and wellness tips!</div>
+    <form name="newsletterForm" ng-submit="subscribeEmail('footer-newsletter')">
+      <input type="email" ng-model="newsletterEmail" placeholder="Your Email">
+      <input type="submit" value="Sign Me Up">
+    </form>
+    <div class="message message-error" ng-show="error" ng-cloak>{{error}}</div>
+    <div class="message message-success" ng-show="success" ng-cloak>{{success}}</div>
+  </div>
+</div>
+  </footer>
+</div>
+  <div class="bottom-wrapper">
+  <div id="bottom">
+    <div id="bottom-menu" class="bottom-block">
+  <ul class="menu"><li class="first leaf"><a href="/greatist-terms-use" title="Terms">Terms</a></li>
+<li class="leaf"><a href="/greatist-privacy-policy" title="Privacy">Privacy</a></li>
+<li class="leaf"><a href="/drop-us-line" title="">Contact</a></li>
+<li class="last leaf"><a href="/topics" title="">Sitemap</a></li>
+</ul></div>
+    <div id="copyright">&copy; 2015 Greatist</div>
+  </div>
+</div>
+</div>
+  <script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_GPNu4l0OHPNhcPBIihJR1LRcyEEHD0sfB63XuPz7yYo.js"></script>
+
+  <div id="fb-root"></div>
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14988881&amp;cv=2.0&amp;cj=1" alt="" /></noscript>
+    <noscript><img style="position:absolute" src="http://b.scorecardresearch.com/b?c1=2&c2=0000000&c3=0000000&c4=www.w3i.com/who-weare.aspx&c5=&c6=&c15=C67BD3C1&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" /></noscript>
+    <noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-46ydJU4yMQT2-.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"ad634f8ed0","applicationID":"897146","transactionName":"NVMHZRNYCkUFUkNeVwwZJFIVUAtYS1ZFUlkWXxZFPloLWxReWVJWFmkIVA9M","queueTime":0,"applicationTime":425,"ttGuid":"","agentToken":"","atts":"GRQEE1tCGUs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></body>
+</html>

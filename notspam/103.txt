@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html  lang="en-US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>The 100 Best, Most Interesting Blogs and Websites of 2014 | DailyTekk</title>
+
+		<!--<link href="http://dailytekk.com/wp-content/themes/DailyTekk/sass/style.css" rel="stylesheet">-->
+
+	<link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,100' rel='stylesheet' type='text/css'>
+
+							
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<link rel="alternate" type="application/rss+xml" title="DailyTekk &raquo; The 100 Best, Most Interesting Blogs and Websites of 2014 Comments Feed" href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/feed/" />
+<link rel='stylesheet' id='fancybox2-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_reset-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/reset.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_newtheme2-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme2/css/newtheme2.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://dailytekk.com/wp-content/themes/DailyTekk/style.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://dailytekk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailytekk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailytekk.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Aereo Review: 1 Month In and Loving It' href='http://dailytekk.com/2013/11/17/aereo-review-1-month-in-and-loving-it/' />
+<link rel='next' title='Readmill: Social Reading for Smartphones' href='http://dailytekk.com/2013/11/18/readmill-social-reading-for-smartphones/' />
+<link rel='canonical' href='http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/' />
+<link rel='shortlink' href='http://wp.me/p2kxT1-2Cg' />
+<style type='text/css'>img#wpstats{display:none}</style>	<meta property="og:site_name" content="DailyTekk" />
+	<meta property="og:title" content="The 100 Best, Most Interesting Blogs and Websites of 2014" />
+			<meta property="og:type" content="article" />
+				<meta property="og:description" content="Editor&#8217;s note: 2015&#8217;s list of the best, most interesting websites has arrived!
+Welcome to the most awesome blog post you&#8217;re going to see all year. Yep, it&#8217;s the third installment in the super-popular annual series in which I document the sites I think you&#8217;ll want to spend a lot of time …" />
+				<meta property="og:image" content="http://dailytekk.com/wp-content/uploads/2013/11/Screen-Shot-2014-06-05-at-9.21.27-AM.png" />
+		<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '1575089616085357',
+					xfbml      : true,
+					version    : 'v2.2'
+				});
+			};
+
+			(function(d, s, id){
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	
+</head>
+			<body>
+		<!-- BuySellAds Ad Code -->
+		<script type="text/javascript">
+			(function(){
+				var bsa = document.createElement('script');
+				bsa.type = 'text/javascript';
+				bsa.async = true;
+				bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+				(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+			})();
+		</script>
+		<!-- End BuySellAds Ad Code -->
+		<input type="checkbox" name="menu-toggle" id="menu-toggle" class="checkbox-toggle" />
+		<label for="menu-toggle" class="menu-toggle">
+			<div class="bar-icon-wrapper">
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+			</div>
+		</label>
+		<div id="page" class="page-wrapper">
+			<header class="header">
+									
+<div class="exit-intent">
+	<div class="container">
+		<div class="col-one-whole twitter-wrapper">
+							<iframe class="twitter-iframe" allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?screen_name=DailyTekk&show_count=false" style="width:125px; height:20px;"></iframe><!--
+				--><div class="exit-intent__text">WAIT! Before you go, let’s connect on Twitter!</div>
+					</div>
+		<div class="col-one-third">
+																					<div class="img">
+							<a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">
+								<img width="300" height="180" class="attachment-roll-size wp-post-image" alt="Screen Shot 2015-01-12 at 7.24.25 AM" srcset="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-300x180.png, http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-300x180@2x.png 2x" />							</a>
+						</div>
+										<h2 class=""><a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">10 Stylish and High-Quality Internet Radios</a></h2>
+					<p><a href="http://dailytekk.com/category/lists/" class="">Lists</a></p>
+									</div><!--
+		--><div class="col-one-third ad-wrapper">
+										<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:250px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="3721281629"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>					</div><!--
+		--><div class="col-one-third">
+																					<div class="img">
+							<a href="http://dailytekk.com/2015/02/09/roost-is-the-marketing-platform-publishers-cant-ignore/">
+								<img width="300" height="180" class="attachment-roll-size wp-post-image" alt="Screen Shot 2015-02-09 at 5.30.21 PM" srcset="http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-300x180.png, http://dailytekk.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-09-at-5.30.21-PM-300x180@2x.png 2x" />							</a>
+						</div>
+										<h2 class=""><a href="http://dailytekk.com/2015/02/09/roost-is-the-marketing-platform-publishers-cant-ignore/">Roost Is The Marketing Platform Publishers Can’t Ignore</a></h2>
+					<p><a href="http://dailytekk.com/category/lists/" class="">Lists</a></p>
+									</div>
+	</div>
+	<div class="timer-wrapper">
+		<span>SCROLL DOWN TO RETURN</span>
+		<div class="timer">15</div>
+	</div>
+
+</div>
+								<div class="container">
+					<a href="http://dailytekk.com" class="logo"><svg width="35" height="36" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M0,28.8590495 L0,35.0376096 L6.17862593,35.0376096 C3.71067937,33.4351947 1.602432,31.3269698 0,28.8590495"></path>
+	<path d="M26.0255607,28.8241236 C25.9498934,28.881153 25.8727352,28.9363187 25.7955769,28.9914845 L25.7355649,29.0343497 C23.3216664,30.7672241 20.4738924,31.6830495 17.5001305,31.6830495 C9.70118075,31.6830495 3.35556493,25.3382468 3.35481944,17.5393801 L3.35481944,17.4681865 L3.35481944,17.467441 L3.35481944,12.1637048 L3.35481944,11.219551 L3.35481944,7.86487914 L3.35481944,6.99900105 L3.35481944,3.39235603 L17.5001305,3.39235603 C25.2998257,3.39235603 31.6454415,9.73790428 31.6454415,17.5375164 C31.6458142,22.0070576 29.5972061,26.1206308 26.0255607,28.8241236 M17.5005032,0.0376841475 L17.5005032,0.0376841475 L0.000111823587,0.0376841475 L0.000111823587,17.5375164 L0.000111823587,17.5393801 C0.00123005946,27.2034443 7.83559057,35.0377214 17.5001305,35.0377214 C21.3039961,35.0377214 24.8212207,33.8203483 27.6921049,31.7594615 C27.8121289,31.6733583 27.9325256,31.5880005 28.0499404,31.4989153 C32.2712808,28.3037767 35.0001491,23.2400859 35.0001491,17.5378892 C35.0005218,7.87270671 27.1654158,0.0376841475 17.5005032,0.0376841475"></path>
+	<path d="M17.5004659,11.2199238 C18.4159284,11.2199238 19.2836794,11.4197131 20.0697992,11.7715809 C20.3396668,11.8923491 20.598352,12.0328726 20.8466004,12.1886785 C21.0791935,12.3347931 21.3058226,12.4902262 21.5167964,12.6642964 C22.9216734,13.8238946 23.8181259,15.5780153 23.8181259,17.5378892 C23.8181259,18.5368359 23.5788234,19.4787532 23.1643306,20.3192849 C22.1333171,22.4103637 19.985186,23.8558545 17.5000932,23.8558545 L17.4978567,23.8558545 C14.0152975,23.8547363 11.1824333,21.0211568 11.1824333,17.5382619 L7.82772565,17.5382619 C7.82772565,22.8237338 12.0908135,27.1337417 17.3603137,27.2094082 L17.3755963,27.2105264 L17.5000932,27.2105264 C21.2048086,27.2105264 24.5282056,25.1384574 26.1727579,21.8031681 C26.8362445,20.4579447 27.1724607,19.0228906 27.1724607,17.5378892 C27.1724607,14.6439255 25.8894714,11.9244049 23.6522542,10.0774716 C23.352567,9.82997138 23.0178417,9.5910442 22.6301866,9.34764412 C22.2421588,9.10387129 21.8414576,8.88917229 21.4396382,8.70951097 C20.1879595,8.14928077 18.8624772,7.86562462 17.5000932,7.86562462 L15.4611764,7.86562462 L15.4611764,11.2202965 L17.5004659,11.2202965 L17.5004659,11.2199238 Z"></path>
+	<path d="M7.8276511,11.2199238 L7.8276511,15.8232791 L11.1823587,15.8232791 L11.1823587,11.2199238 L13.7468463,11.2199238 L13.7468463,7.86525188 L11.1823587,7.86525188 L7.8276511,7.86525188 L5.06933595,7.86525188 L5.06933595,11.2199238 L7.8276511,11.2199238 Z"></path>
+</svg>
+<span class="logo__title">DailyTekk</span></a>
+					<div class="menu-wrapper">
+						<form method="get" id="searchform" class="searchform" action="http://dailytekk.com" >
+	<input type="text" name="s" id="s" class="search__input" placeholder="Search..."/>
+	<input type="submit" value="search" id="searchsubmit" class="search__btn" />
+</form>
+
+						<ul class="menu"><li id="menu-item-13421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13421"><a href="http://dailytekk.com/category/features/">Features</a></li><li id="menu-item-13419" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-13419"><a href="http://dailytekk.com/category/lists/">Lists</a></li><li id="menu-item-13420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13420"><a href="http://dailytekk.com/category/reviews/">Reviews</a></li><li id="menu-item-13422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13422"><a href="http://dailytekk.com/products/">Products</a></li><li id="menu-item-13423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13423"><a href="http://dailytekk.com/category/community/">Community</a></li>
+</ul>					</div>
+				</div>
+			</header>
+			<main class="page-content">
+
+			<div class="show_intent"></div>
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT 970 x 90 Large Leaderboard -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:970px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6229458023"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<div class="container single-post">
+		<div class="col-three-quarters m-col-one-whole">
+			<figure class="figure">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2013/11/Screen-Shot-2014-06-05-at-9.21.27-AM-730x488.png" class="attachment-post-size wp-post-image" alt="Screen Shot 2014-06-05 at 9.21.27 AM" />								<figcaption class="figcaption">
+					<h2 class="post__title">The 100 Best, Most Interesting Blogs and Websites of 2014</h2>
+				</figcaption>
+			</figure>
+															<div class="ad ad--text">
+						<p><a href="http://dailytekk.com/2015/02/09/introducing-stack-task-management-done-right-for-programmers-and-designers/">Introducing Stack: Task Management Done Right for Programmers and Designers</a></p>
+					</div>
+										<div class="col-one-fifth m-col-one-whole">
+													<div class="ad-wrapper">
+						<!-- BuySellAds Zone Code -->
+<div id="bsap_1301091" class="bsarocks bsap_da5fc3a76f945dac1932bfb2d9940341"></div>
+<!-- End BuySellAds Zone Code -->					</div>
+							</div><!--
+			--><div class="col-four-fifths m-col-one-whole">
+								<div class="content more">
+					<p><strong>Editor&#8217;s note:</strong> <a href="http://dailytekk.com/2015/01/01/the-100-best-most-interesting-blogs-and-websites-of-2015/">2015&#8217;s list of the best, most interesting websites has arrived!</a></p>
+<p>Welcome to the most awesome blog post you&#8217;re going to see all year. Yep, it&#8217;s the third installment in the super-popular annual series in which I document the sites I think you&#8217;ll want to spend a lot of time on in the coming year (below you&#8217;ll find a few highlights from recent years in case you missed out). I have one major rule: a site can only appear on this list once, so there are never any duplicates. Every year this list is 100% fresh. Every list also takes on a life of it&#8217;s own. The categories change, but the grading criteria remains the same: I look at design, content and that creative &#8220;x-factor&#8221; that sets a site apart from the pack. I hope at least 95% of these sites are new to you. There are a couple that I simply couldn&#8217;t believe I hadn&#8217;t included before. You&#8217;ll know which ones when you see them. Putting together this list each year is a lot of (fun) work that literally takes many months. As I run into interesting blogs and websites I save them in an Evernote file, slowly begin categorizing them, weed out sites that don&#8217;t belong, etc. Disclaimer: if you find something you don&#8217;t like in one (or more) of the sites below, sorry, but I&#8217;m simply not able to vet every piece of content produced by 100 sites. I&#8217;ve tried my best to keep this list in the category of safe to view at work. Finally, as you spend some time on this site it is my hope that you will come to view DailyTekk as one of your favorite sites as well. I work hard to publish fresh technology finds (hardware and software), interesting opinions, reviews, roundups and more. If that sounds interesting to you, please take a moment to add DailyTekk to your Flipboard or Digg Reader account, <a href="http://eepurl.com/IZKQn" target="_blank">subscribe</a> to email updates or <a href="http://www.twitter.com/dailytekk" target="_blank">follow</a> on Twitter. Enjoy, and I&#8217;ll see you next year!</p>
+<h2>Past Highlights&#8230;</h2>
+<p><strong>2013 Favorites &#8211; <a href="http://dailytekk.com/2013/01/14/the-100-best-most-interesting-blogs-and-websites-of-2013/">View Entire List</a><br />
+</strong></p>
+<ol>
+<li><a href="http://www.visualnews.com/" target="_blank">Visual News</a> &#8211; The cure for eyeball boredom.</li>
+<li><a href="https://www.readmatter.com/" target="_blank">Matter</a> &#8211; Crafts award-winning journalism about science, tech, ideas.</li>
+<li><a href="http://flavorwire.com/" target="_blank">Flavorwire</a> &#8211; Cultural events, art, books, music, world news.</li>
+<li><a href="http://trendland.com/" target="_blank">Trendland</a> &#8211; Design, fashion, art, photography.</li>
+<li><a href="http://whowhatwhy.org" target="_blank">WhoWhatWhy</a> &#8211; &#8220;We don&#8217;t cover the news—we uncover the truth.&#8221;</li>
+</ol>
+<p><strong>2012 Favorites &#8211; <a href="http://dailytekk.com/2012/02/08/the-100-best-most-interesting-blogs-and-websites-of-2012/">View Entire List</a><br />
+</strong></p>
+<ol>
+<li><a href="http://uncrate.com/" target="_blank">Uncrate</a> &#8211; The digital magazine for guys who love stuff.</li>
+<li><a href="http://www.mymodernmet.com/" target="_blank">My Modern Met</a> &#8211; Beautiful photography, incredible art, clever design.</li>
+<li><a href="http://twistedsifter.com" target="_blank">TwistedSifter</a> &#8211; Photos that educate, entertain, and inspire each and every day.</li>
+<li><a href="http://theselby.com" target="_blank">The Selby</a> &#8211; Photos, paintings and videos of interesting people in creative spaces.</li>
+<li><a href="http://theburninghouse.com/" target="_blank">The Burning House</a> &#8211; If your house were burning, what would you take with you?</li>
+</ol>
+<h2>Must Reads</h2>
+<p><img class="alignnone size-full wp-image-11038" src="http://dailytekk.com/wp-content/uploads/2013/11/Screen-Shot-2014-03-20-at-12.15.33-PM-e1395339482261.png" alt="" width="690" height="379" /></p>
+<ol>
+<li><a href="http://dailytekk.com/">DailyTekk</a> &#8211; The best tech site you&#8217;ve never heard of. Prepare to be addicted. (Sponsored)</li>
+<li><a href="https://medium.com/" target="_blank">Medium</a> &#8211; Read the best stories based on your interests (founded by Twitter co-founder).</li>
+<li><a href="https://svbtle.com/" target="_blank">svbtle</a> &#8211; A new kind of magazine. Thoughts. Stories. Ideas.</li>
+<li><a href="http://www.dailydot.com/" target="_blank">The Daily Dot</a> &#8211; Your Internet. Your Internet news.</li>
+<li><a href="http://www.theconnectivist.com/" target="_blank">The Connectivist</a> &#8211; How entertainment, technology, and consumer experience intersect.</li>
+<li><a href="http://nautil.us" target="_blank">Nautil.us</a> &#8211; Weaving science, culture and philosophy into a single narrative each week.</li>
+<li><a href="http://narrative.ly/" target="_blank">Narratively</a> &#8211; Local stories, rambunctiously told.</li>
+<li><a href="http://www.betterlivingthroughdesign.com/" target="_blank">bltd</a> (Better Living Through Design) &#8211; Design guide to home and style.</li>
+<li><a href="http://www.kernelmag.com" target="_blank">The Kernel</a> &#8211; Tech, media and politics for inquiring minds.</li>
+<li><a href="https://medium.com/war-is-boring/" target="_blank">War Is Boring</a> &#8211; Exploring how and why we fight.</li>
+<li><a href="http://www.mediaredefined.com/" target="_blank">MediaREDEF</a> &#8211; A curated interest mix of media+tech+pop content.</li>
+</ol>
+<h2>For When You&#8217;re Bored</h2>
+<p><a href="http://comediansincarsgettingcoffee.com/" target="_blank"><img class="alignnone size-full wp-image-10190" src="http://dailytekk.com/wp-content/uploads/2013/11/comediansincarscoffee.png" alt="comediansincarscoffee" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://comediansincarsgettingcoffee.com/" target="_blank">Comedians In Cars Getting Coffee</a> &#8211; Jerry Seinfeld pals around with some of his friends.</li>
+<li><a href="http://grouchyrabbit.com/" target="_blank">Grouchy Rabbit</a> &#8211; Information for successful living.</li>
+<li><a href="http://foxinthepine.com/" target="_blank">Fox in the Pine</a> &#8211; Catherine shares photos of her life and inspiration from others.</li>
+<li><a href="http://www.2leep.com/" target="_blank">2leep</a> &#8211; Interesting links.</li>
+<li><a href="http://www.wonderhowto.com/" target="_blank">Wonder How To</a> &#8211; Wonderland for your inner nerd.</li>
+<li><a href="http://attackofthecute.com/" target="_blank">Attack of the Cute</a> &#8211; A collection of cute stuff.</li>
+<li><a href="http://honestslogans.com/" target="_blank">Honest Slogans</a> &#8211; What people really think about brands.</li>
+<li><a href="http://slowrobot.com/" target="_blank">Slow Robot</a> &#8211; Share images and videos you enjoy with like-minded people.</li>
+<li><a href="http://www.vat19.com/" target="_blank">Vat19</a> &#8211; Unique&#8230; stuff (to buy).</li>
+<li><a href="http://www.thisiswhyimbroke.com/" target="_blank">This Is Why I&#8217;m Broke</a> &#8211; The Internet&#8217;s mall.</li>
+</ol>
+<h2>Design, Art, Photography</h2>
+<p><a href="http://serifsandsans.com/" target="_blank"><img class="alignnone size-full wp-image-10191" src="http://dailytekk.com/wp-content/uploads/2013/11/serifsandsans.png" alt="serifsandsans" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://serifsandsans.com/" target="_blank">Serifs &amp; Sans</a> &#8211; Minimalism, modernism and typography.</li>
+<li><a href="http://butdoesitfloat.com/" target="_blank">but does it float</a> &#8211; Awesome collections of interesting art, design and photography.</li>
+<li><a href="http://www.stylepark.com/" target="_blank">Stylepark</a> &#8211; Design, architecture and designers.</li>
+<li><a href="http://www.shutterbean.com/" target="_blank">Shutterbean</a> &#8211; Food, photography and pretty things.</li>
+<li><a href="http://www.pbs.org/art21/" target="_blank">Art21</a> &#8211; Engaging contemporary art. Inspiring creative thinking (PBS).</li>
+<li><a href="http://www.designworklife.com/" target="_blank">Design Work Life</a> &#8211; Cataloging design inspiration daily. From the team at Seamless Creative.</li>
+<li><a href="http://www.70degreeswest.com" target="_blank">70 Degrees West</a> &#8211; Nature and travel photography.</li>
+<li><a href="http://www.picturecorrect.com/" target="_blank">PictureCorrect</a> &#8211; Photography tips and techniques.</li>
+<li><a href="http://designdautore.blogspot.it/" target="_blank">Design Dautore</a> &#8211; An Italian design and trends online magazine.</li>
+<li><a href="http://www.lightstalking.com/" target="_blank">Light Stalking</a> &#8211; A site about beautiful photography.</li>
+</ol>
+<h2>Lifestyle</h2>
+<p><a href="http://greatist.com/" target="_blank"><img class="alignnone size-full wp-image-10192" src="http://dailytekk.com/wp-content/uploads/2013/11/greatist.png" alt="greatist" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://greatist.com/" target="_blank">Greatist</a> &#8211; Health and fitness news, tips, recipes and exercises.</li>
+<li><a href="http://www.nylonguysmag.com/" target="_blank">NYLON Guys</a> &#8211; Not for girls.</li>
+<li><a href="http://www.maskcara.com/" target="_blank">Maskcara</a> &#8211; A makeup artist and lover of all beautiful things.</li>
+<li><a href="http://www.thenest.com/" target="_blank">The Nest</a> &#8211; The Web’s round-the-clock spot for hip and harried married gals.</li>
+<li><a href="http://www.theminimalists.com" target="_blank">The Minimalists</a> &#8211; 2 guys write about living a meaningful life with less stuff.</li>
+<li><a href="http://www.wherecoolthingshappen.com" target="_blank">Where Cool Things Happen</a> &#8211; Travel and lifestyle inspiration.</li>
+<li><a href="http://londonist.com/" target="_blank">Londonist</a> &#8211; Everything interesting that&#8217;s happening in London.</li>
+<li><a href="http://bakeat350.blogspot.com/" target="_blank">Bake at 350</a> &#8211; Bridget is just a girl who loves cookies&#8230;</li>
+<li><a href="http://www.tend.com/" target="_blank">Tend</a> &#8211; Fresh advice on kids, family fun, kitchen and home.</li>
+<li><a href="http://www.xojane.com/" target="_blank">xoJane</a> &#8211; Where women go.</li>
+</ol>
+<h2>That&#8217;s Just Cool&#8230;</h2>
+<p><a href="http://outgrow.me/" target="_blank"><img class="alignnone size-full wp-image-10193" src="http://dailytekk.com/wp-content/uploads/2013/11/outgrowme.png" alt="outgrowme" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://outgrow.me/" target="_blank">Outgrow.me</a> &#8211; The marketplace for successfully crowdfunded products.</li>
+<li><a href="http://hadonejob.com/" target="_blank">You Had One Job!</a> &#8211; Gathering all the careless mistakes in one place (photos).</li>
+<li><a href="http://www.scoutingny.com/" target="_blank">Scouting NY</a> &#8211; See New York through the eyes of a movie location scout.</li>
+<li><a href="http://www.betabrand.com/" target="_blank">Betabrand</a> &#8211; You want, they make. Prototypes are turned into fashionable products.</li>
+<li><a href="http://www.funofart.com/" target="_blank">Funofart</a> &#8211; Lots of fun photography broken down into many categories.</li>
+<li><a href="http://coffitivity.com/" target="_blank">Coffitivity</a> &#8211; Sounds that increase your creativity.</li>
+<li><a href="http://luxurylaunches.com/" target="_blank">Luxury Launches</a> &#8211; Expensive, opulent, extravagant.</li>
+<li><a href="http://goodmenproject.com/" target="_blank">The Good Men Project</a> &#8211; For guys who aren&#8217;t mindless, sex-obsessed buffoons.</li>
+<li><a href="http://www.adventure-journal.com/" target="_blank">Adventure Journal</a> &#8211; Online magazine dedicated to outdoor adventure in all it&#8217;s forms.</li>
+<li><a href="http://www.collectorsweekly.com/" target="_blank">Collectors Weekly</a> &#8211; Best of antiques, vintage, collecting.</li>
+</ol>
+<h2>Learn Something</h2>
+<p><a href="https://diy.org/" target="_blank"><img class="alignnone size-full wp-image-10194" src="http://dailytekk.com/wp-content/uploads/2013/11/diy.png" alt="diy" width="690" height="508" /></a></p>
+<ol>
+<li><a href="https://diy.org/" target="_blank">DIY</a> &#8211; Get skills. Be awesome.</li>
+<li><a href="http://www.urbanobservatory.org/" target="_blank">Urban Observatory</a> &#8211; Observe the &#8220;living fabric&#8221; of different large cities visually.</li>
+<li><a href="http://www.todayifoundout.com/" target="_blank">Today I Found Out</a> &#8211; Learn interesting facts everyday.</li>
+<li><a href="http://curious.com/" target="_blank">Curious.com</a> &#8211; Learn, teach and share online lessons.</li>
+<li><a href="http://www.linkedin.com/channels/myfirstjob?goback=.mpd2_*1_*1_*1_*1_*1_*1_20131105122656*5187399433*5my*5first*5job*5what*5unloading*5beer*5taught*5me*5about*5leadership&amp;trk=tod-post-tag" target="_blank">My First Job</a> &#8211; Top-notch executives talk about what they learned from their first job.</li>
+<li><a href="https://www.youtube.com/playlist?list=PLC02CFDE5690E4010" target="_blank">Sick Science!</a> &#8211; Easy, hands-on science experiments you can do at home.</li>
+<li><a href="http://chartgirl.com/" target="_blank">ChartGirl</a> &#8211; For things best explained with charts.</li>
+<li><a href="http://thebillfold.com/" target="_blank">The Billfold</a> &#8211; Everything you wanted to learn about money but were too polite to ask.</li>
+<li><a href="http://www.learnvest.com/category/life-and-money/" target="_blank">Learn Vest Must Reads</a> &#8211; Non-boring money tips and advice.</li>
+<li><a href="http://www.forvo.com/" target="_blank">Forvo</a> &#8211; All the words in the world. Pronounced.</li>
+</ol>
+<h2>Current Events</h2>
+<p><a href="http://www.nowthisnews.com/" target="_blank"><img src="http://dailytekk.com/wp-content/uploads/2013/11/nowthisnews.png" alt="nowthisnews" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://www.nowthisnews.com/" target="_blank">NowThis News</a> &#8211; The news in your pocket.</li>
+<li><a href="http://www.niemanlab.org/" target="_blank">Nieman Journalism Lab</a> &#8211; Publishing the future of journalism (Harvard).</li>
+<li><a href="http://www.businessinsider.com" target="_blank">Business Insider</a> &#8211; Tech, finance, media and other verticals under one roof.</li>
+<li><a href="http://www.propublica.org/" target="_blank">ProPublica</a> &#8211; Journalism in the public interest.</li>
+<li><a href="http://www.worldcrunch.com" target="_blank">Worldcrunch</a> &#8211; Selecting, translating and editing content from top foreign outlets.</li>
+<li><a href="http://www.theepochtimes.com" target="_blank">The Epoch Times</a> &#8211; Uncensored news that values freedom of the press and humanity.</li>
+<li><a href="http://www.onthemedia.org" target="_blank">On The Media</a> (OTM) &#8211; Tackles sticky issues with a frankness and transparency (NPR).</li>
+<li><a href="http://www.coindesk.com/" target="_blank">CoinDesk</a> &#8211; The voice of digital currency (Bitcoin news, prices, charts).</li>
+<li><a href="http://talkingpointsmemo.com" target="_blank">Talking Points Memo</a> (TPM) &#8211; A digitally native political publication.</li>
+<li><a href="http://www.weforum.org/" target="_blank">The World Economic Forum</a> &#8211; Improving the state of the world by engaging leaders.</li>
+</ol>
+<h2>Culture &amp; Trends</h2>
+<p><a href="http://www.reddit.com/" target="_blank"><img src="http://dailytekk.com/wp-content/uploads/2013/11/reddit.png" alt="reddit" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://www.reddit.com/" target="_blank">Reddit</a> &#8211; A website about everything. Powered by community, democracy and you.</li>
+<li><a href="http://hyperallergic.com" target="_blank">HyperAllergic</a> &#8211; Playful, serious, and radical perspectives on art and culture.</li>
+<li><a href="http://airshipdaily.com/" target="_blank">The Airship</a> &#8211; Surveying literature, arts and culture.</li>
+<li><a href="http://www.inquisitr.com/" target="_blank">The Inquisitr</a> &#8211; The latest stories to hit the web in entertainment, tech, news and more.</li>
+<li><a href="http://hypervocal.com" target="_blank">HyperVocal</a> &#8211; Purveyors of the vital and viral. Your Internet sherpas.</li>
+<li><a href="http://www.avclub.com/" target="_blank">The A.V. Club</a> &#8211; Pop-culture news, interviews and features.</li>
+<li><a href="http://thedailywhat.cheezburger.com/" target="_blank">The Daily What</a> &#8211; Trending Internet culture (Cheezburger).</li>
+<li><a href="http://www.videogum.com/" target="_blank">Videogum</a> &#8211; TV, movies and viral videos.</li>
+<li><a href="http://www.artlog.com/" target="_blank">Artlog</a> &#8211; Everything you need to know in culture this week.</li>
+<li><a href="http://modernmechanix.com/" target="_blank">Modern Mechanix</a> &#8211; Yesterday&#8217;s tomorrow, today. Classic stuff.</li>
+</ol>
+<h2>Technology</h2>
+<p><a href="http://daringfireball.net/" target="_blank"><img class="alignnone size-full wp-image-10195" src="http://dailytekk.com/wp-content/uploads/2013/11/daringfireball.png" alt="daringfireball" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://daringfireball.net/" target="_blank">Daring Fireball</a> &#8211; John Gruber talks Apple (and people pay attention).</li>
+<li><a href="http://www.pocket-lint.com/" target="_blank">Pocket-lint</a> &#8211; Gadget news and reviews.</li>
+<li><a href="http://www.techhive.com/" target="_blank">TechHive</a> &#8211; Products you&#8217;ll love and how to get the most out of them.</li>
+<li><a href="http://www.techdirt.com/" target="_blank">Techdirt</a> &#8211; Insight and analysis on technology, government policy, legal issues and more.</li>
+<li><a href="http://www.geekwire.com/" target="_blank">GeekWire</a> &#8211; Dispatches from the digital frontier.</li>
+<li><a href="http://thewirecutter.com/" target="_blank">The Wirecutter</a> &#8211; The best technology to buy as determined by research and testing.</li>
+<li><a href="http://www.gadgetreview.com/" target="_blank">Gadget Review</a> &#8211; Lifestyle gadget site.</li>
+<li><a href="http://bgr.com/" target="_blank">BGR</a> (Boy Genius Report) &#8211; Mobile and tech news, reviews, opinions, insights.</li>
+<li><a href="http://www.anandtech.com/" target="_blank">AnandTech</a> &#8211; A deeper dive into tech down to the component level.</li>
+<li><a href="http://www.osnews.com/" target="_blank">OSNews</a> &#8211; Exploring the future of computing.</li>
+</ol>
+<h2>Absolutely Don&#8217;t Miss</h2>
+<p><a href="http://5secondfilms.com/" target="_blank"><img class="alignnone size-full wp-image-10196" src="http://dailytekk.com/wp-content/uploads/2013/11/5secondfilms.png" alt="5secondfilms" width="690" height="508" /></a></p>
+<ol>
+<li><a href="http://5secondfilms.com/" target="_blank">5-Second Films</a> &#8211; A new film every weekday.</li>
+<li><a href="http://www.mediabistro.com/" target="_blank">Mediabistro</a> &#8211; News and more for media professionals.</li>
+<li><a href="http://www.conferencebites.com/" target="_blank">Conference Bites</a> &#8211; Big ideas for short attention spans.</li>
+<li><a href="http://www.abandonedamerica.us/" target="_blank">Abandoned America</a> &#8211; Forgotten places and spaces around America.</li>
+<li><a href="https://roadtrippers.com/" target="_blank">Roadtrippers</a> &#8211; Discover your America.</li>
+<li><a href="http://digiday.com/" target="_blank">Digiday</a> &#8211; Digital media, advertising and marketing.</li>
+<li><a href="http://splitsider.com" target="_blank">Splitsider</a> &#8211; A website about comedy and the people who create it.</li>
+<li><a href="http://theoatmeal.com/" target="_blank">The Oatmeal</a> &#8211; Comics, quizzes and more.</li>
+<li><a href="http://www.largeheartedboy.com/blog/archive/book_notes_2012/" target="_blank">Largehearted Boy Book Notes</a> &#8211; Authors discuss the music they had on while writing books.</li>
+<li><a href="http://notalwaysright.com/" target="_blank">Not Always Right</a> &#8211; Are customers always right? These stories say otherwise&#8230;</li>
+</ol>
+											<div class="continue">
+							<a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/?reading=continue" class="btn btn--arrow">Continue Reading</a>
+						</div>
+										
+<div id="comments" class="comments-area">
+			<h2 class="comments-title">
+			9 comments		</h2>
+		<p><a href="#comments" class="btn view-comments">View Comments</a></p>
+		<div class="comments-wrapper">
+					<ol class="comment-list">
+						<li class="pingback even thread-even depth-1" id="comment-43625">
+				<div id="div-comment-43625" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://dailytekk.com/2012/02/08/the-100-best-most-interesting-blogs-and-websites-of-2012/' rel='external nofollow' class='url'>The 100 Best, Most Interesting Blogs and Websites of 2012 (Categorized) | DailyTekk</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43625">
+			November 18, 2013 at 9:13 am</a>		</div>
+
+		<p>[&#8230;] The 100 Best, Most Interesting Blogs and Websites of 2014 [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-43626">
+				<div id="div-comment-43626" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://dailytekk.com/2013/01/14/the-100-best-most-interesting-blogs-and-websites-of-2013/' rel='external nofollow' class='url'>The 100 Best, Most Interesting Blogs and Websites of 2013 | DailyTekk</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43626">
+			November 18, 2013 at 9:14 am</a>		</div>
+
+		<p>[&#8230;] The 100 Best, Most Interesting Blogs and Websites of 2014 [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback even thread-even depth-1" id="comment-43636">
+				<div id="div-comment-43636" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://86lolzshatswell84xxx.wordpress.com/2013/11/20/top-news-about-photography-continually-collected-from-twitter/' rel='external nofollow' class='url'>Top News About Photography Continually Collected From Twitter | This Marvelous Site with regard to stuff</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43636">
+			November 20, 2013 at 5:29 am</a>		</div>
+
+		<p>[&#8230;] A lot more below:<a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/" rel="nofollow">http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/</a> [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-43637">
+				<div id="div-comment-43637" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://sites.wakingbraincells.com/2013/11/20/idea-sources/' rel='external nofollow' class='url'>Idea Sources | Sites and Soundbytes</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43637">
+			November 20, 2013 at 9:15 am</a>		</div>
+
+		<p>[&#8230;] has a collection of The 100 Best, Most Interesting Blogs and Websites of 2014.&#160; It’s filled with unique sites that you probably haven’t heard of.&#160; They tend to [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback even thread-even depth-1" id="comment-43639">
+				<div id="div-comment-43639" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://cokimel.wordpress.com/2013/11/21/the-tunnels-of-information/' rel='external nofollow' class='url'>The Tunnels of Information | Once Upon A Business</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43639">
+			November 20, 2013 at 6:03 pm</a>		</div>
+
+		<p>[&#8230;] out there. The web is always changing and people flock to new sites regularly. I found a great site DAILYTEKK that has a post on the top 100 websites and blogs of 2014. The idea is that of a billboard top 100. [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-43643">
+				<div id="div-comment-43643" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://www.shutterbean.com/2013/i-love-lists-friday-84/' rel='external nofollow' class='url'>I love lists, Friday! &#8211; Shutterbean</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43643">
+			November 21, 2013 at 4:11 pm</a>		</div>
+
+		<p>[&#8230;] Shutterbean is on Daily Tekk&#8217;s list for Top 100 Best Most Interesting Websites &amp; Blogs of 2014.   [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback even thread-even depth-1" id="comment-43647">
+				<div id="div-comment-43647" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://joindahunt.com/2013/11/22/friday-links-19/' rel='external nofollow' class='url'>Friday Links | Joindahunt.</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43647">
+			November 22, 2013 at 1:14 pm</a>		</div>
+
+		<p>[&#8230;] are some good sites on this list (full disclosure: yes, BLTD is on [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-43664">
+				<div id="div-comment-43664" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/f0fed3d1be4d79fea5a48b98f5438bfe?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a href='http://onlinebiz.kr' rel='external nofollow' class='url'>mike</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43664">
+			November 28, 2013 at 6:04 pm</a>		</div>
+
+		<p>Thanks for the lists.I am going to check those websites.</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback even thread-even depth-1" id="comment-43669">
+				<div id="div-comment-43669" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://texasmadetv.wordpress.com/2013/11/30/the-100-best-most-interesting-blogs-and-websites-of-2014/' rel='external nofollow' class='url'>TexasMadeTV | THE 100 BEST, MOST INTERESTING BLOGS AND WEBSITES OF 2014</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43669">
+			November 30, 2013 at 2:37 pm</a>		</div>
+
+		<p>[&#8230;] THE 100 BEST, MOST INTERESTING BLOGS AND WEBSITES OF 2014 [&#8230;]</p>
+
+		
+				</div>
+		</li><!-- #comment-## -->
+			</ol><!-- .comment-list -->
+			<div class="nav-comments">
+							</div>
+							<p class="no-comments">Comments are closed.</p>
+										</div>
+</div>
+				</div>
+				<div class="col-one-half m-col-one-whole up-next">
+					<h3>Up Next:</h3>
+																														<div class="flag">
+																	<div class="flag--img">
+										<img width="140" height="140" class="attachment-home-slider-square wp-post-image" alt="Screen Shot 2015-01-12 at 7.24.25 AM" srcset="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-140x140.png, http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-140x140@2x.png 2x" />									</div>
+																<h2 class="post__title flag--body"><a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">10 Stylish and High-Quality Internet Radios</a></h2>
+							</div>
+																				<div class="flag">
+																	<div class="flag--img">
+										<img width="140" height="140" class="attachment-home-slider-square wp-post-image" alt="CHDHX-401_life2" srcset="http://dailytekk.com/wp-content/uploads/2015/01/CHDHX-401_life2-140x140.jpg, http://dailytekk.com/wp-content/uploads/2015/01/CHDHX-401_life2-140x140@2x.jpg 2x" />									</div>
+																<h2 class="post__title flag--body"><a href="http://dailytekk.com/2015/01/05/the-5-best-wearable-action-cameras-available-now-2015/">The 5 Best Wearable &#038; Action Cameras Avail...</a></h2>
+							</div>
+															</div><!--
+				--><div class="col-one-half m-col-one-whole g-ad ad-wrapper">
+																	<!-- DT AYL 300x250 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:300px;height:250px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="3721281629"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>									</div>
+			</div>
+		</div><!--
+		--><div class="col-one-quarter m-col-one-whole sidebar">
+			
+
+					<aside id="dailytekk_recent_post-2" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">Feature</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="15014456652_3fcefa1de8_k" srcset="http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">T-Mobile Has Horrible Customer Service: Here&#8217;s How To Get A Resolution</a>
+							</h2>
+												
+
+				</aside>		<aside id="text-16" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"><!-- BuySellAds Zone Code -->
+<div id="bsap_1301090" class="bsarocks bsap_da5fc3a76f945dac1932bfb2d9940341"></div>
+<!-- End BuySellAds Zone Code --></div>
+		</aside><aside id="text-18" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"><div class="an-container" id="_-FZJnNgrOg0H_WnGXK6ZQKunfAqvkPrSVaBDU9c"></div></div>
+		</aside>				<aside id="dailytekk_recent_post-3" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">List</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="Screen Shot 2015-01-12 at 7.24.25 AM" srcset="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-200x134.png, http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-200x134@2x.png 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">10 Stylish and High-Quality Internet Radios</a>
+							</h2>
+												
+
+				</aside>						<aside id="dailytekk_recent_post-4" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">Review</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="iPhone_6_Phase_14519Captureone_2048x2048" srcset="http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/02/10/grovemade-maple-iphone-6-plus-case-review/">Grovemade Maple iPhone 6 Plus Case Review</a>
+							</h2>
+												
+
+				</aside>		<aside id="text-17" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"></div>
+		</aside>		<aside id="dailytekk_products-2" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_products">			<h3 class="widget-title">Products</h3>
+																											<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/yoink/">Yoink</a>
+								</h2>
+																	<h3 class="product__description">Takes the 'drag' out of drag and drop</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13187">
+									<span class="social--counter">155</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13187"
+									data-url="http://dailytekk.com/product/yoink/"
+																		data-text="Yoink - Takes the 'drag' out of drag and drop"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Yoink - Takes+the+%27drag%27+out+of+drag+and+drop&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/yoink/"
+									data-post_id="13187"
+									data-text="Yoink - Takes the 'drag' out of drag and drop"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F&amp;t=Yoink Takes+the+%27drag%27+out+of+drag+and+drop">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/stackhive/">StackHive</a>
+								</h2>
+																	<h3 class="product__description">The Fastest Web Development tool</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13247">
+									<span class="social--counter">64</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13247"
+									data-url="http://dailytekk.com/product/stackhive/"
+																		data-text="StackHive - The Fastest Web Development tool"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=StackHive - The+Fastest+Web+Development+tool&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/stackhive/"
+									data-post_id="13247"
+									data-text="StackHive - The Fastest Web Development tool"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F&amp;t=StackHive The+Fastest+Web+Development+tool">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/filepane/">FilePane</a>
+								</h2>
+																	<h3 class="product__description">File management utility</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13245">
+									<span class="social--counter">39</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13245"
+									data-url="http://dailytekk.com/product/filepane/"
+																		data-text="FilePane - File management utility"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=FilePane - File+management+utility&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/filepane/"
+									data-post_id="13245"
+									data-text="FilePane - File management utility"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F&amp;t=FilePane File+management+utility">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/samba/">Samba</a>
+								</h2>
+																	<h3 class="product__description">See your friends react to your video messages</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13181">
+									<span class="social--counter">34</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13181"
+									data-url="http://dailytekk.com/product/samba/"
+																		data-text="Samba - See your friends react to your video messages"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Samba - See+your+friends+react+to+your+video+messages&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsamba%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/samba/"
+									data-post_id="13181"
+									data-text="Samba - See your friends react to your video messages"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsamba%2F&amp;t=Samba See+your+friends+react+to+your+video+messages">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/bundll/">Bundll</a>
+								</h2>
+																	<h3 class="product__description">Private spaces for groups of family & friends</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13250">
+									<span class="social--counter">28</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13250"
+									data-url="http://dailytekk.com/product/bundll/"
+																		data-text="Bundll - Private spaces for groups of family & friends"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Bundll - Private+spaces+for+groups+of+family+%26+friends&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fbundll%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/bundll/"
+									data-post_id="13250"
+									data-text="Bundll - Private spaces for groups of family & friends"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fbundll%2F&amp;t=Bundll Private+spaces+for+groups+of+family+%26+friends">
+									Share</a>
+								</div>
+							</div>
+						</div>
+														</aside>		
+		</div>
+		<div class="trending">
+															<figure class="figure">
+													<img width="825" height="551" src="http://dailytekk.com/wp-content/uploads/2014/12/tumblr_ndyvsuGOtz1tubinno1_1280-825x551.jpg" class="attachment-popular-size wp-post-image" alt="tumblr_ndyvsuGOtz1tubinno1_1280" />												<figcaption class="figcaption">
+							<span class="trending__title">TRENDING:</span>
+							<h2 class="post__title"><a href="http://dailytekk.com/2015/01/01/the-100-best-most-interesting-blogs-and-websites-of-2015/">The 100 Best, Most Interesting Blogs and Websites of 2015</a></h2>
+						</figcaption>
+					</figure>
+									</div>
+	</div>
+
+	</main>
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT AYL 728 x 90 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:728px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6674748022"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p class="footnote">© MMXV DailyTekk.</p><!--
+			--><ul class="menu"><li id="menu-item-13417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="http://dailytekk.com/advertise/">Advertise</a></li><li id="menu-item-13416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="http://dailytekk.com/about/">About</a></li><li id="menu-item-13418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="http://dailytekk.com/contact/">Contact</a></li>
+</ul>		</div>
+	</footer>
+
+				<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51766718-1', 'dailytekk.com');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+</script>	
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<!-- GumGum: You need to configure your Zone ID. -->        <script>var _roost = _roost || [];</script>
+                <script src="//cdn.goroost.com/roostjs/f508ef4fe9b846ef87277d425bc91f4e" async></script>
+        <script type="text/javascript" src="http://s.skimresources.com/js/72148X1521037.skimlinks.js"></script>
+	<div style="display:none">
+	<div class="grofile-hash-map-f0fed3d1be4d79fea5a48b98f5438bfe">
+	</div>
+	</div>
+		<script>
+		    var snp_f = [];
+		</script>
+		<div class="snp-root">
+			<input type="hidden" id="snp_popup" value="" />
+			<input type="hidden" id="snp_popup_id" value="" />
+			<input type="hidden" id="snp_popup_theme" value="" />
+			<input type="hidden" id="snp_exithref" value="" />
+			<input type="hidden" id="snp_exittarget" value="" />
+				<div id="snppopup-welcome" class="snp-pop-12068 snppopup"><input type="hidden" class="snp_open" value="load" /><input type="hidden" class="snp_open_after" value="3" /><input type="hidden" class="snp_open_scroll" value="10" /><input type="hidden" class="snp_optin_redirect_url" value="" /><input type="hidden" class="snp_show_cb_button" value="yes" /><input type="hidden" class="snp_popup_id" value="12068" /><input type="hidden" class="snp_popup_theme" value="newtheme2" /><input type="hidden" class="snp_overlay" value="default" /><input type="hidden" class="snp_cookie_conversion" value="30" /><input type="hidden" class="snp_cookie_close" value="-1" /><div class="snp-fb snp-newtheme2">
+    <header>
+	<h2>Stay current!</h2> 
+	 
+    </header>
+	<a class="snp-close snp_nothanks" href="#"></a>    <div class="snp-newsletter-content">
+	<h2>Thousands of tech & app lovers can't be wrong!</h2><p>We'll send you the latest (and best) tech and apps Monday-Friday. Plus, subscribers get exclusive extras and surprises!</p> 
+	<form action="#" method="post" class="snp-subscribeform snp_subscribeform">
+	                <div>
+		<input type="text" name="email" id="snp_email" placeholder="Your Email..."  class="snp-field snp-field-email" /><input type="text" name="name" id="snp-name" placeholder="Your Name..." class="snp-field snp-field-name" />            </div>
+            <input type="submit" class="snp-subscribe-button snp-submit" data-loading="" data-success="" value="Subscribe!">
+	</form>
+	<p><small><img src="http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme2/img/lock.png" alt="">We will NEVER share or sell your info.</small></p>    </div>
+    <div class="snp-powered-b"><a href="http://codecanyon.net/item/ninja-popups-for-wordpress/3476479?ref=dailytekk" target="_blank">Powered by <strong>Ninja Popups</strong></a></div></div>
+<style>.snp-pop-12068 .snp-newtheme2 { width: 660px;}
+.snp-pop-12068 .snp-newtheme2 h2 {font-size: 24px; color: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2 {font-size: 16px;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2 {color: #959595;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content p {font-size: 12px;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content p {color: #959595;}
+.snp-pop-12068 .snp-newtheme2 .snp-submit { color: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 .snp-submit { background-color: #F95549;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2:before { background-color: #F95549;}
+.snp-pop-12068 .snp-newtheme2 form input[type="submit"] { -webkit-box-shadow: 4px 4px 0 #D00F00; -moz-box-shadow: 4px 4px 0 #D00F00; box-shadow: 4px 4px 0 #D00F00;}
+.snp-pop-12068 .snp-newtheme2 form input[type="submit"]:hover { -webkit-box-shadow: 0 0 0 #D00F00; -moz-box-shadow: 0 0 0 #D00F00; box-shadow: 0 0 0 #D00F00;}
+.snp-pop-12068 .snp-newtheme2 { background: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 header { background: #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 { border-bottom: 4px solid #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content:before { border-top: 20px solid #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content { background: #EBEBEB;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content:before { border-left: 20px solid #EBEBEB; border-right: 20px solid #EBEBEB;}
+</style></div>		</div>
+		<script>
+			var snp_timer;
+			var snp_timer_o;
+			var snp_ajax_url= 'http://dailytekk.com/wp-admin/admin-ajax.php';
+			var snp_ignore_cookies = false;
+			var snp_is_interal_link;
+			var snp_enable_analytics_events = false;var snp_enable_mobile = true;			jQuery(document).ready(function(){
+				jQuery('[placeholder]').placeholder();				jQuery(".snp_nothanks, .snp_closelink, .snp-close-link").click(function(){
+					snp_close();
+					return false;
+				});
+				jQuery(".snp_subscribeform").submit(function(){
+					return snp_onsubmit(jQuery(this));
+				});
+												var snp_open=jQuery('#snppopup-welcome .snp_open').val();
+								var snp_open_after=jQuery('#snppopup-welcome .snp_open_after').val();
+								var snp_open_inactivity=jQuery('#snppopup-welcome .snp_open_inactivity').val();
+								var snp_open_scroll=jQuery('#snppopup-welcome .snp_open_scroll').val();
+								var snp_op_welcome = false;
+								if(snp_open=='inactivity')
+								{
+								    var snp_idletime=0;
+								    function snp_timerIncrement()
+								    {
+									snp_idletime++;
+									if (snp_idletime > snp_open_inactivity)
+									{
+									    window.clearTimeout(snp_idleInterval);
+									    snp_open_popup('','','snppopup-welcome','welcome');
+									}
+								    }
+								    var snp_idleInterval = setInterval(snp_timerIncrement, 1000);
+								    jQuery(this).mousemove(function (e) {
+									snp_idletime = 0;
+								    });
+								    jQuery(this).keypress(function (e) {
+									snp_idletime = 0;
+								    });
+								}
+								else if(snp_open=='scroll')
+								{
+								    jQuery(window).scroll(function() {
+									var h = jQuery(document).height()-jQuery(window).height();
+									var sp = jQuery(window).scrollTop();
+									var p = parseInt(sp/h*100);
+									if(p>=snp_open_scroll &&  snp_op_welcome == false){
+									    snp_open_popup('','','snppopup-welcome','welcome'); snp_op_welcome = true;
+									}
+								     });
+								}
+								else
+								{
+								    if(snp_open_after)
+								    {
+									    snp_timer_o=setTimeout("snp_open_popup('','','snppopup-welcome','welcome');",snp_open_after*1000);	
+								    }
+								    else
+								    {
+									    snp_open_popup('','','snppopup-welcome','welcome');
+								    }
+								}
+								});	
+					</script>
+		<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/jquery.ck.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/jquery.placeholder.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/ninjapopups.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/comment-reply.min.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteVars = {"siteUrl":"http:\/\/dailytekk.com","templateUrl":"http:\/\/dailytekk.com\/wp-content\/themes\/DailyTekk","ajaxUrl":"http:\/\/dailytekk.com\/wp-admin\/admin-ajax.php","nonce":"5a48cfc86f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/themes/DailyTekk/js/functions.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=2.2.0.2014.12.19'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201507'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.1'></script>
+
+	<script src="http://stats.wp.com/e-201507.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.1',blog:'34449495',post:'10060',tz:'-7'});
+	var load_cmc = function(){linktracker_init(34449495,10060,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><!-- Begin ADSNATIVE Code -->
+<script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script>
+<!-- End ADSNATIVE Code -->
+</body>
+</html>

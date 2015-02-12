@@ -1,0 +1,133 @@
+/* gigya - login page/ social media login */
+
+/* gigya - general */
+body #gigyaContainer h1.gigya-screen-caption {
+	font-weight: normal;
+	font-size: 2.2em;
+	color: #333333;
+	margin: 10px 0;
+	font-family: Georgia,"Times New Roman",Serif;
+}
+body #gigyaContainer .gigya-composite-control.gigya-composite-control-header {
+	border: none;
+}
+body .gigya-screen .gigya-composite-control {
+	padding-left: 0px;
+	padding-right: 0px;
+	position: relative;
+}
+body #gigyaContainer .gigya-login-form > .gigya-layout-row:nth-child(5) {
+	border: none;
+}
+body .gigya-screen span.tooltip {
+	bottom: 10px;
+	font-size: 12px;
+	right: -300px;
+	width: 284px;
+	z-index: 11;
+	display: none;
+	position: absolute;
+	padding: 5px;
+	background: #bbb;
+	color: #fff;
+}
+body .gigya-screen span.tooltip a {
+	color: #0098ca!important;
+	font-size: 12px;
+}
+/* gigya - dialog */
+body .gigya-screen-dialog h1 {
+	border: 0;
+	margin: 10px 10px 4px;
+	font-size: 18px;
+	font-weight: normal;
+}
+body .gigya-screen-dialog .gigya-composite-control.gigya-composite-control-header {
+	border: 0;
+}
+body .gigya-screen-dialog .gigya-screen .gigya-composite-control {
+	padding: 5px 13px 5px 10px;
+}
+/* gigya - sidebar */
+#main {
+	position: relative;
+}
+#gigyaSidebar {
+	position: absolute;
+	top: 33px;
+	right: 0;
+	width: 280px;
+}
+#gigyaSidebar a {
+	color: #0098ca;
+}
+#gigyaSidebar h2 {
+	margin: 0 0 7px;
+	font-size: 16px;
+}
+#gigyaSidebar p {
+	margin: 0 0 7px;
+}
+#gigyaSidebar ul {
+	margin: 0 0 7px;
+	padding-left: 16px;
+}
+#gigyaSidebar .widget {
+	margin-top: 15px;
+	padding: 5px 10px;
+	border: 1px solid #dbdbdb;
+}
+body .gigya-screen-dialog .widget {
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 5px 10px;
+	border: 1px solid #dbdbdb;
+}
+body .gigya-screen-dialog .widget a {
+	color: #0098ca;
+}
+body .gigya-screen-dialog .widget h2 {
+	margin: 0 0 7px;
+	font-size: 16px;
+}
+body .gigya-screen-dialog .widget p {
+	margin: 0 0 7px;
+}
+body .gigya-screen-dialog .widget ul {
+	margin: 0 0 7px;
+	padding-left: 16px;
+}
+
+@media (max-width: 400px) {
+/* gigya - login page/ social media login */
+#main-container {
+	width: 100%;
+}
+#header, #navigation {
+	width: 100%;
+}
+#page {
+	width: 100%;
+}
+#gigyaSidebar {
+	position: static;
+	width: 100%;
+}
+.gigya-screen-dialog {
+	left: 0 !important;
+	width: 100%;
+	border-left: 0 !important;
+	border-right: 0 !important;
+}
+div.gigya-screen-dialog-top,
+div.gigya-screen-dialog-content,
+div.gigya-screen-dialog-content .gigya-screen {
+	width: 100% !important;
+}
+.gigya-screen .gigya-layout-cell {
+	max-width: 100% !important;
+	width: 100% !important;
+	float: none;
+}
+}

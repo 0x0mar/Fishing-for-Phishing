@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Psychology Of Eating</title>
+	<atom:link href="http://psychologyofeating.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://psychologyofeating.com</link>
+	<description>institute for the PSYCHOLOGY of EATHING the World&#039;s Leading School in Nutritional Psychology</description>
+	<lastBuildDate>Tue, 10 Feb 2015 20:17:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1</generator>
+	<item>
+		<title>Comment on The Eater’s Agreement by Psychology of Eating</title>
+		<link>http://psychologyofeating.com/the-eaters-agreement/comment-page-5/#comment-2672</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2015 20:17:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=1826#comment-2672</guid>
+		<description><![CDATA[Hello Ruth, thank you so much for your note. I&#039;m so glad that my message resonates with you! Warmly, Marc]]></description>
+		<content:encoded><![CDATA[<p>Hello Ruth, thank you so much for your note. I&#8217;m so glad that my message resonates with you! Warmly, Marc</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Eater’s Agreement by Ruth McKenna</title>
+		<link>http://psychologyofeating.com/the-eaters-agreement/comment-page-5/#comment-2671</link>
+		<dc:creator><![CDATA[Ruth McKenna]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2015 19:34:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=1826#comment-2671</guid>
+		<description><![CDATA[I hear this argument all the time &amp; intend to borrow your response if I may! I adore the Eater&#039;s Agreement &amp; love the sincerity &amp; kindness you demonstrate with every blog post, comment &amp; share. Thank you ☺]]></description>
+		<content:encoded><![CDATA[<p>I hear this argument all the time &amp; intend to borrow your response if I may! I adore the Eater&#8217;s Agreement &amp; love the sincerity &amp; kindness you demonstrate with every blog post, comment &amp; share. Thank you ☺</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Brain in the Belly by Psychology of Eating</title>
+		<link>http://psychologyofeating.com/the-brain-in-the-belly/comment-page-7/#comment-2670</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Mon, 09 Feb 2015 17:43:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=8595#comment-2670</guid>
+		<description><![CDATA[Thanks so much for your comment, Allison! So glad to have you in our community :) Warmly, Marc]]></description>
+		<content:encoded><![CDATA[<p>Thanks so much for your comment, Allison! So glad to have you in our community <img src="http://psychologyofeating.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Warmly, Marc</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Brain in the Belly by Allison Post</title>
+		<link>http://psychologyofeating.com/the-brain-in-the-belly/comment-page-7/#comment-2669</link>
+		<dc:creator><![CDATA[Allison Post]]></dc:creator>
+		<pubDate>Sat, 07 Feb 2015 14:43:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=8595#comment-2669</guid>
+		<description><![CDATA[Wonderful article. I co authored a book that was published in 2003 called Unwinding the Belly: Healing with Gentle Touch that includes the sentiments and information in your article. And yes, it was based on my study of yoga and taoist qi gong. We have known this in our hearts and bellies for millennium, and now it is time for our brains to catch up!]]></description>
+		<content:encoded><![CDATA[<p>Wonderful article. I co authored a book that was published in 2003 called Unwinding the Belly: Healing with Gentle Touch that includes the sentiments and information in your article. And yes, it was based on my study of yoga and taoist qi gong. We have known this in our hearts and bellies for millennium, and now it is time for our brains to catch up!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Nutritional Psychology of Protein &#8211; Video with Marc David by Psychology of Eating</title>
+		<link>http://psychologyofeating.com/the-nutritional-psychology-of-protein-video-marc/comment-page-1/#comment-2668</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2015 19:30:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18576#comment-2668</guid>
+		<description><![CDATA[Hi Janet, Thank you so much for adding in this perspective! So glad to have you in our community. Warmly, Marc]]></description>
+		<content:encoded><![CDATA[<p>Hi Janet, Thank you so much for adding in this perspective! So glad to have you in our community. Warmly, Marc</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Nutritional Psychology of Protein &#8211; Video with Marc David by Janet</title>
+		<link>http://psychologyofeating.com/the-nutritional-psychology-of-protein-video-marc/comment-page-1/#comment-2667</link>
+		<dc:creator><![CDATA[Janet]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2015 11:57:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18576#comment-2667</guid>
+		<description><![CDATA[You say «In evolutionary history, for our early hunter-gatherers, their main source of protein was animals ». This is hard to prove because bones are well preserved as fossils, but plants are not. Many believe we primarily ate plant protein with some animal.]]></description>
+		<content:encoded><![CDATA[<p>You say «In evolutionary history, for our early hunter-gatherers, their main source of protein was animals ». This is hard to prove because bones are well preserved as fossils, but plants are not. Many believe we primarily ate plant protein with some animal.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Is Your Food Life Getting In the Way of Your Sex Life? by Psychology of Eating</title>
+		<link>http://psychologyofeating.com/is-your-food-life-getting-in-the-way-of-your-sex-life/comment-page-3/#comment-2666</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 17:57:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=2488#comment-2666</guid>
+		<description><![CDATA[Thanks for sharing your story, Angela! I&#039;m so glad to hear you&#039;re on a positive journey. Warmly, Marc]]></description>
+		<content:encoded><![CDATA[<p>Thanks for sharing your story, Angela! I&#8217;m so glad to hear you&#8217;re on a positive journey. Warmly, Marc</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on 40 Best Fitness Websites of 2013 by Psychology of Eating</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-6/#comment-2665</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 17:53:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2665</guid>
+		<description><![CDATA[Hi Greg, You&#039;re so welcome, and thanks so much for being a part of our online community! Warmly, IPE Staff]]></description>
+		<content:encoded><![CDATA[<p>Hi Greg, You&#8217;re so welcome, and thanks so much for being a part of our online community! Warmly, IPE Staff</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Happy Exercise vs. Stressed Exercise – There’s a Big Metabolic Difference by Psychology of Eating</title>
+		<link>http://psychologyofeating.com/happy-exercise-vs-stressed-exercise-theres-a-big-metabolic-difference/comment-page-6/#comment-2664</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 17:51:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=2469#comment-2664</guid>
+		<description><![CDATA[Hi Nika, Thank you so much for sharing your thoughts! I&#039;m glad my message resonates with you -- it&#039;s wonderful to have you in our community :) Warmly, Marc]]></description>
+		<content:encoded><![CDATA[<p>Hi Nika, Thank you so much for sharing your thoughts! I&#8217;m glad my message resonates with you &#8212; it&#8217;s wonderful to have you in our community <img src="http://psychologyofeating.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Warmly, Marc</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on 40 Best Fitness Websites of 2013 by Greg Parry</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-6/#comment-2663</link>
+		<dc:creator><![CDATA[Greg Parry]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 12:13:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2663</guid>
+		<description><![CDATA[Thanks for sharing this list of fitness website.Anyone can get tips of taking care of their body physically and mentally.
+
+http://www.onelifeblog.com/blog/]]></description>
+		<content:encoded><![CDATA[<p>Thanks for sharing this list of fitness website.Anyone can get tips of taking care of their body physically and mentally.</p>
+<p><a href="http://www.onelifeblog.com/blog/" rel="nofollow">http://www.onelifeblog.com/blog/</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- Wp Fastest Cache: XML Content -->

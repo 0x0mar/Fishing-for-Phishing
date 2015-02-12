@@ -1,0 +1,941 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/css/dmoz-main.css" />
+<title>DMOZ - Home: Cooking</title>
+
+<style>
+.remBld {float:left; font-weight:bold; margin-right:5px; font-size:17px;}
+#_alt_ctrl_ALL, #_alt_ctrl_Z {border-right:none !important;}
+ul.right_align {float:left;}
+div.flag {  float : right ;  width : 16px ;  height : 16px ;}
+ul.directory-url li {  clear : right ;}
+li.cool a.listinglink {background:url('/img/star.gif') no-repeat right -2px; font-weight:bold; padding-right:16px; }
+div.flag img {  width:0px;  height:0px;  padding:8px;
+  background: url('/img/flag-faint.png');
+}
+ul.directory-url li:hover {  background-color : #e4e4e4 ;}
+ul.directory-url li:hover div.flag img {  background: url('/img/flag.png');}
+ul.directory-url li:hover div.flag:hover img {  background: url('/img/flag-highlight.png');}
+
+
+
+</style>
+</head>
+<body dir="LTR"><div class="none">
+<!-- SiteCatalyst code version: H.7.  Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+</div>
+
+<div id="doc"  class="nodViewN">
+	<div id="hd" style="border-bottom:0;">
+    	<a id="logo" class="logoN" href="/" alt="DMOZ logo" title="DMOZ"></a>
+
+        <div id="partnership">
+                <img width="72" height="36" align="middle" alt="In Partnership with AOL" src="/img/public/aolpartner.png"/>
+        </div>
+    </div>
+    <div id="hd-bar">
+
+        <div class="float-l" style="margin-left:8px;">
+
+        <!-- Twitter follow button -->
+          <a href="https://twitter.com/dmoz" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @dmoz</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <!-- End Twitter follow button -->
+
+        </div>
+
+        <div class="float-r">
+            <a style="font-weight:700" href="/docs/en/about.html">about dmoz</a> | 
+            <a href="http://blog.dmoz.org/">dmoz blog</a> | 
+            
+
+			<a href="/public/update?cat=Home/Cooking">update listing</a> | 
+			
+            <a href="/public/abuse?cat=Home/Cooking&lang=en">report abuse/spam</a> | 
+            <a href="/help/en/helpmain.html">help</a>
+        </div>
+       
+    </div>
+    <div id="bd-cross">
+    	<form class="center mb1em" action="/search" method="get">
+            <input size="45" name="q" class="searchNod" >
+            <input type=submit value="Search" class="btn" >
+            <select name="cat" class="selectNod" >
+			   
+               <option value="all" selected id="all-yes"><label for="all-yes">the entire directory</label></option>
+			   
+                 <option value="Home/Cooking"  id="all-no"><label for="all-no">only in Home/Cooking</label></option>
+                 
+            </select>
+            <input type=hidden name=all value="no" >
+        </form>
+
+        <div class="navigate" style="">
+            <div class="descript">
+
+                    <div id="descript" class="descriptN"><a href="/desc/Home/Cooking">Description</a></div>
+
+            </div>
+            <ul class="navigate">
+                <li class="first">
+
+                    <a href="/">Top</a></li>
+<li><b>: </b><a href='/Home/'>Home</a></li>
+                        <li class="last">
+                            <strong><span class='remBld'>: </span>Cooking</strong>&nbsp;<em>(9,911)</em>
+                        </li>
+
+            </ul>
+        </div>
+<div class='alphanumeric'><span class='start'>[</span><span class='links'><a id='_alt_ctrl_A' href='/Home/Cooking/A/'>A</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_B' href='/Home/Cooking/B/'>B</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_C' href='/Home/Cooking/C/'>C</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_D' href='/Home/Cooking/D/'>D</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_E' href='/Home/Cooking/E/'>E</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_F' href='/Home/Cooking/F/'>F</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_G' href='/Home/Cooking/G/'>G</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_H' href='/Home/Cooking/H/'>H</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_I' href='/Home/Cooking/I/'>I</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_J' href='/Home/Cooking/J/'>J</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_K' href='/Home/Cooking/K/'>K</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_L' href='/Home/Cooking/L/'>L</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_M' href='/Home/Cooking/M/'>M</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_N' href='/Home/Cooking/N/'>N</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_O' href='/Home/Cooking/O/'>O</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_P' href='/Home/Cooking/P/'>P</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Q' href='/Home/Cooking/Q/'>Q</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_R' href='/Home/Cooking/R/'>R</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_S' href='/Home/Cooking/S/'>S</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_T' href='/Home/Cooking/T/'>T</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_U' href='/Home/Cooking/U/'>U</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_V' href='/Home/Cooking/V/'>V</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_W' href='/Home/Cooking/W/'>W</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_X' href='/Home/Cooking/X/'>X</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Y' href='/Home/Cooking/Y/'>Y</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Z' href='/Home/Cooking/Z/'>Z</a></span><span class='end'>]</span></div>
+        <div class="clear"></div>		
+        
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Home/Cooking/Appetizers/">Appetizers</a>&nbsp;<em>(45)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Baking_and_Confections/">Baking and Confections</a>&nbsp;<em>(595)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Outdoors/Barbecue_and_Grilling/">Barbecue and Grilling</a>@&nbsp;<em>(115)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Beverages/">Beverages</a>&nbsp;<em>(349)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Brand_Name_Recipes/">Brand Name Recipes</a>&nbsp;<em>(95)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Breakfast/">Breakfast</a>&nbsp;<em>(31)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Recreation/Outdoors/Camping/Cooking/">Camping</a>@&nbsp;<em>(23)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Canning_and_Freezing/">Canning and Freezing</a>&nbsp;<em>(34)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Casseroles/">Casseroles</a>&nbsp;<em>(27)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Chili/">Chili</a>&nbsp;<em>(33)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Condiments/">Condiments</a>&nbsp;<em>(103)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Desserts/">Desserts</a>&nbsp;<em>(84)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Drying_and_Dehydrating/">Drying and Dehydrating</a>&nbsp;<em>(14)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Fondue/">Fondue</a>&nbsp;<em>(17)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/For_Children/">For Children</a>&nbsp;<em>(79)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Fusion/">Fusion</a>&nbsp;<em>(7)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Gifts_in_a_Jar/">Gifts in a Jar</a>&nbsp;<em>(22)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Gourmet/">Gourmet</a>&nbsp;<em>(20)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Holidays/">Holidays</a>&nbsp;<em>(237)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Jams%2C_Jellies%2C_and_Preserves/">Jams, Jellies, and Preserves</a>&nbsp;<em>(36)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Home/Cooking/Microwave/">Microwave</a>&nbsp;<em>(28)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Outdoors/">Outdoors</a>&nbsp;<em>(126)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Pizza/">Pizza</a>&nbsp;<em>(40)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Pressure_Cooker/">Pressure Cooker</a>&nbsp;<em>(9)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Quantity_Cooking/">Quantity Cooking</a>&nbsp;<em>(14)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Quick_and_Easy/">Quick and Easy</a>&nbsp;<em>(16)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Recipe_Collections/">Recipe Collections</a>&nbsp;<em>(336)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Salads/">Salads</a>&nbsp;<em>(97)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Sandwiches/">Sandwiches</a>&nbsp;<em>(433)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Sauces%2C_Dips%2C_Gravies%2C_and_Toppings/">Sauces, Dips, Gravies, and Toppings</a>&nbsp;<em>(89)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Slow_Cooker/">Slow Cooker</a>&nbsp;<em>(33)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Snacks/">Snacks</a>&nbsp;<em>(13)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Soups_and_Stews/">Soups and Stews</a>&nbsp;<em>(2,455)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Special_Diets/">Special Diets</a>&nbsp;<em>(119)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Spicy/">Spicy</a>&nbsp;<em>(11)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Stuffings_and_Dressings/">Stuffings and Dressings</a>&nbsp;<em>(17)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Tailgating_and_Picnics/">Tailgating and Picnics</a>&nbsp;<em>(10)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Vegetarian/">Vegetarian</a>&nbsp;<em>(226)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/World_Cuisines/">World Cuisines</a>&nbsp;<em>(1,264)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Home/Cooking/Fruits_and_Vegetables/Beans_and_Legumes/">Beans and Legumes</a>@&nbsp;<em>(86)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Cheese/">Cheese</a>&nbsp;<em>(65)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Chocolate/">Chocolate</a>&nbsp;<em>(13)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Dairy/">Dairy</a>&nbsp;<em>(37)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Eggs/">Eggs</a>&nbsp;<em>(61)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Fish_and_Seafood/">Fish and Seafood</a>&nbsp;<em>(392)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Fruits_and_Vegetables/">Fruits and Vegetables</a>&nbsp;<em>(996)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Home/Cooking/Grains/">Grains</a>&nbsp;<em>(85)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Herbs_and_Spices/">Herbs and Spices</a>&nbsp;<em>(49)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Meat/">Meat</a>&nbsp;<em>(344)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Meat_Substitutes/">Meat Substitutes</a>&nbsp;<em>(12)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Nuts_and_Seeds/">Nuts and Seeds</a>&nbsp;<em>(82)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Pasta/">Pasta</a>&nbsp;<em>(62)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Wild_Foods/">Wild Foods</a>&nbsp;<em>(15)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Home/Cooking/Chats_and_Forums/">Chats and Forums</a>&nbsp;<em>(19)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Chefs/">Chefs</a>&nbsp;<em>(86)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Recreation/Food/Contests/">Competitions</a>@&nbsp;<em>(7)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Consumer_Information/Food_and_Drink/">Consumer Information</a>@&nbsp;<em>(64)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Hospitality/Food_Service/Culinary_Institutes/">Culinary Institutes</a>@&nbsp;<em>(43)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Recreation/Travel/Specialty_Travel/Culinary/">Culinary Travel</a>@&nbsp;<em>(103)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Recreation/Food/Events/">Events</a>@&nbsp;<em>(77)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Recreation/Humor/Food_and_Drink/">Humor</a>@&nbsp;<em>(35)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Cooking/Magazines_and_E-zines/">Magazines and E-zines</a>&nbsp;<em>(36)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Home/Cooking/Mailing_Lists/">Mailing Lists</a>&nbsp;<em>(26)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Health/Nutrition/">Nutrition</a>@&nbsp;<em>(437)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Arts/Television/Cable_Television/Public_Access/Programs/Food/">Public Access Television Shows</a>@&nbsp;<em>(4)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Recipe_Management/">Recipe Management</a>&nbsp;<em>(14)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Safety/">Safety</a>&nbsp;<em>(18)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Shopping/">Shopping</a>&nbsp;<em>(0)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Techniques/">Techniques</a>&nbsp;<em>(25)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Cooking/Weblogs/">Weblogs</a>&nbsp;<em>(287)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+            <fieldset class="fieldcap">
+                <legend>See also:</legend>
+                <ul class="directory">
+                
+                	<li>
+                        <a href="/Business/Food_and_Related_Products/">Business: Food and Related Products</a> 
+                        <em>(5,437)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Recreation/Food/">Recreation: Food</a> 
+                        <em>(8,144)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Recreation/Pets/Pet_Food_Preparation/">Recreation: Pets: Pet Food Preparation</a> 
+                        <em>(24)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Science/Technology/Food_Science/">Science: Technology: Food Science</a> 
+                        <em>(180)</em>
+                    </li>
+                
+                	<li>
+                        <a href="/Shopping/Food/">Shopping: Food</a> 
+                        <em>(5,099)</em>
+                    </li>
+                
+                </ul>
+            </fieldset>
+
+                <fieldset class="fieldcap fieldcapN">
+                <legend>This category in other languages:</legend>
+                <ul class="language">
+
+                    <li>
+                    	<a href="/World/Bahasa_Indonesia/Rumah_Tangga/Memasak">Bahasa Indonesia</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Melayu/Rumah/Memasak">Bahasa Melayu</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C4%8Cesky/Domov/Va%C5%99en%C3%AD">Česky</a>
+                        <em>(87)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Dansk/Hus_og_hjem/Madlavning">Dansk</a>
+                        <em>(54)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Deutsch/Zuhause/Kochen">Deutsch</a>
+                        <em>(426)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Espa%C3%B1ol/Hogar/Cocina">Español</a>
+                        <em>(112)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Esperanto/Hejmo/Kuirado">Esperanto</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Fran%C3%A7ais/Maison/Cuisine">Français</a>
+                        <em>(1343)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hrvatski/Dom/Kuhanje">Hrvatski</a>
+                        <em>(18)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Italiano/Casa/Cucinare">Italiano</a>
+                        <em>(251)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lietuvi%C5%B3/Buitis/Virtuv%C4%97">Lietuvių</a>
+                        <em>(33)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Magyar/Otthon/F%C5%91z%C3%A9s">Magyar</a>
+                        <em>(59)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Nederlands/Huis_en_Tuin/Koken">Nederlands</a>
+                        <em>(152)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Norsk/Hjem_og_familie/Matlaging">Norsk</a>
+                        <em>(29)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Polski/Dom/Sztuka_kulinarna">Polski</a>
+                        <em>(156)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Portugu%C3%AAs/Lar/Cozinha_e_Culin%C3%A1ria">Português</a>
+                        <em>(33)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Rom%C3%A2n%C4%83/Acas%C4%83/G%C4%83tit">Română</a>
+                        <em>(54)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensky/Domov/Varenie">Slovensky</a>
+                        <em>(48)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Srpski/Doma%C4%87instvo/Kulinarstvo">Srpski</a>
+                        <em>(19)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Svenska/Hus_och_hem/Matlagning">Svenska</a>
+                        <em>(34)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Tatar%C3%A7a/%C3%96y-U%C3%A7aq/A%C5%9Fsu">Tatarça</a>
+                        <em>(0)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Gia_%C4%91%C3%ACnh/N%E1%BA%A5u_%C4%83n">Tiếng_Việt</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Greek/%CE%A3%CF%80%CE%AF%CF%84%CE%B9/%CE%9C%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CE%AE">Ελληνική</a>
+                        <em>(15)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bulgarian/%D0%94%D0%BE%D0%BC/%D0%93%D0%BE%D1%82%D0%B2%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE">Български</a>
+                        <em>(29)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Russian/%D0%94%D0%BE%D0%BC/%D0%9A%D1%83%D0%BB%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D1%8F">Русский</a>
+                        <em>(274)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ukrainian/%D0%94%D1%96%D0%BC_%D1%82%D0%B0_%D1%81%D1%96%D0%BC%27%D1%8F/%D0%9A%D1%83%D0%BB%D1%96%D0%BD%D0%B0%D1%80%D1%96%D1%8F">Українська</a>
+                        <em>(19)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hebrew/%D7%91%D7%99%D7%AA/%D7%91%D7%99%D7%A9%D7%95%D7%9C">עברית</a>
+                        <span style="visibility:hidden">i</span><em>(30)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Persian/%D8%AE%D8%A7%D9%86%D9%87/%D8%A2%D8%B4%D9%BE%D8%B2%DB%8C">فارسی</a>
+                        <span style="visibility:hidden">i</span><em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Thai/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3">ไทย</a>
+                        <em>(12)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Japanese/%E5%AE%B6%E5%BA%AD/%E6%96%99%E7%90%86">日本語</a>
+                        <em>(718)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Simplified/%E5%AE%B6%E5%BA%AD/%E7%83%B9%E8%B0%83">简体中文</a>
+                        <em>(31)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Traditional/%E5%AE%B6%E5%B1%85/%E7%83%B9%E9%A3%AA">繁體中文</a>
+                        <em>(23)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Korean/%EA%B0%80%EC%A0%95%EA%B3%BC_%EC%83%9D%ED%99%9C/%EC%9A%94%EB%A6%AC%2C%EC%9D%8C%EC%8B%9D">한국어</a>
+                        <em>(14)</em>
+                    </li>
+
+                </ul>
+                </fieldset>
+			
+			<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+			<fieldset class="fieldcap">
+                        <ul class="directory-url" style="margin-left:0;">
+            
+                                    <li>
+	
+                                <a href="http://www.bettycrocker.com/" class="listinglink">Betty Crocker</a> 
+			
+                                - Meal planning, award winning recipes, menu suggestions and special occasion tips.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.bettycrocker.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.mealtime.org/" class="listinglink">Canned Food Alliance</a> 
+			
+                                - A consortium of steelmakers, canmakers, food processors and canned food brands promoting the nutritional and convenience benefits of canned food. Features a recipe database, bulletin board, online surveys, recipe contest and tips on health, lifestyles and timesaving.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.mealtime.org%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.cheftalk.com/" class="listinglink">Chef Talk</a> 
+			
+                                - Culinary page with recipes and information.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.cheftalk.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.chefs-help.co.uk/" class="listinglink">A Chefs Help</a> 
+			
+                                - Offers worldwide recipes, menus to order, help with cooking problems, wine selection, reviews and related items.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.chefs-help.co.uk%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.thecookinginn.com/" class="listinglink">The Cooking Inn</a> 
+			
+                                - Offers recipes, cookbook reviews, and a library section featuring articles on various subjects.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.thecookinginn.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.cooking-solutions.com/" class="listinglink">Cooking Solutions</a> 
+			
+                                - Chef, caterer, and instructor Kevin Wagner provides personal assistance with cooking lessons, advice, and recipes.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.cooking-solutions.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.cookingindex.com/" class="listinglink">CookingIndex.com</a> 
+			
+                                - Directory of cooking resources with recipes and cooking links.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.cookingindex.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.cooksrecipes.com/" class="listinglink">CooksRecipes.com</a> 
+			
+                                - A cooking site offering online culinary help, a searchable index of recipes, daily tips and trivia.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.cooksrecipes.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.culinary.net/" class="listinglink">Culinary.net</a> 
+			
+                                - Recipes, cooking tips, food forums, articles, columns, contests, and product offers.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.culinary.net%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.drgourmet.com/" class="listinglink">Doctor Gourmet</a> 
+			
+                                - Recipes, news, tips, techniques, food ratings, links and information to helping to eat well and healthy.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.drgourmet.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.foodchannel.com/" class="listinglink">The Food Channel</a> 
+			
+                                - Food information, recipes, entertainment, trend information, dining advice, and food discussions.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.foodchannel.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://foodgeeks.com/recipes/" class="listinglink">Foodgeeks.com</a> 
+			
+                                - Sharing site offering a collection of over 6000 recipes, discussion group and recipe box available. Also offers newsletter.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Ffoodgeeks.com%2Frecipes%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.goodcooking.com/" class="listinglink">Good Cooking</a> 
+			
+                                - Presents a wide range of recipes and information on general or gourmet cooking, world cuisines, and wine. Offers cooking definitions, facts, a forum, and professional recipes.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.goodcooking.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.gourmetsleuth.com/" class="listinglink">GourmetSleuth.com</a> 
+			
+                                - Directory of links to information and shopping resources for gourmet foods, wines, beer, and cooking.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.gourmetsleuth.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.hannaford.com/Contents/All_About_Food/Recipes/index.shtml" class="listinglink">Hannaford Supermarkets</a> 
+			
+                                - A large collection of recipes, food safety and preparation tips.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.hannaford.com%2FContents%2FAll_About_Food%2FRecipes%2Findex.shtml"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.kitchendaily.com/" class="listinglink">KitchenDaily</a> 
+			
+                                - Offers recipes, how-to videos, cooking tips and menus.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.kitchendaily.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://blog.sigsiv.com/" class="listinglink">Live to Eat</a> 
+			
+                                - Blog by South Indians, Passionate about cooking and spicy recipes, recount traditional (hard to find) Kerala recipes.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fblog.sigsiv.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.thelovechef.com/" class="listinglink">The Love Chef</a> 
+			
+                                - Recipes,  and weekly cooking, restaurant  and shopping tips.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.thelovechef.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.cyber-kitchen.com/" class="listinglink">Mimi's Cyber Kitchen</a> 
+			
+                                - Recipes, exchanges, cookbook and software reviews, archive of the rec.food.cuisine.jewish newsgroup, and Mimi's personal collection.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.cyber-kitchen.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.ochef.com/" class="listinglink">Ochef.com</a> 
+			
+                                - Provides answers to cooking questions, as well as daily recipes, cookbook reviews, and food and cooking news.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.ochef.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.perfectentertaining.com/" class="listinglink">PerfectEntertaining.com</a> 
+			
+                                - Cooking, recipes and book reviews.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.perfectentertaining.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.recipetips.com/" class="listinglink">Recipe Tips .Com</a> 
+			
+                                - Features recipes along with kitchen tips, techniques, and advice.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.recipetips.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                                    <li>
+	
+                                <a href="http://www.whfoods.com/" class="listinglink">The World's Healthiest Foods</a> 
+			
+                                - Database of healthy ingredients with nutritional information, cooking articles, recipes, and cooking methods.
+                                
+                                <div class="flag"><a href="/public/flag?cat=Home%2FCooking&url=http%3A%2F%2Fwww.whfoods.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                        </ul>
+                        </fieldset>
+        
+
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+		
+        <fieldset class="fieldcap fieldcapRn" style="font-size:1.2em; margin-top:11px;">
+
+            <ul class="disc-large">
+	    <div class="float-l">
+
+                    <li>Usenet rec.food.recipes 
+					- <a href="news:rec.food.recipes">news: </a>
+					- <a href="http://groups.google.com/group/rec.food.recipes">Google Groups</a></li>
+
+            </div>
+            </ul>
+
+        <ul class="disc-large">
+	<div class="float-l">
+		<li >
+			<span style="margin-right:140px; font-size:16px;">
+			"<b>Cooking</b>"&nbsp;search&nbsp;on:</span>
+				
+	            <a href="http://search.aol.com/aol/search?query=cooking">AOL</a> -
+<a href="http://www.ask.com/web?q=cooking">Ask</a> -
+<a href="https://www.bing.com/search?q=cooking">Bing</a> -
+<a href="https://blekko.com/#?q=cooking">Blekko</a> -
+<a href="https://duckduckgo.com/?q=cooking">DuckDuckGo</a> -
+<a href="https://gigablast.com/search?q=cooking">Gigablast</a> -
+<a href="https://www.google.com/search?q=cooking">Google</a> -
+<a href="https://www.ixquick.com/do/search/?q=cooking">ixquick</a> -
+<a href="https://search.yahoo.com/search?p=cooking">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=cooking">Yandex</a> -
+<a href="http://new2.yippy.com/search?query=cooking">Yippy</a>  				
+				
+				</li>
+	            </div>
+        </ul>
+
+        </fieldset>
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+        <fieldset class="fieldcap center">
+        	
+        	<span class="volEditN">
+        	
+	        Category editor:
+	         <a href="/public/profile?editor=davidj">davidj</a>
+        	</span>
+        	
+        	
+        </fieldset>
+	  
+
+        <div class="float-r">
+        	<img src="/img/moz/chef2.gif" width = 120 height = 110 alt="&#x005B;Chef Mozilla]">
+        </div>
+    </div>
+    <div id="ft">
+    	
+        
+            <span class="float-l">Copyright &copy; 1998-2015 AOL Inc.</span>
+        
+        <span class="float-r"><a href="/docs/en/termsofuse.html" style="font-size:.9em;">Terms of Use</a></span>
+    </div>
+    <div id="ft-bar" class="ft-barN" style="color:#000; font-family:times New Roman;font-size:16px;">
+    	<b>Visit our sister sites</b>&nbsp;&nbsp;<a href="http://www.mozilla.org/">mozilla.org</a>&nbsp;|&nbsp;<a href="http://musicmoz.org/">MusicMoz</a>&nbsp;|&nbsp;<a href="http://en.wikipedia.org/">Wikipedia</a><br><br>
+    	<div  class="ft-barUpN">Last update: 
+		
+                                December 23, 2014 at 6:24:04 UTC
+		
+		- <a href="/editors/editcat/index?cat=Home/Cooking&fwdapply=1">edit</a></div>
+    </div>
+</div>
+<div id="omniture">
+<script type="text/javascript">
+function runOmni(){(function(){var F,t,n,v,p,q,u,o,i,f,D,d,k,c,b,x,g,E,s,z,C,m,r,a,l,B,e,w,A,y,j,h;F=location.protocol.toLowerCase();t=location.hostname.toLowerCase();n=location.port;v=location.pathname.toLowerCase();p=location.search.toLowerCase();q=document.title.toLowerCase();s_265.pfxID="odp";s_265.server=t;s_265.channel="us.dmozodp";s_265.charSet="UTF-8";s_265.linkInternalFilters="aol.com,javascript:,dmoz.org";u=t.split(".");o=(u.length>1)?u[u.length-2]+"."+u[u.length-1]:"";if((o==="dmoz.org")||(t+":"+n==="dmozqa-m01.ihost.aol.com:8081")||(t+":"+n==="10.146.172.49:9099")){s_265.prop12=F+"//"+t+v;i=(v.indexOf("/world/")>-1)?1:0;f=v.split("/");D=(i===1)?parseInt(f.length,10)-4:parseInt(f.length,10)-2;d=(f[f.length-1].length>0)?f[f.length-1].split(".")[0]:" - ";k=(f[f.length-1].length>0)?f[f.length-1]:" - ";c=(i===1)?f[3]:f[1];b=(i===1)?f[4]:f[2];if(i===0){x="english"}else{if((i===1)&&(D===-1)){x="world top"}else{if((i===1)&&(D>-1)){x=f[2]}}}s_265.prop16=x;j=(D>0)?"level-"+D:"level-0";switch(D){case -1:A=t+" - world top";y=A;h=A;break;case 0:if(d!==" - "){A="utilities";y="general info";h=t+" - "+d}else{A=t+" - top";y=A;h=A}break;case 1:A=c;y="top";h=(d!==" - ")?h=A+" - "+d:h="category main";break;case 2:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="subcategory main";break;default:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="level-"+D+" main";break}if(t==="search.dmoz.org"){A="utilities";y="search";j="level-0";h=d+" - home";g=((d==="search")&&(p.split("=")[0]==="?search"))?1:0;if(g===1){E=s_265.getQueryParam("search","",p);s_265.eVar11="sTerms:f|"+E;s_265.prop18=(s_265.getQueryParam("all").toLowerCase()!=="yes")?s_265.getQueryParam("cat").toLowerCase():"";s_265.prop18=s_265.prop18||"all";s=s_265.getQueryParam("t").toLowerCase();z=s_265.getQueryParam("morecat").toLowerCase();if(s==="c"||s==="s"||s==="b"){s_265.prop19=s}else{s_265.prop19=(z===1)?"c":"b"}C=(parseInt(s_265.getQueryParam("Kids"),10)===1)?"kids":"none";m=(parseInt(s_265.getQueryParam("Teens"),10)===1)?"teens":"none";r=(parseInt(s_265.getQueryParam("Mteens"),10)===1)?"mteens":"none";s_265.prop20=C+"|"+m+"|"+r;a=((s_265.prop19!=="c")&&(z.length===0)&&(s_265.getQueryParam("co").length===0))?((parseInt(s_265.getQueryParam("start")/20,10)+1)+""):(z.length===0)?((parseInt(s_265.getQueryParam("start")/25,10)+1)+""):((parseInt(s_265.getQueryParam("morecat")/25,10)+1)+"");s_265.prop21="page "+a;h="search results";l=(((a*1)===1)&&(z.length===0)&&(s_265.getQueryParam("start","",document.referrer).length===0))?1:0;if(l===1){B=(s.length>0)?"advanced search":((s.length===0)&&(s_265.getQueryParam("cat").length>0))?"branch search":"standard search";s_265.events="event1";s_265.eVar1=B}}e=1}if(e!==1){switch(c){case"help":A="utilities";y="help";j="level-0";h=(d!==" - ")?"dmoz help - "+d:"dmoz help - helpmain";e=1;break;case"profiles":A="utilities";y="profiles";j="level-0";h="dmoz - user profile";s_265.mmxtitle=h;s_265.mmxcustom="http://www.dmoz.org/profiles/user.html";e=1;break;case"become_an_editor":case"user-banners":case"awards":A="utilities";y="general info";j="level-0";h="dmoz - general info - "+q;e=1;break;case"guidelines":A="utilities";y="editors";j="level-0";h=(D>1)?"editors - "+c+" - "+b+" - "+q:"editors guidelines - "+q;e=1;break;case"newsletter":j="level-0";switch(D){case 1:y="newsletter article archive";h=y;break;case 2:h="newsletter "+y+" - "+q;break}e=1;break;case"erz":A="utilities";y="editors";j="level-0";h=(D>1)?"erz - "+b+" - "+q:"erz - top - "+q;e=1;break}}if(e!==1){if((t==="www.dmoz.org")&&(D===0)&&(d==="reinstate")){A="utilities";y="editors";h="editors - "+q;e=1}if(t==="report-abuse.dmoz.org"){A="utilities";y="report abuse";j="level-0";h=((D===0)&&(d==="faq"))?"dmoz report abuse system faq":"dmoz report abuse system";e=1}else{if(t==="rdf.dmoz.org"){A="utilities";y="rdf";j="level-0";if((D===0)&&(d===" - ")){h="rdf - main"}else{if((D===1)&&(d===" - ")){h="rdf - file index"}else{if((D===1)&&(d!==" - ")){h="rdf - "+d}}}e=1}}}if(e!==1){if((c==="cgi-bin")&&(t!=="search.dmoz.org")){A="utilities";j="level-0";switch(d){case"apply":case"forgot":y="editors";h=(d==="forgot")?"editors - password reminder form":(s_265.getQueryParam("submit").length===0)?"editors - application info":"editors - application";e=1;break;case"add":case"update":case"update2":case"update3":case"reinstate":y="editors";if(d==="add"){h="editors - submit a site instructions"}else{if(d==="update"){h="editors - update listing instructions"}else{if(d==="update2"){h="editors - update listing form"}else{if(d==="update3"){h="editors - update listing form received"}else{if(d==="reinstate"){h="editors - account reinstatement form received"}}}}}e=1;break;case"send":case"send2":y="editors";h=(d==="send")?"send editors feedback":"editors feedback received";e=1;break}}}if(e!==1){if((k==="desc.html")||(k==="faq.html")){w=(k==="desc.html")?"description":"faq";h=(D===1)?"branch category ":(D===2)?"branch subcategory ":"branch level-"+D+" ";h=h+w}}s_265.trackExternalLinks=false;s_265.mmxgo=true;s_265.prop1=A;s_265.prop2=y;s_265.prop17=j;s_265.pageName=h;s_265.t()}}())}var s_account="aoldmozodp,aolsvc";(function(){var b=document,a=b.createElement("script");a.type="text/javascript";a.src=(location.protocol==="https:"?"https://s":"http://o")+".aolcdn.com/omniunih.js";b.getElementsByTagName("head")[0].appendChild(a)}());
+</script>
+</div>
+</body>
+</html>
+

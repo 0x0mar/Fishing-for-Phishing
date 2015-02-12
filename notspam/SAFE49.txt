@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+<title> Movie Night &#8211; Stream and download HD movies for free. No Bullshit.</title>
+<link rel="stylesheet" href="http://movienight.ws/wp-content/themes/gridthemeresponsive/style.css" type="text/css" media="screen" title="no title" charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+
+<![endif]-->
+<link rel='stylesheet' id='css2-css' href='http://movienight.ws/wp-content/plugins/jazz-popups/jazz-popup/jazz-popup.css?ver=4.0.1' type='text/css' media='all'/>
+<script type='text/javascript' src='http://movienight.ws/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://movienight.ws/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://movienight.ws/wp-content/plugins/jazz-popups/jazz-popup/jquery.jazz-popup.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://movienight.ws/wp-content/plugins/jazz-popups/jazz-popup/jquery.jazz-popup.min.js?ver=4.0.1'></script>
+<script type='text/javascript' src='http://movienight.ws/wp-content/plugins/jazz-popups/js/customcookie.js?ver=4.0.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://movienight.ws/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://movienight.ws/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.0.1"/>
+<style type="text/css">.rating span{color:#000000;}.rating span.empty{color:#cccccc;}</style>
+ 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-57536437-1', 'auto');
+  ga('send', 'pageview');
+</script>
+ 
+ <link rel="icon" href="http://movienight.ws/wp-content/uploads/2015/01/favicon.png" type="image/png"/>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://movienight.ws/wp-content/themes/gridthemeresponsive/js/jquery.hover_caption.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://movienight.ws/wp-content/themes/gridthemeresponsive/js/jquery.infinitescroll.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+
+jQuery(document).ready(
+
+function($){
+
+  $('#content').infinitescroll({
+
+    navSelector  : "div.load_more_text",            
+
+                   // selector for the paged navigation (it will be hidden)
+
+    nextSelector : "div.load_more_text a:first",    
+
+                   // selector for the NEXT link (to page 2)
+
+    itemSelector : "#content_inside .post_box"          
+
+                   // selector for all items you'll retrieve
+
+  },function(arrayOfNewElems){
+
+      $('.home_post_cont img').hover_caption();
+
+  });  
+
+}  
+
+);
+
+</script>
+</head>
+<body>
+<div id="main_container">
+<div id="header">
+<div align="center">
+<a href="http://movienight.ws"><img src="http://movienight.ws/wp-content/uploads/2015/01/logo-latest160bw.png" class="logo"/></a>
+</div>
+</div> 
+<div id="menu_container">
+ 
+<ul id="menu-primary-left" class="menu"><li id="menu-item-303" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-303"><a href="http://movienight.ws">New Releases</a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-294"><a href="http://movienight.ws/category/drama/">Drama</a></li>
+<li id="menu-item-295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-295"><a href="http://movienight.ws/category/action/">Action</a></li>
+<li id="menu-item-296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-296"><a href="http://movienight.ws/category/thriller/">Thriller</a></li>
+<li id="menu-item-297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-297"><a href="http://movienight.ws/category/crime/">Crime</a></li>
+<li id="menu-item-298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-298"><a href="http://movienight.ws/category/mystery/">Mystery</a></li>
+<li id="menu-item-299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-299"><a href="http://movienight.ws/category/science-fiction/">Science Fiction</a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-300"><a href="http://movienight.ws/category/fantasy/">Fantasy</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-301"><a href="http://movienight.ws/category/comedy/">Comedy</a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-302"><a href="http://movienight.ws/category/horror/">Horror</a></li>
+<li id="menu-item-553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-553"><a href="http://movienight.ws/category/tv-series/">TV Series</a></li>
+</ul>
+ 
+<form role="search" method="get" id="searchform" action="http://movienight.ws/">
+<input type="text" name="s" id="s" value="Search" onclick="if(this.value == 'Search') this.value='';" onblur="if(this.value == '') this.value='Search';"/>
+</form>
+<div class="header_social_icons_cont">
+<div class="clear"></div>
+</div> 
+<div class="clear"></div>
+</div> 
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+      $('.home_post_cont img').hover_caption();
+//      $('.home_small_post_box img').hover_caption();
+//      $('.side_box img').hover_caption();
+    });
+  </script>
+<div id="content">
+<div id="content_inside">
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/home-sweet-hell-2015/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/02/7Tq1weVxO85ftkZ9l1CtKKAYlvh.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Home Sweet Hell (2015)&lt;/div&gt;&lt;p&gt;
+
+Mona and Don’s seemingly perfect suburban bliss is disrupted by a sexy extortionist and Mona will stop at nothing, including killing the competition, to keep her little ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/comedy/&quot;&gt;Comedy&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/drama/&quot;&gt;Drama&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/wild-card-2015/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/02/dmN7s8FwumtFqMNScoq9nvP8U6h.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Wild Card (2015)&lt;/div&gt;&lt;p&gt;
+
+When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play… and it&#039;s all or nothing.
+
+&nbsp;
+
+Quality: ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/crime/&quot;&gt;Crime&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/drama/&quot;&gt;Drama&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/thriller/&quot;&gt;Thriller&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/vanish-2015/"><img width="228" height="323" src="http://movienight.ws/wp-content/uploads/2015/02/9Ivu97Dej7zD2G4xnaK8zkDWwJC.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;VANish (2015)&lt;/div&gt;&lt;p&gt;
+
+A kidnapped young woman is forced on a road trip full of murder and mayhem that takes place entirely in her captor&#039;s getaway van.
+
+&nbsp;
+
+Quality: SD
+Rating: ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/action/&quot;&gt;Action&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/crime/&quot;&gt;Crime&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/horror/&quot;&gt;Horror&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/thriller/&quot;&gt;Thriller&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont home_post_cont_last post_box">
+<a href="http://movienight.ws/dark-summer-2015/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/02/sxdqMj2zMC6vWypmnaBo4cD5hyV.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Dark Summer (2015)&lt;/div&gt;&lt;p&gt;
+
+Follows the tale of a 17-year-old on house arrest for the summer. When his mother is away on business, a horrifying incident occurs, followed by an even more terrifying ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/horror/&quot;&gt;Horror&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/thriller/&quot;&gt;Thriller&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="clear"></div>
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/hansel-vs-gretel-2015/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/01/zwfWQT8gBFsHfvulsVxRTxmgp6K.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Hansel Vs. Gretel (2015)&lt;/div&gt;&lt;p&gt;
+
+When Gretel falls under a dark spell and organizes a coven of witches, Hansel must find the courage to fight his twin sister and the sinister forces controlling ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/horror/&quot;&gt;Horror&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/the-flash-tv-series-2014/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/01/5KpBxzkMGXpQ8UUd8FIr1SDqz7E.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;The Flash (TV Series 2014)&lt;/div&gt;&lt;p&gt;
+
+After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/action/&quot;&gt;Action&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/adventure/&quot;&gt;Adventure&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/drama/&quot;&gt;Drama&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/science-fiction/&quot;&gt;Science Fiction&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/tv-series/&quot;&gt;TV Series&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/the-phoenix-project-2015/"><img width="228" height="323" src="http://movienight.ws/wp-content/uploads/2015/01/9bxyuiqzsa0GlBrG8TM5eq0cCCY.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;The Phoenix Project (2015)&lt;/div&gt;&lt;p&gt;
+
+Four scientists craft a machine to reanimate deceased organisms.
+The end is just the beginning.
+
+&nbsp;
+
+Quality: SD
+Rating: [rating=0]
+Runtime: 92
+Budget: ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/drama/&quot;&gt;Drama&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/science-fiction/&quot;&gt;Science Fiction&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont home_post_cont_last post_box">
+<a href="http://movienight.ws/taken-3-2015/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/01/lTbbt8otsYLKRDvELMRn83wdNoW.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Taken 3 (2015)&lt;/div&gt;&lt;p&gt;
+
+Ex-government operative Bryan Mills finds his life is shattered when he&#039;s falsely accused of a murder that hits close to home. As he&#039;s pursued by a savvy police ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/action/&quot;&gt;Action&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/crime/&quot;&gt;Crime&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/thriller/&quot;&gt;Thriller&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="clear"></div>
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/bound-2015/"><img width="228" height="319" src="http://movienight.ws/wp-content/uploads/2015/01/iSYCl3IBMH09Y5xeR5sxBGJZrDz.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Bound (2015)&lt;/div&gt;&lt;p&gt;
+
+The daughter of a wealthy real estate broker falls in love with a younger man, who introduces her to B&amp;D and S&amp;M. Using her newly awakened sexual prowess, she finally ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/drama/&quot;&gt;Drama&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/thriller/&quot;&gt;Thriller&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/vice-2015/"><img width="222" height="331" src="http://movienight.ws/wp-content/uploads/2015/01/obOMaHF85Jwww3oIFhJfxsPnOsA.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;VICE (2015)&lt;/div&gt;&lt;p&gt;
+
+Julian Michaels (Bruce Willis) has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/action/&quot;&gt;Action&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/science-fiction/&quot;&gt;Science Fiction&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont post_box">
+<a href="http://movienight.ws/marvels-agent-carter-tv-series-2015/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/01/dSghy8Wug1SSFP5A93uRpQO9mfG.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;Marvel&#8217;s Agent Carter (TV Series 2015)&lt;/div&gt;&lt;p&gt;
+
+It&#039;s 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/action/&quot;&gt;Action&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/adventure/&quot;&gt;Adventure&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/tv-series/&quot;&gt;TV Series&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="home_post_cont home_post_cont_last post_box">
+<a href="http://movienight.ws/john-wick/"><img width="220" height="331" src="http://movienight.ws/wp-content/uploads/2015/01/sq2MmFv9sanl9PFMfbdaBLveSJ8.jpg" class=" wp-post-image" alt="post image" title="&lt;div class=&quot;home_post_content&quot;&gt;&lt;div class=&quot;in_title&quot;&gt;John Wick&lt;/div&gt;&lt;p&gt;
+
+An ex-hitman comes out of retirement to track down the gangsters that took everything from him.
+
+&nbsp;
+
+Quality: SD
+Rating: [rating=6]
+Runtime: 101
+Budget: ...&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;home_post_cat&quot;&gt;&lt;a href=&quot;http://movienight.ws/category/action/&quot;&gt;Action&lt;/a&gt; / &lt;a href=&quot;http://movienight.ws/category/thriller/&quot;&gt;Thriller&lt;/a&gt;&lt;/div&gt;"/></a>
+</div> 
+<div class="clear"></div>
+<div class="clear"></div>
+</div> 
+<div class="clear"></div>
+<div class="load_more_cont">
+<div align="center"><div class="load_more_text">
+<a href="http://movienight.ws/page/2/"><img src="http://movienight.ws/wp-content/themes/gridthemeresponsive/images/loading-button.png"/></a>
+</div></div>
+</div> 
+</div> 
+<div class="clear"></div>
+<div id="footer">
+We crawl the web for your streaming convenience. We don't host any content and everyone is free to copy links from us. <img src="http://www.picbux.net/images/2015/01/01/License_icon-kopimi-16.png"/>
+</div> 
+</div> 
+<script type='text/javascript' src='http://movienight.ws/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+</body>
+</html> 

@@ -1,0 +1,523 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>September | 2012 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>September 2012</span>	</h2>	
+		<div id="post-3177" class="post-3177 post type-post status-publish format-standard hentry category-about-me category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/28/loving-your-neighbor/" rel="bookmark" title="Permalink to On Loving Your Neighbor">On Loving Your Neighbor</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 28, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/28/loving-your-neighbor/#comments">6 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Can I just first admit that I&#8217;m not good at this? Loving your neighbor can be hard. It can push on selfish tendencies. Sometimes people you are trying to love will take advantage of you. Then the risk is to insulate yourself from people all together, so you aren&#8217;t ever wronged again. But Jesus didn&#8217;t say it would be easy. He didn&#8217;t even say that people will love you back. He just said to do it. And sometimes, loving hurts.</p>
+<p>Like today when I felt completely vulnerable and taken advantage of by a stranger I was trying to love, trying to help, but felt like it completely backfired. It was a hard lesson &#8211; that in the process of loving, you can be left hurting. That&#8217;s why I feel like what Jesus teaches is SO upside down. He says to love those who might take advantage of you. Why? I&#8217;m reading through Luke right now and I just keep asking, why, why, WHY?</p>
+<blockquote><p>Give to the one who asks you, and do not turn away from the one who wants to borrow from you. You have heard that it was said, ‘Love your neighbor and hate your enemy.’ But I tell you, love your enemies and pray for those who persecute you&#8230;If you love those who love you, what reward will you get? (from Matthew 5)</p></blockquote>
+<p>Coming off the high of <a href="http://evie-s.com/news/2012/09/27/work-art-purpose/">Circles Conference</a>, it was very difficult to get back into the rhythm of motherhood &#8211; especially because it&#8217;s been so dang hard lately. Both boys, at 2 and 3 are extremely high need, and high energy. I often wish I could just skip the hard part and go to the easy part (is there an easy part?), the more rewarding part.</p>
+<p><img class="alignnone size-full wp-image-3250" title="abe" src="http://evie-s.com/news/wp-content/uploads/2012/09/abe.jpg" alt="" width="602" height="803" /></p>
+<h5>My second born, at 2 years old.</h5>
+<p>Donald Miller tells the story of how he hiked to the city of Maccu Picchu. The hike was incredibly hard and painful. But the pain made the city more beautiful. <strong>The story made him a different character than had he had skipped the pain and showed up at the ending an easier way.</strong></p>
+<p><strong><img class="alignnone size-full wp-image-3248" title="nase" src="http://evie-s.com/news/wp-content/uploads/2012/09/nase.jpg" alt="" width="602" height="803" /></strong></p>
+<h5><strong>Our sweet neighbor and friend.</strong></h5>
+<p>So sometimes the things most worth doing can be the most painful, but the most enriching, the most beautiful. Like marriage, kids, gosh-just relationships in general, faith, loving your neighbor &#8211; those are all really difficult &#8211; but it&#8217;s worth getting through the difficult parts because those are the things that make up a life well-lived. And I want to live life really well. I want to love my neighbor well. I want to serve my family with joy. It&#8217;s hard, and it hurts, but in the end, I just have to remind myself that it&#8217;s worth it. Because I honestly don&#8217;t really love this world as it is, but I love it enough to want to change it &#8211; and that starts with changing myself.</p>
+<p>Thoughts?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3213" class="post-3213 post type-post status-publish format-standard hentry category-design category-events">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/27/work-art-purpose/" rel="bookmark" title="Permalink to Circles Conference &#8211; Pt. 2">Circles Conference &#8211; Pt. 2</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 27, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/27/work-art-purpose/#comments">2 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I wanted to post the <a href="http://evie-s.com/news/work-art-purpose/">notes from my conference talk for you</a>. Wow, it was such a huge privilege to be able to share some of things I&#8217;ve learned in my own personal journey. If you want, you could also <a href="http://circlesconference.com/sessions.php">listen to the audio</a> from all the conference sessions, including my own. But with this route, you get to see the slides I created and included in the talk as well. I&#8217;d love to hear your thoughts about these points in the comments, and get a discussion going.</p>
+<p><a href="http://evie-s.com/news/work-art-purpose/">Read the full notes and see the slides &gt;&gt;</a></p>
+<p><a href="http://evie-s.com/news/work-art-purpose/"><img class="alignnone size-full wp-image-3215" title="1slide" src="http://evie-s.com/news/wp-content/uploads/2012/09/1slide.jpg" alt="" width="602" height="452" /></a></p>
+<p>&nbsp;</p>
+<p>The best thing about the conference for me was how intimate it felt. There was a commonality, a feeling of, &#8220;these are my people, and they get me.&#8221; New relationships were forged with ease, and it was great feeling like we were all there for a unified purpose. I wanted to post a few highlights from the talks I took the most notes from &#8211; hopefully you will be able to take away a nugget or two.</p>
+<p><a href="http://kylesteed.com/"><strong>Kyle Steed</strong></a></p>
+<p>The work you do does not define who you are.<br />
+Talking about God is easy, having faith is hard.<br />
+Simplicity is the secret to seeing things clearly (Oswald Chambers). Don&#8217;t over think it.</p>
+<p><a href="http://joshuablankenship.com/blog/"><strong>Josh Blankenship</strong></a></p>
+<p>Designers/artists, you may as well know magic. Because most people don&#8217;t understand how we do what we do. Everything you don&#8217;t understand is magic. (Tim Berners Lee) Most magic has humble beginnings. Accept it, you are a wizard &#8211; that doesn&#8217;t make you special, it makes you necessary. We who know &#8220;magic&#8221; can help others who don&#8217;t. We get used to our own skills &#8211; to where it doesn&#8217;t seem magical anymore. If you don&#8217;t use your talents for anyone other than yourself, than the magic stops with you. Don&#8217;t complain about what you permit. What you build will have ripple effects not just in your world, but the world as a whole. You are building the world you are going to live in. What does the world need to look like? What good is magic if you don&#8217;t go on a quest?</p>
+<p><strong><a href="http://promisetangeman.com/">Promise Tangeman</a></strong></p>
+<p>Cultivate thankfulness. Encourage others. Think of 5 people you can encourage today. Identify your strengths. Knowing who you are is key to filling yourself again. What makes you come alive? What are you passionate about? You can be passionate about a lot of things, but what are you most confident in? Find your rhythm so you don&#8217;t get stuck in cycles and ruts. Let your work simmer in the subconscious mind first before you tackle it. What can you adjust to create more efficient work flow?</p>
+<p><strong><a href="http://superfriend.ly/">Dan Mall</a></strong></p>
+<p>Design doesn&#8217;t tell the whole story. Your goal as a manager is to get your hires to their next job. All clients are created equal. But some clients are more equal than others. The client is your partner, part of your team, not an extension of your team. Big sites need smarter work not more work. Explore the genius of the tinker &#8211; find the adjacent possible (the connection in things). Create empathy, put yourself in your clients shoes.</p>
+<p><strong><a href="http://blainehogan.com/">Blaine Hogan</a></strong></p>
+<p>You are not a tool, you are a human. Tools cannot make beauty. Machines and tools break and fall apart. The world is not yet done. Relax + breathe (Sabbath principle). We are crazy and we don&#8217;t think God is real so we work our asses off. Embrace obstacles. Computers only give answers. Humans ask questions. It will never be easy work &#8211; The ground is cursed.  I want to love so well that evil wants to destroy me. We don&#8217;t always know how to increase our heart (Prov. 4:23) but we know how to lop off our limbs (self-sabotage). What are you doing now that is breaking your heart? Good design means you love people. When you put love into it, you make the best work. Don&#8217;t make work that functions out of mere utility. What am I really making? Am I loving well? Our work will be better if we can figure out how to be better humans. Good artists know themselves.</p>
+<p>&nbsp;</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3205" class="post-3205 post type-post status-publish format-standard hentry category-diy category-photography">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/27/its-a-great-day-for/" rel="bookmark" title="Permalink to It&#8217;s a Great Day For&#8230;">It&#8217;s a Great Day For&#8230;</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 27, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/27/its-a-great-day-for/#comments">7 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>It&#8217;s a cool rainy day here, one that calls for some indoor cozy activities &#8211; like embroidery.</p>
+<p><img class="alignnone size-full wp-image-3211" title="embroidery" src="http://evie-s.com/news/wp-content/uploads/2012/09/embroidery1.jpg" alt="" width="602" height="903" /></p>
+<p>(Pattern from the September For the Makers box. Download your own for free, <a href="http://www.forthemakers.com/projects/fitzgerald-floral-embroidery">here.</a>)</p>
+<p><img class="alignnone size-full wp-image-3207" title="web" src="http://evie-s.com/news/wp-content/uploads/2012/09/web.jpg" alt="" width="602" height="903" /></p>
+<p>Also, with the weather change, it seems to have brought out some big spiders around our house. This monstrosity was right outside our backdoor &#8211; so glad I saw it before it plastered me in the face. But it sure was beautiful.</p>
+<p>Is the weather changing where you are?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3165" class="post-3165 post type-post status-publish format-standard hentry category-art category-events category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/25/circles-conference-pt-1/" rel="bookmark" title="Permalink to Circles Conference &#8211; Pt. 1">Circles Conference &#8211; Pt. 1</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 25, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/25/circles-conference-pt-1/#comments">3 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><a href="http://www.circlesconference.com">Circles Conference</a> was amazing. Three total days packed with meeting new people, listening to inspiring talks from artists I&#8217;ve long admired, and soaking up some much needed independence. <a href="http://ismaelburciaga.com/">Ismael Burciaga</a> (the event coordinator) has been an online friend for a few years now, but I was totally blown away by him as a person &#8211; completely selfless and generous, an amazing host.</p>
+<p><img class="alignnone size-full wp-image-3195" title="circles-conference-2012-sketchnotes1" src="http://evie-s.com/news/wp-content/uploads/2012/09/circles-conference-2012-sketchnotes11.png" alt="" width="602" height="600" /></p>
+<h5><a href="http://seanwes.com/2012/circles-conference-2012-a-recap/">Sketched talk notes by Sean Wes</a></h5>
+<p>While on my trip, I made it a point to talk to everyone I sat by &#8211; at the airport, on the plane, on the shuttle, wherever. This is something I don&#8217;t always get to do when my kids are around, because I&#8217;m so engrossed with watching them, but it&#8217;s become one of my favorite things to do. Remember that rule your mom told you when you were little, &#8220;Don&#8217;t talk to strangers?&#8221; Well, it doesn&#8217;t apply anymore. So I met lots of new people en route to Dallas, TX, and had interesting conversations. As I shared in my conference talk, meeting new people helps you discover who you are, having new experiences strengthens your art. This was the case for me.</p>
+<ul>
+<li>I met Abee, a hard-working Ethiopian who drives a shuttle to put food on the table for his two kids.</li>
+<li>Vladimir, a young Russian valet who dropped his gambling addiction when he started a family.</li>
+<li>Gary, a bored gentleman who travels to Florida every two weeks to check on his vacation home while his busy Dr. Wife works &#8211; but I don&#8217;t think he was telling me the whole story.</li>
+<li>And two lovely ladies who had me laughing so hard I was crying during my late night wait at the airport to return home.</li>
+</ul>
+<p>Many of the speakers told their personal stories. I met so many people at the conference that shared their story. And I shared mine. I talked about my belief in story with a new friend named <a href="http://www.ryan-rushing.com">Ryan Rushing</a> at lunch.</p>
+<p>All that said to say, I think I am coming to believe more and more in <em>story</em>. I don&#8217;t think life in any way is a story about any of us, by any means. But I do believe that a story can inspire, relate to, and transform other people&#8217;s stories.</p>
+<p>The very last talk was by <a href="http://cameronmoll.com/">Cameron Moll</a>, sort of a web design hero of mine. But he spoke mainly about his work with <a href="http://www.authenticjobs.com/seven/charitywater/">charity : water</a>. Getting to travel with Scott Harrison to build wells in Ethiopia, seeing first hand the impact made on foreign soil. He showed photos of little children that had never seen their image frozen on the screen of a camera before, and another photo of a house made of rocks that the villagers had unearthed from the ground.</p>
+<p>That&#8217;s when it hit me.</p>
+<p><strong>Being an artist is a privilege. It&#8217;s not just a privilege it&#8217;s a luxury.</strong> As artists, we are given this unique ability and means to shape culture, to be creative in meeting the needs of the world. To do something beautiful and meaningful with it. That was the big takeaway for me &#8211; I left feeling inspired, and not just that &#8211; ready to take action.</p>
+<p>After Cameron&#8217;s talk, <a href="http://danielmall.com/">Dan Mall</a> had an interesting question. That we all know that a non-profit like charity : water is important &#8211; one that is a matter of life and death &#8211; but what of all the other causes? What about causes that aren&#8217;t a matter of life and death?</p>
+<p>In retrospect, I think other causes are just as important as preventing unnecessary/unjust death. Because there are so many people that are &#8220;living,&#8221; but haven&#8217;t learned to really &#8220;live.&#8221; Their story is one of heartbreak, loss, loneliness, or pain. But we as artists, and especially as Christians, have this interesting opportunity to teach and show people how they can really live. It&#8217;s building Life on life. It&#8217;s showing people the potential in their story, and pointing them to the ultimate Story that weaves us all together.</p>
+<p><em>(more to come)</em></p>
+<p><strong>Check out some other great write-ups on the conference: <a href="http://encourageothers.com/2012/09/circles-conference/">Kevin</a> / <a href="http://seanwes.com/2012/circles-conference-2012-a-recap/">Sean</a> / <a href="http://www.dandenney.com/posts/conferences/circles-conference-2012">Dan</a> / <a href="http://businessbullpen.com/post/32211827750/circles-conference-2012-for-the-designer">Emily</a></strong></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3139" class="post-3139 post type-post status-publish format-standard hentry category-art">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/13/september-illustrations/" rel="bookmark" title="Permalink to September Illustrations">September Illustrations</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 13, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/13/september-illustrations/#comments">0 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>The September <a href="http://www.forthemakers.com/">For the Makers</a> boxes have been shipped along with the illustrations I put together for the month. We are having our first fall-ish day here and it makes me yearn for warm soup, knitting, and picking up embroidery again &#8211; especially the beautiful floral pattern they included.</p>
+<p><img class="alignnone size-full wp-image-3162" title="ftm-sept" src="http://evie-s.com/news/wp-content/uploads/2012/09/ftm-sept2.jpg" alt="" width="571" height="1124" /></p>
+<p>I&#8217;m so excited and happy for their momentum and success. They&#8217;ve recently been featured on <a href="http://www.forbes.com/sites/ericaswallow/2012/04/26/internet-startups-by-mail/2/">Forbes</a>, <a href="http://livingblog.marthastewart.com/2012/06/test-run-for-the-makers.html">MS Living</a>, <a href="http://www.realsimple.com/holidays-entertaining/gifts/gift-of-the-month-00100000081736/page3.html">Real Simple</a> and <a href="http://nymag.com/shopping/features/subscriptions-2012-5/">NY Magazine</a>. Girls, you are on fire! If I ever make it to New York, the top two people I want to meet are Janet Crowther and Katie Covington.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3140" class="post-3140 post type-post status-publish format-standard hentry category-about-me category-art category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/07/behnaz-art-freedom/" rel="bookmark" title="Permalink to Behnaz, Art &amp; Freedom">Behnaz, Art &#038; Freedom</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 7, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/07/behnaz-art-freedom/#comments">3 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I cringed when she began to rifle through my work. I wanted to melt into the cushy chair I was sitting in and become one with the upholstery. Her work has been compared to <a href="http://en.wikipedia.org/wiki/Francis_Bacon">Francis Bacon</a> for crying out loud, and here she was critiquing my art. There were a few I puffed my chest out on, awaiting a word of praise, but there was none. She didn&#8217;t say much at all. It was agonizing. Until she came to this piece, which I abhorred &#8211; in fact I wasn&#8217;t even sure why I brought it in the first place.</p>
+<p>&#8220;This is good.&#8221;</p>
+<p><img class="alignnone size-full wp-image-3148" title="free" src="http://evie-s.com/news/wp-content/uploads/2012/09/free1.jpg" alt="" width="571" height="809" /></p>
+<p>Wait, what? Of all the examples I brought, she thought this one deserved the one and only accolade? And I slowly began to look at this painting with new eyes. I previously viewed it as a tragic mess, but she praised me for my &#8220;freedom&#8221; in it. Yes, I told her. That was one that I didn&#8217;t really care what the outcome was, I just did it in a way that felt like freedom at the time. But all I could see in the end were all the mistakes and not an ideal finished piece.</p>
+<p><img class="alignnone size-full wp-image-3144" title="fre1" src="http://evie-s.com/news/wp-content/uploads/2012/09/fre1.jpg" alt="" width="571" height="428" /></p>
+<p>That hour I spent with a beautiful Iranian artist named <a href="http://www.behnazsohrabian.com">Behnaz Sohrabian</a>, I will never forget. Her with her thick Iranian accent, warm but firm rebukes, and humble offerings. Who’s work literally left me breathless when I saw it at an art gallery months ago. I toyed with the idea of asking her to mentor me &#8211; fully realizing what an extremely bold ask it was. I rustled up the courage and ended up emailing her and we met together twice.</p>
+<p>I’ve always struggled with how art relates to my faith, and I now I realize I’ve been looking at it all wrong. Art is from God. Art is our search for beauty and meaning, and freedom. Art communicates God, whether the artist knows it or not. God in his symmetry, his perfection in composition, his color, His beauty, His wrath, His creation.</p>
+<p>She told me, emphatically, in her beautiful Iranian accent, “Be a brave lady” and, “don’t be a coward.”</p>
+<p>“Be free” she said, over and over, like a mantra. And somehow, this encounter with this artist and her art has leaked into my life as a whole and broken down walls that have been erected by false belief. Despite knowing better, I have always felt that I had to DO to EARN. That love was conditional based on what I did right and what I did wrong. It affected my relationship with God &#8211; I felt like if I had things together, he loved me &#8211; if I didn&#8217;t and life looked messy, surely he was mad at me.</p>
+<p><img class="alignnone size-full wp-image-3145" title="free2" src="http://evie-s.com/news/wp-content/uploads/2012/09/free2.jpg" alt="" width="571" height="376" /></p>
+<p><img class="alignnone size-full wp-image-3146" title="free3" src="http://evie-s.com/news/wp-content/uploads/2012/09/free3.jpg" alt="" width="571" height="394" /></p>
+<h6>Art by <a href="http://www.behnazsohrabian.com/">Behnaz Sohrabian</a></h6>
+<p>I had a lot to process on the way home from that meeting, and thankfully both my children were sleeping so I could get out my journal and try to write everything down. Then my sweet husband &#8211; not knowing anything about the experience I just had &#8211; corrected me about something I’d done wrong. Well, in my current state, all I could say was, “I don’t want to hear that right now.” I told him to give me a few minutes and I walked into my 1.5 year olds room, where he had just woken up from his nap. He looked at me with the sweetest love in his eyes, and at that moment, I broke. The tears came. I let God do a work in me. I realized in that moment that freedom is not just about an ideal state of living &#8211; it’s about knowing that you are loved, despite your flaws and imperfections. And in that moment, I understood how God sees me &#8211; because you see, He knows I’m flawed. He knows that sometimes I’m angry, prideful, unforgiving, unloving, a broken person &#8211; but a broken person who has accepted healing, redemption, and freedom.</p>
+<p>I love that God doesn’t stop making us. We are constantly being created by our experiences, relationships, and circumstances (good and bad). And I love how God sets up meetings like the one I had with a lady from Iran, who taught me my biggest lesson about freedom.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3133" class="post-3133 post type-post status-publish format-standard hentry category-about-me category-news">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/09/05/im-speaking-at-circles-conference/" rel="bookmark" title="Permalink to Speaking at Circles Conference">Speaking at Circles Conference</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		September 5, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/09/05/im-speaking-at-circles-conference/#comments">5 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><a href="http://circlesconference.com/">Circles Conference</a> is coming up in just a few short weeks. I&#8217;m excited to hear from amazing designers I respect and admire &#8211; <a href="http://promisetangeman.com/">Promise Tangeman</a>, <a href="http://cameronmoll.com/">Cameron Moll</a>, <a href="http://blainehogan.com/">Blaine Hogan</a>, <a href="http://kylesteed.com/">Kyle Steed</a>, and more. My talented friend Ismael Burciaga from <a href="http://ovenbits.com/">Oven Bits</a> is organizing this 2-day conference as a non-technical meetup for creatives. I love the format.</p>
+<p><img class="alignnone size-full wp-image-3134" title="conference2" src="http://evie-s.com/news/wp-content/uploads/2012/09/conference2.jpg" alt="" width="571" height="288" /></p>
+<blockquote><p><strong>When: </strong>September 20-21, 2012</p>
+<p><strong>Where: </strong>at Palace Arts Theater in Grapevine, Texas</p>
+<p><strong>Cost: </strong>$225</p></blockquote>
+<p>I&#8217;ll be speaking on the topic, <em>Work, Art &amp; Purpose</em> &#8211; get your tickets everyone, this will probably go down in history as the longest I&#8217;ve ever talked on anything. It will be good though. I&#8217;m excited.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2012/09/conference.jpg" rel="image_group"><img class="alignnone size-full wp-image-3135" title="conference" src="http://evie-s.com/news/wp-content/uploads/2012/09/conference.jpg" alt="" width="571" height="426" /></a></p>
+<p>Let me know in the comments if you are coming and let&#8217;s arrange a meetup!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

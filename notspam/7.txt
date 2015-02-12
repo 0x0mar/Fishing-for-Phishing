@@ -1,0 +1,3127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>Top 150 Makers Blog List | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Top 150 Makers Blog List Comments Feed" href="http://evie-s.com/news/top-150-makers-blog-list/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='DIY + Art Projects' href='http://evie-s.com/news/diy-art-projects/' />
+<link rel='next' title='Contact' href='http://evie-s.com/news/contact/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://evie-s.com/news/top-150-makers-blog-list/' />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="page page-id-2122 page-template-default one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		
+	<div id="post-2122" class="post-2122 page type-page status-publish hentry">
+	<h2 class="post-title">Top 150 Makers Blog List</h2>
+
+	<div class="post-content">
+	    <p>There are hundreds of great inspiring and creative blogs to read, but do you ever wonder which blogs everyone else is reading? I do, which is why I have compiled a list of the top 150 design, inspiration, and DIY blogs – I call them all Makers.</p>
+<p>The blogs are measured and ranked based on 5 criteria (Alexa rank, Compete traffic, Google Pagerank, Google Reader subscribers, Yahoo! inlinks). Scroll down to the bottom of the list to see specifics on how the list was compiled.</p>
+<p>This list certainly isn&#8217;t perfect. Each of the 5 criteria have their quirks. However, I do think this mashup is a step in the right direction of creating better lists. Because of these quirks, one blogger has requested to be removed from the rankings, which is noted in the list.</p>
+<p>I tried to scour and dig for the most popular sites out there, but it’s nearly impossible to know about them all. By all means, if you don’t see a blog on the list that you think should be there, please email me at info at evie-s.com</p>
+<p>Have fun browsing! I&#8217;m sure you will find a bunch of blogs you didn&#8217;t know about.</p>
+<p><img class="alignnone size-full wp-image-2125" title="makers_banner" alt="" src="http://evie-s.com/news/wp-content/uploads/2011/04/makers_banner.gif" width="571" height="191" /></p>
+<div style="width: 570px;">
+<table id="tblMain" width="490">
+<tbody>
+<tr>
+<td>
+<table id="tblMain_0">
+<tbody>
+<tr class="header">
+<td class="rShim" style="width: 120px;">Rank</td>
+<td class="rShim" style="width: 120px;">Name</td>
+<td class="rShim" style="width: 120px;">Author</td>
+<td class="s2">
+<div><img alt="alexa rank" src="http://www.churchrelevance.com/topblogs/alexa.png" width="16" height="16" /></div>
+</td>
+<td class="s2">
+<div><img alt="compete visitors" src="http://www.churchrelevance.com/topblogs/icon_compete.gif" width="21" height="21" /></div>
+</td>
+<td class="s1">
+<div><img alt="google pagerank" src="http://www.churchrelevance.com/topblogs/icon_google.gif" width="16" height="16" /></div>
+</td>
+<td class="s2">
+<div><img alt="google reader" src="http://www.churchrelevance.com/topblogs/icon_google.gif" width="16" height="16" /></div>
+</td>
+<td class="s2">
+<div><img alt="yahoo inlinks" src="http://www.churchrelevance.com/topblogs/icon_yahoo.gif" width="16" height="16" /></div>
+</td>
+</tr>
+<tr>
+<td class="s4">1</td>
+<td class="s5"><a href="http://www.apartmenttherapy.com/">Apartment Therapy</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>3,346</div>
+</td>
+<td class="s6">
+<div>588,860</div>
+</td>
+<td class="s7">
+<div>7</div>
+</td>
+<td class="s6">
+<div>59,759</div>
+</td>
+<td class="s6">
+<div>1,512,454</div>
+</td>
+</tr>
+<tr>
+<td class="s4">2</td>
+<td class="s5"><a href="http://craftzine.com/">Craft Zine</a></td>
+<td class="s5">Various</td>
+<td class="s8">
+<div>26,388</div>
+</td>
+<td class="s6">
+<div>222,726</div>
+</td>
+<td class="s7">
+<div>7</div>
+</td>
+<td class="s6">
+<div>19,067</div>
+</td>
+<td class="s6">
+<div>404,760</div>
+</td>
+</tr>
+<tr>
+<td class="s4">3</td>
+<td class="s5"><a href="http://decor8blog.com/">Decor8</a></td>
+<td class="s5">Holly Becker</td>
+<td class="s6">
+<div>37,834</div>
+</td>
+<td class="s6">
+<div>34,286</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>48,666</div>
+</td>
+<td class="s6">
+<div>718,229</div>
+</td>
+</tr>
+<tr>
+<td class="s4">4</td>
+<td class="s9"><a href="http://www.swiss-miss.com/">swissmiss</a></td>
+<td class="s9">Tina Roth Eisenberg</td>
+<td class="s6">
+<div>18,831</div>
+</td>
+<td class="s6">
+<div>47,659</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>17,767</div>
+</td>
+<td class="s6">
+<div>741,050</div>
+</td>
+</tr>
+<tr>
+<td class="s4">5</td>
+<td class="s5"><a href="http://www.booooooom.com/">Booooooom</a></td>
+<td class="s5">Jeff Hamada</td>
+<td class="s6">
+<div>34,152</div>
+</td>
+<td class="s6">
+<div>70,907</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>19,716</div>
+</td>
+<td class="s6">
+<div>336,841</div>
+</td>
+</tr>
+<tr>
+<td class="s4">6</td>
+<td class="s9"><a href="http://joannagoddard.blogspot.com/">A Cup of Jo</a></td>
+<td class="s9">Joanna Goddard</td>
+<td class="s6">
+<div>38,892</div>
+</td>
+<td class="s6">
+<div>27,413</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>38,076</div>
+</td>
+<td class="s6">
+<div>289,691</div>
+</td>
+</tr>
+<tr>
+<td class="s4">7</td>
+<td class="s5"><a href="http://www.re-nest.com/">re-nest</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>27,381</div>
+</td>
+<td class="s6">
+<div>134,538</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>7,507</div>
+</td>
+<td class="s6">
+<div>573,999</div>
+</td>
+</tr>
+<tr>
+<td class="s4">8</td>
+<td class="s5"><a href="http://howaboutorange.blogspot.com/">How About Orange</a></td>
+<td class="s5">Jessica Jones</td>
+<td class="s6">
+<div>56,438</div>
+</td>
+<td class="s6">
+<div>85,981</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>24,842</div>
+</td>
+<td class="s6">
+<div>313,422</div>
+</td>
+</tr>
+<tr>
+<td class="s4">9</td>
+<td class="s5"><a href="http://ohjoy.blogs.com/">Oh Joy</a></td>
+<td class="s5">Joy Cho</td>
+<td class="s6">
+<div>50,339</div>
+</td>
+<td class="s6">
+<div>20,677</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>24,906</div>
+</td>
+<td class="s6">
+<div>229,875</div>
+</td>
+</tr>
+<tr>
+<td class="s4">10</td>
+<td class="s9"><a href="http://www.purlbee.com/">Purl Bee</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>77,772</div>
+</td>
+<td class="s6">
+<div>108,274</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>24,412</div>
+</td>
+<td class="s6">
+<div>214,491</div>
+</td>
+</tr>
+<tr>
+<td class="s4">11</td>
+<td class="s5"><a href="http://www.desiretoinspire.net/">Desire to Inspire</a></td>
+<td class="s5">Jo and Kim</td>
+<td class="s6">
+<div>30,964</div>
+</td>
+<td class="s6">
+<div>80,057</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>11,701</div>
+</td>
+<td class="s6">
+<div>146,672</div>
+</td>
+</tr>
+<tr>
+<td class="s4">12</td>
+<td class="s5"><a href="http://www.centsationalgirl.com/">Centsational Girl</a></td>
+<td class="s5">Kate</td>
+<td class="s6">
+<div>58,963</div>
+</td>
+<td class="s6">
+<div>61,685</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>17,342</div>
+</td>
+<td class="s6">
+<div>206,510</div>
+</td>
+</tr>
+<tr>
+<td class="s4">13</td>
+<td class="s5"><a href="http://sfgirlbybay.com/">SFGirlbybay</a></td>
+<td class="s5">Victoria Smith</td>
+<td class="s6">
+<div>85,750</div>
+</td>
+<td class="s6">
+<div>30,079</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>10,945</div>
+</td>
+<td class="s6">
+<div>274,753</div>
+</td>
+</tr>
+<tr>
+<td class="s4">14</td>
+<td class="s5"><a href="http://style-files.com/">Style Files</a></td>
+<td class="s5">Danielle de Lange</td>
+<td class="s6">
+<div>106,059</div>
+</td>
+<td class="s6">
+<div>16,443</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>12,772</div>
+</td>
+<td class="s6">
+<div>273,044</div>
+</td>
+</tr>
+<tr>
+<td class="s4">15</td>
+<td class="s9"><a href="http://www.designspongeonline.com/">Design Sponge</a></td>
+<td class="s9">Grace Bonney</td>
+<td class="s6">
+<div>8,325</div>
+</td>
+<td class="s8">
+<div>189,467</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>112,543</div>
+</td>
+<td class="s6">
+<div>3,243,835</div>
+</td>
+</tr>
+<tr>
+<td class="s4">16</td>
+<td class="s5"><a href="http://www.soulemama.com/soulemama/">Soule Mama</a></td>
+<td class="s5">Amanda Blake Soule</td>
+<td class="s6">
+<div>70,047</div>
+</td>
+<td class="s6">
+<div>15,327</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>14,551</div>
+</td>
+<td class="s6">
+<div>206,292</div>
+</td>
+</tr>
+<tr>
+<td class="s4">17</td>
+<td class="s9"><a href="http://www.creaturecomfortsblog.com/">Creature Comforts</a></td>
+<td class="s9">Ez Pudewa</td>
+<td class="s6">
+<div>89,301</div>
+</td>
+<td class="s6">
+<div>17,487</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>10,430</div>
+</td>
+<td class="s6">
+<div>259,831</div>
+</td>
+</tr>
+<tr>
+<td class="s4">18</td>
+<td class="s9"><a href="http://www.designmom.com/">Design Mom</a></td>
+<td class="s9">Gabrielle Blair</td>
+<td class="s6">
+<div>72,902</div>
+</td>
+<td class="s6">
+<div>56,980</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,279</div>
+</td>
+<td class="s6">
+<div>211,049</div>
+</td>
+</tr>
+<tr>
+<td class="s4">19</td>
+<td class="s9"><a href="http://www.notmartha.org/">Not Martha</a></td>
+<td class="s9">Megan Reardon</td>
+<td class="s6">
+<div>107,618</div>
+</td>
+<td class="s6">
+<div>47,122</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,440</div>
+</td>
+<td class="s6">
+<div>235,420</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">20</td>
+<td class="s9"><a href="http://thecraftsdept.marthastewart.com/">The Crafts Dept</a></td>
+<td class="s9">Various</td>
+<td class="s6">
+<div>3,050</div>
+</td>
+<td class="s6">
+<div>61,338</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>4,846</div>
+</td>
+<td class="s6">
+<div>63,206</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">21</td>
+<td class="s5"><a href="http://annamariahorner.blogspot.com/">Anna Maria</a></td>
+<td class="s5">Anna Maria Horner</td>
+<td class="s6">
+<div>237,301</div>
+</td>
+<td class="s6">
+<div>14,222</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>15,449</div>
+</td>
+<td class="s6">
+<div>280,384</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">22</td>
+<td class="s5"><a href="http://cocokelley.blogspot.com/">coco+kelley</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>116,483</div>
+</td>
+<td class="s6">
+<div>6,155</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>12,227</div>
+</td>
+<td class="s6">
+<div>274,775</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">23</td>
+<td class="s5"><a href="http://design-milk.com/">Design Milk</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>24,701</div>
+</td>
+<td class="s6">
+<div>47,752</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>14,414</div>
+</td>
+<td class="s6">
+<div>277,479</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">24</td>
+<td class="s5"><a href="http://grainedit.com/">grain edit</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>94,539</div>
+</td>
+<td class="s6">
+<div>7,998</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>9,294</div>
+</td>
+<td class="s6">
+<div>191,267</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">25</td>
+<td class="s5"><a href="http://angrychicken.typepad.com/">Angry Chicken</a></td>
+<td class="s5">Amy Karol</td>
+<td class="s6">
+<div>216,242</div>
+</td>
+<td class="s6">
+<div>16,801</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>24,242</div>
+</td>
+<td class="s6">
+<div>125,996</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">26</td>
+<td class="s5"><a href="http://taza-and-husband.blogspot.com/">Rockstar Diaries</a></td>
+<td class="s5">Taza</td>
+<td class="s8">
+<div>87,913</div>
+</td>
+<td class="s8">
+<div>8,177</div>
+</td>
+<td class="s10">
+<div>5</div>
+</td>
+<td class="s8">
+<div>16,992</div>
+</td>
+<td class="s8">
+<div>130,063</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">27</td>
+<td class="s9"><a href="http://abeautifulmess.typepad.com/">A Beautiful Mess</a></td>
+<td class="s9">Elsie Flannigan</td>
+<td class="s6">
+<div>69,654</div>
+</td>
+<td class="s6">
+<div>31,423</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>15,834</div>
+</td>
+<td class="s6">
+<div>53,023</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">28</td>
+<td class="s5"><a href="http://www.designformankind.com/">Design for Mankind</a></td>
+<td class="s5">Erin Loechner</td>
+<td class="s8">
+<div>139,319</div>
+</td>
+<td class="s6">
+<div>13,385</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>4,453</div>
+</td>
+<td class="s6">
+<div>187,108</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">29</td>
+<td class="s9"><a href="http://www.graphic-exchange.com/home.html">Graphic Exchange</a></td>
+<td class="s9">Fabien Barral</td>
+<td class="s6">
+<div>52,763</div>
+</td>
+<td class="s6">
+<div>20,371</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>7,033</div>
+</td>
+<td class="s6">
+<div>62,484</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">30</td>
+<td class="s5"><a href="http://rosylittlethings.typepad.com/">Posie Gets Cozy</a></td>
+<td class="s5">Alicia Paulson</td>
+<td class="s6">
+<div>258,412</div>
+</td>
+<td class="s6">
+<div>10,697</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>18,314</div>
+</td>
+<td class="s6">
+<div>164,088</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">31</td>
+<td class="s9"><a href="http://heatherbailey.typepad.com/">Hello My Name is Heather</a></td>
+<td class="s9">Heather Bailey</td>
+<td class="s6">
+<div>333,746</div>
+</td>
+<td class="s6">
+<div>16,582</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>15,920</div>
+</td>
+<td class="s6">
+<div>82,190</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">32</td>
+<td class="s9"><a href="http://blackeiffel.blogspot.com/">Black Eiffel</a></td>
+<td class="s9">Rachel Jones</td>
+<td class="s6">
+<div>220,431</div>
+</td>
+<td class="s6">
+<div>9,582</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>9,188</div>
+</td>
+<td class="s6">
+<div>119,032</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">33</td>
+<td class="s5"><a href="http://www.eatdrinkchic.com/">Eat Drink Chic</a></td>
+<td class="s5">Amy Moss</td>
+<td class="s6">
+<div>137,675</div>
+</td>
+<td class="s6">
+<div>10,827</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>8,818</div>
+</td>
+<td class="s6">
+<div>104,887</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">34</td>
+<td class="s5"><a href="http://printpattern.blogspot.com/">print + pattern</a></td>
+<td class="s5">Bowie Style</td>
+<td class="s6">
+<div>226,848</div>
+</td>
+<td class="s6">
+<div>6,655</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>9,514</div>
+</td>
+<td class="s6">
+<div>338,381</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">35</td>
+<td class="s5"><a href="http://inchmark.squarespace.com/">Inchmark</a></td>
+<td class="s5">Brooke Reynolds</td>
+<td class="s6">
+<div>1,803</div>
+</td>
+<td class="s6">
+<div>10,712</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,210</div>
+</td>
+<td class="s6">
+<div>65,995</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">36</td>
+<td class="s5">Removed on request</td>
+<td class="s5"></td>
+<td class="s6"></td>
+<td class="s6"></td>
+<td class="s7"></td>
+<td class="s6"></td>
+<td class="s6"></td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">37</td>
+<td class="s5"><a href="http://www.jordanferney.blogspot.com/">Oh Happy Day</a></td>
+<td class="s5">Jordan Ferney</td>
+<td class="s6">
+<div>126,123</div>
+</td>
+<td class="s6">
+<div>13,902</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>13,981</div>
+</td>
+<td class="s6">
+<div>15,132</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">38</td>
+<td class="s5"><a href="http://www.bloesem.blogs.com/">Bloesem</a></td>
+<td class="s5">Irene Hoofs</td>
+<td class="s6">
+<div>145,869</div>
+</td>
+<td class="s6">
+<div>1,750</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>8,948</div>
+</td>
+<td class="s6">
+<div>179,140</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">39</td>
+<td class="s5"><a href="http://madebygirl.blogspot.com/">Made by Girl</a></td>
+<td class="s5">Jen Ramos</td>
+<td class="s6">
+<div>105,719</div>
+</td>
+<td class="s6">
+<div>11,369</div>
+</td>
+<td class="s7">
+<div>3</div>
+</td>
+<td class="s6">
+<div>16,134</div>
+</td>
+<td class="s6">
+<div>352,266</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">40</td>
+<td class="s5"><a href="http://designismine.blogspot.com/">Design is Mine</a></td>
+<td class="s5">Summer Allen</td>
+<td class="s6">
+<div>319,507</div>
+</td>
+<td class="s6">
+<div>2,892</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>11,335</div>
+</td>
+<td class="s6">
+<div>181,675</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">41</td>
+<td class="s11"><a href="http://www.twigandthistle.com/blog/">Twig &amp; Thistle</a></td>
+<td class="s9">Kathleen</td>
+<td class="s6">
+<div>165,303</div>
+</td>
+<td class="s6">
+<div>21,354</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>7,712</div>
+</td>
+<td class="s6">
+<div>86,988</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">42</td>
+<td class="s5"><a href="http://mayamade.blogspot.com/">Maya Made</a></td>
+<td class="s5">Maya Donenfeld</td>
+<td class="s6">
+<div>314,911</div>
+</td>
+<td class="s6">
+<div>4,902</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>7,072</div>
+</td>
+<td class="s6">
+<div>117,710</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">43</td>
+<td class="s9"><a href="http://www.sayyestohoboken.com/">Say Yes to Hoboken</a></td>
+<td class="s9">Liz Stanley</td>
+<td class="s6">
+<div>190,123</div>
+</td>
+<td class="s6">
+<div>12,094</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,572</div>
+</td>
+<td class="s6">
+<div>39,058</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">44</td>
+<td class="s9"><a href="http://www.designworklife.com/">Design Work Life</a></td>
+<td class="s9">Courtney</td>
+<td class="s6">
+<div>92,000</div>
+</td>
+<td class="s6">
+<div>8,488</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,791</div>
+</td>
+<td class="s6">
+<div>69,858</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">45</td>
+<td class="s9"><a href="http://sweetpaul.typepad.com/">Sweet Paul</a></td>
+<td class="s9">Paul Lowe</td>
+<td class="s6">
+<div>215,643</div>
+</td>
+<td class="s6">
+<div>6,500</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,958</div>
+</td>
+<td class="s6">
+<div>54,564</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">46</td>
+<td class="s5"><a href="http://blogdelanine.blogspot.com/">Geninne&#8217;s Art Blog</a></td>
+<td class="s5">Geninne</td>
+<td class="s6">
+<div>559,716</div>
+</td>
+<td class="s6">
+<div>2,686</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>8,191</div>
+</td>
+<td class="s6">
+<div>179,788</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">47</td>
+<td class="s5"><a href="http://blog.designpublic.com/">Design Public</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>81,395</div>
+</td>
+<td class="s6">
+<div>5,346</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,657</div>
+</td>
+<td class="s6">
+<div>66,065</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">48</td>
+<td class="s9"><a href="http://www.daydreamlily.com/">Day Dream Lily</a></td>
+<td class="s9">Liss</td>
+<td class="s6">
+<div>430,259</div>
+</td>
+<td class="s6">
+<div>2,227</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>6,804</div>
+</td>
+<td class="s6">
+<div>99,740</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">49</td>
+<td class="s5"><a href="http://bleubirdvintage.typepad.com/">Bleubird Vintage</a></td>
+<td class="s5">Miss James</td>
+<td class="s6">
+<div>143,975</div>
+</td>
+<td class="s6">
+<div>4,828</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>7,498</div>
+</td>
+<td class="s6">
+<div>32,681</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">50</td>
+<td class="s5"><a href="http://blissfulb.blogspot.com/">Bliss</a></td>
+<td class="s5">Traci French</td>
+<td class="s6">
+<div>513,763</div>
+</td>
+<td class="s6">
+<div>2,274</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>6,081</div>
+</td>
+<td class="s6">
+<div>117,192</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">51</td>
+<td class="s5"><a href="http://forme-foryou.com/">For Me, For You</a></td>
+<td class="s5">Kate Miss</td>
+<td class="s6">
+<div>265,569</div>
+</td>
+<td class="s6">
+<div>1,587</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>3,432</div>
+</td>
+<td class="s6">
+<div>105,584</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">52</td>
+<td class="s5"><a href="http://riflemade.squarespace.com/">Rifle Paper Co</a></td>
+<td class="s5">Anna Bond</td>
+<td class="s6">
+<div>1,803</div>
+</td>
+<td class="s6">
+<div>2,486</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,465</div>
+</td>
+<td class="s6">
+<div>38,475</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">53</td>
+<td class="s5"><a href="http://www.modishblog.com/">Modish</a></td>
+<td class="s5">Jena</td>
+<td class="s6">
+<div>275,652</div>
+</td>
+<td class="s6">
+<div>5,621</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,024</div>
+</td>
+<td class="s6">
+<div>54,379</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">54</td>
+<td class="s5"><a href="http://www.annesage.com/blog/">The City Sage</a></td>
+<td class="s5">Anne Sage</td>
+<td class="s6">
+<div>156,998</div>
+</td>
+<td class="s6">
+<div>6,259</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>4,932</div>
+</td>
+<td class="s6">
+<div>98,133</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">55</td>
+<td class="s5"><a href="http://dottieangel.blogspot.com/">Dottie Angel</a></td>
+<td class="s5">Tif Fussell</td>
+<td class="s6">
+<div>333,513</div>
+</td>
+<td class="s6">
+<div>9,553</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>5,200</div>
+</td>
+<td class="s6">
+<div>135,129</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">56</td>
+<td class="s5"><a href="http://mysweetsavannah.blogspot.com/">My Sweet Savannah</a></td>
+<td class="s5">Melaine Thompson</td>
+<td class="s6">
+<div>547,939</div>
+</td>
+<td class="s6">
+<div>17,091</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>5,922</div>
+</td>
+<td class="s6">
+<div>101,809</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">57</td>
+<td class="s5"><a href="http://www.mintdesignblog.com/">Mint Design Blog</a></td>
+<td class="s5">Ellie</td>
+<td class="s6">
+<div>284,592</div>
+</td>
+<td class="s6">
+<div>4,192</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>2,395</div>
+</td>
+<td class="s6">
+<div>90,697</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">58</td>
+<td class="s5"><a href="http://blairpeter.typepad.com/">Wise Craft</a></td>
+<td class="s5">Blair Stocker</td>
+<td class="s6">
+<div>657,006</div>
+</td>
+<td class="s6">
+<div>8,722</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>12,538</div>
+</td>
+<td class="s6">
+<div>42,490</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">59</td>
+<td class="s9"><a href="http://www.stephmodo.com/">StephModo</a></td>
+<td class="s9">Stephanie</td>
+<td class="s6">
+<div>276,356</div>
+</td>
+<td class="s6">
+<div>5,261</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,114</div>
+</td>
+<td class="s6">
+<div>52,518</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">60</td>
+<td class="s5"><a href="http://nicolehill.blogspot.com/">A Little Sussy</a></td>
+<td class="s5">Nicole Hill Gerulat</td>
+<td class="s6">
+<div>405,175</div>
+</td>
+<td class="s6">
+<div>5,103</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,263</div>
+</td>
+<td class="s6">
+<div>51,803</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">61</td>
+<td class="s5"><a href="http://www.designcrushblog.com/">Design Crush</a></td>
+<td class="s5">Kelly Beall</td>
+<td class="s6">
+<div>196,061</div>
+</td>
+<td class="s6">
+<div>16,826</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>1,399</div>
+</td>
+<td class="s6">
+<div>51,536</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">62</td>
+<td class="s5"><a href="http://ritzybee.typepad.com/my_weblog/">Ritzy Bee</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>397,260</div>
+</td>
+<td class="s6">
+<div>2,877</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,594</div>
+</td>
+<td class="s6">
+<div>61,127</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">63</td>
+<td class="s5"><a href="http://ashleyannphotography.com/blog/">Under the Sycamore</a></td>
+<td class="s5">Ashley Campbell</td>
+<td class="s6">
+<div>141,723</div>
+</td>
+<td class="s6">
+<div>20,942</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>6,331</div>
+</td>
+<td class="s6">
+<div>26,474</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">64</td>
+<td class="s5"><a href="http://zakkalife.blogspot.com/">Zakka Life</a></td>
+<td class="s5">Jessica Okui</td>
+<td class="s6">
+<div>213,533</div>
+</td>
+<td class="s6">
+<div>21,387</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>3,674</div>
+</td>
+<td class="s6">
+<div>53,378</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">65</td>
+<td class="s5"><a href="http://www.dudecraft.com/">Dude Craft</a></td>
+<td class="s5">Paul Overton</td>
+<td class="s8">
+<div>291,290</div>
+</td>
+<td class="s8">
+<div>8,600</div>
+</td>
+<td class="s10">
+<div>5</div>
+</td>
+<td class="s8">
+<div>3,223</div>
+</td>
+<td class="s8">
+<div>44,012</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">66</td>
+<td class="s5"><a href="http://racheldenbow.blogspot.com/">Smile and Wave</a></td>
+<td class="s5">Rachel Denbow</td>
+<td class="s8">
+<div>327,485</div>
+</td>
+<td class="s8">
+<div>10,219</div>
+</td>
+<td class="s10">
+<div>4</div>
+</td>
+<td class="s8">
+<div>7,316</div>
+</td>
+<td class="s8">
+<div>56,100</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">67</td>
+<td class="s9"><a href="http://afieldjournal.blogspot.com/">A Field Journal</a></td>
+<td class="s9">Livy</td>
+<td class="s6">
+<div>684,522</div>
+</td>
+<td class="s6">
+<div>3,029</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>5,257</div>
+</td>
+<td class="s6">
+<div>78,964</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">68</td>
+<td class="s5"><a href="http://www.unruly-things.com/">Unruly Things</a></td>
+<td class="s5">Alyson Graves Brown</td>
+<td class="s6">
+<div>422,937</div>
+</td>
+<td class="s6">
+<div>880</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,431</div>
+</td>
+<td class="s6">
+<div>111,586</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">69</td>
+<td class="s5"><a href="http://blog.piajanebijkerk.com/WordPress/">pia jane bijkerk</a></td>
+<td class="s5">pia jane bijkerk</td>
+<td class="s6">
+<div>321,770</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,692</div>
+</td>
+<td class="s6">
+<div>123,882</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">70</td>
+<td class="s9"><a href="http://alittlehut.blogspot.com/">A Little Hut</a></td>
+<td class="s9">Patricia Zapata</td>
+<td class="s6">
+<div>609,729</div>
+</td>
+<td class="s6">
+<div>11,843</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,654</div>
+</td>
+<td class="s6">
+<div>63,117</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">71</td>
+<td class="s9"><a href="http://www.whipup.net/">Whip Up</a></td>
+<td class="s9">Kathreen Ricketson</td>
+<td class="s6">
+<div>116,540</div>
+</td>
+<td class="s6">
+<div>50,704</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>1,063</div>
+</td>
+<td class="s6">
+<div>25,457</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">72</td>
+<td class="s5"><a href="http://papernstitchblog.com/">Paper n Stitch</a></td>
+<td class="s5">Brittni</td>
+<td class="s6">
+<div>210,809</div>
+</td>
+<td class="s6">
+<div>12,331</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,583</div>
+</td>
+<td class="s6">
+<div>76,594</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">73</td>
+<td class="s5"><a href="http://blog.lenacorwin.com/">Lena Corwin</a></td>
+<td class="s5">Lena Corwin</td>
+<td class="s6">
+<div>491,698</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>4,256</div>
+</td>
+<td class="s6">
+<div>98,105</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">74</td>
+<td class="s5"><a href="http://alisaburke.blogspot.com/">Alisa Burke</a></td>
+<td class="s5">Alisa Burke</td>
+<td class="s6">
+<div>409,830</div>
+</td>
+<td class="s6">
+<div>14,547</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>4,966</div>
+</td>
+<td class="s6">
+<div>44,014</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">75</td>
+<td class="s5"><a href="http://weewonderfuls.typepad.com/">Wee Wonderfuls</a></td>
+<td class="s5">Hillary Lang</td>
+<td class="s6">
+<div>953,665</div>
+</td>
+<td class="s6">
+<div>6,845</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,820</div>
+</td>
+<td class="s6">
+<div>94,092</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">76</td>
+<td class="s5"><a href="http://elseachelsea.typepad.com/">frolic!</a></td>
+<td class="s5">Chelsea Fuss</td>
+<td class="s6">
+<div>527,843</div>
+</td>
+<td class="s6">
+<div>1,894</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,534</div>
+</td>
+<td class="s6">
+<div>83,799</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">77</td>
+<td class="s5"><a href="http://lorilangille.blogspot.com/">Automatism</a></td>
+<td class="s5">Lori Langille</td>
+<td class="s6">
+<div>500,098</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,759</div>
+</td>
+<td class="s6">
+<div>82,199</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">78</td>
+<td class="s5"><a href="http://blog.amyatlas.com/">Amy Atlas</a></td>
+<td class="s5">Amy Atlas</td>
+<td class="s6">
+<div>156,801</div>
+</td>
+<td class="s6">
+<div>12,384</div>
+</td>
+<td class="s7">
+<div>0</div>
+</td>
+<td class="s6">
+<div>3,998</div>
+</td>
+<td class="s6">
+<div>55,078</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">79</td>
+<td class="s5"><a href="http://simplesong.typepad.com/home/">SimpleSong</a></td>
+<td class="s5">Suann Song</td>
+<td class="s6">
+<div>591,093</div>
+</td>
+<td class="s6">
+<div>1,766</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,766</div>
+</td>
+<td class="s6">
+<div>54,361</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">80</td>
+<td class="s5"><a href="http://camillaengman.blogspot.com/">Camilla Engman </a></td>
+<td class="s5">Camilla Engman</td>
+<td class="s6">
+<div>890,482</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,500</div>
+</td>
+<td class="s6">
+<div>195,974</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">81</td>
+<td class="s5"><a href="http://www.designlovefest.com/">DesignLoveFest</a></td>
+<td class="s5">Brieanne Paige</td>
+<td class="s6">
+<div>178,707</div>
+</td>
+<td class="s6">
+<div>5,520</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>3,405</div>
+</td>
+<td class="s6">
+<div>45,184</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">82</td>
+<td class="s5"><a href="http://frydogdesign.blogspot.com/">Fryd Design</a></td>
+<td class="s5">Jeanette Lunde</td>
+<td class="s6">
+<div>574,436</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,248</div>
+</td>
+<td class="s6">
+<div>123,933</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">83</td>
+<td class="s5"><a href="http://www.uppercasegallery.ca/">Uppercase</a></td>
+<td class="s5">Janine Vangool</td>
+<td class="s6">
+<div>416,747</div>
+</td>
+<td class="s6">
+<div>6,024</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,165</div>
+</td>
+<td class="s6">
+<div>40,866</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">84</td>
+<td class="s5"><a href="http://www.darlingdexter.com/">Darling Dexter</a></td>
+<td class="s5">Whitney Deal</td>
+<td class="s6">
+<div>881,093</div>
+</td>
+<td class="s6">
+<div>1,901</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,427</div>
+</td>
+<td class="s6">
+<div>68,700</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">85</td>
+<td class="s5"><a href="http://allthemountains.blogspot.com/">All the Mountains</a></td>
+<td class="s5">Amy</td>
+<td class="s6">
+<div>1,067,315</div>
+</td>
+<td class="s8">
+<div>1,661</div>
+</td>
+<td class="s7">
+<div>6</div>
+</td>
+<td class="s6">
+<div>3,201</div>
+</td>
+<td class="s6">
+<div>81,658</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">86</td>
+<td class="s9"><a href="http://ohsobeautifulpaper.com/">Oh So Beautiful Paper</a></td>
+<td class="s9">Nole Garey</td>
+<td class="s6">
+<div>134,972</div>
+</td>
+<td class="s6">
+<div>11,222</div>
+</td>
+<td class="s7">
+<div>2</div>
+</td>
+<td class="s6">
+<div>2,379</div>
+</td>
+<td class="s6">
+<div>67,327</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">87</td>
+<td class="s9"><a href="http://www.thesmallobject.com/stenopad/wordpress/">The Small Object</a></td>
+<td class="s9">Sarah Neuburger</td>
+<td class="s6">
+<div>945,385</div>
+</td>
+<td class="s6">
+<div>6,264</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,923</div>
+</td>
+<td class="s6">
+<div>53,651</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">88</td>
+<td class="s12"><a href="http://3191.visualblogging.com/">3191</a></td>
+<td class="s5">Stephanie &amp; Mav</td>
+<td class="s6">
+<div>715,682</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>8</div>
+</td>
+<td class="s6">
+<div>2,391</div>
+</td>
+<td class="s6">
+<div>173,573</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">89</td>
+<td class="s5"><a href="http://www.ohhellofriendblog.com/">Oh Hello Friend</a></td>
+<td class="s5">Danni Hong</td>
+<td class="s6">
+<div>161,923</div>
+</td>
+<td class="s6">
+<div>34,207</div>
+</td>
+<td class="s7">
+<div>0</div>
+</td>
+<td class="s6">
+<div>3,336</div>
+</td>
+<td class="s6">
+<div>36,815</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">90</td>
+<td class="s5"><a href="http://www.wherethelovelythingsare.com/">Where the Lovely Things Are</a></td>
+<td class="s5">Mallory</td>
+<td class="s6">
+<div>441,427</div>
+</td>
+<td class="s6">
+<div>2,253</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,799</div>
+</td>
+<td class="s6">
+<div>38,824</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">91</td>
+<td class="s9"><a href="http://aestheticoutburst.blogspot.com/">Aesthetic Outburst</a></td>
+<td class="s9">Abbey Hendrickson</td>
+<td class="s6">
+<div>848,883</div>
+</td>
+<td class="s6">
+<div>12,584</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,064</div>
+</td>
+<td class="s6">
+<div>19,843</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">92</td>
+<td class="s5"><a href="http://hulaseventy.blogspot.com/">Hula Seventy</a></td>
+<td class="s5">Andrea Jenkins</td>
+<td class="s6">
+<div>998,741</div>
+</td>
+<td class="s6">
+<div>1,115</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,456</div>
+</td>
+<td class="s6">
+<div>95,826</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">93</td>
+<td class="s5"><a href="http://apartment34.blogspot.com/">Apartment #34</a></td>
+<td class="s5">Erin Hiemstra</td>
+<td class="s6">
+<div>257,039</div>
+</td>
+<td class="s6">
+<div>2,350</div>
+</td>
+<td class="s7">
+<div>3</div>
+</td>
+<td class="s6">
+<div>4,520</div>
+</td>
+<td class="s6">
+<div>67,654</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">94</td>
+<td class="s5"><a href="http://www.pikaland.com/">Pikaland</a></td>
+<td class="s5">Amy Ng</td>
+<td class="s6">
+<div>401,968</div>
+</td>
+<td class="s6">
+<div>1,322</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,546</div>
+</td>
+<td class="s6">
+<div>43,069</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">95</td>
+<td class="s5"><a href="http://www.handmadecharlotte.com/">handmade charlotte</a></td>
+<td class="s5">Charlotte</td>
+<td class="s6">
+<div>360,385</div>
+</td>
+<td class="s6">
+<div>8,108</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>1,239</div>
+</td>
+<td class="s6">
+<div>29,543</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">96</td>
+<td class="s5"><a href="http://www.shopbando.com/blog/" target="_blank">ban.do</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>193,228</div>
+</td>
+<td class="s6">
+<div>10,407</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>462</div>
+</td>
+<td class="s6">
+<div>14,089</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">97</td>
+<td class="s5"><a href="http://heart-of-light.blogspot.com/">Heart of Light</a></td>
+<td class="s13">Rachel Grace</td>
+<td class="s8">
+<div>752,494</div>
+</td>
+<td class="s6">
+<div>1,617</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,228</div>
+</td>
+<td class="s6">
+<div>46,176</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">98</td>
+<td class="s5"><a href="http://www.wikstenmade.blogspot.com/">Wiksten Made</a></td>
+<td class="s5">Jenny Gordy</td>
+<td class="s6">
+<div>635,425</div>
+</td>
+<td class="s6">
+<div>358</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,736</div>
+</td>
+<td class="s6">
+<div>35,132</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">99</td>
+<td class="s5"><a href="http://www.thelilbee.com/">The Lil Bee</a></td>
+<td class="s5">Melissa</td>
+<td class="s6">
+<div>726,851</div>
+</td>
+<td class="s6">
+<div>422</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,423</div>
+</td>
+<td class="s6">
+<div>71,497</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">100</td>
+<td class="s5"><a href="http://theneotraditionalist.com/">The Neo-Traditionalist</a></td>
+<td class="s5">Katie Armour</td>
+<td class="s6">
+<div>209,421</div>
+</td>
+<td class="s6">
+<div>9,558</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>246</div>
+</td>
+<td class="s6">
+<div>65,290</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">101</td>
+<td class="s5"><a href="http://www.puglypixel.com/">Pugly Pixel</a></td>
+<td class="s5">Katrina</td>
+<td class="s6">
+<div>245,043</div>
+</td>
+<td class="s6">
+<div>6,947</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,205</div>
+</td>
+<td class="s6">
+<div>36,732</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">102</td>
+<td class="s5"><a href="http://candimandi.typepad.com/">Here&#8217;s Looking At Me Kid</a></td>
+<td class="s5">Amanda Johnson</td>
+<td class="s6">
+<div>610,790</div>
+</td>
+<td class="s6">
+<div>4,587</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,583</div>
+</td>
+<td class="s6">
+<div>22,566</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">103</td>
+<td class="s5"><a href="http://www.finelittleday.com/">Fine Little Day</a></td>
+<td class="s5">Elisabeth Dunker</td>
+<td class="s6">
+<div>479,375</div>
+</td>
+<td class="s6">
+<div>2,728</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>1,848</div>
+</td>
+<td class="s6">
+<div>29,502</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">104</td>
+<td class="s9"><a href="http://orangebeautiful.com/blog/">The Scoop</a></td>
+<td class="s9">Various</td>
+<td class="s6">
+<div>635,856</div>
+</td>
+<td class="s6">
+<div>8,914</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,884</div>
+</td>
+<td class="s6">
+<div>3,188</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">105</td>
+<td class="s9"><a href="http://fortysixthatgrace.blogspot.com/">Forty-Sixth at Grace</a></td>
+<td class="s9">Nikole</td>
+<td class="s6">
+<div>1,572,289</div>
+</td>
+<td class="s6">
+<div>635</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>3,344</div>
+</td>
+<td class="s6">
+<div>65,731</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">106</td>
+<td class="s9"><a href="http://seesawdesigns.blogspot.com/">Seesaw Designs</a></td>
+<td class="s9">Various</td>
+<td class="s6">
+<div>739,608</div>
+</td>
+<td class="s6">
+<div>860</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>4,293</div>
+</td>
+<td class="s6">
+<div>28,943</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">107</td>
+<td class="s5"><a href="http://thecraftingchicks.com/">The Crafting Chicks</a></td>
+<td class="s5">Various</td>
+<td class="s6">
+<div>248,044</div>
+</td>
+<td class="s8">
+<div>26,545</div>
+</td>
+<td class="s7">
+<div>0</div>
+</td>
+<td class="s6">
+<div>3,552</div>
+</td>
+<td class="s6">
+<div>13,353</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">108</td>
+<td class="s5"><a href="http://olivet.squarespace.com/">Olivet</a></td>
+<td class="s5">Mary Stonecypher</td>
+<td class="s6">
+<div>1,803</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>682</div>
+</td>
+<td class="s6">
+<div>18,219</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">109</td>
+<td class="s9"><a href="http://melissaesplin.com/">IS LY</a></td>
+<td class="s9">Melissa Esplin</td>
+<td class="s6">
+<div>258,779</div>
+</td>
+<td class="s6">
+<div>10,649</div>
+</td>
+<td class="s7">
+<div>3</div>
+</td>
+<td class="s6">
+<div>3,594</div>
+</td>
+<td class="s6">
+<div>19,556</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">110</td>
+<td class="s5"><a href="http://aprintaday.blogspot.com/">A Print a Day</a></td>
+<td class="s5">Yasmine Surovec</td>
+<td class=osts/default\42 /\76\n\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Watch Free Movies TV Shows Online Streaming Sites and Best Websites for Free Movies - Atom\42 href\75\42http://blog.buttermouth.com/feeds/6619626593070217730/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var b\75window,f\75\42chrome\42,g\75\42tick\42,k\75\42jstiming\42;(function(){function d(a){this.t\75{};this.tick\75function(a,d,c){var e\75void 0!\75c?c:(new Date).getTime();this.t[a]\75[e,d];if(void 0\75\75c)try{b.console.timeStamp(\42CSI/\42+a)}catch(h){}};this[g](\42start\42,null,a)}var a;b.performance\46\46(a\75b.performance.timing);var n\75a?new d(a.responseStart):new d;b.jstiming\75{Timer:d,load:n};if(a){var c\75a.navigationStart,h\75a.responseStart;0\74c\46\46h\76\75c\46\46(b[k].srt\75h-c)}if(a){var e\75b[k].load;0\74c\46\46h\76\75c\46\46(e[g](\42_wtsrt\42,void 0,c),e[g](\42wtsrt_\42,\42_wtsrt\42,h),e[g](\42tbsd_\42,\42wtsrt_\42))}try{a\75null,\nb[f]\46\46b[f].csi\46\46(a\75Math.floor(b[f].csi().pageT),e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b[f].csi().startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),null\75\75a\46\46b.gtbExternal\46\46(a\75b.gtbExternal.pageT()),null\75\75a\46\46b.external\46\46(a\75b.external.pageT,e\46\0460\74c\46\46(e[g](\42_tbnd\42,void 0,b.external.startE),e[g](\42tbnd_\42,\42_tbnd\42,c))),a\46\46(b[k].pt\75a)}catch(p){}})();b.tickAboveFold\75function(d){var a\0750;if(d.offsetParent){do a+\75d.offsetTop;while(d\75d.offsetParent)}d\75a;750\76\75d\46\46b[k].load[g](\42aft\42)};var l\75!1;function m(){l||(l\75!0,b[k].load[g](\42firstScrollTime\42))}b.addEventListener?b.addEventListener(\42scroll\42,m,!1):b.attachEvent(\42onscroll\42,m);\n })();\74/script\076', 'mobileHeadScript': '', 'adsenseClientId': 'pub-1699188615217351', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/76f25a6f2e06af76', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sf': 'n', 'tf': ''}}, {'name': 'skin', 'data': {'vars': {}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog2', 'titleTag', null, document.getElementById('Blog2'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3586692752-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3586692752-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/2392111094-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar-links', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar1', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar1', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'sidebar2', null, document.getElementById('HTML10'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>11,998</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,181</div>
+</td>
+<td class="s6">
+<div>29,887</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">122</td>
+<td class="s5">Bright Bazaar</td>
+<td class="s5">Will</td>
+<td class="s6">
+<div>558,425</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,488</div>
+</td>
+<td class="s6">
+<div>57,811</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">123</td>
+<td class="s5"><a href="http://acreativemint.typepad.com/">A Creative Mint</a></td>
+<td class="s5">Leslie</td>
+<td class="s6">
+<div>422,747</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>3,029</div>
+</td>
+<td class="s6">
+<div>34,520</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">124</td>
+<td class="s5"><a href="http://pleasesirblog.blogspot.com/">Please Sir</a></td>
+<td class="s5">Diana Martini</td>
+<td class="s6">
+<div>1,426,241</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,035</div>
+</td>
+<td class="s6">
+<div>62,562</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">125</td>
+<td class="s5"><a href="http://housemartin.typepad.com/">Housemartin</a></td>
+<td class="s5">Ink &amp; Peat</td>
+<td class="s6">
+<div>832,078</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,012</div>
+</td>
+<td class="s6">
+<div>35,654</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">126</td>
+<td class="s5"><a href="http://www.martawrites.com/">Marta Writes</a></td>
+<td class="s5">Marta Dansie</td>
+<td class="s6">
+<div>500,529</div>
+</td>
+<td class="s6">
+<div>4,981</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,948</div>
+</td>
+<td class="s6">
+<div>15,394</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">127</td>
+<td class="s5"><a href="http://abbytrysagain.typepad.com/">Abby Try Again</a></td>
+<td class="s5">Abby Powell</td>
+<td class="s6">
+<div>869,300</div>
+</td>
+<td class="s6">
+<div>1,740</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,944</div>
+</td>
+<td class="s6">
+<div>31,110</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">128</td>
+<td class="s9"><a href="http://freshlyblended.blogspot.com/">Freshlyblended</a></td>
+<td class="s9">Nicole</td>
+<td class="s6">
+<div>1,618,598</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>5</div>
+</td>
+<td class="s6">
+<div>2,287</div>
+</td>
+<td class="s6">
+<div>49,934</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">129</td>
+<td class="s11"><a href="http://shimandsons.typepad.com/shimandsons/">Shim + Sons</a></td>
+<td class="s9">Sally Shim</td>
+<td class="s6">
+<div>1,283,755</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>5,815</div>
+</td>
+<td class="s6">
+<div>38,971</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">130</td>
+<td class="s5"><a href="http://color-collective.blogspot.com/">Color Collective</a></td>
+<td class="s5">Lauren Willhite</td>
+<td class="s6">
+<div>573,686</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>3,047</div>
+</td>
+<td class="s6">
+<div>28,659</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">131</td>
+<td class="s5"><a href="http://shannoneileenblog.typepad.com/">Happiness Is&#8230;</a></td>
+<td class="s5">Shannon Eileen</td>
+<td class="s6">
+<div>342,717</div>
+</td>
+<td class="s6">
+<div>3,681</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,238</div>
+</td>
+<td class="s6">
+<div>9,676</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">132</td>
+<td class="s5"><a href="http://www.missmoss.co.za/">Miss Moss</a></td>
+<td class="s5">Diana</td>
+<td class="s6">
+<div>202,038</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>3</div>
+</td>
+<td class="s6">
+<div>1,263</div>
+</td>
+<td class="s6">
+<div>36,893</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">133</td>
+<td class="s5"><a href="http://wrenhandmade.typepad.com/wren_handmade/">Wren Handmade</a></td>
+<td class="s5">Laura Normandin</td>
+<td class="s6">
+<div>1,397,475</div>
+</td>
+<td class="s6">
+<div>1,825</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,107</div>
+</td>
+<td class="s6">
+<div>30,690</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">134</td>
+<td class="s5"><a href="http://www.thompsonfamily.typepad.com/">Thompson Family</a></td>
+<td class="s5">Danielle Thompson</td>
+<td class="s6">
+<div>576,306</div>
+</td>
+<td class="s6">
+<div>9,644</div>
+</td>
+<td class="s7">
+<div>0</div>
+</td>
+<td class="s6">
+<div>2,617</div>
+</td>
+<td class="s6">
+<div>1,650</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">135</td>
+<td class="s9"><a href="http://thebedlamofbeefy.blogspot.com/">The Bedlam of Beefy</a></td>
+<td class="s9">Bradford</td>
+<td class="s6">
+<div>1,106,962</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,721</div>
+</td>
+<td class="s6">
+<div>55,105</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">136</td>
+<td class="s5"><a href="http://youaremyfave.com/blog/">You are My Fave</a></td>
+<td class="s5">Melanie Blodgett</td>
+<td class="s6">
+<div>332,793</div>
+</td>
+<td class="s6">
+<div>5,511</div>
+</td>
+<td class="s7">
+<div>0</div>
+</td>
+<td class="s6">
+<div>1,297</div>
+</td>
+<td class="s6">
+<div>7,163</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">137</td>
+<td class="s5"><a href="http://jaynsarah.blogspot.com/">Welcome to the Good</a></td>
+<td class="s5">Sarah Choi</td>
+<td class="s6">
+<div>614,852</div>
+</td>
+<td class="s6">
+<div>7,266</div>
+</td>
+<td class="s7">
+<div>2</div>
+</td>
+<td class="s6">
+<div>2,218</div>
+</td>
+<td class="s6">
+<div>1,789</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">138</td>
+<td class="s9"><a href="http://katearends.com/blog/">Wit + Delight</a></td>
+<td class="s9">Kate Arends</td>
+<td class="s6">
+<div>449,675</div>
+</td>
+<td class="s6">
+<div>449</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>2,101</div>
+</td>
+<td class="s6">
+<div>328</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">139</td>
+<td class="s5"><a href="http://www.sarahjanestudios.com/blog/">Sarah Jane</a></td>
+<td class="s5">Sarah Jane</td>
+<td class="s6">
+<div>1,061,104</div>
+</td>
+<td class="s6">
+<div>4,709</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>843</div>
+</td>
+<td class="s6">
+<div>19,877</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">140</td>
+<td class="s5"><a href="http://www.aestheticnest.com/">Aesthetic Nest</a></td>
+<td class="s5">Anneliese</td>
+<td class="s6">
+<div>728,430</div>
+</td>
+<td class="s6">
+<div>11,051</div>
+</td>
+<td class="s7">
+<div>2</div>
+</td>
+<td class="s6">
+<div>1,637</div>
+</td>
+<td class="s6">
+<div>3,509</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">141</td>
+<td class="s5"><a href="http://kickcanandconkers.blogspot.com/">Kickcan &amp; Conkers</a></td>
+<td class="s5">Deborah Beau</td>
+<td class="s6">
+<div>878,872</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,316</div>
+</td>
+<td class="s6">
+<div>41,162</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">142</td>
+<td class="s5"><a href="http://design-shimmer.blogspot.com/">Design Shimmer</a></td>
+<td class="s5">Siw Haveland</td>
+<td class="s6">
+<div>603,579</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,119</div>
+</td>
+<td class="s6">
+<div>28,335</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">143</td>
+<td class="s5"><a href="http://www.designtherapy.com/">Design Therapy</a></td>
+<td class="s5">Brad Ford</td>
+<td class="s6">
+<div>1,186,560</div>
+</td>
+<td class="s6">
+<div>671</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,245</div>
+</td>
+<td class="s6">
+<div>36,112</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">144</td>
+<td class="s9"><a href="http://sandrajuto.blogspot.com/">Sandra Juto</a></td>
+<td class="s9">Sandra Juto</td>
+<td class="s6">
+<div>526,021</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>0</div>
+</td>
+<td class="s6">
+<div>1,827</div>
+</td>
+<td class="s6">
+<div>41,248</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">145</td>
+<td class="s5"><a href="http://twostraightlines.typepad.com/two_straight_lines/">Two Straight Lines</a></td>
+<td class="s5">Courtney</td>
+<td class="s6">
+<div>2,058,791</div>
+</td>
+<td class="s6">
+<div>909</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>1,846</div>
+</td>
+<td class="s6">
+<div>29,748</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">146</td>
+<td class="s5"><a href="http://bforbonnie.wordpress.com/">B for Bonnie</a></td>
+<td class="s5">Bonnie Tsang</td>
+<td class="s6">
+<div>700,015</div>
+</td>
+<td class="s6">
+<div>856</div>
+</td>
+<td class="s7">
+<div>4</div>
+</td>
+<td class="s6">
+<div>634</div>
+</td>
+<td class="s6">
+<div>24,482</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">147</td>
+<td class="s5"><a href="http://stylizimo.blogspot.com/">Stylizimo</a></td>
+<td class="s5">Nina Holst</td>
+<td class="s8">
+<div>431,743</div>
+</td>
+<td class="s6">
+<div>0</div>
+</td>
+<td class="s7">
+<div>2</div>
+</td>
+<td class="s6">
+<div>1,696</div>
+</td>
+<td class="s6">
+<div>20,637</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">148</td>
+<td class="s5"><a href="http://www.thejealouscurator.com/blog/">The Jealous Curator</a></td>
+<td class="s5">Anonymous</td>
+<td class="s6">
+<div>707,610</div>
+</td>
+<td class="s6">
+<div>1,190</div>
+</td>
+<td class="s7">
+<div>3</div>
+</td>
+<td class="s6">
+<div>1,658</div>
+</td>
+<td class="s6">
+<div>24,064</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">149</td>
+<td class="s5"><a href="http://www.domestifluff.com/">Domestifluff</a></td>
+<td class="s5">Kristen</td>
+<td class="s6">
+<div>927,203</div>
+</td>
+<td class="s6">
+<div>7,330</div>
+</td>
+<td class="s7">
+<div>3</div>
+</td>
+<td class="s6">
+<div>1,298</div>
+</td>
+<td class="s6">
+<div>6,257</div>
+</td>
+</tr>
+<tr class="tblGenFixed">
+<td class="s4">150</td>
+<td class="s9"><a href="http://chezlarsson.typepad.com/">Chez Larsson</a></td>
+<td class="s9">Chez Larsson</td>
+<td class="s6">
+<div>1,497,437</div>
+</td>
+<td class="s6">
+<div>1,793</div>
+</td>
+<td class="s7">
+<div>2</div>
+</td>
+<td class="s6">
+<div>3,533</div>
+</td>
+<td class="s6">
+<div>11,623</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>LEGEND</h3>
+<p><a href="http://www.alexa.com/" target="_blank">Alexa Rank</a><br />
+Alexa’s traffic rankings are based on the usage patterns of Alexa Toolbar users and data collected from other, diverse sources over a rolling 3 month period. A site’s ranking is based on a combined measure of reach and pageviews. Reach is determined by the number of unique Alexa users who visit a site on a given day. Pageviews are the total number of Alexa user URL requests for a site. However, multiple requests for the same URL on the same day by the same user are counted as a single pageview. The site with the highest combination of users and pageviews is ranked #1.<br />
+<a href="http://www.compete.com/help/q5" target="_blank">Compete Visitors</a><br />
+The number of unique visitors that visited the website in August 2010 according to Compete.<br />
+<a href="http://en.wikipedia.org/wiki/PageRank" target="_blank">Google PageRank</a><br />
+PageRank relies on the uniquely democratic nature of the web by using its vast link structure as an indicator of an individual page’s value. In essence, Google interprets a link from page A to page B as a vote, by page A, for page B. But, Google looks at more than the sheer volume of votes, or links a page receives; it also analyzes the page that casts the vote. Votes cast by pages that are themselves “important” weigh more heavily and help to make other pages “important.”<br />
+<a href="http://www.google.com/reader" target="_blank">Google Reader Subscribers</a><br />
+The number of Google Reader users that subscribe to each blog. Note: this is not total RSS subscribers but rather how many Google Reader users subscribe to each blog.<br />
+<a href="https://siteexplorer.search.yahoo.com/" target="_blank">Yahoo Inlinks</a><br />
+The number of links going to a blog’s entire site but excluding all self-linking links.</p>
+<h3>HOW THE LIST IS COMPUTED</h3>
+<p>1. Several hundred blogs are reviewed in a preliminary screening to determine if their statistics are competitive enough to be ranked.<br />
+2. 225 blogs were selected to be ranked.<br />
+3. Data is collected for each blog from all 5 measured criteria (i.e., Alexa Rank, Compete Visitors, Google PageRank, Google Reader Subscribers, and Yahoo Inlinks).<br />
+4. For each of the 5 measured criteria, each blog is ranked in comparison to all other blogs being evaluated.<br />
+5. A composite rank for each blog is determined by averaging each blogs ranking from the 5 measured criteria.<br />
+6. The top blogs are published.</p>
+<h3><strong>EMBED A BADGE.</strong></h3>
+<p>Want to brag about your rank or give some link love to the Top 150 Makers Blogs list? Embed the badge at the bottom of this page on your website.</p>
+<form><textarea name="badgecode">&lt;!–Top Blogs Badge –&gt;</textarea><br />
+<a href="http://evie-s.com/news/top-150-makers-blog-list/"><img style="border: none;" alt="" src="http://www.evie-s.com/images/makers_button.jpg" /></a></form>
+
+	    <div class="clear"></div>
+
+	    	</div><!-- END .post-content -->
+
+    <div class="clear"></div>
+</div><!-- #post-## -->
+
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

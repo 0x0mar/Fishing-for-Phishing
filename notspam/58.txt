@@ -1,0 +1,155 @@
+.chromestyle{
+
+width: 100%;
+
+font-weight: bold;
+
+}
+
+
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+
+content: "."; 
+
+display: block; 
+
+height: 0; 
+
+clear: both; 
+
+visibility: hidden;
+
+}
+
+
+
+.chromestyle ul{
+
+
+width: 100%;
+
+font-family:Arial, Helvetica, sans-serif;
+
+font-color:#0000FF;
+
+font-size:16px;
+
+background: url(http://www.buttermouth.com/chrometheme/chromebg.gif) center center repeat-x; /*THEME CHANGE HERE*/
+
+padding: 4px 0;
+
+margin: 0;
+
+text-align: center; /*set value to "left", "center", or "right"*/
+
+}
+
+
+
+.chromestyle ul li{
+
+font-color:#FFFFFF;
+
+display: inline;
+
+}
+
+
+
+.chromestyle ul li a{
+
+color: #666666;
+
+padding: 4px 7px;
+
+margin: 0;
+
+text-decoration: none;
+z-index:1;
+
+
+}
+
+
+
+.chromestyle ul li a:hover, .chromestyle ul li a.selected{ /*script dynamically adds a class of "selected" to the current active menu item*/
+
+background: url(http://www.buttermouth.com/chrometheme/chromebg-over.gif) center center repeat-x; /*THEME CHANGE HERE*/
+
+}
+
+
+
+/* ######### Style for Drop Down Menu ######### */
+
+
+
+.dropmenudiv{
+
+position:absolute;
+
+top: 0;
+
+ /*THEME CHANGE HERE*/
+
+border-bottom-width: 0;
+
+font-family:Arial, Helvetica, sans-serif;
+
+line-height:18px;
+
+color:#000000;
+
+z-index:100;
+
+background-color: white;
+
+width: 250px;
+
+visibility: hidden;
+
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4); /*Add Shadow in IE. Remove if desired*/
+
+}
+
+
+
+
+
+.dropmenudiv a{
+
+width: auto;
+
+display: block;
+
+text-indent: 3px;
+
+
+padding: 2px 0;
+
+text-decoration: none;
+
+font-family:Arial, Helvetica, sans-serif;
+
+font-size:10px;
+
+color: black;
+
+}
+
+
+
+* html .dropmenudiv a{ /*IE only hack*/
+
+width: 100%;
+
+}
+
+
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+
+background-color: #FFFFCC;
+
+}

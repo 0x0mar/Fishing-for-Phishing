@@ -1,0 +1,656 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>May | 2011 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>May 2011</span>	</h2>	
+		<div id="post-2324" class="post-2324 post type-post status-publish format-standard hentry category-art category-interviews">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/30/artist-spotlight-judy-kaufmann/" rel="bookmark" title="Permalink to Artist Spotlight: Judy Kaufmann">Artist Spotlight: Judy Kaufmann</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 30, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/30/artist-spotlight-judy-kaufmann/#comments">0 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>A couple weeks ago I got an email from Barcelona based artist, <a href="http://www.kaufmannillustration.com/" target="_blank">Judy Kaufmann,</a> sharing her beautiful illustrations. She was so sweet to send me <a href="http://www.etsy.com/listing/66622731/peacock-and-friends-print" target="_blank">one of her prints</a> to enjoy. The Peacock and Friends print is now cozily framed in my dining room. I absolutely love it, and it&#8217;s just the pop of color I wanted in that space! She also graciously answered a few of my questions. You know how I love picking artists&#8217; brains! Her beautiful home was recently <a href="http://www.designspongeonline.com/2011/02/sneak-peek-judy-kaufmann.html" target="_blank">featured on Design Sponge</a> &#8211; I always love seeing a peek into creative spaces. Check out <a href="http://printandprints.blogspot.com/" target="_blank">her blog</a> and <a href="http://www.etsy.com/shop/Judykaufmann?ref=pr_shop" target="_blank">etsy shop</a> too!</p>
+<p><img class="alignnone size-full wp-image-2325" title="judykaufmann4" src="http://evie-s.com/news/wp-content/uploads/2011/05/judykaufmann4.jpg" alt="" width="571" height="553" /></p>
+<p><strong>1. You are an artist. That title means many things to different people. What does it mean to you?</strong><br />
+There are lots of artists that adopt some ridiculous personality I don&#8217;t share at all, so if someone calls me &#8220;artist&#8221; I try to escape automaticly from that label. I like people who live the normal life inspired by things that maybe others don&#8217;t see or don&#8217;t ask, busy on things that are out of the ordinary. Those are the artists I like.<br />
+<img class="alignnone size-full wp-image-2326" title="judykaufmann" src="http://evie-s.com/news/wp-content/uploads/2011/05/judykaufmann.jpg" alt="" width="571" height="406" /></p>
+<p><img class="alignnone size-full wp-image-2328" title="judykaufmann2" src="http://evie-s.com/news/wp-content/uploads/2011/05/judykaufmann2.jpg" alt="" width="571" height="406" /></p>
+<p><strong>2. What challenges have you overcome as an artist?</strong><br />
+To discover exactly what I didn&#8217;t like to do (more than what I would like) and from that, live from what I most like to do in life!</p>
+<p><img class="alignnone size-full wp-image-2327" title="judykaufmann3" src="http://evie-s.com/news/wp-content/uploads/2011/05/judykaufmann3.jpg" alt="" width="571" height="386" /></p>
+<p><strong>3. Tell us something random or quirky about yourself.</strong><br />
+I&#8217;m an identical twin and some time ago I dedicated <a href="http://www.etsy.com/listing/61053756/identical-twins-print" target="_blank">a print to my sister</a>. My sister once met the twin sister of a friend. They talked a bit but they were confused, none had ever seen each other. Apart from drawing, I love swimming.</p>
+<p>[Thank you Judy! ]</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2317" class="post-2317 post type-post status-publish format-standard hentry category-art category-diy category-interior-design">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/27/an-art-makeover/" rel="bookmark" title="Permalink to An Art Makeover">An Art Makeover</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 27, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/27/an-art-makeover/#comments">7 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Hi there! I completed a project this week I thought I&#8217;d share. At my old house, there were these great vintage oil paintings by a Vietnamese artist in their original frames. It was a set of two, and this one in particular I wasn&#8217;t really a fan of, but I loved the frame. So I decided to give it a makeover.</p>
+<p><img class="alignnone size-full wp-image-2318" title="redo1" src="http://evie-s.com/news/wp-content/uploads/2011/05/redo1.jpg" alt="" width="571" height="381" /></p>
+<p>I taped off the edges to paint the widest part of the frame a very light mint color.</p>
+<p><img class="alignnone size-full wp-image-2319" title="redo2" src="http://evie-s.com/news/wp-content/uploads/2011/05/redo2.jpg" alt="" width="571" height="381" /></p>
+<p>Then I took off the back cover of the frame and just stretched some new white cotton canvas fabric over it. I secured it to the back of the frame with a heavy duty staple gun. Then I just created fabric flowers <a href="http://grosgrainfabulous.blogspot.com/2009/09/poppy-boutonniere-tutorial-and-giveaway.html" target="_blank">using this concept</a> (but made mine slightly flatter) and hot glued them on. Very simple! I love the results.</p>
+<p><img class="alignnone size-full wp-image-2320" title="redo3" src="http://evie-s.com/news/wp-content/uploads/2011/05/redo3.jpg" alt="" width="571" height="462" /></p>
+<p>It will give my otherwise flat wall some dimension.</p>
+<p><img class="alignnone size-full wp-image-2321" title="redo4" src="http://evie-s.com/news/wp-content/uploads/2011/05/redo4.jpg" alt="" width="571" height="855" /></p>
+<p>What projects have you been up to this summer?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2187" class="post-2187 post type-post status-publish format-standard hentry category-about-me category-art category-change">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/" rel="bookmark" title="Permalink to Please, Steal My Ideas">Please, Steal My Ideas</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 21, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/#comments">73 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><img class="alignnone size-full wp-image-3325" title="please" src="http://evie-s.com/news/wp-content/uploads/2011/05/please6.jpg" alt="" width="602" height="400" /></p>
+<p>No, I&#8217;m serious. I&#8217;m not being sarcastic or facetious. I love seeing my ideas used in other places. I love it when people build off them and create their own beautiful things. Let me explain further.</p>
+<p>I believe art and creativity should be:</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe1.png" rel="image_group"><img class="alignnone size-full wp-image-3327" title="artshouldbe1" src="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe1.png" alt="" width="602" height="113" /></a></p>
+<p>The topic of being generous with art has been on my mind a lot lately. I believe anything good is worth giving away &#8211; that includes ideas, art, beauty, design &#8211; I believe it should be shared. I&#8217;m tired of stingy artists. I&#8217;m tired of artists laying claim on a certain idea they had, and possessing it in such a way that no one feels like they can reproduce it. I&#8217;m tired of the inconsistencies. We steal ideas from others and boast about it, but then get mad if someone does it to us.</p>
+<blockquote><p>A creator is neither a slave nor a master, he is one who gives, and gives abundantly. -Berdyaev (via my brother, <a href="http://www.nbny.co" target="_blank">Jason</a>)</p></blockquote>
+<p><img class="alignnone size-full wp-image-3329" title="artshouldbe2" src="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe2.png" alt="" width="602" height="113" /></p>
+<p>C&#8217;mon, be honest and admit it. You&#8217;ve copied someone else at some point  in time. I know I have. As a graphic designer just starting out, I  copied what other people were doing. It made my own skills better and  helped me discover my own voice as an artist. The point is not to stay  there. It&#8217;s to grow and begin to discover your own originality and  uniqueness. My friend, Promise, <a href="http://www.promisetangemanblog.com/resources/copy-cats" target="_blank">has a great post</a> about that.</p>
+<p>It is a shame when people  intentionally steal other  people&#8217;s work down to the very detail in order  to make a profit. There  are many reasons this is wrong, and they are  obvious so I won&#8217;t go into  them all.</p>
+<p><img class="alignnone size-full wp-image-3330" title="artshouldbe3" src="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe3.png" alt="" width="602" height="113" /></p>
+<p>If you steal an idea from somewhere else, you should definitely NOT try and pass it as your own original idea. Credit MUST be given. This keeps you honest, and it keeps the person you are stealing from from potentially being hurt emotionally or economically. Respecting other artists is key and actually keeps you from harmful stealing.</p>
+<blockquote><p>“Nothing is original. Steal from anywhere that resonates with   inspiration or fuels your imagination. Devour old films, new films,   music, books, paintings, photographs, poems, dreams, random   conversations, architecture, bridges, street signs, trees, clouds,   bodies of water, light and shadows. Select only things to steal from   that speak directly to your soul. If you do this, your work (and theft)   will be authentic. Authenticity is invaluable; originality is   nonexistent.”—Jim Jarmusch</p></blockquote>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe4.png" rel="image_group"><img class="alignnone size-full wp-image-3331" title="artshouldbe4" src="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe4.png" alt="" width="602" height="113" /></a></p>
+<p>You should remain humble in any type of art that you produce. Creativity flows through us, we are not the Author of it. We are merely the vessels to get it out there &#8211; to make something from nothing is god-like. We are like God in that way, and that is humbling. If I&#8217;ve learned something about my creativity this year, it&#8217;s that I can&#8217;t take credit for it. I know it comes from a higher Source.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe5.png" rel="image_group"><img class="alignnone size-full wp-image-3332" title="artshouldbe5" src="http://evie-s.com/news/wp-content/uploads/2011/05/artshouldbe5.png" alt="" width="602" height="113" /></a></p>
+<blockquote><p>“It’s not where you take things from—it’s where you take them to.”— Jean-Luc Godard</p></blockquote>
+<p>I loved this article I came across recently, <a href="http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/" target="_blank">How to Steal Like an Artist</a>. In it, Austin says, &#8220;You are, in fact, a mashup of what you choose to let into your life. You are the sum of your influences. The German writer Goethe said, “We are shaped and fashioned by what we love.” The artist is a collector. They only collect things that they really love.&#8221;</p>
+<blockquote><p>“Every idea is a juxtaposition. That’s it. A juxtaposition of existing concepts.”— Steven Grant</p></blockquote>
+<p>We should be inspired by other artists. Producing derivative works and building off existing art is what makes art grow.</p>
+<p>Nothing is original anyway. Twyla Tharp says, &#8220;Baby, it&#8217;s all been done   before.&#8221; There have been several instances I&#8217;ve found this to be true  in  my own creating.</p>
+<p>A year ago I had an idea to make something. I was truly impressing myself with my original idea. Then a few weeks later I found a friend that had posted about the exact same idea. Boy, did I ever feel silly. That&#8217;s when I truly realized &#8211; People CAN have the same ideas. It&#8217;s dangerous to see someone&#8217;s work and automatically assume they&#8217;ve copied.</p>
+<p>It seems like artists all over are sort of paranoid about unintentional piracy of another artists work. Even I will go Google something and make sure no one has done it before so I won&#8217;t be accused of copying. This is a real shackle to the creative community. A young Helen Keller was accused in 1892 of plagiarizing Margaret T. Canby&#8217;s story <em>The Frost Fairies</em> in her short story <em>The Frost King</em>. She was brought before a tribunal, where she was acquitted by a single vote. She said she was worried she may have read <em>The Frost Fairies</em> and forgotten it, &#8220;remained paranoid about plagiarism ever after&#8221; and said that this led her to write an autobiography: the one thing she knew must be original. (<a href="http://en.wikipedia.org/wiki/List_of_plagiarism_controversies">source</a>)</p>
+<p>The art and creative community should be just that, a community. A  brotherhood, or sisterhood. As <a href="http://www.messycanvas.com/2009/07/copy-cat/" target="_blank">my friend has said</a>, our claws shouldn&#8217;t come out if someone else  is using our idea.</p>
+<p>So please, steal my ideas. Steal my artwork and designs. Copy my stuff. Copy my blog layout. Steal my projects, make them yours. I really don&#8217;t  mind. I hope it builds you as an artist to find your own original ideas and builds the creative community towards a more giving, sharing place.</p>
+<h5>{ Except where otherwise noted, all quotes via <a href="http://viaver.tumblr.com/post/1176859307/plagiarism-an-interesting-compilation-of" target="_blank">Olivia Verdugo }</a></h5>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2286" class="post-2286 post type-post status-publish format-standard hentry category-diy category-fashion tag-bracelet tag-diy tag-metallic tag-sequins">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/17/diy-sequins-bracelet/" rel="bookmark" title="Permalink to DIY Sequins &amp; Bracelet">DIY Sequins &#038; Bracelet</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 17, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/17/diy-sequins-bracelet/#comments">9 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Hi all! This project has been in my head for weeks, maybe months. I finally got around to creating a tutorial for it. With this project you can make your own sequins and a cute summery bracelet with just a few supplies.</p>
+<p><img class="alignnone size-full wp-image-2288" title="sequin" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequin.jpg" alt="" width="571" height="549" /></p>
+<p>Here&#8217;s what you need:</p>
+<ul>
+<li>Hemp cord &#8211; I got mine from the dollar store (or other cord)</li>
+<li>Glossy Photo paper</li>
+<li>hole punch in 2 different sizes &#8211; standard and a 1/16 punch (Fiskars makes both)</li>
+<li>metallic paint</li>
+</ul>
+<p><img class="alignnone size-full wp-image-2289" title="sequin1" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequin1.jpg" alt="" width="571" height="447" /></p>
+<p><strong>Step 1:</strong> Paint your photo paper on the glossy side with your metallic paint. It doesn&#8217;t have to be perfect! Let dry.</p>
+<p><img class="alignnone size-full wp-image-2290" title="sequin2" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequin2.jpg" alt="" width="571" height="380" /></p>
+<p><strong>Step 2:</strong> Start by punching holes with your 1/16 punch evenly spaced.</p>
+<p><img class="alignnone size-full wp-image-2291" title="sequin3" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequin3.jpg" alt="" width="571" height="380" /></p>
+<p><strong>Step 3:</strong> Next, take your standard hole punch a center the punch over the tiny punches you just made. Repeat this until you have your desired amount of sequins.</p>
+<p><img class="alignnone size-full wp-image-2292" title="sequin4" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequin4.jpg" alt="" width="571" height="380" /></p>
+<p><strong>Step 4:</strong> Cut a length of cord long enough to wrap around your wrist three times (this gives you plenty of length to wrap the bracelet around your wrist twice, and make your finishing knots). Thread your new sparkly sequins onto your cord. Using <a href="http://www.youtube.com/watch?v=0NN9loNl9PA" target="_blank">this tutorial</a>, create sliding knots on your bracelet.  Try not to laugh as she talks about how wearing big beads can hurt you when you hug someone. :)</p>
+<p><img class="alignnone size-full wp-image-2293" title="sequins5" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequins5.jpg" alt="" width="571" height="447" /></p>
+<p><img class="alignnone size-full wp-image-2298" title="sequins6" src="http://evie-s.com/news/wp-content/uploads/2011/05/sequins61.jpg" alt="" width="571" height="348" /></p>
+<p>Wear your new bracelet. The sliding knots make it super easy to put on and take off. You could also try different color sequins. Please let me know if you try it and I love seeing pictures too!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2277" class="post-2277 post type-post status-publish format-standard hentry category-change category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/09/my-mothers-day-gift/" rel="bookmark" title="Permalink to My Mother&#8217;s Day Gift">My Mother&#8217;s Day Gift</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 9, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/09/my-mothers-day-gift/#comments">6 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I hope you had a wonderful mother&#8217;s day weekend. I enjoyed mine thoroughly. My sweet husband granted my one and only mother&#8217;s day wish &#8211; a root beer float, homemade of course so I can enjoy seconds. My little Abe also gave me a great gift&#8230;he took his first steps!</p>
+<p>But, while I enjoyed my kids greatly, the highlight of my weekend was spending time with a handful of women through an outreach with <a href="http://www.thesperoproject.com" target="_blank">Spero Project</a> &#8211; a local ministry that helps many people in my community. I blogged about a few weeks ago about a <a href="http://evie-s.com/news/2011/04/22/craft-night-for-spero-project/">Craft Night</a> that I wanted to organize to make gifts for the mother&#8217;s in Spero&#8217;s international refugee program. So last week, a group of girls gathered together for one evening at <a href="http://www.cafeevoke.com/" target="_blank">Cafe Evoke</a>, fabric and glue guns flying through the air as we made gifts for precious women we had never met.</p>
+<p><img class="alignnone size-full wp-image-2278" title="spero1" src="http://evie-s.com/news/wp-content/uploads/2011/05/spero1.jpg" alt="" width="571" height="855" /></p>
+<p>It was a fun night with several friends, including Mandy Steward of <a href="http://www.messycanvas.com/" target="_blank">Messy Canvas</a> (who I <a href="http://evie-s.com/news/2010/05/05/creative-mom-interview-mandy-steward/">interviewed last year</a>), Kasie, a new friend <a href="http://www.theartoflifeblog.com/" target="_blank">and artist</a>, and Kelly Beall of <a href="http://www.designcrushblog.com/" target="_blank">Design Crush</a>. I was super excited to meet Kelly since I made her acquaintance years ago in the blog world, and she was so fun AND funny, and totally excited about the cause.</p>
+<p><img class="alignnone size-full wp-image-2280" title="spero3" src="http://evie-s.com/news/wp-content/uploads/2011/05/spero3.jpg" alt="" width="571" height="417" /></p>
+<p>I decided on a pretty simple fabric flower with a button in the middle. Very easy to make, following <a href="http://www.designspongeonline.com/2009/12/party-flower.html" target="_blank">this tutorial</a>, but instead of sewing everything together, we took the easy route and hot glued em all. I think they turned out beautifully, the girls did such a great job.</p>
+<p><img class="alignnone size-full wp-image-2279" title="spero2" src="http://evie-s.com/news/wp-content/uploads/2011/05/spero2.jpg" alt="" width="571" height="381" /></p>
+<p>My little family and 4 others arrived to be a part of the event. Beforehand, I learned that the majority of the refugees in the program are from Burma, Iraq and Africa. They&#8217;ve fled their homes due to well-founded fears of persecution for their race, political opinions or religion. For most refugees, the only hope for a life free of persecution is resettlement in another country. So these families have been placed here by <a href="http://www.catholiccharitiesok.org" target="_blank">Catholic Charities</a> to begin a new life in the United States. Spero helps in many ways by providing for basic needs, teaching English classes, job skills, and giving them lots of social interaction and help adjusting to a new way of life.</p>
+<p><img class="alignnone size-full wp-image-2282" title="spero6" src="http://evie-s.com/news/wp-content/uploads/2011/05/spero6.jpg" alt="" width="571" height="614" /></p>
+<p>The event was simple and beautiful. We enjoyed brunch together and letting them pick out their gifts. Most of them had never celebrated a Mother&#8217;s Day before, so the idea of having an entire day to honor their role was a very new concept.</p>
+<p><img class="alignnone size-full wp-image-2281" title="spero5" src="http://evie-s.com/news/wp-content/uploads/2011/05/spero5.jpg" alt="" width="571" height="855" /></p>
+<p>Looking at these brave women, you would never guess the hardships or treacherous situations they&#8217;ve had to endure. They were nurturing, happy and strong. One woman in particular I got to talk to was from war-torn Sudan. She&#8217;s been here in the U.S. for 6 years with her husband and three children. I asked her if it&#8217;s gotten any easier. She said, yes it had gotten easier, that she&#8217;d finally learned English well in order to communicate, but it&#8217;s still very hard. I could see it in her eyes, even through the smile she warmly shared. It didn&#8217;t take me long to realize these women probably had more of a gift to offer to me &#8211; I realized that the gift was perspective. Perspective, and an opportunity to grow and learn.</p>
+<p><img class="alignnone size-full wp-image-2283" title="spero7" src="http://evie-s.com/news/wp-content/uploads/2011/05/spero7.jpg" alt="" width="571" height="614" /></p>
+<p>So thank you ladies, for the gift you gave me. Thank you for being inspiring and strong. Thank you for letting us be a part of your very first Mother&#8217;s Day.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2247" class="post-2247 post type-post status-publish format-standard hentry category-interviews category-motherhood tag-michelle-dupont tag-photography">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/06/creative-mom-interview-michelle-dupont/" rel="bookmark" title="Permalink to Creative Mom Interview: Michelle Dupont">Creative Mom Interview: Michelle Dupont</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 6, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/06/creative-mom-interview-michelle-dupont/#comments">5 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><img class="alignnone size-full wp-image-2275" title="michelle" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle9.jpg" alt="" width="571" height="268" /></p>
+<p>Michelle and I connected online a couple of years ago. I was immediately drawn into <a href="http://michelledupont.com.au" target="_blank">her work</a>. She&#8217;s an amazing photographer, probably my favorite&#8230;and I don&#8217;t say that lightly. I had a lot of trouble narrowing down images to go in this article! This mom of six (yes, six!) is also a very gifted crafter, knitter and writer. <a href="http://twoandsix.typepad.com" target="_blank">Her blog</a> is one of the few I read every single word of. I hope you are as inspired by her as I am!</p>
+<p><img class="alignnone size-full wp-image-2263" title="michelle1" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle1.jpg" alt="" width="571" height="570" /></p>
+<p><strong>1. Does motherhood fuel your creativity? If so, in what ways?</strong></p>
+<p>Motherhood definitely fuels my creativity.  Although my mother taught me at a very young age to knit and crochet, it wasn&#8217;t until my first child was born that I totally fell in love with making things by hand.  My first project was a hand pieced and stitched quilt for my son&#8217;s bassinet &#8211; to be able to make something for someone I loved was an amazing feeling &#8211; I was hooked!  That feeling has stayed with my over the years &#8211; each piece I create is make with love, and knowing that someone else is wearing and enjoying my is simply wonderful.</p>
+<p><img class="alignnone size-full wp-image-2264" title="michelle2" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle2.jpg" alt="" width="571" height="320" /></p>
+<p>My children are a constant source of encouragement and support &#8211; they give me feedback about new ideas and prototypes.  I get lots of &#8220;oh, you&#8217;re so clever mum&#8221; and &#8220;that&#8217;s so pretty mummy&#8221;!  They make me smile.  They are also gorgeous  models too :-)</p>
+<p><img class="alignnone size-full wp-image-2265" title="michelle3" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle3.jpg" alt="" width="571" height="381" /></p>
+<p><img class="alignnone size-full wp-image-2270" title="michelle7" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle7.jpg" alt="" width="571" height="381" /></p>
+<p><strong>2. What challenges have you overcome as a mother? As an artist?</strong></p>
+<p>My biggest challenge has been time management.  First and foremost my children, and my role as a mother is my priority.  As an artist I have had to find creative ways of satisfying my need to create and indulge my passions without neglecting my other responsibilities.  I&#8217;ve also had to make a choice to keep my <a href="http://www.etsy.com/shop/twoandsix" target="_blank">&#8216;twoandsix&#8217; business</a> relatively small for now.  Because each piece is totally handmade, it&#8217;s incredibly time consuming and if I didn&#8217;t set limits it could easily take over my life!</p>
+<p><img class="alignnone size-full wp-image-2266" title="michelle4" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle4.jpg" alt="" width="571" height="379" /></p>
+<p><img class="alignnone size-full wp-image-2269" title="michelle5" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle5.jpg" alt="" width="571" height="381" /></p>
+<p><strong>3. You have six children, how do you find time to create?</strong></p>
+<p>The majority of my creating happens after the sun goes down and little people are snuggled up in bed.  During the day I (try!) to balance taking care of my children and home, and working on my photography business.  However, I am constantly being inspired by the simple, precious things in my life.  I make lots of notes, take lots of photographs, and collect treasures -  then develope and work on those ideas during quieter moments in the evenings.  My hands are never idle, i can&#8217;t bear to sit and do nothing!</p>
+<p><img class="alignnone size-full wp-image-2267" title="michelle6" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle6.jpg" alt="" width="571" height="375" /></p>
+<p><strong>4. What are your mother&#8217;s day wishes?</strong></p>
+<p>A sleep-in would be divine!!  Followed by a long brunch, and then a relaxing day at home with my family.  A little bit of chocolate would be nice too :-)</p>
+<p><img class="alignnone size-full wp-image-2268" title="michelle8" src="http://evie-s.com/news/wp-content/uploads/2011/05/michelle8.jpg" alt="" width="571" height="380" /></p>
+<p>Thank you Michelle! I hope your mother&#8217;s day wishes come true.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2243" class="post-2243 post type-post status-publish format-standard hentry category-interviews category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/05/creative-mom-interview-suann-of-simplesong/" rel="bookmark" title="Permalink to Creative Mom Interview: Suann of Simplesong">Creative Mom Interview: Suann of Simplesong</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 5, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/05/creative-mom-interview-suann-of-simplesong/#comments">2 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I&#8217;ve long been a fan of Suann&#8217;s simple and beautiful aesthetic, and she has such impeccable taste. So I was thrilled that she agreed to answer my questions about creativity and motherhood. Be inspired!</p>
+<p><img class="alignnone size-full wp-image-2250" title="suann" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann.jpg" alt="" width="571" height="268" /></p>
+<p><strong>1. Tell us about yourself.</strong><br />
+I&#8217;m Suann of <a href="http://simplesongdesign.com/" target="_blank">SIMPLESONG Design</a>.  I write two blogs, <a href="http://simplesong.typepad.com/home/" target="_blank">simplesong</a> and <a href="http://hiphiphoorayblog.com/" target="_blank">Hip Hip Hooray</a>; I have a letterpress and design studio; and I&#8217;m a wife and mom to our son 4 1/2 year-old son, Ike.  We live near Washington, DC and in the last four years I&#8217;ve been pretty much living my dream &#8211; becoming a mom and also having a thriving, creative business.  Though at times I wish for a little more sleep and less craziness of running around, I really wouldn&#8217;t change a thing!</p>
+<p><img class="alignnone size-full wp-image-2251" title="suann1" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann1.jpg" alt="" width="571" height="378" /></p>
+<p><strong>2. What is your favorite creative activity with your son?</strong><br />
+We love to draw together &#8211; sidewalk chalk, little scribbles on napkins or creating a big poster.  He&#8217;s getting to the age (4 1/2) where you can see him really express himself in his drawings.  Its so fun to watch.</p>
+<p><img class="alignnone size-full wp-image-2252" title="suann3" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann3.jpg" alt="" width="571" height="250" /></p>
+<p><strong>3. What are some ways you stay inspired?</strong><br />
+Fortunately, I share my studio space with some very inspiring friends and business collaborators (<a href="http://www.thehiveat1511.com/" target="_blank">The Hive at 1511</a>).  They are a constant source of inspiration (and energy! : ).   Blogs and sites like <a href="http://pinterest.com/simplesong/" target="_blank">Pinterest</a> are also a great source.  But mostly I just try to take some time to look around.  That&#8217;s when I get most inspired &#8212; I just have to remember to jot it down so I don&#8217;t forget!</p>
+<p><img class="alignnone size-full wp-image-2253" title="suann2" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann2.jpg" alt="" width="571" height="423" /></p>
+<p><strong>4. What are some challenges you&#8217;ve overcome as a mother? As a designer?</strong><br />
+As a mom, the biggest challenge is juggling everything and doing everything well.  Its not easy and is a constant struggle. As a designer, staying inspired can be tough. Especially when a lot of work time comes at the end of the day.  Some times those quiet nights can be inspiring but often times you&#8217;re just tired.  So, I make it a priority to not work past a certain time and always take little breaks.  It helps!</p>
+<p><img class="alignnone size-full wp-image-2254" title="suann6" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann6.jpg" alt="" width="571" height="249" /></p>
+<p><img class="alignnone size-full wp-image-2255" title="suann7" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann7.jpg" alt="" width="571" height="365" /></p>
+<p><strong>5. What are your mother’s day wishes?</strong><br />
+No big wishes &#8211; just a little down time with my son and husband.  A lot of my work revolves around weddings &#8212; and we&#8217;re at the height of wedding season (!) so its hard to take time off around this time&#8230;.so, a quiet picnic or an afternoon out sounds just perfect : ).</p>
+<p><img class="alignnone size-full wp-image-2256" title="suann5" src="http://evie-s.com/news/wp-content/uploads/2011/05/suann5.jpg" alt="" width="552" height="407" /></p>
+<p>Thank you Suann!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2232" class="post-2232 post type-post status-publish format-standard hentry category-interviews category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/04/creative-mom-interview-jordan-of-oh-happy-day/" rel="bookmark" title="Permalink to Creative Mom Interview: Jordan of Oh Happy Day">Creative Mom Interview: Jordan of Oh Happy Day</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 4, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/04/creative-mom-interview-jordan-of-oh-happy-day/#comments">4 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><img class="alignnone size-full wp-image-2233" title="jordan" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan.jpg" alt="" width="571" height="268" /></p>
+<p>Jordan of <a href="http://jordanferney.blogspot.com">Oh Happy Day</a> is a San Francisco based party planner and letterpress printer. She recently packed up her family of four, put things in storage and moved to Paris for a year. She is a pretty much a genius when it comes to creative party ideas, and I love her design style. Enjoy!</p>
+<p><img class="alignnone size-full wp-image-2234" title="jordan0" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan0.jpg" alt="" width="571" height="425" /></p>
+<p><strong>1. Does motherhood fuel your creativity? If so, in what ways?</strong></p>
+<p>Yes, in some ways. I work best with deadlines and having children gives me limited amounts of time do work in.</p>
+<p><img class="alignnone size-full wp-image-2236" title="jordan1" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan11.jpg" alt="" width="571" height="425" /></p>
+<p><img class="alignnone size-full wp-image-2240" title="jordan6" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan6.jpg" alt="" width="571" height="426" /></p>
+<h5>Above: <a href="http://jordanferney.blogspot.com/2011/02/fringey-streamers-diy.html" target="_blank">Fringey Streamers DIY</a> // <a href="http://jordanferney.blogspot.com/2011/03/zig-zag-accordion-streamers-diy.html" target="_blank">Zig Zag Accordion Streamers DIY</a></h5>
+<p><strong>2. What challenges have you overcome as a mother? As a designer?</strong></p>
+<p>Balancing time. I think it is important to keep work time and mom time separate. As I designer I wasn&#8217;t formally trained so I&#8217;ve had to learn programs and increase my skills.</p>
+<p><img class="alignnone size-full wp-image-2237" title="jordan3" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan3.jpg" alt="" width="571" height="470" /></p>
+<p><img class="alignnone size-full wp-image-2241" title="jordan5" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan5.jpg" alt="" width="571" height="381" /></p>
+<h5>Above: <a href="http://jordanferney.blogspot.com/2010/08/flag-sculptures.html" target="_blank">Sculptured Flags</a> // <a href="http://jordanferney.blogspot.com/2011/03/confetti-invitations-template.html" target="_blank">Confetti Invitations + Template</a></h5>
+<p><strong>3. Any tips for pursuing your dreams while still building a strong family?</strong></p>
+<p>My husband and I are really supportive of each others&#8217; goals. It makes it a lot easier when there is another person to help you pick up the slack.</p>
+<p><img class="alignnone size-full wp-image-2238" title="jordan2" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan2.jpg" alt="" width="571" height="381" /></p>
+<h5><a href="http://jordanferney.blogspot.com/2011/01/oh-happy-day-letterpress-open-for.html" target="_blank">Oh Happy Day Letterpress</a></h5>
+<p><strong>4. What are your mother&#8217;s day wishes?</strong></p>
+<p>World Peace and maybe a massage.</p>
+<p><img class="alignnone size-full wp-image-2239" title="jordan4" src="http://evie-s.com/news/wp-content/uploads/2011/04/jordan4.jpg" alt="" width="571" height="426" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2220" class="post-2220 post type-post status-publish format-standard hentry category-interviews category-motherhood tag-disney tag-interview tag-mothers-day tag-ruffles-and-stuff">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2011/05/02/creative-mom-interview-disney-of-ruffles-and-stuff/" rel="bookmark" title="Permalink to Creative Mom Interview: Disney of Ruffles and Stuff">Creative Mom Interview: Disney of Ruffles and Stuff</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 2, 2011,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2011/05/02/creative-mom-interview-disney-of-ruffles-and-stuff/#comments">0 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><img class="alignnone size-full wp-image-2221" title="disney" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney.jpg" alt="" width="571" height="268" /></p>
+<p>It&#8217;s Mother&#8217;s Day week! This is one of my favorite times of year on my blog. I love getting to pick other artist mom brains out there, and this is the perfect excuse to do so. I&#8217;ll be interviewing a creative mom every day this week, and you don&#8217;t want to miss any of the wisdom these gals have to offer. I&#8217;m starting right out of the gate with an interview with Disney of <a href="http://www.rufflesandstuff.com/" target="_blank">Ruffles and Stuff</a>. She is a fairly new source of inspiration for me, I love her transparency, humor, creativity, and her obvious devotion to what is most important to her. Sit back and enjoy!</p>
+<p><img class="alignnone size-full wp-image-2224" title="disney3" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney3.jpg" alt="" width="571" height="381" /></p>
+<p><img class="alignnone size-full wp-image-2223" title="disney2" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney2.jpg" alt="" width="571" height="201" /></p>
+<h5>Above: <a href="http://www.rufflesandstuff.com/2010/07/lauren-headband-tutorial.html" target="_blank">The &#8220;Lauren&#8221; Headband Tutorial</a></h5>
+<p><strong>1. Tell us about yourself.</strong><br />
+Hi! I&#8217;m Disney. In my mind I live in Seattle, where I spend my days blogging, shopping at little indie boutiques and sipping lemonade in my organic garden. In reality, I live in eastern Washington, I spend my days continually cleaning up after my three year old princess, I refashion clothes instead of shopping for more, and my &#8220;garden&#8221; consists of various weeds and plants that I murdered last season. :o)  I do thoroughly enjoy my life, however, and I try to create pretty little things whenever I can along the way. I keep track of all my pretty things on my blog, and I treasure the relationship I have with my readers!</p>
+<p><img class="alignnone size-full wp-image-2225" title="disney4" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney4.jpg" alt="" width="571" height="419" /></p>
+<h5><a href="http://www.rufflesandstuff.com/2010/05/happy-birthday-paige.html" target="_blank">Happy Birthday Paige</a></h5>
+<p><strong>2. What is your favorite creative activity with your daughter?</strong><br />
+Paige and I both love coloring. We do that together every day. She also loves to sit in my craft room and make &#8220;presents&#8221; for her friends. She&#8217;ll fold up tons of pieces of felt, and tie them together with bias tape. It&#8217;s adorable! :O)</p>
+<p><img class="alignnone size-full wp-image-2226" title="disney5" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney5.jpg" alt="" width="571" height="421" /></p>
+<p><img class="alignnone size-full wp-image-2222" title="disney1" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney1.jpg" alt="" width="571" height="422" /></p>
+<h5>Above: the perfect coral lipstick &#8211; Vegas Volt by mac // <a href="http://www.rufflesandstuff.com/2010/05/grosgrain-belt-tutorial.html" target="_blank">Grosgrain Belt Tutorial</a></h5>
+<p><strong>3. What are some ways you stay inspired to create?</strong><br />
+I think the most important thing I do to stay inspired is try not to worry too much about it. Usually my best ideas come to me when I&#8217;m not stressed out. But if I do need a little dose of inspiration, I just check out my favorite stores or websites. A lot of my projects come from things that I&#8217;d really like to buy for myself, but can&#8217;t afford. I try not to copy stores&#8217; designs outright (most of the time), but it will usually put something similar into my mind that I can create for myself.</p>
+<p><img class="alignnone size-full wp-image-2227" title="disney6" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney6.jpg" alt="" width="571" height="381" /></p>
+<p><img class="alignnone size-full wp-image-2228" title="disney7" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney7.jpg" alt="" width="571" height="398" /></p>
+<h5>Above: <a href="http://www.rufflesandstuff.com/2010/10/shes-lady-cardigan-tutorial.html" target="_blank">Cardigan Tutorial</a> // <a href="http://www.rufflesandstuff.com/2011/03/3-way-skirtdress-tutorial.html" target="_blank">3-Way Skirt Dress Tutorial</a> // <a href="http://www.rufflesandstuff.com/2010/06/my-ruffle-necklace.html" target="_blank">Ruffle Necklace</a></h5>
+<p><strong>4. What are some challenges you&#8217;ve overcome as a mother?</strong><br />
+Having time to do everything! It&#8217;s really important to me to raise my daughter well. However, she requires insane amounts of time and attention, so it is really a struggle sometimes to get other things done. I&#8217;m a person who likes to keep busy, and wants to get out and try lots of new things all the time, so it&#8217;s hard for me to get on the floor and play &#8220;puppy dog&#8221; for an hour. But I know that in the end, playing &#8220;puppy dog&#8221; will have made a bigger impact than any skirt tutorial.</p>
+<p><img class="alignnone size-full wp-image-2229" title="disney8" src="http://evie-s.com/news/wp-content/uploads/2011/04/disney8.jpg" alt="" width="571" height="473" /></p>
+<h5><a href="http://www.rufflesandstuff.com/2011/01/shoot-for-scarves.html" target="_blank">Pleated Scarf</a></h5>
+<p><strong>5. What are your mother’s day wishes?</strong><br />
+Hmm, let&#8217;s see&#8230;sailing in Anacortes, jeans that fit perfectly, a Cannon 5D Mark II, and for my daughter to take naps. But&#8230;.Realistically?  Just a grateful heart, and maybe an iced americano. :O)</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

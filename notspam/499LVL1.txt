@@ -1,0 +1,458 @@
+.reactionShareButton {
+	float:left;
+	margin : 3px 3px 3px 3px;
+}
+
+#GigyaShowLoggedIn, #GigyaShowLoggedOut {
+    display: none;
+}
+
+div.gigya-box  {
+	text-align: left;
+	font-family: arial, sans-serif;
+}
+
+.placeHolderActive{color:#fe521b;}
+.newInputStyle{
+	font-family: league gothic !important;
+	font-style:italic;
+	font-size: 1.6em !important;
+}
+
+div.gigya-box span.orange {
+	color: #f58020;
+}
+
+div.gigya-box p.first {
+	font-size: 1.1em;
+    margin: 3px 0 10px;
+	/* color: #808080; */
+}
+
+div.gigya-box div.box {
+	border-bottom: 1px solid #c0c0c0; 
+	border-top: 1px solid #c0c0c0;
+	margin: 0 5px 15px 5px;
+	overflow: hidden;
+    width: 600px;
+    position:relative;
+}
+#gigya-loginbox div.box {
+	padding-bottom: 40px;
+}
+div.gigya-box div.box div.divider{
+	position:absolute;
+	width:21px;
+	height:170px;
+	background: url(../images/gigya-divider.png) no-repeat;
+	left:265px;
+	top:22px;
+}
+
+div.gigya-box div.col-header {
+	font-size: 1.5em;
+	font-weight: normal;
+	padding: 8px 0 1px;
+}
+
+#gigya-completeregistrationbox div.col-header {
+    border-top: 1px solid #C0C0C0;
+    color: #FE521B;
+    font-family: league gothic;
+    font-size: 2em;
+    font-style: italic;
+    font-weight: normal;
+    padding: 8px 0 8px 13px;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+div.gigya-box div.col-content {
+	margin: 7px 0;
+	padding: 10px 0;
+}
+
+div.gigya-box div.input {
+	overflow: hidden;
+	margin-bottom: 8px;
+}
+
+div.gigya-box div.input a {
+	color: blue;
+}
+
+div.gigya-box div.input label {
+	display: block;
+}
+
+div.gigya-box div.input label.newsLetter {
+	display: inline;
+}
+
+div.gigya-box div.input input {
+	width: 250px;
+	padding: 6px 8px;
+	border: 1px solid #CECECE;
+}
+
+.newsLetterCheckbox{border:0px !important;}
+
+.myaccount-rightbox .checkbox{border:0px !important; padding: 0px !important;margin-top: 2px !important;}
+
+div.gigya-box .borderb {
+    border-bottom: 1px solid #c0c0c0;
+}
+
+div.gigya-box input#register, div.gigya-box input#register-email, div.gigya-box input#login, div.gigya-box input#submitcompletereg,
+div.gigya-box #gigya-signin-link, div.gigya-box #gigya-join-now-link, div.gigya-box #gigya-join-now-link2, 
+div.gigya-box input.myaccount-submit, div.gigya-box .login-message .login-link, div.gigya-box input#link, div.gigya-box span#newsLetterPreferences-link a, div.gigya-box span#myAccount-link a, #forgotPassword-email {
+	background: url(../../../images/popup_button.png) repeat-x #f58020;	
+	/* border-radius: 12px 12px 12px 12px; */
+	border: none;
+	color: #ffffff;
+	height: auto;
+    padding: 5px 7px;
+    width: auto;
+    cursor: pointer;
+}
+
+div.gigya-box #gigya-signin-link, div.gigya-box #gigya-join-now-link, div.gigya-box #gigya-join-now-link2 {
+	margin-left: 5px;
+}
+
+div.gigya-box span#gigya-join-now-link{background:none; color:#F58020; margin-left: -5px;}
+
+div.gigya-box #gigya-signin-link{background: none repeat scroll 0 0 transparent; color: #F58020; padding-left:0px; margin-left:0px;}
+
+div.gigya-box span.col-title {
+	vertical-align: top;
+}
+
+div.gigya-box div.side-a div.col-header {
+	background: url(../../../images/popup_or.png) no-repeat right 5px;	
+	margin-right: -12px;
+}
+
+div.gigya-box div.side-b span.col-title {
+	padding-left: 46px;
+}
+
+div.gigya-box div.gigya-time, div.gigya-box div.gigya-lock {
+	margin: 18px 0 0 18px;
+    padding-left: 30px;
+    font-size: 0.9em;
+}
+
+div.gigya-box div.gigya-time {
+	background: url(../../../images/popup_time.png) no-repeat 0 4px;	
+}
+
+div.gigya-box div.gigya-lock {
+	background: url(../../../images/popup_lock.png) no-repeat 0 4px;
+}
+
+div.gigya-box div#componentDiv, div.gigya-box div#componentDiv2 {
+	margin: 16px 0 0 20px;
+}
+
+div.gigya-box div.sign-in {
+	 font-family: league gothic;
+    font-size: 1.7em;
+    font-style: italic;
+    letter-spacing: 1px;
+    margin-bottom: 7px;
+    margin-right: 10px;
+    margin-top: -5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div.gigya-box fieldset {
+	padding: 0;
+	border: 0px none;
+	margin: 0;
+}
+
+div#gigya-myaccountbox {
+	margin-left: 0px;
+}
+
+div#gigya-myaccountbox img{border:none;}
+
+div#gigya-myaccountbox fieldset {
+	/* border: 1px solid #142830; */
+	padding: 10px 10px 2px 0px;
+	margin-bottom: 10px;
+}
+
+div#gigya-myaccountbox fieldset legend{
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#newsletterLoggedIn fieldset legend{
+	font-family: league gothic;
+    font-size: 1.5em;
+    font-style: italic;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    color: #fe521b;
+    font-weight: normal !important;
+}
+
+div#gigya-myaccountbox div.col-header {
+	font-size: 2em;
+	margin-bottom: -10px;
+	font-style:italic;
+	color: #fe521b;
+	text-decoration: underline;
+	text-transform: uppercase;
+	font-family: league gothic;
+}
+
+div#gigya-myaccountbox div.myaccount-rightbox div.input {
+	border: 0px none;
+}
+
+div#gigya-myaccountbox div.myaccount-rightbox div.input label {
+	width: 305px;
+}
+
+#register-link, #external-register-link, #login-link, #external-login-link, #myaccount-link, #external-myaccount-link, #logout-link, #external-logout-link, #gigya-join-now-link, #gigya-join-now-link2, #gigya-signin-link {
+	cursor: pointer;
+}
+
+#gigya-join-now-link, #gigya-join-now-link2, #gigya-signin-link {
+	margin: 0 0 10px 0;
+}
+
+#register-link, #login-link, #myaccount-link, #logout-link {
+	float: left;
+	cursor: pointer;
+	color: #234B7B;
+}
+
+#register-link:hover span, #login-link:hover span, #myaccount-link span, #logout-link span {
+	padding-bottom: 1px;
+}
+
+#logout-link span:hover, #login-link span:hover, #register-link span:hover {
+	text-decoration: underline;
+}
+
+.goingout #register-link:hover span, .goingout #login-link:hover span, .goingout #myaccount-link span, .goingout #logout-link span {
+	border-bottom: 1px dotted #A35FD0;
+	padding-bottom: 1px;
+}
+
+#gigya-regbox,  #gigya-loginbox, #gigya-completeregistrationbox, #gigya-link-account, #gigya-reg-emailbox, #gigya-forgot-password, #gigya-lightregistrationbox, #gigya-flag-confirmation-message-box, #gigya-email-confirmation-message-box, #gigya-reaction-plugin-share-box, #petitionSuccessMsgBox {
+	display: none;
+}
+
+div.gigya-box div.gigya-info {
+	margin-bottom: 10px;
+}
+
+div.gigya-box div.gigya-info span.never{
+	color:#fe521b;	
+}
+
+div.gigya-box div.gigya-info p {
+    margin-bottom: 5px;
+}
+
+div.gigya-box div.myaccount-leftbox {
+	float: left;
+	width: 270px;
+	padding-left: 10px;
+    padding-right: 30px;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+
+div.gigya-box div.myaccount-rightbox {
+	width: 266px;
+	font-size: 0.9em;
+	float:left;
+}
+
+div#gigya-myaccountbox div.myaccount-rightbox, div#gigya-myaccountbox div.myaccount-leftbox {
+	width: 350px;
+	border: 0px none;
+}
+
+div.gigya-box div.myaccount-rightbox div.input {
+	margin: 0px 0px 10px 0;
+	padding-bottom: 10px;
+	width: auto;
+	height: auto;
+	font-weight: normal;
+}
+
+div.gigya-box div.myaccount-rightbox div.input.last {
+	border: none;
+}
+
+div.gigya-box div.myaccount-rightbox div.input input {
+	width: auto;
+	height: auto;
+	margin-left: 0;
+	margin-top: 0;
+	float:left;
+}
+
+div.gigya-box div.myaccount-rightbox div.input p {
+	margin: 0 0 2px 0;
+	font-weight: bold;
+}
+
+div.gigya-box div.myaccount-rightbox label {
+	/* float: right; */
+	margin-left:5px;
+	padding-left:13px;
+	width: 242px;	
+}
+
+div.gigya-box input.myaccount-submit {
+	/* margin: -5px 0 25px; */
+	margin: 15px 0 25px;
+}
+
+div.gigya-box div.side-a {
+	float: right;
+	width: 300px;
+	font-weight: bold;
+}
+
+div.gigya-box div.side-b {
+	float: left;
+	width: 300px;
+	font-weight: bold;
+}
+
+div#gigya-link-account {
+	width: 635px;
+}
+
+div.gigya-box .error {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+div.gigya-box .loading-progress-image {
+	padding-left: 5px;
+    vertical-align: -6px;
+     border:0px;
+}
+#gigya-forgot-password-link {
+    color: #0086F1;
+    cursor: pointer;
+    margin-bottom: 7px;
+}
+
+/* myaccount styling */
+#gigya-myaccountbox #left-fields {
+    width: 450px;
+    float: left;
+}
+#gigya-myaccountbox fieldset#contact-details {
+    float: right;
+    width: 450px;
+}
+#gigya-myaccountbox div.bottom-buttons {
+    clear: both;
+}
+#newsletterLoggedIn div.bottom-buttons{border-top: 1px solid #CCCCCC;}
+
+#newsLetterPreferences-link{
+    float: left;
+    margin-top:20px;
+}
+#myAccount-link {
+    float: right !important;
+    margin-top:20px;
+}
+#newsLetter-form fieldset input {
+	height: auto;
+    width: auto;
+}
+
+/* light reg box */
+#lightreg-agreetnc {
+    width: auto;
+    float: left;
+    margin: 0 15px 0 0;
+}
+
+/* jquery-ui changes for gigya */
+.ui-widget-overlay {
+	background-image: none;
+	background-color: #000000;	
+	opacity: 0.7;
+}
+
+.gigya-lightbox-header {
+	/* background: url(http://ind-appwebdb1-dev1/incoming/article27497.ece/BINARY/original/independent_Masthead.png) 16px 14px no-repeat;
+	 */
+	background: url("../../../images/indyvoices-lightbox-bg.png") no-repeat center 5px;
+	border: 0px none;
+	height: 90px;
+    margin-top: -15px;
+}
+.reg-head-text{
+text-align: center;
+float: left;
+padding: 0 20px 10px 0;
+}
+.ui-widget-header{border:none; background:none;}
+
+.ui-widget-content {
+	background: #ffffff;
+	width: 610px !important;
+}
+
+.ui-draggable {
+	border: 5px solid #c0c0c0;
+}
+
+.ui-widget-header .ui-icon {
+	background: none;	
+}
+
+.ui-dialog .ui-dialog-titlebar-close, .ui-dialog .ui-dialog-titlebar-close:hover {
+	background: url(../../../images/popup_close2.png) no-repeat 35px 0;
+	border: none;
+	width: auto;
+	height: auto;
+	padding: 2px;
+	margin: 0;
+	top: 5px;
+	right: 18px;
+	float: right;
+}
+
+.ui-icon.ui-icon-closethick {
+	width: 5.3em;
+	color: #c7c7c7;
+	font-size: 0.9em;
+	text-transform: uppercase;
+	text-indent: 0px;
+	text-align: left;
+	float: right;
+}
+
+.ui-corner-all {
+	border-radius: 0 0 0 0;
+}
+
+#gigya-regbox .col-header .col-subtitle{color:#FE521B; font-family:league gothic;}
+#gigya-verifyEmailBox {margin-top: 40px;}
+
+/*IND-ES1040 (Notifying Reply to their comments)*/
+#myaccount-form .input input.myAccountCheckbox {margin:0 4px 0 0; width: auto; float: left;}
+/*IND-ES1040 (Notifying Reply to their comments)*/
+
+/*CSS overwrite for jQuery UI dialog as dialog width is hardcoded for login/registration popups */
+.ui-widget-content.delete-account-dialogs {width: 325px !important;}
+.ui-dialog.delete-account-dialogs .ui-dialog-content {width: 300px !important;}
+.ui-dialog.delete-account-dialogs .ui-dialog-buttonpane {width: 300px !important;}
+.ui-draggable.delete-account-dialogs .ui-dialog-titlebar {background: #F58020;}

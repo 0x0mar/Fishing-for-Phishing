@@ -1,0 +1,26 @@
+/*Email Popup form alignment*/
+
+#mailForm fieldset #mailto {
+    position:absolute;
+}
+#mailForm fieldset #surname {
+    position:absolute;
+}
+/*Escenic-widget css styles*/
+.jqpopup fieldset {
+	margin-bottom: 10px
+}
+.jqpopup #errorMessage {
+	margin-right: 20px;
+}
+.jqpopup .inputrow {
+    margin-right: 10px;
+}
+
+#emailArticleReset {
+    margin-right: 5px !important;
+}
+
+#emailArticleSend {
+    margin-right: 0 !important;
+}

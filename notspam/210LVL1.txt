@@ -1,0 +1,15 @@
+/*  
+Theme Name: TrulyMinimal
+Theme URI: http://www.flarethemes.com/theme/trulyminimal/
+Description: TrulyMinimal is a highly customizable minimalistic theme fully focused on typography.
+Version: 1.1.1
+Author: FlareThemes
+Author URI: http://www.flarethemes.com
+
+Tags: light, white, one-column, left-sidebar, right-sidebar, fixed-width, custom-colors, custom-menu, editor-style, featured-images, full-width-template, theme-options, translation-ready
+
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import url("css/style.php");

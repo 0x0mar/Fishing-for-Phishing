@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Watch internet tv online British and American television on demand streaming</title>
+
+
+<!-- METAS -->
+<meta name="Keywords"
+	content="watch,online,tv,watch tv online,ipad,iphone,english,american,anywhere,free,hulu,television,playstation,favorite,episodes,episode,netflix,shows,complete,season,streaming,watch tv overseas" />
+<meta name="description"
+	content="Watch tv episodes on iPhone iPad PC Mac from anywhere! Complete series, Thosaund of shows ad-free." />
+<meta name="robots" content="index, follow" />
+<meta content="http://3click.tv/images/logo_top.png" property="og:image">
+<!-- /METAS -->
+
+<!-- CSS -->
+<link href="css/styles.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="shortcut icon" href="http://www.3click.tv/favicon.ico" />
+<link rel="image_src" href="http://3click.tv/images/logo_top.png" />
+<!-- /CSS -->
+
+<!-- JQUERY & PLUGINS -->
+<script type="text/javascript" src="js/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery.innerfade.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+<!-- /JQUERY & PLUGINS -->
+
+<!--[if IE 7]>
+	<link href="css/IE7.css" rel="stylesheet" type="text/css" media="all" />
+    <![endif]-->
+<!--[if IE 6]>
+        <script src="js/DD_belatedPNG.js"></script>
+        <script>
+          /* EXAMPLE */
+          DD_belatedPNG.fix('*');
+        </script>
+	<![endif]-->
+<meta name="google-site-verification" content="xbNYlRCMN6hgZEpkzV96pubTWZlLdVXsveKWqPSJwAM" />
+</head>
+
+<body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5809885-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- HEADER -->
+<div id="header">
+    <!-- content of header -->
+    <div class="content">
+    
+    	<!-- Menu -->
+        <div class="nav">
+            <ul>
+                <li><a href="index.php" class="navstyle current"><span>Home</span></a></li>
+                <li><a href="http://www.3click.tv/about.php" class="navstyle"><span>About us</span></a>
+                    <ul>
+					  <li><a href="http://www.3click.tv/about.php"><span>About us</span></a></li>
+					  <li><a href="http://www.3click.tv/prices.php"><span>Prices</span></a></li>
+					  <li><a href="http://www.3click.tv/secure/signup.php"><span>Join</span></a></li>
+					  <li><a href="http://www.3click.tv/terms.php"><span>Terms of service</span></a></li>
+				    </ul>
+				</li>
+				<li><a href="http://www.3click.tv/shows.php" class="navstyle"><span>Shows</span></a>
+                    <ul>
+					  <li><a href="http://www.3click.tv/shows.php?section=newest"><span>Newest Archived</span></a></li>
+					  <li><a href="http://www.3click.tv/shows.php?section=just"><span>Just Aired</span></a></li>
+					  <li><a href="http://www.3click.tv/shows.php?section=archived"><span>Archived</span></a></li>
+				    </ul>
+				</li>
+				<li><a href="http://www.3click.tv/contact.php" class="navstyle"><span>Contact</span></a></li>
+                        <li><a href="https://www.3click.tv/secure/login.php" class="navstyle"><span>Login</span></a>
+                   <ul>
+                      <li><a href="https://www.3click.tv/secure/login.php"><span>Login</span></a></li>
+                      <li><a href="http://www.3click.tv/secure/signup.php"><span>Sign up</span></a></li>
+			
+                      <li><a href="https://www.3click.tv/secure/member.php"><span>Subscriptions</span></a></li>
+                      <li><a href="https://www.3click.tv/secure/aff_member.php"><span>Affiliates</span></a></li>
+                      <li><a href="https://www.3click.tv/secure/profile.php"><span>Profile settings</span></a></li>
+                      <li><a href="https://www.3click.tv/secure/settings.php"><span>Playback settings</span></a></li>
+                      <li><a href="https://www.3click.tv/secure/logout.php"><span>Logout</span></a></li>
+                    </ul>
+			    </li>
+				<li><a href="http://www.3click.tv/blog.php" class="navstyle"><span>Blog</span></a></li>
+			</ul>
+		  </div>
+      <!-- /Menu -->
+        
+      <!-- Logo -->
+      <div id="logo">
+          <h1><a href="index.php" title="3click.TV an interent television revolution..."><span class="inv">3click.TV</span></a></h1>
+      </div>
+      <!-- /Logo -->
+    
+      <br class="clear" />
+</div>
+    <!-- /content of header -->
+</div>
+<!-- /HEADER -->
+
+<!-- TEASER -->
+<div id="teaser"><!-- content of teaser -->
+<div class="content">
+<div class="point"></div>
+
+<!-- slider -->
+<div id="slider">
+<div>
+<ul id="portfolio">
+	<li class="teaser_1"><a href="http://www.3click.tv/prices.php"><img src="tmp/teaser-1.jpg" width="960" height="450" alt="first image" /></a></li>
+	<li class="teaser_2"><a href="http://www.3click.tv/prices.php"><img src="tmp/teaser-2.jpg" width="960" height="450" alt="second image" /></a></li>
+	<li class="teaser_3"><a href="http://www.3click.tv/prices.php"><img src="tmp/teaser-3.jpg" width="960" height="450" alt="third image" /></a></li>
+	<li class="teaser_4"><a href="http://www.3click.tv/prices.php"><img src="tmp/teaser-4.jpg" width="960" height="450" alt="fourth image" /></a></li>
+</ul>
+<ul id="slide_nav">
+	<li class="slide_0"></li>
+	<li class="slide_1"></li>
+	<li class="slide_2"></li>
+	<li class="slide_3"></li>
+</ul>
+<ul id="slide_control">
+	<li id="first_button" class="first_button"></li>
+	<li id="prev_button" class="prev_button"></li>
+	<li id="pause_button" class="pause_button"><span style="display: none;">pause</span></li>
+	<li id="next_button" class="next_button"></li>
+	<li id="last_button" class="first_button"></li>
+</ul>
+</div>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- /slider --></div>
+<!-- /content of teaser --></div>
+<!-- /TEASER -->
+
+
+
+<!-- MAIN -->
+<div id="main"><!-- content of main -->
+<div class="content">
+
+<div class="page_slogan">We provide <span class="color">More TV </span>for<br /><span class="color">more devices</span> than anyone on <span class="color">earth</span>.</div>
+
+<!-- 4 columns -->
+<div class="col2 design">
+<h4>What is 3click.TV?<span></span></h4>
+<img src="tmp/home-1.jpg" width="445" height="150" alt=" " class="fade" />
+<p>More shows on more devices, <a href="http://www.3click.tv/shows.php">streaming tv</a> has never been this good! 
+With <a href="http://www.3click.tv/shows.php">complete seasons</a> and as always,100% ad free. 
+It's like having more than 300 DVD box sets of all your favorite shows updated daily, ad free and available on demand.</p>
+<p class="plus"><a href="http://www.3click.tv/about.php"><span class="inv">Read more </span>+</a></p>
+</div>
+
+<div class="col2 design">
+<h4>Join Now.</h4>
+<a href="https://www.3click.tv/secure/login.php"><img src="tmp/home-2.jpg" width="445" height="150" alt="watch tv on iphone" class="fade" /></a>
+<p>Our streams are fast and <a href="https://www.3click.tv/secure/login.php" title="watch tv online">available anywhere </a>in the world. 
+<a href="http://www.3click.tv/shows.php">We stream television</a> to PC, Mac, &amp; iPhone, or connect or TV to PC. High quality video and audio performance. We are pleased to announce we now stream tv to the iPad.</p>
+<p class="plus"><a href="http://www.3click.tv/prices.php" title="stream tv online"><span class="inv">Read more </span>+</a></p>
+</div>
+
+<br class="clear" />
+<!-- /4 columns --></div>
+<!-- /content of main --></div>
+<!-- /MAIN -->
+
+
+<!-- FOOTER -->
+<div id="footer">
+    <!-- content of footer -->
+    <div class="content">
+    
+    <div class="footer_col">
+        <h4 class="center">Rapid links</h4>
+        <ul class="listing_col">
+       		<li><a href="index.php"><span>Home</span></a></li>
+       		<li><a href="http://www.3click.tv/about.php"><span>About us</span></a></li>
+       		<li><a href="http://www.3click.tv/shows.php"><span>Shows</span></a></li>
+       		<li><a href="http://www.3click.tv/secure/signup.php"><span>Join</span></a></li>
+       		<li><a href="http://www.3click.tv/shows.php"><span>Shows</span></a></li>
+       		<li><a href="http://www.3click.tv/contact.php"><span>Contact</span></a></li>
+       		<li><a href="http://www.3click.tv/blog.php"><span>Blog</span></a></li>
+       		<li><a href="http://www.3click.tv/terms.php"><span>Terms Of Service</span></a></li>
+        </ul>
+                
+        <ul class="listing_col">
+        	<li><a href="http://www.facebook.com/login/setashome.php?ref=home#!/profile.php?id=1708276146" title="3click.tv on Facebook" target="_blank"><span>Facebook</span></a></li>
+        	<li><a href="http://twitter.com/3clickTV" title="3click.tv on Twitter" target="_blank"><span>Twitter</span></a></li>
+        	<li><a href="http://www.myspace.com/3clicktv" title="3click.tv on MySpace" target="_blank"><span>MySpace</span></a></li>
+        </ul>
+
+        <br class="clear" />
+    </div>
+    
+    <div class="footer_col center">
+      <div id="logo_bottom">
+        <a href="index.php"><img src="images/logo_top.png" width="288" height="100"><br /><span class="inv">streaming t.v. episodes</span></a>
+      </div>
+      <p>an internet television revolution...<br />
+        <a href="mailto:sales@3click.tv" title="email sales" target="_blank">sales@3click.tv</a> - <a href="index.php">www.3click.tv</a></p>
+        <p class="small">Copyright &copy; 2009-2013 - 3click.TV.</p>
+    </div>
+    
+    <div class="footer_col center">
+        <img src="images/cards.jpg" alt="Accepted Credit Cards"/>
+        <br />
+        <a href="http://www.siteadvisor.com/sites/3click.tv/summary/" target="_blank"><img src="images/user/mcafeever.jpg" width="107" height="25" alt="verify this website" align="right" /></a>
+        <a href="http://safeweb.norton.com/report/show?url=http%3A%2F%2F3click.tv&amp;x=0&amp;y=0" target="_blank" title="verify this website"><img src="images/user/nortonver.jpg" width="107" height="25" align="left" /></a>
+        <br />
+        <p><a href="http://www.securitymetrics.com/site_certificate.adp?s=212%2e63%2e205%2e34&i=987574" target="_blank" ><img src="images/sm_ccsafe_check3.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0" /></a></p>
+        <p><a href="//www.PositiveSSL.com"><img src="images/PositiveSSL_tl_trans.gif" title="SSL Certificate Authority" /></p>
+    </div>
+    	
+    <br class="clear" />
+</div>
+    <!-- /content of footer -->
+</div>
+<!-- /FOOTER -->
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>about 3click.tv</p>
+<p>3click.tv is the largest collection of shows on the planet now you
+can watch online tv in english language the best american and british
+programs anywhere. It is cheap subscription <a href="Watch tv episodes on iphone">on-demand television</a> of all
+your favorite episodes each episode is free of commercials we show the
+best premium t.v. shows with complete seasons view a season of our
+streaming subscription service today!</p>
+<p class="style26">Now at 3click.TV you can <a href="http://www.3click.tv/shows.php?section=archived&amp;action=seasons&amp;listshow=House+of+Cards+(2013)" title="watch house of cards">watch House of Cards</a> online</p>
+<p class="style26"><a href="http://www.3click.tv/showlist.php"
+	target="_self" class="style27">Watch TV shows online on demand at
+  3click.tv internet television</a></p>
+<p><a href="http://www.3click.tv/iphone/" target="_blank">Watch tv
+episodes on iphone</a></p>
+<p><a href="http://www.3click.tv/shows.php" target="_blank">Watch tv
+episodes on ipad</a></p>
+<p>Fast streaming high quality no need to download. You can see these
+great sitcoms and sports events and cable programming anywhere including
+central and eastern europe asia uk czech republic poland slovakia
+hungary croatia germany france italy spain russia japan south korea
+united states united kingdom middle east south africa australia new
+zealand with unlimited use - true broadband tv no need for a satellite
+dish or cable provider streaming tv is better than free tv on internet
+because it is the best of all sitcoms ever made! 3click.tv is television
+for expats no matter what country you are in 3click.tv delivers tv to
+expatriates or anyone with out access to shows via broadband streaming
+connection even some low bandwidth connections work true expat tv that
+can be enjoyed anywhere</p>
+<p>we are your <a href="http://www.3click.tv/shows.php">hulu alternative</a> we are your <a href="http://www.3click.tv/shows.php">netflix alternative</a></p>
+
+<p>with 3click.tv we have added a new in-browser player for our
+streaming tv and complete tv guide and index, so you always know what
+available our in browser player is fast and easy to use.</p>
+<p>We have more than 300 diffent shows in our library that we are
+currently encoding to mp4 streaming video, with full seasons of your
+favourites,</p>
+<p>here are just a few:</p>
+<p><a href="http://www.3click.tv/shows.php?section=archived&amp;action=seasons&amp;listshow=Game+Of+Thrones">Watch Game of Thrones on iPad</a> 3rd Rock From The Sun Absolutely Fabulous Northern Exposure CSI
+Arrested Development Ren and Stimpy Desperate Housewives Black Adder The
+OC Family Guy Frasier Heroes Sex and the City Little Britain Seinfeld
+Sopranos Entourage Heroes South Park Chappelles Show Criminal Minds The
+Office US &amp; UK Curb Your Enthusiasm Oz The Simpsons Greys Anatomy
+The IT Crowd 24 ER Californication Law and Order Whose Line Is It Anyway
+US &amp; UK Da Ali G Show Law and Order SVU Friends Dawsons Creek Law
+and Order Trial by Jury Joey That 70s Show Weeds Ally McBeal Two Pints
+of Lager &amp; a Packet of Crisps Derren Brown Trick of the Mind The
+Closer Prison Break Queer As Folk The West Wing Jericho Lost Scrubs The
+King of Queens</p>
+
+<p>unlimited streaming tv better than the free downloads or pirated
+content sites no download required watch and enjoy</p>
+<p>We stream our shows and all of our online content so you can watch
+you favorite shows on cellphones eqipped with windows mobile and Using
+SkyFire to watch streaming tv shows and episodes</p>
+<p>UFC Ultimate Fighter, fights and major boxing and sports events
+streaming to watch online.</p>
+<p>We are the only streaming tv network for Windows Mobile Streaming
+televisions show delivered direct to your smartphone. You never worry
+abut missing Watch your favorite sitcom, we broadcast the best streaming
+tv and with no ads. Click here to watch shows on iphone: <a
+	href="http://www.3click.tv/iphone/" target="_blank"> tv on iphone</a></p>
+<p>If you're looking for streaming <a href="http://www.3click.tv/shows.php">tv episodes ipad </a>then look no further! 3click.tv <a href="http://www.3click.tv/shows.php">streams to the iPad 2</a> get <a href="http://www.3click.tv/shows.php?section=archived&amp;action=seasons&amp;listshow=Family%20Guy">Family guy on ipad&nbsp;</a>or <a href="http://www.3click.tv/shows.php?section=archived&amp;action=seasons&amp;listshow=Dexter">watch dexter&nbsp;on ipad</a> <a href="http://www.3click.tv/shows.php?section=archived&amp;action=seasons&amp;listshow=The%20Office%20%28US%29">office on ipad </a>and of course stream all episodes of <a href="http://www.3click.tv/shows.php">tv on iphone</a>. watchin tv on iphone or watching tv on ipad is easy! streaming episodes on mobile has never been easier! Watchin episodes on the iPad has never been easier</p>
+
+<script src="http://cdn.wibiya.com/Toolbars/dir_1030/Toolbar_1030016/Loader_1030016.js" type="text/javascript"></script><noscript><a href="http://www.wibiya.com/">Web Toolbar by Wibiya</a></noscript> 
+
+</body>
+</html>

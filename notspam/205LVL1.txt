@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://evie-s.com/news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://evie-s.com/news</link>
+	<description></description>
+	<lastBuildDate>Thu, 13 Feb 2014 06:54:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
+		<item>
+		<title>Florida Treasure</title>
+		<link>http://evie-s.com/news/2013/12/04/florida-treasure/</link>
+		<comments>http://evie-s.com/news/2013/12/04/florida-treasure/#comments</comments>
+		<pubDate>Thu, 05 Dec 2013 02:13:10 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3646</guid>
+		<description><![CDATA[Florida was amazing. We were there for 3 weeks while Kent worked closely with OneHope on some online intiatives. The boys and I were at the beach often and we came home with some mighty good tan lines. The treasures were abundant on land, shore and in the water. So this collection was hard to put together, just because there was so much bounty. The sea can do craziness, it can do smooth, It can ...]]></description>
+				<content:encoded><![CDATA[<p>Florida was amazing. We were there for 3 weeks while Kent worked closely with <a href="http://onehope.net/">OneHope</a> on some online intiatives. The boys and I were at the beach often and we came home with some mighty good tan lines. The treasures were abundant on land, shore and in the water. So this collection was hard to put together, just because there was so much bounty.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/12/Florida2.jpg" rel="image_group"><img class="alignnone size-full wp-image-3655" alt="Florida2" src="http://evie-s.com/news/wp-content/uploads/2013/12/Florida2.jpg" width="602" height="753" /></a></p>
+<blockquote><p>The sea can do craziness, it can do smooth, It can lie down like silk breathing or toss havoc shoreward; it can give gifts or withhold all; it can rise, ebb, froth like an incoming frenzy of fountains, or it can sweet-talk entirely. As I can too, And so, no doubt, can you, and you. &#8211; Mary Oliver (via <a href="http://instagram.com/p/he3I3InyBy/">Saturated Palette</a>)</p></blockquote>
+<p>Sanibel Beach was my favorite coastline that we visited &#8211; the water was serene, there were no jellyfish and the beach was loaded with shells. I greedily collected all the capiz, abalone, and butterfly shells l could find and even came across magenta seaweed. Amazing!</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/12/Florida.jpg" rel="image_group"><img class="alignnone size-full wp-image-3649" alt="Florida" src="http://evie-s.com/news/wp-content/uploads/2013/12/Florida.jpg" width="602" height="779" /></a></p>
+<p>&nbsp;</p>
+<p>We are in Tulsa now, settled in for the month of December, and just in time for ice and snow in the forecast. Woo. But it will be nice spending Christmas with family and making some sweet memories of advent and longing for light in the darkness of winter. I hope you are somewhere safe and warm and perhaps enjoying a comfortingly hot beverage. Love to you!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/12/04/florida-treasure/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Nature Collection: South Carolina</title>
+		<link>http://evie-s.com/news/2013/11/17/nature-collection-south-carolina/</link>
+		<comments>http://evie-s.com/news/2013/11/17/nature-collection-south-carolina/#comments</comments>
+		<pubDate>Mon, 18 Nov 2013 01:18:43 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3636</guid>
+		<description><![CDATA[&#160; &#160; “If you will stay close to nature, to its simplicity, to the small things hardly noticeable, those things can unexpectedly become great and immeasurable.”  -Rainer Maria Rilke (via domesticpoetry) &#160; On our travels I&#8217;ve been collecting a growing bag of treasures from every place we visit. I don&#8217;t have the heart to just toss them out, so I decided to start a series of photographs of the natural findings from every state. South ...]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>“If you will stay close to nature, to its simplicity, to the small things hardly noticeable, those things can unexpectedly become great and immeasurable.”  -Rainer Maria Rilke <em>(via <a href="http://instagram.com/domesticpoetry">domesticpoetry</a>)</em></p>
+<p>&nbsp;</p>
+<p>On our travels I&#8217;ve been collecting a growing bag of treasures from every place we visit. I don&#8217;t have the heart to just toss them out, so I decided to start a series of photographs of the natural findings from every state. South Carolina was abundant in it&#8217;s beautiful natural fruits &#8211; the leaves were just about to turn so their were a few lucky ones that had already donned their new vibrant hue before it&#8217;s lonely descent towards earth. Rocks and flakes of Mica from the sand, bark from the White Birch, <a href="http://instagram.com/p/fVkSbBqUY4/">exotic wildflowers</a>, bracket fungus, and lovely <a href="http://mountainmoss.com/products-page/nursery/dicranum-mood-windswept-moss-tray/">Dicranum moss</a> were among the found treasures.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/09/SouthCarolina1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3638" alt="SouthCarolina" src="http://evie-s.com/news/wp-content/uploads/2013/09/SouthCarolina1.jpg" width="602" height="779" /></a></p>
+<p>I think it will be a fun project, and maybe I can eventually do this for every state!</p>
+<p>We are finishing up our visit in Florida this week while Kent works with the organization, <a href="http://onehope.net/">One Hope</a>. Florida has been beautiful, but I&#8217;ve been really happy to connect with some new friends here during our stay &#8211; it&#8217;s amazing how quickly one can feel isolated and alone without these kind of relationships on the road. Then, on to Kansas City for Thanksgiving!</p>
+<p>I&#8217;d love to hear from you in the comments &#8211; what are your Thanksgiving plans?</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/11/17/nature-collection-south-carolina/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Illustrations for Emma Magazine</title>
+		<link>http://evie-s.com/news/2013/11/01/illustrations-for-emma-magazine/</link>
+		<comments>http://evie-s.com/news/2013/11/01/illustrations-for-emma-magazine/#comments</comments>
+		<pubDate>Sat, 02 Nov 2013 00:48:43 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3630</guid>
+		<description><![CDATA[Hey y&#8217;all! We&#8217;ve been in the South for a few weeks so I&#8217;ve gotten the lazy drawl added into my Okie accent. It feels good to just let the words fall out of the mouth like that. If you want to see some highlights of our trip, just visit my instagram or vsco feed. We had such a fantastic time there, and my sister and her family really outdid themselves showing us all the beauty ...]]></description>
+				<content:encoded><![CDATA[<p>Hey y&#8217;all! We&#8217;ve been in the South for a few weeks so I&#8217;ve gotten the lazy drawl added into my Okie accent. It feels good to just let the words fall out of the mouth like that. If you want to see some highlights of our trip, just visit my <a href="http://instagram.com/evieshaffer">instagram</a> or <a href="http://evies.vsco.co/">vsco</a> feed. We had such a fantastic time there, and my sister and her family really outdid themselves showing us all the beauty South Carolina has to offer.</p>
+<p>I&#8217;ve been able to do a few illustration projects, and this spread for Emma Magazine in their <a href="http://www.emmamag.com/november-issue/">November issue</a> was great fun. If you want to get in the holiday spirit, go take a peek at it, it&#8217;s beautiful the whole way through! Happy Friday, friends.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/11/emma1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3631" alt="emma1" src="http://evie-s.com/news/wp-content/uploads/2013/11/emma1.jpg" width="602" height="595" /></a> <a href="http://evie-s.com/news/wp-content/uploads/2013/11/emma3.jpg" rel="image_group"><img class="alignnone size-full wp-image-3633" alt="emma3" src="http://evie-s.com/news/wp-content/uploads/2013/11/emma3.jpg" width="602" height="669" /></a></p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/11/emma21.jpg" rel="image_group"><img class="alignnone size-full wp-image-3634" alt="emma2" src="http://evie-s.com/news/wp-content/uploads/2013/11/emma21.jpg" width="602" height="637" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/11/01/illustrations-for-emma-magazine/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>October FTM Illustrations</title>
+		<link>http://evie-s.com/news/2013/10/25/october-ftm-illustrations/</link>
+		<comments>http://evie-s.com/news/2013/10/25/october-ftm-illustrations/#comments</comments>
+		<pubDate>Fri, 25 Oct 2013 22:42:07 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3625</guid>
+		<description><![CDATA[This might be my favorite collection yet by my friends at FTM. The Field Guide collection is a welcome to fall with a combination of lush botanicals, painterly florals, and unexpected visitors of the insect variety. Inspired by classic Dutch paintings (think Girl with a Pearl Earring minus Scarjo), the projects are infused with Delft blue, bud green, and yellow ochre. Each one was designed for the hopeless romantic.]]></description>
+				<content:encoded><![CDATA[<p>This might be my favorite collection yet by my friends at FTM. The <a href="https://www.forthemakers.com/collections/field-guide-collection">Field Guide collection</a> is a welcome to fall with a combination of lush botanicals, painterly florals, and unexpected visitors of the insect variety. Inspired by classic Dutch paintings (think Girl with a Pearl Earring minus Scarjo), the projects are infused with Delft blue, bud green, and yellow ochre. Each one was designed for the hopeless romantic.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/10/october-ftm.jpg" rel="image_group"><img class="alignnone size-full wp-image-3628" alt="october-ftm" src="http://evie-s.com/news/wp-content/uploads/2013/10/october-ftm.jpg" width="602" height="863" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/10/25/october-ftm-illustrations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Realities of RV Living</title>
+		<link>http://evie-s.com/news/2013/10/09/realities-of-rv-living/</link>
+		<comments>http://evie-s.com/news/2013/10/09/realities-of-rv-living/#comments</comments>
+		<pubDate>Thu, 10 Oct 2013 02:22:46 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Motherhood]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3611</guid>
+		<description><![CDATA[We are 23 days into our RV adventure. There have been highs and lows. The first week I was convinced that we wouldn&#8217;t make it. It was sweltering hot in Texas, we were still figuring out the new lifestyle and there were so. many. tantrums. My 3 year old is not making the transition easy. At least by now, Kent and I have figured out that we need to communicate 20x more than we were, ...]]></description>
+				<content:encoded><![CDATA[<p>We are 23 days into our RV adventure. There have been highs and lows. The first week I was convinced that we wouldn&#8217;t make it. It was sweltering hot in Texas, we were still figuring out the new lifestyle and there were so. many. tantrums. My 3 year old is not making the transition easy.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/10/realities.jpg" rel="image_group"><img class="alignnone size-full wp-image-3616" alt="realities" src="http://evie-s.com/news/wp-content/uploads/2013/10/realities.jpg" width="602" height="409" /></a></p>
+<p>At least by now, Kent and I have figured out that we need to communicate 20x more than we were, have way more grace for each other and just work together as a team. I understand that I show alot of the perfect, serene moments on <a href="http://instagram.com/evieshaffer">my instagram</a> feed, but what you don&#8217;t see is just as important because it&#8217;s reality.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/10/realities1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3614" alt="realities1" src="http://evie-s.com/news/wp-content/uploads/2013/10/realities1.jpg" width="602" height="602" /></a></p>
+<p>&nbsp;</p>
+<p>So there are upsides and downsides, as with anything new, and some of them are not mutually exclusive &#8211; each point is beneficial on it&#8217;s own but there is hardship that comes with even good things in life that are really valuable for growth. Living a life of terrific ease and comfort all the time never really taught anyone anything (that I know of). Here are the top 10 observations from a newbie traveler:</p>
+<h4>DOWNSIDES</h4>
+<p>1. Tight space = loss of dignity and personal space</p>
+<p>2. Less time to work (for me)</p>
+<p>3. No consistency</p>
+<p>4. Nowhere to put a screaming child</p>
+<p>5. Carsickness :( Anyone have any tips on remedies?</p>
+<p>6. One wrong switch flipped in the RV while driving into a gas station, we all blow up. For realz.</p>
+<p>7. Um, I ran out of &#8220;downsides&#8221; :)</p>
+<h4>UPSIDES</h4>
+<p>1. Meeting new people</p>
+<p>2. Seeing new places</p>
+<p>3. Building love and togetherness as a family</p>
+<p>4. A Simpler life</p>
+<p>6. Clean the whole house in an hour or less!</p>
+<p>7. Flexibility</p>
+<p>8. Focus on priorities in life &#8211; relationships, food, water, shelter, work &#8211; that pretty much sums it up</p>
+<p>9. More time to read, write and journal!</p>
+<p>10. A stronger, more intense season of walking with the Lord, listening and abiding</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/10/realities2.jpg" rel="image_group"><img class="alignnone size-full wp-image-3615" alt="realities2" src="http://evie-s.com/news/wp-content/uploads/2013/10/realities2.jpg" width="602" height="600" /></a></p>
+<p>&nbsp;</p>
+<blockquote><p>We shall not cease from exploration and at the end of all our exploring will be to arrive where we started and know the place for the first time. -T.S. Eliot, &#8220;The Four Quartets&#8221;</p></blockquote>
+<p>We are in South Carolina right now, soaking up some quality time with my older sis and her family. It&#8217;s lovely to be in the south during the fall season. The trees will be turning soon and life is really, really sweet. More updates to come!</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/10/09/realities-of-rv-living/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Circles 2013</title>
+		<link>http://evie-s.com/news/2013/09/26/circles-2013/</link>
+		<comments>http://evie-s.com/news/2013/09/26/circles-2013/#comments</comments>
+		<pubDate>Fri, 27 Sep 2013 02:31:32 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Design]]></category>
+		<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3598</guid>
+		<description><![CDATA[Last week was Circles Conference 2013, and just like last year, I left feeling charged, full, and energized for the creative journey ahead. My favorite talk, and most applicable right now, was Ben Jenkins from One Fast Buffalo. Six years ago he traded his overdone life for the bare essentials life of living in an RV. Kent and I got talk to him at the speakers dinner and pick his brain. The main takeaway from ...]]></description>
+				<content:encoded><![CDATA[<p><a href="http://evie-s.com/news/wp-content/uploads/2013/09/circles1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3602" alt="circles1" src="http://evie-s.com/news/wp-content/uploads/2013/09/circles1.jpg" width="602" height="679" /></a></p>
+<p>Last week was <a href="http://www.circlesconference.com">Circles Conference 2013</a>, and just like last year, I left feeling charged, full, and energized for the creative journey ahead. My favorite talk, and most applicable right now, was Ben Jenkins from <a href="http://www.onefastbuffalo.com">One Fast Buffalo</a>. Six years ago he traded his overdone life for the bare essentials life of living in an RV. Kent and I got talk to him at the <a href="https://www.facebook.com/circlesconference">speakers dinner</a> and pick his brain. The main takeaway from our conversation, was, &#8220;it&#8217;s all about togetherness.&#8221; We are 12 days into our journey on the road and that is for sure what I&#8217;m seeing. But, more about that later.</p>
+<p>He talked about what is essential in life and what is not &#8211; and for our journey of simplicity right now, it resonated in a big way. I&#8217;m totally stealing this from his talk, but here it is.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/09/essentials1.gif" rel="image_group"><img class="alignnone size-full wp-image-3605" alt="essentials" src="http://evie-s.com/news/wp-content/uploads/2013/09/essentials1.gif" width="602" height="600" /></a></p>
+<p>&nbsp;</p>
+<p>The way he sees it there are 24 hours in a day &#8211; 8 hours for work &#8211; 8 for play &#8211; and 8 for sleeping. His best work is done in solitude and he believes that every artist needs solitude  plus participation (exploring, interacting with people, etc) for the best work to come. There definitely was a common theme through a lot of the talks about creating more with love and integrity and simplifying so you can experience more and focus on relationships. <a href="http://www.lottanieminen.com/">Lotta Nieminen</a> talked about this when she realized she felt more like a factory than a designer, and she was just crossing projects off the list, not doing them with love.</p>
+<blockquote><p>Too tired and too busy is very American. Slow down. Slow is better. -Ben Jenkins</p></blockquote>
+<p>I also got to meet a designer I admire very much, <a href="http://www.thefreshexchangeblog.com/">Megan Gilger</a>. Her talk was wonderful and her slides were just delicious. I love everything she creates, right down to the life that her and her husband lives.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/09/circles2.jpg" rel="image_group"><img class="alignnone size-full wp-image-3603" alt="circles2" src="http://evie-s.com/news/wp-content/uploads/2013/09/circles2.jpg" width="602" height="602" /></a></p>
+<h6>Photo from my <a href="http://instagram.com/evieshaffer">Instagram feed</a></h6>
+<p>It was so fun to be with other creatives, but not just creatives who are ambitious and talented, but Circles attracts a very special crowd that seems to want more from creativity than just big name clients, money or building a big name. It might sound cliche, but there is definitely a commonality in wanting to use art and creativity for good and to bring change in the world. That is what I love about this conference. I walked away with a lot to process and a lot to build upon.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/09/26/circles-2013/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>New FTM Collections</title>
+		<link>http://evie-s.com/news/2013/09/10/new-ftm-collections/</link>
+		<comments>http://evie-s.com/news/2013/09/10/new-ftm-collections/#comments</comments>
+		<pubDate>Tue, 10 Sep 2013 20:36:56 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3590</guid>
+		<description><![CDATA[The September FTM collection just dropped today and I&#8217;m also posting last month&#8217;s illustrations to play catch up. :) Lovely projects as always. Happy Tuesday!]]></description>
+				<content:encoded><![CDATA[<p>The September <a href="https://www.forthemakers.com/collections">FTM collection</a> just dropped today and I&#8217;m also posting last month&#8217;s illustrations to play catch up. :)</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/09/ftmaug.jpg" rel="image_group"><img class="alignnone size-full wp-image-3591" alt="ftmaug" src="http://evie-s.com/news/wp-content/uploads/2013/09/ftmaug.jpg" width="600" height="700" /></a> <a href="http://evie-s.com/news/wp-content/uploads/2013/09/ftmsept.jpg" rel="image_group"><img class="alignnone size-full wp-image-3592" alt="ftmsept" src="http://evie-s.com/news/wp-content/uploads/2013/09/ftmsept.jpg" width="600" height="700" /></a></p>
+<p>Lovely projects as always. Happy Tuesday!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/09/10/new-ftm-collections/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Shabby Apple Giveaway</title>
+		<link>http://evie-s.com/news/2013/08/30/shabby-apple-giveaway/</link>
+		<comments>http://evie-s.com/news/2013/08/30/shabby-apple-giveaway/#comments</comments>
+		<pubDate>Sat, 31 Aug 2013 01:55:35 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Giveaways]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3571</guid>
+		<description><![CDATA[It&#8217;s been a while since a giveaway &#8211; here is one to help you celebrate the end of summer and labor day weekend. Shabby Apple, an online store with the loveliest vintage clothing, contacted me recently to offer one lucky reader a free dress! The Gondola dress is a beautiful classic &#8211; kelly green with navy stripes with a shape to flatter anyone. I loved the dress they sent me, a sweet vintage look that is ...]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s been a while since a giveaway &#8211; here is one to help you celebrate the end of summer and labor day weekend. <a href="http://www.shabbyapple.com">Shabby Apple</a>, an online store with the loveliest <a href="http://www.shabbyapple.com/c-458-vintage-style.aspx">vintage clothing</a>, contacted me recently to offer one lucky reader a free dress! The <a href="http://www.shabbyapple.com/p-955-gondola.aspx?promo=true">Gondola dress</a> is a beautiful classic &#8211; kelly green with navy stripes with a shape to flatter anyone.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/08/shabbyapple.jpg" rel="image_group"><img class="alignnone size-full wp-image-3572" alt="shabbyapple" src="http://evie-s.com/news/wp-content/uploads/2013/08/shabbyapple.jpg" width="602" height="750" /></a></p>
+<p>I loved the dress they sent me, a sweet vintage look that is right down my alley, named <a href="http://www.shabbyapple.com/p-2009-sea-breeze.aspx?promo=true">Sea Breeze</a>. It&#8217;s so cute, and very comfortable. It&#8217;s a great casual summer dress, but I can picture wearing this in the fall with my favorite red boots and a light sweater.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/08/seabreeze1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3576" alt="seabreeze" src="http://evie-s.com/news/wp-content/uploads/2013/08/seabreeze1.jpg" width="480" height="640" /></a> <a href="http://evie-s.com/news/wp-content/uploads/2013/08/seabreeze2.jpg" rel="image_group"><img class="alignnone size-full wp-image-3577" alt="seabreeze2" src="http://evie-s.com/news/wp-content/uploads/2013/08/seabreeze2.jpg" width="480" height="540" /></a></p>
+<p>To enter, just leave a comment below after visiting <a href="http://www.shabbyapple.com">Shabby Apple&#8217;s site</a> &#8211; a winner will be randomly drawn one week from now. OK, have fun!</p>
+<p>&#8212;&#8212;</p>
+<p><em>POST UPDATE: Congrats to Mark Burleson, comment #27 who won his cute wifey a new dress! I will be in touch to get it to you. Thanks to all who entered!</em></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/08/30/shabby-apple-giveaway/feed/</wfw:commentRss>
+		<slash:comments>30</slash:comments>
+		</item>
+		<item>
+		<title>Art &amp; Practicality</title>
+		<link>http://evie-s.com/news/2013/08/21/art-practicality/</link>
+		<comments>http://evie-s.com/news/2013/08/21/art-practicality/#comments</comments>
+		<pubDate>Thu, 22 Aug 2013 04:48:48 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3557</guid>
+		<description><![CDATA[I recently finished up a 6-week acrylic painting class with instructor and painter, Bert Seabourn. I’ve loved his work since being introduced to it about a year ago, and my husband thought it was high time I take his class at City Arts in OKC. Bert is awesome. A color and composition genius. He works really hard at his craft – working at least 8 hours a day. He’s 82 years old now and he ...]]></description>
+				<content:encoded><![CDATA[<p>I recently finished up a 6-week acrylic painting class with instructor and painter, <a href="http://fineartamerica.com/profiles/bert-seabourn.html">Bert Seabourn</a>. I’ve loved his work since being introduced to it about a year ago, and my husband thought it was high time I take his class at City Arts in OKC. Bert is awesome. A color and composition genius. He works really hard at his craft – working at least 8 hours a day. He’s 82 years old now and he will tell you the best thing about this point in his career, is that 9 out of 10 paintings he creates are good. His skill is so consistent, that you can bet on a masterpiece every time he’s put down the last brush stroke of paint.</p>
+<p>Awhile ago I was reading an interview with a very well-known and talented artist whose work I really admire. I won&#8217;t quote his name out of respect for him, but something he said really bugged me. The question was, “What does art do for the world?” His answer was puzzling. He said, “I don’t believe that art does anything for the world, just consume resources like every other human activity.” What??! I wholeheartedly disagree. Art can transcend cultural barriers. Art can move and inspire. Art can convey truth that sometimes words alone fail to do. Art is just as much a journey of discovery for the artist as it is for the viewer. How can that be in vain?</p>
+<p>While I&#8217;m sure many can argue the practicality of art, for me personally it is an essential tool for discovering the world and the Creator. Without art, I would shrivel up, the world would seem dull and lonely. Without encountering and engaging beauty, I&#8217;m not sure that my faith would be so strong. This is why I&#8217;m seeking to improve my skills &#8211; so maybe I can communicate the holy creativity of God that much better. I may not be able to put in the hours that Bert does, but I&#8217;m certainly going to be disciplined to put in more than I have in the past.</p>
+<p>Bert is someone that will contend for art and the practicality of it. Through his example, my love for art has grown even more. After ending the course, in between meeting so many new friends while talking and drinking wine and sangria, there was definitely a confirmation in the discovery that I love painting portraits. I have always been drawn to portraits. Actually, painting anything else feels like mundane work, but painting people – there is something so intimate, raw, familiar and spiritual about painting a human that keeps me coming back to it again and again.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/08/lady1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3564" alt="lady1" src="http://evie-s.com/news/wp-content/uploads/2013/08/lady1.jpg" width="602" height="452" /></a></p>
+<blockquote><p>An interest in the subject; something you want to say definitely about the subject; this is the first condition of a portrait. Completion does not depend on material representation. The work is done when that special thing has been said.<br />
+-Robert Henri, The Art Spirit</p></blockquote>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/08/022.jpg" rel="image_group"><img class="alignnone size-full wp-image-3567" alt="022" src="http://evie-s.com/news/wp-content/uploads/2013/08/022.jpg" width="602" height="452" /></a></p>
+<p>Anyway, these are a couple of mine that came out of the class. I hope to be painting while on the road this fall. I’m sure I will encounter plenty of beautiful subjects while on our travels. My hope is that our lives and stories will intertwine with many along the way, and much &#8220;impractical&#8221; art will come out of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/08/21/art-practicality/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Anniversary Illustration</title>
+		<link>http://evie-s.com/news/2013/08/14/anniversary-illustration/</link>
+		<comments>http://evie-s.com/news/2013/08/14/anniversary-illustration/#comments</comments>
+		<pubDate>Thu, 15 Aug 2013 02:42:11 +0000</pubDate>
+		<dc:creator>evie s.</dc:creator>
+				<category><![CDATA[Art]]></category>
+
+		<guid isPermaLink="false">http://evie-s.com/news/?p=3549</guid>
+		<description><![CDATA[Occasionally I get a request to create an illustration for a couple celebrating an anniversary, with all their highlights and stats since being together. What a special way to celebrate everything you&#8217;ve been through together, the good AND the difficult. I love getting a glimpse into another couple&#8217;s journey. This one in particular was so sweet to be a part of, and really fun to work on. &#160; Want one too with your awesome couple ...]]></description>
+				<content:encoded><![CDATA[<p>Occasionally I get a request to create an illustration for a couple celebrating an anniversary, with all their highlights and stats since being together. What a special way to celebrate everything you&#8217;ve been through together, the good AND the difficult. I love getting a glimpse into another couple&#8217;s journey. This one in particular was so sweet to be a part of, and really fun to work on.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2013/08/anniversary_art.jpg" rel="image_group"><img class="alignnone size-full wp-image-3558" alt="anniversary_art" src="http://evie-s.com/news/wp-content/uploads/2013/08/anniversary_art.jpg" width="602" height="853" /></a></p>
+<p>&nbsp;</p>
+<p>Want one too with your awesome couple stats? Just message me &#8211; info at evie-s.com</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://evie-s.com/news/2013/08/14/anniversary-illustration/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html lang="en-US" class=" html_stretched responsive fixed_header social_header ">
+<head>
+	<!-- Optimizely -->
+	<script src="//cdn.optimizely.com/js/2308410383.js?5801a2"></script>
+	
+
+<meta charset="UTF-8" />
+<title>Top 50 Consumer Electronics Blogs | Cision</title>
+<!-- page title, displayed in your browser bar -->
+
+<link rel="icon" href="http://static.cision.com/us/wp-content/uploads/2014/01/favicon.ico?5801a2" type="image/x-icon">
+
+<!-- add feeds, pingback and stuff-->
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Cision RSS2 Feed" href="http://www.cision.com/us/feed/" />
+<link rel="pingback" href="http://www.cision.com/us/xmlrpc.php" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=cision" async="async"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Cision &raquo; Feed" href="http://www.cision.com/us/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cision &raquo; Comments Feed" href="http://www.cision.com/us/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cision &raquo; Top 50 Consumer Electronics Blogs Comments Feed" href="http://www.cision.com/us/2012/12/top-50-consumer-electronics-blogs/feed/" />
+<link rel='stylesheet' id='avia-media-style-css'  href='http://static.cision.com/us/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-media.css?5801a2?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href="http://www.cision.com/us/wp-content/plugins/contact-form-7/includes/css/styles.css?5801a2" type='text/css' media='all' />
+<link rel='stylesheet' id='myCustomStyles-css'  href='http://static.cision.com/us/wp-content/themes/cision/editor-styles.css?5801a2?ver=3.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='http://static.cision.com/us/wp-content/themes/enfold/css/grid.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-base-css'  href='http://static.cision.com/us/wp-content/themes/enfold/css/base.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-layout-css'  href='http://static.cision.com/us/wp-content/themes/enfold/css/layout.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-scs-css'  href='http://static.cision.com/us/wp-content/themes/enfold/css/shortcodes.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-prettyP-css'  href='http://static.cision.com/us/wp-content/themes/enfold/js/prettyPhoto/css/prettyPhoto.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='http://static.cision.com/us/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='http://static.cision.com/us/wp-content/uploads/dynamic_avia/cision.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-custom-css'  href='http://static.cision.com/us/wp-content/themes/enfold/css/custom.css?5801a2?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-style-css'  href='http://static.cision.com/us/wp-content/themes/cision/style.css?5801a2?ver=2' type='text/css' media='screen' />
+<link rel='stylesheet' id='wpgmaps-style-css'  href="http://www.cision.com/us/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?5801a2" type='text/css' media='all' />
+<script type='text/javascript' src='http://static.cision.com/us/wp-includes/js/jquery/jquery.js?5801a2?ver=1.10.2'></script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-includes/js/jquery/jquery-migrate.min.js?5801a2?ver=1.2.1'></script>
+<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.hoverIntent.minified.js?5801a2"></script>
+<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.cookie.js?5801a2"></script>
+<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.dcjqaccordion.2.9.js?5801a2"></script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-content/themes/enfold/js/avia-compat.js?5801a2?ver=1'></script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-includes/js/comment-reply.min.js?5801a2?ver=3.8.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cision.com/us/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://static.cision.com/us/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='PR &amp; Marketing Wins, Moves &amp; Other News' href='http://www.cision.com/us/2012/12/pr-marketing-wins-moves-other-news-11/' />
+<link rel='next' title='Augmented Reality' href='http://www.cision.com/us/2012/12/augmented-reality/' />
+<meta name="generator" content="WordPress 3.8.1" />
+<link rel='shortlink' href='http://www.cision.com/us/?p=10466' />
+<link rel='canonical' href='http://www.cision.com/us/2012/12/top-50-consumer-electronics-blogs/' />
+<link rel="author" href="https://plus.google.com/+cision/"/><!--[if lt IE 9]><script src="http://static.cision.com/us/wp-content/themes/enfold/js/html5shiv.js?5801a2"></script><![endif]-->
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[226,277] -->
+<meta name="description" content="Photo courtesy of public-domain-image via Creative Commons This is a guest post from Kristen Sala, director, media research and Beth Blanchard, manager," />
+
+<meta name="keywords" content="consumer electronics,top blog list" />
+
+<link rel="canonical" href="http://www.cision.com/us/2012/12/top-50-consumer-electronics-blogs/" />
+<!-- /all in one seo pack -->
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 2.4.2
+Installed: enfold
+AviaFramework Version: 1.8.5
+AviaBuilder Version: 0.4
+- - - - - - - - - - -
+ChildTheme: Cision
+ChildTheme Version: 1.0.0
+ChildTheme Installed: enfold
+
+ML:268435456-PU:59-PLA:28
+-->
+
+<style type='text/css'>
+	
+	@font-face {
+	font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+	src: url('http://www.cision.com/us/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=2');
+	src: url('http://www.cision.com/us/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=2#iefix') format('embedded-opentype'), 
+	     url('http://www.cision.com/us/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=2') format('woff'), 
+	     url('http://static.cision.com/us/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?5801a2?v=2') format('truetype'), 
+	     url('http://www.cision.com/us/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=2#entypo-fontello') format('svg');
+	}
+	
+	#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+				
+	
+	@font-face {
+	font-family: 'fontello'; font-weight: normal; font-style: normal;
+	src: url('http://static.cision.com/us/wp-content/uploads/avia_fonts/fontello/fontello.eot?5801a2');
+	src: url('http://static.cision.com/us/wp-content/uploads/avia_fonts/fontello/fontello.eot?#iefix') format('embedded-opentype'), 
+	     url('http://static.cision.com/us/wp-content/uploads/avia_fonts/fontello/fontello.woff?5801a2') format('woff'), 
+	     url('http://static.cision.com/us/wp-content/uploads/avia_fonts/fontello/fontello.ttf?5801a2') format('truetype'), 
+	     url('http://static.cision.com/us/wp-content/uploads/avia_fonts/fontello/fontello.svg#fontello') format('svg');
+	}
+	
+	#top .avia-font-fontello, body .avia-font-fontello, html body [data-av_iconfont='fontello']:before{ font-family: 'fontello'; }
+				</style>
+<!--
+/**
+ * @license
+ * MyFonts Webfont Build ID 2730037, 2014-01-21T15:34:02-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Proxima Nova A Extrabold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-extrabld-it/
+ *
+ * Webfont: Proxima Nova S Extrabold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-extrabld-it/
+ *
+ * Webfont: Proxima Nova S Extrabold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-extrabld/
+ *
+ * Webfont: Proxima Nova A Extrabold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-extrabld/
+ *
+ * Webfont: Proxima Nova S Semibold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-semibold-it/
+ *
+ * Webfont: Proxima Nova A Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold/
+ *
+ * Webfont: Proxima Nova A Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-regular-it/
+ *
+ * Webfont: Proxima Nova S Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-regular/
+ *
+ * Webfont: Proxima Nova S Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-semibold/
+ *
+ * Webfont: Proxima Nova S Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-regular-it/
+ *
+ * Webfont: Proxima Nova S Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-bold/
+ *
+ * Webfont: Proxima Nova A Bold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-bold-it/
+ *
+ * Webfont: Proxima Nova A Semibold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-semibold-it/
+ *
+ * Webfont: Proxima Nova A Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-semibold/
+ *
+ * Webfont: Proxima Nova S Bold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/s-bold-it/
+ *
+ * Webfont: Proxima Nova A Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/a-regular/
+ *
+ * Webfont: Proxima Nova Extrabold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/extrabld-it/
+ *
+ * Webfont: Proxima Nova Extrabold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/extrabld/
+ *
+ * Webfont: Proxima Nova Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular-it/
+ *
+ * Webfont: Proxima Nova Semibold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold-it/
+ *
+ * Webfont: Proxima Nova Semibold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/semibold/
+ *
+ * Webfont: Proxima Nova Bold Italic by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold-it/
+ *
+ * Webfont: Proxima Nova Regular by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/regular/
+ *
+ * Webfont: Proxima Nova Bold by Mark Simonson
+ * URL: http://www.myfonts.com/fonts/marksimonson/proxima-nova/bold/
+ *
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2730037
+ * Licensed pageviews: 1,000,000
+ * Webfonts copyright: Copyright (c) Mark Simonson, 2005. All rights reserved.
+ *
+ * © 2014 MyFonts Inc
+*/
+
+-->
+<link rel="stylesheet" type="text/css" href="http://static.cision.com/us/wp-content/themes/cision/MyFontsWebfontsKit.css?5801a2">
+
+<!--[if lt IE 9]>
+<style>
+#top .avia_button_icon:before { display: none !important; }
+</style>
+<![endif]-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-583116-2', 'cision.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+
+
+
+<body id="top" class="single single-post postid-10466 single-format-standard stretched " itemscope="itemscope" itemtype="http://schema.org/WebPage" >
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQXXC4"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WQXXC4');</script>
+	<!-- End Google Tag Manager -->
+
+	<div id='wrap_all'>
+
+		
+        <header id='header' class=' header_color light_bg_color mobile_slide_out'  role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
+
+            <a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>            <div id='header_meta' class='container_wrap container_wrap_meta'>
+
+                  <div class='container'>
+                                      <nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" ><div class='phone-info with_nav'><span><a href="tel:18666395087">1-866-639-5087</a></span></div><ul id="avia2-menu" class="menu"><li id="menu-item-53034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53034"><a href="http://www.cision.com/us/blog/">Blog</a></li>
+<li id="menu-item-53062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53062"><a target="_blank" href="http://www.whyworkatcision.com/">Careers</a></li>
+<li id="menu-item-53035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53035"><a href="http://www.cision.com/us/client-login/">Client Login</a></li>
+</ul></nav>                  </div>
+            </div>
+
+            
+
+
+            <div  id='header_main' class='container_wrap container_wrap_logo'>
+
+                    
+                    <div class='container'>
+
+                        <strong class='logo'><a href='http://www.cision.com/us/'><img src='http://cision-wp-files.s3.amazonaws.com/us/wp-content/uploads/2015/02/cision-logo-R.png' alt='Cision' /></a></strong><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" ><div class="avia-menu"><ul id="avia-menu" class="menu"><li id="menu-item-53039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.cision.com/us/products/"><span class="avia-bullet"></span>Products<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-53040" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/pr-software/"><span class="avia-bullet"></span>PR Software</a></li>
+	<li id="menu-item-53044" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/social-software/"><span class="avia-bullet"></span>Social Software</a></li>
+	<li id="menu-item-53046" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/government-relations/"><span class="avia-bullet"></span>Government Relations &#038; PAC Software</a></li>
+	<li id="menu-item-54164" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.prweb.com"><span class="avia-bullet"></span>PRWeb</a></li>
+	<li id="menu-item-54165" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.helpareporterout.com"><span class="avia-bullet"></span>Help a Reporter Out (HARO)</a></li>
+</ul>
+</li>
+<li id="menu-item-54486" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/global-insights/"><span class="avia-bullet"></span>Global Insights<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-56685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="/us/pricing/?clid=topnav_menu"><span class="avia-bullet"></span>Pricing<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-53032" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/pricing/"><span class="avia-bullet"></span>PR Pricing</a></li>
+	<li id="menu-item-53318" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/pricing/gr-and-pac/"><span class="avia-bullet"></span>GR and PAC Pricing</a></li>
+</ul>
+</li>
+<li id="menu-item-53027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.cision.com/us/success-stories/"><span class="avia-bullet"></span>Success Stories<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-54657" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/success-stories/media-database/"><span class="avia-bullet"></span>Media Database</a></li>
+	<li id="menu-item-53028" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/success-stories/news-release-distribution/"><span class="avia-bullet"></span>News Release Distribution</a></li>
+	<li id="menu-item-53051" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/success-stories/media-and-social-monitoring/"><span class="avia-bullet"></span>Media &#038; Social Monitoring</a></li>
+	<li id="menu-item-53029" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/success-stories/media-analysis-and-reporting/"><span class="avia-bullet"></span>Media Analysis &#038; Reporting</a></li>
+	<li id="menu-item-55221" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/success-stories/testimonials/"><span class="avia-bullet"></span>Testimonials</a></li>
+</ul>
+</li>
+<li id="menu-item-53119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.cision.com/us/resources/"><span class="avia-bullet"></span>Resources<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-53303" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/resources/webinars-events/"><span class="avia-bullet"></span>Webinars &#038; Events</a></li>
+	<li id="menu-item-53304" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/resources/public-relations/"><span class="avia-bullet"></span>Public Relations Resources</a></li>
+	<li id="menu-item-53312" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/resources/social-media/"><span class="avia-bullet"></span>Social Media Resources</a></li>
+	<li id="menu-item-53309" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/resources/measurement-and-analytics/"><span class="avia-bullet"></span>Measurement &#038; Analytics</a></li>
+	<li id="menu-item-53314" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/resources/marketing/"><span class="avia-bullet"></span>Marketing Resources</a></li>
+	<li id="menu-item-53310" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.cision.com/us/resources/university-program/"><span class="avia-bullet"></span>University Program</a></li>
+</ul>
+</li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown"><a href="?s=" data-avia-search-tooltip="
+
+&lt;form action=&quot;http://www.cision.com/us/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a></li></ul></div></nav>                    <!-- end container-->
+                    </div>
+
+
+
+            <!-- end container_wrap-->
+            </div>
+
+            <div class='header_bg'></div>
+
+        <!-- end header -->
+        </header>
+
+		<div id='main'>		<div id="categoriesHeader">
+			<nav class='blog-detail-categories-menu'><ul id="avia4-menu" class="categoriesMenu"><li id="menu-item-1019" class="cat-item cat-root menu-item menu-item-type-taxonomy menu-item-object-category"><a class="cat-name" href="http://www.cision.com/us/category/featured/"><div class='img_holder'><img src=http://www.cision.com/us/wp-content/uploads/2014/01/cat_featured.png /></div><br />Featured</a></li>
+<li id="menu-item-15599" class="cat-item cat-root menu-item menu-item-type-taxonomy menu-item-object-category"><a class="cat-name" href="http://www.cision.com/us/category/top-lists/"><div class='img_holder'><img src=http://www.cision.com/us/wp-content/uploads/2014/01/cat_top_social_lists.png /></div><br />Top Lists</a></li>
+<li id="menu-item-15600" class="cat-item cat-root menu-item menu-item-type-taxonomy menu-item-object-category"><a class="cat-name" href="http://www.cision.com/us/category/influencers/"><div class='img_holder'><img src=http://www.cision.com/us/wp-content/uploads/2014/01/cat_influencerQA.png /></div><br />Influencers</a></li>
+<li id="menu-item-1018" class="cat-item cat-root menu-item menu-item-type-taxonomy menu-item-object-category"><a class="cat-name" href="http://www.cision.com/us/category/best-practices/"><div class='img_holder'><img src=http://www.cision.com/us/wp-content/uploads/2014/01/cat_best_practices.png /></div><br />Best Practices</a></li>
+<li id="menu-item-1015" class="cat-item cat-root menu-item menu-item-type-taxonomy menu-item-object-category"><a class="cat-name" href="http://www.cision.com/us/category/trends/"><div class='img_holder'><img src=http://www.cision.com/us/wp-content/uploads/2014/01/cat_trends.png /></div><br />Trends</a></li>
+<li id="menu-item-1014" class="cat-item cat-root menu-item menu-item-type-taxonomy menu-item-object-category"><a class="cat-name" href="http://www.cision.com/us/category/media-updates/"><div class='img_holder'><img src=http://www.cision.com/us/wp-content/uploads/2014/01/cat_media_updates.png /></div><br />Media Updates</a></li>
+</ul></nav>
+		</div>
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+
+			<div class='container template-blog template-single-blog '>
+
+				<main class='content units nine alpha'  role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog" >
+					<div class="topContainer">
+						<h2 class="postCat"><a href="http://www.cision.com/us/category/social_media/">Social Media</a></h2>
+						
+					</div>
+                    <article class='post-10466 post type-post status-publish format-standard hentry category-social_media tag-consumer-electronics tag-top-blog-list post-entry post-entry-type-standard post-entry-10466 post-loop-1 post-parity-odd post-entry-last single-big '  itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" ><div class='blog-meta'></div><div class='entry-content-wrapper clearfix standard-content'><header class="entry-content-header"><h1 class='post-title entry-title'  itemprop="headline" >	<a href='http://www.cision.com/us/2012/12/top-50-consumer-electronics-blogs/' rel='bookmark' title='Permanent Link: Top 50 Consumer Electronics Blogs'>Top 50 Consumer Electronics Blogs			<span class='post-format-icon minor-meta'></span>	</a></h1><span class='post-meta-infos'><time class='date-container minor-meta updated'  itemprop="datePublished" datetime="2012-12-13T15:52:04+00:00" >December 13, 2012</time><span class='text-sep text-sep-date'>/</span><span class='comment-container minor-meta'><a href="http://www.cision.com/us/2012/12/top-50-consumer-electronics-blogs/#comments" class="comments-link"  title="Comment on Top 50 Consumer Electronics Blogs"><span class="dsq-postid" data-dsqidentifier="10466 http://blog.us.cision.com/?p=10466">2 Comments</span></a></span><span class='text-sep text-sep-comment'>/</span><span class="blog-categories minor-meta">in <a href="http://www.cision.com/us/category/social_media/" rel="tag">Social Media</a>    </span><span class="text-sep text-sep-cat">/</span><span class="blog-author minor-meta">by <span class="entry-author-link"  itemprop="name" ><span class="vcard author"><span class="fn"><a href="http://www.cision.com/us/author/cisioncontributor/" title="Posts by Cision Contributor" rel="author">Cision Contributor</a></span></span></span></span></span></header><div class="entry-content"  itemprop="text" ><div id="attachment_10469" style="width: 310px" class="wp-caption alignright"><a href="http://blog.us.cision.com/2012/12/electronics/" rel="attachment wp-att-10469"><img class="size-medium wp-image-10469  " style="margin: 10px;" alt="Photo courtesy of public-domain-image via Creative Commons" src="http://blog.us.cision.com/wp-content/uploads/2012/12/electronics-300x225.jpg" width="300" height="225" /></a><p class="wp-caption-text">Photo courtesy of public-domain-image via Creative Commons</p></div>
+<p><i>This is a guest post from Kristen Sala, director, media research and Beth Blanchard, manager, electronic media.</i></p>
+<p>The <a href="http://www.cesweb.org/" target="_blank">2013 International Consumer Electronics Show</a> will be held Jan. 8-11 in Las Vegas and will feature the latest consumer technology by hundreds of exhibitors from around the world.</p>
+<p>In preparation for this show, we’ve ranked the top 50 independent consumer electronics blogs in North America. Whether you’re a tech fanatic wanting to keep up with the latest consumer trends, or a novice techie looking for a great holiday gift, something on this list is sure to suit your needs.  The list was created using <a href="http://us.cision.com/media-database/media-database-overview.asp" target="_blank">Cision’s media database</a> and blogs are ranked based on our <a href="http://blog.us.cision.com/2011/08/the-cision-influence-rating/" target="_blank">Cision Influence Rating</a>.  While many of these blogs focus on computer and video game tips and reviews, others offer reviews and news related to photography, mobile apps and features, and computer technology.</p>
+<p>For other great consumer electronics content, download our <a href="http://us.cision.com/news_room/press_releases/2012/2012-12-13-2012-cision-announces-north-america-top-50-consumer-electronics-blogs.asp " target="_blank">free briefing book</a> or check out our ranking of the <a href="http://navigator.cision.com/Top_10_Mashable_Staffers_on_Twitter.aspx">top 10 Mashable contacts</a> featured on <a href="http://navigator.cision.com" target="_blank">CisionNavigator</a>.</p>
+<p><span id="more-10466"></span></p>
+<table width="371" border="0" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="77" />
+<col width="125" />
+<col width="169" /> </colgroup>
+<tbody>
+<tr>
+<td width="77" height="46">1</td>
+<td width="125"><a href="http://www.engadget.com/">Engadget</a></td>
+<td width="169">www.engadget.com</td>
+</tr>
+<tr>
+<td width="77" height="46">2</td>
+<td width="125"><a href="http://gizmodo.com/">Gizmodo</a></td>
+<td width="169">gizmodo.com</td>
+</tr>
+<tr>
+<td width="77" height="46">3</td>
+<td width="125"><a href="http://www.joystiq.com/">Joystiq</a></td>
+<td width="169">www.joystiq.com</td>
+</tr>
+<tr>
+<td width="77" height="46">4</td>
+<td width="125"><a href="http://kotaku.com/">Kotaku</a></td>
+<td width="169">www.kotaku.com</td>
+</tr>
+<tr>
+<td width="77" height="46">5</td>
+<td width="125"><a href="http://www.androidcentral.com/">Android Central</a></td>
+<td width="169">www.androidcentral.com</td>
+</tr>
+<tr>
+<td width="77" height="46">6</td>
+<td width="125"><a href="http://jayisgames.com/">Jay Is Games</a></td>
+<td width="169">jayisgames.com</td>
+</tr>
+<tr>
+<td width="77" height="46">7</td>
+<td width="125"><a href="http://www.gamefront.com/">GameFront</a></td>
+<td width="169">www.gamefront.com</td>
+</tr>
+<tr>
+<td width="77" height="46">8</td>
+<td width="125"><a href="http://toucharcade.com/">TouchArcade</a></td>
+<td width="169">toucharcade.com</td>
+</tr>
+<tr>
+<td width="77" height="46">9</td>
+<td width="125"><a href="http://9to5mac.com/">9to5Mac</a></td>
+<td width="169">9to5mac.com</td>
+</tr>
+<tr>
+<td width="77" height="46">10</td>
+<td width="125"><a href="http://dvice.com/">Dvice</a></td>
+<td width="169">dvice.com</td>
+</tr>
+<tr>
+<td width="77" height="46">11</td>
+<td width="125"><a href="http://blog.us.playstation.com/">PlayStation.Blog</a></td>
+<td width="169">blog.us.playstation.com</td>
+</tr>
+<tr>
+<td width="77" height="46">12</td>
+<td width="125"><a href="http://bgr.com/">BGR</a></td>
+<td width="169">www.bgr.com</td>
+</tr>
+<tr>
+<td width="77" height="46">13</td>
+<td width="125"><a href="http://hackaday.com/">Hack a Day</a></td>
+<td width="169">www.hackaday.com</td>
+</tr>
+<tr>
+<td width="77" height="46">14</td>
+<td width="125"><a href="http://www.casualgameguides.com/">Casual Games Guides</a></td>
+<td width="169">www.casualgameguides.com</td>
+</tr>
+<tr>
+<td width="77" height="46">15</td>
+<td width="125"><a href="http://www.gameranx.com/">Gameranx</a></td>
+<td width="169">www.gameranx.com</td>
+</tr>
+<tr>
+<td width="77" height="46">16</td>
+<td width="125"><a href="http://www.pastapadre.com/">pastapadre.com</a></td>
+<td width="169">www.pastapadre.com</td>
+</tr>
+<tr>
+<td width="77" height="46">17</td>
+<td width="125"><a href="http://www.psu.com/">PlayStation Universe</a></td>
+<td width="169">www.psu.com</td>
+</tr>
+<tr>
+<td width="77" height="46">18</td>
+<td width="125"><a href="http://www.ripten.com/">Ripten</a></td>
+<td width="169">www.ripten.com</td>
+</tr>
+<tr>
+<td width="77" height="46">19</td>
+<td width="125"><a href="http://hackedgadgets.com/">Hacked Gadgets</a></td>
+<td width="169">hackedgadgets.com</td>
+</tr>
+<tr>
+<td width="77" height="46">20</td>
+<td width="125"><a href="http://www.videogum.com/">Videogum</a></td>
+<td width="169">www.videogum.com</td>
+</tr>
+<tr>
+<td width="77" height="46">21</td>
+<td width="125"><a href="http://anythingbutipod.com/">Anything But iPod</a></td>
+<td width="169">anythingbutipod.com</td>
+</tr>
+<tr>
+<td width="77" height="46">22</td>
+<td width="125"><a href="http://www.justpushstart.com/">Just Push Start</a></td>
+<td width="169">www.justpushstart.com</td>
+</tr>
+<tr>
+<td width="77" height="46">23</td>
+<td width="125"><a href="http://www.pixiq.com/">Pixiq</a></td>
+<td width="169">www.pixiq.com</td>
+</tr>
+<tr>
+<td width="77" height="46">24</td>
+<td width="125"><a href="http://www.destructoid.com/">Destructoid</a></td>
+<td width="169">www.destructoid.com</td>
+</tr>
+<tr>
+<td width="77" height="46">25</td>
+<td width="125"><a href="http://the-gadgeteer.com/">The Gadgeteer</a></td>
+<td width="169">the-gadgeteer.com</td>
+</tr>
+<tr>
+<td width="77" height="46">26</td>
+<td width="125"><a href="http://gamerant.com/">Game Rant</a></td>
+<td width="169">gamerant.com</td>
+</tr>
+<tr>
+<td width="77" height="46">27</td>
+<td width="125"><a href="http://www.pocketables.com/">Pocketables</a></td>
+<td width="169">www.pocketables.net</td>
+</tr>
+<tr>
+<td width="77" height="46">28</td>
+<td width="125"><a href="http://theappera.com/">TheAPPEra.com</a></td>
+<td width="169">theappera.com</td>
+</tr>
+<tr>
+<td width="77" height="46">29</td>
+<td width="125"><a href="http://www.slidetoplay.com/">Slide to Play</a></td>
+<td width="169">www.slidetoplay.com</td>
+</tr>
+<tr>
+<td width="77" height="46">30</td>
+<td width="125"><a href="http://www.photographybay.com/">Photography Bay</a></td>
+<td width="169">www.photographybay.com</td>
+</tr>
+<tr>
+<td width="77" height="46">31</td>
+<td width="125"><a href="http://skattertech.com/">Skatter Tech</a></td>
+<td width="169">skattertech.com</td>
+</tr>
+<tr>
+<td width="77" height="46">32</td>
+<td width="125"><a href="http://www.zatznotfunny.com/">Zatz Not Funny!</a></td>
+<td width="169">www.zatznotfunny.com</td>
+</tr>
+<tr>
+<td width="77" height="46">33</td>
+<td width="125"><a href="http://www.everythingicafe.com/">everythingiCafe</a></td>
+<td width="169">www.everythingicafe.com</td>
+</tr>
+<tr>
+<td width="77" height="46">34</td>
+<td width="125"><a href="http://cameras.about.com/">About Digital Cameras</a></td>
+<td width="169">cameras.about.com</td>
+</tr>
+<tr>
+<td width="77" height="46">35</td>
+<td width="125"><a href="http://www.igxpro.com/">IGXPRO</a></td>
+<td width="169">igxpro.net</td>
+</tr>
+<tr>
+<td width="77" height="46">36</td>
+<td width="125"><a href="http://mobilesyrup.com/">MobileSyrup</a></td>
+<td width="169">mobilesyrup.com</td>
+</tr>
+<tr>
+<td width="77" height="46">37</td>
+<td width="125"><a href="http://www.insidegamingdaily.com/">Inside Gaming Daily</a></td>
+<td width="169">www.insidegamingdaily.com</td>
+</tr>
+<tr>
+<td width="77" height="46">38</td>
+<td width="125"><a href="http://www.ubergizmo.com/">Ubergizmo</a></td>
+<td width="169">www.ubergizmo.com</td>
+</tr>
+<tr>
+<td width="77" height="46">39</td>
+<td width="125"><a href="http://nintendoeverything.com/">Nintendo Everything</a></td>
+<td width="169">nintendoeverything.com</td>
+</tr>
+<tr>
+<td width="77" height="46">40</td>
+<td width="125"><a href="http://www.co-optimus.com/">CO-Optimus</a></td>
+<td width="169">www.co-optimus.com</td>
+</tr>
+<tr>
+<td width="77" height="46">41</td>
+<td width="125"><a href="http://forwardthinking.pcmag.com/">Forward Thinking</a></td>
+<td width="169">forwardthinking.pcmag.com</td>
+</tr>
+<tr>
+<td width="77" height="46">42</td>
+<td width="125"><a href="http://www.gamesta.com/">Gamesta.com</a></td>
+<td width="169">www.gamesta.com</td>
+</tr>
+<tr>
+<td width="77" height="46">43</td>
+<td width="125"><a href="http://www.gearlive.com/">Gear Live</a></td>
+<td width="169">www.gearlive.com</td>
+</tr>
+<tr>
+<td width="77" height="46">44</td>
+<td width="125"><a href="http://gamerlimit.com/">Gamer Limit</a></td>
+<td width="169">gamerlimit.com</td>
+</tr>
+<tr>
+<td width="77" height="46">45</td>
+<td width="125"><a href="http://www.appleiphoneschool.com/">Apple iPhone School</a></td>
+<td width="169">www.appleiphoneschool.com</td>
+</tr>
+<tr>
+<td width="77" height="46">46</td>
+<td width="125"><a href="http://blog.rivalspot.com/">Rivalspot Blog</a></td>
+<td width="169">blog.rivalspot.com</td>
+</tr>
+<tr>
+<td width="77" height="46">47</td>
+<td width="125"><a href="http://hometheater.about.com/">Robert&#8217;s Home Theater Blog</a></td>
+<td width="169">hometheater.about.com</td>
+</tr>
+<tr>
+<td width="77" height="46">48</td>
+<td width="125"><a href="http://ds.about.com/">About Nintendo DS</a></td>
+<td width="169">ds.about.com</td>
+</tr>
+<tr>
+<td width="77" height="46">49</td>
+<td width="125"><a href="http://obsoletegamer.com/">Obsolete Gamer</a></td>
+<td width="169">obsoletegamer.com</td>
+</tr>
+<tr>
+<td width="77" height="46">50</td>
+<td width="125"><a href="http://www.tech-gaming.com/">Tech-Gaming</a></td>
+<td width="169">www.tech-gaming.com</td>
+</tr>
+</tbody>
+</table>
+<p><em>Know of a great consumer electronics blog that didn’t make the list? Contact <a href="mailto:beth.blanchard@cision.com">Beth Blanchard.</a></em></p>
+</div><footer class="entry-footer"><span class="blog-tags minor-meta"><strong>Tags:</strong><span> <a href="http://www.cision.com/us/tag/consumer-electronics/" rel="tag">Consumer electronics</a>, <a href="http://www.cision.com/us/tag/top-blog-list/" rel="tag">Top blog list</a></span></span></footer><div class='post_delimiter'></div></div><div class='post_author_timeline'></div></article><div class='single-big'></div><section class="author-box"  itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person" ><span class='post-author-format-type blog-meta'><span class='rounded-container'><a href='http://www.cision.com/us/author/cisioncontributor/'><img src="http://www.cision.com/us/wp-content/authors/cisioncontributor-25.jpg?5801a2" alt="Cision Contributor" width="75" height="75" /></a></span></span><div class='author_description '>
+        <h3 class='author-title'>About <a href='http://www.cision.com/us/author/cisioncontributor/'><span class='author-box-name'  itemprop="name" >Cision Contributor</span></a></h3><div class='author_description_text' itemprop="description" ><p>This post was written by a guest Cision contributor.</p>
+</div><span class='author-extra-border'></span></div></section><br /><br /><div class ='related_posts'><h3 style='text-align: center' class='related_title'><span class='blackIntroHeadline'>Related Posts</span></h3><div class="hr hr-short hr-center  avia-builder-el-4  el_after_av_textblock "><span class="hr-inner"><span class="hr-inner-style"></span></span></div><div class='related_entries_container '><div class='av_one_third no_margin  alpha relThumb relThumb1 relThumbOdd post-format-standard related_column'>
+	<a href='http://www.cision.com/us/2014/06/cisionscoop-mark-sullivan-joins-venture-beat/' class='relThumWrap noLightbox'>
+	<span class='related_image_wrap' ><img width="200" height="185" src="http://static.cision.com/us/wp-content/uploads/2014/04/VentureBeat1-200x185.jpg?5801a2" class="attachment-portfolio_small wp-post-image" alt="Photo courtesy of Twitter" />	<span class='related-format-icon '><span class='related-format-icon-inner' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span>	</span>    </a>    <div class='relatedText'><h5 class="entry-title" itemprop="headline">
+                <a href=http://www.cision.com/us/2014/06/cisionscoop-mark-sullivan-joins-venture-beat/>CisionScoop | Mark Sullivan Joins VentureBeat</a>
+            </h5><div class='related-posts-meta'><div class='slide-meta-comments'>0 Comments</div><div class='slide-meta-del'> / </div><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2012-12-13T15:52:04+00:00" >June 3, 2014</time><div class='slide-meta-del'> / </div><div class='slide-meta-author'>by <a href=http://www.cision.com/us/author/cisionstaff/>Cision Staff</a></div></div><div class="entry-excerpt" itemprop="text">Mark Sullivan has joined VentureBeat as a writer covering mobile…</div></div></div><div class='av_one_third no_margin   relThumb relThumb2 relThumbEven post-format-standard related_column'>
+	<a href='http://www.cision.com/us/2011/09/tecca/' class='relThumWrap noLightbox'>
+	<span class='related_image_wrap' ><img width="260" height="94" src="http://static.cision.com/us/wp-content/uploads/2014/03/tecca1-260x94.jpg?5801a2" class="attachment-portfolio_small wp-post-image" alt="tecca" />	<span class='related-format-icon '><span class='related-format-icon-inner' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span>	</span>    </a>    <div class='relatedText'><h5 class="entry-title" itemprop="headline">
+                <a href=http://www.cision.com/us/2011/09/tecca/>Tecca</a>
+            </h5><div class='related-posts-meta'><div class='slide-meta-comments'>0 Comments</div><div class='slide-meta-del'> / </div><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2012-12-13T15:52:04+00:00" >September 11, 2011</time><div class='slide-meta-del'> / </div><div class='slide-meta-author'>by <a href=http://www.cision.com/us/author/jenny-wittman/>Jenny Wittman</a></div></div><div class="entry-excerpt" itemprop="text">After only a year since its launch, Tecca has established a comfortable tech space run by seasoned staffers for every level of geek.</div></div></div><div class='av_one_third no_margin  omega relThumb relThumb3 relThumbOdd post-format-standard related_column'>
+	<a href='http://www.cision.com/us/2013/12/top-25-consumer-electronics-blogs/' class='relThumWrap noLightbox'>
+	<span class='related_image_wrap' ><span class='related_posts_default_image'><img width="260" height="94" src="http://static.cision.com/us/wp-content/uploads/2014/03/tecca1-260x94.jpg?5801a2" class="attachment-portfolio_small wp-post-image" alt="tecca" /></span>	<span class='related-format-icon related-format-visible'><span class='related-format-icon-inner' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></span>	</span>    </a>    <div class='relatedText'><h5 class="entry-title" itemprop="headline">
+                <a href=http://www.cision.com/us/2013/12/top-25-consumer-electronics-blogs/>Top 25 Consumer Electronics Blogs</a>
+            </h5><div class='related-posts-meta'><div class='slide-meta-comments'>2 Comments</div><div class='slide-meta-del'> / </div><time class='slide-meta-time updated'  itemprop="datePublished" datetime="2012-12-13T15:52:04+00:00" >December 13, 2013</time><div class='slide-meta-del'> / </div><div class='slide-meta-author'>by <a href=http://www.cision.com/us/author/cisioncontributor/>Cision Contributor</a></div></div><div class="entry-excerpt" itemprop="text">This post is by manager of electronic media Beth Blanchard and…</div></div></div></div></div>
+<div id="disqus_thread">
+            <div id="dsq-content">
+
+
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-23504">
+        <div id="dsq-comment-header-23504" class="dsq-comment-header">
+            <cite id="dsq-cite-23504">
+                <span id="dsq-author-user-23504">sanjaynegiseo</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-23504" class="dsq-comment-body">
+            <div id="dsq-comment-message-23504" class="dsq-comment-message"><p>I suggest you <a href="http://www.techgreet.com/," rel="nofollow"></a><a href="http://www.techgreet.com/" rel="nofollow">http://www.techgreet.com/</a>, my favorite consumer electronic blog. </p>
+</div>
+        </div>
+
+    <ul class="children">
+    <li class="comment odd alt depth-2" id="dsq-comment-23505">
+        <div id="dsq-comment-header-23505" class="dsq-comment-header">
+            <cite id="dsq-cite-23505">
+                <span id="dsq-author-user-23505">Lisa M Larranaga</span>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-23505" class="dsq-comment-body">
+            <div id="dsq-comment-message-23505" class="dsq-comment-message"><p>Thank you for the input, Sanjay!  </p>
+</div>
+        </div>
+
+    </li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right  three alpha units'  role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section class="avia_widget_section"><div id="nav_menu-7" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Blog Categories</h3><div class="menu-categories-sidebar-menu-container"><ul id="menu-categories-sidebar-menu" class="menu"><li id="menu-item-1523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1523"><a href="http://www.cision.com/us/category/featured/">Featured</a></li>
+<li id="menu-item-1012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1012"><a href="http://www.cision.com/us/category/best-practices/">Best Practices</a></li>
+<li id="menu-item-17184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17184"><a href="http://www.cision.com/us/category/top-lists/">Top Lists</a></li>
+<li id="menu-item-17183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17183"><a href="http://www.cision.com/us/category/influencers/">Influencers</a></li>
+<li id="menu-item-1009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1009"><a href="http://www.cision.com/us/category/trends/">Trends</a></li>
+<li id="menu-item-1008" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1008"><a href="http://www.cision.com/us/category/media-updates/">Media Updates</a>
+<ul class="sub-menu">
+	<li id="menu-item-1545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1545"><a href="http://www.cision.com/us/category/media-updates/arts-leisure-style/">Arts Leisure &#038; Style</a></li>
+	<li id="menu-item-17186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17186"><a href="http://www.cision.com/us/category/media-updates/business-finance-industry/">Business, Finance &#038; Industry</a></li>
+	<li id="menu-item-17188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17188"><a href="http://www.cision.com/us/category/media-updates/consumer-lifestyle-media-updates/">Consumer &#038; Lifestyle</a></li>
+	<li id="menu-item-17185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17185"><a href="http://www.cision.com/us/category/media-updates/politics-education-news-media-updates/">Politics, Education &#038; News</a></li>
+	<li id="menu-item-17189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17189"><a href="http://www.cision.com/us/category/media-updates/science-health-media-updates/">Science &#038; Health</a></li>
+	<li id="menu-item-17187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17187"><a href="http://www.cision.com/us/category/media-updates/technology-media-updates/">Technology</a></li>
+</ul>
+</li>
+</ul></div><span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="newsbox-2" class="widget clearfix newsbox"><h3 class="widgettitle">Recent Blog Posts</h3><ul class="news-wrap image_size_testimonialSlider"><li class="news-content post-format-standard"><a class='news-link' title='Top 10 Apartment Therapy Staffers and Contributors on Instagram' href='http://www.cision.com/us/2015/02/top-ten-apartment-therapy-staffers-and-contributors-on-instagram/'><span class='news-thumb '><img width="450" height="259" src="http://cision-wp-files.s3.amazonaws.com/us/wp-content/uploads/2015/02/Apartment-Therapy-450x259.png" class="attachment-testimonialSlider wp-post-image" alt="Image Courtesy of Instagram" /></span><strong class='news-headline'>Top 10 Apartment Therapy Staffers and Contributors on Instagram<span class='news-time'>February 11, 2015 - 2:49 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='How to Get a Juicy Quote for Your Press Release' href='http://www.cision.com/us/2015/02/how-to-get-a-juicy-quote-for-your-press-release/'><span class='news-thumb '><img width="450" height="350" src="http://cision-wp-files.s3.amazonaws.com/us/wp-content/uploads/2015/02/Getting-Quote-for-Press-Release-450x350.jpg" class="attachment-testimonialSlider wp-post-image" alt="Getting Quote for Press Release" /></span><strong class='news-headline'>How to Get a Juicy Quote for Your Press Release<span class='news-time'>February 11, 2015 - 10:20 am</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='3 Ways to Integrate Your PR &#038; Marketing' href='http://www.cision.com/us/2015/02/3-ways-to-integrate-your-pr-marketing/'><span class='news-thumb '><img width="450" height="329" src="http://cision-wp-files.s3.amazonaws.com/us/wp-content/uploads/2015/02/Peanut-Butter-Cups-Integrating-Marketing-and-PR-450x329.jpg" class="attachment-testimonialSlider wp-post-image" alt="Peanut Butter Cups - Integrating Marketing and PR" /></span><strong class='news-headline'>3 Ways to Integrate Your PR &#038; Marketing<span class='news-time'>February 10, 2015 - 11:30 am</span></strong></a></li></ul><span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="text-6" class="widget clearfix widget_text">			<div class="textwidget"></div>
+		<span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="black-studio-tinymce-59" class="widget clearfix widget_black_studio_tinymce">			<div class="textwidget"><div style="width: 100%; margin: 20px 0; padding: 4% 0; border-top: 1px dashed #C3C3C3; border-bottom: 1px dashed #C3C3C3;">
+<h3 class="widgettitle">Cision Newsletters</h3>
+
+<p>Keep on top of the constantly changing media industry with our Daily Brief or Weekly Recap newsletters. <strong>Sign up for one (or both!) today.</strong></p>
+
+<!-- FORM -->
+<form name="newsletter-signup" action="http://now.eloqua.com/e/f2.aspx" method="post" onsubmit="return submitForm(this);">
+  <input type="hidden" name="elqFormName" value="newsletter-signup">
+  <input type="hidden" name="elqSiteID" value="1386">
+  <input type="hidden" name="elqCustomerGUID" value="">
+
+<input type="text" class="elqField idleField" id="C_FirstName" name="C_FirstName" title="First Name" value="First Name" alt="First Name" tabindex="1" style="width:98%; margin:0 0 5px 0; padding:9px 1%; border:1px solid #D6D6D6;"><br>
+
+<input type="text" class="elqField idleField" id="C_LastName" name="C_LastName" title="Last Name" value="Last Name" alt="Last Name" tabindex="2" style="width:98%; margin:0 0 5px 0; padding:9px 1%; border:1px solid #D6D6D6;"><br>
+
+<input type="text" class="elqField idleField" id="C_EmailAddress" name="C_EmailAddress" title="E-mail Address" value="E-mail Address" alt="E-mail Address" tabindex="3" style="width:98%; margin:0 0 5px 0; padding:9px 1%; border:1px solid #D6D6D6;"><br>
+
+<select class="elqField" id="C_Country__CRM_1" name="C_Country__CRM_1" title="Country" tabindex="4" style="width:98%; margin:0 0 5px 0; padding:9px 1%; border:1px solid #D6D6D6;"> <option value="" selected="selected">--Select Country--</option><option value="USA">United States</option><option value="CAN">Canada</option><option value="GBR">United Kingdom</option><option value="SWE">Sweden</option><option value="">--------------</option><option value="AFG">Afghanistan</option><option value="ALA">�land Islands</option><option value="ALB">Albania</option><option value="DZA">Algeria</option><option value="ASM">American Samoa</option><option value="AND">Andorra</option><option value="AGO">Angola</option><option value="AIA">Anguilla</option><option value="ATA">Antarctica</option><option value="ATG">Antigua and Barbuda</option><option value="ARG">Argentina</option><option value="ARM">Armenia</option><option value="ABW">Aruba</option><option value="AUS">Australia</option><option value="AUT">Austria</option><option value="AZE">Azerbaijan</option><option value="BHS">Bahamas</option><option value="BHR">Bahrain</option><option value="BGD">Bangladesh</option><option value="BRB">Barbados</option><option value="BLR">Belarus</option><option value="BEL">Belgium</option><option value="BLZ">Belize</option><option value="BEN">Benin</option><option value="BMU">Bermuda</option><option value="BTN">Bhutan</option><option value="BOL">Bolivia</option><option value="BIH">Bosnia and Herzegovina</option><option value="BWA">Botswana</option><option value="BVT">Bouvet Island</option><option value="BRA">Brazil</option><option value="IOT">Brit/Indian Ocean Terr.</option><option value="BRN">Brunei Darussalam</option><option value="BGR">Bulgaria</option><option value="BFA">Burkina Faso</option><option value="BDI">Burundi</option><option value="KHM">Cambodia</option><option value="CMR">Cameroon</option><option value="CAN">Canada</option><option value="CPV">Cape Verde</option>
+
+<option value="CYM">Cayman Islands</option><option value="CAF">Central African Republic</option><option value="TCD">Chad</option><option value="CHL">Chile</option><option value="CHN">China</option><option value="CXR">Christmas Island</option><option value="CCK">Cocos (Keeling) Islands</option><option value="COL">Colombia</option><option value="COM">Comoros</option><option value="COG">Congo</option><option value="CDZ">Congo, The Dem. Republic Of</option><option value="COK">Cook Islands</option><option value="CRI">Costa Rica</option><option value="CIV">C�te D'Ivore</option><option value="HRV">Croatia</option><option value="CUB">Cuba</option><option value="CYP">Cyprus</option><option value="CZE">Czech Republic</option><option value="DNK">Denmark</option><option value="DJI">Djibouti</option><option value="DMA">Dominica</option><option value="DOM">Dominican Republic</option><option value="ECU">Ecuador</option><option value="EGY">Egypt</option><option value="SLV">El Salvador</option><option value="GNQ">Equatorial Guinea</option><option value="ERI">Eritrea</option><option value="EST">Estonia</option><option value="ETH">Ethiopia</option><option value="FLK">Falkland Islands</option><option value="FRO">Faroe Islands</option><option value="FJI">Fiji</option><option value="FIN">Finland</option><option value="FRA">France</option><option value="GUF">French Guiana</option><option value="PYF">French Polynesia</option><option value="ATF">French Southern Terr.</option><option value="GAB">Gabon</option><option value="GMB">Gambia</option><option value="GEO">Georgia</option><option value="DEU">Germany</option><option value="GHA">Ghana</option><option value="GIB">Gibraltar</option><option value="GRC">Greece</option><option value="GRL">Greenland</option><option value="GRD">Grenada</option><option value="GLP">Guadeloupe</option><option value="GUM">Guam</option><option value="GTM">Guatemala</option><option value="GIN">Guinea</option><option value="GNB">Guinea-Bissau</option><option value="GUY">Guyana</option><option value="HTI">Haiti</option><option value="HMD">Heard/McDonald Isls.</option><option value="HND">Honduras</option><option value="HKG">Hong Kong</option><option value="HUN">Hungary</option><option value="ISL">Iceland</option><option value="IND">India</option><option value="IDN">Indonesia</option><option value="IRN">Iran</option><option value="IRQ">Iraq</option><option value="IRL">Ireland</option><option value="ISR">Israel</option><option value="ITA">Italy</option><option value="JAM">Jamaica</option><option value="JPN">Japan</option><option value="JOR">Jordan</option><option value="KAZ">Kazakhstan</option><option value="KEN">Kenya</option><option value="KIR">Kiribati</option><option value="PRK">Korea (North)</option><option value="KOR">Korea (South)</option><option value="KWT">Kuwait</option><option value="KGZ">Kyrgyzstan</option><option value="LAO">Laos</option><option value="LVA">Latvia</option><option value="LBN">Lebanon</option><option value="LSO">Lesotho</option><option value="LBR">Liberia</option><option value="LBY">Libya</option><option value="LIE">Liechtenstein</option><option value="LTU">Lithuania</option><option value="LUX">Luxembourg</option><option value="MAC">Macau</option><option value="MKD">Macedonia</option><option value="MDG">Madagascar</option><option value="MWI">Malawi</option><option value="MYS">Malaysia</option><option value="MDV">Maldives</option><option value="MLI">Mali</option><option value="MLT">Malta</option><option value="MHL">Marshall Islands</option><option value="MTQ">Martinique</option><option value="MRT">Mauritania</option><option value="MUS">Mauritius</option><option value="MYT">Mayotte</option><option value="MEX">Mexico</option><option value="FSM">Micronesia</option><option value="MDA">Moldova</option><option value="MCO">Monaco</option><option value="MNG">Mongolia</option><option value="MSR">Montserrat</option><option value="MAR">Morocco</option><option value="MOZ">Mozambique</option><option value="MMR">Myanmar</option><option value="MNP">N. Mariana Isls.</option><option value="NAM">Namibia</option><option value="NRU">Nauru</option><option value="NPL">Nepal</option><option value="NLD">Netherlands</option><option value="ANT">Netherlands Antilles</option><option value="NCL">New Caledonia</option><option value="NZL">New Zealand</option><option value="NIC">Nicaragua</option><option value="NER">Niger</option><option value="NGA">Nigeria</option><option value="NIU">Niue</option><option value="NFK">Norfolk Island</option><option value="NOR">Norway</option><option value="OMN">Oman</option><option value="PAK">Pakistan</option><option value="PLW">Palau</option><option value="PSE">Palestinian Territory, Occupied</option><option value="PAN">Panama</option><option value="PNG">Papua New Guinea</option><option value="PRY">Paraguay</option><option value="PER">Peru</option><option value="PHL">Philippines</option><option value="PCN">Pitcairn</option><option value="POL">Poland</option><option value="PRT">Portugal</option><option value="PRI">Puerto Rico</option><option value="QAT">Qatar</option><option value="REU">Reunion</option><option value="ROM">Romania</option><option value="RUS">Russian Federation</option><option value="RWA">Rwanda</option><option value="KNA">Saint Kitts and Nevis</option><option value="LCA">Saint Lucia</option><option value="WSM">Samoa</option><option value="SMR">San Marino</option><option value="STP">Sao Tome/Principe</option><option value="SAU">Saudi Arabia</option><option value="SEN">Senegal</option><option value="YUG">Serbia and Montenegro</option><option value="SYC">Seychelles</option><option value="SLE">Sierra Leone</option><option value="SGP">Singapore</option><option value="SVK">Slovak Republic</option><option value="SVN">Slovenia</option><option value="SLB">Solomon Islands</option><option value="SOM">Somalia</option><option value="ZAF">South Africa</option><option value="ESP">Spain</option><option value="LKA">Sri Lanka</option><option value="SHN">St. Helena</option><option value="SPM">St. Pierre and Miquelon</option><option value="VCT">St. Vincent and Grenadines</option><option value="SDN">Sudan</option><option value="SUR">Suriname</option><option value="SJM">Svalbard/Jan Mayen Isls.</option><option value="SWZ">Swaziland</option><option value="SWE">Sweden</option><option value="CHE">Switzerland</option><option value="SYR">Syria</option><option value="TWN">Taiwan</option><option value="TJK">Tajikistan</option><option value="TZA">Tanzania</option><option value="THA">Thailand</option><option value="TMP">Timor-Leste</option><option value="TGO">Togo</option><option value="TKL">Tokelau</option><option value="TON">Tonga</option><option value="TTO">Trinidad and Tobago</option><option value="TUN">Tunisia</option><option value="TUR">Turkey</option><option value="TKM">Turkmenistan</option><option value="TCA">Turks/Caicos Isls.</option><option value="TUV">Tuvalu</option><option value="UGA">Uganda</option><option value="UKR">Ukraine</option><option value="ARE">United Arab Emirates</option><option value="GBR">United Kingdom</option><option value="USA">United States</option><option value="UMI">US Minor Outlying Is.</option><option value="URY">Uruguay</option><option value="UZB">Uzbekistan</option><option value="VUT">Vanuatu</option><option value="VAT">Vatican City</option><option value="VEN">Venezuela</option><option value="VNM">Viet Nam</option><option value="VGB">Virgin Islands (British)</option><option value="VIR">Virgin Islands (U.S.)</option><option value="WLF">Wallis/Futuna Isls.</option><option value="ESH">Western Sahara</option><option value="YEM">Yemen</option><option value="ZMB">Zambia</option><option value="ZWE">Zimbabwe</option></select>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    <td colspan="2" style="padding:0; margin:0; border:none;"><span style="font-size:16px;">&nbsp;<br>
+      <strong>I would like to receive:</strong></span></td>
+    </tr>
+  <tr>
+    <td width="50%" style="padding:0; margin:0; border:none;font-size:15px;"><input name="daily" type="checkbox" value="on" tabindex="5">&ensp;Daily Brief</td>
+    <td width="50%" style="padding:0; margin:0; border:none;font-size:15px;"><input name="weekly" type="checkbox" value="on" tabindex="6">&ensp;Weekly Recap</td>
+    </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding:0; margin:0; border:none;">
+      <input id="field13" value="" name="rid" type="hidden">
+      <p><input type="submit" value="Submit" id="submit" name="submit" title="Submit" alt="Submit" tabindex="7"></p></td>
+  </tr>
+</table>
+
+</form>
+
+<!-- End of FORM -->
+<script type="text/javascript"> 
+var errorSet = null;
+FieldObj = function() {
+   var Field;
+   this.get_Field = function() { return Field; }
+   this.set_Field = function(val) { Field = val; }
+   var ErrorMessage;
+   this.get_ErrorMessage = function() { return ErrorMessage; }
+   this.set_ErrorMessage = function(val) { ErrorMessage = val; }
+}
+function ResetHighlight() {
+   var field;
+   if (errorSet != null) {
+      for (var i = 0; i < errorSet.length; i++) {
+         errorSet[i].Field.className = 'elqField'
+      }
+    }
+   errorSet = new Array();
+}
+function DisplayErrorSet(ErrorSet) {
+   var element;
+   var ErrorMessage = '';
+   for (var i = 0; i < ErrorSet.length; i++) {
+      ErrorMessage = ErrorMessage + ErrorSet[i].ErrorMessage + '\n';
+      ErrorSet[i].Field.className = 'elqFieldValidation';
+   }
+   if (ErrorMessage != '')
+      alert(ErrorMessage);
+}
+function ValidateRequiredField(Element, args) {
+   var elementVal=Element.value;
+   var testPass=true;
+   if (Element) {
+      if (args.Type == 'text') {
+         if (Element.value == null || Element.value == "") {
+            return false;
+         }
+      }
+      else if (args.Type == 'singlesel') {
+         if (Element.value == null || Element.value == "") {
+            return false;
+         }
+   }
+      else if (args.Type == 'multisel') {
+         var selCount=0;
+         for (var i=0; i<Element.length; i++) {
+              if (Element[i].selected && Element[i].value !='') {
+                 selCount += 1;
+              }
+         }
+      if (selCount == 0)
+         return false;
+   }
+   }
+   else
+      testPass = false;
+return testPass;
+}
+function ValidateEmailAddress(Element) {
+   var varRegExp='^[A-Z0-9!#\\$%&\'\\*\\+\\-/=\\?\\^_`\\{\\|\\}~][A-Z0-9!#\\$%&\'\\*\\+\\-/=\\?\\^_`\\{\\|\\}~\\.]{0,62}@([A-Z0-9](?:[A-Z0-9\\-]{0,61}[A-Z0-9])?(\\.[A-Z0-9](?:[A-Z0-9\\-]{0,61}[A-Z0-9])?)+)$';
+   if ((Element) && (Element.value != '')) {
+      var reg = new RegExp(varRegExp,"i");
+      var match = reg.exec(Element.value);
+         if ((match) && (match.length=3) && (match[1].length<=255) && ((match[2].length>=3) & (match[2].length<=7)))
+            return true;
+   }
+   return false;
+}
+function ValidateDataTypeLength(Element, args, ErrorMessage) {
+   var elementVal = Element.value;
+   var testPass = true;
+   if (Element) {
+      if (args.Type == 'text') {
+         if ((elementVal == '')) {
+            testPass = false;
+         }
+         if ((args.Minimum != '') && (elementVal.length < args.Minimum))
+            testPass = false;
+         if ((args.Maximum != '') && (elementVal.length > args.Maximum))
+            testPass = false;
+      }
+      else if (args.Type == 'numeric') {
+         if ((elementVal == '')) {
+            testPass = false;
+         }
+         if ((elementVal != '') && (elementVal != parseFloat(elementVal)))
+            testPass = false;
+         if (args.Minimum != '') {
+            if ((elementVal == '') || (parseFloat(elementVal) < args.Minimum))
+            testPass = false;
+         }
+         if (args.Maximum != '') {
+            if ((elementVal != '') && (parseFloat(elementVal) > args.Maximum))
+               testPass = false;
+         }
+      }
+   }
+   else
+      testPass = false;
+   return testPass;
+}
+function CheckElqForm(elqForm) {
+var args = null;
+var allValid = true;
+if (elqForm == null) {
+   alert('Unable to execute form validation!\Unable to locate correct form');
+   return false;
+}
+ResetHighlight();
+formField = new FieldObj();
+formField.Field = elqForm.elements['C_FirstName'];
+var FirstName;
+FirstName = 'First Name';
+if (formField.Field.value == FirstName) {
+formField.Field.value = '';
+}
+formField.ErrorMessage ='First Name is required'
+args = {'Type': 'text' };
+if (formField.Field != null){
+if (!ValidateRequiredField(formField.Field, args)) {
+    errorSet.push(formField);
+    allValid = false;
+formField.Field.value = FirstName;
+}
+}
+formField = new FieldObj();
+formField.Field = elqForm.elements['C_LastName'];
+var LastName;
+LastName = 'Last Name';
+if (formField.Field.value == LastName) {
+formField.Field.value = '';
+}
+formField.ErrorMessage ='Last Name is required'
+args = {'Type': 'text' };
+if (formField.Field != null) {
+if (!ValidateRequiredField(formField.Field, args)) {
+errorSet.push(formField);
+allValid = false;
+formField.Field.value = LastName;
+}
+}
+
+formField = new FieldObj();
+formField.Field = elqForm.elements['C_EmailAddress'];
+var Email;
+Email = 'E-mail';
+if (formField.Field.value == Email) {
+formField.Field.value = '';
+}
+formField.ErrorMessage ='Email Address contains an invalid email address'
+if (formField.Field != null) {
+   if (!ValidateEmailAddress(formField.Field)) {
+      errorSet.push(formField);
+      allValid = false;
+     formField.Field.value = Email;
+   }
+
+   
+   }
+   formField = new FieldObj();
+formField.Field = elqForm.elements['C_Country__CRM_1'];
+formField.ErrorMessage ='Country is required'
+args = {'Type': 'singlesel' };
+if (formField.Field != null) {
+   if (!ValidateRequiredField(formField.Field, args)) {
+      errorSet.push(formField);
+      allValid = false;
+   }
+}
+if (!allValid) {
+   DisplayErrorSet(errorSet);
+   return false;
+}
+return true;
+}
+function submitForm(elqForm) {
+   if (CheckElqForm(elqForm)) {
+       prepareselectsForEloqua(elqForm);
+       fnPrepareCheckboxMatricesForEloqua(elqForm);
+       return true;
+   }
+   else { return false; }
+}
+function prepareselectsForEloqua(elqForm) {
+   var selects = elqForm.getElementsByTagName("select");
+   for (var i = 0; i < selects.length; i++) {
+       if (selects[i].multiple) {
+           createEloquaselectField(elqForm, selects[i]);
+       }
+   }
+   return true;
+}
+function createEloquaselectField(elqForm, sel) {
+   var inputName = sel.name;
+   var newinput = document.createElement('input');
+   newinput.style.display = "none";
+   newinput.name = inputName;
+   newinput.value = "";
+   for (var i = 0; i < sel.options.length; i++) {
+       if (sel.options[i].selected) {
+           newinput.value += sel.options[i].value + "::";
+       }
+   }
+   if (newinput.value.length > 0) {
+       newinput.value = newinput.value.substr(0, newinput.value.length - 2);
+   }
+   sel.disabled = true;
+   newinput.id = inputName;
+   elqForm.insertBefore(newinput, elqForm.firstChild);
+}
+function fnPrepareCheckboxMatricesForEloqua(elqForm) {
+   var matrices = elqForm.getElementsByTagName('TABLE');
+   for (var i = 0; i < matrices.length; i++) {
+       var tableClassName = matrices[i].className;
+       if (tableClassName.match(/elqMatrix/)) {
+           if (fnDetermineMatrixType(matrices[i]).toLowerCase() == 'checkbox') {
+               if (matrices[i].rows[0].cells[0].childNodes.length == 1) {
+                   if (matrices[i].rows[0].cells[0].childNodes[0].nodeName != '#text') {
+                       fnCreateHorizontalMatrixCheckboxField(elqForm, matrices[i]);
+                   }
+                   else {
+                       fnCreateVerticalMatrixCheckboxField(elqForm, matrices[i]);
+                   }
+               }
+           }
+       }
+   }
+   return true;
+}
+function fnCreateVerticalMatrixCheckboxField(elqForm, matrix) {
+   var inputName = matrix.id + 'r' + 1;
+   var newinput = document.createElement('input');
+   newinput.style.display = 'none';
+   newinput.name = inputName;
+   newinput.value = '';
+   var inputs = document.getElementsByName(inputName);
+   for (var i=0; i < inputs.length; i++) {
+       if (inputs[i].nodeName.toLowerCase() == 'input') {
+           if (inputs[i].checked == true) {
+               if (inputs[i].type.toLowerCase() == 'checkbox') {
+                   newinput.value += inputs[i].value + '::';
+                   inputs[i].disabled = true;
+               }
+           }
+       }
+   }
+   if (newinput.value.length > 0) {
+       newinput.value = newinput.value.substr(0, newinput.value.length - 2);
+   }
+   newinput.id = inputName;
+   elqForm.insertBefore(newinput, elqForm.firstChild);
+   matrix.disabled = true;
+}
+function fnCreateHorizontalMatrixCheckboxField(elqForm, matrix) {
+   for (var i=1; i < matrix.rows.length; i++) {
+       var inputs = document.getElementsByName(matrix.id + 'r' + i);
+       var oMatrixRow = matrix.rows[i];
+       var inputName = oMatrixRow.id;
+       var newinput = document.createElement('input');
+       newinput.style.display = 'none';
+       newinput.name = inputName;
+       newinput.value = '';
+       for (var j=0; j < inputs.length; j++) {
+           if (inputs[j].nodeName.toLowerCase() == 'input') {
+               if (inputs[j].checked == true) {
+                   if (inputs[i].type.toLowerCase() == 'checkbox') {
+                       newinput.value += inputs[j].value + '::';
+                       inputs[j].disabled = true;
+                   }
+               }
+           }
+       }
+       if (newinput.value.length > 0) {
+           newinput.value = newinput.value.substr(0, newinput.value.length - 2);
+       }
+       newinput.id = inputName;
+       elqForm.insertBefore(newinput, elqForm.firstChild);
+   }
+   matrix.disabled = true;
+}
+function fnDetermineMatrixType(oTable) {
+   var oFirstMatrixinput = oTable.rows[1].cells[1].childNodes[0];
+   return oFirstMatrixinput.type;
+}
+</script>
+</div></div>
+<span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="text-7" class="widget clearfix widget_text"><h3 class="widgettitle">People talking Cision</h3>			<div class="textwidget"><a class="twitter-timeline" data-dnt="true" href="https://twitter.com/cision/favorites" data-widget-id="514535418679676929" data-tweet-limit="4">Favorite Tweets by @cision</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		<span class="seperator extralight-border"></span></div></section></div></aside>
+
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+<style>
+	
+</style>
+<div id='cta_stickyfoot' jumppt=''><div class='cta_stickyfoot_btncont'><div class='avia-button-wrap avia-button-center '><a href='/us/pricing/?clid=sticky_footer_button' class='avia-button avia-icon_select-yes avia-color-custom avia-size-small avia-position-center '  style='background-color:#377FC2; border-color:#377FC2; color:#ffffff; ' ><span class='avia_button_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></span><span class='avia_iconbox_title' >Get Pricing</span></a></div></div><div class='cta_stickyfoot_btncont'><div class='avia-button-wrap avia-button-center '><a href='/us/request-demo/?pt=pr' class='avia-button avia-icon_select-yes avia-color-custom avia-size-small avia-position-center '  style='background-color:#377FC2; border-color:#377FC2; color:#ffffff; ' ><span class='avia_button_icon' aria-hidden='true' data-av_icon='' data-av_iconfont='fontello'></span><span class='avia_iconbox_title' >Request a Demo</span></a></div></div></div>		<!-- Social widget has been added to appear on all pages -->
+		<div class="follow-us">
+			<div class="clearfix">
+			<section class="avia_widget_section"><div id="black-studio-tinymce-3" class="widget clearfix widget_black_studio_tinymce">			<div class="textwidget"><p style="text-align: center; padding: 15px 0;"><span id="social-headline">Connect on Social:</span><span class="social-icon-container">
+	<a target="_blank" id="social-twitter" class="socialbutton ir" href="https://twitter.com/cision" title="connect on Twitter"></a>
+	<a target="_blank" id="social-facebook" class="socialbutton ir" href="https://www.facebook.com/CisionGlobal" title="connect on Facebook"></a>
+	<a target="_blank" id="social-youtube" class="socialbutton ir" href="http://www.youtube.com/user/CisionNA" title="connect on YouTube"></a>
+    <a target="_blank" id="social-linkedin" class="socialbutton ir" href="http://www.linkedin.com/company/cision" title="connect on Linkedin"></a>
+    <a target="_blank" id="social-instagram" class="socialbutton ir" href="http://instagram.com/cisionglobal" title="connect on Instagram"></a>
+    <a id="social-cision" class="socialbutton ir" href="http://www.cision.com/us/blog/" title="connect on Cision" target="_blank"></a>
+</span></p></div>
+</div></section>			</div>
+		</div>
+						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fifth first'><section class="avia_widget_section"><div id="nav_menu-2" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">PR Software</h3><div class="menu-footer-pr-software-container"><ul id="menu-footer-pr-software" class="menu"><li id="menu-item-54181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54181"><a href="http://www.cision.com/us/pr-software/media-database/">Media Database</a></li>
+<li id="menu-item-54195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54195"><a href="http://www.cision.com/us/pr-software/press-release-distribution/">News Release Distribution</a></li>
+<li id="menu-item-54187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54187"><a href="http://www.cision.com/us/pr-software/content-marketing/">Content Marketing</a></li>
+<li id="menu-item-54188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54188"><a href="http://www.cision.com/us/pr-software/media-monitoring/">Media Monitoring</a></li>
+<li id="menu-item-54189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54189"><a href="http://www.cision.com/us/pr-software/media-analysis-reporting/">Media Analysis and Reporting</a></li>
+</ul></div><span class="seperator extralight-border"></span></div></section></div><div class='flex_column av_one_fifth '><section class="avia_widget_section"><div id="nav_menu-3" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Social Software</h3><div class="menu-footer-social-intelligence-container"><ul id="menu-footer-social-intelligence" class="menu"><li id="menu-item-54205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54205"><a href="http://www.cision.com/us/social-software/social-engagement/">Social Engagement</a></li>
+<li id="menu-item-54310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54310"><a href="http://www.cision.com/us/social-software/social-media-monitoring/">Social Media Monitoring</a></li>
+<li id="menu-item-54204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54204"><a href="http://www.cision.com/us/social-software/social-media-analytics/">Social Media Analytics</a></li>
+<li id="menu-item-54206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54206"><a href="http://www.cision.com/us/social-software/social-api/">Social API</a></li>
+</ul></div><span class="seperator extralight-border"></span></div></section></div><div class='flex_column av_one_fifth '><section class="avia_widget_section"><div id="nav_menu-4" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Blog</h3><div class="menu-footer-blog-container"><ul id="menu-footer-blog" class="menu"><li id="menu-item-15286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15286"><a href="http://www.cision.com/us/category/featured/">Featured</a></li>
+<li id="menu-item-15282" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15282"><a href="http://www.cision.com/us/category/media-updates/">Media Updates</a></li>
+<li id="menu-item-18569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18569"><a href="http://www.cision.com/us/category/top-lists/">Top Lists</a></li>
+<li id="menu-item-18570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18570"><a href="http://www.cision.com/us/category/influencers/">Influencers</a></li>
+<li id="menu-item-15285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15285"><a href="http://www.cision.com/us/category/best-practices/">Best Practices</a></li>
+<li id="menu-item-15283" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15283"><a href="http://www.cision.com/us/category/trends/">Trends</a></li>
+</ul></div><span class="seperator extralight-border"></span></div></section></div><div class='flex_column av_one_fifth '><section class="avia_widget_section"><div id="nav_menu-5" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">About</h3><div class="menu-footer-about-container"><ul id="menu-footer-about" class="menu"><li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="http://www.cision.com/us/about/">About Cision</a></li>
+<li id="menu-item-53895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53895"><a href="http://www.cision.com/us/about/media-kit/">Media Kit</a></li>
+<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636"><a href="http://www.cision.com/us/about/news/">News</a></li>
+<li id="menu-item-635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-635"><a href="http://www.cision.com/us/about/management-team/">Management Team</a></li>
+</ul></div><span class="seperator extralight-border"></span></div></section></div><div class='flex_column av_one_fifth '><section class="avia_widget_section"><div id="text-5" class="widget clearfix widget_text"><h3 class="widgettitle">Contact</h3>			<div class="textwidget">130 E Randolph St.<br />
+7th Floor<br />
+Chicago, IL 60601, USA<br />
+</div>
+		<span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="nav_menu-8" class="widget clearfix widget_nav_menu"><div class="menu-footer-contact-container"><ul id="menu-footer-contact" class="menu"><li id="menu-item-54219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54219"><a href="http://www.cision.com/us/contact-us/">Contact Us</a></li>
+<li id="menu-item-54220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54220"><a href="http://www.cision.com/us/contact-us/support/">Client Support</a></li>
+<li id="menu-item-54221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54221"><a href="http://www.cision.com/us/contact-us/update-add-media-profile/">Update Media Profile</a></li>
+<li id="menu-item-54223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54223"><a href="http://www.cision.com/us/contact-us/update-outlet-profile/">Update Outlet Profile</a></li>
+</ul></div><span class="seperator extralight-border"></span></div></section><section class="avia_widget_section"><div id="black-studio-tinymce-36" class="widget clearfix widget_black_studio_tinymce">			<div class="textwidget"><!-- Default Insight Tag -->
+<script type="text/javascript">
+  var _bizo_data_partner_id = "2569";
+</script>
+<script type="text/javascript">
+(function() {
+  var s = document.getElementsByTagName("script")[0];
+  var b = document.createElement("script");
+  b.type = "text/javascript";
+  b.async = true;
+  b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+  s.parentNode.insertBefore(b, s);
+})();
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=2569&fmt=gif" />
+</noscript></div>
+<span class="seperator extralight-border"></span></div></section></div>
+					</div>
+					
+					<div id="footer_countries" class='container'>
+						<a href="http://www.cision.com/ca-en/">Canada (EN)</a>
+						<a href="http://www.cision.com/ca-fr/">Canada (FR)</a>
+						<a href="http://dk.cision.com/">Denmark</a>
+						<a href="http://fr.cision.com/">France</a>
+						<a href="http://www.cision.com/de/">Germany</a>
+						<a href="http://www.cision.com/fi">Finland</a>
+						<a href="http://no.cision.com/">Norway</a>
+						<a href="http://www.cision.com/pt/">Portugal</a>
+						<a href="http://www.cision.com/se/">Sweden</a>
+						<a href="http://www.cision.com/uk/">United Kingdom</a>
+					</div>
+				</div> <!-- ####### END FOOTER CONTAINER ####### -->
+
+	
+
+
+			<!-- end main -->
+			</div>
+
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <div class="copyFooter">
+							<span class="copy">Copyright &copy; 2015 Cision, Inc.</span>
+							<div class="menu-copyright-footer-menu-container"><ul id="menu-copyright-footer-menu" class="menu"><li id="menu-item-54602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54602"><a href="http://www.cision.com/us/legal/">Legal</a></li>
+</ul></div>
+						</div>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+			<a class='avia-post-nav avia-post-prev without-image' href='http://www.cision.com/us/2012/12/should-you-join-the-new-myspace/' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>Should You Join the New MySpace?</span>        </span>    </span></a><a class='avia-post-nav avia-post-next without-image' href='http://www.cision.com/us/2012/12/top-tech-apps/' >    <span class='label iconfont' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span>    <span class='entry-info-wrap'>        <span class='entry-info'>            <span class='entry-title'>Top Tech Apps</span>        </span>    </span></a><!-- end wrap_all --></div>
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://www.cision.com/us/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://www.cision.com/us/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://www.cision.com/us/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ 			<script type="text/javascript">
+				jQuery(document).ready(function($) {
+					jQuery('#dc_jqaccordion_widget-2-item .jqueryAccMenu').dcAccordion({
+						eventType: 'click',
+						hoverDelay: 0,
+						menuClose: false,
+						autoClose: true,
+						saveState: false,
+						autoExpand: true,
+						classExpand: 'current-menu-item',
+						classDisable: '',
+						showCount: false,
+						disableLink: true,
+						cookie: 'dc_jqaccordion_widget-2',
+						speed: 'slow'
+					});
+				});
+			</script>
+		
+			<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?5801a2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.cision.com\/us\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/contact-form-7/includes/js/scripts.js?5801a2"></script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-content/themes/enfold/js/avia.js?5801a2?ver=1'></script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-content/themes/enfold/js/shortcodes.js?5801a2?ver=1'></script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-content/themes/enfold/js/prettyPhoto/js/jquery.prettyPhoto.js?5801a2?ver=3.1.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-includes/js/mediaelement/mediaelement-and-player.min.js?5801a2?ver=2.13.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/us\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://static.cision.com/us/wp-includes/js/mediaelement/wp-mediaelement.js?5801a2?ver=3.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@3.8.1","language":""},"disqusIdentifier":"10466 http:\/\/blog.us.cision.com\/?p=10466","disqusShortname":"cision-us","disqusTitle":"Top 50 Consumer Electronics Blogs","disqusUrl":"http:\/\/www.cision.com\/us\/2012\/12\/top-50-consumer-electronics-blogs\/","options":{"manualSync":false},"postId":"10466"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/disqus-comment-system/media/js/disqus.js?5801a2"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"cision-us"};
+/* ]]> */
+</script>
+<script type='text/javascript' src="http://www.cision.com/us/wp-content/plugins/disqus-comment-system/media/js/count.js?5801a2"></script>
+
+<a href='#top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>
+<div id="fb-root"></div>
+<script type="text/javascript" src="http://static.cision.com/us/wp-content/themes/cision/js/scripts.js?5801a2"></script>
+<!--
+<script type='text/javascript' language='javascript' src='http://static.cision.com/us/wp-content/themes/cision/elqNow/elqCfg.js?5801a2?v=1.0'></script>
+<script type='text/javascript' language='javascript' src='http://static.cision.com/us/wp-content/themes/cision/elqNow/elqImg.js?5801a2?v=1.0'></script>
+-->
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Database Caching 127/161 queries in 0.545 seconds using memcached
+Content Delivery Network via Amazon Web Services: CloudFront: static.cision.com
+
+ Served from: www.cision.com @ 2015-02-12 09:19:01 by W3 Total Cache -->

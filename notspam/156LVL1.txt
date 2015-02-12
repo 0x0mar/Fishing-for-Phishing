@@ -1,0 +1,523 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>December | 2009 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>December 2009</span>	</h2>	
+		<div id="post-1180" class="post-1180 post type-post status-publish format-standard hentry category-holiday">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/23/happy-holidays-to-you/" rel="bookmark" title="Permalink to Happy Holidays to You!">Happy Holidays to You!</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 23, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/23/happy-holidays-to-you/#comments">10 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I&#8217;m signing off until the new year, but just wanted to wish you all a Merry Christmas! I hope you have a lovely holiday.</p>
+<p><img class="alignnone size-full wp-image-1181" title="postcard2" src="http://evie-s.com/news/wp-content/uploads/2009/12/postcard2.jpg" alt="postcard2" width="571" height="381" /></p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1173" class="post-1173 post type-post status-publish format-standard hentry category-diy category-knitting">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/15/a-sweet-gift-for-a-sweet-girl/" rel="bookmark" title="Permalink to A Sweet Gift for a Sweet Girl">A Sweet Gift for a Sweet Girl</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 15, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/15/a-sweet-gift-for-a-sweet-girl/#comments">2 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Remember that <a href="http://evie-s.com/news/2009/10/09/the-cutest-handmade-purse/" target="_self">cute purse I made for my niece</a> a few months ago? Well, I slightly modified that concept and made a knit pouch for a little girl named Sarah, and I can&#8217;t wait to give it to her! Sarah is in second grade at a school back in Tulsa, and I enjoyed visiting her every week to mentor her.</p>
+<p>The kids at this school are so precious, but they don&#8217;t have a lot (some don&#8217;t even have heat in the winter). <a href="http://lifechurch.tv" target="_blank">My church</a> recently did a gift drive for these kids and they all were given a Christmas present to enjoy. I really look forward to taking a trip back home this week to give her this gift and love on her.</p>
+<p><img class="alignnone size-full wp-image-1174" title="bag1" src="http://evie-s.com/news/wp-content/uploads/2009/12/bag1.jpg" alt="bag1" width="571" height="402" /></p>
+<p>To let you know briefly how I made it: I used a knit stitch throughout and sewed some fabric on the underside to line it. Then I put on a snap closure. Then I turned it inside out and hand-sewed the sides. I finished it with a mini fabric flower and a cute heart button.</p>
+<p><img class="alignnone size-full wp-image-1175" title="bag2" src="http://evie-s.com/news/wp-content/uploads/2009/12/bag2.jpg" alt="bag2" width="571" height="214" /></p>
+<p>And of course I&#8217;m stuffing it with little goodies!</p>
+<p><img class="alignnone size-full wp-image-1176" title="bag3" src="http://evie-s.com/news/wp-content/uploads/2009/12/bag3.jpg" alt="bag3" width="571" height="428" /></p>
+<p>So friends, as the holiday approaches, be mindful of someone you might be able to give some love and cheer to that really needs it most.</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1142" class="post-1142 post type-post status-publish format-standard hentry category-holiday">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/14/holiday-expo-2009/" rel="bookmark" title="Permalink to Holiday Expo 2009">Holiday Expo 2009</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 14, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/14/holiday-expo-2009/#comments">6 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I&#8217;m really excited to share this little online curation of submitted art, products and photography to inspire your holiday season. Thank you so much to everyone that participated! Enjoy!</p>
+<p><img class="alignnone size-full wp-image-1143" title="blog-expo" src="http://evie-s.com/news/wp-content/uploads/2009/12/blog-expo.jpg" alt="blog-expo" width="571" height="340" /></p>
+<p>1. <a href="http://www.etsy.com/view_listing.php?listing_id=36242416" target="_blank">2010 Wall Calendar</a> by Cupcake Studio</p>
+<p><a href="http://www.etsy.com/view_listing.php?listing_id=36242416" target="_blank"><img class="alignnone size-full wp-image-1144" title="expo-cupcake" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-cupcake.jpg" alt="expo-cupcake" width="571" height="272" /></a></p>
+<p>2. <a href="http://www.etsy.com/shop/InkandButton" target="_blank">Brand new holiday floral accessories</a> by Ink &amp; Button</p>
+<p><a href="http://www.etsy.com/shop/InkandButton" target="_blank"><img class="alignnone size-full wp-image-1165" title="expo-ink" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-ink.jpg" alt="expo-ink" width="571" height="333" /></a></p>
+<p>3. <a href="http://www.etsy.com/view_listing.php?listing_id=35732475" target="_blank">North Pole Earrings</a> by Corrieberry Pie</p>
+<p><a href="http://www.etsy.com/view_listing.php?listing_id=35732475" target="_blank"><img class="alignnone size-full wp-image-1145" title="expo-corrie" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-corrie.jpg" alt="expo-corrie" width="571" height="271" /></a></p>
+<p>4. <a href="http://www.etsy.com/view_listing.php?listing_id=36491518" target="_blank">Holiday Clippings 02</a> &amp; <a href="http://www.etsy.com/view_listing.php?ref=vl_other_1&amp;listing_id=36491899" target="_blank">03</a> by Promise Tangeman</p>
+<p><a href="http://www.etsy.com/view_listing.php?listing_id=36491518" target="_blank"><img class="alignnone size-full wp-image-1146" title="expo-promise" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-promise.jpg" alt="expo-promise" width="571" height="280" /></a></p>
+<p>5. <a href="http://maedchenmitherz.wordpress.com/2009/12/05/polaroid-christmas-cards-tutorial/" target="_blank">Polaroid Christmas Cards Tutorial</a> by Katja of Maedchenmitherz</p>
+<p><a href="http://maedchenmitherz.wordpress.com/2009/12/05/polaroid-christmas-cards-tutorial/" target="_blank"><img class="alignnone size-full wp-image-1149" title="expo-katja" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-katja.jpg" alt="expo-katja" width="571" height="381" /></a></p>
+<p>6. <a href="http://www.onepearlbutton.com/2009/12/in-progress.html" target="_blank">DIY Yarn Pom-Poms and Christmas Trees</a> by Alli of One Pearl Button</p>
+<p><a href="http://www.onepearlbutton.com/2009/12/in-progress.html" target="_blank"><img class="alignnone size-full wp-image-1150" title="expo-onepearl" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-onepearl.jpg" alt="expo-onepearl" width="571" height="381" /></a></p>
+<p>7. <a href="http://dottieangel.blogspot.com/2009/12/and-so-it-came-to-pass.html" target="_blank">A Gleeful Christmas</a> by dottie angel</p>
+<p><a href="http://dottieangel.blogspot.com/2009/12/and-so-it-came-to-pass.html" target="_blank"><img class="alignnone size-full wp-image-1151" title="expo-dottieangel" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-dottieangel.jpg" alt="expo-dottieangel" width="571" height="393" /></a></p>
+<p>8. Quilted Stockings by reader, Deborah Hudson</p>
+<p><img class="alignnone size-full wp-image-1152" title="expo-deborah" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-deborah.jpg" alt="expo-deborah" width="571" height="415" /></p>
+<p>9. <a href="http://www.flickr.com/photos/heather_pauline/4153868691/" target="_blank">Photos from 365 day self portrait project</a> by heather pauline</p>
+<p><a href="http://www.flickr.com/photos/heather_pauline/4153868691/" target="_blank"><img class="alignnone size-full wp-image-1158" title="expo-heather" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-heather.jpg" alt="expo-heather" width="571" height="372" /></a></p>
+<p>10. <a href="http://www.flickr.com/photos/taraanderson/4150083005/" target="_blank">Handmade Holiday</a> and <a href="http://www.flickr.com/photos/taraanderson/4150932644/" target="_blank">Shiny &amp; Bright</a> photos by Tara Anderson</p>
+<p><a href="http://www.flickr.com/photos/taraanderson/4150083005/" target="_blank"><img class="alignnone size-full wp-image-1160" title="expo-tara" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-tara.jpg" alt="expo-tara" width="571" height="279" /></a></p>
+<p>11. <a href="http://www.etsy.com/view_listing.php?listing_id=34677121" target="_blank">Rusty asymmetrical Coat</a> by larimeloom</p>
+<p><img class="alignnone size-full wp-image-1170" title="expo-larimeloom" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo-larimeloom.jpg" alt="expo-larimeloom" width="571" height="333" /></p>
+<p>That includes this years expo. I know it&#8217;s hard to pick, but do you have any favorites? Let me know in the comments! I will most likely be doing this again next year since it was so much fun!</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /></p>
+<p><!--Session data--><br />
+<input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /><!--Session data--><br />
+<input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1135" class="post-1135 post type-post status-publish format-standard hentry category-holiday">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/11/mission-advent-calendar/" rel="bookmark" title="Permalink to Mission: Advent Calendar">Mission: Advent Calendar</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 11, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/11/mission-advent-calendar/#comments">5 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I would love to make an advent calendar by the time next Christmas rolls around. My baby will be two by then, and old enough to enjoy it. So, I&#8217;ve been on a search looking out for what I like! I really love the idea of having a special surprise, message, task, or bible reading for each day.</p>
+<p><img class="alignnone size-full wp-image-1136" title="advent" src="http://evie-s.com/news/wp-content/uploads/2009/12/advent.jpg" alt="advent" width="571" height="340" /></p>
+<p>Advent Calendar <a href="http://www.flickr.com/photos/ziggiau/3083466481/" target="_blank">by ziggiau</a></p>
+<p><img class="alignnone size-full wp-image-1137" title="advent1" src="http://evie-s.com/news/wp-content/uploads/2009/12/advent1.jpg" alt="advent1" width="571" height="248" /></p>
+<p>Advent calendars from <a href="http://sweetpaul.typepad.com/my_weblog/2009/11/sweet-pauls-holiday-countdown-nov-30th.html" target="_blank">Sweet Paul</a>, <a href="http://www.designspongeonline.com/2009/12/diy-project-prudent-baby-easy-advent-calendar.html" target="_blank">Design Sponge</a>, and Rachel from <a href="http://racheldenbow.blogspot.com/2009/12/hello-december.html" target="_blank">Smile and Wave</a></p>
+<p><img class="alignnone size-full wp-image-1138" title="advent2" src="http://evie-s.com/news/wp-content/uploads/2009/12/advent2.jpg" alt="advent2" width="571" height="400" /></p>
+<p><a href="http://www.craftynest.com/2009/12/craft-stick-advent-calendar-with-origami-boxes/" target="_blank">Calendar with Origami boxes</a> // Advent Box Calendar <a href="http://www.flickr.com/photos/24288493@N03/4144383819/" target="_blank">by shabbychiccrafts</a></p>
+<p>&#8212;-</p>
+<p>Does anyone have any advent traditions at their house? I&#8217;d love to hear! Also, make sure to check back here on Monday. I will be posting a fabulous <a href="http://evie-s.com/news/2009/12/07/join-the-first-annual-christmas-expo/" target="_blank">Holiday Expo</a>. I&#8217;m still accepting admissions if you are interested!</p>
+<p>Have a great weekend everyone.</p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1128" class="post-1128 post type-post status-publish format-standard hentry category-holiday category-news">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/07/join-the-first-annual-christmas-expo/" rel="bookmark" title="Permalink to Join the First Annual Christmas Expo">Join the First Annual Christmas Expo</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 7, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/07/join-the-first-annual-christmas-expo/#comments">1 comment</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Hello wonderful readers! I&#8217;m excited about sponsoring an online holiday exposition right here on evie s. This will be a fun little collaboration to celebrate the holiday, and see some great work and products.</p>
+<p><img class="alignnone size-full wp-image-1132" title="expo" src="http://evie-s.com/news/wp-content/uploads/2009/12/expo1.jpg" alt="expo" width="571" height="72" /></p>
+<p><strong>Who can participate: </strong>Any artist, etsy seller, independant seller, crafter, or photographer.</p>
+<p><strong>What you can submit: </strong>A product, a photograph, artwork, DIY project or craft&#8230;pretty much anything as long as it has a holiday or winter theme!</p>
+<p><strong>When to email it by: </strong>Please email your submissions by Sunday, December 13th. I will be posting the expo on the following Monday.</p>
+<p><strong>Where to send your submissions: </strong>Email me pics, links, etc to info [at] evie-s.com</p>
+<p>Can&#8217;t wait to hear from you!</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+<p><input id="gwProxy" type="hidden" /><!--Session data--><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1124" class="post-1124 post type-post status-publish format-standard hentry category-holiday tag-button tag-christmas tag-garland tag-holiday">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/02/new-for-christmas-on-evie-s/" rel="bookmark" title="Permalink to New for Christmas on evie s.">New for Christmas on evie s.</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 2, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/02/new-for-christmas-on-evie-s/#comments">4 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Finally, a new product for the store! <a href="http://www.etsy.com/view_listing.php?listing_id=35844423" target="_blank">This beauty</a> is for sale on my etsy shop. Take a look!</p>
+<p><a href="http://www.etsy.com/view_listing.php?listing_id=35844423" target="_blank"><img class="alignnone size-full wp-image-1125" title="new" src="http://evie-s.com/news/wp-content/uploads/2009/12/new.jpg" alt="new" width="571" height="400" /></a></p>
+<p><input id="gwProxy" type="hidden" /><!--Session data--><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1117" class="post-1117 post type-post status-publish format-standard hentry category-diy category-fashion">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2009/12/01/accessories-are-so-hot-right-now/" rel="bookmark" title="Permalink to Accessories Are So Hot Right Now">Accessories Are So Hot Right Now</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		December 1, 2009,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2009/12/01/accessories-are-so-hot-right-now/#comments">7 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Oh how I love accessories! They can make any dull outfit brighter, cuter, and more interesting. Here are some of my favorites I&#8217;ve come across this season.</p>
+<p><img class="size-full wp-image-1118" title="accessories1" src="http://evie-s.com/news/wp-content/uploads/2009/12/accessories1.jpg" alt="accessories1" width="571" height="259" /></p>
+<p>Beautiful handmade headbands from <a href="http://lovetaza.blogspot.com/" target="_blank">Taza</a> (found via <a href="http://seesawdesigns.blogspot.com/2009/11/love-taza.html" target="_blank">SeeSaw Designs</a>). I&#8217;m also a fan of her coat that&#8217;s seen in all her photos and awesome red lipstick!</p>
+<p><img class="size-full wp-image-1119" title="accessories2" src="http://evie-s.com/news/wp-content/uploads/2009/12/accessories2.jpg" alt="accessories2" width="571" height="400" /></p>
+<p>These are creations from <a href="http://www.etsy.com/shop/InkandButton" target="_blank">Ink and Button</a>, a new store on etsy that&#8217;s had instant success. You can see why! (Found via <a href="http://papernstitchblog.com/2009/11/10/ink-and-button/" target="_blank">paper n stitch</a>.)</p>
+<p><img class="alignnone size-full wp-image-1120" title="accessories3" src="http://evie-s.com/news/wp-content/uploads/2009/12/accessories3.jpg" alt="accessories3" width="571" height="199" /></p>
+<p>I&#8217;ve been following Rachel from <a href="http://heart-of-light.blogspot.com/" target="_blank">Heart of Light</a> for a while, so when she opened an <a href="http://www.etsy.com/shop/heartoflight" target="_blank">etsy store</a> in September, I was thrilled! Her stuff is definitely on my wish list. By the way, in only 3 short months, she&#8217;s had almost 400 sales. Wow!</p>
+<p><img class="alignnone size-full wp-image-1121" title="accessories5" src="http://evie-s.com/news/wp-content/uploads/2009/12/accessories5.jpg" alt="accessories5" width="571" height="265" /></p>
+<p>I found this great tutorial on <a href="http://mymamamadeit.blogspot.com/2009/11/large-layered-flower-pin-how-to.html" target="_blank">how to make your own large fabric flower</a> on My Mama Made It. Sooo pretty!</p>
+<p><img class="alignnone size-full wp-image-1122" title="accessories4" src="http://evie-s.com/news/wp-content/uploads/2009/12/accessories4.jpg" alt="accessories4" width="571" height="386" /></p>
+<p>Finally, I just had to share this amazing tutorial on <a href="http://afieldjournal.blogspot.com/2009/11/frills-and-flowers-and-buttons-and-bows.html" target="_blank">how to make fancy velvet headbands</a> from A Field Journal. They are just gorgeous!</p>
+<p>So that was a few of my favs. What accessories are you really into this season?</p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

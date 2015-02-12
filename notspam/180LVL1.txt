@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>January | 2012 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>January 2012</span>	</h2>	
+		<div id="post-2754" class="post-2754 post type-post status-publish format-standard hentry category-art category-tutorials">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/01/27/oil-painting-for-beginners-supplies/" rel="bookmark" title="Permalink to Oil Painting for Beginners: Supplies">Oil Painting for Beginners: Supplies</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		January 27, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/01/27/oil-painting-for-beginners-supplies/#comments">8 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I&#8217;m going to start a 3 or 4 part series on oil painting, sharing tips &amp; techniques that I&#8217;ve learned along the way. A common misconception with oil painting is that you <strong>have</strong> to use dangerous solvents and thinners that are very toxic. That is simply not true. It is possible to be completely safe while painting with this beautiful medium. In this part I will cover the basic supplies you need to get started. Shall we?</p>
+<p><img class="alignnone size-full wp-image-2812" title="oilpainting1" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting1.jpg" alt="" width="571" height="761" /></p>
+<p><strong>1. Paint</strong></p>
+<p>You get what you pay for in this department. I use a mid-level brand (Grumbacher) that I&#8217;ve been pretty happy with, but I do find that I need to add more medium to get them to flow properly. With a 40% coupon at Michael&#8217;s I got a set of 10 for $35 in the basic colors. Then I purchased a few Winton color tubes separately for about $8 each.</p>
+<p><img class="alignnone size-full wp-image-2813" title="oilpainting2" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting2.jpg" alt="" width="571" height="428" /></p>
+<p><strong>2. Brushes</strong></p>
+<p>It&#8217;s nice to have a broad range of brushes for oils, and great to have a few with a longer handle for painting with your whole arm, which is very important. Synthetic or natural fiber brushes will do just fine.</p>
+<p><img class="alignnone size-full wp-image-2816" title="oilpainting-brushes3" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting-brushes3.jpg" alt="" width="571" height="428" /></p>
+<p>I use mostly round and filbert brushes, and I like to have two of the same size of my favorites &#8211; one for painting and another to keep clean for blending or picking up paint.</p>
+<p><img class="alignnone size-full wp-image-2814" title="oilpainting-brushes1" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting-brushes1.jpg" alt="" width="571" height="428" /></p>
+<p>Bright and flat brushes are also good to have &#8211; I&#8217;ve never used a fan brush so you might be able to skip that one. I also have one or two really tiny brushes for detailing.</p>
+<p><img class="alignnone size-full wp-image-2815" title="oilpainting-brushes2" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting-brushes2.jpg" alt="" width="571" height="428" /></p>
+<p><strong>3. Oil Medium</strong></p>
+<p>This is your replacement for turps and thinners. I use Refined Linseed Oil, but you could use Walnut oil, or really any type of oil medium. You will use this to thin your paint, prep your canvas, and clean your brushes.</p>
+<p><img class="alignnone size-full wp-image-2817" title="oilpainting3" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting3.jpg" alt="" width="571" height="761" /></p>
+<p><strong>4. Palette</strong></p>
+<p>A glass palette is my favorite because it&#8217;s clear and flat and super easy to mix colors on and even easier to clean &#8211; just use some pages from a phone book to wipe it clean! You could also use a disposable palette for convenience.</p>
+<p><img class="alignnone size-full wp-image-2818" title="oilpainting4" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting4.jpg" alt="" width="571" height="428" /></p>
+<p><strong>5. Rag</strong></p>
+<p>You will need a rag to wipe your brushes while painting, and you can also use it to clean your brushes of excess paint. An old cotton t-shirt works well for this.</p>
+<p><img class="alignnone size-full wp-image-2819" title="oilpainting5" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting5.jpg" alt="" width="571" height="566" /></p>
+<p><strong>6. Bar of Soap</strong></p>
+<p>A bar of soap with olive oil in it works best, which can be found at health food stores. This will be used to clean your brushes. Works like a charm and it&#8217;s completely safe!</p>
+<p><img class="alignnone size-full wp-image-2820" title="oilpainting6" src="http://evie-s.com/news/wp-content/uploads/2012/01/oilpainting6.jpg" alt="" width="571" height="761" /></p>
+<p><strong>7. Easel (Optional)</strong></p>
+<p>You don&#8217;t <strong>have</strong> to have this, but it does make painting so much easier than having to hunch over a desk. Not to mention dealing with glare from painting on a flat plane.</p>
+<p>That&#8217;s it! The the next part I&#8217;ll go into the basics of toning/priming your canvas and sketching out your subject. I hope if you&#8217;ve been intimidated by oils in the past, you will give it a try. Oils have become my absolute favorite medium. Until then! Have a great weekend.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2768" class="post-2768 post type-post status-publish format-standard hentry category-art category-interviews">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/01/16/artist-interview-nancy-straughan/" rel="bookmark" title="Permalink to Interview &amp; Giveaway: Nancy Straughan">Interview &#038; Giveaway: Nancy Straughan</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		January 16, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/01/16/artist-interview-nancy-straughan/#comments">25 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>It&#8217;s been a while since I posted an artist interview, but when Nancy, a textile designer based in London contacted me, I just knew I had to have her thoughts on art. She recently graduated from art school and has launched a beautiful line of printed textiles that are so alluring in their simplicity. Check out her <a href="http://nancystraughan.blogspot.com/">blog</a>, <a href="http://nancy-straughan.com/">website</a>, and <a href="http://www.etsy.com/shop/nancystraughan">shop</a> for more on this lovely lady.</p>
+<p>Also, make sure you don&#8217;t miss the giveaway at the end of the post to win a risograph printed notebook specially made for our winner with one of Nancy&#8217;s designs. Enjoy!</p>
+<p><img class="alignnone size-full wp-image-2800" title="nancy" src="http://evie-s.com/news/wp-content/uploads/2012/01/nancy.jpg" alt="" width="571" height="305" /></p>
+<p><strong>1. What does art mean to you?</strong> Art means a few things to me but I think the most important is that art should stir something up inside you. I think good art and design should make you think, feel, ask questions, or solve problems. I&#8217;m a big fan of the aesthetic movement and in my slightly vain outlook art means the most to me when I consider it beautiful, I find beautiful art very peaceful. I remember seeing the Monet exhibition in Edinburgh, Scotland when I was still in school. I was blown away at how beautiful his paintings were, that was enough for me!</p>
+<p><img class="alignnone size-full wp-image-2801" title="nancy1" src="http://evie-s.com/news/wp-content/uploads/2012/01/nancy1.jpg" alt="" width="570" height="435" /></p>
+<p><strong>2. What is one challenge you&#8217;ve overcome as an artist?</strong> I suppose being the sort of person that I am means I come across daily challenges. I try to have a good work ethic, and set my self lots of tasks. I do think however most of the time I end up giving my self too much work, but those manic moments make the little successes feel so much better! If I have to pin point the biggest challenge I have had to face, it would be the moment after I graduated art school, realising that you have to face the world with just you and your skills is a very scary concept. However there is something magical about being a creative, the fact that I am a textile designer is a wonderful thing and doing what I do feels very natural for me.</p>
+<p><img class="alignnone size-full wp-image-2802" title="nancy2" src="http://evie-s.com/news/wp-content/uploads/2012/01/nancy2.jpg" alt="" width="570" height="855" /></p>
+<p><strong>3. Describe one thing or person that has influenced your art the most.</strong> This is an easy one! Without a moments doubt I have to say its my Father. He was a wonderfully talented artist, photographer, designer, in fact everything. Not only was he incredibly creative but he was also a wonderful person. I doubt I&#8217;ll ever meet anyone else like him. I think he has influenced pretty much every thing I do, the good and the bad! Him and my Mother made the greatest power couple ever, and I think my brother and I owe them a lot for how they brought us up.</p>
+<p><img class="alignnone size-full wp-image-2803" title="nancy3" src="http://evie-s.com/news/wp-content/uploads/2012/01/nancy3.jpg" alt="" width="571" height="387" /></p>
+<p><strong>4. Name three artists that inspire you.</strong> This is a really tough one and I think I may have to cheat a little! The two main influences with regard to textiles would be Lotta Jansdotter and Lena Corwin. Both of these ladies are very talented textile designers, their books have been invaluable to my textile education.  My talented creative friends are also very important to me, somehow I have managed to surround myself over the years with a great collection of extremely hard working and talented designers and I am very lucky to have them as my friends.</p>
+<p>&#8212;-</p>
+<p>Thank you Nancy! Now it&#8217;s giveaway time. To win this beautiful notebook, perfect for storing your thoughts for the new year, just leave a comment below on what kinds of amazing things you might record in these blank pages. A comment will be randomly selected one week from now. Good luck!</p>
+<p><img class="alignnone size-full wp-image-2804" title="nancy5" src="http://evie-s.com/news/wp-content/uploads/2012/01/nancy5.jpg" alt="" width="571" height="856" /></p>
+<p><em><strong>UPDATE:</strong> A winner has been randomly chosen&#8230;congratulations ESTHER comment #23! You will be a proud owner of a NS notebook. Thanks everyone for entering!</em></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2594" class="post-2594 post type-post status-publish format-standard hentry category-diy category-fashion">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/01/03/wearable-art-from-pasta/" rel="bookmark" title="Permalink to Wearable Art from Pasta">Wearable Art from Pasta</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		January 3, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/01/03/wearable-art-from-pasta/#comments">24 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>OK, before you laugh, let me just say that I waited and waited to post this because I vascillated back and forth between whether it was really really dumb or really cool. Then, I saw <a href="http://honestlywtf.com/diy/diy-dolce-gabbana-pasta-earrings/">this post about Dolce &amp; Gabbana using bowtie pasta</a> for earrings on the runway, and well, that was all the encouragement I needed! If D &amp; G can do it, then so can I. :) I give you, Chevron from pasta&#8230;</p>
+<p><img class="alignnone size-full wp-image-2769" title="pasta1" src="http://evie-s.com/news/wp-content/uploads/2012/01/pasta1.jpg" alt="" width="571" height="693" /></p>
+<p>Who knew that penne pasta was the perfect shape for making chevron patterns? Now, I experimented with different necklace bases &#8211; I used jersey fabric pretty successfully, but I settled on a knit i-cord for the strap, which let me control much better how they hang. I&#8217;m sure if used an actual necklace chain, you could also get pretty good results.</p>
+<p><img class="alignnone size-full wp-image-2770" title="pasta3" src="http://evie-s.com/news/wp-content/uploads/2012/01/pasta3.jpg" alt="" width="571" height="385" /></p>
+<p>Simply paint the pasta with acrylic craft paint and string onto whatever you&#8217;d like to use as your necklace strap. If you have four rows like the photo above, you will need four lengths of fabric/chain/i-cord to attach onto the necklace base.</p>
+<p>Large ditaloni pasta makes for great bracelet beads. Just string a few painted pieces of pasta on a strip of jersey and tie around your wrist.</p>
+<p><img class="alignnone size-full wp-image-2771" title="pasta2" src="http://evie-s.com/news/wp-content/uploads/2012/01/pasta2.jpg" alt="" width="571" height="761" /></p>
+<p>When I was having doubts about using pasta, I tried to recreate the shape using fabric, stiffened with glue and rolled into a bead. Then I cut the bead at an angle to achieve the same look. I&#8217;ll probably explore fabric beads a little more, it was a fun experiment.</p>
+<p><img class="alignnone size-full wp-image-2772" title="pasta4" src="http://evie-s.com/news/wp-content/uploads/2012/01/pasta4.jpg" alt="" width="571" height="857" /></p>
+<p>So what do you all think? Is this something you&#8217;ll try?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2743" class="post-2743 post type-post status-publish format-standard hentry category-art">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/01/01/working-hard/" rel="bookmark" title="Permalink to Working Hard">Working Hard</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		January 1, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/01/01/working-hard/#comments">13 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I&#8217;ve been painting more. Painting is scary for me. Graphic arts are so much more safe and forgiving, and easy. After all I&#8217;ve been doing it for about 13 years and for the most part, it comes naturally.</p>
+<p>I first discovered my love for drawing in the 5th grade. I always just assumed I wasn&#8217;t good at it before then, and had other interests, so I hadn&#8217;t even tried. To my surprise, I wasn&#8217;t too bad. But after those classes &#8211; for some reason or another &#8211; I abandoned drawing, only to take it up sporadically in the years following.</p>
+<p><img class="alignnone size-full wp-image-2757" title="art-2" src="http://evie-s.com/news/wp-content/uploads/2012/01/art-2.jpg" alt="" width="571" height="761" /></p>
+<p>So fast forward to last year, and I&#8217;ve been having the most unshakeable urge to paint and draw. After my <a href="http://evie-s.com/news/2011/11/06/drawing-challenge-free-download/">drawing challenge</a> last fall, I rediscovered my passion for it and have been shaking the dust off my rusty skills to see where it goes.</p>
+<p>There is a local painter here in Oklahoma City, whose work captured me immediately when I saw it on display in a local art gallery. I recently met with her, and she told me the 5 words that gave me the push I needed &#8211; &#8220;<strong>you need to work hard</strong>.&#8221;</p>
+<p><img class="alignnone size-full wp-image-2759" title="art-1" src="http://evie-s.com/news/wp-content/uploads/2012/01/art-1.jpg" alt="" width="571" height="761" /></p>
+<p>Understanding that I have to be willing to fail and create bad art while I learn, I&#8217;ve been painting with abandon. So I got out my oils the other day while the husband took the boys to the zoo. I created a decent painting, but I could not get her second eye right. So right now the painting looks like this:</p>
+<p><img class="alignnone size-full wp-image-2755" title="art" src="http://evie-s.com/news/wp-content/uploads/2012/01/art.jpg" alt="" width="571" height="761" /></p>
+<p>And of course my dear husband (ever the comic) had to completely deface it by cutting an eye patch for her out of paper. Haha, honey. :)</p>
+<p><img class="alignnone size-full wp-image-2756" title="art-3" src="http://evie-s.com/news/wp-content/uploads/2012/01/art-3.jpg" alt="" width="571" height="761" /></p>
+<p>I&#8217;m not sure where my art will take me in 2012, and I think I will always have a love for the craft arts and DIY projects I&#8217;ve done through the years, but be prepared to see more art related posts, as I pursue this passion that I just can&#8217;t ignore.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

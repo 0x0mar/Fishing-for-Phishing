@@ -1,0 +1,815 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/css/dmoz-main.css" />
+<title>DMOZ - Computers: Software</title>
+
+<style>
+.remBld {float:left; font-weight:bold; margin-right:5px; font-size:17px;}
+#_alt_ctrl_ALL, #_alt_ctrl_Z {border-right:none !important;}
+ul.right_align {float:left;}
+div.flag {  float : right ;  width : 16px ;  height : 16px ;}
+ul.directory-url li {  clear : right ;}
+li.cool a.listinglink {background:url('/img/star.gif') no-repeat right -2px; font-weight:bold; padding-right:16px; }
+div.flag img {  width:0px;  height:0px;  padding:8px;
+  background: url('/img/flag-faint.png');
+}
+ul.directory-url li:hover {  background-color : #e4e4e4 ;}
+ul.directory-url li:hover div.flag img {  background: url('/img/flag.png');}
+ul.directory-url li:hover div.flag:hover img {  background: url('/img/flag-highlight.png');}
+
+
+
+</style>
+</head>
+<body dir="LTR"><div class="none">
+<!-- SiteCatalyst code version: H.7.  Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+</div>
+
+<div id="doc"  class="nodViewN">
+	<div id="hd" style="border-bottom:0;">
+    	<a id="logo" class="logoN" href="/" alt="DMOZ logo" title="DMOZ"></a>
+
+        <div id="partnership">
+                <img width="72" height="36" align="middle" alt="In Partnership with AOL" src="/img/public/aolpartner.png"/>
+        </div>
+    </div>
+    <div id="hd-bar">
+
+        <div class="float-l" style="margin-left:8px;">
+
+        <!-- Twitter follow button -->
+          <a href="https://twitter.com/dmoz" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @dmoz</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <!-- End Twitter follow button -->
+
+        </div>
+
+        <div class="float-r">
+            <a style="font-weight:700" href="/docs/en/about.html">about dmoz</a> | 
+            <a href="http://blog.dmoz.org/">dmoz blog</a> | 
+            
+
+			<a href="/public/update?cat=Computers/Software">update listing</a> | 
+			
+            <a href="/public/abuse?cat=Computers/Software&lang=en">report abuse/spam</a> | 
+            <a href="/help/en/helpmain.html">help</a>
+        </div>
+       
+    </div>
+    <div id="bd-cross">
+    	<form class="center mb1em" action="/search" method="get">
+            <input size="45" name="q" class="searchNod" >
+            <input type=submit value="Search" class="btn" >
+            <select name="cat" class="selectNod" >
+			   
+               <option value="all" selected id="all-yes"><label for="all-yes">the entire directory</label></option>
+			   
+                 <option value="Computers/Software"  id="all-no"><label for="all-no">only in Computers/Software</label></option>
+                 
+            </select>
+            <input type=hidden name=all value="no" >
+        </form>
+
+        <div class="navigate" style="">
+            <div class="descript">
+
+                    <div id="descript" class="descriptN"><a href="/desc/Computers/Software">Description</a></div>
+
+            </div>
+            <ul class="navigate">
+                <li class="first">
+
+                    <a href="/">Top</a></li>
+<li><b>: </b><a href='/Computers/'>Computers</a></li>
+                        <li class="last">
+                            <strong><span class='remBld'>: </span>Software</strong>&nbsp;<em>(25,827)</em>
+                        </li>
+
+            </ul>
+        </div>
+<div class='alphanumeric'><span class='start'>[</span><span class='links'><a id='_alt_ctrl_A' href='/Computers/Software/A/'>A</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_B' href='/Computers/Software/B/'>B</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_C' href='/Computers/Software/C/'>C</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_D' href='/Computers/Software/D/'>D</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_E' href='/Computers/Software/E/'>E</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_F' href='/Computers/Software/F/'>F</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_G' href='/Computers/Software/G/'>G</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_H' href='/Computers/Software/H/'>H</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_I' href='/Computers/Software/I/'>I</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_J' href='/Computers/Software/J/'>J</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_K' href='/Computers/Software/K/'>K</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_L' href='/Computers/Software/L/'>L</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_M' href='/Computers/Software/M/'>M</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_N' href='/Computers/Software/N/'>N</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_O' href='/Computers/Software/O/'>O</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_P' href='/Computers/Software/P/'>P</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Q' href='/Computers/Software/Q/'>Q</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_R' href='/Computers/Software/R/'>R</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_S' href='/Computers/Software/S/'>S</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_T' href='/Computers/Software/T/'>T</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_U' href='/Computers/Software/U/'>U</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_V' href='/Computers/Software/V/'>V</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_W' href='/Computers/Software/W/'>W</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_X' href='/Computers/Software/X/'>X</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Y' href='/Computers/Software/Y/'>Y</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Z' href='/Computers/Software/Z/'>Z</a></span><span class='end'>]</span></div>
+        <div class="clear"></div>		
+        
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Computers/Software/Freeware/">Freeware</a>&nbsp;<em>(780)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Open_Source/Software/">Open Source</a>@&nbsp;<em>(352)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Shareware/">Shareware</a>&nbsp;<em>(333)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Computers/Software/Abandonware/">Abandonware</a>&nbsp;<em>(23)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Beta_Releases/">Beta Releases</a>&nbsp;<em>(7)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Conferences_and_Trade_Shows/">Conferences and Trade Shows</a>&nbsp;<em>(6)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Consultants/">Consultants</a>&nbsp;<em>(209)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Home/Consumer_Information/Computers_and_Internet/Software/">Consumer Information</a>@&nbsp;<em>(28)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Companies/Software_Development/">Development Companies</a>@&nbsp;<em>(293)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Directories/">Directories</a>&nbsp;<em>(70)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Education/">Education</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/FAQs%2C_Help%2C_and_Tutorials/">FAQs, Help, and Tutorials</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Globalization/">Globalization</a>&nbsp;<em>(440)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Computers/Software/History/">History</a>&nbsp;<em>(28)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Licensing/">Licensing</a>&nbsp;<em>(43)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Security/Malicious_Software/">Malicious Software</a>@&nbsp;<em>(210)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/News_and_Media/">News and Media</a>&nbsp;<em>(5)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Programming/">Programming</a>@&nbsp;<em>(13,767)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Rentable/">Rentable</a>&nbsp;<em>(63)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Retailers/">Retailers</a>&nbsp;<em>(136)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Search_Engines/">Search Engines</a>&nbsp;<em>(8)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Software_Engineering/">Software Engineering</a>&nbsp;<em>(92)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Year_2000/">Year 2000</a>&nbsp;<em>(19)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Computers/Software/Accounting/">Accounting</a>&nbsp;<em>(1,174)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Security/Malicious_Software/Viruses/">Anti-Virus</a>@&nbsp;<em>(79)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Backup/">Backup</a>&nbsp;<em>(125)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Barcode/">Barcode</a>&nbsp;<em>(166)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Build_Management/">Build Management</a>&nbsp;<em>(61)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Business/">Business</a>&nbsp;<em>(420)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Business_Drawing/">Business Drawing</a>&nbsp;<em>(40)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Databases/Data_Warehousing/Decision_Support_Tools/">Business Intelligence</a>@&nbsp;<em>(31)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/CAD_and_CAM/">CAD</a>@&nbsp;<em>(677)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Communications/">Communications</a>&nbsp;<em>(27)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Programming/Compilers/">Compilers</a>@&nbsp;<em>(190)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Configuration_Management/">Configuration Management</a>&nbsp;<em>(280)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Data_Administration/">Data Administration</a>&nbsp;<em>(62)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Data_Compression/">Data Compression</a>&nbsp;<em>(33)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Databases/">Databases</a>&nbsp;<em>(1,725)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Desktop_Customization/">Desktop Customization</a>&nbsp;<em>(851)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Desktop_Publishing/Software/">Desktop Publishing</a>@&nbsp;<em>(77)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Device_Drivers/">Device Drivers</a>&nbsp;<em>(60)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Diagnostics/">Diagnostics</a>&nbsp;<em>(58)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Business/Business_Services/Signage/Digital/Software/">Digital Signage</a>@&nbsp;<em>(22)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Multimedia/Digital_Video/Products_and_Tools/Software/">Digital Video</a>@&nbsp;<em>(76)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Disk_Management/">Disk Management</a>&nbsp;<em>(140)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Open_Source/Software/Internet/Distributed_Computing/">Distributed Computing</a>@&nbsp;<em>(11)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Document_Imaging/">Document Imaging</a>&nbsp;<em>(113)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Document_Management/">Document Management</a>&nbsp;<em>(243)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Editors/">Editors</a>&nbsp;<em>(70)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Educational/">Educational</a>&nbsp;<em>(403)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Emulators/">Emulators</a>@&nbsp;<em>(371)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Enterprise_Application_Integration/">Enterprise Application Integration</a>&nbsp;<em>(22)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Enterprise_Information_Integration/">Enterprise Information Integration</a>&nbsp;<em>(12)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/ERP/">ERP</a>&nbsp;<em>(395)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/File_Management/">File Management</a>&nbsp;<em>(210)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Computers/Software/Fonts/">Fonts</a>&nbsp;<em>(40)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Games/Video_Games/">Games</a>@&nbsp;<em>(22,880)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Graphics/">Graphics</a>&nbsp;<em>(1,392)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Groupware/">Groupware</a>&nbsp;<em>(296)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Help_Desk/">Help Desk</a>&nbsp;<em>(122)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Home/Software/">Home</a>@&nbsp;<em>(7)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Home_Automation/Software/">Home Automation</a>@&nbsp;<em>(13)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Human_Resources/">Human Resources</a>&nbsp;<em>(463)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Industry-Specific/">Industry-Specific</a>&nbsp;<em>(641)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Information_Retrieval/">Information Retrieval</a>&nbsp;<em>(86)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Internet/">Internet</a>&nbsp;<em>(3,626)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Intranet/">Intranet</a>&nbsp;<em>(13)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Manufacturing/">Manufacturing</a>&nbsp;<em>(529)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Marketing/">Marketing</a>&nbsp;<em>(243)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Master_Data_Management/">Master Data Management</a>&nbsp;<em>(114)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Science/Math/Software/">Math</a>@&nbsp;<em>(349)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Multimedia/Software/">Multimedia</a>@&nbsp;<em>(126)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Networking/">Networking</a>&nbsp;<em>(340)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Object-Oriented/">Object-Oriented</a>&nbsp;<em>(14)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Office_Suites/">Office Suites</a>&nbsp;<em>(65)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Online_Training/">Online Training</a>&nbsp;<em>(141)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Operating_Systems/">Operating Systems</a>&nbsp;<em>(7,696)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Presentation/">Presentation</a>&nbsp;<em>(54)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Project_Management/">Project Management</a>&nbsp;<em>(221)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Robotics/Software/">Robotics</a>@&nbsp;<em>(48)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Science/Software/">Science</a>@&nbsp;<em>(157)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Security/Products_and_Tools/">Security</a>@&nbsp;<em>(440)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Software/">Sports</a>@&nbsp;<em>(28)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Spreadsheets/">Spreadsheets</a>&nbsp;<em>(172)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/System_Management/">System Management</a>&nbsp;<em>(77)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Typesetting/">Typesetting</a>&nbsp;<em>(337)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Virtual_Reality/Software/">Virtual Reality</a>@&nbsp;<em>(11)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Word_Processors/">Word Processors</a>&nbsp;<em>(73)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Computers/Software/Workflow/">Workflow</a>&nbsp;<em>(120)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+                <fieldset class="fieldcap fieldcapN">
+                <legend>This category in other languages:</legend>
+                <ul class="language">
+
+                    <li>
+                    	<a href="/World/Azerbaijani/Komp%C3%BCter/Proqramlar">Azərbaycanca</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Indonesia/Komputer/Perangkat_Lunak">Bahasa Indonesia</a>
+                        <em>(24)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bosanski/Ra%C4%8Dunari/Softver">Bosanski</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Catal%C3%A0/Inform%C3%A0tica/Programari">Català</a>
+                        <em>(50)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C4%8Cesky/Po%C4%8D%C3%ADta%C4%8De/Software">Česky</a>
+                        <em>(229)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Dansk/Edb/Software">Dansk</a>
+                        <em>(202)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Deutsch/Computer/Software">Deutsch</a>
+                        <em>(3811)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Espa%C3%B1ol/Inform%C3%A1tica/Software">Español</a>
+                        <em>(389)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Esperanto/Komputado/Programoj">Esperanto</a>
+                        <em>(59)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Euskara/Informatika/Softwarea">Euskara</a>
+                        <em>(24)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Fran%C3%A7ais/Informatique/Logiciels">Français</a>
+                        <em>(2141)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Galego/Inform%C3%A1tica/Software">Galego</a>
+                        <em>(41)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hrvatski/Ra%C4%8Dunala/Software">Hrvatski</a>
+                        <em>(40)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Italiano/Computer/Software">Italiano</a>
+                        <em>(520)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Kurd%C3%AE/Komputer/Niv%C3%AEsbar%C3%AE">Kurdî</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lietuvi%C5%B3/Kompiuteriai_ir_Internetas/Programin%C4%97_%C4%AFranga">Lietuvių</a>
+                        <em>(71)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Magyar/Sz%C3%A1m%C3%ADt%C3%A1stechnika/Szoftver">Magyar</a>
+                        <em>(76)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Nederlands/Computers/Software">Nederlands</a>
+                        <em>(676)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Norsk/Data/Programvare">Norsk</a>
+                        <em>(103)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Polski/Komputery/Oprogramowanie">Polski</a>
+                        <em>(521)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Portugu%C3%AAs/Inform%C3%A1tica/Software">Português</a>
+                        <em>(109)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Rom%C3%A2n%C4%83/Computere/Software">Română</a>
+                        <em>(184)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Shqip/Kompjutera/Programe">Shqip</a>
+                        <em>(4)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensky/Po%C4%8D%C3%ADta%C4%8De/Software">Slovensky</a>
+                        <em>(121)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Srpski/Kompjuteri/Software">Srpski</a>
+                        <em>(56)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Suomi/Tietotekniikka/Ohjelmat">Suomi</a>
+                        <em>(25)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Svenska/Datorer/Programvara">Svenska</a>
+                        <em>(117)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Tin_h%E1%BB%8Dc/Ph%E1%BA%A7n_m%E1%BB%81m">Tiếng_Việt</a>
+                        <em>(17)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/T%C3%BCrk%C3%A7e/Bilgisayar/Yaz%C4%B1l%C4%B1m">Türkçe</a>
+                        <em>(415)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Greek/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AD%CF%82/%CE%9B%CE%BF%CE%B3%CE%B9%CF%83%CE%BC%CE%B9%CE%BA%CF%8C">Ελληνική</a>
+                        <em>(12)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bulgarian/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%80%D0%B8/%D0%A1%D0%BE%D1%84%D1%82%D1%83%D0%B5%D1%80">Български</a>
+                        <em>(109)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Makedonski/%D0%9A%D0%BE%D0%BC%D0%BF%D1%98%D1%83%D1%82%D0%B5%D1%80%D0%B8/%D0%A1%D0%BE%D1%84%D1%82%D0%B2%D0%B5%D1%80">Македонски</a>
+                        <em>(2)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Russian/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5">Русский</a>
+                        <em>(1597)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ukrainian/%D0%9A%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%B8/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F">Українська</a>
+                        <em>(95)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hebrew/%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D/%D7%AA%D7%95%D7%9B%D7%A0%D7%94">עברית</a>
+                        <span style="visibility:hidden">i</span><em>(75)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Arabic/%D8%AD%D8%A7%D8%B3%D9%88%D8%A8/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC">العربية</a>
+                        <span style="visibility:hidden">i</span><em>(67)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Persian/%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87/%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1">فارسی</a>
+                        <span style="visibility:hidden">i</span><em>(12)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hindi/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A4%A3%E0%A4%95/%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%82%E0%A4%B6">हिन्दी</a>
+                        <em>(14)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Thai/%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C/%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%A7%E0%B8%A3%E0%B9%8C">ไทย</a>
+                        <em>(30)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Japanese/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2">日本語</a>
+                        <em>(809)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Simplified/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E8%BD%AF%E4%BB%B6">简体中文</a>
+                        <em>(335)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Traditional/%E9%9B%BB%E8%85%A6/%E8%BB%9F%E9%AB%94">繁體中文</a>
+                        <em>(55)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Korean/%EC%BB%B4%ED%93%A8%ED%84%B0/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4">한국어</a>
+                        <em>(46)</em>
+                    </li>
+
+                </ul>
+                </fieldset>
+
+
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+		
+        <fieldset class="fieldcap fieldcapRn" style="font-size:1.2em; margin-top:11px;">
+
+            <ul class="disc-large">
+	    <div class="float-l">
+
+                    <li>Usenet alt.sources 
+					- <a href="news:alt.sources">news: </a>
+					- <a href="http://groups.google.com/group/alt.sources">Google Groups</a></li>
+
+            </div>
+            </ul>
+
+        <ul class="disc-large">
+	<div class="float-l">
+		<li >
+			<span style="margin-right:140px; font-size:16px;">
+			"<b>Software</b>"&nbsp;search&nbsp;on:</span>
+				
+	            <a href="http://search.aol.com/aol/search?query=software">AOL</a> -
+<a href="http://www.ask.com/web?q=software">Ask</a> -
+<a href="https://www.bing.com/search?q=software">Bing</a> -
+<a href="https://blekko.com/#?q=software">Blekko</a> -
+<a href="https://duckduckgo.com/?q=software">DuckDuckGo</a> -
+<a href="https://gigablast.com/search?q=software">Gigablast</a> -
+<a href="https://www.google.com/search?q=software">Google</a> -
+<a href="https://www.ixquick.com/do/search/?q=software">ixquick</a> -
+<a href="https://search.yahoo.com/search?p=software">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=software">Yandex</a> -
+<a href="http://new2.yippy.com/search?query=software">Yippy</a>  				
+				
+				</li>
+	            </div>
+        </ul>
+
+        </fieldset>
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+        <fieldset class="fieldcap center">
+        	
+        	
+        </fieldset>
+	  
+
+        <div class="float-r">
+        	<img src="/img/moz/puter.gif" width = 161 height = 83 alt="&#x005B;Computer Mozilla]">
+        </div>
+    </div>
+    <div id="ft">
+    	
+        
+            <span class="float-l">Copyright &copy; 1998-2015 AOL Inc.</span>
+        
+        <span class="float-r"><a href="/docs/en/termsofuse.html" style="font-size:.9em;">Terms of Use</a></span>
+    </div>
+    <div id="ft-bar" class="ft-barN" style="color:#000; font-family:times New Roman;font-size:16px;">
+    	<b>Visit our sister sites</b>&nbsp;&nbsp;<a href="http://www.mozilla.org/">mozilla.org</a>&nbsp;|&nbsp;<a href="http://musicmoz.org/">MusicMoz</a>&nbsp;|&nbsp;<a href="http://en.wikipedia.org/">Wikipedia</a><br><br>
+    	<div  class="ft-barUpN">Last update: 
+		
+                                October 20, 2013 at 12:48:52 UTC
+		
+		- <a href="/editors/editcat/index?cat=Computers/Software&fwdapply=1">edit</a></div>
+    </div>
+</div>
+<div id="omniture">
+<script type="text/javascript">
+function runOmni(){(function(){var F,t,n,v,p,q,u,o,i,f,D,d,k,c,b,x,g,E,s,z,C,m,r,a,l,B,e,w,A,y,j,h;F=location.protocol.toLowerCase();t=location.hostname.toLowerCase();n=location.port;v=location.pathname.toLowerCase();p=location.search.toLowerCase();q=document.title.toLowerCase();s_265.pfxID="odp";s_265.server=t;s_265.channel="us.dmozodp";s_265.charSet="UTF-8";s_265.linkInternalFilters="aol.com,javascript:,dmoz.org";u=t.split(".");o=(u.length>1)?u[u.length-2]+"."+u[u.length-1]:"";if((o==="dmoz.org")||(t+":"+n==="dmozqa-m01.ihost.aol.com:8081")||(t+":"+n==="10.146.172.49:9099")){s_265.prop12=F+"//"+t+v;i=(v.indexOf("/world/")>-1)?1:0;f=v.split("/");D=(i===1)?parseInt(f.length,10)-4:parseInt(f.length,10)-2;d=(f[f.length-1].length>0)?f[f.length-1].split(".")[0]:" - ";k=(f[f.length-1].length>0)?f[f.length-1]:" - ";c=(i===1)?f[3]:f[1];b=(i===1)?f[4]:f[2];if(i===0){x="english"}else{if((i===1)&&(D===-1)){x="world top"}else{if((i===1)&&(D>-1)){x=f[2]}}}s_265.prop16=x;j=(D>0)?"level-"+D:"level-0";switch(D){case -1:A=t+" - world top";y=A;h=A;break;case 0:if(d!==" - "){A="utilities";y="general info";h=t+" - "+d}else{A=t+" - top";y=A;h=A}break;case 1:A=c;y="top";h=(d!==" - ")?h=A+" - "+d:h="category main";break;case 2:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="subcategory main";break;default:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="level-"+D+" main";break}if(t==="search.dmoz.org"){A="utilities";y="search";j="level-0";h=d+" - home";g=((d==="search")&&(p.split("=")[0]==="?search"))?1:0;if(g===1){E=s_265.getQueryParam("search","",p);s_265.eVar11="sTerms:f|"+E;s_265.prop18=(s_265.getQueryParam("all").toLowerCase()!=="yes")?s_265.getQueryParam("cat").toLowerCase():"";s_265.prop18=s_265.prop18||"all";s=s_265.getQueryParam("t").toLowerCase();z=s_265.getQueryParam("morecat").toLowerCase();if(s==="c"||s==="s"||s==="b"){s_265.prop19=s}else{s_265.prop19=(z===1)?"c":"b"}C=(parseInt(s_265.getQueryParam("Kids"),10)===1)?"kids":"none";m=(parseInt(s_265.getQueryParam("Teens"),10)===1)?"teens":"none";r=(parseInt(s_265.getQueryParam("Mteens"),10)===1)?"mteens":"none";s_265.prop20=C+"|"+m+"|"+r;a=((s_265.prop19!=="c")&&(z.length===0)&&(s_265.getQueryParam("co").length===0))?((parseInt(s_265.getQueryParam("start")/20,10)+1)+""):(z.length===0)?((parseInt(s_265.getQueryParam("start")/25,10)+1)+""):((parseInt(s_265.getQueryParam("morecat")/25,10)+1)+"");s_265.prop21="page "+a;h="search results";l=(((a*1)===1)&&(z.length===0)&&(s_265.getQueryParam("start","",document.referrer).length===0))?1:0;if(l===1){B=(s.length>0)?"advanced search":((s.length===0)&&(s_265.getQueryParam("cat").length>0))?"branch search":"standard search";s_265.events="event1";s_265.eVar1=B}}e=1}if(e!==1){switch(c){case"help":A="utilities";y="help";j="level-0";h=(d!==" - ")?"dmoz help - "+d:"dmoz help - helpmain";e=1;break;case"profiles":A="utilities";y="profiles";j="level-0";h="dmoz - user profile";s_265.mmxtitle=h;s_265.mmxcustom="http://www.dmoz.org/profiles/user.html";e=1;break;case"become_an_editor":case"user-banners":case"awards":A="utilities";y="general info";j="level-0";h="dmoz - general info - "+q;e=1;break;case"guidelines":A="utilities";y="editors";j="level-0";h=(D>1)?"editors - "+c+" - "+b+" - "+q:"editors guidelines - "+q;e=1;break;case"newsletter":j="level-0";switch(D){case 1:y="newsletter article archive";h=y;break;case 2:h="newsletter "+y+" - "+q;break}e=1;break;case"erz":A="utilities";y="editors";j="level-0";h=(D>1)?"erz - "+b+" - "+q:"erz - top - "+q;e=1;break}}if(e!==1){if((t==="www.dmoz.org")&&(D===0)&&(d==="reinstate")){A="utilities";y="editors";h="editors - "+q;e=1}if(t==="report-abuse.dmoz.org"){A="utilities";y="report abuse";j="level-0";h=((D===0)&&(d==="faq"))?"dmoz report abuse system faq":"dmoz report abuse system";e=1}else{if(t==="rdf.dmoz.org"){A="utilities";y="rdf";j="level-0";if((D===0)&&(d===" - ")){h="rdf - main"}else{if((D===1)&&(d===" - ")){h="rdf - file index"}else{if((D===1)&&(d!==" - ")){h="rdf - "+d}}}e=1}}}if(e!==1){if((c==="cgi-bin")&&(t!=="search.dmoz.org")){A="utilities";j="level-0";switch(d){case"apply":case"forgot":y="editors";h=(d==="forgot")?"editors - password reminder form":(s_265.getQueryParam("submit").length===0)?"editors - application info":"editors - application";e=1;break;case"add":case"update":case"update2":case"update3":case"reinstate":y="editors";if(d==="add"){h="editors - submit a site instructions"}else{if(d==="update"){h="editors - update listing instructions"}else{if(d==="update2"){h="editors - update listing form"}else{if(d==="update3"){h="editors - update listing form received"}else{if(d==="reinstate"){h="editors - account reinstatement form received"}}}}}e=1;break;case"send":case"send2":y="editors";h=(d==="send")?"send editors feedback":"editors feedback received";e=1;break}}}if(e!==1){if((k==="desc.html")||(k==="faq.html")){w=(k==="desc.html")?"description":"faq";h=(D===1)?"branch category ":(D===2)?"branch subcategory ":"branch level-"+D+" ";h=h+w}}s_265.trackExternalLinks=false;s_265.mmxgo=true;s_265.prop1=A;s_265.prop2=y;s_265.prop17=j;s_265.pageName=h;s_265.t()}}())}var s_account="aoldmozodp,aolsvc";(function(){var b=document,a=b.createElement("script");a.type="text/javascript";a.src=(location.protocol==="https:"?"https://s":"http://o")+".aolcdn.com/omniunih.js";b.getElementsByTagName("head")[0].appendChild(a)}());
+</script>
+</div>
+</body>
+</html>
+

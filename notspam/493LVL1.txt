@@ -1,0 +1,73 @@
+* {
+	outline: none;
+}
+body {
+	font-size: 62.5%;
+	font-family: Georgia,"Times New Roman",Serif;
+	color: #333333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+a {
+	text-decoration: none;
+	color: #005689;
+}
+a:hover {
+	color: #7da7d6;
+}
+.hidden {
+	display: none;
+}
+.widget {
+	font-size: 1.3em;
+}
+img {
+	border: 1px solid #333333;
+}
+.clear {
+	clear: both;
+}
+h1 {
+	font-weight: normal;
+	font-size: 2.2em;
+	color: #333333;
+	margin: 10px 0;
+	font-family: Georgia,"Times New Roman",Serif;
+}
+h2 {
+	font-weight: normal;
+	font-size: 1.8em;
+}
+h3 {
+	color: #6A748D;
+	font-weight: normal;
+	font-size: 1.5em;
+	font-family: Georgia,"Times New Roman",Serif;
+}
+h4 {
+	font-family: arial, sans-serif;
+	text-transform: uppercase;
+	border-bottom: 6px solid #333333;
+	padding-bottom: 4px;
+}
+h5 {
+	font-weight: normal;
+	font-size: 1.2em;
+	line-height: 1.25;
+	letter-spacing: -0.25pt;
+	color: #3e3e3e;
+	font-family: Georgia,"Times New Roman",Serif;
+}
+#overlay {
+  	position: fixed;
+  	top: 0;
+  	left: 0;
+  	height: 100%;
+  	width: 100%;
+  	background: #000000;
+  	z-index: 1001;
+}
+.channel {
+	position:relative;	
+}

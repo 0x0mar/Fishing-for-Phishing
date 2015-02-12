@@ -1,0 +1,629 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/css/dmoz-main.css" />
+<title>DMOZ - Sports: Soccer</title>
+
+<style>
+.remBld {float:left; font-weight:bold; margin-right:5px; font-size:17px;}
+#_alt_ctrl_ALL, #_alt_ctrl_Z {border-right:none !important;}
+ul.right_align {float:left;}
+div.flag {  float : right ;  width : 16px ;  height : 16px ;}
+ul.directory-url li {  clear : right ;}
+li.cool a.listinglink {background:url('/img/star.gif') no-repeat right -2px; font-weight:bold; padding-right:16px; }
+div.flag img {  width:0px;  height:0px;  padding:8px;
+  background: url('/img/flag-faint.png');
+}
+ul.directory-url li:hover {  background-color : #e4e4e4 ;}
+ul.directory-url li:hover div.flag img {  background: url('/img/flag.png');}
+ul.directory-url li:hover div.flag:hover img {  background: url('/img/flag-highlight.png');}
+
+
+
+</style>
+</head>
+<body dir="LTR"><div class="none">
+<!-- SiteCatalyst code version: H.7.  Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+</div>
+
+<div id="doc"  class="nodViewN">
+	<div id="hd" style="border-bottom:0;">
+    	<a id="logo" class="logoN" href="/" alt="DMOZ logo" title="DMOZ"></a>
+
+        <div id="partnership">
+                <img width="72" height="36" align="middle" alt="In Partnership with AOL" src="/img/public/aolpartner.png"/>
+        </div>
+    </div>
+    <div id="hd-bar">
+
+        <div class="float-l" style="margin-left:8px;">
+
+        <!-- Twitter follow button -->
+          <a href="https://twitter.com/dmoz" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @dmoz</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        <!-- End Twitter follow button -->
+
+        </div>
+
+        <div class="float-r">
+            <a style="font-weight:700" href="/docs/en/about.html">about dmoz</a> | 
+            <a href="http://blog.dmoz.org/">dmoz blog</a> | 
+            
+
+			<a href="/public/update?cat=Sports/Soccer">update listing</a> | 
+			
+            <a href="/public/abuse?cat=Sports/Soccer&lang=en">report abuse/spam</a> | 
+            <a href="/help/en/helpmain.html">help</a>
+        </div>
+       
+    </div>
+    <div id="bd-cross">
+    	<form class="center mb1em" action="/search" method="get">
+            <input size="45" name="q" class="searchNod" >
+            <input type=submit value="Search" class="btn" >
+            <select name="cat" class="selectNod" >
+			   
+               <option value="all" selected id="all-yes"><label for="all-yes">the entire directory</label></option>
+			   
+                 <option value="Sports/Soccer"  id="all-no"><label for="all-no">only in Sports/Soccer</label></option>
+                 
+            </select>
+            <input type=hidden name=all value="no" >
+        </form>
+
+        <div class="navigate" style="">
+            <div class="descript">
+
+                    <div id="descript" class="descriptN"><a href="/desc/Sports/Soccer">Description</a></div>
+
+            </div>
+            <ul class="navigate">
+                <li class="first">
+
+                    <a href="/">Top</a></li>
+<li><b>: </b><a href='/Sports/'>Sports</a></li>
+                        <li class="last">
+                            <strong><span class='remBld'>: </span>Soccer</strong>&nbsp;<em>(11,888)</em>
+                        </li>
+
+            </ul>
+        </div>
+<div class='alphanumeric'><span class='start'>[</span><span class='links'><a id='_alt_ctrl_A' href='/Sports/Soccer/A/'>A</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_B' href='/Sports/Soccer/B/'>B</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_C' href='/Sports/Soccer/C/'>C</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_D' href='/Sports/Soccer/D/'>D</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_E' href='/Sports/Soccer/E/'>E</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_F' href='/Sports/Soccer/F/'>F</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_G' href='/Sports/Soccer/G/'>G</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_H' href='/Sports/Soccer/H/'>H</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_I' href='/Sports/Soccer/I/'>I</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_J' href='/Sports/Soccer/J/'>J</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_K' href='/Sports/Soccer/K/'>K</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_L' href='/Sports/Soccer/L/'>L</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_M' href='/Sports/Soccer/M/'>M</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_N' href='/Sports/Soccer/N/'>N</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_O' href='/Sports/Soccer/O/'>O</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_P' href='/Sports/Soccer/P/'>P</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Q' href='/Sports/Soccer/Q/'>Q</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_R' href='/Sports/Soccer/R/'>R</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_S' href='/Sports/Soccer/S/'>S</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_T' href='/Sports/Soccer/T/'>T</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_U' href='/Sports/Soccer/U/'>U</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_V' href='/Sports/Soccer/V/'>V</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_W' href='/Sports/Soccer/W/'>W</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_X' href='/Sports/Soccer/X/'>X</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Y' href='/Sports/Soccer/Y/'>Y</a></span><span class='pipe'>|</span><span class='links'><a id='_alt_ctrl_Z' href='/Sports/Soccer/Z/'>Z</a></span><span class='end'>]</span></div>
+        <div class="clear"></div>		
+        
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Sports/Soccer/AFC/">AFC</a>&nbsp;<em>(298)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/By_Country/">By Country</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/CAF/">CAF</a>&nbsp;<em>(129)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/CONCACAF/">CONCACAF</a>&nbsp;<em>(4,292)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Sports/Soccer/CONMEBOL/">CONMEBOL</a>&nbsp;<em>(44)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Non-FIFA_Nations/">Non-FIFA Nations</a>&nbsp;<em>(29)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/OFC/">OFC</a>&nbsp;<em>(75)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/UEFA/">UEFA</a>&nbsp;<em>(6,161)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+			
+                        <div class="dir-1 borN">
+                        <span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+                        <ul class="directory dir-col">
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Academic_Study/">Academic Study</a>&nbsp;<em>(23)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Beach_Soccer/">Beach Soccer</a>&nbsp;<em>(13)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Campaigns/">Campaigns</a>&nbsp;<em>(2)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Chats_and_Forums/">Chats and Forums</a>&nbsp;<em>(23)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Coaching/">Coaching</a>&nbsp;<em>(72)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/College_and_University/">College and University</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Competitions/">Competitions</a>&nbsp;<em>(194)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Directories/">Directories</a>&nbsp;<em>(33)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Disabled/Soccer/">Disabled</a>@&nbsp;<em>(0)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Fantasy/Soccer/">Fantasy</a>@&nbsp;<em>(23)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Footvolley/">Footvolley</a>&nbsp;<em>(5)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Kids_and_Teens/Sports_and_Hobbies/Sports/Soccer/">For Kids and Teens</a>@&nbsp;<em>(69)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Freestyle/">Freestyle</a>&nbsp;<em>(17)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Fun/">Fun</a>&nbsp;<em>(44)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Futsal/">Futsal</a>&nbsp;<em>(4)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Society/Gay%2C_Lesbian%2C_and_Bisexual/Sports/Soccer/">Gay, Lesbian, and Bisexual</a>@&nbsp;<em>(20)</em>
+                                </li>
+
+                                <li class="">
+                                <a href="/Sports/Soccer/Indoor/">Indoor</a>&nbsp;<em>(0)</em>
+                                </li>
+
+                        </ul>
+                        <ul class="directory dir-col">
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Jorkyball/">Jorkyball</a>&nbsp;<em>(2)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Mailing_List_Teams/">Mailing List Teams</a>&nbsp;<em>(2)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Arts/Movies/Genres/Sports/Soccer/">Movies</a>@&nbsp;<em>(1)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Reference/Museums/Recreation_and_Sports/Soccer/">Museums</a>@&nbsp;<em>(1)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/National_Teams/">National Teams</a>&nbsp;<em>(1)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/News_and_Media/">News and Media</a>&nbsp;<em>(191)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Officiating/">Officiating</a>&nbsp;<em>(12)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Players/">Players</a>&nbsp;<em>(137)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Shopping/Sports/Soccer/">Shopping</a>@&nbsp;<em>(131)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Stadiums/">Stadiums</a>&nbsp;<em>(17)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Statistics/">Statistics</a>&nbsp;<em>(56)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Swamp_Soccer/">Swamp Soccer</a>&nbsp;<em>(7)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Games/Gambling/Sports/Tipping_and_Handicapping/Soccer/">Tipping and Handicapping</a>@&nbsp;<em>(23)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Games/Video_Games/Sports/Soccer/">Video Games</a>@&nbsp;<em>(100)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Women/">Women</a>&nbsp;<em>(3)</em>
+                            </li>
+
+                            <li class="">
+                            <a href="/Sports/Soccer/Youth/">Youth</a>&nbsp;<em>(1)</em>
+                            </li>
+
+                    </ul>
+                    <div class="clear"></div>
+                    </div>
+
+            <fieldset class="fieldcap">
+                <legend>See also:</legend>
+                <ul class="directory">
+                
+                	<li>
+                        <a href="/Games/Gambling/Sports/Online/">Games: Gambling: Sports: Online</a> 
+                        <em>(62)</em>
+                    </li>
+                
+                </ul>
+            </fieldset>
+
+                <fieldset class="fieldcap fieldcapN">
+                <legend>This category in other languages:</legend>
+                <ul class="language">
+
+                    <li>
+                    	<a href="/World/Azerbaijani/%C4%B0dman/Futbol">Azərbaycanca</a>
+                        <em>(18)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bahasa_Indonesia/Olahraga/Sepak_Bola">Bahasa Indonesia</a>
+                        <em>(23)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bosanski/Sport/Nogomet">Bosanski</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Catal%C3%A0/Esports/Futbol">Català</a>
+                        <em>(125)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C4%8Cesky/Sporty/Fotbal">Česky</a>
+                        <em>(216)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Dansk/Sport/Fodbold">Dansk</a>
+                        <em>(125)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Deutsch/Sport/Ballsport/Fu%C3%9Fball">Deutsch</a>
+                        <em>(2238)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Espa%C3%B1ol/Deportes/F%C3%BAtbol">Español</a>
+                        <em>(130)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Euskara/Kirolak/Futbola">Euskara</a>
+                        <em>(13)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Fran%C3%A7ais/Sports/Balles_et_ballons/Football">Français</a>
+                        <em>(4128)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Galego/Deportes/F%C3%BAtbol">Galego</a>
+                        <em>(6)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hrvatski/Sport/Nogomet">Hrvatski</a>
+                        <em>(28)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/%C3%8Dslenska/%C3%8D%C3%BEr%C3%B3ttir/Knattspyrna">Íslenska</a>
+                        <em>(5)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Italiano/Sport/Palle/Calcio">Italiano</a>
+                        <em>(616)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Lietuvi%C5%B3/Sportas/Futbolas">Lietuvių</a>
+                        <em>(14)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Magyar/Sport/Labdaj%C3%A1t%C3%A9kok/Labdar%C3%BAg%C3%A1s">Magyar</a>
+                        <em>(38)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Nederlands/Sport/Voetbal">Nederlands</a>
+                        <em>(553)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Norsk/Sport/Fotball">Norsk</a>
+                        <em>(77)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Polski/Sport/Sporty_pi%C5%82ki_i_siatki/Pi%C5%82ka_no%C5%BCna">Polski</a>
+                        <em>(328)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Portugu%C3%AAs/Desportos/Futebol">Português</a>
+                        <em>(7)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Rom%C3%A2n%C4%83/Sport/Fotbal">Română</a>
+                        <em>(77)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Shqip/Sporte/Futboll">Shqip</a>
+                        <em>(12)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Slovensky/%C5%A0port/Futbal">Slovensky</a>
+                        <em>(22)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Srpski/Sport/Fudbal">Srpski</a>
+                        <em>(13)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Suomi/Urheilu/Jalkapallo">Suomi</a>
+                        <em>(42)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Svenska/Sport/Fotboll">Svenska</a>
+                        <em>(96)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ti%E1%BA%BFng_Vi%E1%BB%87t/Th%E1%BB%83_thao/B%C3%B3ng_%C4%90%C3%A1">Tiếng_Việt</a>
+                        <em>(22)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/T%C3%BCrk%C3%A7e/Spor/Futbol">Türkçe</a>
+                        <em>(195)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Greek/%CE%91%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/%CE%A0%CE%BF%CE%B4%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%BF">Ελληνική</a>
+                        <em>(13)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Belarusian/%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">Беларуская</a>
+                        <em>(3)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Bulgarian/%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">Български</a>
+                        <em>(46)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Russian/%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">Русский</a>
+                        <em>(586)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Ukrainian/%D0%A1%D0%BF%D0%BE%D1%80%D1%82/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">Українська</a>
+                        <em>(45)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Hebrew/%D7%A1%D7%A4%D7%95%D7%A8%D7%98/%D7%9B%D7%93%D7%95%D7%A8%D7%92%D7%9C">עברית</a>
+                        <span style="visibility:hidden">i</span><em>(37)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Arabic/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D9%83%D8%B1%D8%A9_%D9%82%D8%AF%D9%85">العربية</a>
+                        <span style="visibility:hidden">i</span><em>(83)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Persian/%D9%88%D8%B1%D8%B2%D8%B4/%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84">فارسی</a>
+                        <span style="visibility:hidden">i</span><em>(22)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Thai/%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2/%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5">ไทย</a>
+                        <em>(64)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Japanese/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84/%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC">日本語</a>
+                        <em>(1117)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Simplified/%E4%BD%93%E8%82%B2/%E8%B6%B3%E7%90%83">简体中文</a>
+                        <em>(40)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Chinese_Traditional/%E9%81%8B%E5%8B%95/%E8%B6%B3%E7%90%83">繁體中文</a>
+                        <em>(7)</em>
+                    </li>
+
+                    <li>
+                    	<a href="/World/Korean/%EC%8A%A4%ED%8F%AC%EC%B8%A0/%EC%B6%95%EA%B5%AC">한국어</a>
+                        <em>(15)</em>
+                    </li>
+
+                </ul>
+                </fieldset>
+			
+			<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+			<fieldset class="fieldcap">
+                        <ul class="directory-url" style="margin-left:0;">
+            
+                                    <li>
+	
+                                <a href="http://www.fifa.com/" class="listinglink">Fédération Internationale de Football Association (FIFA)</a> 
+			
+                                - The official site of the international governing body of the sport with news, national associations, competitions, results, fixtures, development, organisation, world rankings, statistics, the International Football Association Board, history, laws of the game, futsal, publications, downloads, and contact details. [English/German/French/Spanish]
+                                
+                                <div class="flag"><a href="/public/flag?cat=Sports%2FSoccer&url=http%3A%2F%2Fwww.fifa.com%2F"><img src="/img/flag.png" alt="[!]" title="report an issue with this listing"></a></div>
+                                </li>
+		
+                        </ul>
+                        </fieldset>
+        
+
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+		
+        <fieldset class="fieldcap fieldcapRn" style="font-size:1.2em; margin-top:11px;">
+
+            <ul class="disc-large">
+	    <div class="float-l">
+
+                    <li>Usenet rec.sport.soccer 
+					- <a href="news:rec.sport.soccer">news: </a>
+					- <a href="http://groups.google.com/group/rec.sport.soccer">Google Groups</a></li>
+
+            </div>
+            </ul>
+
+        <ul class="disc-large">
+	<div class="float-l">
+		<li >
+			<span style="margin-right:140px; font-size:16px;">
+			"<b>Soccer</b>"&nbsp;search&nbsp;on:</span>
+				
+	            <a href="http://search.aol.com/aol/search?query=soccer">AOL</a> -
+<a href="http://www.ask.com/web?q=soccer">Ask</a> -
+<a href="https://www.bing.com/search?q=soccer">Bing</a> -
+<a href="https://blekko.com/#?q=soccer">Blekko</a> -
+<a href="https://duckduckgo.com/?q=soccer">DuckDuckGo</a> -
+<a href="https://gigablast.com/search?q=soccer">Gigablast</a> -
+<a href="https://www.google.com/search?q=soccer">Google</a> -
+<a href="https://www.ixquick.com/do/search/?q=soccer">ixquick</a> -
+<a href="https://search.yahoo.com/search?p=soccer">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=soccer">Yandex</a> -
+<a href="http://new2.yippy.com/search?query=soccer">Yippy</a>  				
+				
+				</li>
+	            </div>
+        </ul>
+
+        </fieldset>
+	<span><img src="/img/public/dividerN.gif" style="height:2px;float:left;width:100%" /></span>
+        <fieldset class="fieldcap center">
+        	
+        	
+        </fieldset>
+	  
+
+        <div class="float-r">
+        	<img src="/img/moz/soccer.gif" width = 106 height = 48 alt="&#x005B;Soccer Mozilla]">
+        </div>
+    </div>
+    <div id="ft">
+    	
+        
+            <span class="float-l">Copyright &copy; 1998-2015 AOL Inc.</span>
+        
+        <span class="float-r"><a href="/docs/en/termsofuse.html" style="font-size:.9em;">Terms of Use</a></span>
+    </div>
+    <div id="ft-bar" class="ft-barN" style="color:#000; font-family:times New Roman;font-size:16px;">
+    	<b>Visit our sister sites</b>&nbsp;&nbsp;<a href="http://www.mozilla.org/">mozilla.org</a>&nbsp;|&nbsp;<a href="http://musicmoz.org/">MusicMoz</a>&nbsp;|&nbsp;<a href="http://en.wikipedia.org/">Wikipedia</a><br><br>
+    	<div  class="ft-barUpN">Last update: 
+		
+                                January 15, 2012 at 18:57:21 UTC
+		
+		- <a href="/editors/editcat/index?cat=Sports/Soccer&fwdapply=1">edit</a></div>
+    </div>
+</div>
+<div id="omniture">
+<script type="text/javascript">
+function runOmni(){(function(){var F,t,n,v,p,q,u,o,i,f,D,d,k,c,b,x,g,E,s,z,C,m,r,a,l,B,e,w,A,y,j,h;F=location.protocol.toLowerCase();t=location.hostname.toLowerCase();n=location.port;v=location.pathname.toLowerCase();p=location.search.toLowerCase();q=document.title.toLowerCase();s_265.pfxID="odp";s_265.server=t;s_265.channel="us.dmozodp";s_265.charSet="UTF-8";s_265.linkInternalFilters="aol.com,javascript:,dmoz.org";u=t.split(".");o=(u.length>1)?u[u.length-2]+"."+u[u.length-1]:"";if((o==="dmoz.org")||(t+":"+n==="dmozqa-m01.ihost.aol.com:8081")||(t+":"+n==="10.146.172.49:9099")){s_265.prop12=F+"//"+t+v;i=(v.indexOf("/world/")>-1)?1:0;f=v.split("/");D=(i===1)?parseInt(f.length,10)-4:parseInt(f.length,10)-2;d=(f[f.length-1].length>0)?f[f.length-1].split(".")[0]:" - ";k=(f[f.length-1].length>0)?f[f.length-1]:" - ";c=(i===1)?f[3]:f[1];b=(i===1)?f[4]:f[2];if(i===0){x="english"}else{if((i===1)&&(D===-1)){x="world top"}else{if((i===1)&&(D>-1)){x=f[2]}}}s_265.prop16=x;j=(D>0)?"level-"+D:"level-0";switch(D){case -1:A=t+" - world top";y=A;h=A;break;case 0:if(d!==" - "){A="utilities";y="general info";h=t+" - "+d}else{A=t+" - top";y=A;h=A}break;case 1:A=c;y="top";h=(d!==" - ")?h=A+" - "+d:h="category main";break;case 2:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="subcategory main";break;default:A=c;y=b;h=(d!==" - ")?h=A+" - "+y+" - "+d:h="level-"+D+" main";break}if(t==="search.dmoz.org"){A="utilities";y="search";j="level-0";h=d+" - home";g=((d==="search")&&(p.split("=")[0]==="?search"))?1:0;if(g===1){E=s_265.getQueryParam("search","",p);s_265.eVar11="sTerms:f|"+E;s_265.prop18=(s_265.getQueryParam("all").toLowerCase()!=="yes")?s_265.getQueryParam("cat").toLowerCase():"";s_265.prop18=s_265.prop18||"all";s=s_265.getQueryParam("t").toLowerCase();z=s_265.getQueryParam("morecat").toLowerCase();if(s==="c"||s==="s"||s==="b"){s_265.prop19=s}else{s_265.prop19=(z===1)?"c":"b"}C=(parseInt(s_265.getQueryParam("Kids"),10)===1)?"kids":"none";m=(parseInt(s_265.getQueryParam("Teens"),10)===1)?"teens":"none";r=(parseInt(s_265.getQueryParam("Mteens"),10)===1)?"mteens":"none";s_265.prop20=C+"|"+m+"|"+r;a=((s_265.prop19!=="c")&&(z.length===0)&&(s_265.getQueryParam("co").length===0))?((parseInt(s_265.getQueryParam("start")/20,10)+1)+""):(z.length===0)?((parseInt(s_265.getQueryParam("start")/25,10)+1)+""):((parseInt(s_265.getQueryParam("morecat")/25,10)+1)+"");s_265.prop21="page "+a;h="search results";l=(((a*1)===1)&&(z.length===0)&&(s_265.getQueryParam("start","",document.referrer).length===0))?1:0;if(l===1){B=(s.length>0)?"advanced search":((s.length===0)&&(s_265.getQueryParam("cat").length>0))?"branch search":"standard search";s_265.events="event1";s_265.eVar1=B}}e=1}if(e!==1){switch(c){case"help":A="utilities";y="help";j="level-0";h=(d!==" - ")?"dmoz help - "+d:"dmoz help - helpmain";e=1;break;case"profiles":A="utilities";y="profiles";j="level-0";h="dmoz - user profile";s_265.mmxtitle=h;s_265.mmxcustom="http://www.dmoz.org/profiles/user.html";e=1;break;case"become_an_editor":case"user-banners":case"awards":A="utilities";y="general info";j="level-0";h="dmoz - general info - "+q;e=1;break;case"guidelines":A="utilities";y="editors";j="level-0";h=(D>1)?"editors - "+c+" - "+b+" - "+q:"editors guidelines - "+q;e=1;break;case"newsletter":j="level-0";switch(D){case 1:y="newsletter article archive";h=y;break;case 2:h="newsletter "+y+" - "+q;break}e=1;break;case"erz":A="utilities";y="editors";j="level-0";h=(D>1)?"erz - "+b+" - "+q:"erz - top - "+q;e=1;break}}if(e!==1){if((t==="www.dmoz.org")&&(D===0)&&(d==="reinstate")){A="utilities";y="editors";h="editors - "+q;e=1}if(t==="report-abuse.dmoz.org"){A="utilities";y="report abuse";j="level-0";h=((D===0)&&(d==="faq"))?"dmoz report abuse system faq":"dmoz report abuse system";e=1}else{if(t==="rdf.dmoz.org"){A="utilities";y="rdf";j="level-0";if((D===0)&&(d===" - ")){h="rdf - main"}else{if((D===1)&&(d===" - ")){h="rdf - file index"}else{if((D===1)&&(d!==" - ")){h="rdf - "+d}}}e=1}}}if(e!==1){if((c==="cgi-bin")&&(t!=="search.dmoz.org")){A="utilities";j="level-0";switch(d){case"apply":case"forgot":y="editors";h=(d==="forgot")?"editors - password reminder form":(s_265.getQueryParam("submit").length===0)?"editors - application info":"editors - application";e=1;break;case"add":case"update":case"update2":case"update3":case"reinstate":y="editors";if(d==="add"){h="editors - submit a site instructions"}else{if(d==="update"){h="editors - update listing instructions"}else{if(d==="update2"){h="editors - update listing form"}else{if(d==="update3"){h="editors - update listing form received"}else{if(d==="reinstate"){h="editors - account reinstatement form received"}}}}}e=1;break;case"send":case"send2":y="editors";h=(d==="send")?"send editors feedback":"editors feedback received";e=1;break}}}if(e!==1){if((k==="desc.html")||(k==="faq.html")){w=(k==="desc.html")?"description":"faq";h=(D===1)?"branch category ":(D===2)?"branch subcategory ":"branch level-"+D+" ";h=h+w}}s_265.trackExternalLinks=false;s_265.mmxgo=true;s_265.prop1=A;s_265.prop2=y;s_265.prop17=j;s_265.pageName=h;s_265.t()}}())}var s_account="aoldmozodp,aolsvc";(function(){var b=document,a=b.createElement("script");a.type="text/javascript";a.src=(location.protocol==="https:"?"https://s":"http://o")+".aolcdn.com/omniunih.js";b.getElementsByTagName("head")[0].appendChild(a)}());
+</script>
+</div>
+</body>
+</html>
+

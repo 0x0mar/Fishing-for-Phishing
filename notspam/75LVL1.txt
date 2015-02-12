@@ -1,0 +1,1518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:og="http://ogp.me/ns#"
+    xmlns="http://www.w3.org/1999/xhtml"
+    xml:lang="en"
+    lang="en">
+<head>
+<meta name="title" content="Watch Movies and TV Shows Online for Free - SolarMovie" />
+<meta name="description" content="Watch 44074 movies and 4389 TV shows absolutely for free. No registration required." />
+<title>Watch Movies and TV Shows Online for Free - SolarMovie</title>
+
+<meta name="og:site_name" content="SolarMovie" />
+<style>
+    @font-face {
+        font-family: 'smovies';
+        src: url("/fonts/smovies-f358208.eot");
+        src: url("/fonts/smovies-f358208.eot?#iefix") format("embedded-opentype"),
+        url("/fonts/smovies-f358208.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+    }
+</style>
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Latest Movies"
+    href="/rss/latest-movies/" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="/minify-f358208/index.php?f=/css/jquery.ui.css,/css/main.css" /><!--[if IE 7]><link rel="stylesheet" href="http://static1.solarmovie.is/css/css-ie7.css" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="http://static2.solarmovie.is/css/css-ie8.css" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" href="http://static3.solarmovie.is/css/css-ie9.css" type="text/css" media="screen" /><![endif]-->
+<!--for ie 10-->
+<script type="text/javascript">
+var SOLAR = SOLAR || [];
+SOLAR.profile = {'auth': 0,
+                'active': 0,
+                'newbie': 0,
+                'mute': 0};
+SOLAR.hosts = {'static': 'http://static1.solarmovie.is/'};
+/*@cc_on
+  @if (@_jscript_version == 10)
+    document.write(' <link type= "text/css" rel="stylesheet" href="http://static3.solarmovie.is/css/css-ie10.css" />');
+  @end
+@*/
+</script>
+</head>
+<body>
+    <div id="action_user"></div>
+    <div class="ie6plug">
+        <div class="plugtext"></div>
+        <a class="alternativeFirefox" href="http://www.mozilla.com/en-US/firefox/fx/" title="Download FireFox"></a>
+        <a class="alternativeChrome" href="http://www.google.com/chrome" title="Download Chrome"></a>
+        <a class="alternativeSafari" href="http://www.apple.com/safari/download/" title="Download Safari"></a>
+        <a class="alternativeOpera" href="http://www.opera.com/download/" title="Download Opera"></a>
+    </div>
+    <div class="relative">
+     <div class="headerpage">
+        <div id="header">
+            <a href="/" class="logo"></a>
+            <ul class="menuBoxHeader">
+                <li><a href="/"
+                    class="shadowHover active">Movies</a></li>
+                <li><a href="/tv/"
+                    class="shadowHover">TV Shows</a></li>
+                <li><a href="/forum/"
+                    class="shadowHover">Forum</a></li>
+            </ul>
+            <div class="searchBoxHeader">
+                <form action="/movie/search/"
+                    onsubmit="var query = this.elements['query'].value; location.href = query ? this.action + encodeURIComponent(query) + '/' : this.action; return false;">
+                    <input type="submit" value="Search" class="searchButton typicalBlue shadowHover" />
+                    <input type="text"
+                        name="query"  placeholder="Input movie name or keyword or year" class="searchField js-top-search"
+                        value="" />
+                </form>
+                <a href="/advanced-search/">advanced search</a>
+            </div>
+            <div id="utilMenu">
+                <ul>
+                                            <!-- li><div id="divGigyaLogin" style="margin:-5px 0 0 -8px;width:130px !important; "></div></li -->
+                        <li><a href="javascript:void(0)"
+                            class="js-check" id="login" rel="nofollow">Login</a></li>
+                        <li><a href="javascript:void(0)"
+                           id="register_link" rel="nofollow">Register</a></li>
+                                    </ul>
+            </div>
+        </div>
+        <hr class="accessibility"/>
+    </div>
+    <div id="topcontent">
+        <div class="page">
+            <div id="content">
+                
+<script>
+</script>
+
+<div class="frontpage" id="newFrontPage">
+    <div class="js-front-tab tabCategories">
+        <ul>
+            <li class="active"><a href="/popular-new-movies.html">New Movies</a></li>
+                        <li><a href="/popular-hd-movies.html">HD Movies</a></li>
+                        <li><a href="/popular-movies.html">Most Popular</a></li>
+            <li><a href="/latest-movies.html">Latest</a></li>
+            <li><a href="/movies-coming-soon.html">Coming Soon</a></li>
+        </ul>
+    </div>
+    <div class="js-front-block">
+    <ul class="coverBox clearfix">
+    <li>
+        <span class="wrapper">
+        <a class="coverImage" title="Accidental Love (2015)"
+    href="/watch-accidental-love-2015.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static3.solarmovie.is/images/movies/1137470_150x220.jpg"
+            width="140" height="205" alt="Accidental Love (2015)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>5 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>130 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>130 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 5.3</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 6.7</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="Accidental Love (2015)"
+        href="/watch-accidental-love-2015.html">Accidental Love (2015)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="Dragonheart 3: The Sorcerer's Curse (2015)"
+    href="/watch-dragonheart-3-the-sorcerer-s-curse-2015.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static3.solarmovie.is/images/movies/3829170_150x220.jpg"
+            width="140" height="205" alt="Dragonheart 3: The Sorcerer's Curse (2015)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>15 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>109 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>109 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 6.3</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 0</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="Dragonheart 3: The Sorcerer's Curse (2015)"
+        href="/watch-dragonheart-3-the-sorcerer-s-curse-2015.html">Dragonheart 3: The Sorcerer's Curse (2015)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="A Mouse Tale (2015)"
+    href="/watch-a-mouse-tale-2015.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static4.solarmovie.is/images/movies/4250960_150x220.jpg"
+            width="140" height="205" alt="A Mouse Tale (2015)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>0 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>56 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>56 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 0</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 0</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="A Mouse Tale (2015)"
+        href="/watch-a-mouse-tale-2015.html">A Mouse Tale (2015)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="The Timber (2015)"
+    href="/watch-the-timber-2015.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static1.solarmovie.is/images/movies/2215673_150x220.jpg"
+            width="140" height="205" alt="The Timber (2015)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>3 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>36 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>36 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 7.8</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 0</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="The Timber (2015)"
+        href="/watch-the-timber-2015.html">The Timber (2015)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="Project Almanac (2014)"
+    href="/watch-project-almanac-2014.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static4.solarmovie.is/images/movies/2436386_150x220.jpg"
+            width="140" height="205" alt="Project Almanac (2014)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>66 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>113 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>0 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 4.9</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 6.9</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="Project Almanac (2014)"
+        href="/watch-project-almanac-2014.html">Project Almanac (2014)</a>
+</span>
+        </span>
+    </li>
+    </ul>
+
+<div class="threeColList clearfix">
+    <ul>
+            <li><a class="mainLink" href="/watch-black-or-white-2014.html"
+            title="Black or White (2014)">Black or White (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2883434_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-love-rosie-2014.html"
+            title="Love, Rosie (2014)">Love, Rosie (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/1638002_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-voices-2014.html"
+            title="The Voices (2014)">The Voices (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/1567437_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-loft-2014.html"
+            title="The Loft (2014)">The Loft (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1850397_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-greatful-dead-2013.html"
+            title="Greatful Dead (2013)">Greatful Dead (2013)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/3181588_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-enter-the-dangerous-mind-2013.html"
+            title="Enter the Dangerous Mind (2013)">Enter the Dangerous Mind (2013)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/2229377_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-american-sniper-2014.html"
+            title="American Sniper (2014)">American Sniper (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2179136_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-julia-2014-1.html"
+            title="Julia (2014)">Julia (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/2582426_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-humbling-2014.html"
+            title="The Humbling (2014)">The Humbling (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/1568343_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-boy-next-door-2015.html"
+            title="The Boy Next Door (2015)">The Boy Next Door (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/3181822_150x220.jpg"></a></li>
+            </ul>
+    <ul>
+        <li><a class="mainLink" href="/watch-alien-outpost-2014.html"
+            title="Alien Outpost (2014)">Alien Outpost (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/2474972_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-northmen-a-viking-saga-2014.html"
+            title="Northmen - A Viking Saga (2014)">Northmen - A Viking Saga (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/2290553_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-blackhat-2015.html"
+            title="Blackhat (2015)">Blackhat (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2717822_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-paddington-2014.html"
+            title="Paddington (2014)">Paddington (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/1109624_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-home-sweet-hell-2015.html"
+            title="Home Sweet Hell (2015)">Home Sweet Hell (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/2802136_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-fear-clinic-2014.html"
+            title="Fear Clinic (2014)">Fear Clinic (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/2165765_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-jupiter-ascending-2015.html"
+            title="Jupiter Ascending (2015)">Jupiter Ascending (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/1617661_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-october-gale-2014.html"
+            title="October Gale (2014)">October Gale (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/2691734_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-against-the-sun-2014.html"
+            title="Against the Sun (2014)">Against the Sun (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2557276_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-88-2015.html"
+            title="88 (2015)">88 (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/3465074_150x220.jpg"></a></li>
+            </ul>
+    <ul>
+        <li><a class="mainLink" href="/watch-leviathan-2014.html"
+            title="Leviathan (2014)">Leviathan (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2802154_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-still-alice-2014-1.html"
+            title="Still Alice (2014)">Still Alice (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/3316960_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-taken-3-2015.html"
+            title="Taken 3 (2015)">Taken 3 (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/2446042_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-wild-card-2015.html"
+            title="Wild Card (2015)">Wild Card (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2231253_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-underdogs-2013-1.html"
+            title="Underdogs (2013)">Underdogs (2013)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1634003_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-inherent-vice-2014.html"
+            title="Inherent Vice (2014)">Inherent Vice (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1791528_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-hansel-vs-gretel-2015.html"
+            title="Hansel Vs. Gretel (2015)">Hansel Vs. Gretel (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/4145350_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-charlie-s-farm-2014.html"
+            title="Charlie's Farm (2014)">Charlie's Farm (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/3317874_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-mortdecai-2015.html"
+            title="Mortdecai (2015)">Mortdecai (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/3045616_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-seventh-son-2014.html"
+            title="Seventh Son (2014)">Seventh Son (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/1121096_150x220.jpg"></a></li>
+        </ul>
+    <a class="showMore" href="/popular-new-movies.html">more »</a>
+</div>
+    </div>
+
+        <div class="js-front-tab tabCategories withArrows js-frontslider">
+        <a href="#" class="arrow prev">&#9664;</a>
+        <div class="sliderWrapper">
+            <ul>
+                                <li class="active"><a
+                    href="/popular-drama-genre-movies.html"
+                    >Drama</a></li>
+                                <li><a
+                    href="/popular-thriller-genre-movies.html"
+                    >Thriller</a></li>
+                                <li><a
+                    href="/popular-comedy-genre-movies.html"
+                    >Comedy</a></li>
+                                <li><a
+                    href="/popular-adventure-genre-movies.html"
+                    >Adventure</a></li>
+                                <li><a
+                    href="/popular-action-genre-movies.html"
+                    >Action</a></li>
+                                <li><a
+                    href="/popular-romance-genre-movies.html"
+                    >Romance</a></li>
+                                <li><a
+                    href="/popular-fantasy-genre-movies.html"
+                    >Fantasy</a></li>
+                                <li><a
+                    href="/popular-sci-fi-genre-movies.html"
+                    >Sci-Fi</a></li>
+                                <li><a
+                    href="/popular-crime-genre-movies.html"
+                    >Crime</a></li>
+                                <li><a
+                    href="/popular-horror-genre-movies.html"
+                    >Horror</a></li>
+                            </ul>
+        </div>
+        <a href="#" class="arrow next">&#9654;</a>
+    </div>
+    <div class="js-front-block">
+    <ul class="coverBox clearfix">
+    <li>
+        <span class="wrapper">
+        <a class="coverImage" title="Johnny English Reborn (2011)"
+    href="/watch-johnny-english-reborn-2011.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static4.solarmovie.is/images/movies/1634122_150x220.jpg"
+            width="140" height="205" alt="Johnny English Reborn (2011)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>4 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>77 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>96 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 7.4</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 6.3</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="Johnny English Reborn (2011)"
+        href="/watch-johnny-english-reborn-2011.html">Johnny English Reborn (2011)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="My Mistress (2014)"
+    href="/watch-my-mistress-2014.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static3.solarmovie.is/images/movies/2622874_150x220.jpg"
+            width="140" height="205" alt="My Mistress (2014)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>0 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>67 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>67 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 0</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 5.7</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="My Mistress (2014)"
+        href="/watch-my-mistress-2014.html">My Mistress (2014)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="Feast (2014)"
+    href="/watch-feast-2014.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static2.solarmovie.is/images/movies/3689498_150x220.jpg"
+            width="140" height="205" alt="Feast (2014)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>10 comments</li>
+                              <li><span class="fontIcon ding-Link"></span>64 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>63 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 9.5</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 8.5</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="Feast (2014)"
+        href="/watch-feast-2014.html">Feast (2014)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="The Overnighters (2014)"
+    href="/watch-the-overnighters-2014.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static3.solarmovie.is/images/movies/3263996_150x220.jpg"
+            width="140" height="205" alt="The Overnighters (2014)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>1 comment</li>
+                              <li><span class="fontIcon ding-Link"></span>55 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>54 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 6.2</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 7.6</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="The Overnighters (2014)"
+        href="/watch-the-overnighters-2014.html">The Overnighters (2014)</a>
+</span>
+        </span>
+    </li>
+        <li>
+        <span class="wrapper">
+        <a class="coverImage" title="The Better Angels (2014)"
+    href="/watch-the-better-angels-2014.html">
+    <span class="cover">
+        <img class="js-img-lazy" src="http://static1.solarmovie.is/images/movies/0000000_150x220.jpg"
+            data-original="http://static1.solarmovie.is/images/movies/2316868_150x220.jpg"
+            width="140" height="205" alt="The Better Angels (2014)" />
+           <ul data-liffect="starwars">
+               <li><span class="fontIcon ding-Speech"></span>1 comment</li>
+                              <li><span class="fontIcon ding-Link"></span>70 links</li>
+                                             <li><span class="fontIcon ding-Link"></span>70 HD links</li>
+                              <li><span class="fontIcon ding-Star"></span>Solar rating: 0</li>
+               <li><span class="fontIcon ding-Star"></span>IMDb rating: 6.5</li>
+           </ul>
+    </span>
+</a>
+
+<span class="name">
+        <a title="The Better Angels (2014)"
+        href="/watch-the-better-angels-2014.html">The Better Angels (2014)</a>
+</span>
+        </span>
+    </li>
+    </ul>
+
+<div class="threeColList clearfix">
+    <ul>
+            <li><a class="mainLink" href="/watch-black-or-white-2014.html"
+            title="Black or White (2014)">Black or White (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2883434_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-still-alice-2014-1.html"
+            title="Still Alice (2014)">Still Alice (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/3316960_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-song-2014.html"
+            title="The Song (2014)">The Song (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2517044_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-trash-2014.html"
+            title="Trash (2014)">Trash (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1921149_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-beyond-the-lights-2014.html"
+            title="Beyond the Lights (2014)">Beyond the Lights (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/3125324_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-whiplash-2014.html"
+            title="Whiplash (2014)">Whiplash (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2582802_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-son-of-a-gun-2014.html"
+            title="Son of a Gun (2014)">Son of a Gun (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2452200_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-a-most-violent-year-2014.html"
+            title="A Most Violent Year (2014)">A Most Violent Year (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/2937898_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-pride-2014-1.html"
+            title="Pride (2014)">Pride (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/3169706_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-nightcrawler-2014.html"
+            title="Nightcrawler (2014)">Nightcrawler (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/2872718_150x220.jpg"></a></li>
+            </ul>
+    <ul>
+        <li><a class="mainLink" href="/watch-hector-and-the-search-for-happiness-2014.html"
+            title="Hector and the Search for Happiness (2014)">Hector and the Search for Happiness (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/1626146_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-twilight-saga-breaking-dawn-part-1-2011.html"
+            title="The Twilight Saga: Breaking Dawn - Part 1 (2011)">The Twilight Saga: Breaking Dawn - Part 1 (2011)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1324999_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-if-i-stay-2014.html"
+            title="If I Stay (2014)">If I Stay (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/1355630_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-birdman-2014.html"
+            title="Birdman (2014)">Birdman (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2562232_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-unknown-2011.html"
+            title="Unknown (2011)">Unknown (2011)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/1401152_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-drive-2011.html"
+            title="Drive (2011)">Drive (2011)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/0780504_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-wild-card-2015.html"
+            title="Wild Card (2015)">Wild Card (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2231253_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-october-gale-2014.html"
+            title="October Gale (2014)">October Gale (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/2691734_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-home-sweet-hell-2015.html"
+            title="Home Sweet Hell (2015)">Home Sweet Hell (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/2802136_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-a-i-artificial-intelligence-2001.html"
+            title="A.I. Artificial Intelligence (2001)">A.I. Artificial Intelligence (2001)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static4.solarmovie.is/images/movies/0212720_150x220.jpg"></a></li>
+            </ul>
+    <ul>
+        <li><a class="mainLink" href="/watch-redirected-2014.html"
+            title="Redirected (2014)">Redirected (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2275946_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-miss-julie-2014.html"
+            title="Miss Julie (2014)">Miss Julie (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2667960_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-23-blast-2014.html"
+            title="23 Blast (2014)">23 Blast (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/2304459_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-colombiana-2011.html"
+            title="Colombiana (2011)">Colombiana (2011)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/1657507_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-kill-the-messenger-2014-1.html"
+            title="Kill the Messenger (2014)">Kill the Messenger (2014)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static3.solarmovie.is/images/movies/1216491_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-blackhat-2015.html"
+            title="Blackhat (2015)">Blackhat (2015)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static2.solarmovie.is/images/movies/2717822_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-harry-potter-and-the-deathly-hallows-part-2-2011-1.html"
+            title="Harry Potter and the Deathly Hallows: Part 2 (2011)">Harry Potter and the Deathly Hallows: Part 2 (2011)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1201607_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-twilight-saga-breaking-dawn-part-2-2012.html"
+            title="The Twilight Saga: Breaking Dawn - Part 2 (2012)">The Twilight Saga: Breaking Dawn - Part 2 (2012)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1673434_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-twilight-2008.html"
+            title="Twilight (2008)">Twilight (2008)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1099212_150x220.jpg"></a></li>
+            <li><a class="mainLink" href="/watch-the-twilight-saga-new-moon-2009.html"
+            title="The Twilight Saga: New Moon (2009)">The Twilight Saga: New Moon (2009)</a>
+        <a title="view cover"
+            class="fontIcon ding-Eye js-loadCoverPreview"
+            href="javascript:void();"
+            data-cover-url="http://static1.solarmovie.is/images/movies/1259571_150x220.jpg"></a></li>
+        </ul>
+    <a class="showMore" href="/popular-drama-genre-movies.html">more »</a>
+</div>
+    </div>
+    </div>
+            </div>
+            <div id="sidebar">
+                                <div id="_d349f084a61522d061bc3da48f30d08a"></div>
+                <script>
+                                </script>
+                
+                
+                <ul class="tagContainer">
+    <li><a href="/watch-movies-of-2014.html">
+        <span>2014</span></a></li>
+    <li><a href="/watch-movies-of-2013.html">
+        <span>2013</span></a></li>
+    <li><a href="/watch-movies-of-2012.html">
+        <span>2012</span></a></li>
+    <li><a href="/watch-movies-of-2011.html">
+        <span>2011</span></a></li>
+    <li><a href="/watch-movies-of-2010.html">
+        <span>2010</span></a></li>
+    <li><a href="/watch-action-movies.html">
+        <span>Action</span></a></li>
+    <li><a href="/watch-adventure-movies.html">
+        <span>Adventure</span></a></li>
+    <li><a href="/watch-animation-movies.html">
+        <span>Animation</span></a></li>
+    <li><a href="/watch-comedy-movies.html">
+        <span>Comedy</span></a></li>
+    <li><a href="/watch-drama-movies.html">
+        <span>Drama</span></a></li>
+    <li><a href="/watch-horror-movies.html">
+        <span>Horror</span></a></li>
+    <li><a href="/watch-romance-movies.html">
+        <span>Romance</span></a></li>
+    <li><a href="/watch-sci-fi-movies.html">
+        <span>Sci-Fi</span></a></li>
+    <li><a href="/watch-thriller-movies.html">
+        <span>Thriller</span></a></li>
+</ul>
+<div class="SearchesBlock">
+    <h3>Latest Blogs</h3>
+
+<ul class="recentItems recentItemsBlogs">
+    <li class="js-comment recentItem">
+
+        <div class="controls">
+            <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+
+        <a href="/blog/uploads-quality/"
+            class="recentItemTitle">Uploads quality</a>
+
+        <a class="recentItemAuthor"
+            href="/u/pirates_utd/">
+            <span class="fontIcon ding-User"></span>pirates_utd</a>&nbsp;<span class="badgesOfRank adminRank" title="Administrator">A</span>,
+
+        <span class="recentItemDate">
+            2 months ago
+            <div class="floatright">
+                <a href="/blog/uploads-quality/" class="commentCount">
+                6 <span class="fontIcon ding-Speech"></span></a>
+            </div>
+        </span>
+
+        <div class="js-recentItem-text recentItemBody">Dear uploaders,
+
+Please add links to TV SHOWS via TV SHOWS FORM not MOVIE FORM.
+And fill ALL fields which are there with VALID data.
+
+Those who fail to understand this simple requirement will be punished. Linkers will be demoted then banned, non-likers will be  banned right away.
+
+Thank you. 
+PS. those who do not receive notifications for new movies and episodes and see some movies "broken" or episodes missing can thank those beautiful uploaders that cannot fill forms properly.</div>
+    </li>
+    <li class="js-comment recentItem oddComment">
+
+        <div class="controls">
+            <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+
+        <a href="/blog/updating-links/"
+            class="recentItemTitle">Updating Links!</a>
+
+        <a class="recentItemAuthor"
+            href="/u/SparkyKarl/">
+            <span class="fontIcon ding-User"></span>SparkyKarl</a>&nbsp;<span class="badgesOfRank moderRank" title="Moderator">M</span>,
+
+        <span class="recentItemDate">
+            4 months ago
+            <div class="floatright">
+                <a href="/blog/updating-links/" class="commentCount">
+                16 <span class="fontIcon ding-Speech"></span></a>
+            </div>
+        </span>
+
+        <div class="js-recentItem-text recentItemBody">Hello, I've been meaning to address this issue for some time now, well I say "Issue" it's not really an Issue but something that needs to be put out there for Linkers / Uploaders too see. A lot of the time I see that Linkers / Uploads forget or can not be bothered to update there links, and by that I mean by deleting a CAM Quality link when HD or DvD Quality finally becomes available, because lately I've been coming across movies that still have CAM Quality links still available a year later when DVD / HD links have been posted. Like I said, it's not a problem for Mod's to deal with this, but it makes it a lot easier for everyone else if we can help each other, because after all Solarmovie is a "Community based site"
+
+Thanks for understanding!
+
+SparkyKarl.</div>
+    </li>
+    <li class="js-comment recentItem">
+
+        <div class="controls">
+            <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+
+        <a href="/blog/global-login-change/"
+            class="recentItemTitle">Global Login Change</a>
+
+        <a class="recentItemAuthor"
+            href="/u/The_Boss/">
+            <span class="fontIcon ding-User"></span>The_Boss</a>&nbsp;<span class="badgesOfRank adminRank" title="Administrator">A</span>,
+
+        <span class="recentItemDate">
+            1 year ago
+            <div class="floatright">
+                <a href="/blog/global-login-change/" class="commentCount">
+                26 <span class="fontIcon ding-Speech"></span></a>
+            </div>
+        </span>
+
+        <div class="js-recentItem-text recentItemBody">Hello fellow Solarians,
+Few weeks ago we warned our users about a mandatory login change and today it happened. All login names were changed and if you are unable to login - you can check your new name [http://www.solarmovie.so/new-n...].
+
+We also got a new feature for you. We added a reply feature, so from now on if you click on reply, the message that you're replying to and the nickname of the recipient will be quoted in your message.
+
+And of course we nailed some nasty bugs.</div>
+    </li>
+</ul>
+    <h3>Latest Comments</h3>
+<ul class="recentItems recentItemsComments">
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        6 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-grizzly-2014.html" class="recentItemTitle">
+                Grizzly                    (2014)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/MontyFly/">
+            <span class="fontIcon ding-User"></span>MontyFly</a>&nbsp;,
+        <span class="recentItemDate">
+            1 minute ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Not a bad flick if you suspend your disbelieve. Definitely worth watching. As mentioned it is reminiscent of The Edge, which I feel is a better movie.</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        174 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-taken-3-2015.html" class="recentItemTitle">
+                Taken 3                    (2015)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/Sweedy/">
+            <span class="fontIcon ding-User"></span>Sweedy</a>&nbsp;,
+        <span class="recentItemDate">
+            7 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Yep ! good Taken movie, you'll find your drama-action dose d_d Nice soundtrack too. But still not as good as the 1st one -_- (ofc...)</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        2 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/the-fosters-2013/season-2/episode-15/" class="recentItemTitle">The Fosters        (2013)</a>
+        <a href="/tv/the-fosters-2013/season-2/episode-15/" class="recentItemTitle">
+                    s02e15                Light of Day            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/springfield45/">
+            <span class="fontIcon ding-User"></span>springfield45</a>&nbsp;,
+        <span class="recentItemDate">
+            14 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Show was rolling along then ended on a high note, became really serious.  Very good episode.</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        3 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/midsomer-murders-1997/season-17/episode-2/" class="recentItemTitle">Midsomer Murders        (1997)</a>
+        <a href="/tv/midsomer-murders-1997/season-17/episode-2/" class="recentItemTitle">
+                    s17e02                Murder by Magic            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/christopher2nd/">
+            <span class="fontIcon ding-User"></span>christopher2nd</a>&nbsp;,
+        <span class="recentItemDate">
+            17 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">The Flash responded to my post here, but now I can't find any of his posts or links. if youre out there, dude, send me a message; or if anyone knows how to get ahold of him, please let me know.</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        15 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-dragonheart-3-the-sorcerer-s-curse-2015.html" class="recentItemTitle">
+                Dragonheart 3: The Sorcerer's Curse                    (2015)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/sebash07/">
+            <span class="fontIcon ding-User"></span>sebash07</a>&nbsp;,
+        <span class="recentItemDate">
+            22 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">@Flicker2013 
+I love Dragons sounds really good Thanks lil Flick ^-^ :)</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        38 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-the-woman-in-black-2-angel-of-death-2015.html" class="recentItemTitle">
+                The Woman in Black 2 Angel of Death                    (2015)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/djkilo/">
+            <span class="fontIcon ding-User"></span>djkilo</a>&nbsp;,
+        <span class="recentItemDate">
+            26 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Seems like this movie will be uploaded when its on dvd lol</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        1 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+    <a href="/forum/thread/10146/last/"
+        class="recentItemTitle">Sppoks: Code 9</a>
+    at
+    <a href="/forum/tv-shows-requests/"
+        class="recentItemTitle">TV Shows Requests</a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/christopher2nd/">
+            <span class="fontIcon ding-User"></span>christopher2nd</a>&nbsp;,
+        <span class="recentItemDate">
+            26 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">This is a spin-off series of the Spooks show, which was called MI-5 here in the states. if anyone knows how to find links for this it would be greatly appreciated. Thanks!
+
+*Spooks: Code 9, not Sppoks</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        3 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-the-timber-2015.html" class="recentItemTitle">
+                The Timber                    (2015)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/gargoyle13/">
+            <span class="fontIcon ding-User"></span>gargoyle13</a>&nbsp;,
+        <span class="recentItemDate">
+            26 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Wow, More than I expected, great story line, very well acted and kept up my interest. Those that rated lower than acceptable should adjust their views to normal viewers. All in all, it's a good movie, a bit slow and sometimes too manyflashbacks for the characters but none the less worth a watch. A 5.5/10, enjoy!</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        5 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/allegiance-2015/" class="recentItemTitle">
+                Allegiance                    (2015)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/moira7/">
+            <span class="fontIcon ding-User"></span>moira7</a>&nbsp;,
+        <span class="recentItemDate">
+            31 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Like it. More please...</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        28 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-enter-the-dangerous-mind-2013.html" class="recentItemTitle">
+                Enter the Dangerous Mind                    (2013)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/Sweedy/">
+            <span class="fontIcon ding-User"></span>Sweedy</a>&nbsp;,
+        <span class="recentItemDate">
+            34 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">This is an original movie. Even though the acting could be better, you'll find fun visual effects and some nice drops O_o. You won't lose your time, go for it and juge for yourself.</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        52 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+    <a href="/forum/thread/9709/last/"
+        class="recentItemTitle">Everything     The 100</a>
+    at
+    <a href="/forum/general-tv-shows-talk/"
+        class="recentItemTitle">General TV Shows Talk</a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/sebash07/">
+            <span class="fontIcon ding-User"></span>sebash07</a>&nbsp;,
+        <span class="recentItemDate">
+            37 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">[...]  
+Miss me my favorite lil penguin :| 
+BB woohoo tonight is da night.My turn it IS ^-^  :|  :|</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        6 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/arrow-2012/season-3/episode-13/" class="recentItemTitle">Arrow        (2012)</a>
+        <a href="/tv/arrow-2012/season-3/episode-13/" class="recentItemTitle">
+                    s03e13                Canaries            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/sha777/">
+            <span class="fontIcon ding-User"></span>sha777</a>&nbsp;,
+        <span class="recentItemDate">
+            38 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Ok Roy I see you</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        6 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/the-100-2014/season-2/episode-12/" class="recentItemTitle">The 100        (2014)</a>
+        <a href="/tv/the-100-2014/season-2/episode-12/" class="recentItemTitle">
+                    s02e12                Rubicon            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/3b7a36/">
+            <span class="fontIcon ding-User"></span>3b7a36</a>&nbsp;,
+        <span class="recentItemDate">
+            39 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">I had a Robert the Bruce moment during that very last scene.  Good episode.</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        5 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/reign-2013/season-2/episode-14/" class="recentItemTitle">Reign        (2013)</a>
+        <a href="/tv/reign-2013/season-2/episode-14/" class="recentItemTitle">
+                    s02e14                The End of Mourning            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/Flicker2013/">
+            <span class="fontIcon ding-User"></span>Flicker2013</a>&nbsp;<span class="badgesOfRank linkerRank" title="Linker">L</span>,
+        <span class="recentItemDate">
+            40 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">@sebash07 Yaeh baby! 'BB' time!!! Minez? oh ok not. I can not wait to see what happens on this tonight!!!
+Wow what a Wicked ride it has been as of late! Kudos to writers for sure!!! Cheers...</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        157 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+    <a href="/forum/thread/8250/last/"
+        class="recentItemTitle">Everything      (  The Flash )</a>
+    at
+    <a href="/forum/general-tv-shows-talk/"
+        class="recentItemTitle">General TV Shows Talk</a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/dopilus/">
+            <span class="fontIcon ding-User"></span>dopilus</a>&nbsp;,
+        <span class="recentItemDate">
+            42 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">[...]  It gets very tricky because Speed Force didn't exist in the original Flash Comics for Jay or Barry. It was a DC Multiverse creation. But Jay Garrick actually inspired Barry Allen in the original comics. Jay Garrick was the Flash from the 1940's (The 1940s comics are considered Earth 2 now) and Barry Allen grew up reading Flash comics during the reboot. They both gained powers from accidents in the originals and all their powers relied on speed and vibration/molecular control. So while Barry did create the Speed Force, Jay never used it before he joined the DC Multiverse.
+
+When they did the 2011 retcon Jay Garrick is now back to an alternate universe (Earth 2) and is much younger but doesn't use the speed force again, instead he got his powers from the god Mercury. [...]  
+
+Moving at normal speeds and warping time relative to himself is actually Zoom's ability as a speedster though. I know the Flash isn't bound by physics because of his tether to the speed force too, so that's definitely a factor. After some research, Caitlin (and other rescuees) are protected by his Speed Force Aura. Not unlike how Superman's clothes don't get messed up because of his* aura, thing.</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        17 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/better-call-saul-2015/" class="recentItemTitle">
+                Better Call Saul                    (2015)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/MorrisDaytona/">
+            <span class="fontIcon ding-User"></span>MorrisDaytona</a>&nbsp;,
+        <span class="recentItemDate">
+            44 minutes ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">For a show thats so hyped up, its really running thin based on the first 2 episodes. Asked myself if this a joke.</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        10 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-feast-2014.html" class="recentItemTitle">
+                Feast                    (2014)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/brd32/">
+            <span class="fontIcon ding-User"></span>brd32</a>&nbsp;,
+        <span class="recentItemDate">
+            1 hour ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">This was a very cute short</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        4 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/tv/the-mentalist-2008/season-7/episode-11/" class="recentItemTitle">The Mentalist        (2008)</a>
+        <a href="/tv/the-mentalist-2008/season-7/episode-11/" class="recentItemTitle">
+                    s07e11                Episode #7.11            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/springfield45/">
+            <span class="fontIcon ding-User"></span>springfield45</a>&nbsp;,
+        <span class="recentItemDate">
+            1 hour ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">Rather surprising episode, went from OK to very good. Saved by the ending.</div>
+    </li>
+        <li class="js-comment recentItem">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        1 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+        <a href="/watch-the-bomber-2001.html" class="recentItemTitle">
+                The Bomber                    (2001)
+            </a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/kastynn22/">
+            <span class="fontIcon ding-User"></span>kastynn22</a>&nbsp;,
+        <span class="recentItemDate">
+            1 hour ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">That was great ! Another nordic crime reporter hehe , they do like those newsroom murder mysterys. The main character is quite entrancing and i will check out the other films. good subs</div>
+    </li>
+        <li class="js-comment recentItem oddComment">
+        <div class="controls">
+                        <a class="triangle js-recentitemshow" href="#">▾</a>
+        </div>
+        <span class="recentItemDate">
+    <div class="floatright">
+        2 <span class="fontIcon ding-Speech"></span>
+    </div>
+
+    <a href="/forum/thread/10144/last/"
+        class="recentItemTitle">The Emperor's New Clothes (2001)</a>
+    at
+    <a href="/forum/movie-requests/"
+        class="recentItemTitle">Movie Requests</a>
+</span>
+
+        <a class="recentItemAuthor"
+            href="/u/MrSmooth/">
+            <span class="fontIcon ding-User"></span>MrSmooth</a>&nbsp;,
+        <span class="recentItemDate">
+            1 hour ago
+        </span>
+        <div class="js-recentItem-text recentItemBody">will have a link up shortly :|  [...]</div>
+    </li>
+    </ul>
+</div>
+
+<img class="js-img-lazy" id="js-trigger-social"
+    src="http://static4.solarmovie.is/images/blank.gif"
+    data-original="http://static2.solarmovie.is/images/blank2.gif" />
+
+<iframe id="facebookIframe" src="" scrolling="no" frameborder="0"
+    allowTransparency="true"></iframe>
+
+<a class="twitter-timeline" href="https://twitter.com/solarmovie"
+    data-widget-id="454550588072529920">Tweets by @solarmovie</a>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="wrapper">
+            <div class="bottomMenu container firstone">
+                <h4>Site Links</h4>
+                <ul>
+                    <li><a href="/keywords.html">Keywords</a></li>
+                    <li><a href="/countries.html">Countries</a></li>
+                    <li><a href="/languages.html">Languages</a></li>
+                    <li><a href="/genres.html">Movie Genres</a></li>
+                    <li><a href="/years.html">Movie Years</a></li>
+                    <li><a href="/tv/genres.html">TV Show Genres</a></li>
+                    <li><a href="/tv/years.html">TV Show Years</a></li>
+                    <li><a href="/trends/">Trends</a></li>
+                    <li><a href="/latest-watched-movies.html">Latest Watched</a></li>
+                    <li><a href="/ratings/">Users' Reputation</a></li>
+                    <li><a href="/terms.html">Terms of Service</a></li>
+                    <li><a href="/rules.html">Rules</a></li>
+                    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+                    <li><a href="/contacts.html">Contacts</a></li>
+                </ul>
+            </div>
+            
+<div class="bottomMenu container">
+    <h4>Latest Searches</h4>
+    <ul>
+                <li>
+                        <a href="/tv/search/detective+c/">
+                                        detective c</a>
+                    </li>
+                <li>
+                        <a href="/movie/search/teenage+nudity/">
+                                        teenage nudity</a>
+                    </li>
+                <li>
+                        <a href="/movie/search/of+brian/">
+                                        of brian</a>
+                    </li>
+                <li>
+                        <a href="/movie/search/emmanuelle+sex/">
+                                        emmanuelle sex</a>
+                    </li>
+                <li>
+                        <a href="/tv/search/Eye+candy/">
+                                        Eye candy</a>
+                    </li>
+                <li>
+                        <a href="/movie/search/Weapon+of+Choice/">
+                                        Weapon of Choice</a>
+                    </li>
+                <li>
+                        <a href="/tv/search/how+know/">
+                                        how know</a>
+                    </li>
+                <li>
+                        <a href="/movie/search/Brokeback+Mountain/">
+                                        Brokeback Mountain</a>
+                    </li>
+                <li>
+                        <a href="/tv/search/Dan+In+Real+LIfe/">
+                                        Dan In Real LIfe</a>
+                    </li>
+                <li>
+                        <a href="/tv/search/American+R/">
+                                        American R</a>
+                    </li>
+            </ul>
+</div>
+        </div>
+        <p>
+                        SolarMovie provides links to other sites on the internet and doesn't host any files itself.
+
+            <p>Owner's information:<br />
+            Danske Erker S.A.<br />
+            #7 New Road, Belize City, Belize</p>
+        </p>
+    </div>
+</div>
+
+<a class="reportabug" href="/forum/thread/2482/last/">
+    <span class="reporttext">Report a problem</span></a>
+
+<div id="_be1592fba2e95461d43e1b746b4d1fde"></div>
+<div id="_a78bfd789139e6eea5d3fc5826ec889b"></div>
+<script>
+</script>
+
+<!--[if lt IE 9]>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+<!--<![endif]-->
+
+<script type="text/javascript" src="/minify-f358208/index.php?f=/js/jquery-ui.js,/js/jquery.ui.stars.js,/js/jquery.dotdotdot.js,/js/jquery.pnotify.js,/js/jquery.form.js,/js/jquery.dialogbox.js,/js/jquery.simplyCountable.js,/js/jquery.timeago.js,/js/jquery.lazyload.js,/js/modernizr.js,/js/index.js,/js/jquery.slider.js"></script>
+
+<script type="text/javascript">
+var _scq = _scq || [];
+
+    jQuery(function () {
+    jQuery('.js-front-tab').on('click', 'li > a', function (evt) {
+        var jthis = jQuery(this);
+        var tab   = jthis.parents('.js-front-tab').first();
+        var block = tab.next('.js-front-block');
+        block.animate({'opacity':0},100);
+        SOLAR.spinner.show(500);
+        jQuery.ajax({
+            url: jthis.attr('href'),
+            success: function (response) {
+                tab.find('li.active').removeClass('active');
+                jthis.parent().addClass('active');
+                block.html(response).animate({'opacity':1},100)
+                block.find('.js-img-lazy').lazyload();
+                SOLAR.spinner.hide();
+            }
+        });
+        return false;
+    });
+    $('.js-frontslider').frontSlider();
+});
+                _scq.push(['addSlot', '_d349f084a61522d061bc3da48f30d08a', {"page_type":"index"}]);
+                _scq.push(['addSlot', '_be1592fba2e95461d43e1b746b4d1fde']);
+_scq.push(['addSlot', '_a78bfd789139e6eea5d3fc5826ec889b']);
+
+_scq.push(['setAccount', '_12190402e35d1d69b7f6aea74792e3f8']);
+_scq.push(['setHost', 'a.solarmovie.is']);
+_scq.push(['load']);
+(function() {
+    var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+    sc.src = document.location.protocol + '//a.solarmovie.is/sc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+})();
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-47630308-1', 'solarmovie.is');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+<!-- generated at 2015-02-12T07:25:56+02:00 for ca2.ext.solarmovie.so -->

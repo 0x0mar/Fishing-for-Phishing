@@ -1,0 +1,2571 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta property="article:publisher" content="13312631635" />
+<script type="text/javascript" src="http://www.silence-ads.com/assets/noindex/js/silence-2.js"></script>
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/overwrite_redesign.css" />
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/editorial/commercial/newsletter/ebooks/css/ebooks_mods.css?ver=1a" />
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/gallery.css"/>
+<!--Last update/pull on 19/03/2014-->
+<link rel="stylesheet" type="text/css" href="/independent.co.uk/assets/css/config.css"/>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
+<style type="text/css">
+/* temp change for removal of google ads */
+.widget.storyContent.article.articleContent {
+margin-top: -3px!important;
+}
+/* most most most tabbing group padding/margin reduction for OB */
+.tabbingGroup {
+margin-bottom: 5px!important;
+padding-bottom: 1px!important;
+}
+/******* voices new platform fix ********/
+.voices .tagLabel {
+left:256px !important;
+}
+.voices .tagNames {
+left:323px !important;
+}
+/* PLEASE ADD YOUR INLINE STYLES HERE ELSE ... */
+/* search box changes for i100 feed placement*/
+#side .superSearchBox {margin: 0!important;}
+.searchLinks {margin-bottom: 10px!important;}
+/*******new competition platform********/
+#competitionForm .competitionSuccess { background-color: #DFF2BF;border: 1px solid #C6D9A6;padding: 10px 20px;text-align: center;display:none; }
+#competitionForm .errorMsg { color: #D8000C; background-color: #FFBABA; padding: 10px; margin: 10px 0; display: block; text-align: center; }
+#competitionForm { display: none;font-size:13px;border:1px solid #eee;padding:10px;margin:10px 0;text-align:left; }
+#competitionForm .title,
+#competitionForm .introduction { display: block; margin-bottom: 5px;}
+#competitionForm .introduction { font-weight:bold;font-size:14px;border-bottom:1px solid #eee;padding:5px;color:#fff;background:#714a8d;display:block;}
+#competitionForm .question, #competitionForm .title {font-weight:bold;}
+#competitionForm .form-row { padding: 3px 0; vertical-align: top; }
+#competitionForm .form-row textarea {display:block;margin-top:9px;font-family: arial, sans-serif;min-width: 240px;min-height: 50px;max-width:98%}
+#competitionForm input[type=submit] {background:#714a8d;color:#fff;border:1px solid #A5A5A5;outline:1px solid #714a8d;padding:3px 10px;margin-top:20px;}
+div.body a.competition_btn {
+background: #005689;
+padding: 6px;
+color: #fff!important;
+font-size: 14px;
+text-decoration: none!important;
+}
+.replyFormClone textarea {
+display: block;
+width: 100%;
+padding: 0;
+overflow: auto;
+word-wrap: break-word;
+height: 78px;
+resize: none;
+text-align: left;
+margin-bottom: 10px;
+}
+.replyFormClone {
+text-align: right;
+padding: 10px 0;
+border-top: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+margin: 10px 0 0;
+clear: both;
+}
+.successMsg {
+background: #e9ffd9;
+border: 1px solid #a6ca8a;
+padding: 10px;
+text-align: left;
+}
+#gigyaLoginBar ul li { float: left; cursor: pointer; }
+.hide-comment-buttons #singleCommentHeader .formContainer > img, .hide-comment-buttons #singleCommentHeader .formContainer > .title, .hide-comment-buttons #loginButtonContainer {
+display: none;
+}
+/* Expandable MPU fix */
+#side .x300 {
+overflow: visible!important;
+}
+/* Collapsing Skyscraper fix */
+.ad div.skyscraper {height:auto!important;padding:0px!important;}
+.ad div#mpu.skyscraper {height:600px!important;}
+</style>
+<!-- Disable debug option for Galleria so that no errors or warnings are thrown on frontend -->
+<script type="text/javascript">
+if( typeof Galleria === "function" ) {
+Galleria.configure({
+debug: false // debug is now off for deployment
+});
+}
+</script>
+<!-- Require JS for JavaScript file and module loader -->
+<script src="http://www.independent.co.uk/independent.co.uk/assets/js/require.min.js" data-main="http://www.independent.co.uk/independent.co.uk/assets/js/main"></script>
+<style>
+#commentsDiv {
+margin-top: 80px;
+width: 100% !important;
+}
+.gig-comments-linksContainer .gig-comment-replyLink, .gig-comments-linksContainer .gig-comment-deleteLink, .gig-comments-linksContainer .gig-comment-shareLink {
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #b80000!important;
+color: white!important;
+padding: 4px 34px 3px 10px;
+font-size: 14px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+}
+.gig-comments-linksContainer .gig-comment-repliesArrow {
+display: none;
+}
+.gig-comment-data .gig-comment-footer {
+border-top: 1px solid #CCC;
+margin-top: 7px !important;
+padding-top: 15px !important;
+border-bottom: 5px solid #cccccc;
+padding-bottom: 15px;
+margin-bottom: 15px;
+}
+*.gig-comments-linksContainer li:after {
+display: none !important;
+}
+.gig-comment-data .gig-comment-header {
+font-family: Georgia, 'Times New Roman', serif;
+font-size: 13px;
+font-weight: bold;
+height: 16px;
+border-bottom: 1px solid #CCC;
+}
+.gig-comment-header .gig-comment-header-right {
+float: none;
+}
+.gig-comment-header .gig-comment-header-right .gig-comment-time {
+color: #000;
+font-size: 10px;
+}
+div.gigya-screen-dialog-content,
+div.gigya-screen-dialog-content .gigya-screen {
+width: 700px !important;
+max-width: 700px !important;
+min-height: 0 !important;
+}
+.debate-half-second {
+width: 453px !important;
+padding: 0 0 40px 15px;
+float: left;
+padding-top: 30px;
+position: relative;
+}
+.debate-half-first {
+width: 453px !important;
+padding: 0 15px 40px 0;
+border-right: 3px solid red;
+float: left;
+padding-top: 30px;
+}
+.gig-composebox-post, .gig-composebox-post:hover {
+background: url("/skins/ind/voices/gfx/debate-comment2-bg.png") no-repeat scroll 60px bottom black;
+height: 22px;
+padding: 2px 48px 2px 10px;
+width: auto;
+text-transform: uppercase;
+color: white;
+float: left;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+font-size: 20px;
+line-height: 22px;
+border: 0;
+border-radius: 0;
+}
+#ForDebateCommentStreamDiv,
+#AgainstDebateDiv {
+width: auto !important;
+}
+#AgainstDebateDiv {
+margin-top: 38px;
+}
+.gig-or-icon {
+position: absolute;
+top: 128px;
+left: -24px;
+z-index: 99999;
+}
+.inpage-widget-8928966 {
+position: relative;
+}
+.gig-comments-count {
+font-weight: normal;
+background: url("/skins/ind/voices/gfx/debate-heading-bg.png") no-repeat scroll right 0 black;
+color: white;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+font-size: 20px;
+float: left;
+padding: 0 70px 0 10px;
+height: 30px;
+letter-spacing: 1px;
+text-transform: uppercase;
+margin: 0;
+line-height: 30px;
+}
+.gig-comments-header {
+padding: 0;
+border-bottom: 1px solid red;
+}
+.gig-comment-flag {
+visibility: visible;
+position: absolute;
+top: 0px;
+right: 0px;
+margin: 0;
+}
+.gig-comment {
+position: relative;
+}
+.gig-comment-vote-posneg {
+margin-top: 3px;
+}
+.gig-composebox-data {
+padding-left: 0;
+}
+.gig-composebox-data .gig-composebox-footer {
+margin: 0;
+}
+.gig-composebox-data .gig-composebox-footer .gig-composebox-footer-right {
+padding: 0;
+}
+.gig-comments-sort, .gig-comments-subscribe, .gig-comments-rss {
+background: url("/skins/ind/voices/gfx/debate-comment-bg.png") no-repeat scroll -15px top black;
+color: white!important;
+padding: 4px 6px 3px 30px !important;
+font-size: 14px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+}
+.gig-comments-rss a {
+color: white!important;
+font-size: 14px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+}
+.gig-comments-header-right li {
+margin-top: 6px;
+}
+.gig-composebox-photo {
+display: none;
+}
+.gig-composebox-textarea {
+min-height: 69px;
+}
+.gig-composebox-footer {
+display: block;
+}
+.gig-title {
+background: url("/skins/ind/voices/gfx/debate-comment-bg.png") no-repeat scroll left top black;
+color: white!important;
+padding: 0 6px 0 60px !important;
+font-size: 26px;
+text-transform: uppercase;
+font-family: league gothic;
+-webkit-font-smoothing: antialiased;
+letter-spacing: 1px;
+height: 38px;
+line-height: 38px;
+width: 140px;
+}
+.debate-half-first .gig-composebox-editor,
+.debate-half-second .gig-composebox-editor {
+background: url(http://www.independent.co.uk/skins/ind/voices/gfx/for-bg.jpg) no-repeat center center transparent;
+width: 370px;
+height: 115px;
+padding: 15px;
+border: 15px solid #f5f5f5;
+border-left: 30px solid #f5f5f5;
+border-right: 38px solid #f5f5f5;
+}
+.debate-half-second .gig-composebox-editor {
+background: url(http://www.independent.co.uk/skins/ind/voices/gfx/against-bg.jpg) no-repeat center center transparent;
+border-right: 30px solid #f5f5f5;
+border-left: 38px solid #f5f5f5;
+position: relative;
+left: -15px;
+}
+.debate-half-first .gig-composebox-editor .gig-composebox-textarea,
+.debate-half-second .gig-composebox-editor .gig-composebox-textarea {
+height: 115px;
+padding-top: 0;
+text-indent: -9999px;
+margin: 0;
+}
+.debate-half-first .gig-composebox-open .gig-composebox-editor .gig-composebox-textarea,
+.debate-half-second .gig-composebox-open .gig-composebox-editor .gig-composebox-textarea {
+text-indent: 0px;
+}
+.debate-half-first .gig-composebox-open .gig-composebox-editor,
+.debate-half-second .gig-composebox-open .gig-composebox-editor {
+background: none;
+}
+.gig-composebox-header {
+margin-bottom: 0 !important;
+}
+div.gigya-screen-dialog-top {
+background: url(http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/indy-masthead-small.png) 16px 14px no-repeat #fff !important;
+border: 0px none;
+height: 104px;
+width: 610px;
+}
+div.gigya-screen-dialog-caption {
+display:none;
+}
+div.gigya-screen-dialog-close {
+position: absolute;
+top: 6px;
+right: 10px;
+}
+div.gigya-screen-dialog-content {
+padding: 5px !important;
+}
+.gigya-composite-control.gigya-spacer {
+height: 2px !important;
+}
+input.gigya-input-text, input.gigya-input-password {
+height: 22px;
+line-height: normal;
+}
+.gigya-input-submit, .gigya-input-submit:hover {
+background: url(http://www.standard.co.uk/images/popup_button.png) repeat-x #f58020 !important;
+border-radius: 8px !important;
+border: none !important;
+color: #ffffff !important;
+height: auto !important;
+line-height: normal !important;
+padding: 5px 7px !important;
+width: auto !important;
+cursor: pointer !important;
+}
+.gigya-screen .gigya-composite-control-submit {
+text-align: left !important;
+}
+#gigya-login-screen .gigya-composite-control-social-login, #gigya-register-screen .gigya-composite-control-social-login {
+height: 98px !important;
+border: 0 !important;
+padding: 0 0 10px !important;
+}
+#gigya-login-screen a.forgotPassword, #gigya-login-screen a.forgotPassword:link {
+float: right;
+font-weight: normal;
+text-decoration: none;
+}
+div.gigya-screen-dialog-content {
+min-height: auto !important;
+}
+.gigya-composite-control.gigya-composite-control-header {
+border-top: 1px solid #f1f1f1;
+border-bottom: 1px solid #f1f1f1;
+}
+.gigya-login-form > .gigya-layout-row:nth-child(5) {
+border-top: 1px solid #f1f1f1;
+}
+.gigya-screen .gigya-composite-control-label span.lock {
+width: 280px;
+display: block;
+padding-left: 28px;
+background: url(http://www.standard.co.uk/images/popup_lock.png) no-repeat left 4px;
+}
+.gigya-screen .gigya-composite-control-label span.time {
+width: 280px;
+display: block;
+padding-left: 28px;
+background: url(http://www.standard.co.uk/images/popup_time.png) no-repeat left 4px;
+}
+.gigya-profile-form .gigya-layout-cell, .gigya-register-form .gigya-layout-cell {
+float: left;
+width: 50%;
+margin-top: 1px;
+}
+/****** travel ********/
+.gig-travel .gig-comments-linksContainer .gig-comment-replyLink, .gig-travel .gig-comments-linksContainer .gig-comment-deleteLink, .gig-travel .gig-comments-linksContainer .gig-comment-shareLink, .gig-travel .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #e56314!important;
+}
+.gig-travel .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-travel.gif") no-repeat scroll right 0 black;
+}
+.gig-travel .gig-comments-sort, .gig-travel .gig-comments-subscribe, .gig-travel .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-travel.gif") no-repeat scroll -15px top black;
+}
+.gig-travel .gig-composebox-post, .gig-travel .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-travel.gif") no-repeat scroll right bottom black;
+}
+.gig-travel .gig-comments-header {
+border-bottom: 1px solid #e56314;
+}
+/****** sport ********/
+.gig-sport .gig-comments-linksContainer .gig-comment-replyLink, .gig-sport .gig-comments-linksContainer .gig-comment-deleteLink, .gig-sport .gig-comments-linksContainer .gig-comment-shareLink, .gig-sport .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #1d5609!important;
+}
+.gig-sport .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-sport.gif") no-repeat scroll right 0 black;
+}
+.gig-sport .gig-comments-sort, .gig-sport .gig-comments-subscribe, .gig-sport .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-sport.gif") no-repeat scroll -15px top black;
+}
+.gig-sport .gig-composebox-post, .gig-sport .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-sport.gif") no-repeat scroll right bottom black;
+}
+.gig-sport .gig-comments-header {
+border-bottom: 1px solid #1d5609;
+}
+/****** lifestyle ********/
+.gig-lifestyle .gig-comments-linksContainer .gig-comment-replyLink, .gig-lifestyle .gig-comments-linksContainer .gig-comment-deleteLink, .gig-lifestyle .gig-comments-linksContainer .gig-comment-shareLink, .gig-lifestyle .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #4d0637!important;
+}
+.gig-lifestyle .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-lifestyle.gif") no-repeat scroll right 0 black;
+}
+.gig-lifestyle .gig-comments-sort, .gig-lifestyle .gig-comments-subscribe, .gig-lifestyle .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-lifestyle.gif") no-repeat scroll -15px top black;
+}
+.gig-lifestyle .gig-composebox-post, .gig-lifestyle .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-lifestyle.gif") no-repeat scroll right bottom black;
+}
+.gig-lifestyle .gig-comments-header {
+border-bottom: 1px solid #4d0637;
+}
+/****** arts ********/
+.gig-arts .gig-comments-linksContainer .gig-comment-replyLink, .gig-arts .gig-comments-linksContainer .gig-comment-deleteLink, .gig-arts .gig-comments-linksContainer .gig-comment-shareLink, .gig-arts .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #4a4646!important;
+}
+.gig-arts .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-arts.gif") no-repeat scroll right 0 black;
+}
+.gig-arts .gig-comments-sort, .gig-arts .gig-comments-subscribe, .gig-arts .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-arts.gif") no-repeat scroll -15px top black;
+}
+.gig-arts .gig-composebox-post, .gig-arts .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-arts.gif") no-repeat scroll right bottom black;
+}
+.gig-arts .gig-comments-header {
+border-bottom: 1px solid #4a4646;
+}
+/****** money ********/
+.gig-money .gig-comments-linksContainer .gig-comment-replyLink, .gig-money .gig-comments-linksContainer .gig-comment-deleteLink, .gig-money .gig-comments-linksContainer .gig-comment-shareLink, .gig-money .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #223d77!important;
+}
+.gig-money .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-money.gif") no-repeat scroll right 0 black;
+}
+.gig-money .gig-comments-sort, .gig-money .gig-comments-subscribe, .gig-money .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-money.gif") no-repeat scroll -15px top black;
+}
+.gig-money .gig-composebox-post, .gig-money .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-money.gif") no-repeat scroll right bottom black;
+}
+.gig-money .gig-comments-header {
+border-bottom: 1px solid #223d77;
+}
+/****** extra ********/
+.gig-extra .gig-comments-linksContainer .gig-comment-replyLink, .gig-extra .gig-comments-linksContainer .gig-comment-deleteLink, .gig-extra .gig-comments-linksContainer .gig-comment-shareLink, .gig-extra .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #035b7b!important;
+}
+.gig-extra .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-extra.gif") no-repeat scroll right 0 black;
+}
+.gig-extra .gig-comments-sort, .gig-extra .gig-comments-subscribe, .gig-extra .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-extra.gif") no-repeat scroll -15px top black;
+}
+.gig-extra .gig-composebox-post, .gig-extra .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-extra.gif") no-repeat scroll right bottom black;
+}
+.gig-extra .gig-comments-header {
+border-bottom: 1px solid #035b7b;
+}
+/****** student ********/
+.gig-student .gig-comments-linksContainer .gig-comment-replyLink, .gig-student .gig-comments-linksContainer .gig-comment-deleteLink, .gig-student .gig-comments-linksContainer .gig-comment-shareLink, .gig-student .gig-comments-linksContainer .gig-comment-likeLink {
+/* background */
+background: url("/skins/ind/voices/gfx/reply-bg.png") no-repeat right bottom #780d46!important;
+}
+.gig-student .gig-comments-count {
+/* bottom-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-left-corner-student.gif") no-repeat scroll right 0 black;
+}
+.gig-student .gig-comments-sort, .gig-student .gig-comments-subscribe, .gig-student .gig-comments-rss {
+/* bottom-right */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/bottom-right-corner-student.gif") no-repeat scroll -15px top black;
+}
+.gig-student .gig-composebox-post, .gig-student .gig-composebox-post:hover { /* top-left */
+background: url("http://www.independent.co.uk/independent.co.uk/assets/images/gigya/corners/top-left-corner-student.gif") no-repeat scroll right bottom black;
+}
+.gig-student .gig-comments-header {
+border-bottom: 1px solid #780d46;
+}
+/* Weird News list article styling */
+.weirdList {font-size:18px!important;font-weight:bold!important; font-family: 'Open Sans',sans-serif !important; color:#636363 !important;}
+span.weirdNumber {font-size:18px!important; font-weight:bold!important;font-family: 'Open Sans',sans-serif !important;color:#B80000 !important;}
+/* Temp strapLine hide */
+div#main div.strapLine {display:none;}
+/* Removal of border on article above moved brightcove player on HomePage */
+.inpage-widget-8552103 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on TV */
+.inpage-widget-9753568 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above brightcove player on World Cup Index*/
+.inpage-widget-8947657 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on Arts-Ents */
+.inpage-widget-8904130 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on Travel */
+.inpage-widget-8340677 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above Inline gallery on Arts-Ents */
+.inpage-widget-8540613 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above Inline gallery on People */
+.inpage-widget-9187003 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on People */
+.inpage-widget-9189030 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above moved brightcove player on Gaming */
+.inpage-widget-8471529 .article:last-child {
+border-bottom: 0px!important;
+}
+/* Removal of border on article above Righster video on Football */
+.inpage-widget-8553118 .article:last-child {
+border-bottom: 0px!important;
+}
+/*hide top border cw games list */
+.inpage-widget-9620391 {border-top:none!important;}
+/* World cup Latest News 380 banner */
+.inpage-widget-9532447 {height:42px !important;}
+/* Bellyband/Leaderboard 970 creative fix */
+.bellyBand {
+width: 970px !important;
+overflow: hidden;
+margin: 0px auto 0 -15px;
+line-height: 0;
+clear: both;
+}
+#newsletterLogoWidget {border-top:none !important;}
+#navigation .submenu .Scottish {display:none;}
+#navigation .submenu .NHS {display:none!important;}
+/* handle lower case i for i100 mid col redirect articles */
+.intro .clhdi100Red {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:normal;background: #b80000;}
+.intro .clhdi100DarkGrey {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:normal;background: #636363;}
+.intro .clhdi100Green {
+position: absolute;top:0px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform:normal;background: #1d7000;}
+.third-level-wrapper ul.column2 li.Save.the.Tiger {display:none!important;}
+#navigation .submenu .Save.the.Tiger {display:none!important;}
+.third-level-wrapper .Partners {display:none !important;} .third-level-wrapper .Malala {display:none !important;} .third-level-wrapper .Diagnosis {display:none !important;}
+.third-level-wrapper .Suffragettes {display:none !important;}
+/*EPL topics */
+.epl-topic-twitter-middle, .epl-topic-opta-middle {width:210px; padding-left:10px;}
+#fancy-list-epl-topic-220 {
+display:block; width:210px;
+padding-left:10px;
+padding-bottom: 5px;
+padding-top:10px;
+}
+#fancy-list-epl-topic-220 ul li {
+list-style: none;
+padding:0; margin:0;
+}
+#fancy-list-epl-topic-220 ul {
+padding:0; margin:0;
+}
+#fancy-list-epl-topic-220 ul li a {
+display:block; background-color: #85be55;
+-webkit-transition: all 0.2s linear; padding: 2px 5px 5px 5px; font-family: 'Open Sans', serif; font-weight:bold; ic
+color:white; border-bottom: 1px solid white;
+font-size:12px;
+text-decoration: none;
+color:#fff;
+}
+#fancy-list-epl-topic-220 ul li a:hover {
+background-color: #1d7000;
+color:white !important; }
+#fancy-list-epl-topic-220 li.header { display:block; background-color: #1d7000;
+text-transform: uppercase;
+padding: 4px 5px 5px 5px; font-family: 'Open Sans', serif; font-weight:bold; text-decoration: none; color:white; border-bottom: 1px solid white;
+font-size:12px;}
+/*more football blocks */
+#fancy-list-more-football-220 {
+display:block; width:210px;
+padding-left:10px;
+padding-bottom: 5px;
+}
+#fancy-list-more-football-220 ul li, #fancy-list-more-football-140 ul li {
+list-style: none;
+padding:0; margin:0;
+}
+#fancy-list-more-football-220 ul, #fancy-list-more-football-140 ul {
+padding:0; margin:0;
+}
+#fancy-list-more-football-220 ul li a, #fancy-list-more-football-140 ul li a {
+display:block; background-color: #85be55;
+-webkit-transition: all 0.2s linear; padding: 2px 5px 5px 5px; font-family: 'Open Sans', serif; font-weight:bold; text-decoration: none; color:white; border-bottom: 1px solid white;
+font-size:12px;}
+#fancy-list-more-football-220 ul li a:hover, #fancy-list-more-football-140 ul li a:hover {
+background-color: #1d7000;
+color:white !important; }
+#fancy-list-more-football-140 {
+display:block; width:140px;
+padding-bottom: 5px;
+}
+/* Temp for Scot live blog */
+.inpage-widget-9735651 h5 {
+font-family: 'Open Sans' sans-serif;
+font-size: 12px !important;
+line-height: normal !important;
+text-transform: uppercase;
+color: #333333 !important;
+font-weight: bold !important;
+border-bottom: 0px !important;
+text-decoration: none !important;
+margin: 0 0 12px 0;
+}
+#content .inpage-widget-9735651 h5 a {
+text-decoration: underline !important;
+color: #0065BD;
+}
+/*reduce size of topic title headlines */
+.TopicStories .topStoryContainer .text-top h1 {font-size:26px;}
+/*increase article body text size */
+.article #main .storyContent .body p, .article #main .storyContent .storyTop p {
+font-size: 16px !important;line-height: 23px !important;}
+/*fix for us sport and child section breadcrumb padding*/
+.inpage-widget-9669721 {padding-top:10px!important;}
+/* Below article sponsored puffs */
+.sponPuff {width:95%;background:#efefef;clear:both;position:relative;padding:10px;margin:20px auto 10px auto;border: 1px solid #ddd;}
+.sponPuffTi {position: absolute;top: -10px;left: 0;padding: 3px 10px;margin-left: 0;color: #fff;font-weight: 800;z-index: 999;text-transform: uppercase;background:#b80000;font-family: 'Open Sans', sans serif;font-size: 12px;}
+.sponPuffTxt {color:#000;font:14px 'Open Sans';margin-top:10px;}
+.sponPuffTxt a {color:#000;text-decoration:none;}
+.sponPuffTxt a:hover {color:#b80000;}
+</style>
+<meta name="title" content="The Independent mobile news app for iOS, Android, Blackberry and Kindle Fire"/>
+<meta name="description" content="Keep the latest news and opinion to hand with The Independent’s free easy-to-read smartphone and tablet app. Download the free news app for your iPhone, iPad, Android, Blackberry or Kindle Fire device today."/>
+<!--<script type="text/javascript" src="http://s.ppjol.net/pp.js">{
+'zone':"8rCVcqssYH8Dl2nF5Xl5uU",
+'mode':"meter",
+'debug':0
+}</script>-->
+<script src="http://s.ppjol.net/lightbox/pp4.js"></script>
+<script>
+var pp = {
+client: {
+config: {
+'zone': "CWVOsisQmB8loR1Clmlomu",
+'mode': "universal",
+'cookieDomain': 'independent.co.uk',
+'debug': 0,
+'precheck': function () {
+return 1;
+}
+}
+}
+};
+</script>
+<!-- twitter -->
+<meta property="twitter:account_id" content="16973333" />
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
+<!-- Criterio -->
+<script type='text/javascript'> function crtg_getCookie(a){var b,c,d,e=document.cookie.split(";");for(b=0;b<e.length;b++){c=e[b].substr(0,e[b].indexOf("="));d=e[b].substr(e[b].indexOf("=")+1);c=c.replace(/^\s+|\s+$/g,"");if(c==a){return unescape(d)}}return""}var crtg_nid="1680";var crtg_cookiename="cto2_independent";var crtg_content=crtg_getCookie(crtg_cookiename);var crtg_rnd=Math.floor(Math.random()*99999999999);var crtg_url="http://rtax.criteo.com/delivery/rta/rta.js?netid="+escape(crtg_nid);crtg_url+="&cookieName="+escape(crtg_cookiename);crtg_url+="&rnd="+crtg_rnd;crtg_url+="&varName=crtg_content";var crtg_script=document.createElement("script");crtg_script.type="text/javascript";crtg_script.src=crtg_url;crtg_script.async=true;if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script) </script>
+<!-- Sub2 -->
+<script type="text/javascript">
+var _sub2_JSCODE = document.createElement('script');
+_sub2_JSCODE.type = 'text/javascript';
+_sub2_JSCODE.async = true;
+_sub2_JSCODE.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'webservices.sub2tech.com/independent/sub2.js'
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(_sub2_JSCODE,s);
+function _SUB2_Code() {
+S2Tech_2Prompt(); }
+if( _sub2_JSCODE.readyState ) {
+_sub2_JSCODE.onreadystatechange = function() {
+if ( _sub2_JSCODE.readyState == 'complete' || _sub2_JSCODE.readyState == 'loaded' ) {
+try {
+_SUB2_Code(); }
+catch (e) {}
+}
+};
+}
+else {
+_sub2_JSCODE.onload = function() {
+try {
+_SUB2_Code();
+}
+catch (e) {}
+};
+}
+</script>
+<!-- Amazon Publisher Tags -->
+<!-- Start of Amazon Publisher Studio Loader --> <script> window.amznpubstudioTag = "independen057-21"; </script> <!-- Do not modify the following code ! --> <script async="true" type="text/javascript" src="http://ps-eu.amazon-adsystem.com/domains/independen057-21_bb5bfa3b-762d-443e-ad11-7acda12bf1b3.js" charset="UTF-8"></script> <!-- End of Amazon Publisher Studio Loader --> <!-- KRUX -->
+<!-- BEGIN Krux Control Tag for "Independent" -->
+<!-- Source: /snippet/controltag?confid=I8gY_o93&site=Independent&edit=1 -->
+<script class="kxct" data-id="I8gY_o93" data-timing="async" data-version="1.9" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+(function(){
+var k=document.createElement('script');k.type='text/javascript';k.async=true;
+var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=I8gY_o93"
+;
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+</script>
+<!-- END Krux Controltag -->
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]); (function(){
+function retrieve(n){
+var m, k='kx'+n;
+if (window.localStorage) {
+return window.localStorage[k] || ""; } else if (navigator.cookieEnabled) {
+m = document.cookie.match(k+'=([^;]*)');
+return (m && unescape(m[1])) || ""; } else {
+return ''; }
+}
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<!--- Rubicon -->
+<script language='JavaScript' type='text/javascript'>
+/*function rp_resize(id, sz)
+{
+var el, w, h;
+w = sz.substring(0, sz.indexOf('x'));
+h = sz.substring(sz.indexOf('x') + 1, sz.length);
+d = document.getElementById(id);
+if (!d.width) {
+d.setAttribute('width', parseInt(w));
+} else {
+d.width = parseInt(w);
+}
+if (d.style.width) {
+d.style.width = parseInt(w)+'px';
+}
+if (!d.height) {
+d.setAttribute('height', parseInt(h));
+} else {
+d.height = parseInt(h);
+}
+if (d.style.height) {
+d.style.height = parseInt(h)+'px';
+}
+if (document.getElementById('mpu') && document.getElementById('mpu').className === 'skyscraper') {
+document.getElementById('mpu').style.height = parseInt(h)+'px';
+}
+}*/
+function rp_anim(e,s,u,f,t,tm) // graceful expansion/collapse function
+{
+if (!e) return;
+g = (f > t) ? 'c' : 'e';
+var st = new Date().getTime(),
+tmr = setInterval( function() {
+var stp = Math.min( 1, ( new Date().getTime() - st ) / tm );
+if (g === 'e') {
+if (!e.s) { e.setAttribute(s, f + stp * (t - f)) } else { e[s] = f + stp * (t - f) }
+if (e.style[s]) e.style[s] = (f + stp * (t - f)) + u;
+} else {
+if (!e.s) { e.setAttribute(s, f - stp * (f - t)) } else { e[s] = f - stp * (f - t) }
+if (e.style[s]) e.style[s] = (f - stp * (f - t)) + u;
+}
+if ( stp === 1 ) clearInterval( tmr );
+}, 25 );
+if (!e.s) { e.setAttribute(s, f) } else { e[s] = f }
+if (e.style[s]) { e.style[s] = ( f + u ) } else { e.style[s] = f + u }
+}
+rp_resize = function(sz,id)
+{
+var d, w, sh, h;
+w = sz.substring(0, sz.indexOf('x'));
+h = sz.substring(sz.indexOf('x') + 1, sz.length);
+d = document.getElementById(id);
+if (d.getBoundingClientRect().height) {
+sh = d.getBoundingClientRect().height; // for modern browsers
+} else {
+sh = d.offsetHeight; // for oldIE
+}
+if (!d.width) { d.setAttribute('width', parseInt(w)) } else { d.width = parseInt(w) }
+if (d.style.width) d.style.width = parseInt(w)+'px';
+rp_anim(d, 'height', 'px', sh, h, 500);
+}
+</script>
+<!-- Sailthru Horizon -->
+<script type="text/javascript">
+(function() {
+function loadHorizon() {
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.async = true;
+s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+var x = document.getElementsByTagName('script')[0];
+x.parentNode.insertBefore(s, x);
+}
+loadHorizon();
+var oldOnLoad = window.onload;
+window.onload = function() {
+if (typeof oldOnLoad === 'function') {
+oldOnLoad();
+}
+Sailthru.setup({
+domain: 'horizon.e.independent.co.uk'
+});
+};
+})();
+</script>
+<!-- Taboola Newsroom -->
+<script>
+( function () {
+var thisPage = location.pathname;
+if(thisPage === "/") {
+window._newsroom = window._newsroom || [];
+window._newsroom.push({pageTemplate: 'home'});
+window._newsroom.push({pageDashboard: 'home'});
+window._newsroom.push('auditClicks');
+window._newsroom.push('trackPage');
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/eslmedia-theindependent/newsroom.js');
+console.log('hpdb');
+}
+else {
+window._newsroom = window._newsroom || [];
+!function (e, f, u) {
+e.async = 1;
+e.src = u;
+f.parentNode.insertBefore(e, f);
+}(document.createElement('script'),
+document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/eslmedia-theindependent/newsroom.js');
+console.log('sub');
+}
+})();
+</script>
+<!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+ordValue1 = Math.floor(Math.random() * 10000000);
+</script>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/jquery-ui-1.8.6.custom.css">
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/escenic-widgets.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/defaults.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/layout.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/main.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/colors.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/print.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ind-gigya.css" />
+<link rel="shortcut icon" type="image/x-icon" href="http://www.independent.co.uk/favicon.ico"/>
+<link rel="canonical" href="http://www.independent.co.uk/marketing/apps/"/>
+<script type="text/javascript">var ieVersion = false;</script>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie.css"/><script type="text/javascript">var ieVersion = "true";</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie8.css"/><script type="text/javascript">var ieVersion = "8";</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie7.css"/><script type="text/javascript">var ieVersion = "7";</script><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/skins/ind/css/ie6.css"/><script type="text/javascript">var ieVersion = "6";</script><![endif]-->
+<link rel="pingback" href="http://www.independent.co.uk/xmlrpc"/>
+<script src="http://www.independent.co.uk/js/jquery-1.4.4.min.js"></script>
+<script src="http://www.independent.co.uk/js/jquery-ui-1.8.6.custom.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/swfobject.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.charcounter.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.tools-1.2.5.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.pagination.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/APIModules_all.js"></script>
+<script src="http://www.independent.co.uk/resources/js/date.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jqDnR.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.bgiframe.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.jqpopup.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.form.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.validate.min.js"></script> <script src="http://www.independent.co.uk/resources/js/captify.js"></script>
+<script src='http://www.independent.co.uk/resources/js/flowplayer-3.1.4.min.js'></script>
+<script src="http://www.independent.co.uk/resources/js/widget-framework-util.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria-1.2.7.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/galleria.classic.min.js"></script>
+<script src="http://www.independent.co.uk/resources/js/jquery.tagcloud.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var ind = {
+article: {},
+pubUrl: "http://www.independent.co.uk/",
+skinName: "ind",
+mainColumnClassId: ""
+};
+ind.gigya = {};
+ind.gigya.comments = {};
+ind.gigya.commentChunkSize	= 3;
+var commentCountApiArray = new Array();
+var commentCountDataArray = new Array();
+//]]> </script>
+<!-- AUDIENCESCIENCE AD TAG CODE --> <script language="text/javascript"> <!-- var rsi_segs = []; var segs_beg=document.cookie.indexOf('rsi_segs='); if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1; if(segs_beg>0){ var segs_end=document.cookie.indexOf(';',segs_beg); if(segs_end==-1) segs_end=document.cookie.length; rsi_segs=document.cookie.substring(segs_beg,segs_end) .split('|'); } } var segLen=20; var segQS=""; if (rsi_segs.length<segLen){segLen=rsi_segs.length} for (var i=0;i<segLen;i++){ segQS+=('rsi='+rsi_segs[i]+";") } //--> </script> <!-- END AUDIENCESCIENCE AD TAG CODE -->
+<script src="http://www.independent.co.uk/skins/ind/js/custom.js"></script>
+<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_bkQWNsWGVZf-fA4GnOiUOYdGuROCvoMoEN4WMj6_YBq4iecWA-Jp9D2GZCLbzON4"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/es-gs-functions.js"></script>
+<script type="text/javascript" src="http://www.independent.co.uk/js/voicesCarousel.js"></script>
+<!--[if IE]><script type="text/javascript" src="http://www.independent.co.uk/skins/ind/js/excanvas.js"></script><![endif]-->
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/init.js"></script>
+<!-- Indy : intialisation call, to be placed only once on the page, before the first ad tag -->
+<script type="text/javascript" language="Javascript"> //<![CDATA[
+var gs_channels="DEFAULT"; //]]>
+</script>
+<!-- close Initialisation -->
+<meta property="og:url" content="http://www.independent.co.uk/marketing/apps/" />
+<meta property="fb:app_id" content="235586169789578" />
+<meta property="fb:admins" content="36903991,100001802971061,500243253"/>
+<meta property="og:site_name" content="The Independent" />
+<meta property="og:locale" content="en_GB" />
+<title>
+The Independent | Mobile news app for iOS, Android, Blackberry and Kindle Fire </title>
+<!-- Release 1.0.71 -->
+</head>
+<body>
+<script type="text/javascript" src="/js/voicesCommentCount.js"></script>
+<!-- Start Omniture Tracking Code -->
+<script type="text/javascript" src="http://www.independent.co.uk/independent.co.uk/assets/js/omniture/catalyst.js"></script>
+<script type="text/javascript"><!--
+s.pageName="marketing/apps/";
+s.server="www.independent.co.uk";
+s.channel="marketing";
+s.prop1="marketing:apps";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.hier1="marketing,apps";
+s.pageType="";
+s.prop11="";
+s.prop12="";
+s.prop13="";
+s.prop14="marketing:apps";
+s.prop16="";
+s.events="";
+s.prop22="D=User-Agent";
+s.prop18="www"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://indepdev.122.2O7.net/b/ss/indepdev/1/H.19.3--NS/0?[AQB]&cdp=3&[AQE]&pageName=http://www.independent.co.uk/marketing/apps/"
+height="1" width="1" border="0" alt="" /></a></noscript>
+<!-- End Omniture Tracking Code -->
+<div id="viewport">
+<div id="page" class="x940-config">
+<div id="header">
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = '71347885';
+var dartPartnerZoneName = 'indy_indyhome_partners';
+var dartAdSize = '300x150,300x250';
+var dartTile = '';
+var dartOptValue = '';
+var articleId = '';
+var ordValue = '147345727';
+</script>
+<div class="widget ad partner widget-editable viziwyg-section-507 inpage-widget-8453904" >
+</div>
+<script type="text/javascript">
+var dartAdjUrl = 'http://ad.doubleclick.net/adj';
+var dartNoScriptJumpUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/jump/';
+var dartNoScriptAdUrl = 'http://dmgt.grapeshot.co.uk/independent/redirect.cgi?target=http://ad.doubleclick.net/uk/ad/';
+var dartSiteName = '71347885';
+var dartZoneName = '(Core)_The_Independent_UK';
+var dartHomepageZoneName = 'indy_indynews';
+var articleId = '';
+var dartAdSize = '';
+var dartTile = '';
+var dartOptValue = '';
+var ordValue = '147345727';
+</script>
+<div class="widget ad dart widget-editable viziwyg-section-507 inpage-widget-8453901" >
+<script type='text/javascript'>
+/* Load Utility module */
+require(['modules/utility'], function(utility){
+window.ChannelName = utility.getPageKeywords();
+});
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.cmd.push(function() {
+googletag.pubads().setTargeting("ksg", Krux.segments);
+googletag.pubads().setTargeting("kuid", Krux.user);
+googletag.pubads().setTargeting("khost", encodeURIComponent(location.hostname));
+var crtg_split = crtg_content.split(';');
+for (var i=1;i<crtg_split.length;i++){ googletag.pubads().setTargeting ("" + (crtg_split[i-1].split('='))[0] + "", "" + (crtg_split[i-1].split('='))[1] + "");};
+var unitName = '/' + dartSiteName + '/' + dartZoneName + '/' + dartHomepageZoneName,
+unitNamePartner = '/' + dartSiteName + '/' + dartZoneName + '/' + dartPartnerZoneName;
+// OutOfPageSlot ad
+googletag.defineOutOfPageSlot(unitName, "outOfPageSlot").addService(googletag.pubads());
+// Leaderboard banner ad
+googletag.defineSlot(unitName, [[468,60],[728, 90],[1,1]], "leaderboard").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "leaderboard");
+// 1920x1241 wallpaper ad googletag.defineSlot(unitName, [[1920, 1241],[1,1]], "wallpaper").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "wallpaper");
+// Bellyband ad
+googletag.defineSlot(unitName, [[900, 250],[940,230],[970,250],[900,40],[1,1]], "bellyband").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "bellyband");
+// Bellyband or Leaderboard ad
+googletag.defineSlot(unitName, [[900, 250],[970,250],[900,40],[940,230],[468,60],[728, 90],[1,1]], "bellyband-leaderboard").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "bellyband-leaderboard");
+// ATF mpu ad - config.article.gallery.refresh has its own specific mpu call which excludes 300x600 ads, this is within a separate widget, ID9022770
+googletag.defineSlot(unitName, [[300, 250], [300, 600],[300, 1050],[1,1]], "mpu").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "mpu");
+// Skyscrapper ad
+googletag.defineSlot(unitName, [[120, 600], [160, 600],[1,1]], "skyscrapper").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "skyscraper");
+// 5x5 Teads ad
+googletag.defineSlot(unitName, [[5, 5]], "teads").addService(googletag.pubads()).setTargeting("article", articleId).setTargeting("tile", "teads");
+// 622x42_strip
+googletag.defineSlot(unitNamePartner, [622, 42], "622x42_strip").addService(googletag.pubads()).setTargeting("article", articleId);
+// InSkin 8x8 ad
+var fn_pageskin = "no";
+if (screen.width >= 1280) { fn_pageskin = "yes"; }
+googletag.defineSlot(unitName, [8, 8], "inskin8x8").addService(googletag.pubads()).setTargeting("inskin", fn_pageskin).setTargeting("article", articleId);
+// Partner 300x150 ad
+googletag.defineSlot(unitNamePartner, [300, 150], "partnersmall").addService(googletag.pubads()).setTargeting("target", "ps").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+// Partner 300x250_1 ad
+googletag.defineSlot(unitNamePartner, [300, 250], "partner300x250_1").addService(googletag.pubads()).setTargeting("target", "ps").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+// Partner 300x250_2 ad
+googletag.defineSlot(unitNamePartner, [300, 250], "partner300x250_2").addService(googletag.pubads()).setTargeting("target", "psmpu2").setTargeting("kw", articleId).setTargeting("ord", ordValue1);
+//googletag.pubads().enableSingleRequest();
+//googletag.pubads().refresh();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+</script>
+</div>
+<!--Google Analytics -->
+<script type="text/javascript"> var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-27212627-1']); _gaq.push(['_setDomainName', '.independent.co.uk']); _gaq.push(['_trackPageview']); (function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+//var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+var s = document.getElementsByTagName('head')[0]; s.appendChild(ga); })(); </script>
+<!--Visual Revenue Reader Response Tracking Script (v142) -->
+<script type="text/javascript">
+var _vrq = _vrq || [];
+_vrq.push(['id', 142]);
+_vrq.push(['automate', true]);
+_vrq.push(['track', function(){}]);
+(function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+<!-- GeoRiot code -->
+<script type="text/javascript">
+$(document).ready(function () {
+// READ THIS!!
+// START OF REQUIRED CHANGES
+// you MUST change this value to one for your georiot account TSIDs
+var tsid = 3658;
+// END OF REQUIRED CHANGES
+// DO NOT MODIFY BELOW THIS LINE
+convertToGeoRiotLinks(tsid);
+// convertToGeoRiotLinks(3658) is also called in the galleries: loadMPU
+});
+function convertToGeoRiotLinks(tsid) {
+var numberOfLinks = document.links.length;
+var currentLinkIndex = 0;
+for (currentLinkIndex = 0; currentLinkIndex < numberOfLinks; currentLinkIndex++) {
+var currentLink = document.links[currentLinkIndex];
+var linkType = getLinkType(currentLink.href);
+if (linkType == "apple" || linkType == "amazon") {
+currentLink.href = "http://target.georiot.com/Proxy.ashx?TSID=" + tsid + "&GR_URL=" + encodeURIComponent(currentLink.href);
+} else if (linkType == "linkshare" || linkType == "tradedoubler" || linkType == "dgmperf") {
+var itunesUrl = extractItunesLinkFromAffiliateUrl(currentLink, linkType);
+if (itunesUrl != "") {
+currentLink.href = "http://target.georiot.com/Proxy.ashx?TSID=" + tsid + "&GR_URL=" + itunesUrl;
+}
+} else continue;
+}
+}
+function extractItunesLinkFromAffiliateUrl(currentLink, linkType) {
+if (currentLink.href.indexOf("?") > 0) {
+var arrParams = currentLink.href.split("?");
+var arrURLParams = arrParams[1].split("&");
+var arrParamNames = new Array(arrURLParams.length);
+var arrParamValues = new Array(arrURLParams.length);
+var i = 0;
+for (i = 0; i < arrURLParams.length; i++) {
+var sParam = arrURLParams[i].split("=");
+arrParamNames[i] = sParam[0];
+if (sParam[1] != "") {
+arrParamValues[i] = sParam[1];
+if (linkType == "tradedoubler" && arrParamNames[i] == "url") {
+return arrParamValues[i];
+} else if (linkType == "linkshare" && arrParamNames[i] == "RD_PARM1") {
+return arrParamValues[i];
+} else if (linkType == "dgmperf" && arrParamNames[i] == "u") {
+return arrParamValues[i];
+}
+} else arrParamValues[i] = "";
+}
+}
+return "";
+}
+/* Returns link type: unknown, amazon, apple, linkshare, dgm, tradedoubler
+*/
+function getLinkType(currentLinkHref) {
+var appleRegex = /itunes.apple.com\/\S+id[0-9]+/i;
+var tradeDoublerRegex = /clk[uk]*\.tradedoubler\.com\S*\?\S*url=[https%3A%2F%2F|http%3A%2F%2F]*\itunes\.apple\.com/i;
+var linkshareRegex = /click\.linksynergy\.com\S*?\S*RD_PARM1=[https%3A%2F%2F|https%253A%252F%252F|http%253A%252F%252F|http%3A%2F%2F]*\itunes\.apple\.com/i;
+var dgmPerfRegex = /t.dgm-au.c\S+\?+\S*u=[https%3A%2F%2F|http%3A%2F%2F|https%253A%252F%252F|http%253A%252F%252F]*\itunes\.apple\.com/i;
+var amazonRegex = /\.amazon\./;
+var amazonLocalRegex = /local\.amazon\./;
+if (currentLinkHref.indexOf("target.georiot.com") > 0 || currentLinkHref.indexOf("geni.us") > 0) {
+return "unknown";
+}
+if (appleRegex.test(currentLinkHref)) return "apple";
+else if (tradeDoublerRegex.test(currentLinkHref)) return "tradedoubler";
+else if (linkshareRegex.test(currentLinkHref)) return "linkshare";
+else if (dgmPerfRegex.test(currentLinkHref)) return "dgmperf";
+else if (amazonRegex.test(currentLinkHref) && !amazonLocalRegex.test(currentLinkHref)) return "amazon";
+else return "unknown";
+};
+$(".esi-gallery-rightarrow").click(function() {
+console.log('runnit')
+});
+</script>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453966" >
+<div id="outOfPageSlot">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("outOfPageSlot");
+});
+</script>
+</div>
+</div>
+<div class="x940 bellyBand"
+>
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453970" >
+<div id="bellyband">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("bellyband"); });
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="x940 linksDateWeather"
+>
+<div class="column-1">
+<div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime" >
+<ul>
+<li class="current first">
+Thursday 12 February 2015
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8117921 topExternalLinks" >
+<div id="gigyaLoginBar"><ul></ul></div>
+<script>
+var gigyaLogout = function (data) {
+// reload if logout was successful
+if (data.errorCode == 0) { location.reload();
+} else {
+alert('Error :' + response.errorMessage);
+}
+};
+// comments fix start
+$(document).ready(function() {
+// bind short registration to comments login button
+$('#singleCommentHeader .singleCommentLogin').live('click',function() {
+gigya.accounts.showScreenSet({screenSet:'Short-login-web2',lastLoginIndication:'none',onAfterScreenLoad:bindTooltips,onBeforeSubmit:checkForRobot});
+function bindTooltips() {
+// mobile fix start
+$('.gigya-screen-dialog-mobile').attr('class','gigya-screen-dialog');
+var oldDialog = '<div class="gigya-screen-dialog-top"><div class="gigya-screen-dialog-caption">Sign in</div><div class="gigya-screen-dialog-close"></div></div>';
+$('.gigya-screen-caption').replaceWith(oldDialog);
+$('.gigya-screen-dialog-close').click(function() {
+$(this).parents('.gigya-screen-dialog').remove();
+});
+// mobile fix end
+$('.gigya-screen-dialog .gigya-input-text, .gigya-screen-dialog select').live('focus', function() {
+$(this).siblings('.tooltip').css('display','block');
+}).live('blur', function() {
+$(this).siblings('.tooltip').fadeOut(); });
+}
+});
+// hide submit button on user logged out
+$('body').mousemove(function() {
+if (!$('body').hasClass('gigyaLoggedIn')) {
+$('#singleCommentSubmit').hide();
+} else {
+$('#singleCommentSubmit').show();
+}
+$('.comment-formatting-btns').hide();
+});
+// setup flag functionality on comments
+$('#singleCommentHeader .comments .flag').live('mousedown',function(e) {
+if ($('body').hasClass('gigyaLoggedIn')) {
+e.preventDefault();
+var iCommentID = $(this).parents('.commentBlock').first().attr('id');
+var flagParams = {
+commentID: iCommentID,
+categoryID: params.categoryID, streamID: params.streamID
+};
+gigya.comments.flagComment(flagParams);
+alert('This comment has now been flagged');
+}
+});
+// setup reply functionality on comments
+$('.reply').live('click',function() { if ($('body').hasClass('gigyaLoggedIn')) {
+$('.replyFormClone').remove();
+$(this).parents('.commentBlock').first().find('> .replies').append('<form class="replyFormClone"><textarea></textarea><input type="submit" value="Post" /></form>');
+$('.replyFormClone').submit(function(e) {
+e.preventDefault();
+var valCommentText = $('.replyFormClone textarea').val().replace(/\n/g, "<br />");
+var valParentID = $(this).parents('.commentBlock').first().attr('id');
+var event = {
+commentText: valCommentText,
+side: '',
+parentID: valParentID,
+errorContainerClass : "errorReply"
+};
+//ind.gigya.comments.eventHandlers.submit(event, params);
+gigya.comments.postComment({
+categoryID: params.categoryID,
+streamID: params.streamID,
+commentText: event.commentText,
+parentID: event.parentID,
+callback: function(response) {
+if(response.errorCode == 0) {
+$('.replyFormClone').html('<p class="successMsg">Your comment has been successfully submitted</p>');
+} else {
+}
+}
+});
+return false;
+});
+} else {
+gigya.accounts.showScreenSet({screenSet:'Short-login-web2'});
+}
+});
+// comments fix end
+});
+// sub2 code start
+$('#gigya-complete-registiration-screen .gigya-profile-form').live('submit',function(){
+var strEmail = $('#gigya-complete-registiration-screen [name="email"]').val();
+var strFirstName = $('#gigya-complete-registiration-screen [name="profile.firstName"]').val();
+var strLastName = $('#gigya-complete-registiration-screen [name="profile.lastName"]').val();
+S2Tech_StoreRegistrationData(strEmail, strFirstName, strLastName);
+});
+function sub2Login(data) {
+if (data.user.UID!='') {
+S2Tech_StoreRegistrationData(data.user.firstName, data.user.lastName, data.user.email);
+}
+}
+gigya.socialize.addEventHandlers({onLogin:sub2Login});
+// sub2 code end
+</script>
+<!-- gigya includes start -->
+<link rel="stylesheet" type="text/css" href="http://www.independent.co.uk/independent.co.uk/assets/gigya/styles.css"/>
+<script src="http://www.independent.co.uk/independent.co.uk/assets/gigya/script.js?v=1.2.1"></script>
+<!-- gigya includes end -->
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054700 topExternalLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/marketing/apps/" >
+<span>Apps </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/ebooks/" >
+<span>eBooks </span>
+</a>
+</li>
+<li>
+<a href="http://ijobs.independent.co.uk/" >
+<span>i Jobs </span>
+</a>
+</li>
+<li>
+<a href="http://dating.independent.co.uk/" >
+<span>Dating </span>
+</a>
+</li>
+<li>
+<a href="http://www.independentoffers.co.uk/" >
+<span>Shop </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="x940 promoAndLeaderboard"
+id="stacked" >
+<div class="column-1">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8927185" >
+<div id="mini-masthead-lboard"><a href="http://www.independent.co.uk">
+<img src="/independent.co.uk/assets/images/redesign/masthead/indy-masthead-small.png" title="The Independent" alt="The Independent" width="90" height="90" id="independent-mini-logo"/>
+</a>
+</div>
+<style type="text/css">
+<!--
+/* bolds indy title on dateline */
+.topDateTime ul li:before {font-weight:bold;}
+-->
+</style>
+<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 28px;">
+<a href="http://i100.independent.co.uk/?utm_source=indy&utm_medium=rad&utm_campaign=i100" target="_blank" style="display: block;padding: 0px 10px 0;">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/i100-radx2.jpg" width="70px" style="margin-top: -10px;padding-bottom: 9px;"></a>
+</div>
+<!--<div style="position: absolute;top: -7px;right: 0px;border-left: 1px solid #d2d3d5;border-right: 1px solid #d2d3d5;padding-top: 34px;"><a href="http://www.independent.co.uk/i/" target="_blank" style="display: block;padding: 0px 35px 0; margin-top: -15px;"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/redesign/masthead/ipaper_lrg_masthead.png" height="56px" style="
+margin-top: -10px;
+padding-bottom: 15px;
+"></a></div>-->
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8453964 ad" >
+<div id="leaderboard" style="width: 728px; height: 90px">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("leaderboard"); });
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="navigation">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054718 navPrimary newNav"
+>
+<ul class="main-level">
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/news/" >
+News </a>
+</li>
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/video/" >
+Video </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="black-nav ">
+<a href="http://www.independent.co.uk/news/people/" >
+People </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="orange-voices-nav ">
+<a href="http://www.independent.co.uk/voices/" >
+Voices </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="green-nav ">
+<a href="http://www.independent.co.uk/sport/" >
+Sport </a>
+</li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/" >
+Tech </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/life-style/" >
+Life </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/property/" >
+Property </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="dark-grey-nav ">
+<a href="http://www.independent.co.uk/arts-entertainment/" >
+<span class="ArtsText">Arts</span> <span class="+Text">+</span> <span class="EntsText">Ents</span> </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="orange-nav ">
+<a href="http://www.independent.co.uk/travel/" >
+Travel </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="turqoise-nav ">
+<a href="http://www.independent.co.uk/money/" >
+Money </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="dark-blue-nav ">
+<a href="http://www.independent.co.uk/extras/indybest/" >
+IndyBest </a>
+</li>
+<!-- JAIMATADI -->
+<!-- JAIMATADI -->
+<li class="eggplant-nav ">
+<a href="http://www.independent.co.uk/student/" >
+Student </a>
+</li>
+<li class="lavender-nav ">
+<a href="http://www.independent.co.uk/competitions" target="_blank" >
+Offers </a>
+</li>
+</ul>
+</div>
+<div class="x940 hotTopics"
+>
+<div class="column-1">
+<div class="tagLabel color"></div>
+<div class="tagNames">
+<a href="http://www.independent.co.uk/voices/isis-in-iraq-britain-has-no-plan-for-tackling-the-militants-and-no-idea-whos-in-charge-10031274.html" target="_self">Isis in Iraq</a>
+<a href="http://www.independent.co.uk/voices/comment/fifty-shades-of-grey-this-enters-a-new-terrain-of-toxicity--and-no-feminist-can-think-otherwise-10029971.html" target="_self">Fifty Shades of Grey</a>
+<a href="http://www.homelessveterans.co.uk/" target="_self">Homeless Veterans Campaign</a>
+<a href="http://www.independent.co.uk/topic/GeorgeOsborne" >George Osborne</a>
+<a href="http://www.independent.co.uk/topic/Greece" >Greece</a>
+<a href="http://www.independent.co.uk/topic/MichaelGove" >Michael Gove</a>
+</div>
+</div>
+</div>
+</div>
+<div id="content">
+<div id="areas">
+<div id="top">
+</div>
+<div id="main">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8643444" >
+<link rel="stylesheet" href="http://www.standard.co.uk/standard.co.uk/assets/css/idangerous2_1/idangerous.swiper.css">
+<link rel="stylesheet" href="http://www.standard.co.uk/standard.co.uk/assets/css/idangerous2_1/idangerous.swiper.scrollbar.css">
+<style>
+#appWrapper {
+margin-top: 50px;
+background: url(http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/back_gradient.png?ver=39) center top;
+height: 326px;
+position: relative;
+}
+#appContainer {
+width: 965px;
+margin-top: 30px;
+}
+.app {
+display: inline-block;
+*display: inline;
+zoom: 1;
+height: 355px;
+padding: 9px;
+border-left: 1px solid #cfcfcf;
+}
+.app p {
+width: 442px;
+height: 72px;
+}
+.app h2 {
+margin: 0;
+font-size: 18px;
+}
+.app ul {
+list-style: none;
+padding: 0;
+}
+.app li {
+display: inline;
+}
+.app a:link,
+.app a:visited {
+color: #ff0101;
+text-decoration: none;
+}
+.amazon {
+/*padding-right: 37px;*/
+}
+#blackberry {
+position: relative;
+top: 0;
+}
+#blackberry li {
+display: list-item; padding:0 0 5px 15px; background:url(http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/arrow_red.png?ver=2) no-repeat 0 3px;}
+#blackberry a: link, #blackberry a: visited {
+color: #000000;
+}
+.border {
+border-bottom: 1px solid #cfcfcf;
+margin: 20px 0 20px;
+}
+.buy,
+.free {
+position: relative;
+bottom: 3px;
+}
+.nook {
+padding-right: 10px;
+position: relative;
+top: 3px;
+}
+#bottom {
+clear: both;
+}
+.free {
+/*margin-left: 50px;*/
+}
+.i {
+color: #ff0000;
+font-style: italic;
+font-family: Times New Roman;
+}
+#offers {
+width: 176px;
+}
+.arrow {
+background: url(http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/arrow.png?ver=1) no-repeat 168px 2px;
+}
+.leftCol {
+float: left;
+padding: 20px;
+width: 468px;
+}
+.leftCol h1 {
+margin: 0;
+}
+.leftCol p {
+width: 442px;
+}
+.leftCol ul {
+padding-left: 16px;
+margin-top: 20px;
+}
+.leftCol li {
+font-size: 16px;
+line-height: 24px;
+}
+.leftCol li a {
+text-decoration: none;
+color: #ffffff;
+}
+.download-andriod-version {
+position: absolute;
+right: 178px;
+bottom: 20px;
+}	.download-kindle-version {
+position: absolute;
+right: 28px;
+bottom: 23px;
+}
+.download-ipad-version {
+position: absolute;
+bottom: 18px;
+right: 332px;
+}
+.download-ipad-version a {
+display: block;
+margin-top: 8px;
+}
+.download-kindle-version a {
+background: url(http://www.independent.co.uk/independent.co.uk/images/apple-download.jpg) no-repeat left;
+height: 50px;
+line-height: 50px;
+font-family: arial, sans-serif;
+font-size: 26px;
+color: #fff !important;
+padding-left: 104px;
+display: block;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+text-transform: uppercase;
+margin-left: 8px;
+margin-top: 8px;
+}
+.download-kindle-version a {
+background: url(http://www.independent.co.uk/independent.co.uk/images/kindle-download2.jpg?) no-repeat left;
+padding-left: 0;
+width: auto;
+margin-left: 0;
+}
+.download-kindle-version {
+width: 138px;
+float: left;
+}
+.rightCol img {
+position: relative;
+bottom: 42px;
+left: 77px;
+}
+p {
+font-size: 12px;
+}
+a:hover {
+border: none!important;
+}
+/* Demo Syles */
+#swiper-outer {
+width: 940px;
+background: #f9f9f9;
+margin: 0 auto;
+padding: inherit 10px;
+padding-bottom: 10px;
+}
+.swiper-container {
+width: 940px;
+height: 320px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.swiper-slide {
+color: #fff;
+font-size: 25px;
+text-align: center;
+line-height: 200px;
+}
+.swiper-slide .slider-ipad {
+width: 420px;
+-webkit-box-shadow: 2px 2px 15px 1px rgba(0, 0, 0, 0.2);
+box-shadow: 2px 2px 15px 1px rgba(0, 0, 0, 0.2);
+;
+}
+.swiper-slide .slider-iphone {
+width: 345px;
+-webkit-box-shadow: 2px 2px 15px 1px rgba(0, 0, 0, 0.2);
+box-shadow: 2px 2px 15px 1px rgba(0, 0, 0, 0.2);
+;
+}
+.swiper-scrollbar {
+height: 10px;
+margin: 5px auto;
+width: 860px;
+background: #f4f4f4;
+}
+.swiper-scrollbar-drag {
+background: #d9edec;
+/* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2Q5ZWRlYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjM2Q1ZTEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top, #d9edec 0%, #c3d5e1 100%);
+/* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d9edec), color-stop(100%, #c3d5e1));
+/* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #d9edec 0%, #c3d5e1 100%);
+/* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #d9edec 0%, #c3d5e1 100%);
+/* Opera 11.10+ */
+background: -ms-linear-gradient(top, #d9edec 0%, #c3d5e1 100%);
+/* IE10+ */
+background: linear-gradient(to bottom, #d9edec 0%, #c3d5e1 100%);
+/* W3C */
+filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#d9edec', endColorstr='#c3d5e1', GradientType=0);
+/* IE6-8 */
+}
+#apl-banner {
+position: relative;width:940px;height:267px;background:url('http://www.standard.co.uk/standard.co.uk/assets/images/applanding/apl-banner.png') no-repeat;margin-bottom:10px;padding-top:1px;}
+#apl-banner-txt {
+position: relative;
+width: 380px;
+height: 200px;
+margin: 80px 0 0 30px;
+}
+#apl-banner-txt h2 {
+font-family: arial;
+font-size: 18px;
+}
+#apl-banner-txt p {
+font-family: arial;
+font-size: 13px;
+}
+.apl-banner-buttons {
+display: block;
+padding-top: 5px;
+}
+.apl-banner-buttons img {
+margin-right: 5px;
+}
+#apl-tile-wrap {
+position: relative;
+width: 940px;
+margin-top: 40px;
+}
+.apl-tile {
+position: relative;
+float: left;
+width: 272px;
+border-left: 1px solid #dfdfdf;
+padding: 0 20px;
+height: 570px;
+}
+#apl-tile-wrap .apl-tile:first-child {
+border-left: none;
+}
+.apl-tile-txt {
+height: 460px;
+}
+.apl-tile h3 {
+font-family: 'Times New Roman';
+}
+.apl-tile p {
+font-family: arial;
+font-size: 12px;
+}
+.apl-button {
+display: block;float:right;line-height:36px;background: url('http://www.standard.co.uk/standard.co.uk/assets/images/applanding/button-gradient.png') repeat-x;padding:0 10px;font-size:12px;font-family:Arial;color:#000;text-decoration:none;font-weight:bold;}
+.apl-button: hover {
+background: #888;
+color: #fff;
+padding-bottom: 0px;
+}
+.leftCol .highlight {
+font-family: Arial, sans-serif;
+font-weight: 800;
+text-transform: uppercase;
+color: red;
+font-size: 14px;
+margin-top: 5px;
+display: block;
+}
+.leftCol .statement {
+margin-top: 16px;
+font-size: 16px;
+width: auto !important;
+}
+</style>
+<div style="width:940px;margin:0 auto;">
+<div id="appWrapper">
+<div class="leftCol">
+<h1>The Independent Digital Edition</h1>
+<p><strong class="highlight">NOW FASTER, WITH MORE CONTENT AND OFFLINE READING</strong></p>
+<ul>
+<li><strong>Free</strong>: Breaking news updates in at least 3 editions every weekday and 2 editions on Saturdays and Sundays</li>
+<li>Read the newspaper, page by page, exactly as it appeared in print for &pound;2.99 a week.</li>
+</ul>
+<p class="statement">Available on iPad, iPhone &amp; Kindle Fire</p>
+</div>
+<div class="rightCol">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/image1.png" alt="Indy mobile app" />
+</div>
+<div class="download-ipad-version">
+<a href="https://itunes.apple.com/gb/app/the-independent/id473985355?mt=8" target="_blank"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/AppStoreBadge.png" alt="Download on iTunes" height="54px" /></a>
+</div>
+<div class="download-andriod-version">
+<a href="https://play.google.com/store/apps/details?id=com.freerange360.mpp.indy" target="_blank"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/googleplay.png" alt="Download Andriod version"/></a>
+</div>
+<div class="download-kindle-version">
+<a href="http://www.amazon.com/The-Independent/dp/B000JMJVK4" target="_blank"><img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/kindleBadge.png" alt="Download Kindle version"/></a>
+</div>
+</div>
+<!-- end of appWrapper-->
+<script src="http://www.standard.co.uk/standard.co.uk/assets/js/idangerous.swiper-2.1.min.js"></script>
+<script src="http://www.standard.co.uk/standard.co.uk/assets/js/idangerous.swiper.scrollbar-2.1.js"></script>
+<script>
+var mySwiper = new Swiper('.swiper-container', {
+slidesPerView: 2,
+//Enable Scrollbar
+scrollbar: {
+container: '.swiper-scrollbar',
+hide: false,
+draggable: true
+}
+})
+</script>
+</div>
+<div id="appContainer">
+<!--<div class="app" style="border-left:0;">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/Indy_ipad.jpg" / height="142" alt="Indy I pad">
+<h2>The Independent iPad app</h2>
+<p>Our iPad app reflects the full range of The Independent’s daily coverage, with up-to-date news, opinion and images. Download it and take it with you to read whenever and wherever you want.
+<a href="https://itunes.apple.com/gb/app/the-independent/id473985355?mt=8" target="_blank">* Download now and enjoy 30 days free trial</a>
+</p>
+<ul>
+<li>
+<a href="https://itunes.apple.com/gb/app/the-independent/id473985355?mt=8" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/I_tunes.jpg" alt="I tunes " />
+</a>
+</li>
+<li class="buy">
+<a href="https://itunes.apple.com/gb/app/the-independent/id473985355?mt=8" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/9.99.jpg?ver=79" alt="Buy now £9.99 per month" />
+</a>
+</li>
+</ul>
+</div>-->
+<div class="app" style="border-left:0;">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/iphone.jpg" / height="142" alt="The I Phone">
+<h2>The Independent iPhone app </h2>
+<p>Keep the latest news and opinion to hand with The Independent’s free easy-to-read iPhone app.</p>
+<ul>
+<li>
+<a href="https://itunes.apple.com/gb/app/the-independent-for-iphone/id499587380?mt=8" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/AppStoreBadgeSmall.png" height="43" alt="I tunes " />
+</a>
+</li>
+<li class="free">
+<a href="https://itunes.apple.com/gb/app/the-independent-for-iphone/id499587380?mt=8" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/free.jpg?ver=93" alt="Free" />
+</a>
+</li>
+</ul>
+</div>
+<div class="app">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/android3.png" / height="142" alt="The android phone">
+<h2>The Independent Android app </h2>
+<p>Get The Independent app for free on your Android phone to stay up to date and informed throughout the day with the latest news and opinion.</p>
+<ul>
+<li>
+<a href="https://play.google.com/store/apps/details?id=com.freerange360.mpp.indy" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/GooglePlayBadge.png" height="43" alt="market " />
+</a>
+</li>
+<li class="free">
+<a href="https://play.google.com/store/apps/details?id=com.freerange360.mpp.indy" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/free.jpg?ver=93" alt="Free" />
+</a>
+</li>
+</ul>
+</div>
+<div class="border"></div>
+<div class="app" style="border-left:0;">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/blackberry.jpg" / height="142" alt="The blackberry">
+<h2>The Independent BlackBerry app </h2>
+<p>We have apps available for BlackBerry and BlackBerry 10. Download for free to keep in touch with the latest news and opinion throughout the day.</p>
+<ul>
+<li>
+<a href="http://appworld.blackberry.com/webstore/content/80999/?lang=en" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/get_blackberry.jpg" height="43" alt="Get the blackberry " />
+</a>
+</li>
+<li class="free">
+<a href="http://appworld.blackberry.com/webstore/content/80999/?lang=en" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/free.jpg?ver=93" alt="Free" />
+</a>
+</li>
+</ul>
+<div id="blackberry">
+<ul>
+<li><a href="http://appworld.blackberry.com/webstore/content/80999/?lang=en" target="_blank">Blackberry app</a>
+</li>
+<li><a href="http://appworld.blackberry.com/webstore/content/21901063/?lang=en&countrycode=GB" target="_blank"> Blackberry 10 app</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="app">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/e_reader.jpg?ver=2" height="142" alt="e reader Image">
+<h2>The Independent on e-reader </h2>
+<p>Take advantage of a 14 day free trial of The Independent on your Kindle or Nook. Download The Independent and take it with you to read whenever and wherever you want.
+<br> <a href="http://www.amazon.co.uk/gp/product/B000JMJVK4/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000JMJVK4&linkCode=as2&tag=independen057-21" target="_blank">* Download now and enjoy 14 days free trial</a> </p>
+<ul>
+<li class="amazon">
+<a href="http://www.amazon.co.uk/gp/product/B000JMJVK4/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000JMJVK4&linkCode=as2&tag=independen057-21" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/amazon.jpg" height="43" alt="Amazon Image " />
+</a>
+</li>
+<li class="buy">
+<a href="http://www.amazon.co.uk/gp/product/B000JMJVK4/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B000JMJVK4&linkCode=as2&tag=independen057-21" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/9.99.jpg?ver=93" alt="Buy now £9.99per month" />
+</a>
+</li>
+</ul>
+<ul>
+<li class="nook">
+<a href="http://uk.nook.com/newsstand/the-independent-and-the-independent-on-sunday-by-independent-print-ltd/2940046811643
+" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/nook2.png" height="43" alt="Nook Image " />
+</a>
+</li>
+<li>
+<a href="http://uk.nook.com/newsstand/the-independent-and-the-independent-on-sunday-by-independent-print-ltd/2940046811643" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/9.99.jpg?ver=93" alt="Buy now £9.99per month" />
+</a>
+</li>
+</ul>
+</div>
+<div class="border"></div>
+<div class="app" style="border-left:0;">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/I_ipad.jpg" / height="142" alt="Indy I pad">
+<h2><span class="i">i</span> iPad app</h2>
+<p>Get your essential daily newspaper on your iPad. A digestible, portable and indispensable read, with interactive crosswords and back copies available.</p>
+<ul>
+<li>
+<a href="https://itunes.apple.com/gb/app/the-i/id401179271?mt=8" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/AppStoreBadgeSmall.png" alt="I tunes " />
+</a>
+</li>
+<li class="buy">
+<a href="https://itunes.apple.com/gb/app/the-i/id401179271?mt=8" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/4.99.jpg?ver=93" alt="Buy now £4.99 per month" />
+</a>
+</li>
+</ul>
+</div>
+<div class="app">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/kindle2.jpg" / height="142" alt="The Kindle fire">
+<h2> <span class="i">i</span> Kindle Fire </h2>
+<p>Take advantage of a 14 day free trial of i on your Kindle Fire. Download i now to ensure you never miss out on your essential daily update.
+<br> <a href="http://www.amazon.co.uk/gp/product/B00BTANO3A/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00BTANO3A&linkCode=as2&tag=independen057-21" target="_blank">* Download now and enjoy 14 days free trial</a>
+</p>
+<ul>
+<li class="amazon">
+<a href="http://www.amazon.co.uk/gp/product/B00BTANO3A/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00BTANO3A&linkCode=as2&tag=independen057-21" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/KindleBadgeSmall.png" height="38" alt="amazon " />
+</a>
+</li>
+<li class="buy">
+<a href="http://www.amazon.co.uk/gp/product/B00BTANO3A/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00BTANO3A&linkCode=as2&tag=independen057-21" target="_blank">
+<img src="http://www.independent.co.uk/independent.co.uk/assets/images/Indy-mob-apps/4.99.jpg?ver=93" alt="Buy now £4.99 per month" />
+</a>
+</li>
+</ul>
+</div>
+<!-- end of appContainer -->
+<script type='text/javascript'>var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '1l3v95Z']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>
+</div>
+</div>
+</div>
+</div>
+<div id="bottom">
+<div class="widget filmstrip imagetext widget-editable viziwyg-section-1023 inpage-widget-5054673 greyRulerBottom greyRuler "
+>
+<a class="prev browse left"></a>
+<div id="filmstrip-5054673" class="scrollable h148"
+style="margin-left: 22.5px; margin-right: 22.5px; width: 815.0px;">
+<div class="items">
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/middle-east/how-syria-lostits-humanity-why-has-the-civil-war-been-marked-out-by-almost-medieval-acts-of-savagery-10039824.html">
+<img alt="How Syria lost its humanity: Why has the civil war been marked out by almost medieval acts of savagery?" src="http://www.independent.co.uk/incoming/article10039751.ece/alternates/w148/pg-35-kim-syria-1-watson-tstar.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039751-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-1"/>
+</a>
+<div class="" id="div-caption-1">
+<h2 class="fs_title">How Syria lost its humanity</h2> <div class="fs_body">Why has the civil war has been marked out by almost medieval acts of savagery?</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/campaigns/homeless-veterans/homeless-veterans-appeal-building-on-hope-10039786.html">
+<img alt="Homeless Veterans appeal: Building on hope" src="http://www.independent.co.uk/incoming/article10039643.ece/alternates/w148/pg-25-new-Belvedere-house-1-copus-v2.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039643-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-2"/>
+</a>
+<div class="" id="div-caption-2">
+<h2 class="fs_title">Homeless Veterans appeal: Building on hope</h2> <div class="fs_body">New Belvedere House has been a place of shelter for veterans in crisis, providing them with a home when they would otherwise be on the streets</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/europe/dresden-armageddon-70-years-on-the-shadow-of-extremism-hangs-over-the-birthplace-of-the-pegida--a-city-once-devastated-by-allied-bombing-during-wwii-10039671.html">
+<img alt="Dresden Armageddon 70 years on: the shadow of extremism hangs over the birthplace of the Pegida - a city once devastated by Allied bombing during WWII" src="http://www.independent.co.uk/incoming/article10039679.ece/alternates/w148/pg-30-dresden-1-ap-v2.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039679-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-3"/>
+</a>
+<div class="" id="div-caption-3">
+<h2 class="fs_title">Dresden Armageddon 70 years on</h2> <div class="fs_body">The shadow of extremism hangs over a city once devastated by Allied bombing during WWII</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/environment/crocodiles-just-wanna-have-fun-scientists-observe-deadly-reptiles-at-play-10039757.html">
+<img alt="Crocodiles just wanna have fun: Scientists observe deadly reptiles at play" src="http://www.independent.co.uk/incoming/article10039766.ece/alternates/w148/pg-22-crocs-rex-v2.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039766-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-4"/>
+</a>
+<div class="" id="div-caption-4">
+<h2 class="fs_title">Crocodiles just wanna have fun</h2> <div class="fs_body">Scientists observe deadly reptiles at play</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/americas/cuba-edges-nearer-broadband-revolution-as-netflix-launches-its-streaming-service-10039831.html">
+<img alt="Cuba edges nearer broadband revolution as Netflix launches its streaming service" src="http://www.independent.co.uk/incoming/article10039782.ece/alternates/w148/pg-40-cuba-1-alamy.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039782-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-5"/>
+</a>
+<div class="" id="div-caption-5">
+<h2 class="fs_title">Cuba edges nearer broadband revolution</h2> <div class="fs_body">Only 5 per cent of Cubans have access to the internet in their tightly controlled Caribbean nation. Will intervention by the US, and the launch of Netflix, start a broadband revolution?</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/tv/features/speaking-in-game-of-thrones-how-one-man-created-the-dothraki-language-from-scratch-10039904.html">
+<img alt="Game of Thrones: How one man created the Dothraki language from scratch" src="http://www.independent.co.uk/incoming/article10039774.ece/alternates/w148/pg-38-dothraki-1-hbo.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039774-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-6"/>
+</a>
+<div class="" id="div-caption-6">
+<h2 class="fs_title">Game of Thrones: Creating Dothraki</h2> <div class="fs_body">David J Peterson created the Dothraki language from scratch for TV&#039;s &#039;Game of Thrones&#039;. Anna Hart learns a few &#039;conlang&#039; chat-up lines and explores the mad world of made-up languages</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/food-and-drink/features/do-you-have-a-sweet-tooth-science-museums-new-exhibition-reveals-its-all-your-mums-fault-10039905.html">
+<img alt="Do you have a sweet tooth? Science Museum's new exhibition reveals it's all your mum's fault..." src="http://www.independent.co.uk/incoming/article10039773.ece/alternates/w148/pg-38-cravings-sci-museum.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039773-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-7"/>
+</a>
+<div class="" id="div-caption-7">
+<h2 class="fs_title">Sweet tooth? It&#039;s all your mum&#039;s fault...</h2> <div class="fs_body">A new exhibition at London&#039;s Science Museum reveals how we learn to yearn in the womb</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/arts-entertainment/art/features/19thcentury-sculpture-propaganda-for-the-british-empire-or-middle-class-frippery-10039836.html">
+<img alt="19th-century sculpture: Propaganda for the British Empire, or middle class frippery?" src="http://www.independent.co.uk/incoming/article10039922.ece/alternates/w148/pg-44-sculptures-1-hammond.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039922-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-8"/>
+</a>
+<div class="" id="div-caption-8">
+<h2 class="fs_title">Art: 19th-century sculpture</h2> <div class="fs_body">Propaganda for the British Empire, or middle class frippery? Neither, says Peter York, 19th-century sculpture had scale and virtuosity, as two new exhibitions show</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/education/schools/victoria-park-primary-academy-uses-initiatives-such-as-a-video-diary-shed-to-increase-creativity-10039835.html">
+<img alt="Victoria Park Primary Academy uses initiatives such as a video diary shed to increase creativity" src="http://www.independent.co.uk/incoming/article10039918.ece/alternates/w148/pg-42-vpp-1-fox.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039918-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-9"/>
+</a>
+<div class="" id="div-caption-9">
+<h2 class="fs_title">Education: Victoria Park Primary Academy</h2> <div class="fs_body">The school in West Midlands is now one of the top in the country thanks to initiatives such as a video diary shed to increase creativity</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/extras/indybest/house-garden/valentines-day-2015-11-best-gifts-for-her-under-80-10039628.html">
+<img alt="Valentine’s Day 2015: 11 best gifts for her under £80" src="http://www.independent.co.uk/incoming/article10039755.ece/alternates/w148/Elsarosegold.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10039755-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-10"/>
+</a>
+<div class="" id="div-caption-10">
+<h2 class="fs_title">Valentine’s Day 2015: 11 best gifts for her under £80</h2> <div class="fs_body">Get inspiration for 14 February with our pick of the pressies</div> </div>
+</div>
+</div>
+<div class="page h148" style="width: 815.0px;">
+<div class="item w148">
+<a href="http://www.independent.co.uk/sport/cricket/cricket-world-cup-2015-prepare-for-a-batting-bonanza-10039656.html">
+<img alt="Cricket World Cup 2015: Prepare for a batting bonanza" src="http://www.independent.co.uk/incoming/article10040021.ece/alternates/w148/Cricket.JPG" width="148"
+height="222"
+class=" ip-ic ip-i-10040021-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-11"/>
+</a>
+<div class="" id="div-caption-11">
+<h2 class="fs_title">Prepare for a batting bonanza</h2> <div class="fs_body">Amid calls to change the design of bats and further tinkering with the rules, the 11th Cricket World Cup could be a nightmare for bowlers</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/war-with-isis-syrias-president-assad-is-overplaying-a-weak-hand--he-needs-the-west-to-keep-militants-from-damascus-10037135.html">
+<img alt="War with Isis: Syria's President Assad is overplaying a weak hand – he needs the West to keep militants from Damascus" src="http://www.independent.co.uk/incoming/article10037140.ece/alternates/w148/pg-26-assad-1-ap-v2.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10037140-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-12"/>
+</a>
+<div class="" id="div-caption-12">
+<h2 class="fs_title">Assad is overplaying a weak hand – he needs the West to keep Isis from Damascus</h2> <div class="fs_body">It is by no means clear that the US is going to abandon its previous policy of ousting the Syrian President, says Patrick Cockburn</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/news/world/europe/stripped-bare-dominique-strausskahn-forced-to-reveal-his-sexual-proclivities-10037081.html">
+<img alt="Stripped bare: Dominique Strauss-Kahn forced to reveal his sexual proclivities" src="http://www.independent.co.uk/incoming/article10037104.ece/alternates/w148/web-dsk-1-getty.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10037104-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-13"/>
+</a>
+<div class="" id="div-caption-13">
+<h2 class="fs_title">Stripped bare: Strauss-Kahn forced to reveal his sexual proclivities in court</h2> <div class="fs_body">Former IMF chief answers charges of pimping, admits attending orgies, and denies ‘brutal’ sex with a prostitute</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-revolution-gathers-pace--but-at-what-cost-to-jobs-10037115.html">
+<img alt="Robot revolution gathers pace – but at what cost to jobs?" src="http://www.independent.co.uk/incoming/article10037132.ece/alternates/w148/v3pg-20-robots-1-afp-getty.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10037132-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-14"/>
+</a>
+<div class="" id="div-caption-14">
+<h2 class="fs_title">Robot revolution gathers pace – but at what cost to jobs?</h2> <div class="fs_body">Report says automation use will double over next 10 years</div> </div>
+</div>
+<div class="item w148">
+<a href="http://www.independent.co.uk/voices/campaigns/homeless-veterans/homeless-veterans-appeal-how-youve-changed-our-veterans-lives-10036921.html">
+<img alt="Homeless Veterans appeal: how you've changed our veterans' lives" src="http://www.independent.co.uk/incoming/article10037353.ece/alternates/w148/web-vet-appeal.jpg" width="148"
+height="222"
+class=" ip-ic ip-i-10037353-ALTERNATES-w148 ip-id-148-222 ip-s-507 "
+rel="div-caption-15"/>
+</a>
+<div class="" id="div-caption-15">
+<h2 class="fs_title">Homeless Veterans appeal</h2> <div class="fs_body">How you&#039;ve changed the lives of our ex-servicemen and women</div> </div>
+</div>
+</div>
+</div>
+</div>
+<a class="next browse right"></a>
+<br class="c"/>
+<script type="text/javascript">
+$(document).ready(function() {
+// initialize scrollable together with the navigator plugin
+$("#filmstrip-5054673").scrollable().navigator();
+$("#filmstrip-5054673 .page img").captify();
+});
+</script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8192089" >
+<script type="text/javascript">
+$(function() {
+$('.tabPane li a').bind('click', function (e) {
+var s=s_gi(s_account), tabId, tab,
+type = $('meta[property=og:type]').attr('content') , ctrObj = $(this).closest('.tabPane');
+if( typeof type === 'undefined' ) {
+type = 'homepage';
+}
+tabId = "tabs-1-" + (ctrObj.index() + 1);
+tab = $('#' + tabId).find('span').html();
+s.linkTrackVars='prop30,prop31,events'; s.linkTrackEvents='event38';
+s.prop30=tab + ' - ' + s.channel + ' ' + type + ' - position ' + ($(this).closest('li').index() + 1);
+s.prop31=tab + ' - ' + s.channel + ' ' + type + ' - ' + $(this).html().replace(/'/g, "\\'");
+s.events='event38';
+s.tl(this,'o', tab + ' Tab - ' + location.hostname);
+s.prop30 = s.prop31 = s.events = '';
+});
+// Custom link tracking for IV promo widget, bind only if we find node in the DOM.
+$('.ivPromo-miniCarousel .voicescarousel').bind('click', function(e) {
+var s=s_gi(s_account), type = $('meta[property=og:type]').attr('content');
+if( typeof type === 'undefined' ) {
+type = 'homepage';
+}
+s.linkTrackVars='prop30,prop31,events'; s.linkTrackEvents='event38';
+s.prop30='IV promo carousel - ' + s.channel + ' ' + type + ' - position ' + ($(this).index() + 1);
+s.prop31='IV promo carousel - ' + s.channel + ' ' + type + ' - ' + $(this).find('.heading a').html().replace(/'/g, "\\'");
+s.events='event38';
+s.tl(this,'o', 'IV promo - ' + location.hostname);
+s.prop30 = s.prop31 = s.events = ''; });
+$('.ivPromo-articleList .ivPromo-article').bind('click', function(e) {
+var s=s_gi(s_account), type = $('meta[property=og:type]').attr('content');
+if( typeof type === 'undefined' ) {
+type = 'homepage';
+}
+s.linkTrackVars='prop30,prop31,events'; s.linkTrackEvents='event38';
+s.prop30='IV promo list - ' + s.channel + ' ' + type + ' - position ' + ($(this).index() + 1);
+s.prop31='IV promo list - ' + s.channel + ' ' + type + ' - ' + $(this).find('.title').html().replace(/'/g, "\\'");
+s.events='event38';
+s.tl(this,'o', 'IV promo - ' + location.hostname);
+s.prop30 = s.prop31 = s.events = ''; });
+$('#galleriaLoadId-7804719').bind('click', function(e) {
+var s = s_gi(s_account);
+s.event = 'event8';
+});
+$('.esi-gallery').click(function(e) {
+//console.log('esigallery');
+if ($(e.target).hasClass('esi-gallery-rightarrow')) {
+var s=s_gi(s_account);
+s.linkTrackVars='prop28';
+s.prop28=$('.esi-gallery').attr('data-galleryid');//location.href.substr(location.href.lastIndexOf('/') + 1);
+//console.log('click28 '+location.href.substr(location.href.lastIndexOf('/') + 1));
+}
+});
+});
+</script>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8564865" >
+<script type="text/javascript">
+$(function() {
+$('#page.article .column-2 .latestInSection.customlink .news').bind('click', function (e) {
+var s=s_gi(s_account),
+position = 'Top stories, position ' + ($(this).index() + 1);
+s.linkTrackVars = 'prop7'; s.prop7 = position;
+s.tl(this,'o', position);
+s.prop7 = '';
+});
+$('#page.article .column-2 .latestInSection.customlink234 .news').bind('click', function (e) {
+var s=s_gi(s_account),
+position = 'Top stories, position ' + ($(this).index() + 2);
+s.linkTrackVars = 'prop7'; s.prop7 = position;
+s.tl(this,'o', position);
+s.prop7 = '';
+});
+$('#page.article .column-2 .latestInSection.customlinkmore .news').bind('click', function (e) {
+var s=s_gi(s_account),
+position = 'More stories, position ' + ($(this).index() + 1);
+s.linkTrackVars = 'prop7'; s.prop7 = position;
+s.tl(this,'o', position);
+s.prop7 = '';
+});
+});
+</script>
+</div>
+</div>
+<div id="footer">
+<div class="x170x515x255 redesign-footer"
+>
+<div class="column-1">
+</div>
+<div class="column-2">
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054706"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/legal-terms-amp-policies-759573.html" >
+<span class="TermsText">Terms</span> <span class="&Text">&amp;</span> <span class="PoliciesText">Policies</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/privacy-policy-759574.html" >
+<span class="PrivacyText">Privacy</span> <span class="PolicyText">Policy</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/cookie-policy-7785164.html " >
+<span class="CookieText">Cookie</span> <span class="policyText">policy</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html" >
+<span class="CodeText">Code</span> <span class="ofText">of</span> <span class="ConductText">Conduct</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/code-of-conduct-and-complaints-6280644.html" >
+<span class="ComplaintText">Complaint</span> <span class="formText">form</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/newsLetterPreferences/" >
+<span class="EmailText">Email</span> <span class="newslettersText">newsletters</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/list-of-rss-feeds-775086.html" >
+RSS </a>
+</li>
+<li class="-nav ">
+<a href="http://live.independent.co.uk/#AllEvents" >
+<span class="LiveText">Live</span> <span class="BlogsText">Blogs</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/incoming/about-i100couk-9438671.html" >
+<span class="AboutText">About</span> <span class="i100Text">i100</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054705"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/contact-us-759589.html" >
+<span class="ContactText">Contact</span> <span class="UsText">Us</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/subscriptions/" >
+Subscriptions </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/marketing/apps/" target="_blank" >
+Apps </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/work-for-inm-759587.html" >
+<span class="WorkText">Work</span> <span class="forText">for</span> <span class="usText">us</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/" target="_blank" >
+<span class="EveningText">Evening</span> <span class="StandardText">Standard</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.homesandproperty.co.uk/" target="_blank" >
+<span class="HomesText">Homes</span> <span class="&Text">&amp;</span> <span class="PropertyText">Property</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://ijobs.independent.co.uk/" target="_blank" >
+iJobs </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/video/" target="_blank" >
+<span class="NewsText">News</span> <span class="videoText">video</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/video/sports/" target="_blank" >
+<span class="SportText">Sport</span> <span class="videoText">video</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054710"
+>
+<ul class="main-level">
+<li class="-nav ">
+<a href="http://www.independent.co.uk/advertising-guide/" >
+<span class="AdvertisingText">Advertising</span> <span class="GuideText">Guide</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.independent.co.uk/service/independent-syndication-915183.html" >
+Syndication </a>
+</li>
+<li class="-nav ">
+<a href="http://en.novayagazeta.ru/" target="_blank" >
+<span class="NovayaText">Novaya</span> <span class="GazetaText">Gazeta</span> <span class="(English)Text">(English)</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/businessconnections" target="_blank" >
+<span class="ESText">ES</span> <span class="BusinessText">Business</span> <span class="ConnectionsText">Connections</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.standard.co.uk/lifestyle/esrentals/" target="_blank" >
+<span class="ESText">ES</span> <span class="RentalsText">Rentals</span> </a>
+</li>
+<li class="-nav ">
+<a href="http://www.londonlive.co.uk" target="_blank" >
+<span class="LondonText">London</span> <span class="LiveText">Live</span> </a>
+</li>
+</ul>
+</div>
+<div class="widget code html widget-editable viziwyg-section-1023 inpage-widget-6138554 copyright" >
+<strong>&copy; independent.co.uk</strong>
+</div>
+</div>
+<div class="column-3">
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8925767 footer-eagle" >
+<a href="/" title="The Independent">
+<img src="/independent.co.uk/assets/images/redesign/masthead/black-eagle-square.png" alt="The Independent" title="The Independent" width="80px" />
+</a>
+<script>
+/*
+* Partner Plugin: Gigya v3 (BEGIN)
+*/
+var gigya_omniture_conf={linkName:"Gigya Action",eventMap:[{gigEvent:"login",omtrEvents:["event9"],mapVars:["eVar47=user.loginProvider","eVar16=getAge()","eVar16=getGender()","eVar48=getiRank()"]},{gigEvent:"sendDone",omtrEvents:["event10"],mapVars:["eVar49=providers","products"]},{gigEvent:"commentSubmitted",omtrEvents:["event12"],mapVars:["eVar49=getCommentProviders()","products"]},{gigEvent:"reactionClicked",omtrEvents:["event11"],mapVars:["eVar50=reaction.ID","products"]}],getCommentProviders:function(e){var t=e["providerPostIDs"];if(t&&typeof t=="object"){var n="",r;for(r in t)n+=(n?",":"")+r;return n}return""},getAge:function(e){var t=e.user["age"];if(typeof t=="number"&&t>0){return t}return"?"},getGender:function(e){var t=e.user["gender"];if(typeof t=="string"&&t.length>0){return t}return"?"},getiRank:function(e){if(typeof e.user["iRank"]=="string"){var t=parseFloat(e.user["iRank"]).toFixed(0);if(t>=1e-4)return t}return"?"}}
+/*
+* Partner Plugin: Gigya v3 (END)
+*/
+</script>
+<script>
+$(function() {
+$('#page #navigation .navPrimary a').bind('click', function(e) {
+var s = s_gi(s_account),
+navtrackurl = ($(this).attr('href'));
+s.linkTrackVars = 'prop6';
+s.prop6 = navtrackurl;
+s.tl(this, 'o', navtrackurl);
+s.prop6 = '';
+});
+});
+</script>
+</div>
+<div class="widget search simpleForm widget-editable viziwyg-section-1023 inpage-widget-5054704 superSearchBox"
+>
+<script type="text/javascript" src="http://www.independent.co.uk/resources/js/searchFormHandler.js"></script>
+<div class="simpleSearch" id="simpleSearch-5054704">
+<form action="http://www.independent.co.uk/search/simple.do" method="get"
+onsubmit="return validateSimpleSearchForm(this, 'emptySearchExpressionError-5054704');">
+<fieldset>
+<input type="hidden" name="destinationSectionUniqueName" value="search" />
+<input type="hidden" name="publicationName" value="ind" />
+<input type="hidden" name="sortString" value="publishdate" />
+<input type="hidden" name="sortOrder" value="desc" />
+<input type="hidden" name="sectionId" value="506" />
+<input type="hidden" name="articleTypes" value="news" />
+<input type="hidden" name="pageNumber" value="1" />
+<input type="hidden" name="pageLength" value="10" />
+<input type="hidden" name="startDay" value="1" />
+<input type="hidden" name="startMonth" value="1" />
+<input type="hidden" name="startYear" value="2010" />
+<input type="hidden" name="useSectionFilter" value="true" />
+<input type="hidden" name="useHideArticle" value="true" />
+<p class="error" id="emptySearchExpressionError-5054704" style="display:none;">
+Please provide search keyword(s)
+</p>
+<input type="text" name="searchString" value="" class="field" />
+<input type="submit" value="Go" class="button" title="Click here to search" />
+</fieldset>
+</form>
+</div>
+<script type="text/javascript">
+$(function() {
+$("#simpleSearch-5054704 .field").autocomplete({
+source: ajaxCall ,
+delay: 2000.00,
+close: function(event, ui) {
+$("#simpleSearch-5054704 .field").autocomplete("option", "delay", 500.00);
+},
+select: function(event, ui) {
+var articleId = ui.item.id;
+openLink('http://www.independent.co.uk/eceRedirect?articleId=' + articleId, '_self');
+}
+});
+});
+function ajaxCall(request, response) {
+var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?~_";
+var term = $.trim(request.term.toLowerCase());
+var wordCount = term.split(" ").length;
+if (term.length > 0 && iChars.indexOf(term.charAt(0)) == -1) {
+var param = "(" + term + "*) publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+else{
+$("#simpleSearch-5054704 .field").autocomplete("close");
+}
+if (wordCount > 1 && responseCount == 0) {
+param = "(" + term + ") publication:(ind) state:(published) contenttype:(news)";
+$.ajax({
+url: "/ind/ewf-servlet/search/",
+data: {q:param , rows:5, wt:'json'},
+cache: true,
+dataType: 'json',
+success: function(json) {
+var responseCount = json.response.docs.length;
+if (json != null && responseCount > 0) {
+response($.map(json.response.docs, function(article) {
+return {label: article.title, value: article.title, id: article.objectid}
+}));
+}
+}
+})
+}
+}
+})
+}
+else if (term.length > 0 && iChars.indexOf(term.charAt(0)) != -1) {
+$("#simpleSearch-5054704 .field").autocomplete("close");
+alert("Search word should not start with !@#$%^&*()+=-[]\\\';,./{}|\":<>?~_");
+}
+}
+</script>
+</div>
+<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054702 searchLinks" >
+<ul >
+<li>
+<a href="http://www.independent.co.uk/advancedsearch/" >
+<span>Advanced search </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/article-archive/" >
+<span>Article archive </span>
+</a>
+</li>
+<li>
+<a href="http://www.independent.co.uk/topics/" >
+<span>Topics </span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2011 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+var d = new Image(1, 1);
+d.onerror = d.onload = function () {
+d.onerror = d.onload = null;
+};
+d.src = ["//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+<img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-805619h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- Quantcast Tag -->
+<!--<script type="text/javascript">
+var _qevents = _qevents || [];
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+//Quantcast labels
+var quantcastLabels = "Independent.";
+quantcastLabels += (s.hier1.replace(/,/g, ".")) ? s.hier1.replace(/,/g, ".") : "Home";
+_qevents.push({
+qacct:"p-jAJ_WUYAnDzxn",
+labels: quantcastLabels
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-jAJ_WUYAnDzxn.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>-->
+<!-- End Quantcast tag -->
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8976968" >
+<div id="inskin8x8">
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.display("inskin8x8"); });
+</script>
+</div>
+</div>
+<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-8755159" >
+<script type="text/javascript">
+if( $(".esi-gallery").length > 0 ) {
+require(["/independent.co.uk/assets/js/modules/esi.gallery.v1.js"], function(ESIGallery) {
+var galleryObj = new ESIGallery();
+galleryObj.load();
+});
+}
+if( $(".second-gallery").length > 0 ) {
+require(["/independent.co.uk/assets/js/modules/second.gallery.v1.js"], function(SECONDGallery) {
+var galleryObj = new SECONDGallery();
+galleryObj.load();
+});
+}
+$('.second-gallery').click(function(e) {
+if ($(e.target).hasClass('second-gallery-rightarrow')) {
+s_account="indepdev";
+var s=s_gi(s_account);
+s.linkTrackVars='prop28';
+s.prop28='secondGallery '+location.href.substr(location.href.lastIndexOf('/') + 1);
+console.log('secondGallery '+location.href.substr(location.href.lastIndexOf('/') + 1));
+}
+});
+</script>
+<script>
+$( document ).ready(function() {
+setTimeout(
+function() {
+$('.senderName, .commentImage a').click(function(e) {
+e.preventDefault();
+console.log('prevented')
+});
+}, 5000);
+});
+</script>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

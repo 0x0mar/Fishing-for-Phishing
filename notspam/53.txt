@@ -1,0 +1,1448 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<title>Watch Series Online for free, Full episodes - Watch Series</title>
+	<meta name="description" content="watch series online,watch tv shows online, watch full episodes,watch series, watch series free, series online" />
+	<meta name="keywords" content="watch series online,watch tv shows online, watch full episodes,watch series, watch series free, series online" />
+	<link rel="shortcut icon" href="/templates/default/images/favicon.ico" />
+	
+	<link rel="shortcut icon" href="/favicon.ico" >
+	<script type="text/javascript" src="/public/js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/public/js/infinite-rotator.js"></script>
+	<script type="text/javascript" src="/public/js/jquery-ui-1.10.2.custom.min.js"></script>
+	<link type="text/css" rel="stylesheet" href="/templates/default/css/groundwork.css">
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-43726522-1']);
+	  _gaq.push(['_setAllowLinker', true]);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	<script type="text/javascript" src="http://178.17.164.58/script/ad.js"></script>
+	<link rel="stylesheet" type="text/css" href="/public/bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/bootstrap-modal.css" />
+	<link rel="stylesheet" type="text/css" href="/public/css/themes-1-9-1/redmond/jquery-ui.css" />
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	
+	<link type="text/css" rel="stylesheet" href="/templates/default/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="/templates/default/css/style.css" />
+	<meta name="google-site-verification" content="rQ2PUnrOUB5-QTDkfUL2Sv3zfUeRfqQj2o2ckgGnIFw" />
+	<meta name="google-site-verification" content="OoJyrWe0HjFbq4lEWz-0oEj6g7Fisne1s2rUbwl8P20" />
+	<meta name="google-site-verification" content="h94KnmI5J9P9ECGTwJIMNmZPi6fqHKvtnCDr9vTNK-k" />
+
+</head>
+<body>
+<div id="top-band">
+	<div id="top-band-content">
+			<div style="float:left;">	
+				<p style="float:left;"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FWatchSerieseu%2F210686605636231&amp;width=100&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=114243188669351" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px; margin-top:5px;" allowTransparency="true"></iframe></p>
+				<p style="float:left; margin-top:5px;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://watchseries.to">Tweet</a></p>
+			</div>
+						<ul class="sign_in">	
+				<li>
+					<a id="login_link" class="login" href="/login" ></a> 
+				</li>
+				<li>
+					<a id="signup_link" class="join" href="/register"></a>
+				</li>
+				<li>
+					<a id="glid_button" class="glc-login-button fright" title="Login with Google" href="/login-with-provider/google"></a>
+				</li>
+				<li>
+					<a href="/login-with-provider/twitter" class="twc-login-button fright" title="Login with Twitter" ></a>
+				</li>
+				<li>
+					<a class="fbc-login-button fright" title="Login with Facebook" href="/login-with-provider/facebook"></a>
+				</li>
+			</ul>
+			</div>
+</div>
+	<!-- <a name="top"></a> -->
+<div class="centeredtop">
+	<div id="header" >
+		<div id="header-1">
+			<a href="/" style="text-decoration:none;">
+				<img onmouseout="this.src='/templates/default/images/logo.png';" onmouseover="this.src='/templates/default/images/logo-hover.png';" src="/templates/default/images/logo.png"  />
+			</a>
+		</div>
+		<script type="text/javascript">
+
+		function goSearch(){
+			if ($('#s').val())
+				window.location = "/search/"+escape($('#s').val());
+
+			return false
+		}
+
+		</script>
+		<div id="header-3">
+			<div class="search-box rounded-corners">
+				<form action="" class="search rounded-corners" id="site-search" method="get" onSubmit="return goSearch();">
+					<div class="input-div">
+						<input id="s" name="s" type="text" value="Search..." onfocus="this.value=''" />
+					</div>
+					<div class="submit-button">
+						<input class="submit-button" id="site-search-submit" name="commit" type="button" value="Search" onClick="goSearch()" />
+					</div>
+				</form>
+			</div>
+		</div> 
+		<div id="header-2">
+			<a href="http://www.watchanimes.me" target="_blank">
+				<img onmouseout="this.src='/templates/default/images/watchanime.png';" onmouseover="this.src='/templates/default/images/watchanime-hover.png';" src="/templates/default/images/watchanime.png"/></a>
+		</div> 
+	</div>
+	<div class="clear">&nbsp;</div>
+	<div id="menu">
+		<div id="menu-top">
+			<ul id="topnav">
+				<li><a href="/">Home</a></li>
+				<li><a href="/series">Series</a></li>
+				<li><a href="/latest">Newest Episodes Added</a></li>
+				<li><a href="/new">This Week's Popular Episodes</a></li>
+				<li><a href="/tvschedule/-1">TV Schedule</a></li>
+				<li><a href="/genres/drama" >TV Shows Genres</a>
+				 <span>
+						<a href="/genres/action" class="sr-header" title="Watch Action TV Shows Online">Action</a>|
+						<a href="/genres/adventure" class="sr-header" title="Watch Adventure TV Shows Online">Adventure</a>|
+						<a href="/genres/comedy" class="sr-header" title="Watch Comedy TV Shows Online">Comedy</a>|
+						<a href="/genres/drama" class="sr-header" title="Watch Drama TV Shows Online">Drama</a>|
+						<a href="/genres/thriller" class="sr-header" title="Watch Thriller TV Shows Online">Thriller</a>|
+						<a href="/genres/family" class="sr-header" title="Watch Family TV Shows Online">Family</a>|
+						<a href="/genres/fantasy" class="sr-header" title="Watch Crime TV Shows Online">Fantasy</a>|
+						<a href="/genres/documentary" class="sr-header" title="Watch Documentary TV Shows Online">Documentary</a>|
+						<a href="/genres/animation" class="sr-header" title="Watch Cooking TV Shows Online">Cartoons</a>|
+						<a href="/genres/reality" class="sr-header" title="Watch Lifestyle TV Shows Online">Reality-TV</a>|
+						<a href="/genres/sport" class="sr-header" title="Watch Cartoons TV Shows Online">Sport</a>|
+						<a href="/genres/sci-fi" class="sr-header" title="Watch Reality TV Shows Online">Sci-fi</a>|
+					 </span>
+				</li>
+				<li><a href="/contact" >Support</a>
+					<span>
+						<a href="/contact" class="sr-header" title="Contact US">Contact Us</a>|
+						<a href="/tips" class="sr-header" title="How To Watch">How To Watch</a>|
+						<a href="/dmca" class="sr-header" title="Link Removal Policy">DMCA</a>
+					</span>
+				</li>
+				<li style="float:right;"><a href="/tips" style="color:red;">How to Watch</a></li>
+				<li style="float:right;"><a href="/news" >News</a></li>
+			</ul>
+		</div>
+
+	</div>
+	<div class="clear">&nbsp;</div>
+</div>
+<div class="centeres" style="background:#55ABCA">
+<div id="rotating-item-wrapper" >
+	<div class="notify">
+		<p class="rotating-item"><span style="color:red">Watch-tv-series.to</span> is our new domain. Please update your bookmarks!!!</p>
+	</div>
+</div>
+	
+				<div class="home-page">
+	<div class="home-page-left">
+		<div class="block-left-home">
+		<div class="block-left-home-title"><i class="fa fa-bar-chart-o"></i> LATEST POPULAR EPISODES</div>	
+			<div class="block-left-home-inside" style="height:252px; text-align:center;">
+				
+
+
+   <iframe src="http://direktads.com/script/ad.php?zone_id=118" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+
+			</div>
+							<div class="block-left-home-inside" title="Hidden between the lines of the history books i...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/reign" title="watch online Reign" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/11/11293-reign.jpg" alt="Watch Series - Reign" title="Watch Series - Reign" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/reign_s2_e14.html" title="watch online Reign"  target="_blank"><b>Reign</b> <br/>
+							<span class="p11">Season 2, Episode 14 - The End of Mourning</span></a><br/>
+							Hidden between the lines of the history books is ...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;Regular Show&quot; was developed as an an...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/regular_show" title="watch online Regular Show" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/6/6824-regular_show.jpg" alt="Watch Series - Regular Show" title="Watch Series - Regular Show" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/regular_show_s6_e16.html" title="watch online Regular Show"  target="_blank"><b>Regular Show</b> <br/>
+							<span class="p11">Season 6, Episode 16 - Format Wars II</span></a><br/>
+							&quot;Regular Show&quot; was developed as an anim...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="The Pritchett-Dunphy-Tucker clan is a wonderful...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/modern_family" title="watch online Modern Family" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5577-modern_family.jpg" alt="Watch Series - Modern Family" title="Watch Series - Modern Family" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/modern_family_s6_e14.html" title="watch online Modern Family"  target="_blank"><b>Modern Family</b> <br/>
+							<span class="p11">Season 6, Episode 14 - Valentine's Day 4: Twisted Sister</span></a><br/>
+							The Pritchett-Dunphy-Tucker clan is a wonderfully...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="In Suits, one of Manhattan&#039;s top corporate...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/suits" title="watch online Suits" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/7/7904-suits.jpg" alt="Watch Series - Suits" title="Watch Series - Suits" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/suits_s4_e13.html" title="watch online Suits"  target="_blank"><b>Suits</b> <br/>
+							<span class="p11">Season 4, Episode 13 - Fork in the Road</span></a><br/>
+							In Suits, one of Manhattan&#039;s top corporate l...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Criminal Minds revolves around an elite team of...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/criminal_minds" title="watch online Criminal Minds" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/1/1953-criminal_minds.jpg" alt="Watch Series - Criminal Minds" title="Watch Series - Criminal Minds" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/criminal_minds_s10_e15.html" title="watch online Criminal Minds"  target="_blank"><b>Criminal Minds</b> <br/>
+							<span class="p11">Season 10, Episode 15 - Scream</span></a><br/>
+							Criminal Minds revolves around an elite team of F...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Season 3: My name is Oliver Queen. After five y...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/arrow" title="watch online Arrow" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/0/633-arrow.jpg" alt="Watch Series - Arrow" title="Watch Series - Arrow" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/arrow_s3_e13.html" title="watch online Arrow"  target="_blank"><b>Arrow</b> <br/>
+							<span class="p11">Season 3, Episode 13 - Canaries</span></a><br/>
+							Season 3: My name is Oliver Queen. After five yea...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="It&#039;s Always Sunny in Philadelphia is an FX...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/its_always_sunny_in_philadelphia" title="watch online It&#039;S Always Sunny In Philadelphia" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/4/4271-its_always_sunny_in_philadelphia.jpg" alt="Watch Series - It&#039;S Always Sunny In Philadelphia" title="Watch Series - It&#039;S Always Sunny In Philadelphia" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/its_always_sunny_in_philadelphia_s10_e5.html" title="watch online It&#039;S Always Sunny In Philadelphia"  target="_blank"><b>It's Always Sunny In P...</b> <br/>
+							<span class="p11">Season 10, Episode 5 - The Gang Goes On Philly Feud</span></a><br/>
+							It&#039;s Always Sunny in Philadelphia is an FX N...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="The Mentalist follows Patrick Jane (Simon Baker...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/the_mentalist" title="watch online The Mentalist" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/8/8958-the_mentalist.jpg" alt="Watch Series - The Mentalist" title="Watch Series - The Mentalist" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/the_mentalist_s7_e11.html" title="watch online The Mentalist"  target="_blank"><b>The Mentalist</b> <br/>
+							<span class="p11">Season 7, Episode 11 - Byzantium</span></a><br/>
+							The Mentalist follows Patrick Jane (Simon Baker),...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;In the criminal justice system, sexually-...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/law_and_order:_special_victims_unit" title="watch online Law &Amp; Order: Special Victims Unit" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/4/4862-law_and_order_special_victims_unit.jpg" alt="Watch Series - Law &Amp; Order: Special Victims Unit" title="Watch Series - Law &Amp; Order: Special Victims Unit" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/law_and_order:_special_victims_unit_s16_e14.html" title="watch online Law &Amp; Order: Special Victims Unit"  target="_blank"><b>Law & Order: Special V...</b> <br/>
+							<span class="p11">Season 16, Episode 14 - Intimidation Game</span></a><br/>
+							&quot;In the criminal justice system, sexually-ba...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Who are our modern day heroes? Politicians? Mov...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/the_middle" title="watch online The Middle" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/8/8961-the_middle.jpg" alt="Watch Series - The Middle" title="Watch Series - The Middle" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/the_middle_s6_e13.html" title="watch online The Middle"  target="_blank"><b>The Middle</b> <br/>
+							<span class="p11">Season 6, Episode 13 - Valentine's Day VI</span></a><br/>
+							Who are our modern day heroes? Politicians? Movie...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Black-ish centers on an upper-middle-class blac...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/black-ish" title="watch online Black-Ish" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/14/14957-black-ish.jpg" alt="Watch Series - Black-Ish" title="Watch Series - Black-Ish" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/black-ish_s1_e13.html" title="watch online Black-Ish"  target="_blank"><b>Black-Ish</b> <br/>
+							<span class="p11">Season 1, Episode 13 - Big Night, Big Fight</span></a><br/>
+							Black-ish centers on an upper-middle-class black ...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;Melissa &amp; Joey,&quot; a half-hour mul...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/melissa_and_joey" title="watch online Melissa &Amp; Joey" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5426-melissa_and_joey.jpg" alt="Watch Series - Melissa &Amp; Joey" title="Watch Series - Melissa &Amp; Joey" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/melissa_and_joey_s4_e7.html" title="watch online Melissa &Amp; Joey"  target="_blank"><b>Melissa & Joey</b> <br/>
+							<span class="p11">Season 4, Episode 7 - Thanks but No Thanks</span></a><br/>
+							&quot;Melissa &amp; Joey,&quot; a half-hour multi...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Top Chef is a reality show unlike any other whi...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/top_chef" title="watch online Top Chef" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/9/9676-top_chef.jpg" alt="Watch Series - Top Chef" title="Watch Series - Top Chef" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/top_chef_s12_e15.html" title="watch online Top Chef"  target="_blank"><b>Top Chef</b> <br/>
+							<span class="p11">Season 12, Episode 15 - Mano a Mano</span></a><br/>
+							Top Chef is a reality show unlike any other while...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Based on the Web series featured on 5thyear, &q...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/workaholics" title="watch online Workaholics" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/10/10363-workaholics.jpg" alt="Watch Series - Workaholics" title="Watch Series - Workaholics" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/workaholics_s5_e5.html" title="watch online Workaholics"  target="_blank"><b>Workaholics</b> <br/>
+							<span class="p11">Season 5, Episode 5 - Gayborhood</span></a><br/>
+							Based on the Web series featured on 5thyear, &quo...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Baby Daddy follows Ben raising his babygirl wit...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/baby_daddy" title="watch online Baby Daddy" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/0/737-baby_daddy.jpg" alt="Watch Series - Baby Daddy" title="Watch Series - Baby Daddy" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/baby_daddy_s4_e7.html" title="watch online Baby Daddy"  target="_blank"><b>Baby Daddy</b> <br/>
+							<span class="p11">Season 4, Episode 7 - The Mother of All Dates</span></a><br/>
+							Baby Daddy follows Ben raising his babygirl with ...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Based on the popular Spanish series Los Misteri...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/the_mysteries_of_laura" title="watch online The Mysteries Of Laura" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/15/15315-the_mysteries_of_laura.jpg" alt="Watch Series - The Mysteries Of Laura" title="Watch Series - The Mysteries Of Laura" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/the_mysteries_of_laura_s1_e14.html" title="watch online The Mysteries Of Laura"  target="_blank"><b>The Mysteries Of Laura</b> <br/>
+							<span class="p11">Season 1, Episode 14 - The Mystery of the Popped Pugilist</span></a><br/>
+							Based on the popular Spanish series Los Misterios...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+						<div class="clear"></div>
+		</div>
+		<div style="margin:5px 0 0 0;">
+			
+
+
+<iframe src="http://direktads.com/script/ad.php?zone_id=119" width="728" height="90" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+		</div>
+		
+		<div class="block-left-home-title"><i class="fa fa-calendar"></i> TV Schedule <a href="/tvschedule/-1" style="float:right; margin-right:10px; color:#FCFCFC" target="_blank">Full TV Schedule <i class="fa fa-chevron-right"></i></a></div>
+		<div class="groundwork">
+
+			<div class="calendar-outliner">
+				<div class="calendar-wrapper home-calendar">
+					<div style="position: relative; display: block; visibility: visible;" class="jcarousel-container jcarousel-container-horizontal" id="calendar-container">
+					<div style="display: block;" class="jcarousel-prev pull-left jcarousel-prev-horizontal">
+						<i class="icon-chevron-left"></i>
+					</div>
+					<div style="position: relative;" class="jcarousel-clip jcarousel-clip-horizontal">
+						<ul style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; width: 1025px;" class="pull-left jcarousel-list jcarousel-list-horizontal">
+							<li style="float: left; list-style: none outside none;" class="jcarousel-item jcarousel-item-horizontal ">
+								<div class="calendar-day">
+									<div  class="calendar-day-wrapper">
+										<h2 class="header">
+							<span>Wednesday, Feb 11</span>
+							</h2>
+										<div class="entries">
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/man_seeking_woman_s1_e5.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/19/19887-man_seeking_woman.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/man_seeking_woman"  target="_blank">Man Seeking Woman</a>
+													<div>
+																													<a class="episode-title" href="/episode/man_seeking_woman_s1_e5.html"  target="_blank">Season 1, Episode 5: Sizzurp</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/empire-2_s1_e6.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/24/24182-empire-2.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/empire-2"  target="_blank">Empire</a>
+													<div>
+																													<a class="episode-title" href="/episode/empire-2_s1_e6.html"  target="_blank">Season 1, Episode 6: Out, Damned Spot</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/black-ish_s1_e13.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/14/14957-black-ish.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/black-ish"  target="_blank">Black-ish</a>
+													<div>
+																													<a class="episode-title" href="/episode/black-ish_s1_e13.html"  target="_blank">Season 1, Episode 13: Big Night, Big Fight</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/the_mysteries_of_laura_s1_e14.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/15/15315-the_mysteries_of_laura.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/the_mysteries_of_laura"  target="_blank">The Mysteries Of Laura</a>
+													<div>
+																													<a class="episode-title" href="/episode/the_mysteries_of_laura_s1_e14.html"  target="_blank">Season 1, Episode 14: The Mystery of the Popped Pugilist</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/stalker_s1_e16.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/16/16025-stalker.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/stalker"  target="_blank">Stalker</a>
+													<div>
+																													<a class="episode-title" href="/episode/stalker_s1_e16.html"  target="_blank">Season 1, Episode 16: Salvation</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/the_100_s2_e12.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/12/12503-the_100.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/the_100"  target="_blank">The 100</a>
+													<div>
+																													<a class="episode-title" href="/episode/the_100_s2_e12.html"  target="_blank">Season 2, Episode 12: Rubicon</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/The_Goldbergs_s2_e12.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/10/10734-the_goldbergs.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/The_Goldbergs"  target="_blank">The Goldbergs</a>
+													<div>
+																													<a class="episode-title" href="/episode/The_Goldbergs_s2_e12.html"  target="_blank">Season 2, Episode 12: Cowboys Country</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/chicago_p_d__s2_e14.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/12/12146-chicago_p_d_.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/chicago_p_d_"  target="_blank">Chicago P.D.</a>
+													<div>
+																													<a class="episode-title" href="/episode/chicago_p_d__s2_e14.html"  target="_blank">Season 2, Episode 14: Erin's Mom</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/late_night_with_seth_meyers_s2_e19.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/13/13308-late_night_with_seth_meyers.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/late_night_with_seth_meyers"  target="_blank">Late Night with Seth Meyers</a>
+													<div>
+																													<a class="episode-title" href="/serie/late_night_with_seth_meyers" target="_blank">Season 2, Episode 19: William H. Macy, Kenny Smith, the Districts</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/episode/the_tonight_show_starring_jimmy_fallon_s2_e23.html"  target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/13/13585-the_tonight_show_starring_jimmy_fallon.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/the_tonight_show_starring_jimmy_fallon"  target="_blank">The Tonight Show Starring Jimmy Fallon</a>
+													<div>
+																													<a class="episode-title" href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">Season 2, Episode 23: Hugh Grant, Charles Barkley, Kyle Kinane</a>
+																	</div>
+												</div>
+											</div>
+										</div>
+																			
+									</div>
+								</div>
+							</li>
+							<li style="float: left; list-style: none outside none;" class="jcarousel-item jcarousel-item-horizontal ">
+								<div class="calendar-day">
+									<div  class="calendar-day-wrapper">
+										<h2 class="header">
+											<span>Thursday, Feb 12 <span style="color:#000; margin:0;">(Today)</spa</span>
+										</h2>
+										<div class="entries">
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/allegiance" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/16/16325-allegiance.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/allegiance" target="_blank">Allegiance</a>
+													<div>
+																													<a class="episode-title" href="/serie/allegiance" target="_blank">Season 1, Episode 2: Teamwork</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/backstrom" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/28/28159-backstrom.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/backstrom" target="_blank">Backstrom</a>
+													<div>
+																													<a class="episode-title" href="/serie/backstrom" target="_blank">Season 1, Episode 4: I am a Bird Now</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/fortitude" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/28/28191-fortitude.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/fortitude" target="_blank">Fortitude</a>
+													<div>
+																													<a class="episode-title" href="/serie/fortitude" target="_blank">Season 1, Episode 4: Episode Four</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/how_to_get_away_with_murder" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/15/15128-how_to_get_away_with_murder.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/how_to_get_away_with_murder" target="_blank">How To Get Away With Murder</a>
+													<div>
+																													<a class="episode-title" href="/serie/how_to_get_away_with_murder" target="_blank">Season 1, Episode 12: She's a Murderer</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/The_Blacklist" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/10/10688-the_blacklist.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/The_Blacklist" target="_blank">The Blacklist</a>
+													<div>
+																													<a class="episode-title" href="/serie/The_Blacklist" target="_blank">Season 2, Episode 11: Ruslan Denisov</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/reign" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/11/11293-reign.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/reign" target="_blank">Reign</a>
+													<div>
+																													<a class="episode-title" href="/episode/reign_s2_e14.html"  target="_blank">Season 2, Episode 14: The End of Mourning</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/Mom_(2013)" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/10/10691-mom_2013_.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/Mom_(2013)" target="_blank">Mom</a>
+													<div>
+																													<a class="episode-title" href="/serie/Mom_(2013)" target="_blank">Season 2, Episode 14: Benito Poppins and a Warm Pumpkin</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/late_night_with_seth_meyers" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/13/13308-late_night_with_seth_meyers.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/late_night_with_seth_meyers" target="_blank">Late Night with Seth Meyers</a>
+													<div>
+																													<a class="episode-title" href="/serie/late_night_with_seth_meyers" target="_blank">Season 2, Episode 20: Kevin Costner, Portia de Rossi, David Frei with Westminster Dogs</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/13/13585-the_tonight_show_starring_jimmy_fallon.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">The Tonight Show Starring Jimmy Fallon</a>
+													<div>
+																													<a class="episode-title" href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">Season 2, Episode 24: Colin Firth, Jack McBrayer, Triumph the Insult Comic Dog, the Weeknd</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/elementary" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/2/2601-elementary.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/elementary" target="_blank">Elementary</a>
+													<div>
+																													<a class="episode-title" href="/serie/elementary" target="_blank">Season 3, Episode 14: The Female of the Species</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+													
+									</div>
+								</div>
+							</li>
+							<li style="float: left; list-style: none outside none;" class="jcarousel-item jcarousel-item-horizontal ">
+								<div class="calendar-day">
+									<div  class="calendar-day-wrapper">
+										<h2 class="header">
+											<span>Friday, Feb 13</span>
+										</h2>
+										<div class="entries">
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/12_monkeys" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/28/28061-12_monkeys.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/12_monkeys" target="_blank">12 Monkeys</a>
+													<div>
+																													<a class="episode-title" href="/serie/12_monkeys" target="_blank">Season 1, Episode 5: The Night Room</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/constantine" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/13/13199-constantine.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/constantine" target="_blank">Constantine</a>
+													<div>
+																													<a class="episode-title" href="/serie/constantine" target="_blank">Season 1, Episode 13: Waiting for the Man</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/helix" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/11/11953-helix.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/helix" target="_blank">Helix</a>
+													<div>
+																													<a class="episode-title" href="/serie/helix" target="_blank">Season 2, Episode 5: Oubliette</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/the_musketeers" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/12/12023-the_musketeers.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/the_musketeers" target="_blank">The Musketeers</a>
+													<div>
+																													<a class="episode-title" href="/serie/the_musketeers" target="_blank">Season 2, Episode 5: The Return</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/13/13585-the_tonight_show_starring_jimmy_fallon.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">The Tonight Show Starring Jimmy Fallon</a>
+													<div>
+																													<a class="episode-title" href="/serie/the_tonight_show_starring_jimmy_fallon" target="_blank">Season 2, Episode 25: Samuel L. Jackson, Norman Reedus, Jessie J</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/Banshee_(2013)" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/0/819-banshee_2013_.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/Banshee_(2013)" target="_blank">Banshee</a>
+													<div>
+																													<a class="episode-title" href="/serie/Banshee_(2013)" target="_blank">Season 3, Episode 6: We Were All Someone Else Yesterday</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/grimm" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/3/3414-grimm.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/grimm" target="_blank">Grimm</a>
+													<div>
+																													<a class="episode-title" href="/serie/grimm" target="_blank">Season 4, Episode 13: Trial by Fire</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/hawaii_five-0" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/3/3608-hawaii_five-0.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/hawaii_five-0" target="_blank">Hawaii Five-0</a>
+													<div>
+																													<a class="episode-title" href="/serie/hawaii_five-0" target="_blank">Season 5, Episode 15: E 'Imi Pono (Searching for the Truth)</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/blue_bloods" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/1/1170-blue_bloods.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/blue_bloods" target="_blank">Blue Bloods</a>
+													<div>
+																													<a class="episode-title" href="/serie/blue_bloods" target="_blank">Season 5, Episode 15: Power Players</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+																
+											<div class="calendar-entry">
+												<div class="calendar-entry-content">
+													<div style="float:left; margin:0 10px 5px 0px;">
+														<a href="/serie/undercover_boss" target="_blank">
+															<img src="http://static.watch-tv-series.to/uploads/thumbs/9/9908-undercover_boss.jpg" height="45" width="30"></a>
+													</div>
+													<div class="show-ep-info">
+														<a class="show-title" href="/serie/undercover_boss" target="_blank">Undercover Boss (US)</a>
+													<div>
+																													<a class="episode-title" href="/serie/undercover_boss" target="_blank">Season 6, Episode 11: Gigi’s Cupcakes</a>
+																											</div>
+												</div>
+											</div>
+										</div>
+													
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div style="margin:5px 0 0 0;">
+			
+
+
+<iframe src="http://direktads.com/script/ad.php?zone_id=119" width="728" height="90" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+		</div>	
+		
+		<div class="block-left-home">
+		<div class="block-left-home-title"><i class="fa fa-plus"></i> NEWEST EPISODES ADDED</div>	
+			<div class="block-left-home-inside" style="height:252px; text-align:center;">
+				
+
+
+   <iframe src="http://direktads.com/script/ad.php?zone_id=118" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+
+			</div>		
+							<div class="block-left-home-inside" title="Hidden between the lines of the history books is ...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/reign" title="watch online Reign" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/11/11293-reign.jpg" alt="Watch Series - Reign" title="Watch Series - Reign" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/reign_s2_e14.html"  target="_blank" title="watch online Reign"><b>Reign</b> <br/>
+							<span class="p11">Season 2, Episode 14 - The End of Mourning</span></a><br/>
+							Hidden between the lines of the history books is ...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;Regular Show&quot; was developed as an anim...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/regular_show" title="watch online Regular Show" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/6/6824-regular_show.jpg" alt="Watch Series - Regular Show" title="Watch Series - Regular Show" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/regular_show_s6_e16.html"  target="_blank" title="watch online Regular Show"><b>Regular Show</b> <br/>
+							<span class="p11">Season 6, Episode 16 - Format Wars II</span></a><br/>
+							&quot;Regular Show&quot; was developed as an anim...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Channel Seven is heading back to the kitchen - fr...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/my_kitchen_rules" title="watch online My Kitchen Rules" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5782-my_kitchen_rules.jpg" alt="Watch Series - My Kitchen Rules" title="Watch Series - My Kitchen Rules" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/my_kitchen_rules_s6_e8.html"  target="_blank" title="watch online My Kitchen Rules"><b>My Kitchen Rules</b> <br/>
+							<span class="p11">Season 6, Episode 8 - Eva & Debra (WA, Group 2)</span></a><br/>
+							Channel Seven is heading back to the kitchen - fr...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Homes Under The Hammer features different propert...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/homes_under_the_hammer" title="watch online Homes Under The Hammer" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/3/3849-homes_under_the_hammer.jpg" alt="Watch Series - Homes Under The Hammer" title="Watch Series - Homes Under The Hammer" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/homes_under_the_hammer_s18_e70.html"  target="_blank" title="watch online Homes Under The Hammer"><b>Homes Under The Hammer</b> <br/>
+							<span class="p11">Season 18, Episode 70 - Series 18, Show 70</span></a><br/>
+							Homes Under The Hammer features different propert...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Chopped Canada is a high stakes culinary competit...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/chopped_canada" title="watch online Chopped Canada" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/11/11891-chopped_canada.jpg" alt="Watch Series - Chopped Canada" title="Watch Series - Chopped Canada" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/chopped_canada_s3_e5.html"  target="_blank" title="watch online Chopped Canada"><b>Chopped Canada</b> <br/>
+							<span class="p11">Season 3, Episode 5 - Viewers' Choice: Land, Sea, Air</span></a><br/>
+							Chopped Canada is a high stakes culinary competit...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;American Rehab: Detroit&quot; - Christopher...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/american_rehab_detroit" title="watch online American Rehab: Detroit" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/26/26273-american_rehab_detroit.jpg" alt="Watch Series - American Rehab: Detroit" title="Watch Series - American Rehab: Detroit" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/american_rehab_detroit_s1_e3.html"  target="_blank" title="watch online American Rehab: Detroit"><b>American Rehab: Detroit</b> <br/>
+							<span class="p11">Season 1, Episode 3 - Baby Proofed Bathroom</span></a><br/>
+							&quot;American Rehab: Detroit&quot; - Christopher...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Following the fact-based historical book of the s...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/wolf_hall" title="watch online Wolf Hall" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/23/23673-wolf_hall.jpg" alt="Watch Series - Wolf Hall" title="Watch Series - Wolf Hall" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/wolf_hall_s1_e4.html"  target="_blank" title="watch online Wolf Hall"><b>Wolf Hall</b> <br/>
+							<span class="p11">Season 1, Episode 4 - The Devil's Spit</span></a><br/>
+							Following the fact-based historical book of the s...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="The Pritchett-Dunphy-Tucker clan is a wonderfully...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/modern_family" title="watch online Modern Family" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5577-modern_family.jpg" alt="Watch Series - Modern Family" title="Watch Series - Modern Family" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/modern_family_s6_e14.html"  target="_blank" title="watch online Modern Family"><b>Modern Family</b> <br/>
+							<span class="p11">Season 6, Episode 14 - Valentine's Day 4: Twisted Sister</span></a><br/>
+							The Pritchett-Dunphy-Tucker clan is a wonderfully...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="In Suits, one of Manhattan&#039;s top corporate l...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/suits" title="watch online Suits" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/7/7904-suits.jpg" alt="Watch Series - Suits" title="Watch Series - Suits" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/suits_s4_e13.html"  target="_blank" title="watch online Suits"><b>Suits</b> <br/>
+							<span class="p11">Season 4, Episode 13 - Fork in the Road</span></a><br/>
+							In Suits, one of Manhattan&#039;s top corporate l...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Criminal Minds revolves around an elite team of F...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/criminal_minds" title="watch online Criminal Minds" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/1/1953-criminal_minds.jpg" alt="Watch Series - Criminal Minds" title="Watch Series - Criminal Minds" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/criminal_minds_s10_e15.html"  target="_blank" title="watch online Criminal Minds"><b>Criminal Minds</b> <br/>
+							<span class="p11">Season 10, Episode 15 - Scream</span></a><br/>
+							Criminal Minds revolves around an elite team of F...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Season 3: My name is Oliver Queen. After five yea...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/arrow" title="watch online Arrow" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/0/633-arrow.jpg" alt="Watch Series - Arrow" title="Watch Series - Arrow" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/arrow_s3_e13.html"  target="_blank" title="watch online Arrow"><b>Arrow</b> <br/>
+							<span class="p11">Season 3, Episode 13 - Canaries</span></a><br/>
+							Season 3: My name is Oliver Queen. After five yea...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="It&#039;s Always Sunny in Philadelphia is an FX N...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/its_always_sunny_in_philadelphia" title="watch online It&#039;S Always Sunny In Philadelphia" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/4/4271-its_always_sunny_in_philadelphia.jpg" alt="Watch Series - It&#039;S Always Sunny In Philadelphia" title="Watch Series - It&#039;S Always Sunny In Philadelphia" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/its_always_sunny_in_philadelphia_s10_e5.html"  target="_blank" title="watch online It&#039;S Always Sunny In Philadelphia"><b>It&#039;S Always Sunny...</b> <br/>
+							<span class="p11">Season 10, Episode 5 - The Gang Goes On Philly Feud</span></a><br/>
+							It&#039;s Always Sunny in Philadelphia is an FX N...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="The Mentalist follows Patrick Jane (Simon Baker),...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/the_mentalist" title="watch online The Mentalist" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/8/8958-the_mentalist.jpg" alt="Watch Series - The Mentalist" title="Watch Series - The Mentalist" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/the_mentalist_s7_e11.html"  target="_blank" title="watch online The Mentalist"><b>The Mentalist</b> <br/>
+							<span class="p11">Season 7, Episode 11 - Byzantium</span></a><br/>
+							The Mentalist follows Patrick Jane (Simon Baker),...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;In the criminal justice system, sexually-ba...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/law_and_order:_special_victims_unit" title="watch online Law &Amp; Order: Special Victims Unit" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/4/4862-law_and_order_special_victims_unit.jpg" alt="Watch Series - Law &Amp; Order: Special Victims Unit" title="Watch Series - Law &Amp; Order: Special Victims Unit" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/law_and_order:_special_victims_unit_s16_e14.html"  target="_blank" title="watch online Law &Amp; Order: Special Victims Unit"><b>Law &Amp; Order: Speci...</b> <br/>
+							<span class="p11">Season 16, Episode 14 - Intimidation Game</span></a><br/>
+							&quot;In the criminal justice system, sexually-ba...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Nashville, also a family soap, follows two musici...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/nashville" title="watch online Nashville" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5873-nashville.jpg" alt="Watch Series - Nashville" title="Watch Series - Nashville" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/nashville_s3_e12.html"  target="_blank" title="watch online Nashville"><b>Nashville</b> <br/>
+							<span class="p11">Season 3, Episode 12 - I've Got Reasons To Hate You</span></a><br/>
+							Nashville, also a family soap, follows two musici...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Who are our modern day heroes? Politicians? Movie...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/the_middle" title="watch online The Middle" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/8/8961-the_middle.jpg" alt="Watch Series - The Middle" title="Watch Series - The Middle" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/the_middle_s6_e13.html"  target="_blank" title="watch online The Middle"><b>The Middle</b> <br/>
+							<span class="p11">Season 6, Episode 13 - Valentine's Day VI</span></a><br/>
+							Who are our modern day heroes? Politicians? Movie...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="A&amp;E Network introduces the Robertsons, a Loui...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/duck_dynasty" title="watch online Duck Dynasty" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/2/2506-duck_dynasty.jpg" alt="Watch Series - Duck Dynasty" title="Watch Series - Duck Dynasty" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/duck_dynasty_s7_e10.html"  target="_blank" title="watch online Duck Dynasty"><b>Duck Dynasty</b> <br/>
+							<span class="p11">Season 7, Episode 10 - Sweet Home Louisiana</span></a><br/>
+							A&amp;E Network introduces the Robertsons, a Loui...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Black-ish centers on an upper-middle-class black ...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/black-ish" title="watch online Black-Ish" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/14/14957-black-ish.jpg" alt="Watch Series - Black-Ish" title="Watch Series - Black-Ish" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/black-ish_s1_e13.html"  target="_blank" title="watch online Black-Ish"><b>Black-Ish</b> <br/>
+							<span class="p11">Season 1, Episode 13 - Big Night, Big Fight</span></a><br/>
+							Black-ish centers on an upper-middle-class black ...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="&quot;Melissa &amp; Joey,&quot; a half-hour multi...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/melissa_and_joey" title="watch online Melissa &Amp; Joey" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5426-melissa_and_joey.jpg" alt="Watch Series - Melissa &Amp; Joey" title="Watch Series - Melissa &Amp; Joey" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/melissa_and_joey_s4_e7.html"  target="_blank" title="watch online Melissa &Amp; Joey"><b>Melissa &Amp; Joey</b> <br/>
+							<span class="p11">Season 4, Episode 7 - Thanks but No Thanks</span></a><br/>
+							&quot;Melissa &amp; Joey,&quot; a half-hour multi...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+							<div class="block-left-home-inside" title="Top Chef is a reality show unlike any other while...">
+					<div class="block-left-home-inside-image">
+						<a href="/serie/top_chef" title="watch online Top Chef" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/9/9676-top_chef.jpg" alt="Watch Series - Top Chef" title="Watch Series - Top Chef" height="50px"  />
+						</a>
+					</div>
+					<div class="block-left-home-inside-text">
+						<a href="/episode/top_chef_s12_e15.html"  target="_blank" title="watch online Top Chef"><b>Top Chef</b> <br/>
+							<span class="p11">Season 12, Episode 15 - Mano a Mano</span></a><br/>
+							Top Chef is a reality show unlike any other while...<br/> 
+					</div>
+					<div class="block-left-home-inside-line"></div>
+				</div>
+						<div class="clear"></div>
+		</div>	
+		<div style="margin:5px 0 0 0;">
+			
+
+
+<iframe src="http://direktads.com/script/ad.php?zone_id=119" width="728" height="90" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+		</div>	
+	</div>
+	<div class="home-page-right">
+		
+
+
+   <iframe src="http://direktads.com/script/ad.php?zone_id=118" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+
+
+		<style type="text/css">
+		 .facebookOuter {
+			background-color:#F4F4F4; 
+			width:300px; 
+			padding:0px 0 10px 0px;
+			margin: 10px 0 10px 0;
+			height:280px;
+			border:1px solid #CCCCCC;
+		  }
+		 .facebookInner {
+			height:250px;
+			overflow:hidden;
+		  }
+		</style>
+
+		<div class="facebookOuter">
+		 <div class="facebookInner">
+		  <div class="fb-like-box" 
+			  data-width="300" data-height="280" 
+			  data-href="https://www.facebook.com/pages/WatchSerieseu/210686605636231?ref=hl" 
+			  data-border-color="#F4F4F4" data-show-faces="true" 
+			  data-stream="false" data-header="false">
+		  </div>          
+		 </div>
+		</div>
+		   
+		<div id="fb-root"></div>
+		
+
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		
+
+<iframe src="http://direktads.com/script/ad.php?zone_id=123" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+
+
+
+
+		
+		<div class="block-right-home">
+			<div class="block-right-home-title"><i class="fa fa-star"></i> MOST POPULAR SHOWS</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/how_i_met_your_mother" title="watch online How I Met Your Mother" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/3/3935-how_i_met_your_mother.jpg" alt="Watch Series - How I Met Your Mother" title="Watch Series - How I Met Your Mother" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/how_i_met_your_mother" title="watch online How I Met Your Mother" target="_blank"><b>How I Met Your Mother</b> <span style="color:#000">(views: 828673)</span></a><br/>
+						How I Met Your Mother is a comedy abo...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/how_i_met_your_mother_s9_e23.html"  target="_blank">Season 9, Episode 23</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/breaking_bad" title="watch online Breaking Bad" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/1/1295-breaking_bad.jpg" alt="Watch Series - Breaking Bad" title="Watch Series - Breaking Bad" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/breaking_bad" title="watch online Breaking Bad" target="_blank"><b>Breaking Bad</b> <span style="color:#000">(views: 711546)</span></a><br/>
+						Break Bad (v.) 1. To challenge conven...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/breaking_bad_s5_e16.html"  target="_blank">Season 5, Episode 16</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/big_bang_theory" title="watch online The Big Bang Theory" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/8/8335-big_bang_theory.jpg" alt="Watch Series - The Big Bang Theory" title="Watch Series - The Big Bang Theory" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/big_bang_theory" title="watch online The Big Bang Theory" target="_blank"><b>The Big Bang Theory</b> <span style="color:#000">(views: 677289)</span></a><br/>
+						The Big Bang Theory is a comedy serie...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/big_bang_theory_s8_e14.html"  target="_blank">Season 8, Episode 14</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/friends" title="watch online Friends" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/3/3039-friends.jpg" alt="Watch Series - Friends" title="Watch Series - Friends" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/friends" title="watch online Friends" target="_blank"><b>Friends</b> <span style="color:#000">(views: 560706)</span></a><br/>
+						Very popular show about six friends l...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/friends_s10_e17.html"  target="_blank">Season 10, Episode 17</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/greys_anatomy" title="watch online Grey&#039;S Anatomy" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/3/3413-greys_anatomy.jpg" alt="Watch Series - Grey&#039;S Anatomy" title="Watch Series - Grey&#039;S Anatomy" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/greys_anatomy" title="watch online Grey&#039;S Anatomy" target="_blank"><b>Grey&#039;S Anatomy</b> <span style="color:#000">(views: 460694)</span></a><br/>
+						Operations. Relations. Complications....<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/greys_anatomy_s11_e11.html"  target="_blank">Season 11, Episode 11</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/new_girl" title="watch online New Girl" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5953-new_girl.jpg" alt="Watch Series - New Girl" title="Watch Series - New Girl" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/new_girl" title="watch online New Girl" target="_blank"><b>New Girl</b> <span style="color:#000">(views: 416272)</span></a><br/>
+						New Girl is a single camera comedy th...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/new_girl_s4_e15.html"  target="_blank">Season 4, Episode 15</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/the_vampire_diaries" title="watch online The Vampire Diaries" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/9/9411-the_vampire_diaries.jpg" alt="Watch Series - The Vampire Diaries" title="Watch Series - The Vampire Diaries" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/the_vampire_diaries" title="watch online The Vampire Diaries" target="_blank"><b>The Vampire Diaries</b> <span style="color:#000">(views: 341044)</span></a><br/>
+						Based on novels of the same name, Vam...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/the_vampire_diaries_s6_e14.html"  target="_blank">Season 6, Episode 14</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/modern_family" title="watch online Modern Family" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/5/5577-modern_family.jpg" alt="Watch Series - Modern Family" title="Watch Series - Modern Family" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/modern_family" title="watch online Modern Family" target="_blank"><b>Modern Family</b> <span style="color:#000">(views: 340626)</span></a><br/>
+						The Pritchett-Dunphy-Tucker clan is a...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/modern_family_s6_e14.html"  target="_blank">Season 6, Episode 14</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/pretty_little_liars" title="watch online Pretty Little Liars" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/6/6566-pretty_little_liars.jpg" alt="Watch Series - Pretty Little Liars" title="Watch Series - Pretty Little Liars" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/pretty_little_liars" title="watch online Pretty Little Liars" target="_blank"><b>Pretty Little Liars</b> <span style="color:#000">(views: 314883)</span></a><br/>
+						Pretty Little Liars follows four estr...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/pretty_little_liars_s5_e19.html"  target="_blank">Season 5, Episode 19</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+							<div class="block-right-home-inside">			
+					<div class="block-right-home-inside-image">
+						<a href="/serie/suits" title="watch online Suits" target="_blank">
+							<img src="http://static.watch-tv-series.to/uploads/thumbs/7/7904-suits.jpg" alt="Watch Series - Suits" title="Watch Series - Suits" height="50px"  />
+						</a>
+					</div>
+					<div class="block-right-home-inside-text">
+						<a href="/serie/suits" title="watch online Suits" target="_blank"><b>Suits</b> <span style="color:#000">(views: 289553)</span></a><br/>
+						In Suits, one of Manhattan&#039;s top...<br/> 
+						<span class="p11"><b>Latest episode:</b> <a href="/episode/suits_s4_e13.html"  target="_blank">Season 4, Episode 13</a></span>
+					</div>
+					<div class="block-right-home-inside-line"></div>
+				</div>
+					</div>
+		<!-- START ADMANAGER SCRIPT -->
+<script type="text/javascript">new AdZone(152).setUrlIP('178.17.164.58').exec();</script>
+<noscript><iframe src="http://178.17.164.58/script/ad.php?zone_id=152" width="300" height="250" frameborder="0" scrolling="no"></iframe></noscript>
+<!-- END ADMANAGER SCRIPT -->   
+
+	</div>
+	<div class="clear"></div>
+	<!-- START ADMANAGER SCRIPT -->
+	<script type="text/javascript">new AdZone(169).setUrlIP('direktads.com').exec();</script>
+	<!-- END ADMANAGER SCRIPT -->
+</div>	
+
+
+
+	<div class="clear">&nbsp;</div>
+
+	<div class="footer">
+		Copyright &copy; 2008-2014 <a href="/dmca">Link Removal Policy(DMCA)</a>, <a href="/tips">How to Watch</a><br/>
+		Watch Series is also known as: <a href="http://www.watchseries.ph/" target="_blank">www.watchseries.ph</a>, <a href="http://www.watch-series.ag/"  target="_blank">www.watch-series.ag</a>, <a href="http://watch-tv-series.to/"  target="_blank">www.watch-tv-series.toto</a>
+	</div>
+			<div class="clear">&nbsp;</div>
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("ul#topnav li").hover(function() { //Hover over event on list item
+			$(this).css({ 'background' : '#232323'}); //Add background color + image on hovered list item
+			$(this).find("span").show(); //Show the subnav
+		} , function() { //on hover out...
+			$(this).css({ 'background' : 'none'}); //Ditch the background
+			$(this).find("span").hide(); //Hide the subnav
+		});
+	});
+
+	$.ajaxSetup( { type: "post" } );
+
+	$( "#s" ).autocomplete({
+		source: '/show/search-shows-json',
+		minLength: 2,
+		select: function( event, ui ) {
+			window.location = '/serie/'+ui.item.seo_url;
+		}
+	});
+	function updateCache() {
+		$('#update-cache-btn').button('loading');
+		$.post(
+			'/admin/remote-clear-cache',
+			{
+			},
+			function (data) {
+				if (data) {
+					alert('Cache updated.');
+				} else {
+					alert('Fail!');
+				}
+			}
+		);
+	}
+</script>
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53b938c5366a7663"></script>
+
+</body>
+</html>

@@ -1,0 +1,1080 @@
+/* -------------------------  style for filmstrip widget  --------------------------- */
+
+div.filmstrip .scrollable {
+  position: relative;
+  overflow: hidden;
+}
+
+div.filmstrip div.header {
+  background: url( '../gfx/filmstrip/bg_header.png' ) no-repeat;
+  color: #FFF;
+  font-size: 10px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 1px 7px 13px 7px;
+  line-height: 17px;
+}
+
+div.filmstrip .scrollable .items {
+/* this cannot be too large */
+  width: 20000em;
+  position: absolute;
+  clear: both;
+}
+
+div.filmstrip .items div.page {
+  float: left;
+}
+
+/* single scrollable item */
+div.filmstrip .scrollable .page .textitem {
+  float: left;
+  margin: 0px 5px 10px 10px;
+  background-color: #FFFFFF;
+  padding: 2px;
+  border: 1px solid #ccc;
+}
+
+div.filmstrip .scrollable .page div.item {
+  float: left;
+  margin: 0 0 0 8px !important;
+  background-color: #fff;
+  padding: 0 0 0 6px !important;
+  border-left: 1px solid #dddddd !important;
+}
+
+div.filmstrip .scrollable .page div.item:first-child {
+  border-left: 0px none !important;
+  padding: 0 !important;
+}
+
+div.filmstrip .scrollable .page a {
+  display: block;
+}
+
+div.filmstrip .scrollable .page .caption-wrapper {
+  margin: 0 20px 0 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+/* active item */
+div.filmstrip .scrollable .active {
+  border: 2px solid #000;
+  position: relative;
+  cursor: default;
+}
+
+/* position and dimensions of the navigator */
+div.filmstrip .navi {
+  height: 20px;
+  display: table;
+  margin: 0 auto;
+  width: auto;
+}
+
+/* items inside navigator */
+div.filmstrip .navi a {
+  width: 8px;
+  height: 8px;
+  float: left;
+  margin: 3px;
+  background: url( ../gfx/filmstrip/navigator.png ) 0 0 no-repeat;
+  display: block;
+  font-size: 1px;
+}
+
+/* mouseover state */
+div.filmstrip .navi a:hover {
+  background-position: 0 -8px;
+}
+
+/* active state (current page state) */
+div.filmstrip .navi a.active {
+  background-position: 0 -16px;
+}
+
+div.filmstrip .scrollable {
+  float: left;
+}
+
+/* prev, next, prevPage and nextPage buttons */
+div.filmstrip a.browse {
+  display: block;
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin: 100px 10px;
+  cursor: pointer;
+  font-size: 1px;
+}
+
+/* right */
+div.filmstrip a.right {
+  background: url( ../gfx/filmstrip/film_right.png ) no-repeat;
+  clear: right;
+  margin-right: 0px;
+}
+
+/* left */
+div.filmstrip a.left {
+  margin-left: 0px;
+  background: url( ../gfx/filmstrip/film_left.png ) no-repeat;
+}
+
+/* up and down */
+div.filmstrip a.up, div.filmstrip a.down {
+  background: url( ../gfx/filmstrip/vert_large.png ) no-repeat;
+  float: none;
+  margin: 10px 50px;
+}
+
+/* up */
+div.filmstrip a.up:hover {
+  background-position: -30px 0;
+}
+
+div.filmstrip a.up:active {
+  background-position: -60px 0;
+}
+
+/* down */
+div.filmstrip a.down {
+  background-position: 0 -30px;
+}
+
+div.filmstrip a.down:hover {
+  background-position: -30px -30px;
+}
+
+div.filmstrip a.down:active {
+  background-position: -60px -30px;
+}
+
+/* disabled navigational button */
+div.filmstrip a.disabled {
+  visibility: hidden !important;
+}
+
+div.filmstrip .innerdiv {
+  background-color: #EEEEEE;
+  padding: 0;
+  overflow: hidden;
+}
+
+div.filmstrip .articleHeader {
+  font-weight: bold;
+  padding: 5px;
+}
+
+div.filmstrip .leadtext {
+  margin-top: 10px;
+  padding: 5px;
+}
+
+div.filmstrip .fs_title {
+	padding-bottom: 7px;
+	font-size: 1.3em;
+}
+div.filmstrip .fs_body {
+	font-family: arial, sans-serif;
+	font-size: 0.9em;
+}
+
+div.filmstrip .w140 {
+  width: 140px;
+  height: 88px;
+}
+
+div.filmstrip .h140 {
+  height: 95px;
+}
+
+div.filmstrip .w148 {
+  width: 148px;
+  height: 222px;
+}
+
+div.filmstrip .h148 {
+  height: 222px;
+}
+
+div.filmstrip .w220 {
+  width: 220px;
+  height: 135px;
+}
+
+div.filmstrip .h220 {
+  height: 140px;
+}
+
+div.filmstrip .w300 {
+  width: 300px;
+  height: 185px;
+}
+
+div.filmstrip .h300 {
+  height: 190px;
+}
+
+/* caption styling */
+div.filmstrip .caption-bottom {
+    color: #ffffff !important; 
+    padding-top: 2px;
+    padding-bottom: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 100%;
+    cursor: default;
+    border: 0px solid #334143;
+    background: transparent url("../images/filmStripCaptionBG.png") repeat;
+    text-shadow: 1px 1px 0 #202020;
+    filter: alpha(opacity=100) !important;
+    opacity:1 !important;
+}
+div.filmstrip .caption a, div.filmstrip .caption a {
+    border: 0 none;
+    text-decoration: none;
+    background: #000000;
+    padding: 0.3em;
+}
+div.filmstrip .caption a:hover, div.filmstrip .caption a:hover {
+    background: #202020;
+}
+div.filmstrip .caption-wrapper {
+    float: left;
+}
+div.filmstrip br.c { clear: both; }
+
+#bottom div.filmstrip .w140 .caption-bottom {
+	width: 130px !important;
+}
+#bottom div.filmstrip .w148 .caption-bottom {
+	width: 138px !important;
+}
+#bottom div.filmstrip .w220 .caption-bottom {
+	width: 210px !important;
+}
+#bottom div.filmstrip .w300 .caption-bottom {
+	width: 290px !important;
+}
+
+/* -------------------------------  carousel.css  ------------------------------------ */
+div.carousel{
+  clear:both;
+  margin:0 0 10px 0;
+  padding:0;
+  position:relative;
+}
+
+div.carousel .scrollable {
+	position:relative;
+	overflow:hidden;
+	height:100px;
+}
+
+div.carousel div.scrollable div.items {
+  position:absolute;
+	clear:both;
+}
+
+div.carousel div.scrollable div.itemsHorizontal {
+  width:20000em;
+  height:auto;
+}
+
+div.carousel div.scrollable div.itemsVertical {
+  width:auto;
+  height:20000em;
+}
+
+div.carousel .scrollable .items div.item {
+  position:relative;
+	float:left;
+	margin:0 4px 0 0;
+	border:1px solid #333333;
+	cursor:pointer;
+  background: transparent url(../gfx/carousel/semi_transparent_bg.png) repeat;
+  padding:5px;
+}
+
+div.carousel .scrollable .items div.item:hover {
+  background-color:#000000;
+}
+
+div.carousel .scrollable .items div.active {
+	border:1px solid #00A0EE;
+}
+
+div.carousel .scrollable .active {
+	border:1px solid #000;
+	z-index:9999;
+	position:relative;
+}
+
+/* prev, next, prevPage and nextPage buttons */
+div.carousel a.browse {
+	display:block;
+	width:16px;
+	height:16px;
+	float:left;
+	margin:0px 0px;
+	cursor:pointer;
+	font-size:1px;
+}
+
+div.carousel a.right 		{ background:url('../gfx/carousel/rightArrow.png') no-repeat;}
+div.carousel a.right:hover 		{ background:url('../gfx/carousel/rightArrow.png') no-repeat; }
+div.carousel a.right:active 	{ background:url('../gfx/carousel/rightArrow.png') no-repeat; }
+
+
+/* left */
+div.carousel a.left			{ background:url('../gfx/carousel/leftArrow.png') no-repeat; }
+div.carousel a.left:hover  		{ background:url('../gfx/carousel/leftArrow.png') no-repeat; }
+div.carousel a.left:active  	{ background:url('../gfx/carousel/leftArrow.png') no-repeat; }
+
+/* up and down */
+div.carousel a.up, div.carousel a.down		{
+	float: none;
+	margin: 10px 50px;
+}
+
+div.carousel a.up:hover  		{ background-position:-30px 0; }
+div.carousel a.up:active  		{ background-position:-60px 0; }
+
+div.carousel a.down 				{ background-position: 0 -30px; }
+div.carousel a.down:hover  		{ background-position:-30px -30px; }
+div.carousel a.down:active  	{ background-position:-60px -30px; }
+
+
+/* single tab */
+div.carousel .indicator a {
+	width:10px;
+	height:10px;
+	float:left;
+	margin:5px;
+	background:url('../gfx/carousel/navi.png') 0 0 no-repeat;
+	display:block;
+	font-size:1px;
+}
+
+/* mouseover state */
+div.carousel .indicator a:hover {
+	background-position:0 -10px;
+}
+
+div.carousel .indicator a.active {
+	background-position:0 -20px;
+}
+
+/* main display */
+div.carousel div.mainDisplayContainer {
+  position:relative;
+  overflow:hidden;
+}
+
+div.carousel div.mainDisplayContainer img.mainImage {
+  width:100%;
+  height:100%;
+}
+
+div.carousel div.mainDisplayContainer div.overlay {
+  position: absolute;
+  color:#FFFFFF;
+  padding:0px;
+  margin:0px;
+  background: transparent url(../gfx/carousel/semi_transparent_bg.png) repeat;
+}
+
+div.carousel div.mainDisplayContainer div.leftOverlay{
+  left:0;
+  top:0;
+  width:25%;
+  height:100%;
+}
+
+div.carousel div.mainDisplayContainer div.rightOverlay{
+  right:0;
+  top:0;
+  width:25%;
+  height:100%;
+}
+
+div.carousel div.mainDisplayContainer div.topOverlay{
+  top:0;
+  left:0;
+  width:100%;
+}
+
+div.carousel div.mainDisplayContainer div.bottomOverlay{
+  bottom:0;
+  left:0;
+  width:100%;
+}
+
+div.carousel div.mainDisplayContainer div.transparentContainer {
+  background-color: #000000;
+  opacity:0.5;
+  filter: alpha(opacity = 50);
+}
+
+div.carousel div.mainDisplayContainer div.overlay h2{
+  font-size:2em;
+  font-weight:bold;
+  margin:0 0 8px;
+  padding:0;
+}
+
+div.carousel div.mainDisplayContainer div.overlay a {
+  color: #FFFFFF;
+  text-decoration:none;
+}
+
+div.carousel div.mainDisplayContainer div.overlay p {
+  font-size: 0.9em;
+  font-weight:bold;
+  letter-spacing:0.05em;
+}
+
+/* prev-next button over image */
+div.carousel div.mainDisplayContainer div.prevNextButton {
+  position:absolute;
+  z-index:10;
+  width:20px;
+  height: 2.3em;
+  -moz-background-clip:border;
+  -moz-background-inline-policy:continuous;
+  -moz-background-origin:padding;
+  cursor:pointer;
+  display:block;
+}
+
+div.carousel div.mainDisplayContainer div.leftPrevNextButton {
+	left: 0;
+	top: 30%;
+	margin-left: 0.5em;
+	background: transparent url(../gfx/slideshow/classic-map.png) no-repeat scroll 0 0;
+}
+
+div.carousel div.mainDisplayContainer div.rightPrevNextButton {
+  right: 0;
+  top: 30%;
+  margin-right: 0.5em;
+  background: transparent url(../gfx/slideshow/classic-map.png) no-repeat scroll -296px 0;
+}
+
+div.carousel div.mainDisplayContainer div.topPrevNextButton {
+  top:0;
+  left:48%;
+  margin-top:2px;
+  background:transparent url( ../gfx/carousel/top_arrow.png ) no-repeat scroll 0 0;
+}
+
+div.carousel div.mainDisplayContainer div.bottomPrevNextButton {
+  bottom:0;
+  left:48%;
+  margin-bottom:2px;
+  background:transparent url( ../gfx/carousel/bottom_arrow.png ) no-repeat scroll 0 0;
+}
+
+div.carousel div.filmstrip_bottom div.scrollable {
+  margin-bottom:5px;
+}
+
+div.carousel div.filmstrip_top div.scrollable {
+  margin-top: 5px;
+}
+
+div.carousel div.mainDisplayContainer div.horizontalContainerOverlay {
+  padding: 0;
+  margin: 0;
+}
+
+div.carousel div.carouselFilmstrip {
+  overflow: visible;
+  position: absolute;
+  z-index: 1;
+}
+
+/* left denotes filmstripPosition */
+div.carousel div.filmstrip_left {
+  top: 0;
+  left: 0;
+}
+
+/* right denotes filmstripPosition */
+div.carousel div.filmstrip_right {
+  top: 0;
+  right: 0;
+}
+
+/* top denotes filmstripPosition */
+div.carousel div.filmstrip_top {
+  top: 0;
+  left: 0;
+}
+
+/* bottom denotes filmstripPosition */
+div.carousel div.filmstrip_bottom {
+  bottom: 0;
+  left: 0;
+}
+
+div.carousel .scrollable .items div.item img {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+div.carousel .scrollable .items div div.titleSide, div.carousel .scrollable .items div div.titleOver {
+  position: absolute;
+  border: none;
+  padding: 0;
+  margin: 0;
+  float: none;
+}
+
+div.carousel .scrollable .items div div.titleSide {
+  padding:10px;
+  overflow: hidden;
+  top:0;
+  z-index:2;
+}
+
+div.carousel .scrollable .items div div.titleOver {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 35%;
+  background: transparent url(../gfx/carousel/semi_transparent_bg.png) repeat;
+}
+
+div.carousel .scrollable .items div div.titleSide h4, div.carousel .scrollable .items div div.titleOver h4 {
+  margin: 0;
+  font-size: 0.8em;
+  font-weight:bold;
+  color:#FFFFFF;
+}
+
+div.carousel .scrollable .items div div.titleSide h4 {
+  top: 0;
+}
+
+div.carousel .scrollable .items div div.titleOver h4 {
+  position: absolute;
+  top: 0;
+  padding:2px;
+  line-height:1em;
+  height:75%;
+  overflow:hidden;
+}
+
+div.carousel div.nav div.indicator {
+  margin: 0pt auto;
+}
+
+div.carousel div.arrows {
+  position: absolute;
+  right: 0px;
+  background-color: #FFFFFF;
+}
+
+div.carousel div.arrowsVertical a.left, div.carousel div.arrowsVertical a.left:hover, div.carousel div.arrowsVertical a.left:active {
+  background: url( '../gfx/carousel/upArrow.png' ) no-repeat;
+}
+
+div.carousel div.arrowsVertical a.right, div.carousel div.arrowsVertical a.right:hover, div.carousel div.arrowsVertical a.right:active {
+  background: url( '../gfx/carousel/downArrow.png' ) no-repeat;
+}
+
+/* horizontal represents overlayPattern */
+div.carousel div.overlay div.infoWrapperFullHorizontal {
+  float: left;
+  width: 100%;
+}
+
+/* horizontal represents overlayPattern */
+div.carousel div.overlay div.infoWrapperPartialHorizontal {
+  float: left;
+  width: 65%;
+}
+
+/* horizontal represents overlayPattern */
+div.carousel div.overlay div.relatedItemsHorizontal {
+  float: right;
+  width: 35%;
+}
+
+/* vertical represents overlayPattern */
+div.carousel div.overlay div.infoWrapperFullVertical {
+  float: left;
+  width: 100%;
+}
+
+/* vertical represents overlayPattern */
+div.carousel div.overlay div.infoWrapperPartialVertical {
+  float: left;
+  width: 100%;
+}
+
+/* vertical represents overlayPattern */
+div.carousel div.overlay div.relatedItemsVertical {
+  float: left;
+  width: 100%;
+}
+div.carousel div.overlay div.info {
+  padding-right:10px;
+  padding-bottom:5px;
+  padding-left:15px;
+  padding-top:8px
+}
+
+div.carousel div.overlay ul.relatedItemList {
+  list-style-type: square;
+  padding-top:12px;
+  padding-right:10px;
+  padding-bottom:5px;
+  padding-left:20px;
+  font-size:0.9em;
+  font-weight:bold;
+  letter-spacing:0.05em;
+}
+div.carousel div.overlay ul.relatedItemList li {
+  margin:0 0 5px 0;
+}
+div.carousel div.hiddenContainer {
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+}
+
+div.carousel div.mainDisplayContainer a.playButton {
+  position: absolute;
+  color:#FFFFFF;
+  padding:0;
+  margin:0;
+}
+
+div.carousel div.mainDisplayContainer a.playButton:hover {
+  text-decoration:none;
+}
+
+div.carousel div.mainDisplayContainer a.playButton.small {
+  background:transparent url( '../gfx/carousel/Play25.png' ) no-repeat scroll 0 0;
+  width:25px;
+  height:25px;
+  left:45%;
+  top:44%;
+}
+div.carousel div.mainDisplayContainer a.playButton.medium {
+  background:transparent url( '../gfx/carousel/Play50.png' ) no-repeat scroll 0 0;
+  width:50px;
+  height:50px;
+  left:45%;
+  top:42%;
+}
+div.carousel div.mainDisplayContainer a.playButton.large {
+  background:transparent url( '../gfx/carousel/Play100.png' ) no-repeat scroll 0 0;
+  width:100px;
+  height:100px;
+  left:44%;
+  top:40%;
+}
+
+/******************* begin design of  tabs in carousel widget *********************/
+
+/* TABS */
+div.carousel ul.tabs  {
+  clear:both;
+  font-size:10px;
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  padding:1px 0 0;
+  text-transform:uppercase;
+  margin-bottom:7px;
+  border-bottom:1px solid #999999
+}
+
+div.carousel ul.tabs li {
+  display:inline;
+  margin:0;
+  padding:0;
+}
+
+div.carousel ul.tabs li a {
+  color:#004E8C;
+  margin:0 7px;
+  text-decoration:none;
+}
+
+div.carousel ul.tabs li a:hover, div.carousel .tabs li a.current {
+  color:#FFFFFF;
+  line-height:17px;
+  margin:0;
+  padding:3px 7px 8px;
+  text-decoration:none;
+}
+
+div.carousel ul.tabs li a:hover {
+  color: #004E8C;
+  text-decoration:underline;
+}
+
+div.carousel ul.tabs li a.current:hover {
+  color:#FFFFFF;
+  text-decoration:none;
+}
+
+div.carousel ul.tabs li a.current {
+	background:transparent url(../gfx/carousel/bg_header.png) no-repeat scroll left;
+}
+
+/******************* end design of  tabs in carousel widget *********************/
+
+div.carousel a.browseFilmstripHorizontal {
+  background:transparent url(../gfx/carousel/b_hori_large.png) no-repeat scroll -5px -5px;
+  cursor:pointer;
+  display:block;
+  float:left;
+  font-size:1px;
+  height:20px;
+  margin:0;
+  width:20px;
+  position:absolute;
+}
+
+div.carousel a.leftFilmstrip {
+  left:-10px;
+}
+
+div.carousel a.leftFilmstrip:hover {
+  background-position: -35px -5px;
+  text-decoration:none;
+}
+
+div.carousel a.rightFilmstrip {
+  background-position:-5px -35px;
+  clear:right;
+  right:-10px;
+}
+
+div.carousel a.rightFilmstrip:hover {
+  background-position: -35px -35px;
+  text-decoration:none;
+}
+
+div.carousel a.browseFilmstripVertical {
+  background:transparent url(../gfx/carousel/b_vert_large.png) no-repeat scroll -20px 0;
+  width:20px;
+  height:20px;
+  margin:0;
+  display:block;
+  cursor:pointer;
+  font-size:1px;
+  position:absolute;
+}
+
+div.carousel a.topFilmstrip {
+  top:-14px;
+}
+
+div.carousel a.topFilmstrip:hover {
+  background-position:-40px 0;
+  text-decoration:none;
+}
+
+div.carousel a.bottomFilmstrip {
+  background-position:-20px -20px;
+  bottom:-10px;
+  text-decoration:none;
+}
+
+div.carousel a.bottomFilmstrip:hover {
+  background-position:-40px -20px;
+}
+
+div.carousel a.bottomFilmstrip.indicators {
+  background-position:-20px -20px;
+  bottom:10px;
+}
+
+div.carousel a.bottomFilmstrip.indicators:hover {
+  background-position:-40px -20px;
+}
+
+div.carousel a.browseFilmstripHorizontal.disabled, div.carousel a.browseFilmstripVertical.disabled {
+	display:none;
+}
+
+div.carousel div.scrollable div.items div.page {
+	float:left;
+}
+
+/* -------------------------------  slideshow in stories widget  -------------------------------------- */
+div.stories div.slideshow {
+  clear:both;
+  color:#FFFFFF;
+  border: 1px solid #666666;
+  margin:0 0 10px;
+  padding:0;
+  position:relative;
+  overflow:hidden;
+  float: right;
+}
+div.stories div.slideshow  img {
+  margin:0;
+  padding:0;
+  border:none !important;
+}
+div.stories div.slideshow  div.info {
+  margin:0;
+  background:#1E1D1D;
+  color:#FFFFFF;
+  opacity:0.8;
+  position:absolute;
+  bottom:0;
+  left:0;
+  overflow:visible;
+  height:45px;
+  padding-top:5px;
+}
+div.stories div.slideshow  div.info div.content {
+  font:11px/normal Arial,Verdana,Helvetica,sans-serif;
+  color:#FFFFFF;
+  margin: 5px 8px;
+  padding:0 15px 0 0;
+  overflow:hidden;
+  text-align: left;
+  height: 30px;
+}
+div.stories div.slideshow  div.info div.content div,
+div.stories div.slideshow  div.info div.content p {
+  clear:none;
+  display:inline;
+  margin:0;
+  padding:0;
+}
+div.stories div.slideshow  div.info div.content a {
+  color: #FFFFFF;
+  text-decoration:none;
+}
+div.stories div.slideshow  div.info div.content a:hover {
+  color: #FFFFFF;
+  text-decoration:underline;
+}
+div.stories div.slideshow  div.info div.nav {
+  margin:5px 12px 5px 0;
+  padding:0 0 0 15px;
+  height:30px;
+  float:right;
+  border-left: 2px solid #D9D9D9;
+  overflow:hidden;
+}
+div.stories div.slideshow  div.info div.nav img {
+  float:left;
+  clear:none;
+  margin:1px 0 2px 0;
+  padding:0;
+  cursor:pointer;
+  border:none;
+  position:relative;
+  width:27px;
+  height:27px;
+}
+div.stories div.slideshow  div.info div.nav img:hover {
+  opacity:0.8;
+}
+div.stories div.slideshow  div.info div.nav div.status {
+  float:left;
+  clear:none;
+  width: 55px;
+  height:30px;
+  font:14px/30px Arial,Verdana,Helvetica,sans-serif;
+  color:#FFFFFF;
+  margin:0 2px;
+  padding:0;
+  overflow:hidden;
+  display:inline;
+  position:relative;
+}
+
+/* stories widget mini slideshow */
+div.stories div.slideshow  div.miniInfo {
+  height:35px;
+}
+div.stories div.slideshow  div.miniInfo div.content {
+  font:10px/20px Arial,Verdana,Helvetica,sans-serif;
+  margin:4px 7px;
+  padding:0 5px 0 0;
+  height:20px;
+}
+div.stories div.slideshow  div.miniInfo div.nav {
+  margin:3px 7px 3px 0;
+  padding:0 0 0 7px;
+  height:20px;
+  border-left: 1px solid #D9D9D9;
+}
+div.stories div.slideshow  div.miniInfo div.nav img {
+  margin:1px 0 1px 0;
+  padding:0;
+  width:18px;
+  height:18px;
+}
+div.stories div.slideshow  div.miniInfo div.nav div.status {
+  width:30px;
+  height:20px;
+  font:10px/20px Arial,Verdana,Helvetica,sans-serif;
+  margin:0 2px;
+  padding:0;
+}
+div.stories div.picture h3{
+  font-size:1.3em !important;
+  font-weight:normal !important;
+}
+
+div.stories div.topic {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* pageTools.css */
+div.pageTools {
+  margin:0 5px 10px 0;
+  float:left;
+}
+div.pageTools .article-links {
+  float:right;
+  text-align:right;
+  width:auto;
+}
+div.pageTools .article-links .enlarge-font {
+  float:right;
+  text-align:right;
+  width:auto;
+  margin:0px 0px 2px 2px;
+  padding:0px;
+}
+
+/*Print link*/
+div.pageTools .article-links .print-link {
+  float:right;
+  text-align:right;
+  width:auto;
+  margin:2px 0px 0px 0px;
+  padding:0px;
+}
+
+/*Email link*/
+div.pageTools .article-links .email-link {
+  float:right;
+  text-align:right;
+  width:auto;
+  margin:2px 0px 0px 5px;
+  padding:0px;
+}
+
+/*The popup box related css*/
+.jqpopup {
+  background: #F1F0EC;
+  position: absolute;
+  z-index: 1;
+  border: 1px solid #000000;
+  display: none;
+  width: 454px;
+  padding: 10px;
+  font-size: 1.2em;
+  font-family: arial, sans-serif;
+  text-align: left;
+}
+
+.jqpopup fieldset {
+	border: 0px none; 
+}
+
+.jqpopup .inputrow {
+	margin-bottom: 15px;
+	overflow: hidden;
+}
+
+.jqpopup #errorMessage {
+	width: auto;
+	clear: both;
+	margin-right: 5px;
+	margin-top: 0px !important;
+}
+
+.jqpopup_header {
+  margin: 0;
+  padding: 0 5px 2px 10px;
+  top: 0;
+  left: 0;
+  color: #FE7322;
+  font-size: 1.4em;
+  font-weight: bold;
+  cursor: move;
+  font-family: georgia, times new roman, serif;
+}
+
+.jqpopup_footer {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  text-align: right;
+  font-size: 10px;
+}
+
+.jqpopup_content {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.jqpopup_content fieldset div {
+  float:left;
+  margin-right:10px;
+  text-align:right;
+  width:120px;
+  min-height: 28px;
+}
+
+.jqpopup_conten fieldset {
+  clear:both;
+  margin-left:0;
+  margin-right:0;
+  padding-bottom:10px;
+  padding-left:0;
+  padding-right:0;
+}
+
+.jqpopup_message {
+  padding: 10px 10px 5px;
+
+  color: red;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.jqpopup_resize {
+  display: none;
+}
+
+.jqpopup_cross {
+  background: url("../images/close-x.png") no-repeat;
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  cursor: pointer;
+}
+
+.jqpopup_center {
+  background: url("../gfx/pageTools/jqcenter.jpg") no-repeat;
+  height: 14px;
+  width: 16px;
+  position: absolute;
+  top: 0;
+  right: 18px;
+  cursor: pointer;
+}

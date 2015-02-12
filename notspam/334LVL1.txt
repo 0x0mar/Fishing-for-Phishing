@@ -1,0 +1,1558 @@
+
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                        
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="http://c1.pfstat.com">
+    <link rel="dns-prefetch" href="http://j1.pepperfry.com">
+    <link rel="dns-prefetch" href="http://i1.pfstat.com">
+    <link rel="dns-prefetch" href="http://i2.pfstat.com">
+    <link rel="dns-prefetch" href="http://i3.pfstat.com">
+    <link rel="dns-prefetch" href="//www.pepperfry.com">
+            <title>Online Shopping India - Shop Online for Furniture, Home Décor, Furnishings, Kitchenware, Dining, Home Appliances & Living Products @ Pepperfry.com - India's Largest Home Shopping Destination</title>
+                <meta name="description" content="Pepperfry.com is India's Furniture & Home Products' Destination. It offers consumers the best online shopping experience with high quality delivery service across range of products in Furniture, Home Décor, Furnishings, Kitchen, Appliances, Bed & Bath and Housekeeping categories. Pepperfry delivers to the propositions of value, variety and peace-of-mind shopping." />
+                <meta name="keywords" content="online shopping in india, home shopping, online stores in india, shopping websites in india, lifestyle online shopping, online fashion store" />
+            
+
+
+<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/common.css?v=0.879" />
+
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/scrollpane.css?v=0.879" />
+<link rel="stylesheet" type="text/css" href="http://c1.pepperfry.com/css/multiselect/jquery-ui.css?v=0.879" />
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1850-1750-responsive.css?v=0.879" />
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1650-1500-responsive.css?v=0.879" />
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1250-1130-responsive.css?v=0.879" />
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/1090-1024-responsive.css?v=0.879" />
+<link rel="stylesheet" href="http://c1.pepperfry.com/css/980-600-responsive.css?v=0.879" />
+<script type='text/javascript'>
+    var root_url = 'http://www.pepperfry.com';
+    var secure_url = 'https://www.pepperfry.com';
+    var $current = '/';
+    var server_name = 'www.pepperfry.com';
+    var block_reg_popup;
+    var page_type = 'home';
+    var dataLayer=[];
+    var itemData = {};
+    var image_url = 'http://i1.ppfry.com/';
+    var product_image_url = 'http://i1.ppfry.com/media/catalog/product/';
+    var max_cart_qty = 20;
+    var mreg = "";
+</script>
+<script type="text/javascript">
+    // get query parameters
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+        return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+    
+    mreg = getParameterByName("mreg");
+    if(!mreg && (mreg == "true" || mreg == "new" || mreg == "return")) first_event = false;
+    
+</script>
+
+<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery-1.10.0.min.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.cycle-2.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/carousel.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/cycle-swipe.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/site.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/header.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/customer/validate.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/ui/jquery-ui-1.10.2.custom.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/mousewheel.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/mwheelIntent.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.jscrollpane.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/modernizr.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/gtm.js?v=0.879"></script>
+<script type="text/javascript" src="http://j1.pepperfry.com/js/responsive.js?v=0.879"></script>
+
+<script type="text/javascript">
+    var skip_header = 0;
+    var loginFlag=false;
+    var skip_mini_cart = 0;
+    getTopBarLinks();
+    var _prum = [['id', '5481af64abe53da529e27e27'],
+             ['mark', 'firstbyte', (new Date()).getTime()]];
+	(function() {
+		var s = document.getElementsByTagName('script')[0]
+		  , p = document.createElement('script');
+		p.async = 'async';
+		p.src = '//rum-static.pingdom.net/prum.min.js';
+		s.parentNode.insertBefore(p, s);
+	})();
+</script>
+</head>
+<body class='black_shade'>
+   
+	<!-- Main Wrapper starts -->
+<div id="wrapper">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TWGMR3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TWGMR3');</script>
+<!-- End Google Tag Manager -->
+<link rel="publisher" href="https://plus.google.com/+pepperfry"/>
+        <div class="topbar">
+                <ul>	
+                		<li><a href="/designdemocracy.html">Design Democracy</a></li>
+                        <!--<li><a href="http://blog.pepperfry.com/">bon-homie magazine</a></li>-->
+                        <li><a href="/brands.html">Brands</a></li>
+                        <li class="sellonpepperfry"><a href="javascript:void(0);" >Connect with designers</a>
+                        	<div class="drop_tip_cover">
+                                <div class="drop_tip">
+                                <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/dec/drop_tip_arrow.png" width="13" height="8"></div>
+                                <ul style="width:170px;">
+                                    <li><a href="/designgurus/join_community" target="_blank">Be a <span class="red">design-guru</span></a></li>
+                                    <li><a href="/designgurus/directory" target="_blank"><span class="red">design-gurus</span> directory</a></li>
+                                </ul>
+                            </div>
+                            </div>
+                        </li>
+                        <li class="sellonpepperfry"><a href="javascript:void(0);">Sell on pepperfry</a>
+                            <div class="drop_tip_cover">
+                                <div class="drop_tip">
+                                    <div class="drop_tip_arrow"><img src="http://i1.ppfry.com/img/dec/drop_tip_arrow.png" width="13" height="8"></div>
+                                    <ul style="width:225px;">
+                                        <li><a href="/merchant/register" target="_blank">Register as a Merchant</a></li>
+                                        <li><a href="/merchant/login" target="_blank">Merchant Dashboard</a></li>
+                                        <li><a href="/sell-with-us.html">Contact Category Manager</a></li>
+                                        <li><a href="/marketplace_policies.html">Pepperfry Marketplace Policies</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="/bulkorder.html">Placing large orders</a></li>
+                        <li><a href="/contact-us.html">Customer support</a></li>
+                </ul>
+        </div>
+        <div class="header">
+            <div class="header_inner middle_wrapper clearfix">
+            	<a href="javascript:void(0)" class="mobilemenu_icon"></a>
+                <a href="http://www.pepperfry.com" class="logo" id="site-logo" ></a>
+                <div class="search_wrapper">
+                	<div itemscope="" itemtype="http://schema.org/WebSite" id="header_search"><meta itemprop="url" content="http://www.pepperfry.com/" />
+                		<form onsubmit="javascript:return checkForm();" method="get" action="http://www.pepperfry.com/site_product/search" id="search_mini_form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction"><meta itemprop="target" content="http://www.pepperfry.com/site_product/search?q={q}" />
+                			<input class="search_input" autocomplete="off" name="q" id="search" placeholder="Search for Furniture, Decor, Appliances &amp; more.." type="text" itemprop="query-input" /> 
+                			<input name="src" id="search_os" value="os" type="hidden" />
+                			<input name="cat" id="cat" value="" type="hidden" />
+							<div id="site_auto_suggest"></div>
+							<!--<input name="search_submit" id="search_submit" value="" type="submit" />-->
+						</form>
+						<script type="text/javascript">initAutoComplete();</script>
+					</div>
+                </div>
+                <a href="javascript:void(0)" class="acc_mob_icon"></a>
+                <div class="header_right">
+                	
+                </div>
+               	<div id="white_overlay_2"></div>
+               	
+            </div>
+        </div>
+        <div class="fix_pos"></div>
+
+        <div class="menu_wrapper" id="menu_wrapper">
+<ul>
+<li><a href="/furniture.html" rel="nav_furniture" class="level-top">FURNITURE</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/home-decor.html" rel="nav_home" class="level-top">HOME D&Eacute;COR</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/furnishings.html" rel="nav_furnishings" class="level-top">FURNISHINGS</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/lamps-lighting.html" rel="nav_lamps" class="level-top">LAMPS &amp; LIGHTING</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/kitchen-dining.html" rel="nav_kitchen" class="level-top">KITCHEN &amp; DINING</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/appliances.html" rel="nav_appliances" class="level-top">APPLIANCES</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/bath.html" rel="nav_bath" class="level-top">BATH</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/laundry-housekeeping.html" rel="nav_housekeeping" class="level-top">HOUSEKEEPING</a></li>
+<li class="border_r"><span></span></li>
+<li><a href="/pet-supplies.html" rel="nav_pet" class="level-top">PET SUPPLIES</a></li>
+</ul>		</div>
+                <div id="megamenu"></div>
+
+    <script>
+        var cid = '';
+    </script>
+<script>
+    var skip_header = 0;
+</script>
+
+
+<p><div id="slideshow_wrapper">
+<div id="slideshow" style="overflow: hidden;">
+<div style="background-image: url('http://i2.ppfry.com/media/wysiwyg/banners/Hero_love_home_banner_Promo_9_feb_2015.jpg'); visibility: hidden; position: absolute; top: 0px; left: 0px; z-index: 98; opacity: 1; display: block;" class="home_slide cycle-slide cycle-slide-active link_popup" rel="basant_box1">
+<div class="slide_data" style="margin: 174px 95px;"><!--<div class="slide_data_table" onclick="location.href='http://www.pepperfry.com/furniture.html?type=homepage-hero-1'" style="cursor: pointer;"></div>
+--></div>
+</div>
+<div style="background-image: url('http://i2.ppfry.com/media/wysiwyg/banners/hp_hero_1_4_feb_15.jpg'); visibility: hidden; position: absolute; top: 0px; left: 0px; z-index: 98; opacity: 1; display: block;" class="home_slide cycle-slide">
+<div class="slide_data" style="margin: 50px 95px;">
+<div class="slide_data_table" onclick="location.href='http://www.pepperfry.com/furniture.html?type=homepage-hero-2'" style="cursor: pointer;"></div>
+<div class="slide_data_table_cell"><a href="http://www.pepperfry.com/furniture.html?type=homepage-hero-2"><img style="position: absolute; left: 2%; top: -3%;" src="http://i1.ppfry.com/media/wysiwyg/banners/hp_hero_unit_02.png" width="100%" /></a></div>
+</div>
+</div>
+<div style="background-image: url('http://i2.ppfry.com/media/wysiwyg/banners/hp_hero_2_4_feb_15.jpg'); visibility: hidden; position: absolute; top: 0px; left: 0px; z-index: 98; opacity: 1; display: block;" class="home_slide cycle-slide">
+<div class="slide_data" style="margin: 50px 95px;">
+<div class="slide_data_table" onclick="location.href='http://www.pepperfry.com/furnishings.html?type=homepage-hero-3'" style="cursor: pointer;"></div>
+<div class="slide_data_table_cell"><a href="http://www.pepperfry.com/furnishings.html?type=homepage-hero-3"><img style="position: absolute; left: 2%; top: -3%;" src="http://i2.ppfry.com/media/wysiwyg/banners/hp_hero_unit_01.png" width="100%" /></a></div>
+</div>
+</div>
+<div style="background-image: url('http://i2.ppfry.com/media/wysiwyg/banners/hp_hero_3_4_feb_15.jpg'); visibility: hidden; position: absolute; top: 0px; left: 0px; z-index: 98; opacity: 1; display: block;" class="home_slide cycle-slide">
+<div class="slide_data" style="margin: 50px 95px;">
+<div class="slide_data_table" onclick="location.href='http://www.pepperfry.com/furnishings.html?type=homepage-hero-3'" style="cursor: pointer;"></div>
+<div class="slide_data_table_cell"><a href="http://www.pepperfry.com/kitchen-dining.html?type=homepage-hero-4"><img style="position: absolute; left: 2%; top: -3%;" src="http://i3.ppfry.com/media/wysiwyg/banners/hp_hero_unit_03.png" width="100%" /></a></div>
+</div>
+</div>
+<div style="background-image: url('http://i2.ppfry.com/media/wysiwyg/banners/new_home_hero_5_29_jan.jpg'); visibility: hidden; position: absolute; top: 0px; left: 0px; z-index: 98; opacity: 1; display: block;" class="home_slide cycle-slide">
+<div class="slide_data" style="margin: 174px 95px;">
+<div class="slide_data_table" onclick="location.href='http://www.pepperfry.com/designdemocracy.html?type=homepage-hero-5'" style="cursor: pointer;"></div>
+</div>
+</div>
+<a id="slide_prev" href="javascript:void(0)"></a> <a id="slide_next" href="javascript:void(0)" style="right: 3%;"></a></div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.making_process_slide, #making_prev, #making_next, .home_slide').css('visibility','visible');
+$('#making_process_slideshow').cycle({
+                slides: '> .making_process_slide',
+                fx: 'scrollHorz',
+                timeout: 4000,
+                speed: 800,
+                manualSpeed: 800,
+                pause: 1,
+                slideResize: true,
+                next: '#making_next',
+                prev: '#making_prev'
+});
+ 
+$('#slideshow').cycle({
+                slides: '> .home_slide',
+                fx: 'scrollHorz',
+                timeout: 4000,
+                speed: 800,
+                manualSpeed: 800,
+                pause: 1,
+                slideResize: true,
+                next: '#slide_next',
+                prev: '#slide_prev'
+});
+$('#slideshow .cycle-slide-active .slide_data, #making_process_slideshow .cycle-slide-active .making_table').addClass('active');
+ 
+$('#slideshow').on( 'cycle-before', function(event, optionHash, outgoingSlideEl, incomingSlideEl, forwardFlag) {
+                $('.slide_data',outgoingSlideEl).removeClass('active');
+});
+$('#slideshow').on( 'cycle-after', function(event, optionHash, outgoingSlideEl, incomingSlideEl, forwardFlag) {
+                $('.slide_data',incomingSlideEl).addClass('active');
+});
+ 
+$('#making_process_slideshow').on( 'cycle-before', function(event, optionHash, outgoingSlideEl, incomingSlideEl, forwardFlag) {
+                $('.making_table',outgoingSlideEl).removeClass('active');
+});
+$('#making_process_slideshow').on( 'cycle-after', function(event, optionHash, outgoingSlideEl, incomingSlideEl, forwardFlag) {
+                $('.making_table',incomingSlideEl).addClass('active');
+});
+$("#slideshow").on("swipeleft",function(){
+                                $('#slide_next').trigger('click');
+                });
+                $("#slideshow").on("swiperight",function(){
+                                $('#slide_prev').trigger('click');
+                });
+                });
+// ]]></script>
+</div><div class="department_wrapper">
+<div class="middle_wrapper clearfix">
+<h2 class="heading_1">Browse Our Departments.</h2>
+<span class="heading_2">45,000+ products to choose from. Free Shipping.</span>
+<div class="clearfix"></div>
+<div class="browse_dept_nav">
+<h3><a href="http://www.pepperfry.com/furniture.html" style="display: block; color: #ec1e20;">Furniture</a></h3>
+<ul>
+<li><a href="http://www.pepperfry.com/furniture-deals.html?type=browsedep-home"> <span style="font-weight: bold;">Deals</span><sup style="color: #ec1e20;">Hot</sup></a></li>
+<li><a href="http://www.pepperfry.com/furniture-forever-favourites.html?type=browsedep-home"> <span style="font-weight: bold;">Forever Favourites</span><sup style="color: #ec1e20;">Hot</sup></a></li>
+<li><a href="http://www.pepperfry.com/furniture-sofas-sofa-cum-beds.html?type=browsedep-furniture-cat">Sofa cum Beds</a></li>
+<li><a href="http://www.pepperfry.com/furniture-wardrobes.html?type=browsedep-furniture-cat">Wardrobes</a></li>
+<li><a href="http://www.pepperfry.com/furniture-sofas-recliners.html?type=browsedep-furniture-cat">Recliners</a></li>
+<li><a href="http://www.pepperfry.com/furniture-shoe-racks.html?type=browsedep-furniture-cat">Shoe Racks</a></li>
+<li><a href="http://www.pepperfry.com/furniture-furniture-xpresship.html?type=browsedep-furniture-cat">XPresShip</a></li>
+<li><a href="http://www.pepperfry.com/site_product/search?q=athena&amp;src=athena&amp;type=browsedep-furniture-cat">Athena Collection</a></li>
+<li><a href="http://www.pepperfry.com/brands/casacraft.html?cat=3&amp;type=hover-furniture-brands">CasaCraft</a></li>
+</ul>
+<a href="http://www.pepperfry.com/furniture.html" class="view_all_dept">View All &gt;</a></div>
+<div class="browse_dept_nav">
+<h3><a href="http://www.pepperfry.com/home-decor.html" style="display: block; color: #ec1e20;">Home D&eacute;cor</a></h3>
+<ul>
+<li><a href="http://www.pepperfry.com/home-decor-wall-shelves.html?type=browsedep-home-decor-cat">Wall shelves</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-clocks.html?type=browsedep-home-decor-cat">Wall Clocks</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-art-prints-and-panels.html?type=browsedep-home-decor-cat">Art Prints and Panels</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-photo-frames.html">Photo Frames</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-spiritual-decor.html?type=browsedep-home-decor-cat">Spiritual D&eacute;cor</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-curios.html?type=browsedep-home-decor-cat">Curios</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-corner-shelves.html?type=browsedep-home-decor-cat
+">Corner Shelves</a></li>
+</ul>
+<a href="http://www.pepperfry.com/home-decor.html" class="view_all_dept">View All &gt;</a></div>
+<div class="browse_dept_nav" id="browse_dept_nav_3">
+<h3><a href="http://www.pepperfry.com/furnishings.html" style="display: block; color: #ec1e20;">Furnishings</a></h3>
+<ul>
+<li><a href="http://www.pepperfry.com/furnishings-window-curtains.html?type=browsedep-furnishings-cat
+">Window Curtains </a></li>
+<li><a href="http://www.pepperfry.com/furnishings-mattresses.html?type=browsedep-furnishings-cat
+">Mattresses</a></li>
+<li><a href="http://www.pepperfry.com/furnishings-bed-sheets.html?type=browsedep-furnishings-cat
+">Bed Sheets</a></li>
+<li><a href="http://www.pepperfry.com/furnishings-cushion-covers.html?type=browsedep-furnishings-cat
+">Cushion Covers</a></li>
+<li><a href="http://www.pepperfry.com/furnishings-carpets.html?type=browsedep-furnishings-cat
+">Carpets</a></li>
+<li><a href="http://www.pepperfry.com/furnishings-kids-furnishings.html?type=browsedep-furnishings-cat
+">Kids Furnishing</a></li>
+<li><a href="http://www.pepperfry.com/furnishings-area-rugs.html?type=browsedep-furnishings-cat
+">Area Rugs</a></li>
+</ul>
+<a href="http://www.pepperfry.com/furnishings.html" class="view_all_dept">View All &gt;</a></div>
+<div class="clear980"></div>
+<div class="browse_dept_nav">
+<h3><a href="http://www.pepperfry.com/lamps-lighting.html" style="display: block; color: #ec1e20;">Lamps &amp; Lighting</a></h3>
+<ul>
+<li><a href="http://www.pepperfry.com/lamps-lighting-table-lamps.html?type=browsedep-lampslighting-cat
+">Table Lamps</a></li>
+<li><a href="http://www.pepperfry.com/lamps-lighting-ceiling-lights.html?type=browsedep-lampslighting-cat
+">Ceiling Lamps</a></li>
+<li><a href="http://www.pepperfry.com/lamps-lighting-wall-lights.html?type=browsedep-lampslighting-cat
+">Wall Lights</a></li>
+<li><a href="http://www.pepperfry.com/lamps-lighting-floor-lamps.html?type=browsedep-lampslighting-cat
+">Floor Lamps</a></li>
+<li><a href="http://www.pepperfry.com/lamps-lighting-outdoor-lights.html?type=browsedep-lampslighting-cat
+">Outdoor Lighting</a></li>
+<li><a href="http://www.pepperfry.com/lamps-lighting-emergency-lights.html?type=browsedep-lampslighting-cat
+">Emergency Lights</a></li>
+<li><a href="http://www.pepperfry.com/home-decor-lamps-lighting-torches.html?type=browsedep-lampslighting-cat
+">Torches</a></li>
+</ul>
+<a href="http://www.pepperfry.com/lamps-lighting.html" class="view_all_dept">View All &gt;</a></div>
+<div class="browse_dept_nav">
+<h3><a href="http://www.pepperfry.com/kitchen-dining.htm" style="display: block; color: #ec1e20;">Kitchen</a></h3>
+<ul>
+<li><a href="http://www.pepperfry.com/kitchen-microwave-cooking-cookware.html?type=browsedep-kitchen-cat
+">Cookware </a></li>
+<li><a href="http://www.pepperfry.com/kitchen-dining-storage.html?type=browsedep-kitchen-cat
+">Food Storage</a></li>
+<li><a href="http://www.pepperfry.com/kitchen-dining-barware.html?type=browsedep-kitchen-cat">Barware</a></li>
+<li><a href="http://www.pepperfry.com/kitchen-dining-barware.html?type=browsedep-kitchen-cat
+">Dinner Sets</a></li>
+<li><a href="http://www.pepperfry.com/kitchen-dining-dinner-sets.html?type=browsedep-kitchen-cat
+">Lunch Boxes</a></li>
+<li><a href="http://www.pepperfry.com/kitchen-dining-food-storage-lunch-boxes.html?type=browsedep-kitchen-cat
+">Bottles</a></li>
+<li><a href="http://www.pepperfry.com/kitchen-dining-food-storage-bottles.html?type=browsedep-kitchen-cat
+">Kitchen Tools</a></li>
+</ul>
+<a href="http://www.pepperfry.com/kitchen-dining.html" class="view_all_dept">View All &gt;</a></div>
+<div class="browse_dept_nav">
+<h3><a href="http://www.pepperfry.com/laundry-housekeeping.html" style="display: block; color: #ec1e20;">Housekeeping</a></h3>
+<ul>
+<li><a href="http://www.pepperfry.com/laundry-housekeeping-laundry.html?type=browsedep-housekeeping-cat">Laundry </a></li>
+<li><a href="http://www.pepperfry.com/laundry-housekeeping-organisers.html?type=browsedep-housekeeping-cat
+
+">Organizers </a></li>
+<li><a href="http://www.pepperfry.com/laundry-housekeeping-step-ladders-stools.html?type=browsedep-housekeeping-cat">Step Ladders &amp; Stools </a></li>
+<li><a href="http://www.pepperfry.com/laundry-housekeeping-cleaning.html?type=browsedep-housekeeping-cat">Cleaning Products </a>a</li>
+<li><a href="http://www.pepperfry.com/housekeeping-home-safety.html?type=browsedep-housekeeping-cat">Home Safety </a></li>
+<li><a href="http://www.pepperfry.com/laundry-housekeeping-tools-hardware.html?type=browsedep-housekeeping-cat">Tools</a></li>
+<li><a href="http://www.pepperfry.com/housekeeping-door-hardware.html?type=browsedep-housekeeping-cat">Door Hardware </a></li>
+</ul>
+<a href="http://www.pepperfry.com/laundry-housekeeping.html">View All &gt;</a></div>
+</div>
+</div><div class="middle_wrapper clearfix">
+<h2 class="heading_1">Something for every home.</h2>
+<span class="heading_2">Your home has a home on pepperfry.</span>
+<div class="clearfix"></div>
+<div class="every_home_wrapper">
+<div class="one_column column"><a href="http://www.pepperfry.com/furniture-deals.html?type=homepage-m-1" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_31_6_feb.jpg" alt="Deals" title="Deals
+" /></a> <a href="http://www.pepperfry.com/furniture-furniture-xpresship.html?type=homepage-m-6" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/wysiwyg/banners/hp_some_5_6_feb.jpg" alt="Furniture XpresShip Items" title="Furniture XpresShip Items" /></a></div>
+<div class="two_column column"><a href="http://www.pepperfry.com/furniture-beds-queen-sized-beds.html?type=homepage-m-2" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_1_6_feb.jpg" alt="Queen Sized Beds" title="Queen Sized Beds" /></a> <a href="http://www.pepperfry.com/furniture-forever-favourites.html?type=homepage-m-3" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_2_6_feb1.jpg" alt="Forever Favourites
+" title="Forever Favourites" /></a> <a href="http://www.pepperfry.com/site_product/search?q=athena&amp;cat=3&amp;p=1&amp;type=homepage-m-7" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_6_6_feb.jpg" alt="Athena Collection" title="Athena Collection" /></a> <a href="http://www.pepperfry.com/brands/casacraft.html?forder=brandsname&amp;cat=3&amp;p=1&amp;type=homepage-m-8" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i3.ppfry.com/media/wysiwyg/banners/hp_some_8_6_feb.jpg" alt="Casacraft Collection" title="Casacraft Collection" /></a></div>
+<div class="one_column column secondlast_column"><a href="http://www.pepperfry.com/furniture-study-laptop-tables.html?type=homepage-m-4" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_3_6_feb.jpg" alt="Study and Laptop Tables" title="Study and Laptop Tables" /></a> <a href="http://www.pepperfry.com/furniture-large-size-coffee-tables.html?type=homepage-m-9" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/wysiwyg/banners/hp_some_9_6_feb.jpg" alt="Large Coffee Tables" title="Large Coffee Tables" /></a></div>
+<div class="one_column column no_margin_right chop_column"><a href="http://www.pepperfry.com/furniture-sofas-sofa-cum-beds.html?type=homepage-m-5" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_4_6_feb.jpg" alt="Sofa cum Beds" title="Sofa cum Beds" /></a> <a href="http://www.pepperfry.com/furniture-chest-of-drawers.html?type=homepage-m-10" class="p_left square"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_10_6_feb.jpg" alt="Chest of Drawers" title="Chest of Drawers" /></a></div>
+<!--<div class="one_column column no_margin_right">
+					<a href="#" class="p_right square marginbottom"><img src="images/side-tables-img.jpg" alt="" /></a>
+					<a href="#" class="p_right square"><img src="images/chairs-img.jpg" alt="" /></a>					
+				</div>--></div>
+<div class="clearfix"></div>
+<div class="every_home_wrapper">
+<div class="one_column column"><a href="http://www.pepperfry.com/furniture-dining-sets.html?type=homepage-m-11" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_11_6_feb.jpg" alt="Dining Sets" title="Dining Sets" /></a> <a href="http://www.pepperfry.com/furnishings-bed-sheets.html?type=homepage-m-16" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i3.ppfry.com/media/wysiwyg/banners/hp_some_16_6_feb.jpg" alt="Mattresses" title="Mattresses" /></a></div>
+<div class="two_column column"><a href="http://www.pepperfry.com/furniture-entertainment-units.html?type=homepage-m-12" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_12_6_feb.jpg" alt="Entertainment Units" title="Entertainment Units" /></a> <a href="http://www.pepperfry.com/furniture-console-tables.html?type=homepage-m-13" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_13_6_feb.jpg" alt="Console Tables" title="Console Tables" /></a> <a href="http://www.pepperfry.com/home-decor-wall-shelves.html?type=homepage-m-17" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_17_6_feb.jpg" alt="Wall Shelves" title="Wall Shelves" /></a> <a href="http://www.pepperfry.com/kitchen-dining-pressure-cookers.html?type=homepage-m-18" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/wysiwyg/banners/hp_some_18_6_feb.jpg" alt="Pressure Cookers" title="Pressure Cookers" /></a></div>
+<div class="one_column column secondlast_column"><a href="http://www.pepperfry.com/furniture-book-shelves.html?type=homepage-m-14" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_14_6_feb.jpg" alt="Book Shelves" title="Book Shelves" /></a> <a href="http://www.pepperfry.com/bath-bathroom-fixtures-towel-racks.html?type=homepage-m-19" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_19_6_feb.jpg" alt="Towel Racks" title="Towel Racks" /></a></div>
+<div class="one_column column no_margin_right chop_column"><a href="http://www.pepperfry.com/furniture-shoe-racks.html?type=homepage-m-15" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_15_6_feb.jpg" alt="Shoe Racks
+" title="Shoe Racks" /></a> <a href="http://www.pepperfry.com/bath-towels-bath-towel.html?type=homepage-m-20" class="p_left square"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i3.ppfry.com/media/wysiwyg/banners/hp_some_20_6_feb.jpg" alt="Bath Towels" title="Bath Towels" /></a></div>
+<!--<div class="one_column column no_margin_right">
+					<a href="#" class="p_right square marginbottom"><img src="images/side-tables-img.jpg" alt="" /></a>
+					<a href="#" class="p_right square"><img src="images/chairs-img.jpg" alt="" /></a>					
+				</div>--></div>
+<div class="every_home_wrapper">
+<div class="one_column column"><a href="http://www.pepperfry.com/appliances-cooking-gas-stoves.html?type=homepage-m-21" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_21_6_feb.jpg" alt="Gas Stoves" title="Gas Stoves" /></a> <a href="http://www.pepperfry.com/home-decor-garden-decor-vases.html?type=homepage-m-26" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/wysiwyg/banners/hp_some_26_6_feb.jpg" alt="Vases" title="Vases" /></a></div>
+<div class="two_column column"><a href="http://www.pepperfry.com/lamps-lighting-wall-lights-wall-spot-lights.html?type=homepage-m-22" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_22_6_feb.jpg" alt="Wall Spot Lights" title="Wall Spot Lights" /></a> <a href="http://www.pepperfry.com/laundry-housekeeping-laundry-cloth-dryers.html?type=homepage-m-23" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_23_6_feb.jpg" alt="Clothes Dryers" title="Clothes Dryers" /></a> <a href="http://www.pepperfry.com/furnishings-carpets.html?type=homepage-m-27" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_27_6_feb.jpg" alt="Carpets" title="Carpets" /></a> <a href="http://www.pepperfry.com/lamps-lighting-ceiling-lights-chandeliers.html?type=homepage-m-28" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_28_6_feb.jpg" alt="Chandeliers" title="Chandeliers" /></a></div>
+<div class="one_column column secondlast_column"><a href="http://www.pepperfry.com/pet-supplies-dogs-clothing-accessories.html?type=homepage-m-29" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_29_6_feb.jpg" alt="Clothing Accessories" title="Clothing Accessories" /></a> <a href="http://www.pepperfry.com/kitchen-storage-canisters-jars.html?type=homepage-m-24" class="p_right square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i3.ppfry.com/media/wysiwyg/banners/hp_some_24_6_feb.jpg" alt="Canister &amp; Jars" title="Canister &amp; Jars" /></a></div>
+<div class="one_column column no_margin_right chop_column"><a href="http://www.pepperfry.com/laundry-housekeeping-organisers-bins-boxes.html?type=homepage-m-25" class="p_left square marginbottom"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i2.ppfry.com/media/wysiwyg/banners/hp_some_25_6_feb.jpg" alt="Boxes" title="Boxes" /></a> <a href="http://www.pepperfry.com/appliances-food-preparation-mixer-grinders.html?type=homepage-m-30" class="p_left square"><img class="lazy" src="http://i1.pepperfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/wysiwyg/banners/hp_some_30_6_feb.jpg" alt="Mixer Grinders" title="Mixer Grinders" /></a></div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(function(){$("img.lazy").lazy({visibleOnly: true,threshold:1000,enableThrottle: true,throttle: 250,beforeLoad: function(element){element.removeClass("lazy");}});});
+// ]]></script><h2 class="heading_1">Trending Now!</h2>
+<p><span class="heading_2">What people are viewing across the globe.</span></p>
+<div id="trending_items_wrap" class="community-box"><input id="product_id" type="hidden" name="product_id" value="272457" /> <input id="listdiv" type="hidden" name="listdiv" value="first" /> <input id="last_id" type="hidden" name="last_id" value="0" />
+<div id="slide1">
+<ul id="slide"><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/mosaic-hot-pot-casserole-800ml-1103974.html"><img class="no_loader trending_image" src="http://i1.ppfry.com/media/catalog/product/m/o/236x260/mosaic-hot-pot-casserole---800ml-mosaic-hot-pot-casserole---800ml-vu20wq.jpg" data-src="http://i1.ppfry.com/media/catalog/product/m/o/236x260/mosaic-hot-pot-casserole---800ml-mosaic-hot-pot-casserole---800ml-vu20wq.jpg" alt=""></a></div><a href="http://www.pepperfry.com/mosaic-hot-pot-casserole-800ml-1103974.html"><span class="trending_item_title">Mosaic Hot Pot Casserole - 800ml</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.506</span><a href="http://www.pepperfry.com/mosaic-hot-pot-casserole-800ml-1103974.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/mosaic-hot-pot-casserole-800ml-1103974.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/chidya-baarish-colored-tray-1165310.html"><img class="no_loader trending_image" src="http://i1.ppfry.com/media/catalog/product/c/h/236x260/chidya-baarish-colored-tray-chidya-baarish-colored-tray-enkpdd.jpg" data-src="http://i1.ppfry.com/media/catalog/product/c/h/236x260/chidya-baarish-colored-tray-chidya-baarish-colored-tray-enkpdd.jpg" alt=""></a></div><a href="http://www.pepperfry.com/chidya-baarish-colored-tray-1165310.html"><span class="trending_item_title">Chidya Baarish Colored Tray</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.910</span><a href="http://www.pepperfry.com/chidya-baarish-colored-tray-1165310.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/chidya-baarish-colored-tray-1165310.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/mosquito-nets-for-large-bed-1105853.html"><img class="no_loader trending_image" src="http://i1.ppfry.com/media/catalog/product/m/o/236x260/mosquito-nets-for-large-bed-mosquito-nets-for-large-bed-vwicw7.jpg" data-src="http://i1.ppfry.com/media/catalog/product/m/o/236x260/mosquito-nets-for-large-bed-mosquito-nets-for-large-bed-vwicw7.jpg" alt=""></a></div><a href="http://www.pepperfry.com/mosquito-nets-for-large-bed-1105853.html"><span class="trending_item_title">Mosquito Nets For Large Bed</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.768</span><a href="http://www.pepperfry.com/mosquito-nets-for-large-bed-1105853.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/mosquito-nets-for-large-bed-1105853.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/tu-casa-leaf-design-floor-lamp-with-floral-printed-shade-1244332.html"><img class="no_loader trending_image" src="http://i1.ppfry.com/media/catalog/product/t/u/236x260/tucasa-leaf-floor-lamp-with-printed-shade-tucasa-leaf-floor-lamp-with-printed-shade-mkrlvi.jpg" data-src="http://i1.ppfry.com/media/catalog/product/t/u/236x260/tucasa-leaf-floor-lamp-with-printed-shade-tucasa-leaf-floor-lamp-with-printed-shade-mkrlvi.jpg" alt=""></a></div><a href="http://www.pepperfry.com/tu-casa-leaf-design-floor-lamp-with-floral-printed-shade-1244332.html"><span class="trending_item_title">Tu Casa Leaf Design Floor Lamp With Floral Printed Shade</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.792</span><a href="http://www.pepperfry.com/tu-casa-leaf-design-floor-lamp-with-floral-printed-shade-1244332.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/tu-casa-leaf-design-floor-lamp-with-floral-printed-shade-1244332.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/oster-mini-chopper-1098542.html"><img class="no_loader trending_image" src="http://i1.ppfry.com/media/catalog/product/o/s/236x260/oster-mini-chopper-oster-mini-chopper-au77jn.jpg" data-src="http://i1.ppfry.com/media/catalog/product/o/s/236x260/oster-mini-chopper-oster-mini-chopper-au77jn.jpg" alt=""></a></div><a href="http://www.pepperfry.com/oster-mini-chopper-1098542.html"><span class="trending_item_title">Oster Mini Chopper</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.2,030</span><a href="http://www.pepperfry.com/oster-mini-chopper-1098542.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/oster-mini-chopper-1098542.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/invogue-xxl-black-big-boss-round-chair-without-beans-1106681.html"><img class="no_loader trending_image" src="http://i1.ppfry.com/media/catalog/product/i/n/236x260/invogue-xl-black-big-boss-round-chair--without-beans--invogue-xl-black-big-boss-round-chair--without-llzcfn.jpg" data-src="http://i1.ppfry.com/media/catalog/product/i/n/236x260/invogue-xl-black-big-boss-round-chair--without-beans--invogue-xl-black-big-boss-round-chair--without-llzcfn.jpg" alt=""></a></div><a href="http://www.pepperfry.com/invogue-xxl-black-big-boss-round-chair-without-beans-1106681.html"><span class="trending_item_title">INVOGUE XXL Black Big Boss Round Chair (Without Beans)</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,785</span><a href="http://www.pepperfry.com/invogue-xxl-black-big-boss-round-chair-without-beans-1106681.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/invogue-xxl-black-big-boss-round-chair-without-beans-1106681.html" class="trending_map_link">Delhi</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/cortina-wave-door-curtain-7ft-1252014.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/o/236x260/cortina-wave-door-curtain----7ft-cortina-wave-door-curtain----7ft-yhhjsm.jpg" alt=""></a></div><a href="http://www.pepperfry.com/cortina-wave-door-curtain-7ft-1252014.html"><span class="trending_item_title">Cortina Bold Red Wave Door Curtain  - 7Ft</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.433</span><a href="http://www.pepperfry.com/cortina-wave-door-curtain-7ft-1252014.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/cortina-wave-door-curtain-7ft-1252014.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/home-ecstasy-blue-double-bedsheet-set-1135964.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/o/236x260/home-ecstasy-blue-double-bedsheet-set-home-ecstasy-blue-double-bedsheet-set-yn1wpm.jpg" alt=""></a></div><a href="http://www.pepperfry.com/home-ecstasy-blue-double-bedsheet-set-1135964.html"><span class="trending_item_title">Home Ecstasy Blue 100% Cotton Double Bedsheet Set</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.512</span><a href="http://www.pepperfry.com/home-ecstasy-blue-double-bedsheet-set-1135964.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/home-ecstasy-blue-double-bedsheet-set-1135964.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/chidya-nimbu-paani-colored-tray-1165309.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/h/236x260/chidya-nimbu-paani-colored-tray-chidya-nimbu-paani-colored-tray-gckhh9.jpg" alt=""></a></div><a href="http://www.pepperfry.com/chidya-nimbu-paani-colored-tray-1165309.html"><span class="trending_item_title">Chidya Nimbu Paani Colored Tray</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.910</span><a href="http://www.pepperfry.com/chidya-nimbu-paani-colored-tray-1165309.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/chidya-nimbu-paani-colored-tray-1165309.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/story-home-nature-designer-eyelet-window-curtain-set-of-2-coffee-1246752.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/t/236x260/story---home-nature-designer-eyelet-window-curtain-set-of-2-coffee-story---home-nature-designer-eyel-fou20m.jpg" alt=""></a></div><a href="http://www.pepperfry.com/story-home-nature-designer-eyelet-window-curtain-set-of-2-coffee-1246752.html"><span class="trending_item_title">Story @ Home Designer Eyelet Window Curtain Set Of 2- Geometrical Coffee Print</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.599</span><a href="http://www.pepperfry.com/story-home-nature-designer-eyelet-window-curtain-set-of-2-coffee-1246752.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/story-home-nature-designer-eyelet-window-curtain-set-of-2-coffee-1246752.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/cipla-plast-bamboo-cabinet-1064154.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/i/236x260/cipla-plast-bamboo-cabinet-cipla-plast-bamboo-cabi-r9e9mg.jpg" alt=""></a></div><a href="http://www.pepperfry.com/cipla-plast-bamboo-cabinet-1064154.html"><span class="trending_item_title">Cipla Plast Bamboo Cabinet-White</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,078</span><a href="http://www.pepperfry.com/cipla-plast-bamboo-cabinet-1064154.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/cipla-plast-bamboo-cabinet-1064154.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/home-sparkle-yellow-wooden-shelves-set-of-4-1208296.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/o/236x260/home-sparkle-yellow-wooden-shelves---set-of-4-home-sparkle-yellow-wooden-shelves---set-of-4-owhoed.jpg" alt=""></a></div><a href="http://www.pepperfry.com/home-sparkle-yellow-wooden-shelves-set-of-4-1208296.html"><span class="trending_item_title">Home Sparkle Yellow Wooden Shelves - Set of 4</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,185</span><a href="http://www.pepperfry.com/home-sparkle-yellow-wooden-shelves-set-of-4-1208296.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/home-sparkle-yellow-wooden-shelves-set-of-4-1208296.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/saaga-wall-bracket-1241986.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/a/236x260/saaga-wall-bracket-saaga-wall-bracket-agz0hu.jpg" alt=""></a></div><a href="http://www.pepperfry.com/saaga-wall-bracket-1241986.html"><span class="trending_item_title">Saaga Wall Bracket Exquisite Rose</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.576</span><a href="http://www.pepperfry.com/saaga-wall-bracket-1241986.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/saaga-wall-bracket-1241986.html" class="trending_map_link">Kerala</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/cipla-plast-cloth-drying-stand-winsome-1080268.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/i/236x260/cipla-plast-cloth-drying-stand---winsome-cipla-plast-cloth-drying-stand---winsome-dmshjr.jpg" alt=""></a></div><a href="http://www.pepperfry.com/cipla-plast-cloth-drying-stand-winsome-1080268.html"><span class="trending_item_title">Cipla Plast Cloth Drying Stand - Winsome</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,595</span><a href="http://www.pepperfry.com/cipla-plast-cloth-drying-stand-winsome-1080268.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/cipla-plast-cloth-drying-stand-winsome-1080268.html" class="trending_map_link">Kerala</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/syska-0-5-watt-led-bulb-plastic-body-saves-more-than-a-cfl-1262964.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/y/236x260/syska-0-5-watt-led-bulb-plastic-body-saves-more-than-a-cfl-syska-0-5-watt-led-bulb-plastic-body-save-lqcq6u.jpg" alt=""></a></div><a href="http://www.pepperfry.com/syska-0-5-watt-led-bulb-plastic-body-saves-more-than-a-cfl-1262964.html"><span class="trending_item_title">Syska 0.5 Watt LED Bulb Plastic Body Saves More Than A CFL</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.99</span><a href="http://www.pepperfry.com/syska-0-5-watt-led-bulb-plastic-body-saves-more-than-a-cfl-1262964.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/syska-0-5-watt-led-bulb-plastic-body-saves-more-than-a-cfl-1262964.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/celestial-6-in-1-stainless-steel-nail-clippers-manicure-set-kit-1108884.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/e/236x260/celestial-6-in-1-stainless-steel-nail-clippers-manicure-set-kit-celestial-6-in-1-stainless-steel-nai-rq7oy8.jpg" alt=""></a></div><a href="http://www.pepperfry.com/celestial-6-in-1-stainless-steel-nail-clippers-manicure-set-kit-1108884.html"><span class="trending_item_title">Celestial 6-In-1 Stainless Steel Nail Clippers Manicure Set Kit</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.495</span><a href="http://www.pepperfry.com/celestial-6-in-1-stainless-steel-nail-clippers-manicure-set-kit-1108884.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/celestial-6-in-1-stainless-steel-nail-clippers-manicure-set-kit-1108884.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/action-black-sleek-slicer-multi-cutter-1234693.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/a/c/236x260/action-black-sleek-slicer-multi-cutter-action-black-sleek-slicer-multi-cutter-k2dlvh.jpg" alt=""></a></div><a href="http://www.pepperfry.com/action-black-sleek-slicer-multi-cutter-1234693.html"><span class="trending_item_title">Action Black Sleek Slicer multi cutter</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.152</span><a href="http://www.pepperfry.com/action-black-sleek-slicer-multi-cutter-1234693.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/action-black-sleek-slicer-multi-cutter-1234693.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/hurom-slow-juicer-hb-200-wine-1254761.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/u/236x260/hurom-slow-juicer-hb-200-wine-hurom-slow-juicer-hb-200-wine-fuip8k.jpg" alt=""></a></div><a href="http://www.pepperfry.com/hurom-slow-juicer-hb-200-wine-1254761.html"><span class="trending_item_title">Hurom Slow Juicer HB 200 Wine</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.24,900</span><a href="http://www.pepperfry.com/hurom-slow-juicer-hb-200-wine-1254761.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/hurom-slow-juicer-hb-200-wine-1254761.html" class="trending_map_link">Tamil Nadu</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/my-gift-booth-nylon-fabric-black-colour-shoecloth-organizer-1208619.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/m/y/236x260/my-gift-booth-nylon-fabric-black-colour-shoe-cloth-organizer-my-gift-booth-nylon-fabric-black-colour-l5kyef.jpg" alt=""></a></div><a href="http://www.pepperfry.com/my-gift-booth-nylon-fabric-black-colour-shoecloth-organizer-1208619.html"><span class="trending_item_title">My Gift Booth Nylon Fabric Black Colour Shoe&Cloth Organizer</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.800</span><a href="http://www.pepperfry.com/my-gift-booth-nylon-fabric-black-colour-shoecloth-organizer-1208619.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/my-gift-booth-nylon-fabric-black-colour-shoecloth-organizer-1208619.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/tupperware-plastic-super-storer-medium-3-6-litre-1109807.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/t/u/236x260/tupperware-plastic-super-storer-medium----3-6-litre-tupperware-plastic-super-storer-medium----3-6-li-zuiis6.jpg" alt=""></a></div><a href="http://www.pepperfry.com/tupperware-plastic-super-storer-medium-3-6-litre-1109807.html"><span class="trending_item_title">Tupperware Plastic Super Storer Medium  - 3.6 Litre</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.500</span><a href="http://www.pepperfry.com/tupperware-plastic-super-storer-medium-3-6-litre-1109807.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/tupperware-plastic-super-storer-medium-3-6-litre-1109807.html" class="trending_map_link">Tamil Nadu</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/zuri-supersoft-sofa-bed-in-light-brown-colour-by-furny-1248067.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/z/u/236x260/zuri-supersoft-sofa-bed-in-light-brown-colour-by-furny-zuri-supersoft-sofa-bed-in-light-brown-colour-smcwyx.jpg" alt=""></a></div><a href="http://www.pepperfry.com/zuri-supersoft-sofa-bed-in-light-brown-colour-by-furny-1248067.html"><span class="trending_item_title">Zuri supersoft Sofa bed in Light Brown colour by Furny</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.21,240</span><a href="http://www.pepperfry.com/zuri-supersoft-sofa-bed-in-light-brown-colour-by-furny-1248067.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/zuri-supersoft-sofa-bed-in-light-brown-colour-by-furny-1248067.html" class="trending_map_link">Delhi</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/eveready-hl-11-table-lamp-yellow-1251588.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/e/v/236x260/eveready-hl-11-table-lamp-yellow-eveready-hl-11-table-lamp-yellow-3c5a3b.jpg" alt=""></a></div><a href="http://www.pepperfry.com/eveready-hl-11-table-lamp-yellow-1251588.html"><span class="trending_item_title">Eveready Hl-11 Table Lamp Yellow</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.275</span><a href="http://www.pepperfry.com/eveready-hl-11-table-lamp-yellow-1251588.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/eveready-hl-11-table-lamp-yellow-1251588.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/havells-1200-mm-fan-fiesta-wine-red-1114395.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/a/236x260/havells-1200-mm-fan-fiesta-wine-red-havells-1200-mm-fan-fiesta-wine-red-dargye.jpg" alt=""></a></div><a href="http://www.pepperfry.com/havells-1200-mm-fan-fiesta-wine-red-1114395.html"><span class="trending_item_title">Havells 1200 Mm Fan Fiesta Wine Red</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.2,280</span><a href="http://www.pepperfry.com/havells-1200-mm-fan-fiesta-wine-red-1114395.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/havells-1200-mm-fan-fiesta-wine-red-1114395.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/simplistic-upholstered-bench-in-passion-mahogany-finish-with-mudramark-1214257.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/b/e/236x260/bench-bench-hgmw4w.jpg" alt=""></a></div><a href="http://www.pepperfry.com/simplistic-upholstered-bench-in-passion-mahogany-finish-with-mudramark-1214257.html"><span class="trending_item_title">Simplistic Upholstered Bench in Passion Mahogany Finish with Mudramark</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.15,999</span><a href="http://www.pepperfry.com/simplistic-upholstered-bench-in-passion-mahogany-finish-with-mudramark-1214257.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/simplistic-upholstered-bench-in-passion-mahogany-finish-with-mudramark-1214257.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/somapi-end-table-in-painted-multicolour-finish-with-mudramark-1119390.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/r/a/236x260/rangilo-rajasthan-stair-like-three-drawer-jewellery-box-rangilo-rajasthan-stair-like-three-drawer-je-enu3se.jpg" alt=""></a></div><a href="http://www.pepperfry.com/somapi-end-table-in-painted-multicolour-finish-with-mudramark-1119390.html"><span class="trending_item_title">Somapi End table in Painted - Multicolour finish with Mudramark</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.750</span><a href="http://www.pepperfry.com/somapi-end-table-in-painted-multicolour-finish-with-mudramark-1119390.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/somapi-end-table-in-painted-multicolour-finish-with-mudramark-1119390.html" class="trending_map_link">Delhi</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/tupperware-plastic-classic-lunch-box-with-insulated-bag-1039341.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/t/u/236x260/Tupperware-Classic-Lunch--Box-With-Insulated-Bag-Tupperware_Classic_Lunch__Box_With_Insulated_Bag-1359122001NMyPrv.jpg" alt=""></a></div><a href="http://www.pepperfry.com/tupperware-plastic-classic-lunch-box-with-insulated-bag-1039341.html"><span class="trending_item_title">Tupperware Plastic Classic Lunch  Box With Insulated Bag</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.525</span><a href="http://www.pepperfry.com/tupperware-plastic-classic-lunch-box-with-insulated-bag-1039341.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/tupperware-plastic-classic-lunch-box-with-insulated-bag-1039341.html" class="trending_map_link">Delhi</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/eveready-15watt-2u-cfl-1272050.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/e/v/236x260/eveready-15watt-2u-cfl-eveready-15watt-2u-cfl-2xrm9j.jpg" alt=""></a></div><a href="http://www.pepperfry.com/eveready-15watt-2u-cfl-1272050.html"><span class="trending_item_title">Eveready 15Watt 2U CFL</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.185</span><a href="http://www.pepperfry.com/eveready-15watt-2u-cfl-1272050.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/eveready-15watt-2u-cfl-1272050.html" class="trending_map_link">Delhi</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/home-sparkle-black-square-shelf-1177015.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/o/236x260/home-sparkle-black-square-shelf-home-sparkle-black-square-shelf-ufuoks.jpg" alt=""></a></div><a href="http://www.pepperfry.com/home-sparkle-black-square-shelf-1177015.html"><span class="trending_item_title">Home Sparkle Black Square Shelf</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,431</span><a href="http://www.pepperfry.com/home-sparkle-black-square-shelf-1177015.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/home-sparkle-black-square-shelf-1177015.html" class="trending_map_link">Rajasthan</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/heritage-fabs-anokhi-maroon-gold-double-bed-cover-set-with-2-pillow-covers-1217075.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/e/236x260/heritage-fabs-anokhi-maroon-gold-double-bed-cover-set-with-2-pillow-covers-heritage-fabs-anokhi-maro-0tludx.jpg" alt=""></a></div><a href="http://www.pepperfry.com/heritage-fabs-anokhi-maroon-gold-double-bed-cover-set-with-2-pillow-covers-1217075.html"><span class="trending_item_title">Heritage Fabs Traditional Maroon and Gold Double Bed Cover Set With 2 Pillow Covers</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.899</span><a href="http://www.pepperfry.com/heritage-fabs-anokhi-maroon-gold-double-bed-cover-set-with-2-pillow-covers-1217075.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/heritage-fabs-anokhi-maroon-gold-double-bed-cover-set-with-2-pillow-covers-1217075.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/audry-sofa-cum-bed-in-white-colour-with-prints-by-ventura-1232196.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/a/u/236x260/audry-sofa-cum-bed-in-white-colour-with-prints-by-ventura-audry-sofa-cum-bed-in-white-colour-with-pr-rmfpg7.jpg" alt=""></a></div><a href="http://www.pepperfry.com/audry-sofa-cum-bed-in-white-colour-with-prints-by-ventura-1232196.html"><span class="trending_item_title">Audry Sofa Cum Bed in White Colour with Prints by Ventura</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.13,009</span><a href="http://www.pepperfry.com/audry-sofa-cum-bed-in-white-colour-with-prints-by-ventura-1232196.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/audry-sofa-cum-bed-in-white-colour-with-prints-by-ventura-1232196.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/swayam-white-n-yellow-printed-eyelet-door-curtain-with-lining-1019866.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/w/236x260/Swayam-Printed-Premium-Eyelit-Curtain-With-Lining-LCURD--5904-LCURL---5904-1366191486JrpKkY.jpg" alt=""></a></div><a href="http://www.pepperfry.com/swayam-white-n-yellow-printed-eyelet-door-curtain-with-lining-1019866.html"><span class="trending_item_title">Swayam White N Yellow Printed Eyelet Door Curtain with Lining</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,552</span><a href="http://www.pepperfry.com/swayam-white-n-yellow-printed-eyelet-door-curtain-with-lining-1019866.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/swayam-white-n-yellow-printed-eyelet-door-curtain-with-lining-1019866.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/tupperware-fridge-smart-set-of-3-boxes-1143035.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/t/u/236x260/tupperware-fridge-smart-set-of-3-boxes-tupperware-fridge-smart-set-of-3-boxes-eww20m.jpg" alt=""></a></div><a href="http://www.pepperfry.com/tupperware-fridge-smart-set-of-3-boxes-1143035.html"><span class="trending_item_title">Tupperware Fridge Smart Set Of 3 Boxes</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,358</span><a href="http://www.pepperfry.com/tupperware-fridge-smart-set-of-3-boxes-1143035.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/tupperware-fridge-smart-set-of-3-boxes-1143035.html" class="trending_map_link">Karnataka</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56bl-1251580.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/e/v/236x260/eveready-rechargeable-home-light-hl56bl-eveready-rechargeable-home-light-hl56bl-4rqmke.jpg" alt=""></a></div><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56bl-1251580.html"><span class="trending_item_title">Eveready Rechargeable Home Light Hl56Bl</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.806</span><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56bl-1251580.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56bl-1251580.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/tijuana-queen-sized-bed-in-espresso-walnut-finish-by-woodsworth-1213585.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/p/e/236x260/pembroke-bed-in-espresso-walnut-finish-with-mudramark-pembroke-bed-in-espresso-walnut-finish-with-mu-3dogqb.jpg" alt=""></a></div><a href="http://www.pepperfry.com/tijuana-queen-sized-bed-in-espresso-walnut-finish-by-woodsworth-1213585.html"><span class="trending_item_title">Tijuana Queen Sized Bed in Espresso Walnut Finish by Woodsworth</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.38,999</span><a href="http://www.pepperfry.com/tijuana-queen-sized-bed-in-espresso-walnut-finish-by-woodsworth-1213585.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/tijuana-queen-sized-bed-in-espresso-walnut-finish-by-woodsworth-1213585.html" class="trending_map_link">Delhi</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/clip-fresh-rectangular-container-blue-4-ltr-1205747.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/l/236x260/clip-fresh-rectangular-container-blue-4-ltr-clip-fresh-rectangular-container-blue-4-ltr-hoy6or.jpg" alt=""></a></div><a href="http://www.pepperfry.com/clip-fresh-rectangular-container-blue-4-ltr-1205747.html"><span class="trending_item_title">Clip Fresh Rectangular Container Blue 4 Ltr</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.485</span><a href="http://www.pepperfry.com/clip-fresh-rectangular-container-blue-4-ltr-1205747.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/clip-fresh-rectangular-container-blue-4-ltr-1205747.html" class="trending_map_link">California</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/sylvn-studio-lattice-black-hanging-lamp-1214636.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/y/236x260/sylvn-studio--lattice-black-hanging-lamp-sylvn-studio--lattice-black-hanging-lamp-jmpnbh.jpg" alt=""></a></div><a href="http://www.pepperfry.com/sylvn-studio-lattice-black-hanging-lamp-1214636.html"><span class="trending_item_title">Sylvn Studio Lattice Black Hanging Lamp</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.3,306</span><a href="http://www.pepperfry.com/sylvn-studio-lattice-black-hanging-lamp-1214636.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/sylvn-studio-lattice-black-hanging-lamp-1214636.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/dog-cage-size-4-1235883.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/d/o/236x260/dog-cage-size-4-dog-cage-size-4-1drdcc.jpg" alt=""></a></div><a href="http://www.pepperfry.com/dog-cage-size-4-1235883.html"><span class="trending_item_title">Dog Cage Size 4</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.6,316</span><a href="http://www.pepperfry.com/dog-cage-size-4-1235883.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/dog-cage-size-4-1235883.html" class="trending_map_link">Haryana</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/grj-india-multicolor-cotton-double-bed-sheet-set-1258678.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/g/r/236x260/grj-india-multicolor-cotton-double-bed-sheet-set-grj-india-multicolor-cotton-double-bed-sheet-set-bnojhi.jpg" alt=""></a></div><a href="http://www.pepperfry.com/grj-india-multicolor-cotton-double-bed-sheet-set-1258678.html"><span class="trending_item_title">Grj India Multicolor Cotton Double Bed Sheet Set</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.399</span><a href="http://www.pepperfry.com/grj-india-multicolor-cotton-double-bed-sheet-set-1258678.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/grj-india-multicolor-cotton-double-bed-sheet-set-1258678.html" class="trending_map_link">Minnesota</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/brasilia-bed-in-colonial-maple-finish-by-woodsworth-1213698.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/e/236x260/hertford-bed-in-colonial-maple-finish-with-mudramark-hertford-bed-in-colonial-maple-finish-with-mudr-jiz0fk.jpg" alt=""></a></div><a href="http://www.pepperfry.com/brasilia-bed-in-colonial-maple-finish-by-woodsworth-1213698.html"><span class="trending_item_title">Mexico King Sized Bed in Colonial Maple Finish by Woodsworth</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.37,999</span><a href="http://www.pepperfry.com/brasilia-bed-in-colonial-maple-finish-by-woodsworth-1213698.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/brasilia-bed-in-colonial-maple-finish-by-woodsworth-1213698.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/bonita-wonder-wall-small-cloth-dryer-dr06-401l-bl-1054617.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/b/o/236x260/bonita-wonder-wall-small-cloth-dryer-dr06-401l-bl-bonita-wonder-wall-small-cloth-dryer-dr06-401l-bl-g8ezxq.jpg" alt=""></a></div><a href="http://www.pepperfry.com/bonita-wonder-wall-small-cloth-dryer-dr06-401l-bl-1054617.html"><span class="trending_item_title">Bonita Wonder Wall Small Cloth Dryer</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.592</span><a href="http://www.pepperfry.com/bonita-wonder-wall-small-cloth-dryer-dr06-401l-bl-1054617.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/bonita-wonder-wall-small-cloth-dryer-dr06-401l-bl-1054617.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/tupperware-super-storer-large-5-litre-1039464.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/t/u/236x260/Tupperware-Super-Storer-Large---5-Litre-Tupperware_Super_Storer_Large_-_5_Litre-1359123357dgVBmF.jpg" alt=""></a></div><a href="http://www.pepperfry.com/tupperware-super-storer-large-5-litre-1039464.html"><span class="trending_item_title">Tupperware Super Storer Large - 5 Litre</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.680</span><a href="http://www.pepperfry.com/tupperware-super-storer-large-5-litre-1039464.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/tupperware-super-storer-large-5-litre-1039464.html" class="trending_map_link">Tamil Nadu</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/bogota-three-seater-sofa-in-provincial-teak-finish-by-woodsworth-1089114.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/b/o/236x260/bogota-three-seater-sofa-in-provincial-teak-finish-by-woodsworth-bogota-three-seater-sofa-in-provinc-vqslk5.jpg" alt=""></a></div><a href="http://www.pepperfry.com/bogota-three-seater-sofa-in-provincial-teak-finish-by-woodsworth-1089114.html"><span class="trending_item_title">Soffa Cum Bed Walnut Finish by Woodsworth</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.47,999</span><a href="http://www.pepperfry.com/bogota-three-seater-sofa-in-provincial-teak-finish-by-woodsworth-1089114.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/bogota-three-seater-sofa-in-provincial-teak-finish-by-woodsworth-1089114.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/pebbleyard-xxl-classic-orange-bean-bag-with-beans-1168284.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/p/e/236x260/pebbleyard-xxl-classic-orange-bean-bag---with-beans-pebbleyard-xxl-classic-orange-bean-bag---with-be-qg7foe.jpg" alt=""></a></div><a href="http://www.pepperfry.com/pebbleyard-xxl-classic-orange-bean-bag-with-beans-1168284.html"><span class="trending_item_title">Pebbleyard XXL Classic Orange Bean Bag With Beans</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.2,013</span><a href="http://www.pepperfry.com/pebbleyard-xxl-classic-orange-bean-bag-with-beans-1168284.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/pebbleyard-xxl-classic-orange-bean-bag-with-beans-1168284.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/susharma-entertainment-unit-in-multi-colour-finish-with-mudramark-1199517.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/w/o/236x260/wodeyar-entertainment-unit-in-multicolour-finish-with-mudramark-wodeyar-entertainment-unit-in-multic-lpk3mq.jpg" alt=""></a></div><a href="http://www.pepperfry.com/susharma-entertainment-unit-in-multi-colour-finish-with-mudramark-1199517.html"><span class="trending_item_title">Susharma Entertainment Unit in Multi-Colour Finish with Mudramark</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.24,999</span><a href="http://www.pepperfry.com/susharma-entertainment-unit-in-multi-colour-finish-with-mudramark-1199517.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/susharma-entertainment-unit-in-multi-colour-finish-with-mudramark-1199517.html" class="trending_map_link">Tamil Nadu</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/gloob-decal-style-abstract-eye-clock-1200157.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/g/l/236x260/gloob-decal-style-abstract-eye-clock-gloob-decal-style-abstract-eye-clock-chbcr9.jpg" alt=""></a></div><a href="http://www.pepperfry.com/gloob-decal-style-abstract-eye-clock-1200157.html"><span class="trending_item_title">Gloob Decal Style Abstract Eye Clock</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.975</span><a href="http://www.pepperfry.com/gloob-decal-style-abstract-eye-clock-1200157.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/gloob-decal-style-abstract-eye-clock-1200157.html" class="trending_map_link">Haryana</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/joseph-joseph-flo-oil-vinegar-drizzler-set-green-1208149.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/j/o/236x260/joseph-joseph-flo-oil---vinegar-drizzler-set--green--joseph-joseph-flo-oil---vinegar-drizzler-set--g-01djhr.jpg" alt=""></a></div><a href="http://www.pepperfry.com/joseph-joseph-flo-oil-vinegar-drizzler-set-green-1208149.html"><span class="trending_item_title">Joseph Joseph Flo Oil & Vinegar Drizzler Set -Green</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.4,489</span><a href="http://www.pepperfry.com/joseph-joseph-flo-oil-vinegar-drizzler-set-green-1208149.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/joseph-joseph-flo-oil-vinegar-drizzler-set-green-1208149.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/metal-style-metal-colorfull-shelves-1200628.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/m/e/236x260/metal-style-metal-colorfull-shelves-metal-style-metal-colorfull-shelves-fyhlii.jpg" alt=""></a></div><a href="http://www.pepperfry.com/metal-style-metal-colorfull-shelves-1200628.html"><span class="trending_item_title">Metal Style Metal Colorfull Shelves</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,452</span><a href="http://www.pepperfry.com/metal-style-metal-colorfull-shelves-1200628.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/metal-style-metal-colorfull-shelves-1200628.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56-red-1251574.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/e/v/236x260/eveready-rechargeable-home-light-hl56--red-eveready-rechargeable-home-light-hl56--red-miab96.jpg" alt=""></a></div><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56-red-1251574.html"><span class="trending_item_title">Eveready Rechargeable Home Light Hl56- Red</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.806</span><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56-red-1251574.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/eveready-rechargeable-home-light-hl56-red-1251574.html" class="trending_map_link">Andhra Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/umbra-skinny-red-plastic-waste-can-1140877.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/u/m/236x260/umbra-skinny-red-plastic-waste-can-umbra-skinny-red-plastic-waste-can-zwzrdw.jpg" alt=""></a></div><a href="http://www.pepperfry.com/umbra-skinny-red-plastic-waste-can-1140877.html"><span class="trending_item_title">Umbra Skinny Red Plastic Waste Can</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.595</span><a href="http://www.pepperfry.com/umbra-skinny-red-plastic-waste-can-1140877.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/umbra-skinny-red-plastic-waste-can-1140877.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/montevideo-tall-bar-unit-in-passion-mahogany-finish-by-woodsworth-1190960.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/m/o/236x260/montevideo-tall-bar-units-in-passion-mahogany-finish-by-woodsworth-montevideo-tall-bar-units-in-pass-q6am4g.jpg" alt=""></a></div><a href="http://www.pepperfry.com/montevideo-tall-bar-unit-in-passion-mahogany-finish-by-woodsworth-1190960.html"><span class="trending_item_title">Montevideo Tall Bar Unit in Passion Mahogany Finish with Mudramark</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.21,999</span><a href="http://www.pepperfry.com/montevideo-tall-bar-unit-in-passion-mahogany-finish-by-woodsworth-1190960.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/montevideo-tall-bar-unit-in-passion-mahogany-finish-by-woodsworth-1190960.html" class="trending_map_link">Chandigarh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/ciplaplast-ironing-board-cover-with-felt-gec-526-c-l-1102339.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/c/i/236x260/ciplaplast-ironing-board-cover-with-felt-gec-526-c-l-ciplaplast-ironing-board-cover-with-felt-gec-52-ac46h2.jpg" alt=""></a></div><a href="http://www.pepperfry.com/ciplaplast-ironing-board-cover-with-felt-gec-526-c-l-1102339.html"><span class="trending_item_title">Cipla Plast Ironing Board Cover With Felt</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.233</span><a href="http://www.pepperfry.com/ciplaplast-ironing-board-cover-with-felt-gec-526-c-l-1102339.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/ciplaplast-ironing-board-cover-with-felt-gec-526-c-l-1102339.html" class="trending_map_link">West Bengal</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/multicolor-hexagonal-wall-shelves-set-of-3-1129076.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/m/u/236x260/multicolor-hexagonal-wall-shelves---set-of-3-multicolor-hexagonal-wall-shelves---set-of-3-tvatb4.jpg" alt=""></a></div><a href="http://www.pepperfry.com/multicolor-hexagonal-wall-shelves-set-of-3-1129076.html"><span class="trending_item_title">Multicolor Hexagonal Wall Shelves - Set Of 3</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,068</span><a href="http://www.pepperfry.com/multicolor-hexagonal-wall-shelves-set-of-3-1129076.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/multicolor-hexagonal-wall-shelves-set-of-3-1129076.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/sao-luis-king-sized-bed-in-colonial-maple-finish-by-woodsworth-1216077.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/a/236x260/sao-luis-king-sized-bed-in-colonial-maple--finish-by-woodsworth-sao-luis-king-sized-bed-in-colonial--ayrgdo.jpg" alt=""></a></div><a href="http://www.pepperfry.com/sao-luis-king-sized-bed-in-colonial-maple-finish-by-woodsworth-1216077.html"><span class="trending_item_title">Sao Luis King Sized Bed in Colonial Maple  Finish by Woodsworth</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.20,999</span><a href="http://www.pepperfry.com/sao-luis-king-sized-bed-in-colonial-maple-finish-by-woodsworth-1216077.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/sao-luis-king-sized-bed-in-colonial-maple-finish-by-woodsworth-1216077.html" class="trending_map_link">Tamil Nadu</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/pindia-loving-dogs-design-wall-sticker-1193962.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/p/i/236x260/pindia-loving-dogs-design-wall-sticker-pindia-loving-dogs-design-wall-sticker-5cjlxw.jpg" alt=""></a></div><a href="http://www.pepperfry.com/pindia-loving-dogs-design-wall-sticker-1193962.html"><span class="trending_item_title">Pindia Loving Dogs Design Wall Sticker</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.323</span><a href="http://www.pepperfry.com/pindia-loving-dogs-design-wall-sticker-1193962.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/pindia-loving-dogs-design-wall-sticker-1193962.html" class="trending_map_link">Madhya Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/portico-new-york-best-seller-blue-double-bed-sheet-set-1166363.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/p/o/236x260/portico-new-york-best-seller-blue-double-bed-sheet-set-portico-new-york-best-seller-blue-double-bed--nmr7uw.jpg" alt=""></a></div><a href="http://www.pepperfry.com/portico-new-york-best-seller-blue-double-bed-sheet-set-1166363.html"><span class="trending_item_title">Portico New York Best Seller Blue Double Bed Sheet Set</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.999</span><a href="http://www.pepperfry.com/portico-new-york-best-seller-blue-double-bed-sheet-set-1166363.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/portico-new-york-best-seller-blue-double-bed-sheet-set-1166363.html" class="trending_map_link">Texas</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/home-sparkle-brown-set-of-2-corner-wall-shelves-1177026.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/h/o/236x260/home-sparkle-brown-set-of-2-corner-wall-shelves-home-sparkle-brown-set-of-2-corner-wall-shelves-ehay8s.jpg" alt=""></a></div><a href="http://www.pepperfry.com/home-sparkle-brown-set-of-2-corner-wall-shelves-1177026.html"><span class="trending_item_title">Home Sparkle Brown Set Of 2 Corner Wall Shelves</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.610</span><a href="http://www.pepperfry.com/home-sparkle-brown-set-of-2-corner-wall-shelves-1177026.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/home-sparkle-brown-set-of-2-corner-wall-shelves-1177026.html" class="trending_map_link">Chhattisgarh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/sterilite-2-6-gallon-ultra-step-on-wastebasket-1078353.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/t/236x260/sterilite-ultra-step-on-wastebasket-black-10-litres-sterilite-ultra-step-on-wastebasket-black-10-lit-gokqlz.jpg" alt=""></a></div><a href="http://www.pepperfry.com/sterilite-2-6-gallon-ultra-step-on-wastebasket-1078353.html"><span class="trending_item_title">Sterilite Ultra Step-On Wastebasket Black-10 Litres</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,308</span><a href="http://www.pepperfry.com/sterilite-2-6-gallon-ultra-step-on-wastebasket-1078353.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/sterilite-2-6-gallon-ultra-step-on-wastebasket-1078353.html" class="trending_map_link">Kerala</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/aquafresh-ktuv-home-ro-system-water-purifier-1001440.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/a/q/236x260/Aquafresh-KT-UV-Home-Ro-System-Water-Purifier-Aquafresh-KT-UV-Home-Ro-System-1371129447d1wWfh.jpg" alt=""></a></div><a href="http://www.pepperfry.com/aquafresh-ktuv-home-ro-system-water-purifier-1001440.html"><span class="trending_item_title">Aquafresh KT+UV Home Ro System Water Purifier</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.6,479</span><a href="http://www.pepperfry.com/aquafresh-ktuv-home-ro-system-water-purifier-1001440.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/aquafresh-ktuv-home-ro-system-water-purifier-1001440.html" class="trending_map_link">Maharashtra</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/valerio-popular-flask-2l-1128437.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/v/a/236x260/valerio-popular-flask---2l-valerio-popular-flask---2l-dtzdlk.jpg" alt=""></a></div><a href="http://www.pepperfry.com/valerio-popular-flask-2l-1128437.html"><span class="trending_item_title">Valerio Popular Flask - 2L</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.1,099</span><a href="http://www.pepperfry.com/valerio-popular-flask-2l-1128437.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/valerio-popular-flask-2l-1128437.html" class="trending_map_link">Uttar Pradesh</a></li><li class="product-item opacity_0" style="opacity: 1;"><div class="trending_item"><div class="trending_img_wrap"><a href="http://www.pepperfry.com/storage-queen-size-bed-with-button-design-headrest-by-durian-1157862.html"><img class="to_load trending_image" src="http://i1.ppfry.com/img/grey.gif" data-src="http://i1.ppfry.com/media/catalog/product/s/t/236x260/storage-queen-size-bed-with-button-design-headrest--by-durian-storage-queen-size-bed-with-button-des-zj7dja.jpg" alt=""></a></div><a href="http://www.pepperfry.com/storage-queen-size-bed-with-button-design-headrest-by-durian-1157862.html"><span class="trending_item_title">Storage Queen Size Bed with Button Design Headrest  by Durian</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.20,884</span><a href="http://www.pepperfry.com/storage-queen-size-bed-with-button-design-headrest-by-durian-1157862.html" class="add_to_cart_1">&nbsp;</a></div><a href="http://www.pepperfry.com/storage-queen-size-bed-with-button-design-headrest-by-durian-1157862.html" class="trending_map_link">Karnataka</a></li></ul>
+</div>
+</div>
+<script type="text/javascript" text="" javascript="">// <![CDATA[
+var clearScroll;
+$(window).load(function(){
+      
+    	if($("#product_id").length >0) {
+    		var url="/site_page/getCommunity";
+    		var data;
+    		var jsonData;
+    		var html;
+    		var id;		                
+    	    var total_time=0;
+    	    var requesttime=10000;
+    		(function getList() {
+    			/*$.ajax({
+    				url : url,
+    				dataType: 'json',
+    				type : 'get',				
+    				data : data,
+    				success : function(data) {
+    					var list_div="slide";
+    					var last_id=data.length-1;
+    					$("#last_id").val(last_id);
+    					$('#'+list_div).css("display","block");//add
+    					var new_data="";
+    					var counter_var = 0;
+    					//$(".product-item").hide("slide", { direction: "left" }, 1000);
+    					if(data.length >= 60) {
+							$.each($('#slide li'), function(index,element) {
+								if(index <= 54) {
+									$(element).remove();
+								}
+							});
+    					}
+    			  		for(var i=0;i<data.length;i++){
+	    			  		jsonData=$.parseJSON(data[i]);
+	    				 	if(i==last_id){
+	    						$("#product_id").val(jsonData.product_id);							 		  
+	    					}
+	    	             	new_data +='<li class="product-item opacity_0"><div class="trending_item"><div class="trending_img_wrap"><a href="'+jsonData.product_url+'"><img src="'+jsonData.image_url+'" alt="" /></a></div><a href="'+jsonData.product_url+'"><span class="trending_item_title">'+jsonData.name+'</span></a> <span class="p_left price_1"><span class="black">For:</span> Rs.'+jsonData.price+'</span><a href="'+jsonData.product_url+'" class="add_to_cart_1"> </a></div><a href="'+jsonData.product_url+'" class="trending_map_link">'+jsonData.state+'</a></li>' 
+    			  		}
+    			  		//$('#'+list_div).html(new_data);
+    			  		$('#'+list_div).append(new_data);
+    			  		trend_cnt = 0;
+	    				$('.opacity_0').animate({opacity:1},1000);
+    			  		$('#trending_items_wrap ul').css('width', $('#trending_items_wrap li').length * 236);
+    			  		trendingscroll();
+    				},
+    	 			complete: function() {
+						url = "/site_page/getCommunity/" + $("#product_id").val();
+    	                setTimeout(getList, 130000);
+    				}
+    			});*/
+    		})();
+    	}
+        trend_cnt = 0;
+	$('.opacity_0').animate({opacity:1},1000);
+    	$('#trending_items_wrap ul').css('width', '1400px');
+        //$('#slide').find('li').css('height','295px');
+    	clearScroll = setInterval(function() {trendingscroll();}, 2500);		
+     });
+    
+    var trend_cnt = 0,trend_sc_amt = 0, interval;
+    
+    function trendingscroll(){
+                $('#slide li:first').clone().appendTo('#slide'); 
+                $('#slide li:first').animate({marginLeft:'-'+($('#trending_items_wrap li').width() + parseInt($('#trending_items_wrap li:first').css('margin-right')))}, 500, function(){
+                        $('#slide li:first').remove();
+appendTrendingImages();
+                });
+    }
+
+var appendTrendingImages = function () {
+        for(var i=5;i<10;i++){
+            var image_to_load = $('#slide .trending_image:eq('+i+')');
+            if(image_to_load.hasClass("to_load"))
+                image_to_load.attr("src", image_to_load.attr("data-src")).removeClass("to_load").addClass("loaded");
+        }
+    };
+// ]]></script><div class="clearfix"></div>
+<h2 class="heading_1">Satisfaction Guaranteed.</h2>
+<div class="heading_2">Great service, easy returns. Rest assured.<a href="#" id="bulkorder_testimonial" class="black_underline">Share your story.</a></div>
+<div id="testimonials_wrapper" class="clearfix">
+<div id="testimonial_slideshow">
+<div class="testimonial_scroll">
+<div class="two_column column right_10">
+<div class="testimonial_row bottom_10">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i2.ppfry.com/media/wysiwyg/banners/testimonials_1_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_yellow">
+<p>It was a lovely experience shopping our living room furniture from Pepperfry.com. Their team was very supportive...</p>
+<div class="author_wrap"><span class="author">Anjali Shivakumar </span> <span class="city">Chennai </span></div>
+</div>
+</div>
+<div class="testimonial_row">
+<div class="testimonial_data bg_cherryred">
+<p>It has always been pleasure shopping. Pepperfry has everything, what you see is what you get.</p>
+<div class="author_wrap"><span class="author">Kamal Abrol </span> <span class="city">Gurgaon </span></div>
+</div>
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i3.ppfry.com/media/wysiwyg/banners/testimonials_2_12_jan_2015.jpg" alt="" /></a></div>
+</div>
+</div>
+<div class="one_column column right_10">
+<div class="testimonial_row">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i1.ppfry.com/media/wysiwyg/banners/testimonials_3_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_green">
+<p>Absolutely loved the Rajasthani sideboard from Pepperfry. Happy to have this colourful guest home.</p>
+<div class="author_wrap"><span class="author">Kasar Mann </span> <span class="city">Gurgaon </span></div>
+</div>
+</div>
+</div>
+<div class="two_column column right_10">
+<div class="testimonial_row bottom_10">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i2.ppfry.com/media/wysiwyg/banners/testimonials_12_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_yellow">
+<p>We bought this table from Pepperfry for our Client Lounge area. We like the fact that it is solid wood, well made and was delivered on time...</p>
+<div class="author_wrap"><span class="author">Pravin Shekar</span> <span class="city">Chennai</span></div>
+</div>
+</div>
+<div class="testimonial_row">
+<div class="testimonial_data bg_cherryred">
+<p>I loved the outdoor chair ordered from Pepperfry. The chair became neighbours envy here.</p>
+<div class="author_wrap"><span class="author">Haridas Karthikeyan </span> <span class="city">Bengaluru </span></div>
+</div>
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i3.ppfry.com/media/wysiwyg/banners/testimonials_4_12_jan_2015.jpg" alt="" /></a></div>
+</div>
+</div>
+<div class="one_column column right_10">
+<div class="testimonial_row">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i1.ppfry.com/media/wysiwyg/banners/testimonials_5_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_green">
+<p>I am extremely happy with the service. The rocking chair has definitely added a new appeal to our home and has fetched us many compliments...</p>
+<div class="author_wrap"><span class="author">Satish Vasishta </span> <span class="city">Bengaluru </span></div>
+</div>
+</div>
+</div>
+<div class="two_column column right_10">
+<div class="testimonial_row bottom_10">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i2.ppfry.com/media/wysiwyg/banners/testimonials_6_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_yellow">
+<p>Loved the cayenne set of tables they look unique, artistic and antique. Thanks and I will shop more!</p>
+<div class="author_wrap"><span class="author">Vijayalakshmi Shetty </span> <span class="city">Bengaluru</span></div>
+</div>
+</div>
+<div class="testimonial_row">
+<div class="testimonial_data bg_cherryred">
+<p>Bought so many items! Your furniture has changed the way my home looks. Recommended to all my friends.</p>
+<div class="author_wrap"><span class="author">Deboleena Banerjee </span> <span class="city">Bengaluru </span></div>
+</div>
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i3.ppfry.com/media/wysiwyg/banners/testimonials_7_12_jan_2015.jpg" alt="" /></a></div>
+</div>
+</div>
+<div class="one_column column right_10">
+<div class="testimonial_row">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i1.ppfry.com/media/wysiwyg/banners/testimonials_8_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_green">
+<p>I am very happy with my bar unit. The quality and make is top notch. Loved your service!</p>
+<div class="author_wrap"><span class="author">Sagar Naravane </span> <span class="city">Noida </span></div>
+</div>
+</div>
+</div>
+<div class="two_column column right_10">
+<div class="testimonial_row bottom_10">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i2.ppfry.com/media/wysiwyg/banners/testimonials_9_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_yellow">
+<p>I've been regularly buying furniture on Pepperfry the main reason being the wood quality (mainly from Jodhpur) which is long lasting...</p>
+<div class="author_wrap"><span class="author">Mayur Bajaj </span> <span class="city">Mumbai </span></div>
+</div>
+</div>
+<div class="testimonial_row">
+<div class="testimonial_data bg_cherryred">
+<p>Shopping experience was best.We got regular updates regarding manufacturing stage, date of completion and delivery. Thanks a lot!</p>
+<div class="author_wrap"><span class="author">Upender Kumar </span> <span class="city">Bengaluru </span></div>
+</div>
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i3.ppfry.com/media/wysiwyg/banners/testimonials_10_12_jan_2015.jpg" alt="" /></a></div>
+</div>
+</div>
+<div class="one_column column right_10">
+<div class="testimonial_row">
+<div class="testimonial_img"><a href="http://www.pepperfry.com/testimonials.html?type=homepage-hh-b1"><img src="http://i1.ppfry.com/media/wysiwyg/banners/testimonials_11_12_jan_2015.jpg" alt="" /></a></div>
+<div class="testimonial_data bg_green">
+<p>I was impressed by the variety and spread on offer at Pepperfry. Extremely happy with my purchase, that goes perfectly well with my hardwood floor...</p>
+<div class="author_wrap"><span class="author">Balagopal Ravibalan </span> <span class="city">Bengaluru</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a href="javascript:void(0)" id="testimonial_prev" class="easing_2 inactive"></a> <a href="javascript:void(0)" id="testimonial_next" class="easing_2"></a></div>
+<script type="text/javascript">// <![CDATA[
+//Script for Testimonials section 
+	var t_scroll_width = 0, left_flag = 0, left_rem, t_scroll_amt;			
+	$('.testimonial_scroll .column ').each(function(){
+		t_scroll_width += $(this).width() + 10;
+	});
+	$('.testimonial_scroll').css('width',t_scroll_width + 'px');
+	var remainder_left = t_scroll_width - $(window).width();
+	left_rem = remainder_left;
+	console.log(remainder_left);
+
+	$('#testimonial_next').click(function(){
+		if(left_flag == 0){
+			left_flag = 1;
+			if(left_rem > 230){
+				t_scroll_amt = parseInt($('.testimonial_scroll').css('left')) - 230;
+				left_rem -= 230;
+				$('.testimonial_scroll').animate({left: t_scroll_amt}, 350, function(){ left_flag = 0; });
+			}else{
+				t_scroll_amt = parseInt($('.testimonial_scroll').css('left')) - left_rem;
+				left_rem = 0;
+				$('.testimonial_scroll').animate({left: t_scroll_amt}, 350, function(){ left_flag = 0; });
+				$('#testimonial_next').addClass('inactive');
+			}
+			$('#testimonial_prev').removeClass('inactive');
+		}
+	});
+	$('#testimonial_prev').click(function(){
+		if(left_flag == 0){
+			left_flag = 1;
+			if(parseInt($('.testimonial_scroll').css('left')) < -230){
+				t_scroll_amt = parseInt($('.testimonial_scroll').css('left')) + 230;
+				left_rem += 230;
+				$('.testimonial_scroll').animate({left: t_scroll_amt}, 350, function(){ left_flag = 0; });
+			}else{
+				t_scroll_amt = remainder_left - left_rem;
+				left_rem = remainder_left;
+				$('.testimonial_scroll').animate({left: 0}, 350, function(){ left_flag = 0; });
+				$('#testimonial_prev').addClass('inactive');
+			}
+			$('#testimonial_next').removeClass('inactive');
+		}				
+	});
+// ]]></script><br /><div class="middle_wrapper clearfix">
+<h2 class="heading_1">How We Make the furniture you love.</h2>
+<span class="heading_2">Assured quality control - from sourcing of wood, upto doorstep delivery.</span>
+<div id="making_process_wrapper">
+<div id="making_process_slideshow">
+<div class="making_process_slide" style="background-image: url('http://i1.ppfry.com/media/wysiwyg/banners/furniture_made_with_love_1_16_jan.jpg');">
+<div class="making_table">
+<div class="making_table_cell">
+<div><span class="title_1">wood procurement</span>
+<p>The Solid Wood lumber [Mango, Sheesham or Teak] needs to be procured at an optimum level of dryness to avoid infestation. All raw materials are sourced by manufacturers from the pre-approved suppliers only to ensure standardisation and best quality.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="making_process_slide" style="background-image: url('http://i1.ppfry.com/media/wysiwyg/banners/furniture_made_with_love_2_16_jan.jpg');">
+<div class="making_table">
+<div class="making_table_cell">
+<div><span class="title_1">Cutting &amp; Panel Making</span>
+<p>The rough lumber is then sliced into selected length to match the furniture specifications. These panels are then glued and are placed into a pneumatic clamp carrier where constant and even pressure insures only the best joints.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="making_process_slide" style="background-image: url('http://i1.ppfry.com/media/wysiwyg/banners/furniture_made_with_love_3_16_jan.jpg');">
+<div class="making_table">
+<div class="making_table_cell">
+<div><span class="title_1">Sanding &amp; Finishing</span>
+<p>After designated drying times, sanding is performed. Sanding helps eliminate any scratches, cuts, or flaws in the wood. Sanding is also needed in order to ensure that a wood stain soaks in to the wood surface properly. After sanding the wood is stained using solvent based strainers as per the colour selected.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="making_process_slide" style="background-image: url('http://i1.ppfry.com/media/wysiwyg/banners/furniture_made_with_love_4_16_jan.jpg');">
+<div class="making_table">
+<div class="making_table_cell">
+<div><span class="title_1">Quality Check</span>
+<p>Each piece of furniture is then quality checked for dimensions, design accuracy, finish quality, raw materials used and exactness of the wood colour at the manufacturers location.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="making_process_slide" style="background-image: url('http://i1.ppfry.com/media/wysiwyg/banners/furniture_made_with_love_5_16_jan1.jpg');">
+<div class="making_table">
+<div class="making_table_cell">
+<div><span class="title_1">Multi-Layer Packaging</span>
+<p>Each piece of furniture is packed with four layers of packaging &ndash; bubble wraps, corrugated roles, outer cartons and shrink films. All corners are additionally covered with protectors and void spaces are filled using filling material to ensure minimal transit damage.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="making_process_slide" style="background-image: url('http://i1.ppfry.com/media/wysiwyg/banners/furniture_made_with_love_6_22_jan2.jpg');">
+<div class="making_table">
+<div class="making_table_cell">
+<div><span class="title_1">Last Mile Delivery</span>
+<p>All furniture items are shipped using dedicated trucks to the Pepperfry distribution centres. The products are then further delivered at customer&rsquo;s door step using our own last-mile-delivery infrastructure. Assembly and Carpenter services are provided free of cost to all customers</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a href="javascript:void(0)" id="making_prev"></a> <a href="javascript:void(0)" id="making_next"></a></div>
+</div><div class="clearfix"></div>
+<h2 class="heading_1">Brands Spotlight.</h2>
+<div class="heading_2">Great brands find their home on pepperfry.</div>
+<div class="clearfix"></div>
+<div id="spotlight_wrapper">
+<div id="spotlight_slideshow">
+<div class="spotlight_slide active"><a href="http://www.pepperfry.com/brands/mudramark.html?type=homepage-brand-1" class="marginbottom"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_clp_furnishing_mudramark.jpg" alt="" /></a><a href="http://www.pepperfry.com/brands/mintwud.html?forder=brandsname&amp;cat=3&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-13"><img src="http://i2.ppfry.com/media/wysiwyg/banners/brand_hp_home_13_16jan1.jpg" alt="" /></a></div>
+<div class="spotlight_slide"><a href="http://www.pepperfry.com/brands/casacraft.html?forder=brandsname&amp;cat=3&amp;p=1&amp;type=homepage-brand-3" class="marginbottom"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand3_hp_home_3_16jan1.jpg" alt="" /></a> <a href="http://www.pepperfry.com/brands/prestige.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-4"><img src="http://i3.ppfry.com/media/wysiwyg/banners/brand_hp_home_4_16jan1.jpg" alt="" /></a></div>
+<div class="spotlight_slide"><a href="http://www.pepperfry.com/brands/bathla.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-5" class="marginbottom"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_hp_home_5_16jan1.jpg" alt="" /></a> <a href="http://www.pepperfry.com/brands/cipla-plast.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-6"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_hp_home_6_16jan1.jpg" alt="" /></a></div>
+<div class="spotlight_slide"><a href="http://www.pepperfry.com/brands/metal-style.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-7" class="marginbottom"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_hp_home_7_16jan1.jpg" alt="" /></a> <a href="http://www.pepperfry.com/brands/woodsworth.html?type=homepage-brand-8"><img src="http://i2.ppfry.com/media/wysiwyg/banners/brand_hp_home_1_16jan1.jpg" alt="" /></a></div>
+<div class="spotlight_slide"><a href="http://www.pepperfry.com/brands/royal-canin.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-9" class="marginbottom"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_hp_home_9_16jan1.jpg" alt="" /></a> <a href="http://www.pepperfry.com/brands/swayam.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-10"><img src="http://i3.ppfry.com/media/wysiwyg/banners/brand_hp_home_10_16jan1.jpg" alt="" /></a></div>
+<div class="spotlight_slide"><a href="http://www.pepperfry.com/brands/tu-casa.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-11" class="marginbottom"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_hp_home_11_16jan1.jpg" alt="" /></a> <a href="http://www.pepperfry.com/brands/tupperware.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-12"><img src="http://i1.ppfry.com/media/wysiwyg/banners/brand_hp_home_12_16jan1.jpg" alt="" /></a></div>
+<div class="spotlight_slide"><a href="http://www.pepperfry.com/brands/home-sparkle.html?forder=brandsname&amp;p=1&amp;order=updated_at&amp;dir=desc&amp;type=homepage-brand-2" class="marginbottom"><img src="http://i2.ppfry.com/media/wysiwyg/banners/brand2_hp_home_2_16jan1.jpg" alt="" /></a></div>
+<script type="text/javascript">// <![CDATA[
+// Script for Brand infinite scrolling
+	var single_spot_width, spot_flag = 0, spot_curr_el;
+	single_spot_width = parseInt($('.spotlight_slide').width() + parseFloat($('.spotlight_slide').css('padding-right')) * 2);
+	var spot_margin = parseFloat($('.spotlight_slide').css('padding-right'));
+	console.log(single_spot_width);
+	$('#spotlight_next').click(function(){
+		if(spot_flag == 0){
+			spot_flag = 1;
+			//single_spot_width = '-' + single_spot_width + 'px';
+			console.log(single_spot_width);
+			$('#spotlight_slideshow .active').animate({marginLeft:-single_spot_width}, 300, function(){ 
+				spot_flag = 0; 
+				spot_curr_el = $('#spotlight_slideshow .active');
+				$('.spotlight_slide').removeClass('active');
+				spot_curr_el.next().addClass('active');
+				$('.spotlight_slide:first-child').css({'margin':'0 0 0 0'}).appendTo('#spotlight_slideshow');
+				//spot_curr_el.
+			});
+		}				
+	});
+	$('#spotlight_prev').click(function(){
+		if(spot_flag == 0){
+			//spot_flag = 1;
+			//single_spot_width = '-' + single_spot_width + 'px';
+			console.log(single_spot_width);
+			$('.spotlight_slide').removeClass('active');
+			$('.spotlight_slide:last-child').css({'margin-left':'-' + single_spot_width + 'px'}).addClass('active').prependTo('#spotlight_slideshow');
+			$('#spotlight_slideshow .active').animate({marginLeft:0}, 300, function(){ 
+				spot_flag = 0;
+			});
+		}
+	});
+// ]]></script>
+</div>
+</div></p>
+<div class="popup_box" id="basant_box1" style="width: 680px; left: 45%;">
+<div class="clearfix"></div>
+<table id="Table_01" style="width: 630px; margin-bottom: 0;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" valign="middle"><img src="http://i3.ppfry.com/media/wysiwyg/banners/Modal_window_9_feb_2015.jpg" alt="Love Your Home" usemap="#Map1" border="0" width="680" /></td>
+</tr>
+</tbody>
+</table>
+<a href="javascript:void(0)" class="popup_close"></a></div>
+<div id="basant_box" class="popup_box" style="top: 200px; z-index: 1000001; width: 685px; left: 39%;"><a href="javascript:void(0)" class="popup_close"></a>
+<div class="overlay-inner-bg" style="width: auto;">
+<div class="popup"><img src="http://i3.ppfry.com/media/wysiwyg/banners/Modal_window_9_feb_2015.jpg" alt="" height="278" width="680" /></div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.home_slide .link_popup').click(function(e){
+                dataLayer.push({'category' : 'Love Your Home', 'action': 'Promo', 'label' : 'Modal', 'opt' : true, 'event' : 'legacyevent'});
+               
+            });
+});
+// ]]></script> 
+    <div class="content"><a class="hotoffer" id="hotoffer" > </a></div>
+    <div id="spicy-offer" class="transparent_bg" style = "display:none;" >   <div id="box" class="popup_container" style="top: -450px; z-index: 1000001;"><img id="boxclose" class="cross" style="margin: 0; top: 10px; right: 10px; border: 0px; background: #fff; cursor: pointer;" src="/img/cross_spicy.jpg" alt="" />
+<div class="overlay-inner-bg" style="width: auto;">
+<div class="popup">
+<table style="border: 1px solid #dedede; width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="middle">
+<div id="video-container1" class="popup"><iframe width="560" height="315" src="//www.youtube.com/embed/uYQUfDGu3SA?list=PLu1tQpeOPKjdBoZ29yneJ3E_nhC6BpklE" frameborder="0" allowfullscreen=""></iframe></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+var video_url = $('#video-container1 iframe').attr('src');
+$('#hotoffer').click(function(e){ 
+$('#video-container1 iframe').attr('src', video_url);
+$('#box').fadeIn('fast',function(){ 
+});
+e.preventDefault();
+});     
+
+$('#boxclose').click(function(){
+				$('#video-container1 iframe').attr('src', '');
+			});
+// ]]></script>        
+      </div>
+    <!-- Footer Start Here -->
+    <div class="clearfix"></div>
+    <div class="footer">
+            	<script type="text/javascript">
+var first_event = false;
+var show_reg_popup=true;
+var otp_register=false;
+var show_reg_popup=true;
+
+
+	
+        //show_reg_popup = true;
+	//console.log(show_reg_popup);
+	if(show_reg_popup==true)
+	{
+		$(window).load(function()
+		{ 
+			setTimeout(function() {
+				if (typeof block_reg_popup !=='undefined')
+				{
+					show_reg_popup=false;
+				}
+				else
+				{
+					var date = new Date();
+
+					var date_value=new Date();
+
+
+
+
+					var cookie_data_counter= readCookie('popup_counter');
+					var cookie_data_date=readCookie('popup_date');
+					var dt = new Date(cookie_data_date);
+
+					var new_counter=1;
+
+					if(cookie_data_counter && cookie_data_counter > 0)
+					{
+						if(cookie_data_counter==3) // 3rd day
+						{
+							if(cookie_data_date)
+							{
+								var hours = Math.abs(date_value.getTime() - dt.getTime()) / 3600000;
+								//hours=97;
+								if(hours <=96 )
+								{
+									show_reg_popup=false;
+									new_counter=3;
+								}
+								else
+								{
+									new_counter=4;
+								}
+							}
+						}
+						else if(cookie_data_counter==4) // after 96 hours reset it to 1
+						{
+							new_counter=1;
+						}
+						else
+						{
+							if(parseInt(cookie_data_counter) > 0)
+							{
+								new_counter=parseInt(cookie_data_counter) + 1;
+							}
+							else
+							{
+								new_counter=2;
+							}
+						}
+					}
+
+					if(show_reg_popup==true)
+					{
+						first_event = true;
+						openModel('signupBox');
+                                                $('#popup_overlay').addClass('active'); 
+						//$("#signupBox").fadeIn(50);
+						dataLayer.push({'category' : 'reg_modal', 'action': 'modal_launch', 'label' : 'modal_open', 'opt' : true, 'event' : 'legacyevent'});
+						createCookie('display_popup','1',-1);
+						createCookie('popup_counter',new_counter,5);
+						createCookie('popup_date',date_value,5);
+					}
+				}
+			},10000);
+		});
+	}
+
+	$(document).ready(function(){
+		var frgpx = readCookie('frgpx');
+		if(parseInt(frgpx) == 1) {
+			createCookie('frgpx',0,1800);
+		} else {
+			frgpx = 0;
+		}
+		if(parseInt(frgpx) == 1)
+		{
+			if(document.location.protocol == 'http:')
+			{
+				$("#offerPopups").fadeIn(50);
+                $('#popup_overlay').addClass('active');
+            }
+			//Google Code for Registration Conversion Page
+			/* <![CDATA[ */
+			var google_conversion_id = 1012760616;
+			var google_conversion_language = "en";
+			var google_conversion_format = "3";
+			var google_conversion_color = "ffffff";
+			var google_conversion_label = "wBKZCIjoywIQqID24gM";
+			var google_conversion_value = 0;
+			/* ]]> */
+
+			var script = document.createElement('script');
+			script.src = '//www.googleadservices.com/pagead/conversion.js';
+			document.documentElement.firstChild.appendChild(script);
+
+			//Non checkout Registration pixel
+			dataLayer.push({'category' : 'Registration', 'action': 'Signup', 'label' : 'Non_checkout', 'opt' : true, 'event' : 'legacyevent'});
+		}
+	});
+</script>
+
+<div class="popup_box reg_success" id="offerPopups" >
+    <a href="javascript:void(0)" class="popup_close"></a>
+        <div  class="">       
+        <img src="http://i1.ppfry.com/img/reg_congratulations_new_25_sep_2014.jpg" />		    
+    </div>
+</div>
+        
+<!--yrs code starts-->
+<div id="footer" >
+    <div class="middle_wrapper clearfix" id="footer_inner">
+  
+        <div class="footer_nav" id="footer_nav_1">
+            <h4><a href="/buying-furniture-online.html">Buying Furniture Online</a></h4>
+            <ul>
+                <li><a href="/buying-furniture-online.html#bfo_slide">Buy From the Comfort of Your Home</a></li>
+                <li><a href="/buying-furniture-online.html#bfo_testimonials_wrap">Customer Testimonials</a></li>
+                <li><a href="/buying-furniture-online.html#bfo_customize_wrap">Customize Your Furniture</a></li>
+                <li><a href="/buying-furniture-online.html#bfo_form_container">Design Your Own Furniture</a></li>
+                <li><a href="/buying-furniture-online.html#bfo_caring_wrap">Care For Your Furniture</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_2">
+            <h4><a href="/merchant/register">Sell On Pepperfry</a></h4>
+            <ul>
+                <li><a href="/sell-with-us.html">Contact a Category Manager</a></li>
+                <li><a href="/merchant/register#merchant_register">Register as a Merchant</a></li>
+                <li><a href="/merchant/register#sop_policies_wrap">Pepperfry Marketplace Policies</a></li>
+                <li><a href="/merchant/login">Login to Your Merchant Dashboard</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_3">
+            <h4><a href="/home-inspiration.html">Home Inspiration</a></h4>
+            <ul>
+                <li><a class="scroll_link" href="http://blog.pepperfry.com/" rel="scroll_from_bon_homie" add="50" target="_blank">Our Blog bon-homie!</a></li>
+                <li><a class="scroll_link" href="/home-inspiration.html#scroll_from_design_guru" rel="scroll_from_design_guru" add="50">design-gurus</a></li>
+                <li><a class="scroll_link" href="/home-inspiration.html#scroll_from_custome_design" rel="scroll_from_custome_design" add="50">Design Your Own Furniture</a></li>
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_4">
+            <h4><a href="/about.html">About Us</a></h4>
+            <ul>
+                <li><a href="/about.html#about_story">Our Story</a></li>
+                <li><a href="/about.html#about_news">In the News</a></li>
+                <li><a href="/about.html#about_interesting">Cool Stats</a></li>
+                <li><a href="/studio-pepperfry.html">Studio Pepperfry</a></li>
+				<li><a href="/careers.html">Careers</a></li>
+
+            </ul>
+        </div>
+        <div class="footer_nav" id="footer_nav_5">
+            <h4>Customer Support</h4>
+            <ul>
+                <li><a href="/contact-us.html#track_wrapper">Track Your Package</a></li>
+                <li><a href="/contact-us.html">Contact Customer Support</a></li>
+                <li><a href="/easy_returns.html">Returns &amp; Refunds</a></li>
+                <li><a href="/contact-us.html#faq_main_wrap">FAQs</a></li>
+            </ul>
+        </div>
+        <div class="clearfix"></div>
+        <h3 class="footer_title_1">Popular Categories</h3>
+<div class="popular_cats"><a title="Queen Size Beds" href="http://www.pepperfry.com/furniture-beds-queen-size.html?type=hp-footer-links-1">Queen Size Beds</a>, <a title="King Size Beds" href="http://www.pepperfry.com/furniture-beds-king-size.html?type=hp-footer-links-2">King Size Beds</a>, <a title="Coffee &amp; Centre Tables" href="http://www.pepperfry.com/furniture-tables-coffee-centre-tables.html?type=hp-footer-links-3">Coffee &amp; Centre Tables</a>, <a title="Dining Sets" href="http://www.pepperfry.com/furniture-dining-dining-sets.html?type=hp-footer-links-4">Dining Sets</a>, <a title="Recliners" href="http://www.pepperfry.com/furniture-sofas-recliners.html?type=hp-footer-links-5">Recliners</a>, <a title="Sofa cum Beds" href="http://www.pepperfry.com/furniture-sofas-sofa-cum-beds.html?type=hp-footer-links-6">Sofa cum Beds</a>, <a title="Rocking Chairs" href="http://www.pepperfry.com/furniture-chairs-rocking-chairs.html?type=hp-footer-links-7">Rocking Chairs</a>, <a title="Crockery Cabinets" href="http://www.pepperfry.com/furniture-cabinets-crockery-cabinets.html?type=hp-footer-links-8">Crockery Cabinets</a>, <a title="Book Shelves" href="http://www.pepperfry.com/furniture-book-shelves.html?type=hp-footer-links-9">Book Shelves</a>, <a title="Entertainment Units" href="http://www.pepperfry.com/furniture-entertainment-units.html?type=hp-footer-links-10">Entertainment Units</a>, <a title="Wardrobes" href="http://www.pepperfry.com/furniture-wardrobes.html?type=hp-footer-links-11">Wardrobes</a>, <a title="Garden &amp; Outdoor" href="http://www.pepperfry.com/furniture-garden-outdoor-furniture.html?type=hp-footer-links-12">Garden &amp; Outdoor</a>, <a title="Bar Furniture" href="http://www.pepperfry.com/furniture-bar-furniture.html?type=hp-footer-links-13">Bar Furniture</a>, <a title="Wall Shelves" href="http://www.pepperfry.com/home-decor-wall-shelves.html?type=hp-footer-links-15">Wall Shelves</a>, <a title="Wall Art" href="http://www.pepperfry.com/home-decor-wall-art.html?type=hp-footer-links-16">Wall Art</a>, <a title="Photo Frames" href="http://www.pepperfry.com/home-decor-photo-frames.html?type=hp-footer-links-17">Photo Frames</a>, <a title="Bed Sheets" href="http://www.pepperfry.com/furnishings-bed-spreads.html?type=hp-footer-links-18">Bed Sheets</a>, <a title="Mattresses" href="http://www.pepperfry.com/furnishings-mattresses.html?type=hp-footer-links-19">Mattresses</a>, <a title="Blankets &amp; Quilts" href="http://www.pepperfry.com/furnishings-blankets-quilts.html?type=hp-footer-links-20">Blankets &amp; Quilts</a>, <a title="Table Linen" href="http://www.pepperfry.com/kitchen-linen-textiles.html?type=hp-footer-links-21">Table Linen</a>, <a title="Water Purifiers" href="http://www.pepperfry.com/appliances-water-purifiers.html?type=hp-footer-links-22">Water Purifiers</a>, <a title="Gas Stoves" href="http://www.pepperfry.com/appliances-gas-stoves.html?type=hp-footer-links-23">Gas Stoves</a>, <a title="Microwave &amp; OTG" href="http://www.pepperfry.com/appliances-microwave-otg.html?type=hp-footer-links-24">Microwave &amp; OTG</a>, <a title="Geysers" href="http://www.pepperfry.com/appliances-geysers.html?type=hp-footer-links-25">Geysers</a>, <a title="Dinner Sets" href="http://www.pepperfry.com/kitchen-dining-dinner-sets.html?type=hp-footer-links-26">Dinner Sets</a>, <a title="Cookware Sets" href="http://www.pepperfry.com/kitchen-dining-cookware-cookware-sets.html?type=hp-footer-links-27">Cookware Sets</a>, <a title="Food Storage" href="http://www.pepperfry.com/kitchen-dining-storage.html?type=hp-footer-links-28">Food Storage</a>, <a title="Bathroom Scales" href="http://www.pepperfry.com/bed-bath-bathroom-scales.html?type=hp-footer-links-29">Bathroom Scales</a>, <a title="Bath Robes" href="http://www.pepperfry.com/bath-body-towels-bath-robes-gowns.html?type=hp-footer-links-30">Bath Robes</a>, <a title="Bathroom Cabinets" href="http://www.pepperfry.com/bed-bath-bathroom-cabinets.html?type=hp-footer-links-31">Bathroom Cabinets</a>, <a title="Shower Curtains" href="http://www.pepperfry.com/bath-body-shower-curtains.html?type=hp-footer-links-32">Shower Curtains</a>, <a title="Clothes Dryers" href="http://www.pepperfry.com/home-utility-laundry-cloth-dryers.html?type=hp-footer-links-33">Clothes Dryers</a>, <a title="Laundry Baskets" href="http://www.pepperfry.com/home-utility-laundry-baskets.html?type=hp-footer-links-34">Laundry Baskets</a></div>
+<div class="clearfix"></div>
+<h3 class="footer_title_1">Popular Brands</h3>
+<div class="popular_brands"><a title="Mudra" href="http://www.pepperfry.com/brands/mudra.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-1">Mudra</a>, <a title="Tupperware" href="http://www.pepperfry.com/brands/tupperware.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-2">Tupperware</a>, <a title="Nilkamal" href="http://www.pepperfry.com/brands/nilkamal.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-3">Nilkamal</a>, <a title="Prestige" href="http://www.pepperfry.com/brands/prestige.html?cat=8&amp;type=brands-page-11&amp;type=hp-footer-link-brands-4">Prestige</a>, <a title="Morphy Richards" href="http://www.pepperfry.com/brands/morphy-richards.html?cat=8&amp;type=brands-page-19&amp;type=hp-footer-link-brands-5">Morphy Richards</a>, <a title="Housefull" href="http://www.pepperfry.com/housefull.html?type=hp-footer-link-brands-6">Housefull</a>, <a title="Fos Lighting" href="http://www.pepperfry.com/brands/fos-lighting.html?type=hp-footer-link-brands-7">Fos Lighting</a>, <a title="Little India" href="http://www.pepperfry.com/brands/little-india.html?type=brands-page-8&amp;type=hp-footer-link-brands-8">Little India</a>, <a title="Bombay Dyeing" href="http://www.pepperfry.com/brands/bombay-dyeing.html?type=hp-footer-link-brands-9">Bombay Dyeing</a>, <a title="Bajaj" href="http://www.pepperfry.com/brands/bajaj.html?cat=8&amp;type=brands-page-12&amp;type=hp-footer-link-brands-10">Bajaj</a>, <a title="Springfit" href="http://www.pepperfry.com/springfit.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-11">Springfit</a>, <a title="Swayam" href="http://www.pepperfry.com/brands/swayam.html?cat=11&amp;type=brands-page-21&amp;type=hp-footer-link-brands-12">Swayam</a>, <a title="Stellar" href="http://www.pepperfry.com/brands/stellar.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-13">Stellar</a>, <a title="Eureka Forbes" href="http://www.pepperfry.com/brands/eureka-forbes.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-14">Eureka Forbes</a>, <a title="Coirfit" href="http://www.pepperfry.com/brands/coirfit.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-15">Coirfit</a>, <a title="Hawkins" href="http://www.pepperfry.com/brands/hawkins.html?order=updated_at&amp;dir=desc&amp;type=hp-footer-link-brands-16">Hawkins</a></div>          <div class="footer_main_img"></div>
+    </div>
+</div>
+<div class="copyright">
+    <div class="middle_wrapper clearfix">
+        <div class="p_left">
+            <a href="/bulkorder.html">Buy In Bulk</a>
+            <a href="#" id="footer_testimonial">Write a Testimonial</a>
+            <a href="http://blog.pepperfry.com/">bon-homie!</a>
+        </div>
+        <div class="p_right">
+            <a href="http://www.facebook.com/Pepperfry" target="_blank"><img src="http://i1.ppfry.com/img/dec/facebook-icon.png" alt="" /></a>
+            <a href="http://twitter.com/pepperfry" target="_blank"><img src="http://i1.ppfry.com/img/dec/twitter-icon.png" alt="" /></a>
+            <a href="http://pinterest.com/pepperfry/" target="_blank"><img src="http://i1.ppfry.com/img/dec/pinterest-icon.png" alt="" /></a>
+            <a href="http://www.youtube.com/user/Pepperfrytv" target="_blank"><img src="http://i1.ppfry.com/img/dec/youtube-icon.png" alt="" /></a>
+        </div>
+    </div>
+</div>
+<div class="flooring"></div>
+
+<!--yrs code ends-->
+    <script>
+    setTimeout(function(){
+        $('iframe[name=google_conversion_frame]').hide();
+    }, 250);
+    
+    /* Following code (if structure) reads 'pixel' cookie and accordingly fires pixel depending upon campaign */
+    if(readCookie('pixel')){
+        $('body').append(readCookie('pixel'));
+        eraseCookie('pixel');
+    }
+</script>
+    </div>
+    <!-- Quick view container -->
+    <div id="quick_view" class="transparent_bg" style="display:none;"><div class="popup_container" style="width:930px; left:39%; top:44%;"><div class="quick_look"></div></div></div>
+    <!-- Size Guide Container -->
+    <div id="guide_pop" class="transparent_bg" style="display:none;"><div class="popup_container" style="width:486px; top:43%; left:55%;"><div class="popup_inner"></div></div></div>
+
+<!-- login signup and forget and spicy offer div -->
+
+                <div class="popup_box" id="loginBox" >
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <script type="text/javascript">var customer_email = '';</script>
+<div class="popup_logo_wrap">
+    <img src="http://www.pepperfry.com/img/dec/popup-logo.png" alt="" />
+</div>
+<span class="title_1">Your home, unlimited</span>
+<form name="myLoginForm" onload = "reset()" id="login_popup_login_form" method="post" onsubmit="loginValidation(this.id);return false;" action="https://www.pepperfry.com/customer/authenticate"  >
+    <div class="red" id="login_error"></div>
+        <div class="input_wrap clearfix">
+        <input  type="text" name="user[new]" id="emailid" class="inputbox" placeholder="Email ID - e.g. taaza.tamatar@domain.com" autocomplete="off" />
+        <div id="email_Error" class="validation-advice" style="display:none" class = "jsError" >Invalid email ID</div>
+            
+            </div>
+    <div class="input_wrap clearfix">
+        <input type="password" name="password" id="password" class="inputbox" placeholder="Password" />
+        <div id="passwordError" class="validation-advice" style="display:none" class = "jsError" >Need password</div>
+    </div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me"><input type="checkbox" name="rememberMe" class="rememberme invisible" id="rememberme" value="1" />Remember Me.</label>
+        <a href="javascript:void(0)" class="link_popup  p_right forgot_link" rel="forgetPassBox">Forgot Password?</a>
+    </div>
+    <input type="submit" name="logSubmit" id="popup_login_form" class="btn btn_green" value="Log In" />
+</form><div class="textaligncenter">Do not have an account? <a href="javascript:void(0)" class="link_popup  red_underline" rel="signupBox">Register Now</a></div>
+
+
+<a href="javascript:void(0)" class="popup_close"></a>
+<script type="text/javascript">var server_name = "www.pepperfry.com";</script>        </div>
+        <div class="popup_box" id="signupBox">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <span class="title_1">REGISTER NOW & GET Rs. 10,000 TO SHOP</span>
+<div class="p_left club_data_list">
+    <ul>
+        <li>Get coupons worth <strong class="red">Rs. 10,000</strong></li>
+        <li>Participate in a thriving community of designers and home owners</li>
+        <li>Create a wishlist and save a product for future purchase</li>
+        <li>Get exclusive deals and offers</li>
+    </ul>
+    <div class="bottom_20">Already have an account? <a href="javascript:void(0)" class="link_popup  red_underline" rel="loginBox">Sign In</a></div>
+    <a href="/terms-of-use.html" target="_blank" class="red_underline">*T &amp; Cs Apply</a>
+</div>
+<div class="p_right popup_register_box">
+    <span class="title_2"><strong>Register Now</strong></span>
+    <form name="myFrom" id="popup_reg_form" method="post" onsubmit="formValidation(this.id); return false;" action="https://www.pepperfry.com/customer/ajax_register" rel='signupBox'>
+        <div id="error_msg" class="error"></div>
+    <div class="input_wrap clearfix">
+        <input class="inputbox1" type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" value="" name="email" id="email" maxlength="100" autocomplete="off" />
+        <div id="emailError" class="validation-advice" style="display:none">Invalid email ID</div>
+        <span class="error_msg validation-advice" id = "email"></span>
+        <small>Coupons worth Rs. 10,000* will be sent to this email id.</small>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="First Name" value="" name="firstname" maxlength="35" id="firstname" autocomplete="off" />
+        <span  class="error_msg validation-advice" id = "firstname"></span>
+        <div id="fnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="Last Name" value="" name="lastname" maxlength="35" id="lastname" autocomplete="off" />
+        <span  class="error_msg validation-advice" id="lastname"></span>
+        <div id="lnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="input_wrap clearfix">
+        <input type="number" maxlength="10" pattern="[0-9]*" placeholder="Mobile - eg: 9800000000" value="" class="inputbox1 login_input onlynumbers" id="mobile" name="mobile" autocomplete="off" />
+        <span  class="error_msg validation-advice" id="mobile" ></span>
+        <div id="mobileError" class="validation-advice" style="display:none">Invalid number (10 digit)</div>
+    </div>
+    <div class="input_wrap clearfix">
+        <label class="gender_label">
+            <span>Male</span>
+            <input name="gender" class="gender_select invisible"  type="radio" id ="gen" value="123" />
+        </label>
+        <label class="gender_label">
+            <span>Female</span>
+            <input type="radio" class="gender_select invisible" value="124" name="gender" id ="gen" />
+        </label>
+        <span  class="error_msg validation-advice" id="gender" ></span>
+        <div id="genderError" class="validation-advice" style="display:none">Choose gender</div>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="password" placeholder="Password" class="inputbox1" name="password1" id="password1" maxlength="30" autocomplete="off" />
+        <span  class="error_msg validation-advice" id="password1"></span>
+        <div id="passwordError" class="validation-advice" style="display:none">Need password</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="password" class="inputbox1" placeholder="Confirm Password"  name="password2" maxlength="30" id="password2" autocomplete="off"  />
+        <span  class="error_msg validation-advice" id ="password2"></span>
+        <div id="confirmPasswordError" class="validation-advice" style="display: none;">Match Passwords</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me">
+            <input name="terms" class="rememberme invisible terms" type="checkbox" value="" />  I agree to the  
+        </label>
+        <a class="term-condi" target="_blank" href="/terms-of-use.html">Terms and Conditions </a>
+        <div id="terms" class="validation-advice" style="display:none">Please accept T&C</div>
+    </div>
+    <div class="clearfix"></div>
+    <input type="submit" name="register" id="formSubmit-popup_reg_form" class="btn btn_green" value="Sign Me Up!" />
+</form></div>
+<div class="clearfix"></div>
+
+<a href="javascript:void(0)" class="popup_close"></a>        </div>
+        <div class="popup_box" id="mregSignupBox">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <span class="title_1">REGISTER NOW & GET Rs. 10,000 TO SHOP</span>		
+<div class="p_left popup_register_box">
+    <span class="title_2"><strong>Register Now</strong></span>
+    <form name="myFrom" id="signup-form" method="post" onsubmit="formValidation(this.id); return false;" action="https://www.pepperfry.com/customer/ajax_register" rel='signupBox'>
+        <div id="error_msg" class="error"></div>
+    <div class="input_wrap clearfix">
+        <input class="inputbox1" type="text" placeholder="Email ID - eg: taaza.tamatar@domain.com" value="" name="email" id="email" maxlength="100" autocomplete="off" />
+        <div id="emailError" class="validation-advice" style="display:none">Invalid email ID</div>
+        <span class="error_msg validation-advice" id = "email"></span>
+        <small>Coupons worth Rs. 10,000* will be sent to this email id.</small>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="First Name" value="" name="firstname" maxlength="35" id="firstname" autocomplete="off" />
+        <span  class="error_msg validation-advice" id = "firstname"></span>
+        <div id="fnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="text" class="inputbox1" placeholder="Last Name" value="" name="lastname" maxlength="35" id="lastname" autocomplete="off" />
+        <span  class="error_msg validation-advice" id="lastname"></span>
+        <div id="lnameError" class="validation-advice" style="display:none">Letters only</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="input_wrap clearfix">
+        <input type="number" maxlength="10" pattern="[0-9]*" placeholder="Mobile - eg: 9800000000" value="" class="inputbox1 login_input onlynumbers" id="mobile" name="mobile" autocomplete="off" />
+        <span  class="error_msg validation-advice" id="mobile" ></span>
+        <div id="mobileError" class="validation-advice" style="display:none">Invalid number (10 digit)</div>
+    </div>
+    <div class="input_wrap clearfix">
+        <label class="gender_label">
+            <span>Male</span>
+            <input name="gender" class="gender_select invisible"  type="radio" id ="gen" value="123" />
+        </label>
+        <label class="gender_label">
+            <span>Female</span>
+            <input type="radio" class="gender_select invisible" value="124" name="gender" id ="gen" />
+        </label>
+        <span  class="error_msg validation-advice" id="gender" ></span>
+        <div id="genderError" class="validation-advice" style="display:none">Choose gender</div>
+    </div>
+    <div class="input_wrap p_left width_48 clearfix">
+        <input type="password" placeholder="Password" class="inputbox1" name="password1" id="password1" maxlength="30" autocomplete="off" />
+        <span  class="error_msg validation-advice" id="password1"></span>
+        <div id="passwordError" class="validation-advice" style="display:none">Need password</div>
+    </div>
+    <div class="input_wrap p_right width_48 clearfix">
+        <input type="password" class="inputbox1" placeholder="Confirm Password"  name="password2" maxlength="30" id="password2" autocomplete="off"  />
+        <span  class="error_msg validation-advice" id ="password2"></span>
+        <div id="confirmPasswordError" class="validation-advice" style="display: none;">Match Passwords</div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me">
+            <input name="terms" class="rememberme invisible terms" type="checkbox" value="" />  I agree to the  
+        </label>
+        <a class="term-condi" target="_blank" href="/terms-of-use.html">Terms and Conditions </a>
+        <div id="terms" class="validation-advice" style="display:none">Please accept T&C</div>
+    </div>
+    <div class="clearfix"></div>
+    <input type="submit" name="register" id="formSubmit-signup-form" class="btn btn_green" value="Sign Me Up!" />
+</form></div>
+<div class="p_right popup_login_box">
+    <div class="popup_login_box_1" style="display:none">
+        <span class="text_1">Already have an account?</span>
+        <a href="javascript:void(0)" class="login_link"><span class="btn btn_green">Log In</span></a>
+    </div>
+    <div class="popup_login_box_2">
+        <span class="title_2"><strong>LOGIN</strong></span>
+        <form name="myLoginForm" onload = "reset()" id="login_login-form" method="post" onsubmit="loginValidation(this.id);return false;" action="https://www.pepperfry.com/customer/authenticate"  >
+    <div class="red" id="login_error"></div>
+        <div class="input_wrap clearfix">
+        <input  type="text" name="user[new]" id="emailid" class="inputbox" placeholder="Email ID - e.g. taaza.tamatar@domain.com" autocomplete="off" />
+        <div id="email_Error" class="validation-advice" style="display:none" class = "jsError" >Invalid email ID</div>
+            
+            </div>
+    <div class="input_wrap clearfix">
+        <input type="password" name="password" id="password" class="inputbox" placeholder="Password" />
+        <div id="passwordError" class="validation-advice" style="display:none" class = "jsError" >Need password</div>
+    </div>
+    <div class="login_options_wrap clearfix">
+        <label class="remember_me"><input type="checkbox" name="rememberMe" class="rememberme invisible" id="rememberme" value="1" />Remember Me.</label>
+        <a href="javascript:void(0)" class="link_popup  p_right forgot_link" rel="forgetPassBox">Forgot Password?</a>
+    </div>
+    <input type="submit" name="logSubmit" id="login-form" class="btn btn_green" value="Log In" />
+</form>    </div>
+</div>
+<div class="clearfix"></div>
+<div class="true_step_reg_links">
+    <div class="p_left font_12">Already have an account? <a href="javascript:void(0)" class="link_popup  red_underline" rel="loginBox">Sign In</a></div>
+    <a href="/terms-of-use.html" target="_blank" class="p_right red_underline font_12">*T &amp; Cs Apply</a>
+</div>
+
+<a href="javascript:void(0)" class="popup_close"></a>        </div>
+        <div class="popup_box" id="otp_box">
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <div class="heading">
+	<span id='auth' class='otp_headers'>Sign up &gt;  Mobile number authentication </span>
+	<span id='change_number' class='otp_headers' style='display:none;'>Sign up &gt; Change your mobile number</span>
+	<span id='otp_fail_header' class='otp_headers' style='display:none;'>Sign up &gt; Mobile number authentication failed</span>
+	<a class="cross" onclick="closeOTP()" href="javascript:void(0);"></a>
+</div>
+<div class="set_3_otp">
+	<div id='auth_form'>
+		<div class="otp_left otp_left_div" id='otp_number_div'>
+			<p>Thank you for submitting your mobile number. Please authenticate your mobile no. to complete the registration.</p>
+			<h2 class="mobile_number"><strong><span class='otp_mobile'>99999XXXXX</span></strong></h2>
+			<p>We have SMSed you a verification code from <strong>LM-PPRFRY</strong></p>
+                        <div class="otp_clear10"></div>
+                </div>
+		<div class="otp_left otp_left_div" id='otp_failed_div' style='display:none'>
+			<p class="red">The verification code you have entered is incorrect</p>
+			<p>Please ensure that you entered the code exactly as you see it in your SMS inbox:</p><br>
+		</div>
+		<div class="otp_left otp_left_div" id='resend_div' style='display:none'>
+			<p style="color:green">We have SMSed you a new verification code from <strong>LM-PPRFRY</strong></p><br>
+		</div>
+		<div class="otp_left otp_left_div" id='max_resend' style='display:none'>
+		  <p>You've exceeded the maximum number of tries. <br /> 
+		    <a href="contact-us.html" target='_blank'>Can we help?</a> Or try back after some time.</p><br>
+		</div>
+		<div class="otp_left otp_left_div" id='failed_request' style='display:none'>
+			<p class="red">Error on request. Please try later!</p><br>
+		</div>
+		<div class="otp_left otp_left_div" id='loss_data' style='display:none'>
+			<p>Your session has expired. <a href='javascript:void(0);' onClick="delete_otp_cookie()">Click here</a> to try again!</p>
+		</div>
+
+		<div class="otp_left otp_left_div" id='exist_account' style='display:none'>
+			<p class="red">This <span id='exist_field'>email</span> is already registered with us.</p>
+			<div class="clearfix"></div>
+                        <div class="otp_clear10"></div>
+			<input type="button" value="Verify Your Account" style="width:200px; text-transform:uppercase;" class="submit_btn" onclick="openModel('forgetPassBox','otp_box')">
+		</div>
+                <div class="otp_right">
+                        <div class="sample_heading">Sample Message:</div>
+                        <img width="207" height="196" src="http://www.pepperfry.com/img/otp_messages.png">
+                </div>
+		<div id='otp_input_area'>
+			
+			<div class="clearfix"></div>
+			<form id='otp_verification_form' name='otp_verification_form' onsubmit='otp_submit("otp_verification_form"); return false;'>
+			
+						<ul>
+				<li class="otp_pbottom_5">Please enter the code in the box below:</li>
+				<div class="clearfix"></div>
+				<li>
+					<input type="text" placeholder="Enter the verification code here" name="otp_code" id="otp_code" maxlength="4">
+					<span  class="error_msg" id="otp_code_error" ></span>
+				</li>
+				<li>
+					<input type="submit" value="Submit" style="width:250px; text-transform:uppercase;" class="submit_btn" id="otpcode_submit">
+					<div id="error_msg" class="error"></div>
+				</li>
+			</ul>
+				<input type='hidden' name='change_otp' id='change_otp' value='0'>
+				<input type='hidden' name='change_mobile' id='change_mobile' value='0'>
+
+			</form>
+			<div class="clearfix"></div>
+			<p class="otp_footer_links"><strong>Did not receive the verification code?</strong></p>
+			<p>
+				<a href="javascript:void(0);" class='otp_request' rel='resend' data-form='otp_verification_form'>Click here to resend the verification code to <span class='otp_mobile'>99999XXXXX</span></a><br>
+				<a href="javascript:void(0);" class='otp_request' rel='change_number' data-from='otp_verification_form'>Click here to change the mobile number you have submitted: <span class='otp_mobile'>99999XXXXX</span></a>
+			</p>
+		</div>
+	</div>
+                <div id='change_number_form' style='display:none;'>
+                        <a class="go_back otp_request" href="javascript:void(0);" rel='back_auth'>go back</a>
+                        <div class="clearfix"></div>
+                        <form id='otp_mobile_change' name='otp_mobile_change' onsubmit='otpmobile_change("otp_mobile_change"); return false;'>
+                        <div id="error_msg" class="error"></div>
+                        <span id='mobile_otp_error' class='red'></span>
+                        <div class="otp_left" id='mobile_max_change' style='display:none'>
+                                <p>You've exceeded the maximum number of tries. <br /> 
+                                <a href="contact-us.html" target='_blank'>Can we help?</a> Or try back after some time.</p><br>
+                        </div>
+                        <ul>
+                                <li>
+                                        Please enter your mobile number<br>
+                                </li>
+                                <div class="clearfix"></div>
+                                <li>
+                                        <input type="text" placeholder="Enter Your Mobile Number" name="otp_mobile_change" id='otp_mobile_change'>
+                                        <div id="mobileError" class="validation-advice" style="display: none;" class='error'>Enter correct mobile number (Eg:9800000000)</div>
+                                </li>
+                                <li>
+                                        <input type="submit" value="Submit" style="width:100px; text-transform:uppercase;" class="submit_btn" id="otpmobile_submit">				
+                                </li>
+                        </ul>
+                        </form>
+                        <div class="clearfix"></div>
+                </div>
+			</div>
+
+        </div>
+        <div class="popup_box" id="forgetPassBox" >
+            <a href="javascript:void(0)" class="popup_close"></a>
+            <span class="popup_heading">Forgot password</span>
+<form name="myForm" id="reset-form" method="post" onsubmit="return false;" action="https://www.pepperfry.com/customer/forgetPassword" >
+        <div class="input_wrap bottom_30">
+        <div id="success_message" style="color: rgb(2, 186, 2); font-size: 11px; line-height: 24px;"></div>
+        <input type="text" name="email" id="emailId" class="inputbox rec_box" value="" autocomplete="off" placeholder="Email ID - e.g. taaza.tamatar@domain.com" />
+        <div id="email_Error_forgotpass" class="validation-advice" style="display:none" >Please enter a valid email address</div>
+    </div>
+    <input type="submit" onClick = "return validatePassRecover()" name="submit" id="forgotPass" class="btn btn_green no_margin_bottom" value="Retrieve Password" />
+    <a href="javascript:void(0)" class="popup_close"></a>
+</form>        </div>
+                
+        <script>
+    
+$(document).on({
+	click: function(e){
+		$('.popup_box').fadeOut(800);
+                //to reset form error
+                $('.popup_box .validation-advice').css('display','none').parent().removeClass('input_error');
+                //$(".popup_box form")[0].reset();
+                
+		if($('#mini_cart').hasClass('active'))
+		{
+			$('#mini_cart').removeClass('active').animate({right:-400}, 300);
+		}
+		popup_ref = $(this).attr('rel');
+		$('#popup_overlay').addClass('active');
+                
+            /*  Following 'if else' structure is for displaying either otp_box or registration page based on cookie 'otp_box_show' when 'Registration' link is clicked (this is whn the site is opened using link on affiliated pgs)    */
+                if(popup_ref == 'signupBox'){
+                    if(readCookie('otp_box_show') == '1') {
+                        $('#otp_box').fadeIn(50);
+                    } else {
+                        $('#'+popup_ref).delay(200).fadeIn(200);
+                    }
+                } else{
+                    $('#'+popup_ref).delay(200).fadeIn(200);
+                }
+            /* *** */
+		block_reg_popup=true;
+		e.preventDefault();
+	}
+},".link_popup");
+    
+    
+         $(document).ready(function(){
+             /* Style for Popup  */
+            var popup_ref;
+            $('.link_popup').click(function(e){
+                //hide previously opened modals
+               
+            });
+            $('.popup_close').click(function(){
+                $('.popup_box').fadeOut(800, function(){
+                    $('#popup_overlay').removeClass('active');
+                });
+            });
+
+
+            // Script for Login popup
+            $('.rememberme').change(function(){
+                if($(this).is(':checked')){
+                        $(this).parent().addClass('active');
+                }else{
+                        $(this).parent().removeClass('active');
+                }
+            });    
+
+            //gender select for reg page
+            $('.gender_select').change(function(){
+                radio_group_name = $(this).attr('name');
+                $('input[name='+radio_group_name+']').parent().removeClass('active');
+                //$('input[name='+radio_group_name+']').attr('selected','selected');
+                $(this).parent().addClass('active');
+            });
+             
+         });
+         
+        </script>
+        
+                
+	
+                
+	
+	<script type="text/javascript">
+		$("#testimonial").click(function(){
+			if(loginFlag){
+				$("#testimonialBox").fadeIn(50);
+                                $('#popup_overlay').addClass('active');
+            }else{
+				document.cookie = 'testimonial_cookie=1';
+				$("#loginBox").fadeIn(50);
+                                $('#popup_overlay').addClass('active');
+				block_reg_popup=true;
+            }
+		});
+		$("#footer_testimonial,#bulkorder_testimonial").click(function(){
+			if(loginFlag){
+				$("#testimonialBox").fadeIn(50);
+                                $('#popup_overlay').addClass('active');
+            }else{
+				document.cookie = 'testimonial_cookie=1';
+				$("#loginBox").fadeIn(50);
+                                $('#popup_overlay').addClass('active');
+            }
+		});
+	</script>
+        
+
+<!--MTAuMTcyLjE2MS42-->	  		<script type="text/javascript" src="http://j1.pepperfry.com/js/jquery.lazy.min.js?v=0.879"></script>
+        <!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1001186363;
+var google_conversion_label = "fR-mCPWm1QMQu8iz3QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1001186363/?value=0&amp;label=fR-mCPWm1QMQu8iz3QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+-->
+<!-- facebook remarketing pixel's -->
+
+<script>
+    $(window).load(function() {
+    (function() {
+		var _fbq = window._fbq || (window._fbq = []);
+		if (!_fbq.loaded) {
+			var fbds = document.createElement('script');
+			fbds.async = true;
+			fbds.src = '//connect.facebook.net/en_US/fbds.js';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(fbds, s);
+			_fbq.loaded = true;
+		}
+		_fbq.push(['addPixelId', '747482925285183']);
+
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+    });
+</script>
+<noscript>
+    <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=747482925285183&amp;ev=NoScript" />
+</noscript>
+
+
+<!--Remarketing starts here-->
+
+
+<script type="text/javascript">
+	var google_tag_params = {
+		ecomm_prodid: '', 
+		ecomm_pagetype: 'home', 
+		ecomm_totalvalue: ''	};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+	var google_conversion_id = 1001186363;
+	var google_conversion_label = "fR-mCPWm1QMQu8iz3QM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+	<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1001186363/?value=0&amp;label=fR-mCPWm1QMQu8iz3QM&amp;guid=ON&amp;script=0"/></div>
+</noscript>
+
+<!--  REMARKETING ENDS  -->
+
+<script id="_webengage_script_tag" type="text/javascript">
+ var _weq = _weq || {};
+ _weq['webengage.licenseCode'] = '~47b6642d';
+ _weq['webengage.widgetVersion'] = "4.0";
+
+$( window ).load(function() {
+ (function(d){
+   var _we = d.createElement('script');
+   _we.type = 'text/javascript';
+   _we.async = true;
+   _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+   var _sNode = d.getElementById('_webengage_script_tag');
+   _sNode.parentNode.insertBefore(_we, _sNode);
+ })(document);
+});
+</script>
+
+<!-- WEBENGAGE ENDS -->
+
+
+<!-- socialmatics -->
+<script type="text/javascript">
+        $(window).load(function() {
+                (function(){
+                        var s   = document.createElement('script');
+                        var x   = document.getElementsByTagName('script')[0];
+                        s.type  = 'text/javascript';
+                        s.async = true;
+                        s.src   = ('https:'==document.location.protocol?'https://':'http://')
+                                + 'ap-sonar.sociomantic.com/js/2010-07-01/adpan/pepperfry-in';
+                        x.parentNode.insertBefore( s, x );
+                })();
+        });
+</script>
+
+<!-- socialmatics -->
+</div>
+<div id="mini_cart" style="right: -400px;"></div>
+<div id="popup_overlay"></div>
+<div id="white_overlay"></div>
+<div id="menu_transoverlay"></div>
+<a href="javascript:void(0)" id="back-top">Back to Top</a>
+</body>
+</html>

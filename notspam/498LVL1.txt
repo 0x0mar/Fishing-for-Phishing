@@ -1,0 +1,1 @@
+div#gigya-myaccountbox fieldset legend{margin:0 0 10px 0;}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	
+	>
+<channel>
+	<title>Comments for StyleCaster</title>
+	<atom:link href="http://stylecaster.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://stylecaster.com</link>
+	<description>Style News and Trends</description>
+	<lastBuildDate>Wed, 11 Feb 2015 17:04:48 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+	<item>
+		<title>Comment on Turns Out, Men Aren&#8217;t Hardwired to Sleep Around After All by Jane Elizabeth</title>
+		<link>http://stylecaster.com/men-not-hardwired-to-be-players-and-sleep-around/#comment-99976</link>
+		<dc:creator><![CDATA[Jane Elizabeth]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2015 17:04:48 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=341956#comment-99976</guid>
+		<description><![CDATA[this is so interesting! ]]></description>
+		<content:encoded><![CDATA[<p>this is so interesting! </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on The Man Bag is Officially a Thing: 1 in 5 Luxury Bags Sold Are For Guys by Fredrik de Lange</title>
+		<link>http://stylecaster.com/the-man-bag-is-officially-a-thing-1-in-5-luxury-bags-sold-are-for-guys/#comment-99773</link>
+		<dc:creator><![CDATA[Fredrik de Lange]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2015 16:58:43 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=340158#comment-99773</guid>
+		<description><![CDATA[YESS! :D
+
+http://waywtblog.com/]]></description>
+		<content:encoded><![CDATA[<p>YESS! <span class='wp-smiley wp-emoji wp-emoji-bigsmile' title=':D'>:D</span></p>
+<p><a href="http://waywtblog.com/" rel="nofollow" target="_blank">http://waywtblog.com/</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Kylie Jenner Looks Unrecognizable in Love Magazine by myfashionstylistas</title>
+		<link>http://stylecaster.com/kylie-jenner-love-magazine/#comment-99703</link>
+		<dc:creator><![CDATA[myfashionstylistas]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2015 14:10:10 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=340505#comment-99703</guid>
+		<description><![CDATA[Reblogged this on &lt;a href=&quot;https://myfashionstylistas.wordpress.com/kylie-jenner-looks-unrecognizable-in-love-magazine-3/&quot; rel=&quot;nofollow&quot;&gt;myfashionstylistas&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Reblogged this on <a href="https://myfashionstylistas.wordpress.com/kylie-jenner-looks-unrecognizable-in-love-magazine-3/" rel="nofollow" target="_blank">myfashionstylistas</a>.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on You Can Now Make Real Money From Your Fashion Selfies by myfashionstylistas</title>
+		<link>http://stylecaster.com/stylinity-app-make-money-on-your-fashion-selfies/#comment-99698</link>
+		<dc:creator><![CDATA[myfashionstylistas]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2015 13:53:58 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=340291#comment-99698</guid>
+		<description><![CDATA[Reblogged this on &lt;a href=&quot;https://myfashionstylistas.wordpress.com/you-can-now-make-real-money-from-your-fashion-selfies/&quot; rel=&quot;nofollow&quot;&gt;myfashionstylistas&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Reblogged this on <a href="https://myfashionstylistas.wordpress.com/you-can-now-make-real-money-from-your-fashion-selfies/" rel="nofollow" target="_blank">myfashionstylistas</a>.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Kylie Jenner Looks Unrecognizable in Love Magazine by Courtney glitter</title>
+		<link>http://stylecaster.com/kylie-jenner-love-magazine/#comment-99651</link>
+		<dc:creator><![CDATA[Courtney glitter]]></dc:creator>
+		<pubDate>Wed, 04 Feb 2015 15:34:48 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=340505#comment-99651</guid>
+		<description><![CDATA[I love this, she looks AMAZING! :) ]]></description>
+		<content:encoded><![CDATA[<p>I love this, she looks AMAZING! <span class='wp-smiley wp-emoji wp-emoji-smile' title=':)'>:)</span> </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Apparently, We&#8217;re Walking in High Heels Wrong—According to a Man by TanyaaSmith</title>
+		<link>http://stylecaster.com/how-to-walk-in-high-heels/#comment-99296</link>
+		<dc:creator><![CDATA[TanyaaSmith]]></dc:creator>
+		<pubDate>Fri, 30 Jan 2015 16:31:45 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=340033#comment-99296</guid>
+		<description><![CDATA[How surprising! I will have to give this a go at home, see if it helps! ]]></description>
+		<content:encoded><![CDATA[<p>How surprising! I will have to give this a go at home, see if it helps! </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on 25 Rare Photos of Kate Moss You&#8217;ve Never Seen by leatherspottedgiraffe</title>
+		<link>http://stylecaster.com/kate-moss-birthday/#comment-98159</link>
+		<dc:creator><![CDATA[leatherspottedgiraffe]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 21:48:24 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=224500#comment-98159</guid>
+		<description><![CDATA[Reblogged this on &lt;a href=&quot;https://leatherspottedgiraffe.wordpress.com/2015/01/16/25-rare-photos-of-kate-moss-youve-never-seen/&quot; rel=&quot;nofollow&quot;&gt;LeatherSpottedGiraffe&lt;/a&gt; and commented: 
+Kate Moss Is Boss]]></description>
+		<content:encoded><![CDATA[<p>Reblogged this on <a href="https://leatherspottedgiraffe.wordpress.com/2015/01/16/25-rare-photos-of-kate-moss-youve-never-seen/" rel="nofollow" target="_blank">LeatherSpottedGiraffe</a> and commented:<br />
+Kate Moss Is Boss</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on 25 Outfits That Will Make You Fall For Feathers by Evelina</title>
+		<link>http://stylecaster.com/25-outfits-that-will-make-you-fall-for-feathers/#comment-98150</link>
+		<dc:creator><![CDATA[Evelina]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 16:49:09 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=337617#comment-98150</guid>
+		<description><![CDATA[Love it!]]></description>
+		<content:encoded><![CDATA[<p>Love it!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Penelope Disick&#8217;s Shoe Closet Is Better Than Yours by bobbyklingensmith</title>
+		<link>http://stylecaster.com/penelope-disick-shoe-closet/#comment-97693</link>
+		<dc:creator><![CDATA[bobbyklingensmith]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2015 16:23:33 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=335502#comment-97693</guid>
+		<description><![CDATA[Yaassssss]]></description>
+		<content:encoded><![CDATA[<p>Yaassssss</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Jourdan Dunn is the First Black Model to Cover British Vogue in 12 Years by meagankristenpr</title>
+		<link>http://stylecaster.com/jourdan-dunn-is-the-first-black-model-to-cover-british-vogue-in-12-years/#comment-97668</link>
+		<dc:creator><![CDATA[meagankristenpr]]></dc:creator>
+		<pubDate>Mon, 05 Jan 2015 02:10:44 +0000</pubDate>
+		<guid isPermaLink="false">http://stylecaster.com/?p=335303#comment-97668</guid>
+		<description><![CDATA[Reblogged this on &lt;a href=&quot;http://meagankristenmedia.wordpress.com/jourdan-dunn-is-the-first-black-model-to-cover-british-vogue-in-12-years/&quot; rel=&quot;nofollow&quot;&gt;Take Flight&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Reblogged this on <a href="http://meagankristenmedia.wordpress.com/jourdan-dunn-is-the-first-black-model-to-cover-british-vogue-in-12-years/" rel="nofollow" target="_blank">Take Flight</a>.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

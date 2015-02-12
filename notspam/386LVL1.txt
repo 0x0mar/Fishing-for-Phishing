@@ -1,0 +1,175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>How to Link to DMOZ</title>
+  <link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+  <link href="/css/docs.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div id="headbar">
+<img src="http://o.aolcdn.com/os/dmoz/img/aolpartner.png" width=72 height=36 alt="In Partnership with AOL" align="middle" style="float: right; margin-right: 2px; margin-top: 1px;"/>
+<h1><a href="/" title="Return to Directory Home">DMOZ: Open Directory Project</a></h1>
+
+</div>
+
+
+<div id="mBody">
+
+<div id="side"><div class="navhead">Open Directory Project</div>
+<ul class="nav">
+<li><b><a href="/">Directory</a></b></li>
+<li><b><a href="/about.html">About DMOZ</a></b>
+<ul>
+<li><a href="/docs/en/help/become.html">Become an Editor</a></li>
+<li><a href="/docs/en/socialcontract.html">Social Contract</a></li>
+<li><a href="/docs/en/rdf.html">DMOZ Data - RDF</a></li>
+<li><a href="/docs/en/help/submit.html">Submitting a Site</a></li>
+</ul>
+</li>
+<li><b><a href="/guidelines/">Editing Guidelines</a></b>
+</li>
+<li><b><a href="/erz/">Editor Resources</a></b>
+</li>
+</ul>
+<div class="navhead">In Other Languages</div>
+<ul class="nav">
+<li><a href="/docs/ar/link.html">عربيّة - Arabic</a></li>
+<li><a href="/docs/de/link.html">Deutsch - German</a></li>
+<li><a href="/docs/es/link.html">Español - Spanish</a></li>
+<li><a href="/docs/fr/link.html">Français - French</a></li>
+<li><a href="/docs/it/link.html">Italiano - Italian</a></li>
+<li><a href="/docs/ja/link.html">&#26085;&#26412;&#35486; - Japanese</a></li>
+<li><a href="/docs/tr/link.html">T&uuml;rk&ccedil;e - Turkish</a></li>
+</ul>
+</div>
+<div id="mainContent">
+<h1>How to Link to DMOZ</h1>
+<p>DMOZ welcomes links from other websites. Show your support for DMOZ and get the word out with one of the helpful links below.</p>
+<ol>
+<li>
+<p>Put a <b>DMOZ</b> metasearch box on your web page with the following HTML:</p>
+
+<center><form method="get" action="http://www.dmoz.org/search">
+<input size="20" name="q"><input type=submit value="DMOZ Search"><br>
+<b><a href="/">dmoz.org</a></b>
+</form></center>
+
+<blockquote class='code'>&lt;center>&lt;small><br>
+&lt;form method=get action="http://www.dmoz.org/search"><br>
+&lt;input size="20" name="q"><br>
+&lt;input type="submit" value="Search DMOZ">&lt;br><br>
+&lt;a href="http://www.dmoz.org/">&lt;b>dmoz.org&lt;/b>&lt;/a><br>
+&lt;/form>&lt;/small>&lt;/center></blockquote>
+
+<p>DMOZ is a good place to start searches, since you can continue the search on many different search engines without having to retype anything.</p>
+<!--
+<p>If you are using DMOZ Search as part of a meta-search
+or aggregate search you may wish to disable some of DMOZ's
+fall-back search features. These features are:</p>
+<ol>
+<li>By default the DMOZ's first search
+attempt is always an "AND" search, by inserting
+an implicit "AND" operator between all
+search terms. This can be over ridden by inserting
+a different boolean operator either "OR" or "ANDNOT".
+Logical operators inside a quoted search term are
+ignored. Quoted strings are treated as a single
+search term.</li>
+<li> If there are no matches for the first "AND" search,
+the Open Directory search attempts the search again,
+but with "OR" as the default search term. This
+is noted on the search results page. To turn off
+the fall back search option pass the search CGI
+the added GET argument "&fb=0"</li>
+<li> If both the "AND" and "OR" search fail, then
+the the search will attempt the query on
+the Netscape Search (powered by Excite).
+To disable this fail over search, pass the search CGI
+the added GET argument "&fo=0"</li>
+</ol>
+<p>Note: there are no "&fb=1" or "&fo=1" flags, they are simply set by default.</p>
+-->
+</li>
+<li>
+<p>Add a DMOZ category search box to your website with the following HTML:</p>
+
+<center>
+<table bgcolor="#000000" cellspacing="0" cellpadding="1" border="0"><tr><td>
+<table bgcolor="#f0f0df" cellspacing="0" cellpadding="6" border="0">
+<tr><td colspan="2" align="center"><small>
+<b><a href="/">Search DMOZ</a></b>
+</small></td></tr><tr><td><small><b>
+<a href="/Arts">Arts</a><br>
+<a href="/Business">Business</a><br>
+<a href="/Computers">Computers</a><br>
+<a href="/Games">Games</a><br>
+<a href="/Health">Health</a><br>
+<a href="/Home">Home</a><br>
+<a href="/News">News</a><br>
+<a href="/Kids_and_Teens">Kids & Teens</a><br>
+</b></small></td><td><small><b>
+<a href="/Recreation">Recreation</a><br>
+<a href="/Reference">Reference</a><br>
+<a href="/Regional">Regional</a><br>
+<a href="/Science">Science</a><br>
+<a href="/Shopping">Shopping</a><br>
+<a href="/Society">Society</a><br>
+<a href="/Sports">Sports</a><br>
+<a href="/World">World</a><br>
+</b></small></td></tr></table></td></tr></table>
+</center>
+
+<blockquote class="code">
+&lt;!-- Open Directory Box Start --><br>
+&lt;div align="center"><br>
+&lt;table bgcolor="#000000" cellspacing="0" cellpadding="1" border="0">&lt;tr>&lt;td><br>
+&lt;table bgcolor="#f0f0df" cellspacing="0" cellpadding="6" border="0"><br>
+&lt;tr>&lt;td colspan="2" align="center">&lt;small><br>
+&lt;b>&lt;a href="http://www.dmoz.org/">Search DMOZ&lt;/a>&lt;/b><br>
+&lt;/small>&lt;/td>&lt;/tr>&lt;tr>&lt;td>&lt;small>&lt;b><br>
+&lt;a href="http://www.dmoz.org/Arts/">Arts&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Business/">Business&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Computers/">Computers&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Games/">Games&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Health/">Health&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Home/">Home&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Kids_and_Teens/">Kids &amp;amp; Teens&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/News/">News&lt;/a>&lt;br><br>
+&lt;/b>&lt;/small>&lt;/td>&lt;td>&lt;small>&lt;b><br>
+&lt;a href="http://www.dmoz.org/Recreation/">Recreation&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Reference/">Reference&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Regional/">Regional&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Science/">Science&lt;/a>  &lt;br><br>
+&lt;a href="http://www.dmoz.org/Shopping/">Shopping&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Society/">Society&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/Sports/">Sports&lt;/a>&lt;br><br>
+&lt;a href="http://www.dmoz.org/World/">World&lt;/a>&lt;br><br>
+&lt;/b>&lt;/small>&lt;/td>&lt;/tr>&lt;/table>&lt;/td>&lt;/tr>&lt;/table><br>
+&lt;/div><br>
+&lt;!-- Open Directory Box End -->
+</blockquote>
+</li>
+<li>Use one of the <a href="/docs/en/user-banners/">User-Contributed Banners & Buttons</a>.</li>
+</ol>
+ 
+
+
+
+</div>
+</div>
+
+<div class="footer">
+<hr />
+
+Last update:
+<!-- LAST_UPDATE --> Fri Mar 14 20:25 EDT 2014
+<br />
+Copyright &copy; 2014 AOL Inc. (<a href="/docs/en/termsofuse.html">Terms of Use</a> - <a href="/docs/en/license.html">License</a>)
+
+</div>
+</body>
+</html>

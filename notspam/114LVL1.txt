@@ -1,0 +1,548 @@
+
+<!DOCTYPE html>
+<html  lang="en-US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Web | DailyTekk</title>
+
+		<!--<link href="http://dailytekk.com/wp-content/themes/DailyTekk/sass/style.css" rel="stylesheet">-->
+
+	<link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,100' rel='stylesheet' type='text/css'>
+
+							
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<link rel="alternate" type="application/rss+xml" title="DailyTekk &raquo; Web Category Feed" href="http://dailytekk.com/category/web/feed/" />
+<link rel='stylesheet' id='style-css'  href='http://dailytekk.com/wp-content/themes/DailyTekk/style.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://dailytekk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailytekk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailytekk.com/wp-includes/wlwmanifest.xml" /> 
+<style type='text/css'>img#wpstats{display:none}</style>	<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '1575089616085357',
+					xfbml      : true,
+					version    : 'v2.2'
+				});
+			};
+
+			(function(d, s, id){
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	
+</head>
+			<body>
+		<!-- BuySellAds Ad Code -->
+		<script type="text/javascript">
+			(function(){
+				var bsa = document.createElement('script');
+				bsa.type = 'text/javascript';
+				bsa.async = true;
+				bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+				(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+			})();
+		</script>
+		<!-- End BuySellAds Ad Code -->
+		<input type="checkbox" name="menu-toggle" id="menu-toggle" class="checkbox-toggle" />
+		<label for="menu-toggle" class="menu-toggle">
+			<div class="bar-icon-wrapper">
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+			</div>
+		</label>
+		<div id="page" class="page-wrapper">
+			<header class="header">
+								<div class="container">
+					<a href="http://dailytekk.com" class="logo"><svg width="35" height="36" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M0,28.8590495 L0,35.0376096 L6.17862593,35.0376096 C3.71067937,33.4351947 1.602432,31.3269698 0,28.8590495"></path>
+	<path d="M26.0255607,28.8241236 C25.9498934,28.881153 25.8727352,28.9363187 25.7955769,28.9914845 L25.7355649,29.0343497 C23.3216664,30.7672241 20.4738924,31.6830495 17.5001305,31.6830495 C9.70118075,31.6830495 3.35556493,25.3382468 3.35481944,17.5393801 L3.35481944,17.4681865 L3.35481944,17.467441 L3.35481944,12.1637048 L3.35481944,11.219551 L3.35481944,7.86487914 L3.35481944,6.99900105 L3.35481944,3.39235603 L17.5001305,3.39235603 C25.2998257,3.39235603 31.6454415,9.73790428 31.6454415,17.5375164 C31.6458142,22.0070576 29.5972061,26.1206308 26.0255607,28.8241236 M17.5005032,0.0376841475 L17.5005032,0.0376841475 L0.000111823587,0.0376841475 L0.000111823587,17.5375164 L0.000111823587,17.5393801 C0.00123005946,27.2034443 7.83559057,35.0377214 17.5001305,35.0377214 C21.3039961,35.0377214 24.8212207,33.8203483 27.6921049,31.7594615 C27.8121289,31.6733583 27.9325256,31.5880005 28.0499404,31.4989153 C32.2712808,28.3037767 35.0001491,23.2400859 35.0001491,17.5378892 C35.0005218,7.87270671 27.1654158,0.0376841475 17.5005032,0.0376841475"></path>
+	<path d="M17.5004659,11.2199238 C18.4159284,11.2199238 19.2836794,11.4197131 20.0697992,11.7715809 C20.3396668,11.8923491 20.598352,12.0328726 20.8466004,12.1886785 C21.0791935,12.3347931 21.3058226,12.4902262 21.5167964,12.6642964 C22.9216734,13.8238946 23.8181259,15.5780153 23.8181259,17.5378892 C23.8181259,18.5368359 23.5788234,19.4787532 23.1643306,20.3192849 C22.1333171,22.4103637 19.985186,23.8558545 17.5000932,23.8558545 L17.4978567,23.8558545 C14.0152975,23.8547363 11.1824333,21.0211568 11.1824333,17.5382619 L7.82772565,17.5382619 C7.82772565,22.8237338 12.0908135,27.1337417 17.3603137,27.2094082 L17.3755963,27.2105264 L17.5000932,27.2105264 C21.2048086,27.2105264 24.5282056,25.1384574 26.1727579,21.8031681 C26.8362445,20.4579447 27.1724607,19.0228906 27.1724607,17.5378892 C27.1724607,14.6439255 25.8894714,11.9244049 23.6522542,10.0774716 C23.352567,9.82997138 23.0178417,9.5910442 22.6301866,9.34764412 C22.2421588,9.10387129 21.8414576,8.88917229 21.4396382,8.70951097 C20.1879595,8.14928077 18.8624772,7.86562462 17.5000932,7.86562462 L15.4611764,7.86562462 L15.4611764,11.2202965 L17.5004659,11.2202965 L17.5004659,11.2199238 Z"></path>
+	<path d="M7.8276511,11.2199238 L7.8276511,15.8232791 L11.1823587,15.8232791 L11.1823587,11.2199238 L13.7468463,11.2199238 L13.7468463,7.86525188 L11.1823587,7.86525188 L7.8276511,7.86525188 L5.06933595,7.86525188 L5.06933595,11.2199238 L7.8276511,11.2199238 Z"></path>
+</svg>
+<span class="logo__title">DailyTekk</span></a>
+					<div class="menu-wrapper">
+						<form method="get" id="searchform" class="searchform" action="http://dailytekk.com" >
+	<input type="text" name="s" id="s" class="search__input" placeholder="Search..."/>
+	<input type="submit" value="search" id="searchsubmit" class="search__btn" />
+</form>
+
+						<ul class="menu"><li id="menu-item-13421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13421"><a href="http://dailytekk.com/category/features/">Features</a></li><li id="menu-item-13419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13419"><a href="http://dailytekk.com/category/lists/">Lists</a></li><li id="menu-item-13420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13420"><a href="http://dailytekk.com/category/reviews/">Reviews</a></li><li id="menu-item-13422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13422"><a href="http://dailytekk.com/products/">Products</a></li><li id="menu-item-13423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13423"><a href="http://dailytekk.com/category/community/">Community</a></li>
+</ul>					</div>
+				</div>
+			</header>
+			<main class="page-content">
+
+		
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT 970 x 90 Large Leaderboard -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:970px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6229458023"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+
+	<div class="container single-post">
+					<h1 class="post__title">Web</h1>
+				<div class="col-three-quarters m-col-one-whole" id="content">
+					<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/12/8431472940_31f7616c02_o-730x488.jpg" class="attachment-post-size wp-post-image" alt="8431472940_31f7616c02_o" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/08/the-100-best-wordpress-resources-for-2015-categorized-expert-tips/">The 100+ Best WordPress Resources for 2015, Categorized (+ Expert Tips)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>You&#8217;ve just stumbled upon the world&#8217;s best, most useful WordPress resources article. At least that&#8217;s what I set out to create. From getting started with choosing or designing a WordPress theme, to getting it developed/coded, to picking the best WordPress hosting company to getting help and support to must-use WordPress plugins, to WordPress blogs and [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="YOfYx7zhTvYBGYs6g83s_IMG_8643" srcset="http://dailytekk.com/wp-content/uploads/2014/12/YOfYx7zhTvYBGYs6g83s_IMG_8643-730x488.jpg, http://dailytekk.com/wp-content/uploads/2014/12/YOfYx7zhTvYBGYs6g83s_IMG_8643-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/01/25-places-where-you-can-find-the-best-free-stock-photos-ranked/">25 Places Where You Can Find The Best Free Stock Photos (Ranked)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>The web—and everything it powers—is becoming more visual. You don&#8217;t have to be a designer to be in need of great free pictures. From people running online newsletters to bloggers (either personal or corporate) to people looking for cool prints to hang on their wall can benefit from high-quality, free images. Whenever I needed an excellent [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="wordpress-website-development-hyderabad" srcset="http://dailytekk.com/wp-content/uploads/2014/11/wordpress-website-development-hyderabad-730x488.jpg, http://dailytekk.com/wp-content/uploads/2014/11/wordpress-website-development-hyderabad-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/11/26/why-wordpress-is-the-best-cms-for-dailytekk-and-your-website-too/">Why WordPress Is The Best CMS For DailyTekk (And Your Website Too)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>What is the best CMS (content management system)? There are so many to choose from, it’s kind of ridiculous. Choice is great, and competition brings prices down, but holy cow: choosing the right CMS to successfully power your website can be daunting, maybe even paralyzing. Today I’m hoping to make your decision easier by explaining [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/08/nextapp-730x488.jpg" class="attachment-post-size wp-post-image" alt="nextapp" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/08/07/10-new-music-apps/">10 new ways to discover, listen to and share new music</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>There is a huge demand for services that can enhance the experiences of discovering, listening and sharing music. I should know: I&#8217;ve written about over 200 such music services over the last couple years here on DailyTekk. It all started with a post titled 100 ways to discover and enjoy music which was a smashing success on StumbleUpon [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/08/gmail-addons-730x488.jpg" class="attachment-post-size wp-post-image" alt="gmail-addons" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/08/06/10-gmail-addons/">10 Gmail add-ons that will help you rule your inbox like a king</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>There&#8217;s nothing wrong with Gmail, but it can be so much better than the default experience. If you haven&#8217;t installed any Gmail add-ons yet, you&#8217;re really missing out. And even if you have, there are so many out there it&#8217;s hard to know which are the best. Until now that is. Think about it: wouldn&#8217;t it [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/07/3-best-chrome-extensions-730x488.jpg" class="attachment-post-size wp-post-image" alt="3-best-chrome-extensions" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/07/29/best-new-chrome-extensions/">The 3 best new Chrome extensions</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Chrome is my favorite browser and judging from our analytics, it&#8217;s the preferred browser of the majority of our readers as well. That being the case it only makes sense to get some awesome new extensions in front of you. I should say, however, that my favorite new Chrome extension (possibly of all time) is [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/07/leak-730x488.jpg" class="attachment-post-size wp-post-image" alt="leak" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/07/28/leak/">Need to know: Leak lets you send anonymous emails</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Sometimes you just need to let off some steam. Other times you may want to tell someone something but just don&#8217;t know how or what to say—or you&#8217;re unsure how they will react. It&#8217;s at that point that a service like Leak comes in handy. It&#8217;s a simple service that let&#8217;s you send an anonymous [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/07/togethera-featured-730x488.jpg" class="attachment-post-size wp-post-image" alt="togethera-featured" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/07/24/togethera-app/">Togethera: private family photo and video sharing done right (review)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>For months I had been searching for an app that would allow me to share thoughts, photos and videos or a more personal nature with close family members. My search started with Path and ended with Togethera. Path, and a number of additional apps I tried, just weren&#8217;t private enough and/or didn&#8217;t have the feature [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/06/evernotehacks-730x488.jpg" class="attachment-post-size wp-post-image" alt="evernotehacks" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/06/30/evernote-hacks/">3 Evernote hacks that will improve your life</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>If there were a league of professional Evernote users, I&#8217;d be a star quarterback. I write about the brain-organizing service frequently. Most recently it was an article called 10 ways to make Evernote rock harder over at ReadWrite. I&#8217;ve said it many times before: I love Evernote and in many ways it keeps my life [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-17-at-6.48.09-PM-730x488.png" class="attachment-post-size wp-post-image" alt="Screen Shot 2014-06-17 at 6.48.09 PM" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/06/17/prismatic-flipboard-alternative/">Prismatic: a nice Flipboard alternative for following your interests</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I&#8217;m a newsaholic. I love consuming the latest news and updates from sources and topics that interest me. This can and does include items from social media, my favorite blogs and mainstream news sources, audio and video content and more. On the home screen of my iPhone I&#8217;ve got a folder called News that contains [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="sponsored">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="photo 1" srcset="http://dailytekk.com/wp-content/uploads/2014/06/photo-1-e1402690722735-730x488.jpg, http://dailytekk.com/wp-content/uploads/2014/06/photo-1-e1402690722735-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/06/13/bing-rewards/">Bing just helped me find an awesome place to eat</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Whether I&#8217;m traveling or at home, finding a great new restaurant to try is something I do quite often. I mean, I love eating at new places. It&#8217;s a relatively inexpensive way to add some excitement to a day, even when I&#8217;m busy. If I&#8217;m on the road (even on a boring business trip) I [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="RockAve-69219" srcset="http://dailytekk.com/wp-content/uploads/2014/06/RockAve-69219-730x488.jpg, http://dailytekk.com/wp-content/uploads/2014/06/RockAve-69219-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/06/10/mens-gear-and-tech/">20 sites with awesome gear for men</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Any guy who is awake is a guy who can appreciate cool stuff. Any guy who isn&#8217;t dreaming also knows that stuff alone doesn&#8217;t bring lasting happiness—on the contrary, it often brings emptiness. I say any dude that&#8217;s not dreaming because we&#8217;ve all experienced that emptiness. If we want to pretend like we haven&#8217;t, all we gotta do is [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="sponsored">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="Screen Shot 2014-06-10 at 1.13.57 PM" srcset="http://dailytekk.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-10-at-1.13.57-PM-730x488.png, http://dailytekk.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-10-at-1.13.57-PM-730x488@2x.png 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/06/10/4k-video-downloader-a-simple-but-powerful-tool/">4K Video Downloader: a simple but powerful tool</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Ultra High Definition Television, otherwise known as 4K video, is video that has a resolution of approximately 4,000 pixels. 4K video is 8 megapixels (3840&#215;2160) and has four times as many pixels as standard HD video (1920&#215;1080) which is 2.1 megapixels. This extreme increase in quality has resulted in many video enthusiasts buying 4K UltraHD [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="690" height="460" src="http://dailytekk.com/wp-content/uploads/2014/02/reddit.jpg" class="attachment-post-size wp-post-image" alt="reddit" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/02/19/the-top-50-subreddits/">The Top 50 Subreddits (Anyone Will Love)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Reddit calls itself the front page of the Internet for a good reason. Many of the most popular posts you see around the Internet (like on BuzzFeed) trace their roots to Reddit. It&#8217;s a machine that surfaces interesting content on all kinds of subjects. When I first checked Reddit.com out I thought&#8230; whoa, whats the [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="690" height="460" src="http://dailytekk.com/wp-content/uploads/2013/12/pocket.jpg" class="attachment-post-size wp-post-image" alt="pocket" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2013/12/11/pockethits/">How PocketHits Brings You The Internet&#8217;s Most Interesting Content</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I love curated content. As the Editor of DailyTekk, I&#8217;m always on the look out for interesting technology articles. On a personal level, I&#8217;m always on the hunt for interesting stories—period. I keep a personal list of gems of sources that consistently unearth and deliver interesting curated content (I feel another roundup coming on) but [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2013/11/Screen-Shot-2014-06-05-at-9.21.27-AM-730x488.png" class="attachment-post-size wp-post-image" alt="Screen Shot 2014-06-05 at 9.21.27 AM" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/">The 100 Best, Most Interesting Blogs and Websites of 2014</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Editor&#8217;s note: 2015&#8217;s list of the best, most interesting websites has arrived! Welcome to the most awesome blog post you&#8217;re going to see all year. Yep, it&#8217;s the third installment in the super-popular annual series in which I document the sites I think you&#8217;ll want to spend a lot of time on in the coming [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2013/01/100bestmostinteresting1-730x488.jpg" class="attachment-post-size wp-post-image" alt="100bestmostinteresting" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2013/01/14/the-100-best-most-interesting-blogs-and-websites-of-2013/">The 100 Best, Most Interesting Blogs and Websites of 2013</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Editor&#8217;s note: 2015&#8217;s list of the best, most interesting websites has arrived! Welcome to one of the web&#8217;s most anticipated lists of the year: The 100 Best, Most Interesting Blogs and Websites of 2013. This is the second such list I have made since founding DailyTekk and it&#8217;s very special. A website can only be [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="Best Websites and Blogs of 2012" srcset="http://dailytekk.com/wp-content/uploads/2012/02/91946188-e1328660259710-730x488.jpg, http://dailytekk.com/wp-content/uploads/2012/02/91946188-e1328660259710-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2012/02/08/the-100-best-most-interesting-blogs-and-websites-of-2012/">The 100 Best, Most Interesting Blogs and Websites of 2012 (Categorized)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Editor&#8217;s note: 2015&#8217;s list of the best, most interesting websites has arrived! I don&#8217;t know about you, but I&#8217;m constantly running into so many cool websites I want to remember or recommend to people but I don&#8217;t always have time to make a note of them, add them to Evernote, bookmark them in Delicious, etc. So [&hellip;]</p>
+		</div>
+	
+		</div><!--
+		--><div class="col-one-quarter m-col-one-whole sidebar">
+
+			
+
+					<aside id="dailytekk_recent_post-2" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">Feature</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="15014456652_3fcefa1de8_k" srcset="http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">T-Mobile Has Horrible Customer Service: Here&#8217;s How To Get A Resolution</a>
+							</h2>
+												
+
+				</aside>		<aside id="text-16" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"><!-- BuySellAds Zone Code -->
+<div id="bsap_1301090" class="bsarocks bsap_da5fc3a76f945dac1932bfb2d9940341"></div>
+<!-- End BuySellAds Zone Code --></div>
+		</aside><aside id="text-18" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"><div class="an-container" id="_-FZJnNgrOg0H_WnGXK6ZQKunfAqvkPrSVaBDU9c"></div></div>
+		</aside>				<aside id="dailytekk_recent_post-3" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">List</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="Screen Shot 2015-01-12 at 7.24.25 AM" srcset="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-200x134.png, http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-200x134@2x.png 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">10 Stylish and High-Quality Internet Radios</a>
+							</h2>
+												
+
+				</aside>						<aside id="dailytekk_recent_post-4" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">Review</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="iPhone_6_Phase_14519Captureone_2048x2048" srcset="http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/02/10/grovemade-maple-iphone-6-plus-case-review/">Grovemade Maple iPhone 6 Plus Case Review</a>
+							</h2>
+												
+
+				</aside>		<aside id="text-17" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"></div>
+		</aside>		<aside id="dailytekk_products-2" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_products">			<h3 class="widget-title">Products</h3>
+																											<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/yoink/">Yoink</a>
+								</h2>
+																	<h3 class="product__description">Takes the 'drag' out of drag and drop</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13187">
+									<span class="social--counter">155</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13187"
+									data-url="http://dailytekk.com/product/yoink/"
+																		data-text="Yoink - Takes the 'drag' out of drag and drop"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Yoink - Takes+the+%27drag%27+out+of+drag+and+drop&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/yoink/"
+									data-post_id="13187"
+									data-text="Yoink - Takes the 'drag' out of drag and drop"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F&amp;t=Yoink Takes+the+%27drag%27+out+of+drag+and+drop">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/stackhive/">StackHive</a>
+								</h2>
+																	<h3 class="product__description">The Fastest Web Development tool</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13247">
+									<span class="social--counter">64</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13247"
+									data-url="http://dailytekk.com/product/stackhive/"
+																		data-text="StackHive - The Fastest Web Development tool"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=StackHive - The+Fastest+Web+Development+tool&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/stackhive/"
+									data-post_id="13247"
+									data-text="StackHive - The Fastest Web Development tool"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F&amp;t=StackHive The+Fastest+Web+Development+tool">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/filepane/">FilePane</a>
+								</h2>
+																	<h3 class="product__description">File management utility</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13245">
+									<span class="social--counter">39</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13245"
+									data-url="http://dailytekk.com/product/filepane/"
+																		data-text="FilePane - File management utility"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=FilePane - File+management+utility&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/filepane/"
+									data-post_id="13245"
+									data-text="FilePane - File management utility"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F&amp;t=FilePane File+management+utility">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/samba/">Samba</a>
+								</h2>
+																	<h3 class="product__description">See your friends react to your video messages</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13181">
+									<span class="social--counter">34</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13181"
+									data-url="http://dailytekk.com/product/samba/"
+																		data-text="Samba - See your friends react to your video messages"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Samba - See+your+friends+react+to+your+video+messages&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsamba%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/samba/"
+									data-post_id="13181"
+									data-text="Samba - See your friends react to your video messages"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsamba%2F&amp;t=Samba See+your+friends+react+to+your+video+messages">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/bundll/">Bundll</a>
+								</h2>
+																	<h3 class="product__description">Private spaces for groups of family & friends</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13250">
+									<span class="social--counter">28</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13250"
+									data-url="http://dailytekk.com/product/bundll/"
+																		data-text="Bundll - Private spaces for groups of family & friends"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Bundll - Private+spaces+for+groups+of+family+%26+friends&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fbundll%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/bundll/"
+									data-post_id="13250"
+									data-text="Bundll - Private spaces for groups of family & friends"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fbundll%2F&amp;t=Bundll Private+spaces+for+groups+of+family+%26+friends">
+									Share</a>
+								</div>
+							</div>
+						</div>
+														</aside>		
+
+		</div>
+	</div>
+	</main>
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT AYL 728 x 90 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:728px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6674748022"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p class="footnote">© MMXV DailyTekk.</p><!--
+			--><ul class="menu"><li id="menu-item-13417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="http://dailytekk.com/advertise/">Advertise</a></li><li id="menu-item-13416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="http://dailytekk.com/about/">About</a></li><li id="menu-item-13418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="http://dailytekk.com/contact/">Contact</a></li>
+</ul>		</div>
+	</footer>
+
+				<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51766718-1', 'dailytekk.com');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+</script>	
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<!-- GumGum: You need to configure your Zone ID. -->        <script>var _roost = _roost || [];</script>
+                <script src="//cdn.goroost.com/roostjs/f508ef4fe9b846ef87277d425bc91f4e" async></script>
+        <script type="text/javascript" src="http://s.skimresources.com/js/72148X1521037.skimlinks.js"></script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteVars = {"siteUrl":"http:\/\/dailytekk.com","templateUrl":"http:\/\/dailytekk.com\/wp-content\/themes\/DailyTekk","ajaxUrl":"http:\/\/dailytekk.com\/wp-admin\/admin-ajax.php","nonce":"2084c5cfd3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/themes/DailyTekk/js/functions.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=2.2.0.2014.12.19'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201507'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.1'></script>
+
+	<script src="http://stats.wp.com/e-201507.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.1',blog:'34449495',post:'0',tz:'-7'});
+	var load_cmc = function(){linktracker_init(34449495,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><!-- Begin ADSNATIVE Code -->
+<script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script>
+<!-- End ADSNATIVE Code -->
+</body>
+</html>

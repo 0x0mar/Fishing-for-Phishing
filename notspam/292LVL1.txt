@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Psychology Of Eating</title>
+	<atom:link href="http://psychologyofeating.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://psychologyofeating.com</link>
+	<description>institute for the PSYCHOLOGY of EATHING the World&#039;s Leading School in Nutritional Psychology</description>
+	<lastBuildDate>Tue, 10 Feb 2015 23:37:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1</generator>
+	<item>
+		<title>Weight Gain and Trauma: Is There a Connection?</title>
+		<link>http://psychologyofeating.com/weight-gain-trauma-connection/</link>
+		<comments>http://psychologyofeating.com/weight-gain-trauma-connection/#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 19:54:30 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Guest Blog]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Eating Habits]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Emotional Eating]]></category>
+		<category><![CDATA[guest blog]]></category>
+		<category><![CDATA[Mind Body Nutrition]]></category>
+		<category><![CDATA[Nutritional Soul Lessons]]></category>
+		<category><![CDATA[Self Care]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18882</guid>
+		<description><![CDATA[<p>The Adverse Childhood Experiences Study was one of the largest studies on the long-term effects of childhood trauma. They found that there was a strong and direct link between early childhood traumatic experiences and addiction, mood disorders, health issues of all kinds, and high-risk behavior. The more traumatic experiences someone had, the greater correlation to [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/weight-gain-trauma-connection/">Weight Gain and Trauma: Is There a Connection?</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/weight-gain-trauma-connection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Are You in a Food and Body Competition with Your Daughter &#8211; Video with Marc David</title>
+		<link>http://psychologyofeating.com/food-body-competition-with-your-daughter-video-marc/</link>
+		<comments>http://psychologyofeating.com/food-body-competition-with-your-daughter-video-marc/#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 17:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Marc David]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Dietary Theories]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[For Health Professionals & Coaches]]></category>
+		<category><![CDATA[Health Tools]]></category>
+		<category><![CDATA[Musings from Marc]]></category>
+		<category><![CDATA[Nutritional Soul Lessons]]></category>
+		<category><![CDATA[Psychology]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Toxic Nutritional Beliefs]]></category>
+		<category><![CDATA[Women and Food]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18457</guid>
+		<description><![CDATA[<p>Do you have beliefs or habits around eating that seem like they have been a part of your life for as long as you can remember? If you trace these aspects of your relationship with food back to their origins, you might be surprised to learn that their roots reach even farther than your own [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/food-body-competition-with-your-daughter-video-marc/">Are You in a Food and Body Competition with Your Daughter &#8211; Video with Marc David</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/food-body-competition-with-your-daughter-video-marc/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Psychology of Symptoms: The 4 Psychological Types &#8211; Video with Emily Rosen</title>
+		<link>http://psychologyofeating.com/psychology-symptoms-4-psychological-types-video-emily-rosen/</link>
+		<comments>http://psychologyofeating.com/psychology-symptoms-4-psychological-types-video-emily-rosen/#comments</comments>
+		<pubDate>Mon, 09 Feb 2015 16:23:04 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18856</guid>
+		<description><![CDATA[<p>Experiencing unwanted symptoms is part of being human. We all have days when we feel something we’d rather not. Whether the discomfort is physical, emotional, or mental, we can count on life to bring us a steady stream of symptoms &#8211; each of which is there to provide us with a unique opportunity for growth [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/psychology-symptoms-4-psychological-types-video-emily-rosen/">The Psychology of Symptoms: The 4 Psychological Types &#8211; Video with Emily Rosen</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/psychology-symptoms-4-psychological-types-video-emily-rosen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 Things to Know if You Binge and Purge</title>
+		<link>http://psychologyofeating.com/6-things-know-binge-purge/</link>
+		<comments>http://psychologyofeating.com/6-things-know-binge-purge/#comments</comments>
+		<pubDate>Fri, 06 Feb 2015 22:02:37 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Guest Blog]]></category>
+		<category><![CDATA[Binge Eating Disorder]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Emotional Eating]]></category>
+		<category><![CDATA[Health Tools]]></category>
+		<category><![CDATA[Mind Body Nutrition]]></category>
+		<category><![CDATA[Mindfulness]]></category>
+		<category><![CDATA[Self Care]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18844</guid>
+		<description><![CDATA[<p>Binging and purging is an unhealthy behavior cycle that can be associated with very serious emotional and physical problems. In this blog, you will learn about why this behavior happens, and some steps you can take to break the cycle. 1. You’re Not Alone If you binge and purge, you’re not alone. According to a [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/6-things-know-binge-purge/">6 Things to Know if You Binge and Purge</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/6-things-know-binge-purge/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Free Live Webinar All About Becoming A Certified Eating Psychology Coach</title>
+		<link>http://psychologyofeating.com/free-live-webinar-becoming-certified-eating-psychology-coach/</link>
+		<comments>http://psychologyofeating.com/free-live-webinar-becoming-certified-eating-psychology-coach/#comments</comments>
+		<pubDate>Fri, 06 Feb 2015 00:46:19 +0000</pubDate>
+		<dc:creator><![CDATA[Marc David]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Eating Psychology Coaching]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Emily Rosen]]></category>
+		<category><![CDATA[Health Tools]]></category>
+		<category><![CDATA[Healthy Eating]]></category>
+		<category><![CDATA[Healthy Life]]></category>
+		<category><![CDATA[Inspirational Images]]></category>
+		<category><![CDATA[Mind Body Nutrition]]></category>
+		<category><![CDATA[Musings from Marc]]></category>
+		<category><![CDATA[News from IPE]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18038</guid>
+		<description><![CDATA[<p>Please join us for an information-packed live webinar about our premier professional offering &#8211; The Eating Psychology Coach Certification Training. Get all your questions answered and learn the important details of why this one-of-a-kind training is making a huge difference in the world! Date: Monday, March 16th Time: 7:00pm (EST) Where: Online Cost: Free Simply [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/free-live-webinar-becoming-certified-eating-psychology-coach/">Free Live Webinar All About Becoming A Certified Eating Psychology Coach</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/free-live-webinar-becoming-certified-eating-psychology-coach/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Tips for A Better Body Image</title>
+		<link>http://psychologyofeating.com/5-tips-better-body-image/</link>
+		<comments>http://psychologyofeating.com/5-tips-better-body-image/#comments</comments>
+		<pubDate>Tue, 03 Feb 2015 09:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Guest Blog]]></category>
+		<category><![CDATA[Body Image]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Fitness]]></category>
+		<category><![CDATA[Healthy Life]]></category>
+		<category><![CDATA[Key Lessons]]></category>
+		<category><![CDATA[Mind Body Nutrition]]></category>
+		<category><![CDATA[Nutritional Soul Lessons]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18729</guid>
+		<description><![CDATA[<p>Do you want to love your body? Stop trying to squeeze and mold your body into some ideal that’s based on current trends or judgmental edicts. Positive body image is an inside job. Try these 5 tips to help you nurture a better body image! Body Image Tip #1: Show Some Body Love Appreciate your [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/5-tips-better-body-image/">5 Tips for A Better Body Image</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/5-tips-better-body-image/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What Exactly is Bulimia?</title>
+		<link>http://psychologyofeating.com/exactly-bulimia/</link>
+		<comments>http://psychologyofeating.com/exactly-bulimia/#comments</comments>
+		<pubDate>Mon, 02 Feb 2015 20:41:13 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Guest Blog]]></category>
+		<category><![CDATA[Binge Eating Disorder]]></category>
+		<category><![CDATA[Body Nutrition]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Emotional Eating]]></category>
+		<category><![CDATA[Healthy Life]]></category>
+		<category><![CDATA[Key Lessons]]></category>
+		<category><![CDATA[Metabolism]]></category>
+		<category><![CDATA[Mind Body Nutrition]]></category>
+		<category><![CDATA[Self Care]]></category>
+		<category><![CDATA[Toxic Nutritional Beliefs]]></category>
+		<category><![CDATA[Women and Food]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18716</guid>
+		<description><![CDATA[<p>In our high-pressure, image-focused society, some people turn to drastic, unhealthy measures to try to change their bodies. No one wants to develop an eating disorder, but what may start out as experimentation with a disordered eating behavior can escalate into a habit, and then a consuming lifestyle. In this blog, we will investigate bulimia [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/exactly-bulimia/">What Exactly is Bulimia?</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/exactly-bulimia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Here’s Why There’s Hope if You Have an Eating Disorder</title>
+		<link>http://psychologyofeating.com/heres-theres-hope-eating-disorder/</link>
+		<comments>http://psychologyofeating.com/heres-theres-hope-eating-disorder/#comments</comments>
+		<pubDate>Fri, 30 Jan 2015 22:53:08 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Guest Blog]]></category>
+		<category><![CDATA[Body Image]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Diet]]></category>
+		<category><![CDATA[eating disorders]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Emotional Eating]]></category>
+		<category><![CDATA[Health Tools]]></category>
+		<category><![CDATA[Healthy Life]]></category>
+		<category><![CDATA[Key Lessons]]></category>
+		<category><![CDATA[Nutritional Soul Lessons]]></category>
+		<category><![CDATA[Self Care]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18660</guid>
+		<description><![CDATA[<p>If you have an eating disorder, you’re not alone. Many people struggle with their relationships with food and their bodies. But for those struggling beyond disordered thinking or eating into full-blown eating disorders, don’t give up! There is hope. The Predisposition Science has shown that the same genetics that predispose people toward alcoholism can predispose [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/heres-theres-hope-eating-disorder/">Here’s Why There’s Hope if You Have an Eating Disorder</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/heres-theres-hope-eating-disorder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 Great Tips for Overeaters</title>
+		<link>http://psychologyofeating.com/5-great-tips-overeaters/</link>
+		<comments>http://psychologyofeating.com/5-great-tips-overeaters/#comments</comments>
+		<pubDate>Thu, 29 Jan 2015 22:36:04 +0000</pubDate>
+		<dc:creator><![CDATA[Emily Rosen]]></dc:creator>
+				<category><![CDATA[Guest Blog]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Eating Habits]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Emotional Eating]]></category>
+		<category><![CDATA[Health Tools]]></category>
+		<category><![CDATA[Healthy Eating]]></category>
+		<category><![CDATA[Healthy Life]]></category>
+		<category><![CDATA[Mind Body Nutrition]]></category>
+		<category><![CDATA[Mindfulness]]></category>
+		<category><![CDATA[Tips & Tricks]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18649</guid>
+		<description><![CDATA[<p>There are so many reasons that we may overeat. Some of us overeat when we’re happy, some of us when we’re bored, some of us overeat when we’re feeling sad or lonely, and for others, we just have a hard time recognizing when we’re full. Whatever the reason for your overeating, you can learn to [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/5-great-tips-overeaters/">5 Great Tips for Overeaters</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/5-great-tips-overeaters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Nutritional Psychology of Protein &#8211; Video with Marc David</title>
+		<link>http://psychologyofeating.com/the-nutritional-psychology-of-protein-video-marc/</link>
+		<comments>http://psychologyofeating.com/the-nutritional-psychology-of-protein-video-marc/#comments</comments>
+		<pubDate>Wed, 28 Jan 2015 18:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[Marc David]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Body Nutrition]]></category>
+		<category><![CDATA[Body Wisdom]]></category>
+		<category><![CDATA[Dietary Theories]]></category>
+		<category><![CDATA[Eating]]></category>
+		<category><![CDATA[Eating Habits]]></category>
+		<category><![CDATA[Eating Psychology]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Food Politics]]></category>
+		<category><![CDATA[Healthy Eating]]></category>
+		<category><![CDATA[Healthy Life]]></category>
+		<category><![CDATA[Musings from Marc]]></category>
+		<category><![CDATA[Sustainability]]></category>
+		<category><![CDATA[Top Blogs]]></category>
+		<category><![CDATA[Videos]]></category>
+
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=18576</guid>
+		<description><![CDATA[<p>Protein is one of the most basic building blocks of our diet, and of our own bodies, but it’s also the focus of some serious controversy within the field of nutritional science. How much protein do we need to be healthy? Where should it come from &#8211; animals, plants, or both? Should protein be the [...]</p>
+<p>The post <a rel="nofollow" href="http://psychologyofeating.com/the-nutritional-psychology-of-protein-video-marc/">The Nutritional Psychology of Protein &#8211; Video with Marc David</a> appeared first on <a rel="nofollow" href="http://psychologyofeating.com">Psychology Of Eating</a>.</p>
+]]></description>
+		<wfw:commentRss>http://psychologyofeating.com/the-nutritional-psychology-of-protein-video-marc/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>
+<!-- Wp Fastest Cache: XML Content -->

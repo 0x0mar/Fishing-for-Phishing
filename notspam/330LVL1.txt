@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+
+<html class="no-js ie6 oldie" lang="en-IN" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 7]>
+
+<html class="no-js ie7 oldie" lang="en-IN" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 8]>
+
+<html class="no-js ie8 oldie" lang="en-IN" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if IE 9]>
+
+<html class="no-js ie9" lang="en-IN" version="HTML+RDFa 1.1"> <![endif]-->
+<!--[if gt IE 9]>
+
+<html class="no-js ie10" lang="en-IN" version="HTML+RDFa 1.1"> <![endif]-->
+    
+<head>
+<title>Online Shopping India: Shop Shoes, Clothing, Bags, Watches Online in India</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=8,9" />
+<meta property="fb:admins" content="203550509764" />
+<meta name="description" content="Online shopping in India for men, women &amp; kids for shoes, clothing, watches, sunglasses at Jabong.com. ✓ Free Shipping ✓ Cash on Delivery ✓ 30 Days Return" />
+<meta name="keywords" content="Online Shop India, Gifts to India, online shopping store, online shopping store India" />
+<meta name="google-site-verification" content="0gEuoFARyY9OXyIJwgeGWGFOWQLwwMCC4iPuMt1y6RE" />
+
+    
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.jabong.com/" />
+
+
+<link rel="icon" href="http://static.jabong.com/cms/icons/favicon.ico" type="image/png" />
+
+<link rel="shortcut icon" href="http://static.jabong.com/cms/icons/favicon.ico" type="image/png" />
+
+<link rel="apple-touch-icon-precomposed" href="http://static.jabong.com/images/jabong/apple-touch-icon-precomposed.png" />
+
+<link rel="publisher" href="https://plus.google.com/106564457192077473084/"/>
+    
+            
+<link rel="stylesheet" type="text/css" href="http://static.jabong.com/css/live/alice-min-jlite.1423426045.css" media="all" />
+    <style>/* For PDP Page Tooltip */.newdesign_recmnd footer .pagination{padding-top: 0;}#lfw-secondVideoDiv{top: 50%; left: 50%;}.iofw-sprite {background-image: url('http://static.jabong.com/cms/iofw/iofw_sprite_v1.png')!important;}
+.iofw-sec {width: 96px !important;height: 87px !important;}/*category section spacing solution start*/.search-box .search-by-cat div a span:first-child, .search-box .search-by-cat div strong span:first-child {
+margin-right: 3px;}.search-box .search-by-cat div a span, .search-box .search-by-cat div strong span {width: 0;margin-right: 0;}.search-box .search-by-cat div a span:first-child, .search-box .search-by-cat div strong span:first-child {background-position: -16px -127px;width: 6px;height: 10px;display: inline-block;padding: 0;margin-right: 3px;}/*end of category section spacing solution*//*scroll to top issue start */.scroll-to-top {z-index: 99;}/*end of scroll to top issue*/
+/*cart icon clickable issue start*/.my-cart{z-index: 27;}/*end of cart icon clickable issue*/
+/*lfw homepage hide play icon start*/.lfwhome-vicon{display:none !important}/*end of lfw homepage hide play icon*//*nbaColor start*/.clr-nba{color:#087fdb!important};/*end of nbaColor*//* lfw gallery css start */ .lfw-slider .inner-slides li{text-align:center;}.lfw-glr li p{line-height:18px !important;} .fashion-wall>li{width:306px  !important;margin: 0 0 25px 34px; !important}.fashion-wall > li > a > img {width: auto;height: auto;}.fashion-wall li a p{left: 5px !important;} /* lfw gallery css end */
+/* Checkout payback tooltip start */.payback-acrdn .tt-wrapper .tt-arrow {background-position: -197px -79px;top: -9px;}/* Checkout payback tooltip end */
+
+/* catalog filter css start */.search-box .catTreeLvl1{width: 146px;} /* catalog filter css end */
+
+/*PDP recommend start*/.verti-slider li a img{ width: 135px; height: 194px;}/*PDP recommend ends*/
+
+.topRightLinks{z-index:27;}
+.item-description{position:relative;}
+.fifa-shoes{height:145px;}
+.main-topnav>ul>li.sticky-logo a {
+padding: 0;
+border: none;
+margin: 0;
+}
+#searchSuggestResult li span.recent-search {display: block;}
+/* for customization start*/
+.flag-added {text-transform: uppercase;}
+.set-option-text {text-transform: uppercase;}
+/* for customization end*/
+.item-description{position:relative;}
+#searchSuggestResult li span {
+display: inline;
+}
+ .main-topnav>ul>li.sticky-logo a {
+padding: 0;
+border: none;
+margin: 0;
+}
+
+@media screen and (min-width: 768px) and (max-width: 995px) {
+.designer-right-block {margin-bottom:-25px;}
+}
+
+/* payback uppercase css start */
+div#payback {text-transform: uppercase;} div > p.fs11.c24 {text-transform: uppercase;}
+/* payback uppercase css start */
+
+.register-txt{text-transform: none!important;}
+
+.brands-tab a { height: 34px; padding: 16px 0 0 12px;text-transform: uppercase;}
+.brands-tab a:first-child { padding-top: 5px;height: 45px; }
+.brands-tab .premium-tab { padding-top: 10px; height: 40px; }
+.brands-tab .a-z-brands { padding: 13px 0 0 34px;}
+.fifa-slider .bx-prev,.fifa-slider .bx-next {z-index:9;}
+
+#new-home-page a#qa-banner-arrow-l,
+#new-home-page a#qa-banner-arrow-r,
+#new-home-page a#qa-banner-arrow-l{
+background-image: url('/images/jlite/sprite/common_sprite_v1.png') !important;
+display: inherit !important;
+}
+.selfie-contest h2 {font-size:28px!important}
+
+</style>
+
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug4PUVRADQsIXFdUBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+
+<script type="text/javascript">
+    var emailId = '';
+    var aliceImageHost = 'http://static.jabong.com';
+    var aliceStaticHost = 'http://static.jabong.com';
+    var globalConfig = {};
+    var devicetype = 'desktop';
+    var omnitureAccount = 'jabong-prod';
+    var domainForOmniture = 'www.jabong.com';
+    var omnitureCartCount = '0';
+    var isOmnitureEnable = '1';
+    var isStickyTopNavEnabled = '1';
+    var isWebpEnabled = '0';
+    (function(JABONG, undefined) {
+        JABONG.config = {
+            cookieLastVisitedGenderName     : 'j_lvs',
+            cookieLastVisitedGenderLifetime : '30',
+            enableJSRedirection             : 0        };      
+    })(window.JABONG = window.JABONG || {});
+    if (isOmnitureEnable=="1") {
+        var omnitureChannel = '';
+    }
+    globalConfig.isWebengageFeedbackEnabled = 0;
+    var maxSuggestionCount = '10';
+    var maxProCount = '0';
+    var chatBaseUrl = 'https://jabong.kayako.com/';
+    var liveChatOmniture = 'Live Chat';
+    var orderChatOmniture = 'Order Chat Now';
+    var styleChatOmniture = 'Style Chat Now';
+</script>
+
+<!--[if lte IE 8]>
+                    <script type="text/javascript" src="http://static.jabong.com/js/modernizr.custom.52848.js"></script>
+                <![endif]--><script type="text/javascript">
+    var _gaq = _gaq || [];
+
+    /* This Javascript Code block add for update utm_medium value, when  request come from  netslave */
+    if (location.hash) {
+        var qc_anchortags = location.hash.substr(1);
+        if (qc_anchortags.substr(0,1) == "Q" ) {
+            var len = qc_anchortags.length;
+            var partner_id = qc_anchortags.substr((len-2), len);
+            _gaq.push(['_set', 'campaignParams', 'utm_source=cps_network1&utm_medium=partner&utm_campaign=' + partner_id]);
+        }
+    }
+    
+_gaq.push(['_setCustomVar', 28, 'split_hp', 'new', 2 ]);
+_gaq.push(['_setCustomVar', 24, 'Stripe', 'Yes', 2]);
+_gaq.push(['_setCustomVar', 20, 'Sorl Search', 'newSearch' , 2]);
+_gaq.push(['_setCustomVar', 27, 'TopNavDropdown', 'NewTopNav', 2]);
+_gaq.push(['_setCustomVar', 40, 'SearchSuggestion', 'Old Suggestions', 2]);
+_gaq.push(['_setCustomVar', 43, 'CatTreeExpand', 'old' , 2]);
+_gaq.push(['_setCustomVar', 43, 'CatTreeExpand', 'old' , 2]);
+_gaq.push(['_setCustomVar', 29, 'split_test_sticky', 'new', 2 ]);
+    _gaq.push(['_setCustomVar', 34, 'Preset', 'No', 2]);
+ var omnitureABvalues = 'split_hp: new|Stripe: Yes|Sorl Search: newSearch|TopNavDropdown: NewTopNav|SearchSuggestion: Old Suggestions|CatTreeExpand: old|split_test_sticky: new';
+</script>
+    </head>
+    <body class="full-width  thm-core thm-jabong thm-jlite  l-hasSidebar">
+                <div style="display: none;">
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-27047535-1']);
+        _gaq.push('_addOrganic', 'google.com', 'q');
+        _gaq.push(['_trackPageview']);
+        _gaq.push('_trackPageLoadTime');
+         var voucher = '';
+        if(voucher!=''){
+            _gaq.push(['_trackEvent','voucher','cart',voucher]);
+        }
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+        
+        var oldonload = window.onload;
+        window.onload = function() {
+            $(function() {
+                //Track click on search button event (INDFAS-1442)
+                $('.ui-searchInput button').click(function() {
+                    _gaq.push(['_trackEvent', 'Header', 'Search', 'Button']);
+                });
+            });
+            if(oldonload){oldonload()}
+        };
+    </script>    
+</div>
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Gender category pages
+URL of the webpage where the tag is expected to be placed: http://www.jabong.com/men/ etc.
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 10/01/2013
+-->
+<iframe src="http://static.jabong.com/images/jlite/spacer.gif" data-src-onload="//fls.doubleclick.net/activityi;src=3473822;type=gencat;cat=gencat;u1=;u3=;u2=;u11=;u13=;u12=;u15=direct;u18=;u19=;u20=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+        <section class="mainWrapper">
+            <div class="main-container main-container-new main-section">
+                <!--Start of Header-->
+                <div class="cms-content">
+    
+<header>
+        <div class="header-top full-width fs11 pt5 pb5">
+                        <aside class="fr link-right pos-rel mr20">
+                <ul class="top-links">
+<!--                    <li>
+                        <a title=""
+                            href="/nbajam/"
+                            rel="follow" class="clr-nba fs12">                        </a>
+                    </li>-->
+                                                <li class="contact-link">
+                            <a title="Contact Us"
+                                href="http://www.jabong.com/contact/"
+                                rel="nofollow">Contact Us<span class="common-sprite dwn-arrw"></span>
+                            </a>
+                            <div class="contact-box d-none">
+                                <a href="http://www.jabong.com/contact/">Contact Us</a>
+                                <a href="http://jabong.custhelp.com">FAQs</a>
+                            </div>
+                        </li>
+                                            <li>
+                            <a title="Gift Cards"
+                                href="http://www.jabong.com/customer/credits/gift_cards/"
+                                rel="nofollow">Gift Cards                            </a>
+                        </li>
+
+                                            <li id="trackli">
+                            <a title="Track Order" href="javascript:void(0);"
+                                onclick="PopUpSettingForTrackOrder('trackOrder', '')"> Track Order                            </a>
+                        </li>
+                                                            <li><a id="qa-signup-link" class="sel-home-my-account accountnewh"
+                                                   href="javascript:void(0);" title="Sign up &amp; get Rs.1500"
+                                                   onClick="PopUpSettingForSignupSignin('signUp', '');">Sign Up</a>
+                        </li>
+                                <li>
+                    <div id="qa-login-link" class="log-lnk-prnt fl">
+                                            </div>
+                </li>
+
+                </ul>
+            </aside>
+        </div>
+        <!-- Header Mid Start -->
+        <div class="header-mid pt5 pb5 full-width ">
+            <a id="qa-logo-link" class="fl ml15" href="http://www.jabong.com" title="Online Shopping India | Jabong.com">
+                                        <img alt="Online Shopping India - Shop Shoes, Clothing, Accessories, Bags online at Jabong.com"
+                         title="Online Shopping India | Jabong.com"
+                         src="http://static.jabong.com/images/jlite/logo-new.png" width="190" height="39" />
+                            </a>
+            <div id="search" class="search fl pos-rel z-indx30">
+                <input id="searchInput" placeholder="Search by typing the product or brand name..." class="form-text main-search fl sel-search-input " name="q" type="text" value="" autocomplete="off" />
+                <span id="baseUrl" name="baseUrl"></span>
+                <a id="qa-searchBtn" class="d-block new-search-btn fl cursor sel-search-button"><span class="d-block mt5 ml10 common-sprite"></span>
+                    <strong class="fs12 clr-fff d-none search-text">SEARCH</strong>
+                </a>
+                <div class="search-suggestion d-none search-suggestion-sticky" id="searchSuggestResult"></div>
+                <div class="d-none" id="keywordRank"></div>
+            </div>
+                        <div class="container floating-cart-container">
+                <div class="saved-bag fr pos-rel">
+    <a id="saved-link-header" href="http://www.jabong.com/quicklist/" class="count txt-up fs11">
+        <span class="common-sprite star-icon"></span>
+        <span id="saved-text" class="ff-georgia f-bold">Saved</span> <span class="ql_Counter_header">(<span id="header-saved-items-count"></span>)</span>
+    </a>
+    <span>|</span>
+    <a id="bag-link-header" href="http://www.jabong.com/cart/" class="count txt-up fs11">
+        <span class="common-sprite bag-icon"></span>
+        <span id="bag-text" class="ff-georgia f-bold">bag</span> (<span id="outer-bag-items-count">0</span>)
+    </a>
+    <div id="floating-saved-list" class="grid_5 alpha omega tt-grid-bg fr">
+            </div>
+    <div id="floating-cart" class="grid_5 alpha omega tt-grid-bg fr">
+            </div>
+</div>
+<!-- Saved Item Box End -->
+            </div>
+                    </div>
+        <form id="yw0" action="/" method="post">
+<div style="display:none"><input type="hidden" value="f7d8e57ce089d0e5f92228835bacb4d9016a5a1b" name="YII_CSRF_TOKEN" /></div>        </form>        <div class="container">
+<div class="grid_12 nospace">
+<nav class="main-topnav fl">
+<ul>
+<li class="sticky-logo">
+<a href="http://www.jabong.com/"><img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/top-nav/logo-sticky.jpg" /></a>
+</li>
+<li class="women" data-menu="exp-top-nav-element-women">
+<a href="http://www.jabong.com/women/?source=topnav_women" id="qa-main-women">WOMEN</a>
+</li>
+<li class="men" data-menu="exp-top-nav-element-men">
+<a href="http://www.jabong.com/men/?source=topnav_men" id="qa-main-men">MEN</a>
+</li>
+<li class="kids" data-menu="exp-top-nav-element-kids">
+<a href="http://www.jabong.com/kids/?source=topnav_kids" id="qa-main-kids">KIDS</a>
+</li>
+<li class="home-living" data-menu="exp-top-nav-element-home">
+<a href="http://www.jabong.com/home-furniture/?source=topnav_hf" id="qa-main-home-living">HOME</a>
+</li>
+<li class="premium" data-menu="exp-top-nav-element-premium">
+<a href="http://www.jabong.com/designer/?source=topnav_premium" id="qa-main-premium">PREMIUM</a>
+</li>
+<li class="brands hover-menu" data-menu="exp-top-nav-element-brand">
+<a href="http://www.jabong.com/brands/?source=topnav_brands" id="qa-main-brands">BRANDS</a>
+</li>
+<li class="sports" data-menu="exp-top-nav-element-sports">
+<a href="http://www.jabong.com/running-shop-online/?source=topnav_sports" id="qa-main-sports">SPORTS</a>
+</li>
+<li class="online-sale sale-tab" data-menu="exp-top-nav-element-sale">
+<a href="http://www.jabong.com/online-sale/?source=topnav_sale" id="qa-main-sale">SALE</a>
+</li>
+<li class="news-style hover-menu" data-menu="exp-top-nav-element-news-style">
+<a href="http://www.jabong.com/blog/?source=topnav_news-style"><span class="news-style-border">NEWS & STYLE</span></a>
+</li>
+<li class="sticky-search">
+<a><img class="ml15" src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/srch-icon-141114.jpg" /></a>
+</li>
+</ul>
+</nav>
+</div>
+</div>        <!-- Main Nav End -->
+    </header>
+</div>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "http://www.jabong.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "http://www.jabong.com/find?q={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>   <div id="logged-in-html">
+   <!--
+   <div id="track-html">
+       <li class="trkorder">
+           <a href="http://www.jabong.com/customer/order/index" class="" id="qa-trk-ord-link">
+              Track Order              <span class="common-sprite dwn-arrw"></span>
+           </a>
+          {TRACK_HTML}
+       </li>
+   </div>
+   <div id="my-account-html">
+       <li class="myorder">
+           <a href="http://www.jabong.com/customer/account/index" id="qa-my-acc-link"
+               class="sel-home-my-account accountnew accountDiv" >
+               Hi {CUSTOMER_NAME}
+               <span class="common-sprite dwn-arrw"></span>
+           </a>
+           {MY_ACCOUNT_HTML}
+       </li>
+   </div>
+   -->
+   </div>
+                <!--End of Header-->
+
+                <!--Start top Banner-->
+                <div class="clear"></div>
+<section class="mt5 mb5" id="catalogTopStrip">
+    <style type="text/css">.new-banner-box{background:#fff;width:996px;margin:0 auto 10px;padding:3px 0 5px;line-height:15px;border-bottom:1px solid #bcbcbc;}.new-banner-box div > a{color:#999;cursor:pointer;}.new-banner-box .tt-outer{margin: -26px 0px 0px -24px;padding-top: 22px;z-index: 12;width:105px;}.new-banner-box .tt-outer.tt-wrapper-fs .tt-wrapper{margin-left:-20px;}.new-banner-box .tt-outer.tt-wrapper-return .tt-wrapper{margin-left:-120px;}.new-banner-box .tt-outer.tt-wrapper-codts .tt-wrapper{margin-left: -73px;}.new-banner-box a:hover{text-decoration:underline;}.tt-outer .tt-wrapper .tt-arrow{background-position: -198px -79px;width: 16px;height: 9px;top: -9px;right: 41px;display: inline-block;position: absolute;}.black-span{color:#000 !important;}.new-banner-box .red-span{color:#ff0f00;font-size:14px;font-weight:bold;font-family: Helvetica;}.new-banner-box .red-span.black-span{color:#000;}.red-span.clrns-sale{font-size:14px !important;}.new-banner-box a.tt-link:hover{color:#666;cursor:default;text-decoration: none;}.tt-outer.tt-wrapper-fs .tt-wrapper, .tt-outer.tt-wrapper-return .tt-wrapper, .tt-outer.tt-wrapper-codts .tt-wrapper{width: 228px;text-transform: none;padding: 14px 5px;color:#666;}.tt-outer.tt-wrapper-return{margin: -26px 0 0 1px;}.tt-outer.tt-wrapper-codts{margin: -26px 0 0 0px;}.tt-outer.tt-wrapper-fs .tt-wrapper .tt-arrow{margin-left: 75px;}.tt-outer.tt-wrapper-return .tt-wrapper .tt-arrow{margin-left: 131px;}.tt-outer.tt-wrapper-codts .tt-wrapper .tt-arrow{margin-left:118px;}.ie7 .d-tcell{display:block;float:left;} .m-app img{vertical-align:middle;}.color-black{color: #000;}.offer-black:hover{color: black;}.black-span-highlight{font-size: 12px;/* font-weight: bold; */font-family: Helvetica;color: #222 !important;}</style>
+<div class="txt-center new-banner-box d-table">
+        <div class="b-dot-b3 wid275 d-tcell fs10 v-align-mid hgt30 c999 txt-up m-app">
+          <!--<div class="pos-rel">
+            <a href="#" class="tt-link tt-link-new home-page-tooltip">free shipping*</a>
+<div class="tt-outer d-none pos-abs  tt-wrapper-fs home-page-tooltip"><div class="tt-wrapper fs12">
+                    <p>Free shipping on most products. Nominal shipping charge applicable on select products. <a href="/support/faq/#Shipping" class="txt-deco-under c222">More details</a> </p><small class="tt-arrow common-sprite"></small>
+                </div></div>
+           | <a href="#" class="tt-link tt-link-new home-page-tooltip">30 days return</a>
+<div class="tt-outer d-none pos-abs tt-wrapper-return home-page-tooltip"><div class="tt-wrapper fs12">
+                    <p>We offer a quick and easy 30 days-return policy so you can buy with confidence. <a href="/support/faq/#Returns" class="txt-deco-under c222">More details</a></p><small class="tt-arrow common-sprite"></small>
+                </div></div><br />
+<a href="#" class="tt-link tt-link-new home-page-tooltip"> cash on delivery*</a>
+<div class="tt-outer d-none pos-abs tt-wrapper-codts home-page-tooltip"><div class="tt-wrapper  fs12">
+                    <p>We offer cash on delivery on most products for a worry-free shopping experience! <a href="/support/faq/#Payments" class="txt-deco-under c222">More details</a></p><small class="tt-arrow common-sprite"></small>
+                </div></div>
+          </div>-->
+            <a target="_blank" href="/mobileapp/?source=hfpage" class="black-span-highlight d-block txt-up">EXTRA 30% OFF ON MOBILE APP</a><span class="cursor-d c999 ma-icons"> iOS | Android | Windows</span>
+        </div>
+<!--<div class="b-dot-b3 wid400 d-tcell fs10 v-align-mid hgt30">
+        <a class="black-span-highlight d-block txt-up" href="/all-products/discount-more-than-39/?promotion=flat30&cmpgp=flat-30-tuesday-night-rush-offer&source=home-stripe">Flat 40% off + Extra 20% off</a><span class="cursor-d c999 txt-up"> on orders above Rs 1599</span> | <span class="cursor-d c999 txt-up">coupon code: RUSH20</span>
+        </div>-->
+       <div class="b-dot-b3 wid400 d-tcell fs10 v-align-mid hgt30">
+        <a class="black-span-highlight d-block txt-up" href="/all-products/discount-more-than-39/?cmpgp=flat-40-offer&source=home-stripe">Flat 40% off</a><span class="cursor-d c999 txt-up">Over 40,000 Styles</span>
+        </div>
+        <div class="wid280 d-tcell fs10 v-align-mid hgt30 txt-up">
+            <!--<a class="black-span-highlight d-block txt-up" href="/all-products/?promotion=additional-30&bannerSelected=true&sort=whatsnew&dir=desc&cmpgp=main-offer&source=home-stripe">Extra 25% off </a><span class="c999 cursor-d txt-up">coupon code: NEW25</span>-->
+            
+            <a class="black-span-highlight d-block txt-up" href="/all-products/?promotion=additional-30&bannerSelected=true&sort=whatsnew&dir=desc&cmpgp=happy-hour&source=home-stripe">Extra 30% off </a><span class="c999 cursor-d txt-up">no minimum bag value</span> | <span class="c999 cursor-d txt-up">coupon code: HAPPY30</span>
+        </div>
+    </div></section>
+                <!--End of Top Banner-->
+                <div class="clear"></div>
+                <!--Start of Middle Section-->
+                <div class="container">
+                    <div id="notificationMsg"></div>
+                </div>
+                <div id="content">
+
+                <div class="container mb50">
+    <input type="hidden" id="isBlogEnabled" value="1" />
+    <!-- man woman category section starts here -->
+    <style>.wlcm-jabong {margin: 52px 82px 38px !important;}.mgzn-slider .pagination{padding-top:0;}.read-entire-blog a:hover{text-decoration:none;}.jabong-slider.mgzn-slider .inner-slides{border:0;}.mgzn-slider:hover{background:#fff;}.mgzn-slider .inner-slides:hover a,.mgzn-slider .inner-slides:hover iframe a,.main-cat:hover iframe a{opacity:0.5;}.main-cat .grid_4.nospace a:hover{opacity:1;}.main-cat{height:425px;}.mgzn-slider{height:347px;}.mgzn-slider iframe{margin-bottom:0!important;}.main-cat .alpha .flb_banner{display:block !important;z-index:1;position:absolute;}.main-cat iframe{position:relative; z-index:2;}</style>   
+
+<section class="main-cat grid_12 alpha omega nospace">
+            <div class="grid_8 nospace alpha">
+                <a class="flb_banner" href="javascript:void(0)"><img src="http://staticjcdn.jabong.com/cms/New Home/Main/640x425-1.jpg"  alt="" /></a>
+                <IFRAME SRC="http://ad.doubleclick.net/adi/N7304.889084.JABONG.COM/B8158172.114070224;sz=640x425;ord=[timestamp]?" WIDTH=640 HEIGHT=425 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/adj/N7304.889084.JABONG.COM/B8158172.114070224;abr=!ie;sz=640x425;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.114070224;abr=!ie4;abr=!ie5;sz=640x425;ord=[timestamp]?">
+<IMG SRC="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.114070224;abr=!ie4;abr=!ie5;sz=640x425;ord=[timestamp]?" BORDER=0 WIDTH=640 HEIGHT=425 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME>
+                 
+    </div>
+    <div class="grid_4 d-block txt-center omega">
+        <h1 class="fs18 f-normal txt-up wlcm-jabong l-hght22">HELLO THERE</h1>
+        <h3 class="fs14 mb20">You are just a click away<br /> from a whole new you!</h3>
+        <p class="mb20">Hit refresh on your wardrobe with our blend of international labels, local brands, and designer wear</p>
+        <a href="/women/?icn=home-new-UI&ici=r1_b2_women" class="trans-btn">shop women</a><br />
+        <a href="/men/?icn=home-new-UI&ici=r1_b2_men" class="trans-btn">shop men</a>
+    </div>
+    
+    <div class="clear"></div>
+</section>    <!-- man woman category section ends here -->
+    <!-- do not miss section starts here -->
+    <style>
+.b-ad-container{position: relative;height: 395px;margin: 0;margin-bottom: 40px;}.b-ad-container .flb_banner{display:block !important;position:absolute;z-index:1;}.b-ad-container .ad-banner-image{position:absolute;z-index:2;}.dont-miss .b-ad-container a:hover{opacity: 1;}.b-ad-container:hover{opacity:.5;}
+</style>
+
+<section class="grid_8 mt35 dont-miss">
+        <h2 class="section-head mb40 fl">do not miss</h2>
+            <div class="clear"></div>
+<div class="b-ad-container grid_8">
+            <a href="/benetton-shop-online/?icn=home-new-UI&ici=r2_b1_dnm-ucb" class="flb_banner mb40 d-block opac-image">
+                    <img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0181_Home_DNM_UCB_AW-14_08082014.jpg" alt="" width="638" height="395" />                   
+                </a>
+<A class="d-block fl ad-banner-image" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358245;sz=638x395;ord=1423733073?">
+<img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358245;sz=638x395;ord=1423733073?" BORDER=0 WIDTH=638 HEIGHT=395 ALT="Advertisement"></A></div>
+            <a href="/men/Nautica/new-products/?icn=home-new-UI&ici=r3_b1_dnm-nautica" class="flb_banner grid_4 alpha mb40 fl opac-image">
+                    <img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0359_Home_Men-New-Camp_Nautica_02092014.jpg" alt="" width="306" height="316" />              
+                    
+                </a>
+<A class="fl" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358108;sz=306x316;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358108;sz=306x316;ord=1423733073?" BORDER=0 WIDTH=306 HEIGHT=316 ALT="Advertisement"></A>            
+            <a href="/women/clothing/Satya_Paul/?sort=whatsnew&dir=desc&icn=home-new-UI&ici=r3_b2_dnm-satyapaul" class="flb_banner grid_4 omega mb40 fr opac-image">
+                    <img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0360_Home_Women-New-Camp_Satya-Paul_02092014.jpg" alt="" width="306" height="316" />                    
+                </a>
+<A class="fr" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358118;sz=306x316;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358118;sz=306x316;ord=1423733073?" BORDER=0 WIDTH=306 HEIGHT=316 ALT="Advertisement"></A>
+            <div class="clear"></div>
+            <a href="/new-products/?cmpgp=new-arrivals&icn=home-new-UI&ici=r4_b1_dnm-new" class="flb_banner mb40 d-block opac-image">
+                    <img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0358_Home_PROMO_New-Arrivals_02092014.jpg" alt="" width="638" height="395" />                    
+                </a>
+<A class="d-block fl" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109357771;sz=638x395;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109357771;sz=638x395;ord=1423733073?" BORDER=0 WIDTH=638 HEIGHT=395 ALT="Advertisement"></A>
+            <a href="/men/jack-jones/new-products/?icn=home-new-UI&ici=r5_b1_dnm-jj" class="flb_banner grid_4 alpha mb40 fl opac-image">
+                    <img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0361_Home_Men-Old-camp_JJ_02092014.jpg" alt="" width="306" height="316" />                    
+                </a>
+<A class="fl" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358926;sz=306x316;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358926;sz=306x316;ord=1423733073?" BORDER=0 WIDTH=306 HEIGHT=316 ALT="Advertisement"></A>
+            <a href="/women/clothing/people/?sort=whatsnew&dir=desc&icn=home-new-UI&ici=r5_b2_dnm-people" class="flb_banner grid_4 omega mb40 fr opac-image">
+                    <img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0362_Home_Women-Old-Camp_People_02092014.jpg" alt="" width="306" height="316" />                    
+                </a>
+<A class="fr" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358925;sz=306x316;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358925;sz=306x316;ord=1423733073?" BORDER=0 WIDTH=306 HEIGHT=316 ALT="Advertisement"></A>
+        </section>    <!-- do not miss section ends here -->
+    <!-- magazine section starts here -->
+    <style>
+.b-db-ads{
+   position: absolute;
+   top: 0;
+}
+
+.mgzn-slider .inner-slides li{
+  position: relative;
+}
+
+.mgzn-slider .inner-slides a:hover{
+  opacity: 1 !important;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)" !important;
+}
+
+.mgzn-slider .inner-slides li:hover{
+  opacity: .5 !important;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)" important;
+}
+
+</style>
+<section class="grid_4 mt35 home-magazine pos-rel mb25">
+        <h2 class="section-head mb40 fl">the buzz</h2>
+            <div class="clear"></div>
+            <section id="hmgzn-slider" class="mgzn-slider jabong-slider">
+                <div class="inner-slides">
+                    <ul>
+                        <li><a class="flb_banner" href="/magazine/"><img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/Home_Buzz-Juice-Magazine-Dec_031214.jpg" alt="" width="255" height="345" /></a>
+<A class="b-db-ads" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109357768;sz=255x345;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109357768;sz=255x345;ord=1423733073?" BORDER=0 WIDTH=255 HEIGHT=345 ALT="Advertisement"></A>
+</li>
+                        <li><a class="flb_banner" href="/denimology/?icn=home-new-UI&ici=r2_b2_denim"><img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0356_Home_The-Buzz-2_Denims_02092014.jpg" alt="" width="255" height="345" /></a>
+  <A class="b-db-ads" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358935;sz=255x345;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358935;sz=255x345;ord=1423733073?" BORDER=0 WIDTH=255 HEIGHT=345 ALT="Advertisement"></A>
+</li>
+                        <li><a class="flb_banner" href="/women/shoes/steve-madden--river-island--mango--dorothy-perkins/?sort=whatsnew&dir=desc&icn=home-new-UI&ici=r2_b2_luxury"><img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/B0357_Home_The-Buzz-3_Women-Shoes_02092014.jpg" alt="" width="255" height="345" /></a>
+<A class="b-db-ads" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109358260;sz=255x345;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109358260;sz=255x345;ord=1423733073?" BORDER=0 WIDTH=255 HEIGHT=345 ALT="Advertisement"></A>
+</li>
+                        <li><a class="flb_banner" href="/river-island-shop-online/?icn=home-new-UI&ici=r2_b2_river-island"><img src="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://staticjcdn.jabong.com/cms/New Home/Main/The-Buzz_River-Island.jpg" alt="" width="255" height="345" /></a>
+ <A class="b-db-ads" HREF="http://ad.doubleclick.net/jump/N7304.889084.JABONG.COM/B8158172.109357778;sz=255x345;ord=1423733073?">
+<IMG SRC="http://static.jabong.com/images/jabong/spacer.gif" data-src-onload="http://ad.doubleclick.net/ad/N7304.889084.JABONG.COM/B8158172.109357778;sz=255x345;ord=1423733073?" BORDER=0 WIDTH=255 HEIGHT=345 ALT="Advertisement"></A>
+
+</li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+                <footer class="pos-abs">
+                    <span class="prev fl common-sprite mr15"></span>
+                    <div class="pagination fl fs14 c222 mr15 mt2"></div>
+                    <span class="next fl common-sprite"></span>
+                </footer>
+            </section>
+        </section>    <!-- magazine section ends here -->
+    <!-- blog section starts here -->
+    <section class="grid_4 omega" id="jbGenderBlog"></section>
+    <!-- blog section ends here -->
+
+    <!--- recommendation section start -->
+        <section class="grid_12 nospace mt35 pb20 jabong-slider newdesign_recmnd  pos-rel"
+             id="recommengine_recommendations">
+            </section>
+    <!--- recommendation section start -->
+   </div>
+                <div class="clear"></div>
+                </div>
+                </div></div>
+                <!--End of Middle Section-->
+
+                <!--Start of footer-->
+                <script src="http://static.jabong.com/js/live/alice-jlite-1423426051.js" type="text/javascript"></script><script type="text/javascript" src="http://static.jabong.com/js/jlite/adblocker.js"></script><footer id="footer" data-action="Homepage-old" data-label="footer-top" class="new full-width mt10 ">
+    <div class="main-container">
+        <div class="mb20">
+        <div class="ftr-aboutus fl">
+            <p class="c666 txt-up fs14 f-bold mb5">ABOUT JABONG</p>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','about-us']); window.location = elm.href;return false;" href="http://www.jabong.com/about/" title="Know us" rel="follow">Know Us</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','blog']); window.location = elm.href;return false;" href="http://www.jabong.com/blog/" title="Blog" rel="follow">Blog</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','gift_cards']); window.location = elm.href;return false;" href="http://www.jabong.com/customer/credits/gift_cards/" title="Gift Cards" rel="follow">Gift Cards</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','jabong_rewards']); window.location = elm.href;return false;" href="http://www.jabong.com/jabong-rewards/" title="Jabong Rewards" rel="follow">Jabong Rewards</a>
+            <a href="http://www.jabong.com/jofw/" title="Jabong online fashion week" rel="follow" target="_blank">JOFW</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','affiliate-program']); window.location = elm.href;return false;" href="http://www.jabong.com/affiliate/" title="Affiliate Programme" rel="follow">Affiliate Program</a>
+            <a href="http://jabong.custhelp.com" title="Frequently Asked Questions" rel="follow">Frequently Asked Questions</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','contact']); window.location = elm.href;return false;" href="http://www.jabong.com/contact/" title="Contact" rel="follow">Contact Us</a>
+        </div>
+        <div class="ftr-policy fl">
+            <p class="c666 txt-up fs14 f-bold mb5">OUR POLICIES</p>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','our-policies','ordering_tracking']); window.location = elm.href;return false;"
+                onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','our-policies','ordering_tracking']); window.location = elm.href;return false;"
+                href="http://jabong.custhelp.com/app/answers/list_faq/c/2" rel="follow" class="footer_faq">Order Tracking</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','our-policies','return']); window.location = elm.href;return false;"
+                href="http://jabong.custhelp.com/app/answers/list_faq/c/4" title="Return"
+                rel="follow" class="footer_faq">Return</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','our-policies','cancellation']); window.location = elm.href;return false;"
+                href="http://jabong.custhelp.com/app/answers/list_faq/c/33" title="Cancellation"
+                rel="follow" class="footer_faq">Cancellation</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','our-policies','exchange']); window.location = elm.href;return false;"
+                href="http://jabong.custhelp.com/app/answers/list_faq/c/6" title="Exchange"
+                rel="follow" class="footer_faq">Exchange</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','our-policies','voucher_and_credits']); window.location = elm.href;return false;"
+                href="http://jabong.custhelp.com/app/answers/list_faq/c/8" title="Discount Voucher/Jabong Credits"
+                rel="follow" class="footer_faq">Discount Voucher/Jabong Credits</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','terms_and_conditions']); window.location = elm.href;return false;"
+                href="http://www.jabong.com/terms_and_conditions/"
+                title="Terms and Conditions" rel="follow">Terms and Conditions</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','about-jabong','privacy_policy']); window.location = elm.href;return false;"
+                href="http://www.jabong.com/privacy_policy/" title="Privacy Policy"
+                rel="follow">Privacy Policy</a>
+            <a href="http://www.jabong.com/vendor-code-conduct/"
+                title="Vendor Code of Conduct" rel="follow">Vendor Code of Conduct</a>
+        </div>
+            <!--Start of newsLetterSignUp-->
+        <div class="ftr-newsletter fl f-bold">
+            <p class="c666 txt-up fs14 mb8">NEWSLETTER SIGNUP</p>
+            <div class="ftr_new_bgbox pl14">
+                <p class="f-normal pb10 l-hght15">Sign up & get shopping vouchers* worth <span class="clr-orange f-bold">Rs. 1500</span>  & stay updated about latest styles and exclusive promotions</p>
+                
+                <form class="fl" id="FooterNewsletter">                    
+                    <div class="ftr-news-txt bg-fff mb10 fs12 c333">
+                        <input type="email" autocorrect="off" autocapitalize="off" value="" placeholder="Your e-mail address" class="fl pl3" id="txtemail" />
+                        <span class="footer-sprite d-inline"></span>
+                    </div>
+                    <div class="error-message fs10 f-bold d-none l-hght12">* Please enter a valid email ID</div>
+                    <input class="mr5" type="button" value="MAN" gender="male" />
+                    <span class="c9c fs14 f-normal f-italic">or</span>
+                    <input class="ml6" type="button" value="WOMAN" gender="female" />
+                    <div class="success-mes mt10 fs11 f-normal p5 l-hght12 d-none"><span class="common-sprite fl success-msg-icon d-inline"></span>Vouchers will be sent to your mail  shortly.</div>
+                </form>
+                <div class="clear"></div>
+                <p class="c999 fs11 pt7 f-normal"> Your data is secure and you can unsubscribe at any time.</p>
+                <p class="c999 fs11 f-normal"> * Voucher is valid only on new registrations.</p>
+            </div>
+        </div>
+    <!--End of newsLetterSignUp-->
+        <div class="ftr-join fr">
+            <p class="c666 txt-up fs14 f-bold mb8">JOIN US</p>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','social','facebook']); window.location = elm.href;return false;" href="http://www.facebook.com/myjabong" target="_blank" title="Facebook" rel="follow"><span class="facebook footer-sprite"></span>Facebook</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','social','googleplus']); window.location = elm.href;return false;" href="https://plus.google.com/106564457192077473084/" target="_blank" title="Google+" rel="follow"><span class="google footer-sprite"></span>Google+</a>
+            <!-- <a onclick="" href="http://www.pinterest.com/Myjabong/" target="_blank" title="Pinterest" rel="follow" class="ftr_new_bgbox mb3"><span class="ftr-social-icons pin fl footer-sprite"></span><span class="fl">Pinterest</span></a> -->
+            <a href="http://bit.ly/jabongOA" target="_blank" title="Line" rel="follow"><span class="line footer-sprite"></span>Line</a>
+            <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','social','twitter']); window.location = elm.href;return false;" href="http://twitter.com/jabongindia" target="_blank" title="Twitter" rel="follow" ><span class="twitter footer-sprite"></span>Twitter</a>
+        </div>
+    <div class="clear"></div>
+        </div>
+
+        <!-- new tab section starts here -->
+
+    <div class="ftr-new-tabs mb15">
+        <ul class="fs14 c666 f-bold txt-up fl">
+            <li class="first"><a href="javascript:void(0)" data-src="top-brands">top brands</a></li>
+            <li><a href="javascript:void(0)" data-src="top-categories">top categories</a></li>
+            <li><a href="javascript:void(0)" data-src="read-more">read more</a></li>
+        </ul>
+        <!--<div class="social-likes fr ">
+                <div class="fl">
+                    <iframe src="https://facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fmyjabong&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px; width:95px" allowTransparency="true"></iframe>
+                </div>
+
+                <div class="fl gplus-footer">
+                    <div class="g-plusone" data-size="medium" data-href="https://plus.google.com/106564457192077473084"></div>
+                </div>
+            </div>-->
+        <div class="clrfix"></div>
+        <div class="ftr_new_bgbox">
+
+            <div class="fl ftr-tab-cntnt" id="top-brands">
+                                    <div class="ftr-brand-list">
+                                                <a href="http://www.jabong.com/And/" title="AND">AND</a>
+                                                <a href="http://www.jabong.com/Adidas/" title="Adidas">Adidas</a>
+                                                <a href="http://www.jabong.com/adidas-originals/" title="Adidas Originals">Adidas Originals</a>
+                                                <a href="http://www.jabong.com/Aldo/" title="Aldo">Aldo</a>
+                                                <a href="http://www.jabong.com/Allen_Solly/" title="Allen Solly">Allen Solly</a>
+                                                <a href="http://www.jabong.com/american-derby-polo-club/" title="American Derby Polo Club">American Derby Polo Club</a>
+                                                <a href="http://www.jabong.com/american-tourister/" title="American Tourister">American Tourister</a>
+                                                <a href="http://www.jabong.com/andrew-hill/" title="Andrew Hill">Andrew Hill</a>
+                                                <a href="http://www.jabong.com/Arrow/" title="Arrow">Arrow</a>
+                                                <a href="http://www.jabong.com/Asics/" title="Asics">Asics</a>
+                                                <a href="http://www.jabong.com/aurelia/" title="Aurelia">Aurelia</a>
+                                                <a href="http://www.jabong.com/baggit/" title="Baggit">Baggit</a>
+                                                <a href="http://www.jabong.com/Biba/" title="Biba">Biba</a>
+                                                <a href="http://www.jabong.com/bombay-dyeing/" title="Bombay Dyeing">Bombay Dyeing</a>
+                                                <a href="http://www.jabong.com/burton/" title="Burton">Burton</a>
+                                                <a href="http://www.jabong.com/casio/" title="Casio">Casio</a>
+                                                <a href="http://www.jabong.com/Catwalk/" title="Catwalk">Catwalk</a>
+                                                <a href="http://www.jabong.com/Converse/" title="Converse">Converse</a>
+                                                <a href="http://www.jabong.com/dc/" title="DC">DC</a>
+                                            </div>
+                                        <div class="ftr-brand-list">
+                                                <a href="http://www.jabong.com/dorothy-perkins/" title="Dorothy Perkins">Dorothy Perkins</a>
+                                                <a href="http://www.jabong.com/entropy/" title="Entropy">Entropy</a>
+                                                <a href="http://www.jabong.com/fabdeal/" title="Fabdeal">Fabdeal</a>
+                                                <a href="http://www.jabong.com/fastrack/" title="Fastrack">Fastrack</a>
+                                                <a href="http://www.jabong.com/Fila/" title="Fila">Fila</a>
+                                                <a href="http://www.jabong.com/Flying_Machine/" title="Flying Machine">Flying Machine</a>
+                                                <a href="http://www.jabong.com/Fossil/" title="Fossil">Fossil</a>
+                                                <a href="http://www.jabong.com/French_Connection/" title="French Connection">French Connection</a>
+                                                <a href="http://www.jabong.com/g-star-raw/" title="G-Star RAW">G-Star RAW</a>
+                                                <a href="http://www.jabong.com/Gini-Jony/" title="Gini & Jony">Gini & Jony</a>
+                                                <a href="http://www.jabong.com/giordano/" title="Giordano">Giordano</a>
+                                                <a href="http://www.jabong.com/gritstones/" title="Gritstones">Gritstones</a>
+                                                <a href="http://www.jabong.com/h-e-by-mango/" title="H.E. By Mango">H.E. By Mango</a>
+                                                <a href="http://www.jabong.com/hanburry/" title="Hanburry">Hanburry</a>
+                                                <a href="http://www.jabong.com/Hidesign/" title="Hidesign">Hidesign</a>
+                                                <a href="http://www.jabong.com/Hush_Puppies/" title="Hush Puppies">Hush Puppies</a>
+                                                <a href="http://www.jabong.com/Indian_Terrain/" title="Indian Terrain">Indian Terrain</a>
+                                                <a href="http://www.jabong.com/jack-jones/" title="Jack & Jones">Jack & Jones</a>
+                                                <a href="http://www.jabong.com/jockey/" title="Jockey">Jockey</a>
+                                            </div>
+                                        <div class="ftr-brand-list">
+                                                <a href="http://www.jabong.com/kiara/" title="KIARA">KIARA</a>
+                                                <a href="http://www.jabong.com/karigari/" title="Karigari">Karigari</a>
+                                                <a href="http://www.jabong.com/label-ritu-kumar/" title="Label Ritu Kumar">Label Ritu Kumar</a>
+                                                <a href="http://www.jabong.com/Lakme/" title="Lakme">Lakme</a>
+                                                <a href="http://www.jabong.com/Lara-Karen/" title="Lara Karen">Lara Karen</a>
+                                                <a href="http://www.jabong.com/Lee/" title="Lee">Lee</a>
+                                                <a href="http://www.jabong.com/Lee_Cooper/" title="Lee Cooper">Lee Cooper</a>
+                                                <a href="http://www.jabong.com/Levis/" title="Levi's">Levi's</a>
+                                                <a href="http://www.jabong.com/Lotto/" title="Lotto">Lotto</a>
+                                                <a href="http://www.jabong.com/Louis_Philippe/" title="Louis Philippe">Louis Philippe</a>
+                                                <a href="http://www.jabong.com/mb-collection/" title="MB Collection">MB Collection</a>
+                                                <a href="http://www.jabong.com/miaminx/" title="MIAMINX">MIAMINX</a>
+                                                <a href="http://www.jabong.com/mango/" title="Mango">Mango</a>
+                                                <a href="http://www.jabong.com/maxima/" title="Maxima">Maxima</a>
+                                                <a href="http://www.jabong.com/maybelline/" title="Maybelline">Maybelline</a>
+                                                <a href="http://www.jabong.com/Metro/" title="Metro">Metro</a>
+                                                <a href="http://www.jabong.com/miss-bennett/" title="Miss Bennett">Miss Bennett</a>
+                                                <a href="http://www.jabong.com/miss-selfridge/" title="Miss Selfridge">Miss Selfridge</a>
+                                                <a href="http://www.jabong.com/monteil-munero/" title="Monteil & Munero">Monteil & Munero</a>
+                                            </div>
+                                        <div class="ftr-brand-list">
+                                                <a href="http://www.jabong.com/nba/" title="NBA">NBA</a>
+                                                <a href="http://www.jabong.com/Nike/" title="Nike">Nike</a>
+                                                <a href="http://www.jabong.com/Numero_Uno/" title="Numero Uno">Numero Uno</a>
+                                                <a href="http://www.jabong.com/only/" title="Only">Only</a>
+                                                <a href="http://www.jabong.com/people/" title="People">People</a>
+                                                <a href="http://www.jabong.com/pepe-jeans/" title="Pepe Jeans">Pepe Jeans</a>
+                                                <a href="http://www.jabong.com/Peter_England/" title="Peter England">Peter England</a>
+                                                <a href="http://www.jabong.com/Playboy/" title="Playboy">Playboy</a>
+                                                <a href="http://www.jabong.com/Puma/" title="Puma">Puma</a>
+                                                <a href="http://www.jabong.com/raymond/" title="Raymond">Raymond</a>
+                                                <a href="http://www.jabong.com/Red_Chief/" title="Red Chief">Red Chief</a>
+                                                <a href="http://www.jabong.com/Red_Tape/" title="Red Tape">Red Tape</a>
+                                                <a href="http://www.jabong.com/Reebok/" title="Reebok">Reebok</a>
+                                                <a href="http://www.jabong.com/river-island/" title="River Island">River Island</a>
+                                                <a href="http://www.jabong.com/rohit-bal-for-jabong/" title="Rohit Bal For Jabong">Rohit Bal For Jabong</a>
+                                                <a href="http://www.jabong.com/Sangria/" title="Sangria">Sangria</a>
+                                                <a href="http://www.jabong.com/shakumbhari/" title="Shakumbhari">Shakumbhari</a>
+                                                <a href="http://www.jabong.com/sonata/" title="Sonata">Sonata</a>
+                                                <a href="http://www.jabong.com/Spykar/" title="Spykar">Spykar</a>
+                                            </div>
+                                        <div class="ftr-brand-list">
+                                                <a href="http://www.jabong.com/steve-madden/" title="Steve Madden">Steve Madden</a>
+                                                <a href="http://www.jabong.com/swarovski/" title="Swarovski">Swarovski</a>
+                                                <a href="http://www.jabong.com/swarovski-create-your-style/" title="Swarovski Create Your Style">Swarovski Create Your Style</a>
+                                                <a href="http://www.jabong.com/swayam/" title="Swayam">Swayam</a>
+                                                <a href="http://www.jabong.com/the-vanca/" title="The Vanca">The Vanca</a>
+                                                <a href="http://www.jabong.com/timberland/" title="Timberland">Timberland</a>
+                                                <a href="http://www.jabong.com/titan/" title="Titan">Titan</a>
+                                                <a href="http://www.jabong.com/Tommy_Hilfiger/" title="Tommy Hilfiger">Tommy Hilfiger</a>
+                                                <a href="http://www.jabong.com/truhome/" title="Truhome">Truhome</a>
+                                                <a href="http://www.jabong.com/Us_Polo_Assn/" title="U.S. Polo Assn.">U.S. Polo Assn.</a>
+                                                <a href="http://www.jabong.com/United-Colors-of-Benetton/" title="United Colors of Benetton">United Colors of Benetton</a>
+                                                <a href="http://www.jabong.com/Van_Heusen/" title="Van Heusen">Van Heusen</a>
+                                                <a href="http://www.jabong.com/vero-moda/" title="Vero Moda">Vero Moda</a>
+                                                <a href="http://www.jabong.com/w/" title="W">W</a>
+                                                <a href="http://www.jabong.com/wildcraft/" title="Wildcraft">Wildcraft</a>
+                                                <a href="http://www.jabong.com/Woodland/" title="Woodland">Woodland</a>
+                                                <a href="http://www.jabong.com/Wrangler/" title="Wrangler">Wrangler</a>
+                                                <a href="http://www.jabong.com/Yepme/" title="Yepme">Yepme</a>
+                                                <a href="http://www.jabong.com/z-collection/" title="Z Collection">Z Collection</a>
+                                                <a href="http://www.jabong.com/all-brands/" title="all-brands">More...</a>
+                                            </div>
+                 <div class="clear"></div></div>
+            <div class="fl ftr-tab-cntnt" id="top-categories">
+                                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/bags/" title="Bags">Bags</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/accessories/" title="Accessories">Accessories</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/kids/toys/" title="Toys">Toys</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/beauty/" title="Beauty">Beauty</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/sports/" title="Sports">Sports</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/jewellery/" title="Jewellery">Jewellery</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/men/shoes/" title="Men Shoes">Men Shoes</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/men/clothing/" title="Men Clothing">Men Clothing</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/women/clothing/" title="Women Clothing">Women Clothing</a>
+                        </div>
+                                            <div class="ftr-brand-list">
+                            <a href="http://www.jabong.com/women/shoes/" title="Women Shoes">Women Shoes</a>
+                        </div>
+                                    
+            </div>
+                <div class="fl ftr-tab-cntnt" id="read-more">
+                    <h1 class="f-bold d-block fs12 mb10">Online Shopping: convenient, fast and affordable!</h1>
+<p>
+Shopping is fun and exhilarating and more so when you can shop 24x7 without leaving the comfort of home. This in simpler words is what we call Jabong.com! Online shopping at Jabong.com is convenient and affordable. You can find your desired products more quickly and easily using our user-friendly online shopping platform. Fill your cart up to the brim in just a few seconds and get swift home delivery for all orders. All of this topped with our exclusive offers makes for an exciting, irresistible combo!
+</p>
+
+<h2 class="f-bold d-block fs12 mb10">Jabong.com: the hottest online fashion destination of all times!</h2>
+<p>‘Fashion’ is definitely more accessible with Jabong.com. We showcase the chicest of products be it clothing, footwear, jewellery, accessories and cosmetics. Explore the latest collections of top brands like United Colors of Benetton, Arrow, Esprit, French Connection, Adidas, Reebok, Nike, Clarks, Burberry, Calvin Klein and many others. Apart from these, brands that were only heard of but never found online before are now showcased at Jabong.com. Jabong.com is here to make dreams come true for all River Island and Mango lovers. Dorothy Perkins and Miss Selfridge are some other international labels that you will find here. If you wardrobe had been craving for a designer ethnic collection, then you can feast your eyes on Rohit Bal for Jabong.com. Also, take a tour of our <a href="http://www.jabong.com/blog/">fashion blog</a> to stay abreast of the latest runway trends and be a trendsetter among your immediate circles.
+</p>
+<h2 class="f-bold d-block fs12 mb10">Avail added online shopping benefits</h2>
+<p>You choose your product, order it online, and we deliver it right at your doorstep anywhere in India. You just need to pay for the product, while we ensure Free Shipping all the time on almost everything with no strings attached. For any second thoughts after purchase, we have in place a 30-day no questions asked return policy as well. To offer you a safe and risk-free online shopping experience, we offer COD facility. Buy gifts for your loved ones and avail our special gift-wrap facility at a nominal cost! Could you have asked for more?
+</p>
+<h2 class="f-bold d-block fs12 mb10">Jabong.com: the 24 x7 Online Fashion & Lifestyle Store for everyone</h2>
+<p>Forget the fashion streets of the world. We, at Jabong.com, have all that you need to glam up your fashion quotient. From an extensive range of men’s shirts, western dresses for women, funky clothes for kids and matching footwear, sports shoes and accessories for everyone, we purvey diversity of choices in online shopping in India under one umbrella. Your Jabong Online Shop has arrived! Do not miss the attractive best buy prices and super discount <a href="http://www.jabong.com/coupons/">coupons</a>. Get more, pay less! For any query, drop a line at care@jabong.com or give us a call at 0124–6128000.
+</p>
+<a href="http://www.jabong.com/gosf/">GOSF</a>                <section class="full-width seo-txt fs11 c666">
+               </section>
+            </div>
+        <div class="fr bgd3">
+            <ul class="original-brand">
+                <li class="first-box footer-sprite"></li>
+                <li class="border">
+                    <p class="first-span">1000+</p>
+                    <p>brands</p>
+                </li>
+                <li>
+                    <p class="first-span">100000+</p>
+                    <p>styles</p>
+                </li>
+            </ul>            
+            <div class="clear"></div>
+            <p class="fs14 c999 pt10">We bring you the latest fashion and largest collection of lifestyle products at your doorstep.  </p>
+        </div>
+    <div class="clear"></div>
+        </div>
+    </div>
+<!-- new tab section ends here -->
+<div>
+        <div class="fl ftr-scur-shpng">
+            <p class="txt-up f-bold c666 fs14 mb10 l-hght14">secure shopping</p>
+            <span class="footer-sprite secure1 mr15" title="Rapid SSL"></span>
+            <a tabindex="-1" href="javascript:window.open('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.jabong.com&lang=en','seal','width=700, height=500');void(0);">
+                <span class="footer-sprite ftr-norton"></span> 
+            </a>
+            <span class="footer-sprite pci-dss ml15 v-align-top" title="Pci Dss"></span>
+         </div>
+        <div class="fl ftr-pmnt-opsn">
+           <p class="txt-up f-bold c666 fs14 mb25 l-hght14">Payment options</p>
+            <span class="footer-sprite pay-visa" title="Visa"></span>
+            <span class="footer-sprite pay-amrcnexp" title="American Express"></span>
+            <span class="footer-sprite pay-mastercard" title="Master Card"></span>
+            <span class="footer-sprite pay-cod" title="Cash On Delivery"></span>
+            <span class="footer-sprite pay-netbnkng" title="Net Banking"></span>
+        </div>
+        <div class="fl ftr-shpng-prtnr">
+            <p class="txt-up f-bold c666 fs14 mb8 l-hght14">Shipping Partners</p>
+            <div title="Javas">GoJavas</div>
+            <div title="DTDC" >DTDC</div>
+            <div title="First Flight">First Flight</div>
+        </div>
+        <!--<div class="fs12 c666 fr ftr-prtnr-sites">
+            <p class="txt-up f-bold fs14 mb8 l-hght14">partner sites</p>
+                <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','partner_sites','Foodpanda']); window.location = elm.href;return false;"   href="http://www.foodpanda.in/" target="_blank" title="Foodpanda" rel="follow" class="d-block c666">Foodpanda</a>
+                <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','partner_sites','Fabfurnish']); window.location = elm.href;return false;"   href="http://www.fabfurnish.com" target="_blank" title="Fabfurnish" rel="follow" class="d-block c666">Fabfurnish</a>
+                <a onclick="var elm = this;_gaq.push(['_trackEvent', 'footer','partner_sites','Printvenue']); window.location = elm.href;return false;"  href="http://www.printvenue.com/" target="_blank" title="Printvenue" rel="follow" class="d-block c666">Printvenue</a>
+        </div>-->
+        <div class="clear"></div>
+        <p class="fs12 c666">Copyright <small>&copy;</small> 2015 Jabong.com. All Rights Reserved</p>
+</div>
+</div>
+</footer>
+<div id="footer-end" data-action="Homepage-old" data-label="100%"></div>
+<div id='adRollJsBlockId' class='d-none'>&nbsp;</div>
+<script type="text/javascript">
+var servertime = 1423733073</script>
+<!--<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>-->
+                <!--End of footer-->
+            </div>
+        </section>
+        <!-- Quick View PopUp Start -->
+        <div class="quick-view-pop bg-fff overlay-pop d-none" id="quickpop"></div>
+        <!-- Quick View PopUp End -->
+        <!-- Product Customization PopUp Start -->
+        <div class="product-customize-pop bg-fff overlay-pop d-none" id="productCustomization"></div>
+        <!-- Product Customization PopUp End -->
+        <script type="text/javascript">
+    var globalConfig = globalConfig || {};
+
+    var customerDetails = "[]";
+    customerDetails = $('<div>').html(customerDetails).text();
+    customerDetails = $.parseJSON(customerDetails);
+    
+    $.extend(globalConfig, {
+        pagetype: "homepage",
+        pageRank: "1", //For GoogleRmktg
+        customertype: "new", //For GoogleRmktg
+        identifier: "", // For Sociomantic, identifier name should be customerId with md5 encrypted
+        trafficSource: "", // For all pixels
+        customer: customerDetails            
+    });
+    
+    //only for omniture
+    var configArr = {};
+    var isErrorPage = "0";
+    if (isErrorPage == 1) {
+        var configArr = {
+            pageOmnitureType: "errorPage"
+        };
+    } else {
+        var configArr = {
+            pageSegment: "Home",
+            pageCategory: "Home",
+            pageSubcategory: "Home",
+            pageOmnitureName: "Home",
+            pageHierarchy: "Home",
+            pageOmnitureTypeProp: "Home"
+        };
+    }
+    if (typeof siteDomain !== 'undefined' && siteDomain === 'm') {
+        configArr.pageOmnitureName = "mobile:" + configArr.pageOmnitureName;
+    }
+    $.extend(globalConfig, configArr);
+</script>
+<script>
+if (globalConfig.pagetype != 'undefined') {
+    function loadTrackingUrl() {
+        var s   = document.createElement('script');
+        var x   = document.getElementsByTagName('script')[0];
+        s.type  = 'text/javascript';
+        s.async = true;
+        s.src   = '//static.jabong.com/tracking/trackingpixel?pagetype=' + globalConfig.pagetype + '&ver=93';
+        x.parentNode.insertBefore( s, x );
+    }
+    if (globalConfig.pagetype == 'product_quickview') {
+        loadTrackingUrl();
+    } else {
+        $(window).load(function() {
+            loadTrackingUrl();
+        });
+    }
+}
+</script><script>
+     var UnbxdKey="jabong-u1386847464436";
+</script>
+
+<script type="text/javascript">/*<![CDATA[*/ $(document).ready(function () { 
+var data = {};
+    data['ac'] = 'index';
+    data['qc'] = 'index';
+    data['key'] = '';         
+            $.ajax({
+                url: '/common/userdata',
+                dataType: 'json',
+                cache : false,
+                data : data,    
+                success:processDynamicContent,
+                error:errorDynamicContent
+            });
+
+    $("#Categories a").click(function(event) {
+        linkname = event.currentTarget.innerText;
+        home = window.location.pathname.replace(/\//g, '');
+        home = home == '' ? 'newhome' : home;
+        _gaq.push(['_trackEvent', 'leftnav', home, linkname]);
+    });
+
+                    //Home Page Fade Slider
+                    if ($('#flex-slider_main').length) {
+                        window.sliderIframe = $('#flex-slider_main').bxSlider({
+                            mode: 'fade',
+                            speed:1500,
+                            pause:5000
+                        });
+                        $(window).load(function () {
+                            sliderIframe.startAuto();
+
+                            $('#flex-slider_main > li').on({
+                                mouseover: function () {
+                                    sliderIframe.stopAuto();
+                                },
+                                mouseout: function () {
+                                    sliderIframe.startAuto();
+                                }
+                            });
+                        });
+                    }
+
+$(".ftr-tab-cntnt:first").show();
+$(".ftr-new-tabs > ul > li a:first").addClass("active");
+$(".ftr-new-tabs > ul > li a").click(function () { var linkclicked = $(this).attr("data-src"); $(".ftr-tab-cntnt").hide(); $(".ftr-new-tabs > ul > li a").removeClass("active"); $(this).addClass("active"); $('#'+linkclicked).fadeIn(800); }
+);
+ });/*]]>*/</script><script type="text/javascript">/*<![CDATA[*///<![CDATA[
+            jQuery.ajax({
+                type: "GET",
+                url: "http://www.jabong.com/recommendation/?c=index&a=index&cat=1&segment=&page=1&segmentFilter=1&pids=",
+                success: function (data) {
+                        new RecommendationView(data, 5);
+                }
+            });
+//]]>/*]]>*/</script><script type="text/javascript">/*<![CDATA[*/$(window).load(function () {var s=document.createElement("script");
+        s.src="//unbxd.s3.amazonaws.com/jabong-unbxdAnalytics.js";
+        s.type="text/javascript";
+        s.async=true;
+        document.getElementsByTagName('head').item(0).appendChild(s);});/*]]>*/</script><script language="JavaScript" type="text/javascript">
+if (isOmnitureEnable == "1") {
+   JABONG.omniture.init(globalConfig);
+}
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!'+'')
+//--></script><!--/DO NOT REMOVE/-->
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"b53369accd","applicationID":"5888660","transactionName":"YF0GbBEEWkAHU0JZDVkXJ00QEVteSVlYVAdP","queueTime":0,"applicationTime":43,"ttGuid":"","agentToken":"","atts":"TBoRGlkeSR9EURQKGUpF","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
+<!--
+-->
+    </body>
+</html>

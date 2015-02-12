@@ -1,0 +1,305 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>PrimeWire | 1Channel | LetMeWatchThis - Watch Movies Online Free - Just Added</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="Latest Movies RSS Feed" href="rss.xml">
+<meta name="robots" content="ALL,INDEX,FOLLOW">
+<meta name="revisit-after" content="1 days">
+<meta name="keywords" content="movies, theater releases, watch movies online, watch free movies, free films, online movies, latest movies, download movies, free online movie downloads, film downloads, free films, watch films, watch tv, tv shows, tv series">
+<meta name="description" content="Watch movies online - Biggest Library of free Full Movies. Download full movies, Stream Content Fast and Easy. Movie Actors, Reviews, Trailers, Database!">
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="//images.primewire.ag/style3.css?5" type="text/css">
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="http://www.primewire.ag/fix_ie6.css" type="text/css">
+<script type="text/javascript" src="http://www.primewire.ag/js/supersleight-min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">
+$().ready(function() {
+		//	$("#search_box").focus();
+
+});
+function smallPop(URL) {
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=400, height=380,left = 320,top = 272');");
+}
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+}
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+$("#menu-bar li em").click(function() {
+var hidden = $(this).parents("li").children("ul").is(":hidden");
+$("#menu-bar>ul>li>ul").hide()        
+$("#menu-bar>ul>li>a").removeClass();
+if (hidden) {
+$(this).parents("li").children("ul").toggle().parents("li").children("a").addClass("zoneCur");
+} 
+});
+});
+</script>
+</head>
+<body>
+<div class="container">
+<h1 id="a_header"><a href="http://www.primewire.ag" title="1Channel | PrimeWire.ag - Watch Movies Online"><span>Primewire 1Channel Watch Movies Online Watch Free Movies</span></a></h1>
+<div class="header">
+<div class="header_search">
+<form method="get" action="/index.php?search" id="searchform">
+<fieldset class="search_container">
+<input type="text" id="search_term" name="search_keywords" class="box" value="Search Title" onFocus="clearText(this)" onBlur="clearText(this)">
+<input type="hidden" name="key" value="86ca5f25af642d75"/>
+<input type="hidden" value="1" name="search_section">
+<button class="btn" title="Submit Search" type="submit"></button>
+<span class="search_advanced_link"><a href="/index.php?search">Advanced Search</a></span>
+</fieldset>
+</form>
+</div>
+<div class="nav_tabs"><ul>
+<li class="pressed"><a href="/" title="Watch Movies">Movies</a></li>
+<li class="unpressed"><a href="/?tv" title="Watch TV Shows">TV Shows</a></li>
+<li class="unpressed"><a href="/?music" title="Listen to Music">Music</a></li>
+<li class="unpressed"><a href="/top.php" title="Top Users">Top Users</a></li>
+<li class="unpressed"><a href="/playlists.php" title="Playlists">Playlists</a></li>
+<li class="unpressed"><a href="/forum/" title="Forums">Forum</a></li>
+</ul></div>
+<div class="header_link"><a href="//www.primewire.ag" title="Watch Free Movies, Watch Movies Online on Primewire"></a></div>
+<div class="clearer"></div>
+</div>
+<div class="main_body">
+<div class="col1">
+ 
+<h1 class="titles"><span><a href="/index.php?sort=featured">Watch Featured Movies</a></span></h1>
+<div class="featured_movies">
+<div class="featured_movie_item"><a href="/watch-2755278-Horrible-Bosses-2" title="Watch Horrible Bosses 2"><strong><img src="//images.primewire.ag/thumbs/2755278_Horrible_Bosses_2_2014.jpg" width="94" alt="Watch Horrible Bosses 2"></strong></a></div><div class="featured_movie_item"><a href="/watch-2757973-Blackhat" title="Watch Blackhat"><strong><img src="//images.primewire.ag/thumbs/2757973_Blackhat_2015.jpg" width="94" alt="Watch Blackhat"></strong></a></div><div class="featured_movie_item"><a href="/watch-2757847-Project-Almanac" title="Watch Project Almanac"><strong><img src="//images.primewire.ag/thumbs/2757847_Project_Almanac_2015.jpg" width="94" alt="Watch Project Almanac"></strong></a></div><div class="featured_movie_item"><a href="/watch-2757829-Black-or-White" title="Watch Black or White"><strong><img src="//images.primewire.ag/thumbs/2757829_Black_or_White_2015.jpg" width="94" alt="Watch Black or White"></strong></a></div><div class="featured_movie_item"><a href="/watch-2757826-The-Loft" title="Watch The Loft"><strong><img src="//images.primewire.ag/thumbs/2757826_The_Loft_2015.jpg" width="94" alt="Watch The Loft"></strong></a></div><div class="featured_movie_item"><a href="/watch-2754345-The-Theory-of-Everything" title="Watch The Theory of Everything"><strong><img src="//images.primewire.ag/thumbs/2754345_The_Theory_of_Everything_2014.jpg" width="94" alt="Watch The Theory of Everything"></strong></a></div><div class="clearer"></div>
+</div>
+<div class="index_container"> <h1 class="titles">
+<span> Movies > <strong>Just Added</strong></span>
+</h1>
+<div class="number_movies_result">60,316 items found</div>
+<div id="menu-bar">
+<ul>
+<li>
+<a style="cursor:pointer;"><span><em class="opener-menu-sort">Sort By &nbsp; <img src="images/zonebar-downarrow.gif" alt="dropdown"/></em></span></a>
+<ul class="menu-sort-list">
+<li><a href="/?sort=views">Popular</a></li>
+<li><a href="/?sort=ratings">Ratings</a></li>
+<li><a href="/?sort=favorites">Favorites</a></li>
+<li><a href="/?sort=release">Release Date</a></li>
+<li><a href="/?sort=alphabet">Alphabet</a></li>
+<li><a href="/?sort=featured">Featured</a></li>
+</ul>
+</li>
+<li><a style="cursor:pointer;"><span><em class="opener-menu-genre">Genre &nbsp; <img src="images/zonebar-downarrow.gif" alt="dropdown"/></em></span></a>
+<ul class="menu-genre-list"><li><a href="/?genre=Action">Action</a></li><li><a href="/?genre=Adventure">Adventure</a></li><li><a href="/?genre=Animation">Animation</a></li><li><a href="/?genre=Biography">Biography</a></li><li><a href="/?genre=Comedy">Comedy</a></li><li><a href="/?genre=Crime">Crime</a></li><li><a href="/?genre=Documentary">Documentary</a></li><li><a href="/?genre=Drama">Drama</a></li><li><a href="/?genre=Family">Family</a></li><li><a href="/?genre=Fantasy">Fantasy</a></li><li><a href="/?genre=Game-Show">Game-Show</a></li><li><a href="/?genre=History">History</a></li><li><a href="/?genre=Horror">Horror</a></li><li><a href="/?genre=Japanese">Japanese</a></li><li><a href="/?genre=Korean">Korean</a></li><li><a href="/?genre=Music">Music</a></li><li><a href="/?genre=Musical">Musical</a></li><li><a href="/?genre=Mystery">Mystery</a></li><li><a href="/?genre=Reality-TV">Reality-TV</a></li><li><a href="/?genre=Romance">Romance</a></li><li><a href="/?genre=Sci-Fi">Sci-Fi</a></li><li><a href="/?genre=Short">Short</a></li><li><a href="/?genre=Sport">Sport</a></li><li><a href="/?genre=Talk-Show">Talk-Show</a></li><li><a href="/?genre=Thriller">Thriller</a></li><li><a href="/?genre=War">War</a></li><li><a href="/?genre=Western">Western</a></li><li><a href="/?genre=Zombies">Zombies</a></li></ul>
+</li>
+<li>
+<a style="cursor:pointer;"><span><em class="opener-menu-section">Section &nbsp; <img src="images/zonebar-downarrow.gif" alt="dropdown"/></em></span></a>
+<ul class="menu-section-list">
+<li><a href="/">Movies</a></li>
+<li><a href="/?tv">TV Shows</a></li>
+<li><a href="/?music">Music</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="clearer"></div>
+<div class="index_item index_item_ie"><a href="/watch-2732305-Hells-Fury-Wanted-Dead-or-Alive-online-free" title="Watch Hells Fury Wanted Dead or Alive (2012)"><img src="//images.primewire.ag/thumbs/2732305_Hells_Fury_Wanted_Dead_or_Alive.jpg" border="0" width="150" height="225" alt="Watch Hells Fury Wanted Dead or Alive"><h2>Hells Fury Wanted.. (2012)</h2></a><div class="index_ratings"><div id="unit_long2732305"><ul style="width: 100px;" class="unit-rating"><li style="width: 52px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Action">Action</a> <a href="/?genre=Western">Western</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2379165-The-Boy-Who-Drew-Cats-online-free" title="Watch The Boy Who Drew Cats (2008)"><img src="//images.primewire.ag/thumbs/2379165_The_Boy_Who_Drew_Cats_2008_20.jpg" border="0" width="150" height="225" alt="Watch The Boy Who Drew Cats"><h2>The Boy Who Drew .. (2008)</h2></a><div class="index_ratings"><div id="unit_long2379165"><ul style="width: 100px;" class="unit-rating"><li style="width: 0px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Animation">Animation</a> <a href="/?genre=Family">Family</a> <a href="/?genre=Fantasy">Fantasy</a> <a href="/?genre=History">History</a> <a href="/?genre=Short">Short</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2758018-A-Letter-to-Momo-online-free" title="Watch A Letter to Momo (2011)"><img src="//images.primewire.ag/thumbs/2758018_A_Letter_to_Momo_2012.jpg" border="0" width="150" height="225" alt="Watch A Letter to Momo"><h2>A Letter to Momo (2011)</h2></a><div class="index_ratings"><div id="unit_long2758018"><ul style="width: 100px;" class="unit-rating"><li style="width: 80px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Animation">Animation</a> <a href="/?genre=Drama">Drama</a> <a href="/?genre=Family">Family</a> <a href="/?genre=Fantasy">Fantasy</a> <a href="/?genre=Japanese">Japanese</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2758015-Neurons-to-Nirvana-online-free" title="Watch Neurons to Nirvana (2013)"><img src="//images.primewire.ag/thumbs/2758015_Neurons_to_Nirvana_2013.jpg" border="0" width="150" height="225" alt="Watch Neurons to Nirvana"><h2>Neurons to Nirvan.. (2013)</h2></a><div class="index_ratings"><div id="unit_long2758015"><ul style="width: 100px;" class="unit-rating"><li style="width: 100px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Documentary">Documentary</a> <a href="/?genre=History">History</a> </div></div>
+<div class=clearer></div>
+<div class="index_item index_item_ie"><a href="/watch-2758012-American-Outrage-online-free" title="Watch American Outrage (2008)"><img src="//images.primewire.ag/thumbs/2758012_American_Outrage_2008_55.jpg" border="0" width="150" height="225" alt="Watch American Outrage"><h2>American Outrage (2008)</h2></a><div class="index_ratings"><div id="unit_long2758012"><ul style="width: 100px;" class="unit-rating"><li style="width: 74px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Documentary">Documentary</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2285345-American-Mystic-online-free" title="Watch American Mystic (2010)"><img src="//images.primewire.ag/thumbs/2285345_American_Mystic_2010.jpg" border="0" width="150" height="225" alt="Watch American Mystic"><h2>American Mystic (2010)</h2></a><div class="index_ratings"><div id="unit_long2285345"><ul style="width: 100px;" class="unit-rating"><li style="width: 74px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Documentary">Documentary</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2758009-The-Extraordinary-Tale-online-free" title="Watch The Extraordinary Tale (2013)"><img src="//images.primewire.ag/thumbs/2758009_The_Extraordinary_Tale_2014.jpg" border="0" width="150" height="225" alt="Watch The Extraordinary Tale"><h2>The Extraordinary.. (2013)</h2></a><div class="index_ratings"><div id="unit_long2758009"><ul style="width: 100px;" class="unit-rating"><li style="width: 60px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Comedy">Comedy</a> <a href="/?genre=Drama">Drama</a> <a href="/?genre=Fantasy">Fantasy</a> <a href="/?genre=Horror">Horror</a> <a href="/?genre=Romance">Romance</a> <a href="/?genre=Thriller">Thriller</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-89172-Sandakan-8-online-free" title="Watch Sandakan 8 (1974)"><img src="//images.primewire.ag/thumbs/89172_Sandakan_8_1974_75.jpg" border="0" width="150" height="225" alt="Watch Sandakan 8"><h2>Sandakan 8 (1974)</h2></a><div class="index_ratings"><div id="unit_long89172"><ul style="width: 100px;" class="unit-rating"><li style="width: 100px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Drama">Drama</a> <a href="/?genre=History">History</a> <a href="/?genre=War">War</a> </div></div>
+<div class=clearer></div>
+<div class="index_item index_item_ie"><a href="/watch-2758006-Juarez-online-free" title="Watch Juarez (1939)"><img src="//images.primewire.ag/thumbs/2758006_Juarez_1939.jpg" border="0" width="150" height="225" alt="Watch Juarez"><h2>Juarez (1939)</h2></a><div class="index_ratings"><div id="unit_long2758006"><ul style="width: 100px;" class="unit-rating"><li style="width: 60px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Biography">Biography</a> <a href="/?genre=Drama">Drama</a> <a href="/?genre=History">History</a> <a href="/?genre=Romance">Romance</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-21417-If-Its-Tuesday-This-Must-Be-Belgium-online-free" title="Watch If It's Tuesday, This Must Be Belgium (1969)"><img src="//images.primewire.ag/thumbs/21417_If_Its_Tuesday_This_Must_Be_Belgium_1969.jpg" border="0" width="150" height="225" alt="Watch If It's Tuesday, This Must Be Belgium"><h2>If It's Tuesday, .. (1969)</h2></a><div class="index_ratings"><div id="unit_long21417"><ul style="width: 100px;" class="unit-rating"><li style="width: 64px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Adventure">Adventure</a> <a href="/?genre=Comedy">Comedy</a> <a href="/?genre=Romance">Romance</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2758003-Ellipse-online-free" title="Watch Ellipse (2013)"><img src="//images.primewire.ag/thumbs/2758003_Ellipse_2013.jpg" border="0" width="150" height="225" alt="Watch Ellipse"><h2>Ellipse (2013)</h2></a><div class="index_ratings"><div id="unit_long2758003"><ul style="width: 100px;" class="unit-rating"><li style="width: 74px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Drama">Drama</a> <a href="/?genre=Sci-Fi">Sci-Fi</a> <a href="/?genre=Short">Short</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2758000-Colt-Ford-Crank-It-Up-Live-at-Wild-Adventures-online-free" title="Watch Colt Ford: Crank It Up, Live at Wild Adventures (2014)"><img src="//images.primewire.ag/thumbs/2758000_Colt_Ford_Crank_It_Up_Live_at_Wild_Adventures_2014_71.jpg" border="0" width="150" height="225" alt="Watch Colt Ford: Crank It Up, Live at Wild Adventures"><h2>Colt Ford: Crank .. (2014)</h2></a><div class="index_ratings"><div id="unit_long2758000"><ul style="width: 100px;" class="unit-rating"><li style="width: 60px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Music">Music</a> </div></div>
+<div class=clearer></div>
+<div class="index_item index_item_ie"><a href="/watch-2755278-Horrible-Bosses-2-online-free" title="Watch Horrible Bosses 2 (2014)"><img src="//images.primewire.ag/thumbs/2755278_Horrible_Bosses_2_2014.jpg" border="0" width="150" height="225" alt="Watch Horrible Bosses 2"><h2>Horrible Bosses 2 (2014)</h2></a><div class="index_ratings"><div id="unit_long2755278"><ul style="width: 100px;" class="unit-rating"><li style="width: 76px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Comedy">Comedy</a> <a href="/?genre=Crime">Crime</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-343419-Summerslam-online-free" title="Watch Summerslam (1996)"><img src="//images.primewire.ag/thumbs/343419_Summerslam_1996.jpg" border="0" width="150" height="225" alt="Watch Summerslam"><h2>Summerslam (1996)</h2></a><div class="index_ratings"><div id="unit_long343419"><ul style="width: 100px;" class="unit-rating"><li style="width: 60px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Sport">Sport</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-23978-Elmo-Saves-Christmas-online-free" title="Watch Elmo Saves Christmas (1996)"><img src="//images.primewire.ag/thumbs/23978_Elmo_Saves_Christmas_-0001.jpg" border="0" width="150" height="225" alt="Watch Elmo Saves Christmas"><h2>Elmo Saves Christ.. (1996)</h2></a><div class="index_ratings"><div id="unit_long23978"><ul style="width: 100px;" class="unit-rating"><li style="width: 74px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Family">Family</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2729601-Human-Race-Get-Off-Your-Knees-online-free" title="Watch Human Race Get Off Your Knees (2010)"><img src="//images.primewire.ag/thumbs/2729600_Human_Race_Get_Off_Your_Knees.jpg" border="0" width="150" height="225" alt="Watch Human Race Get Off Your Knees"><h2>Human Race Get Of.. (2010)</h2></a><div class="index_ratings"><div id="unit_long2729601"><ul style="width: 100px;" class="unit-rating"><li style="width: 72px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Documentary">Documentary</a> </div></div>
+<div class=clearer></div>
+<div class="index_item index_item_ie"><a href="/watch-1393923-Troubled-Water-online-free" title="Watch Troubled Water (2008)"><img src="//images.primewire.ag/thumbs/1393923_Troubled_Water_2008_29.jpg" border="0" width="150" height="225" alt="Watch Troubled Water"><h2>Troubled Water (2008)</h2></a><div class="index_ratings"><div id="unit_long1393923"><ul style="width: 100px;" class="unit-rating"><li style="width: 78px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Drama">Drama</a> <a href="/?genre=Music">Music</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2757991-The-Timber-online-free" title="Watch The Timber (2015)"><img src="//images.primewire.ag/thumbs/2757991_The_Timber_2015.jpg" border="0" width="150" height="225" alt="Watch The Timber"><h2>The Timber (2015)</h2></a><div class="index_ratings"><div id="unit_long2757991"><ul style="width: 100px;" class="unit-rating"><li style="width: 68px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Adventure">Adventure</a> <a href="/?genre=Drama">Drama</a> <a href="/?genre=Western">Western</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2757988-Grizzly-online-free" title="Watch Grizzly (2014)"><img src="//images.primewire.ag/thumbs/2757988_Grizzly_2014_89.jpg" border="0" width="150" height="225" alt="Watch Grizzly"><h2>Grizzly (2014)</h2></a><div class="index_ratings"><div id="unit_long2757988"><ul style="width: 100px;" class="unit-rating"><li style="width: 82px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Action">Action</a> <a href="/?genre=Horror">Horror</a> <a href="/?genre=Thriller">Thriller</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2757985-A-Mouse-Tale-online-free" title="Watch A Mouse Tale (2015)"><img src="//images.primewire.ag/thumbs/2757985_A_Mouse_Tale_2015.jpg" border="0" width="150" height="225" alt="Watch A Mouse Tale"><h2>A Mouse Tale (2015)</h2></a><div class="index_ratings"><div id="unit_long2757985"><ul style="width: 100px;" class="unit-rating"><li style="width: 84px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Animation">Animation</a> </div></div>
+<div class=clearer></div>
+<div class="index_item index_item_ie"><a href="/watch-2757982-Pixar-25-Magic-Moments-online-free" title="Watch Pixar: 25 Magic Moments (2011)"><img src="//images.primewire.ag/thumbs/2757982_Pixar_25_Magic_Moments_2011_96.jpg" border="0" width="150" height="225" alt="Watch Pixar: 25 Magic Moments"><h2>Pixar: 25 Magic M.. (2011)</h2></a><div class="index_ratings"><div id="unit_long2757982"><ul style="width: 100px;" class="unit-rating"><li style="width: 56px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Animation">Animation</a> <a href="/?genre=Documentary">Documentary</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2629293-The-Killing-of-Jacob-Marr-online-free" title="Watch The Killing of Jacob Marr (2010)"><img src="//images.primewire.ag/thumbs/2629293_The_Killing_of_Jacob_Marr_2010.jpg" border="0" width="150" height="225" alt="Watch The Killing of Jacob Marr"><h2>The Killing of Ja.. (2010)</h2></a><div class="index_ratings"><div id="unit_long2629293"><ul style="width: 100px;" class="unit-rating"><li style="width: 56px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Horror">Horror</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-17235-Angel-A-online-free" title="Watch Angel-A (2005)"><img src="//images.primewire.ag/thumbs/17235_Angel_A_2005.jpg" border="0" width="150" height="225" alt="Watch Angel-A"><h2>Angel-A (2005)</h2></a><div class="index_ratings"><div id="unit_long17235"><ul style="width: 100px;" class="unit-rating"><li style="width: 78px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Comedy">Comedy</a> <a href="/?genre=Drama">Drama</a> <a href="/?genre=Fantasy">Fantasy</a> <a href="/?genre=Romance">Romance</a> </div></div>
+<div class="index_item index_item_ie"><a href="/watch-2757979-Little-Red-Riding-Hood-online-free" title="Watch Little Red Riding Hood (2015)"><img src="//images.primewire.ag/thumbs/2757979_Little_Red_Riding_Hood_1969.jpg" border="0" width="150" height="225" alt="Watch Little Red Riding Hood"><h2>Little Red Riding.. (2015)</h2></a><div class="index_ratings"><div id="unit_long2757979"><ul style="width: 100px;" class="unit-rating"><li style="width: 40px;" class="current-rating">Current rating.</li><li class="r1-unit"></li><li class="r2-unit"></li><li class="r3-unit"></li><li class="r4-unit"></li><li class="r5-unit"></li></ul></div></div>
+<div class="item_categories"><a href="/?genre=Fantasy">Fantasy</a> </div></div>
+<div class=clearer></div>
+<div class=clearer></div>
+<div class=clearer></div>
+<div class="pagination">
+<span class=current>1</span> <a href="/index.php?page=2">2</a> <a href="/index.php?page=3">3</a> <a href="/index.php?page=4">4</a> <a href="/index.php?page=5">5</a> <a href="/index.php?page=2514"> >> </a></div>
+</div>
+</div>
+<div class="col2">
+<div class="loginform">
+<form action="https://www.primewire.ag/login.php" method="post">
+<label for="username">Username:</label>
+<input name="username" type="text" id="username"><br>
+<label for="password">Password:</label>
+<input name="password" type="password" id="password"><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:10px 0px 10px 0px;">
+<tr>
+<td><input type="checkbox" class="loginform_checkbox" name="remember" id="remmeber" style="float:left; width:20px;">
+<span style="float:left; font-size:12px; padding:2px 0px 0px 0px; font-weight:bold;">Remember Me</span>
+<div class="clearer"></div></td>
+<td width="120"><input type="submit" name="login_submit" value="Login" class="login_button" style="width: 120px;"> </td>
+</tr>
+</table>
+<span class="forgot_link"><a href="../register.php?forgot=1">Forgot Login </a></span> | <span class="register_link"><a href="../register.php">Make a Free Account</a>  </span>
+</form>
+</div>
+<h2>Information</h2>
+<a href="/how_to_watch_movies.php"><img src="//images.primewire.ag/images/guide_link.gif" border="0" alt="LetMeWatchThis Guide"></a>
+<a href="/tvschedule.php"><img src="//images.primewire.ag/images/tvschedule_button.jpg" border="0" alt="TV Schedule"></a>
+<h2>Support the Site</h2>
+<iframe frameborder="0" scrolling="No" width="300" height="250" src="/300x250.php?top"></iframe>
+<h2>Site Updates and News</h2>
+<div style="padding:5px;">
+<table cellpadding=0 cellspacing=0>
+<tr>
+<td width="40%">
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.primewire.ag&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px; padding:7px;" allowTransparency="true"></iframe>
+</td>
+<td width="60%">
+<a href="https://twitter.com/real_1channel" class="twitter-follow-button" data-show-count="false">Follow @real_1channel</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+Did you know you can use <strong>Primewire.org</strong> and <strong>Primewire.is</strong> to access this site? Well, now you do.
+<hr style="margin: 5px;background-color: #999;height: 1px;border: 0;">
+<strong>Check out the personalized <a href="/tvschedule.php">TV Schedule</a>.</strong><br>
+</td>
+</tr>
+</table>
+</div>
+<h2>Latest Comments</h2>
+ <div class="latest_comments  com_class_tv">
+<a href="/tv-5112-Buffy-the-Vampire-Slayer/season-4-episode-12">Buffy the Vampire Slayer</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/Antonella_OH">Antonella_OH</a> : </span> This was a hilarious episode! About the more serious part of it, I think the pro ...</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-11054-Supernatural/season-10-episode-13">Supernatural</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/Canuckian">Canuckian</a> : </span> They went back to the old simple formula that made this show so great, doing cas ...</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-2751492-Stalker/season-1-episode-16">Stalker</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/alias6969">alias6969</a> : </span> And so it begins! Things are about to get cray cray! Not sure about Jack though. ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2752698-Housebound">Housebound</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/shyan91">shyan91</a> : </span> If you liked Shaun of the Dead and your typical haunted house flick you'll love ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2756397-The-Babadook">The Babadook</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/shyan91">shyan91</a> : </span> I LOVED this movie. If you have any experience with grief or depression etc you' ...</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-5214-Star-Trek-Voyager/season-3-episode-6">Star Trek: Voyager</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/DannielQ">DannielQ</a> : </span> Reminds me of Anhalter Bahnhof...
+A very powerful episode.</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-2756427-The-Book-of-Negroes">The Book of Negroes</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/Gazajigz">Gazajigz</a> : </span> I must say that this TV series was not up to my expectations ya it may seem OK t ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2745184-Divergent">Divergent</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/azores">azores</a> : </span> Story is simple and far less monumental if you were thinking of enjoying this fi ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2756706-Match">Match</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/YuYu21">YuYu21</a> : </span> Very good movie. It is a comedy drama and definitely scores a 4 on a scale of 1- ...</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-2743667-Chicago-PD/season-2-episode-14">Chicago PD</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/redhotchilli_c">redhotchilli_c</a> : </span> this IS the best cop show around,john seda and jason beghe are just awesome 10/1 ...</p>
+</div>
+<div style="text-align:right; padding:5px; font-size:11px;"><a href="/latest_comments.php">More Comments</a></div>
+ 
+<h2>Support the Site</h2>
+<iframe frameborder="0" scrolling="No" width="300" height="250" src="/300x250.php?bottom"></iframe>
+<h2>Tell Us Stuff</h2>
+<div class="follow_us">
+<script type="text/javascript" charset="utf-8" src="https://static.polldaddy.com/p/8363321.js"></script>
+<noscript><a href="https://polldaddy.com/poll/8363321/">How many friends have you told about this site?</a></noscript>
+</div>
+</div>
+<div class="clearer"></div>
+</div>
+<div class="footer">
+<div class="footer_left">PrimeWire | 1Channel | Formerly LetMeWatchThis - <a href="http://www.primewire.ag" title="PrimeWire | 1Channel - Watch Movies Online">PrimeWire | 1Channel - Watch Movies Online, Watch Free Movies</a>!
+ </div>
+<div class="footer_right">
+<a href="/usersearch.php">User List</a> -
+<a href="../requests.php" title="Requests">Requests</a> -
+<a href="../contacts.php">Contacts</a> -
+<a href="../faq.php">FAQ</a> -
+<a href="../dmca.php">DMCA</a> -
+<a href="../legal.php">Legal</a></div>
+</div>
+</div>
+<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-22384906-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+<script data-cfasync="false" type="text/javascript">(function(s,o,l,v,e,d){if(s[o]==null&&s[l+e]){s[o]="loading";s[l+e](d,l=function(){s[o]="complete";s[v+e](d,l,!1)},!1)}})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var s=document.createElement("script");s.type="text/javascript";s.async=true;s.src="//cdn.engine.trklnks.com/Scripts/infinity.js.aspx?guid=b288f9ed-ff5b-445e-a598-9dde3a7cff33";s.id="infinity";s.setAttribute("data-guid","b288f9ed-ff5b-445e-a598-9dde3a7cff33");s.setAttribute("data-version","async");var e=document.getElementsByTagName('script')[0];e.parentNode.insertBefore(s,e)})();</script>
+</body>
+</html>

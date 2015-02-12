@@ -1,0 +1,438 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>March | 2010 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>March 2010</span>	</h2>	
+		<div id="post-1350" class="post-1350 post type-post status-publish format-standard hentry category-about-me category-kids category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/03/31/wife-mom-artist/" rel="bookmark" title="Permalink to Wife, Mom, Artist">Wife, Mom, Artist</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 31, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/03/31/wife-mom-artist/#comments">13 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Seventeen months have passed since I became a mother. A big, shiny new title that&#8217;s been added to my name. I have to say that as a full-time mom it is the most challenging job I have ever had. What makes it more difficult is that I feel an equal need to still be a great wife, and not give up my passion for art and creating. So how do these roles mix? Are they even supposed to mix?</p>
+<p>I used to compartmentalize these roles and segment them in a way that felt like structure to me. I work hard to have structure in my life, and would say to myself when the baby wakes up, &#8220;<em>OK, now I&#8217;m a mom, do your thing</em>&#8221; and then when the baby is asleep and it&#8217;s just me, &#8220;<em>now I&#8217;m an artist and this is my time to work or create</em>&#8221; or when I&#8217;m with my husband, &#8220;<em>now I&#8217;m a wife</em>.&#8221;</p>
+<p>After a while, I grew tired of this way of thinking and acting because they can&#8217;t (and shouldn&#8217;t) be completely segmented.  With this way of thinking, my need to create as an artist would end up getting frustrated and in turn I would wish away the time spent with my son, awaiting his next nap so I could tackle my next project.</p>
+<p><img class="alignnone size-full wp-image-1365" title="whoiam" src="http://evie-s.com/news/wp-content/uploads/2010/03/whoiam1.jpg" alt="" width="571" height="246" /></p>
+<p><strong>I realized that each major role I have overlap and mesh together to form who I am right  now.</strong> Now that I&#8217;ve had this enlightenment, it makes life a whole lot easier. I choose now to use my creativity to come up with meaningful, creative and fun  ways to spend time together. We color, we play with play doh, we read  books, we explore outside, we play music on the piano and sing (no TV!). I can  say now that I am content when I&#8217;m with my son and I don&#8217;t wish I was  doing anything else.</p>
+<p>I look forward to when he gets older so we can do  all kinds of  projects together. I love how my friend Mandy will <a href="http://www.messycanvas.com/2009/12/little-dude-plushie-creativity-with-kids/" target="_blank">take drawings of creatures her kids have created and sew stuffed toys that resemble the drawings</a>.</p>
+<p><img class="alignnone size-full wp-image-1356" title="mandy" src="http://evie-s.com/news/wp-content/uploads/2010/03/mandy.jpg" alt="" width="571" height="381" /></p>
+<p>I love how <a href="http://madebyjoel.blogspot.com" target="_blank">this artist</a> has immersed his kids in creativity and art with amazing handmade toys and art projects.</p>
+<p><img class="alignnone size-full wp-image-1355" title="joel" src="http://evie-s.com/news/wp-content/uploads/2010/03/joel.jpg" alt="" width="571" height="377" /></p>
+<p>So now I no longer watch the clock and live for his next nap time. I&#8217;ve blurred the lines of artistry and motherhood just by loving my time with him and focusing on where my role as a mom and as an artist intersect. Sometimes I can start a project when he&#8217;s awake and then finish it when he&#8217;s asleep. Ultimately, his nap time becomes my focused work time. I always have a mental list of things I need to do when he sleeps and I do what I can in that time.</p>
+<blockquote><p>Creativity and motherhood are not separate entities. One does not detract from the other and there is no weighting one by shorting the other. It is not about stealing time for creativity from being a mother and vice versa. Creativity infuses motherhood, and your motherhood colors everything about your creativity.</p></blockquote>
+<p><img class="alignnone size-full wp-image-1362" title="IMG_7463" src="http://evie-s.com/news/wp-content/uploads/2010/03/IMG_7463.jpg" alt="" width="571" height="356" /></p>
+<blockquote><p>Remember, creativity is a holistic approach to life. It is not just about that painting, sewing, writing or whatever it may be, it is about the way you look at things. It is about being open to the adventure. It is about looking for new uses for old things. It is about coming up with solutions to problems that do not seem solvable. It is about seeing beauty and meaning in the mundane. Creativity is about learning to speak what is in your heart. It is about looking for and nurturing possibility. It is about feeding your soul with what nourishes and about sharing with those around you, in effect, feeding them too. And all that? That&#8217;s what it means to raise children, too.</p></blockquote>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1343" class="post-1343 post type-post status-publish format-standard hentry category-art category-diy category-news">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/03/29/recent-projects-and-an-update/" rel="bookmark" title="Permalink to Recent Projects and an Update">Recent Projects and an Update</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 29, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/03/29/recent-projects-and-an-update/#comments">3 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>It&#8217;s been over two weeks since my last post, yikes! I sort of took a sabbatical from blogging to re-prioritize my life and allow myself to process the trip my husband took to Kenya. I&#8217;d like to share some things I&#8217;ve been thinking and in the meantime, here are a few projects I&#8217;ve worked on recently!<br />
+<img class="alignnone size-full wp-image-1344" title="drawing" src="http://evie-s.com/news/wp-content/uploads/2010/03/drawing.jpg" alt="" width="571" height="427" /></p>
+<h5>A sweet birthday card for <a href="http://www.capturedseasons.com" target="_blank">my sister</a>.</h5>
+<p>I&#8217;ve been thinking ALOT about which direction I want this blog, my etsy shop, and just my art in general to go.  I came to the conclusion that I really want to focus on:</p>
+<ol>
+<li>Making <a href="http://www.beautifulidea.us" target="_blank">A Beautiful Idea</a> a success</li>
+<li>Changing this blog format to include not just art and inspiration, but personal thoughts as well.</li>
+<li>Creating for my <a href="http://evies.etsy.com" target="_blank">etsy shop</a> whenever I feel like it&#8230;in other words no pressure!</li>
+</ol>
+<p><img class="alignnone size-full wp-image-1345" title="pouch" src="http://evie-s.com/news/wp-content/uploads/2010/03/pouch.jpg" alt="" width="571" height="427" /></p>
+<h5>A handmade gift for a sweet friend of mine.</h5>
+<p>There has been so much stirring in me, whirling around with no where to land that I thought about starting another blog, but I really didn&#8217;t want two blogs to keep up with. So evie s. will be a journal for me of sorts, after all I&#8217;m not trying to achieve success or fame, I just want a place to express myself completely and if people want to follow, great!</p>
+<p><img class="alignnone size-full wp-image-1346" title="clips" src="http://evie-s.com/news/wp-content/uploads/2010/03/clips.jpg" alt="" width="571" height="426" /></p>
+<h5>Some cute hair clips for some little girls I know (made from <a href="http://www.purlbee.com/rose-barrettes/" target="_blank">this tutorial</a>).</h5>
+<p>So I hope to be posting more frequently,  because I have ALOT to talk about. Are there any topics that you are particularly interested in hearing from me about? If so, I&#8217;d love to hear!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1328" class="post-1328 post type-post status-publish format-standard hentry category-about-me category-change tag-compassion-international tag-kenya">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/03/12/kenya-changed-my-life/" rel="bookmark" title="Permalink to Kenya Changed My Life">Kenya Changed My Life</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 12, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/03/12/kenya-changed-my-life/#comments">14 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>No, I wasn&#8217;t able to travel 50,000 miles to Kenya with <a href="http://www.churchrelevance.com" target="_blank">my husband</a> 12 days ago. No, I didn&#8217;t see the faces or shake the hands or hear the stories face to face. My feet never touched it&#8217;s soil, but Kenya changed me and it changed my husband.</p>
+<p>It was the story of our recently sponsored child, <a href="http://churchrelevance.com/owen/">Owen</a>, who is 8 years old, knows 3 languages and wants to be a pilot someday. We give him $38 a month, and with that money, <a href="http://www.compassion.com" target="_blank">Compassion International</a> gives him an opportunity to not just survive, but thrive. Giving him a chance at an education, and to escape the grip of extreme poverty.</p>
+<p><img class="alignnone size-full wp-image-1329" title="owen" src="http://evie-s.com/news/wp-content/uploads/2010/03/owen.jpg" alt="" width="540" height="278" /></p>
+<h5>Photo by <a href="http://www.keelymariescott.com/" target="_blank">Keely Scott</a></h5>
+<p>My husband got to meet Owen, to experience the joy in his face as he took him to a Kenyan amusement park, to hear his &#8220;ahhs&#8221; as he saw photos of me and my son, and watch him marvel at how many toys my son had (there were two toys in the photo my husband showed him).</p>
+<p><img class="alignnone size-full wp-image-1334" title="kenya1" src="http://evie-s.com/news/wp-content/uploads/2010/03/kenya11.jpg" alt="" width="540" height="405" /></p>
+<h5>Photo by <a href="http://www.keelymariescott.com/" target="_blank">Keely Scott</a></h5>
+<p>It was hearing the quote by <a href="http://shaungroves.com/" target="_blank">Shaun Groves</a> that:</p>
+<blockquote><p>“Compassion International is trying to help release the poor from poverty, but it’s also <strong>helping to release us from our wealth</strong>.”</p></blockquote>
+<p>It was reading the stories of women like <a href="http://churchrelevance.com/get-gobsmacked-save-babies/" target="_blank">Eunice</a>. Right now I&#8217;m wearing the necklace that my husband brought back for me that was made by a woman that has been taught by Compassion&#8217;s <a href="http://rescuebabiesnow.org/" target="_blank">Child Survival Program</a>.  She rolls slivers of old posters, calendars, and scrap paper into beads coated with varnish.</p>
+<p><img class="alignnone size-full wp-image-1331" title="necklace" src="http://evie-s.com/news/wp-content/uploads/2010/03/necklace.jpg" alt="" width="540" height="359" /></p>
+<p>These mothers are full of so much joy that they have been taught to do something that can provide for the daily needs of their family.</p>
+<p>It was being moved by these amazing people who have so little, but yet are so very joyful and thankful. Like in the case of 18-year old <a href="http://www.bradruggles.com/2010/03/08/a-father-to-the-fatherless/" target="_blank">Eliud</a>, living alone in one of the most filthy and impoverished slums in the world. In a prayer he wrote above his door and prays each day, that God loves him enough to feed him, bless him, and give him hope for the future.</p>
+<p><a href="http://www.bradruggles.com/2010/03/08/a-father-to-the-fatherless/"><img class="alignnone size-full wp-image-1330" title="eliud" src="http://evie-s.com/news/wp-content/uploads/2010/03/eliud.jpg" alt="" width="571" height="212" /></a></p>
+<h5>Photos by <a href="http://www.bradruggles.com/2010/03/08/a-father-to-the-fatherless/" target="_blank">Brad Ruggles</a></h5>
+<p>It was realizing that in 50 years no one will care about what kind of car I drove, house I had, or clothes I wore. Who am I to be discontent because of what I &#8220;don&#8217;t have&#8221;? I am going to be honest and say that I have felt discontent too many times about things that are so meaningless, like the kind of sheets I have on my bed. Or wishing I had the money to go shopping, when I already have a closet jam packed with nice clothing.</p>
+<p>This has put things in perspective for me in so many ways. Where your heart is, that&#8217;s where your treasure lies, and my heart has been places that it shouldn&#8217;t for too long.</p>
+<p><a href="http://www.thisisreverb.com"><img class="alignnone size-full wp-image-1332" title="kenya" src="http://evie-s.com/news/wp-content/uploads/2010/03/kenya4.jpg" alt="" width="571" height="260" /></a></p>
+<h5>Photos by <a href="http://www.thisisreverb.com" target="_blank">Ryan Detzel</a></h5>
+<p>Thanks for reading if you&#8217;ve gotten this far! I know this is an unusual post for me, but I felt it was appropriate and necessary because I feel that my life, (and consequently this blog) is being transformed and I want you to be a part of it.</p>
+<p>If you are interested in making an impact in a child&#8217;s life, their are 3,000 children <a href="http://www.compassion.com/sponsor_a_child/default.htm?referer=105831" target="_blank">waiting to be sponsored in Kenya</a> alone. Think about it &#8212; but not too much. Unfortunately we take more time deciding on whether or not to spend $38 a month on a life than on a pair of shoes.</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1318" class="post-1318 post type-post status-publish format-standard hentry category-art category-things-of-beauty tag-africa tag-art tag-compassion-international tag-kenya">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/03/02/i-love-kenya/" rel="bookmark" title="Permalink to I Love: Kenya">I Love: Kenya</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 2, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/03/02/i-love-kenya/#comments">7 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>As <a href="http://www.churchrelevance.com" target="_blank">my husband</a> embarks on an amazing 10-day trip to Kenya with <a href="http://compassionbloggers.com/trips/2010-kenya" target="_blank">Compassion International</a>, I thought it would make me feel closer to him and his adventure by posting some beautiful things inspired by and from this African country.</p>
+<p><img class="alignnone size-full wp-image-1319" title="kenya" src="http://evie-s.com/news/wp-content/uploads/2010/03/kenya.jpg" alt="" width="571" height="377" /></p>
+<p>Photo left: <a href="http://www.etsy.com/view_listing.php?listing_id=24693695" target="_blank">Samburu Girl in Full Traditional Dress</a></p>
+<p><img class="alignnone size-full wp-image-1320" title="kenya1" src="http://evie-s.com/news/wp-content/uploads/2010/03/kenya1.jpg" alt="" width="571" height="363" /></p>
+<p><a href="http://www.crumleynewyork.com/blog/guam/" target="_blank">Amazing jewelry from Kenyan artisans</a> (launching exclusively with Urban Outfitters in Spring 2009)</p>
+<p><img class="alignnone size-full wp-image-1321" title="kenya2" src="http://evie-s.com/news/wp-content/uploads/2010/03/kenya2.jpg" alt="" width="571" height="400" /></p>
+<p><a href="http://www.etsy.com/view_listing.php?listing_id=35842992" target="_blank">Maasai Princess</a> // <a href="http://www.etsy.com/view_listing.php?listing_id=32000674" target="_blank">African Dress</a></p>
+<p><img class="alignnone size-full wp-image-1322" title="kenya3" src="http://evie-s.com/news/wp-content/uploads/2010/03/kenya3.jpg" alt="" width="571" height="249" /></p>
+<p><a href="http://www.etsy.com/view_listing.php?listing_id=37637561" target="_blank">Liquid Gold</a> &#8211; a gorgeous strand of African Trade Beads from Kenya // <a href="http://www.manzanitafairtrade.com/index.php?act=viewProd&amp;productId=22" target="_blank">Handcarved, handpainted wooden hearts</a></p>
+<p>I love Africa! The bright bold colors, patterns and textures&#8230;and the people! So precious and beautiful. So while I can&#8217;t travel thousands of miles this time around, I hope to visit in the future.</p>
+<p>Where are you dreaming of going someday?</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+<p><input id="gwProxy" type="hidden" /></p>
+<p><!--Session data--><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

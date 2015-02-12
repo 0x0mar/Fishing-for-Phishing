@@ -1,0 +1,1687 @@
+<!DOCTYPE html>
+<html  lang="en-US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Products | DailyTekk</title>
+
+		<!--<link href="http://dailytekk.com/wp-content/themes/DailyTekk/sass/style.css" rel="stylesheet">-->
+
+	<link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,100' rel='stylesheet' type='text/css'>
+
+							
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<link rel="alternate" type="application/rss+xml" title="DailyTekk &raquo; Products Comments Feed" href="http://dailytekk.com/products/feed/" />
+<link rel='stylesheet' id='fancybox2-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_reset-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/reset.min.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='snp_styles_newtheme2-css'  href='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme2/css/newtheme2.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://dailytekk.com/wp-content/themes/DailyTekk/style.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://dailytekk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailytekk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailytekk.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='canonical' href='http://dailytekk.com/products/' />
+<link rel='shortlink' href='http://wp.me/P2kxT1-3un' />
+<style type='text/css'>img#wpstats{display:none}</style>	<meta property="og:site_name" content="DailyTekk" />
+	<meta property="og:title" content="Products" />
+			<meta property="og:url" content="http://dailytekk.com/products/" />
+		<meta property="og:type" content="website" />
+				<meta property="og:description" content="" />
+			<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '1575089616085357',
+					xfbml      : true,
+					version    : 'v2.2'
+				});
+			};
+
+			(function(d, s, id){
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	
+</head>
+			<body>
+		<!-- BuySellAds Ad Code -->
+		<script type="text/javascript">
+			(function(){
+				var bsa = document.createElement('script');
+				bsa.type = 'text/javascript';
+				bsa.async = true;
+				bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+				(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+			})();
+		</script>
+		<!-- End BuySellAds Ad Code -->
+		<input type="checkbox" name="menu-toggle" id="menu-toggle" class="checkbox-toggle" />
+		<label for="menu-toggle" class="menu-toggle">
+			<div class="bar-icon-wrapper">
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+			</div>
+		</label>
+		<div id="page" class="page-wrapper">
+			<header class="header">
+								<div class="container">
+					<a href="http://dailytekk.com" class="logo"><svg width="35" height="36" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M0,28.8590495 L0,35.0376096 L6.17862593,35.0376096 C3.71067937,33.4351947 1.602432,31.3269698 0,28.8590495"></path>
+	<path d="M26.0255607,28.8241236 C25.9498934,28.881153 25.8727352,28.9363187 25.7955769,28.9914845 L25.7355649,29.0343497 C23.3216664,30.7672241 20.4738924,31.6830495 17.5001305,31.6830495 C9.70118075,31.6830495 3.35556493,25.3382468 3.35481944,17.5393801 L3.35481944,17.4681865 L3.35481944,17.467441 L3.35481944,12.1637048 L3.35481944,11.219551 L3.35481944,7.86487914 L3.35481944,6.99900105 L3.35481944,3.39235603 L17.5001305,3.39235603 C25.2998257,3.39235603 31.6454415,9.73790428 31.6454415,17.5375164 C31.6458142,22.0070576 29.5972061,26.1206308 26.0255607,28.8241236 M17.5005032,0.0376841475 L17.5005032,0.0376841475 L0.000111823587,0.0376841475 L0.000111823587,17.5375164 L0.000111823587,17.5393801 C0.00123005946,27.2034443 7.83559057,35.0377214 17.5001305,35.0377214 C21.3039961,35.0377214 24.8212207,33.8203483 27.6921049,31.7594615 C27.8121289,31.6733583 27.9325256,31.5880005 28.0499404,31.4989153 C32.2712808,28.3037767 35.0001491,23.2400859 35.0001491,17.5378892 C35.0005218,7.87270671 27.1654158,0.0376841475 17.5005032,0.0376841475"></path>
+	<path d="M17.5004659,11.2199238 C18.4159284,11.2199238 19.2836794,11.4197131 20.0697992,11.7715809 C20.3396668,11.8923491 20.598352,12.0328726 20.8466004,12.1886785 C21.0791935,12.3347931 21.3058226,12.4902262 21.5167964,12.6642964 C22.9216734,13.8238946 23.8181259,15.5780153 23.8181259,17.5378892 C23.8181259,18.5368359 23.5788234,19.4787532 23.1643306,20.3192849 C22.1333171,22.4103637 19.985186,23.8558545 17.5000932,23.8558545 L17.4978567,23.8558545 C14.0152975,23.8547363 11.1824333,21.0211568 11.1824333,17.5382619 L7.82772565,17.5382619 C7.82772565,22.8237338 12.0908135,27.1337417 17.3603137,27.2094082 L17.3755963,27.2105264 L17.5000932,27.2105264 C21.2048086,27.2105264 24.5282056,25.1384574 26.1727579,21.8031681 C26.8362445,20.4579447 27.1724607,19.0228906 27.1724607,17.5378892 C27.1724607,14.6439255 25.8894714,11.9244049 23.6522542,10.0774716 C23.352567,9.82997138 23.0178417,9.5910442 22.6301866,9.34764412 C22.2421588,9.10387129 21.8414576,8.88917229 21.4396382,8.70951097 C20.1879595,8.14928077 18.8624772,7.86562462 17.5000932,7.86562462 L15.4611764,7.86562462 L15.4611764,11.2202965 L17.5004659,11.2202965 L17.5004659,11.2199238 Z"></path>
+	<path d="M7.8276511,11.2199238 L7.8276511,15.8232791 L11.1823587,15.8232791 L11.1823587,11.2199238 L13.7468463,11.2199238 L13.7468463,7.86525188 L11.1823587,7.86525188 L7.8276511,7.86525188 L5.06933595,7.86525188 L5.06933595,11.2199238 L7.8276511,11.2199238 Z"></path>
+</svg>
+<span class="logo__title">DailyTekk</span></a>
+					<div class="menu-wrapper">
+						<form method="get" id="searchform" class="searchform" action="http://dailytekk.com" >
+	<input type="text" name="s" id="s" class="search__input" placeholder="Search..."/>
+	<input type="submit" value="search" id="searchsubmit" class="search__btn" />
+</form>
+
+						<ul class="menu"><li id="menu-item-13421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13421"><a href="http://dailytekk.com/category/features/">Features</a></li><li id="menu-item-13419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13419"><a href="http://dailytekk.com/category/lists/">Lists</a></li><li id="menu-item-13420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13420"><a href="http://dailytekk.com/category/reviews/">Reviews</a></li><li id="menu-item-13422" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13415 current_page_item menu-item-13422"><a href="http://dailytekk.com/products/">Products</a></li><li id="menu-item-13423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13423"><a href="http://dailytekk.com/category/community/">Community</a></li>
+</ul>					</div>
+				</div>
+			</header>
+			<main class="page-content">
+
+
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT 970 x 90 Large Leaderboard -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:970px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6229458023"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<div class="container">
+		<div class="products-description">
+					</div>
+		
+
+
+<div class="slider-products">
+																		<div class="">
+					<h3 class="product__date">Products: Best of December</h3>
+					<div class="slider-products__month"><!--
+																																	--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/yoink/">Yoink</a>
+									</h2>
+																			<h3 class="product__description">Takes the 'drag' out of drag and drop</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="13187">
+										<span class="social--counter">155</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="13187"
+										data-url="http://dailytekk.com/product/yoink/"
+																					data-via="DailyTekk"
+																				data-text="Yoink - Takes the 'drag' out of drag and drop"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Yoink - Takes+the+%27drag%27+out+of+drag+and+drop&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/yoink/"
+										data-post_id="13187"
+										data-text="Yoink - Takes the 'drag' out of drag and drop"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F&amp;t=Yoink Takes+the+%27drag%27+out+of+drag+and+drop">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+																											--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/videolean/">Videolean</a>
+									</h2>
+																			<h3 class="product__description">Pre-designed videos easy to customize online</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="13018">
+										<span class="social--counter">146</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="13018"
+										data-url="http://dailytekk.com/product/videolean/"
+																					data-via="DailyTekk"
+																				data-text="Videolean - Pre-designed videos easy to customize online"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Videolean - Pre-designed+videos+easy+to+customize+online&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fvideolean%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/videolean/"
+										data-post_id="13018"
+										data-text="Videolean - Pre-designed videos easy to customize online"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fvideolean%2F&amp;t=Videolean Pre-designed+videos+easy+to+customize+online">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+																											--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/krak/">Krak</a>
+									</h2>
+																			<h3 class="product__description">Free social network for skateboarders</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="12915">
+										<span class="social--counter">107</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="12915"
+										data-url="http://dailytekk.com/product/krak/"
+																					data-via="DailyTekk"
+																				data-text="Krak - Free social network for skateboarders"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Krak - Free+social+network+for+skateboarders&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fkrak%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/krak/"
+										data-post_id="12915"
+										data-text="Krak - Free social network for skateboarders"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fkrak%2F&amp;t=Krak Free+social+network+for+skateboarders">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+																											--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/quietly/">Quietly</a>
+									</h2>
+																			<h3 class="product__description">Amazing tools for digital publishers</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="12888">
+										<span class="social--counter">96</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="12888"
+										data-url="http://dailytekk.com/product/quietly/"
+																					data-via="DailyTekk"
+																				data-text="Quietly - Amazing tools for digital publishers"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Quietly - Amazing+tools+for+digital+publishers&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fquietly%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/quietly/"
+										data-post_id="12888"
+										data-text="Quietly - Amazing tools for digital publishers"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fquietly%2F&amp;t=Quietly Amazing+tools+for+digital+publishers">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+											--></div>
+				</div>
+																		<div class="">
+					<h3 class="product__date">Products: Best of November</h3>
+					<div class="slider-products__month"><!--
+																																	--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/reserve/">Reserve</a>
+									</h2>
+																			<h3 class="product__description">Reserve's concierge app makes dining better.</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="12654">
+										<span class="social--counter">70</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="12654"
+										data-url="http://dailytekk.com/product/reserve/"
+																					data-via="DailyTekk"
+																				data-text="Reserve - Reserve's concierge app makes dining better."
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Reserve - Reserve%27s+concierge+app+makes+dining+better.&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Freserve%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/reserve/"
+										data-post_id="12654"
+										data-text="Reserve - Reserve's concierge app makes dining better."
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Freserve%2F&amp;t=Reserve Reserve%27s+concierge+app+makes+dining+better.">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+																											--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/fly/">Fly</a>
+									</h2>
+																			<h3 class="product__description">A fast new way to craft videos</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="12644">
+										<span class="social--counter">59</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="12644"
+										data-url="http://dailytekk.com/product/fly/"
+																					data-via="DailyTekk"
+																				data-text="Fly - A fast new way to craft videos"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Fly - A+fast+new+way+to+craft+videos&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffly%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/fly/"
+										data-post_id="12644"
+										data-text="Fly - A fast new way to craft videos"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffly%2F&amp;t=Fly A+fast+new+way+to+craft+videos">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+																											--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/peak-brain-training/">Peak &#8211; Brain Training</a>
+									</h2>
+																			<h3 class="product__description">Peak is a personalised self­-improvement app</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="12622">
+										<span class="social--counter">56</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="12622"
+										data-url="http://dailytekk.com/product/peak-brain-training/"
+																					data-via="DailyTekk"
+																				data-text="Peak &#8211; Brain Training - Peak is a personalised self­-improvement app"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=Peak+%26%238211%3B+Brain+Training - Peak+is+a+personalised+self%C2%AD-improvement+app&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fpeak-brain-training%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/peak-brain-training/"
+										data-post_id="12622"
+										data-text="Peak &#8211; Brain Training - Peak is a personalised self­-improvement app"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fpeak-brain-training%2F&amp;t=Peak+%26%238211%3B+Brain+Training Peak+is+a+personalised+self%C2%AD-improvement+app">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+																											--><div class="product product--item col-one-quarter m-col-one-half s-col-one-whole">
+								<div class="product__text">
+									<h2 class="product__title">
+										<a href="http://dailytekk.com/product/5by/">5by</a>
+									</h2>
+																			<h3 class="product__description">Find, share & chat about the best videos</h3>
+																	</div><!--
+								--><div class="voting">
+									<span class="voting__counter" data-vote="all" data-post_id="12826">
+										<span class="social--counter">53</span> shares/upvotes
+									</span>
+									<div class="product__voting">
+										<a class="col-one-half product__vote product__vote--twitter "
+										data-vote="twitter"
+										data-vote-everything="everything"
+										data-post_id="12826"
+										data-url="http://dailytekk.com/product/5by/"
+																					data-via="DailyTekk"
+																				data-text="5by - Find, share & chat about the best videos"
+										target="_blank"
+										href="http://twitter.com/intent/tweet?text=5by - Find%2C+share+%26+chat+about+the+best+videos&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2F5by%2F">
+										Tweet</a><!--
+										--><a class="col-one-half product__vote product__vote--facebook "
+										data-vote="facebook"
+										data-vote-everything="everything"
+										data-url="http://dailytekk.com/product/5by/"
+										data-post_id="12826"
+										data-text="5by - Find, share & chat about the best videos"
+										target="_blank"
+										href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2F5by%2F&amp;t=5by Find%2C+share+%26+chat+about+the+best+videos">
+										Share</a>
+									</div>
+								</div>
+							</div><!--
+											--></div>
+				</div>
+						</div>
+
+
+
+		
+
+		<div class="products-list" id="content">
+
+
+				
+						
+					
+			<div class="product product--data">
+				<h2 class="product__date">December 29, 2014</h2>
+			</div>
+
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/moovit-bus-train-metro-subway/id498477945?mt=8#">Moovit</a></h2>
+									 - <h3 class="product__description">Live Public Transit Directions</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13280">
+					<span class="social--counter">7</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13280"
+					data-url="http://dailytekk.com/product/moovit/"
+											data-via="DailyTekk"
+										data-text="Moovit - Live Public Transit Directions"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Moovit - Live+Public+Transit+Directions&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fmoovit%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/moovit/"
+					data-post_id="13280"
+					data-text="Moovit - Live Public Transit Directions"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fmoovit%2F&amp;t=Moovit Live+Public+Transit+Directions">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/app/silver/id915620447">Silver</a></h2>
+									 - <h3 class="product__description">Compare hundreds of Credit Cards in seconds</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13272">
+					<span class="social--counter">6</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13272"
+					data-url="http://dailytekk.com/product/silver/"
+											data-via="DailyTekk"
+										data-text="Silver - Compare hundreds of Credit Cards in seconds"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Silver - Compare+hundreds+of+Credit+Cards+in+seconds&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsilver%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/silver/"
+					data-post_id="13272"
+					data-text="Silver - Compare hundreds of Credit Cards in seconds"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsilver%2F&amp;t=Silver Compare+hundreds+of+Credit+Cards+in+seconds">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://play.google.com/store/apps/details?id=co.mindquake.nester">Nester</a></h2>
+									 - <h3 class="product__description">Perfect kids mode with time education</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13275">
+					<span class="social--counter">5</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13275"
+					data-url="http://dailytekk.com/product/nester/"
+											data-via="DailyTekk"
+										data-text="Nester - Perfect kids mode with time education"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Nester - Perfect+kids+mode+with+time+education&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnester%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/nester/"
+					data-post_id="13275"
+					data-text="Nester - Perfect kids mode with time education"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnester%2F&amp;t=Nester Perfect+kids+mode+with+time+education">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/contacts+-for-iphone/id622367004">Contacts+</a></h2>
+									 - <h3 class="product__description">A smart & beautiful contacts app</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13276">
+					<span class="social--counter">2</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13276"
+					data-url="http://dailytekk.com/product/contacts/"
+											data-via="DailyTekk"
+										data-text="Contacts+ - A smart & beautiful contacts app"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Contacts%2B - A+smart+%26+beautiful+contacts+app&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fcontacts%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/contacts/"
+					data-post_id="13276"
+					data-text="Contacts+ - A smart & beautiful contacts app"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fcontacts%2F&amp;t=Contacts%2B A+smart+%26+beautiful+contacts+app">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://www.fullcontact.com/gmail/">FullContact</a></h2>
+									 - <h3 class="product__description">Your Gmail. On steroids.</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13285">
+					<span class="social--counter">2</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13285"
+					data-url="http://dailytekk.com/product/fullcontact/"
+											data-via="DailyTekk"
+										data-text="FullContact - Your Gmail. On steroids."
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=FullContact - Your+Gmail.+On+steroids.&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffullcontact%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/fullcontact/"
+					data-post_id="13285"
+					data-text="FullContact - Your Gmail. On steroids."
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffullcontact%2F&amp;t=FullContact Your+Gmail.+On+steroids.">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/truly-wireless-business-phone/id940117014?ls=1&mt=8">Truly</a></h2>
+									 - <h3 class="product__description">Run your business with your cellphone</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13283">
+					<span class="social--counter">1</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13283"
+					data-url="http://dailytekk.com/product/truly/"
+											data-via="DailyTekk"
+										data-text="Truly - Run your business with your cellphone"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Truly - Run+your+business+with+your+cellphone&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftruly%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/truly/"
+					data-post_id="13283"
+					data-text="Truly - Run your business with your cellphone"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftruly%2F&amp;t=Truly Run+your+business+with+your+cellphone">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/fleksy-keyboard-happy-typing/id520337246?ls=1&mt=8">Fleksy Keyboard</a></h2>
+									 - <h3 class="product__description">A fun, customizable way to type</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13284">
+					<span class="social--counter">1</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13284"
+					data-url="http://dailytekk.com/product/fleksy-keyboard/"
+											data-via="DailyTekk"
+										data-text="Fleksy Keyboard - A fun, customizable way to type"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Fleksy+Keyboard - A+fun%2C+customizable+way+to+type&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffleksy-keyboard%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/fleksy-keyboard/"
+					data-post_id="13284"
+					data-text="Fleksy Keyboard - A fun, customizable way to type"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffleksy-keyboard%2F&amp;t=Fleksy+Keyboard A+fun%2C+customizable+way+to+type">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://play.google.com/store/apps/details?id=com.textra">Textra SMS</a></h2>
+									 - <h3 class="product__description">The 1st messaging app featuring Lollipop Material Design</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13274">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13274"
+					data-url="http://dailytekk.com/product/textra-sms/"
+											data-via="DailyTekk"
+										data-text="Textra SMS - The 1st messaging app featuring Lollipop Material Design"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Textra+SMS - The+1st+messaging+app+featuring+Lollipop+Material+Design&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftextra-sms%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/textra-sms/"
+					data-post_id="13274"
+					data-text="Textra SMS - The 1st messaging app featuring Lollipop Material Design"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftextra-sms%2F&amp;t=Textra+SMS The+1st+messaging+app+featuring+Lollipop+Material+Design">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/dash-smarter-driving-every/id904108101">Dash</a></h2>
+									 - <h3 class="product__description">Smarter. Driving. Every Day.</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13278">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13278"
+					data-url="http://dailytekk.com/product/dash-2/"
+											data-via="DailyTekk"
+										data-text="Dash - Smarter. Driving. Every Day."
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Dash - Smarter.+Driving.+Every+Day.&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdash-2%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/dash-2/"
+					data-post_id="13278"
+					data-text="Dash - Smarter. Driving. Every Day."
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdash-2%2F&amp;t=Dash Smarter.+Driving.+Every+Day.">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://www.sendsonar.com">Sonar</a></h2>
+									 - <h3 class="product__description">Send and receive text messages with your customers simply</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13282">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13282"
+					data-url="http://dailytekk.com/product/sonar/"
+											data-via="DailyTekk"
+										data-text="Sonar - Send and receive text messages with your customers simply"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Sonar - Send+and+receive+text+messages+with+your+customers+simply&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsonar%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/sonar/"
+					data-post_id="13282"
+					data-text="Sonar - Send and receive text messages with your customers simply"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsonar%2F&amp;t=Sonar Send+and+receive+text+messages+with+your+customers+simply">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+					
+			<div class="product product--data">
+				<h2 class="product__date">December 19, 2014</h2>
+			</div>
+
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/dolphin-browser/id452204407?mt=8&uo=4">Dolphin Browser</a></h2>
+									 - <h3 class="product__description">The fast, smart, and free mobile browser</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13270">
+					<span class="social--counter">16</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13270"
+					data-url="http://dailytekk.com/product/dolphin-browser/"
+											data-via="DailyTekk"
+										data-text="Dolphin Browser - The fast, smart, and free mobile browser"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Dolphin+Browser - The+fast%2C+smart%2C+and+free+mobile+browser&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdolphin-browser%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/dolphin-browser/"
+					data-post_id="13270"
+					data-text="Dolphin Browser - The fast, smart, and free mobile browser"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdolphin-browser%2F&amp;t=Dolphin+Browser The+fast%2C+smart%2C+and+free+mobile+browser">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/lettrs-be-indelible/id633501301?mt=8">lettrs</a></h2>
+									 - <h3 class="product__description">Your social writing desk</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13264">
+					<span class="social--counter">11</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13264"
+					data-url="http://dailytekk.com/product/lettrs/"
+											data-via="DailyTekk"
+										data-text="lettrs - Your social writing desk"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=lettrs - Your+social+writing+desk&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Flettrs%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/lettrs/"
+					data-post_id="13264"
+					data-text="lettrs - Your social writing desk"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Flettrs%2F&amp;t=lettrs Your+social+writing+desk">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/fxguru-movie-fx-director/id553674737?mt=8&uo=4&at=10ldEX">FxGuru</a></h2>
+									 - <h3 class="product__description">Amazing Special Effects for Mobile Video</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13257">
+					<span class="social--counter">5</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13257"
+					data-url="http://dailytekk.com/product/fxguru/"
+											data-via="DailyTekk"
+										data-text="FxGuru - Amazing Special Effects for Mobile Video"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=FxGuru - Amazing+Special+Effects+for+Mobile+Video&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffxguru%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/fxguru/"
+					data-post_id="13257"
+					data-text="FxGuru - Amazing Special Effects for Mobile Video"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffxguru%2F&amp;t=FxGuru Amazing+Special+Effects+for+Mobile+Video">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/amazing-world-atlas-by-lonely/id916745147?mt=8">Amazing World Atlas</a></h2>
+									 - <h3 class="product__description">Play your way around the planet</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13266">
+					<span class="social--counter">2</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13266"
+					data-url="http://dailytekk.com/product/amazing-world-atlas/"
+											data-via="DailyTekk"
+										data-text="Amazing World Atlas - Play your way around the planet"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Amazing+World+Atlas - Play+your+way+around+the+planet&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Famazing-world-atlas%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/amazing-world-atlas/"
+					data-post_id="13266"
+					data-text="Amazing World Atlas - Play your way around the planet"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Famazing-world-atlas%2F&amp;t=Amazing+World+Atlas Play+your+way+around+the+planet">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/touchnote-postcards/id325525543?mt=8">Touchnote &#8211; Christmas Edition</a></h2>
+									 - <h3 class="product__description">World's most popular card-sending app</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13259">
+					<span class="social--counter">1</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13259"
+					data-url="http://dailytekk.com/product/touchnote-christmas-edition/"
+											data-via="DailyTekk"
+										data-text="Touchnote &#8211; Christmas Edition - World's most popular card-sending app"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Touchnote+%26%238211%3B+Christmas+Edition - World%27s+most+popular+card-sending+app&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftouchnote-christmas-edition%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/touchnote-christmas-edition/"
+					data-post_id="13259"
+					data-text="Touchnote &#8211; Christmas Edition - World's most popular card-sending app"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ftouchnote-christmas-edition%2F&amp;t=Touchnote+%26%238211%3B+Christmas+Edition World%27s+most+popular+card-sending+app">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict">Podcast Addict</a></h2>
+									 - <h3 class="product__description">An app to manage all your Podcasts</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13261">
+					<span class="social--counter">1</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13261"
+					data-url="http://dailytekk.com/product/podcast-addict/"
+											data-via="DailyTekk"
+										data-text="Podcast Addict - An app to manage all your Podcasts"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Podcast+Addict - An+app+to+manage+all+your+Podcasts&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fpodcast-addict%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/podcast-addict/"
+					data-post_id="13261"
+					data-text="Podcast Addict - An app to manage all your Podcasts"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fpodcast-addict%2F&amp;t=Podcast+Addict An+app+to+manage+all+your+Podcasts">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="http://vemedio.com/products/instacast-mac">Instacast for Mac</a></h2>
+									 - <h3 class="product__description">Popular podcast clients with cloud sync</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13255">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13255"
+					data-url="http://dailytekk.com/product/instacast-for-mac/"
+											data-via="DailyTekk"
+										data-text="Instacast for Mac - Popular podcast clients with cloud sync"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Instacast+for+Mac - Popular+podcast+clients+with+cloud+sync&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Finstacast-for-mac%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/instacast-for-mac/"
+					data-post_id="13255"
+					data-text="Instacast for Mac - Popular podcast clients with cloud sync"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Finstacast-for-mac%2F&amp;t=Instacast+for+Mac Popular+podcast+clients+with+cloud+sync">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="http://recordit.co">Recordit</a></h2>
+									 - <h3 class="product__description">Record screencasts fast & free! GIF Supported</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13262">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13262"
+					data-url="http://dailytekk.com/product/recordit/"
+											data-via="DailyTekk"
+										data-text="Recordit - Record screencasts fast & free! GIF Supported"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Recordit - Record+screencasts+fast+%26+free%21+GIF+Supported&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Frecordit%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/recordit/"
+					data-post_id="13262"
+					data-text="Recordit - Record screencasts fast & free! GIF Supported"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Frecordit%2F&amp;t=Recordit Record+screencasts+fast+%26+free%21+GIF+Supported">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/alltrails-hiking-mountain/id405075943?mt=8">AllTrails</a></h2>
+									 - <h3 class="product__description">The app for exploring the outdoors</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13267">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13267"
+					data-url="http://dailytekk.com/product/alltrails/"
+											data-via="DailyTekk"
+										data-text="AllTrails - The app for exploring the outdoors"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=AllTrails - The+app+for+exploring+the+outdoors&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Falltrails%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/alltrails/"
+					data-post_id="13267"
+					data-text="AllTrails - The app for exploring the outdoors"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Falltrails%2F&amp;t=AllTrails The+app+for+exploring+the+outdoors">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/robinhood-$0-commission-stock/id938003185?ls=1&mt=8">Robinhood</a></h2>
+									 - <h3 class="product__description">Zero commission stock trading</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13269">
+					<span class="social--counter"></span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13269"
+					data-url="http://dailytekk.com/product/robinhood/"
+											data-via="DailyTekk"
+										data-text="Robinhood - Zero commission stock trading"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Robinhood - Zero+commission+stock+trading&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Frobinhood%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/robinhood/"
+					data-post_id="13269"
+					data-text="Robinhood - Zero commission stock trading"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Frobinhood%2F&amp;t=Robinhood Zero+commission+stock+trading">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+					
+			<div class="product product--data">
+				<h2 class="product__date">December 18, 2014</h2>
+			</div>
+
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="http://stackhive.com">StackHive</a></h2>
+									 - <h3 class="product__description">The Fastest Web Development tool</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13247">
+					<span class="social--counter">64</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13247"
+					data-url="http://dailytekk.com/product/stackhive/"
+											data-via="DailyTekk"
+										data-text="StackHive - The Fastest Web Development tool"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=StackHive - The+Fastest+Web+Development+tool&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/stackhive/"
+					data-post_id="13247"
+					data-text="StackHive - The Fastest Web Development tool"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F&amp;t=StackHive The+Fastest+Web+Development+tool">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/filepane-file-management-utility/id847515307?mt=12">FilePane</a></h2>
+									 - <h3 class="product__description">File management utility</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13245">
+					<span class="social--counter">39</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13245"
+					data-url="http://dailytekk.com/product/filepane/"
+											data-via="DailyTekk"
+										data-text="FilePane - File management utility"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=FilePane - File+management+utility&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/filepane/"
+					data-post_id="13245"
+					data-text="FilePane - File management utility"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F&amp;t=FilePane File+management+utility">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/gb/app/notiss/id834444181?mt=8">Bundll</a></h2>
+									 - <h3 class="product__description">Private spaces for groups of family & friends</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13250">
+					<span class="social--counter">28</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13250"
+					data-url="http://dailytekk.com/product/bundll/"
+											data-via="DailyTekk"
+										data-text="Bundll - Private spaces for groups of family & friends"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Bundll - Private+spaces+for+groups+of+family+%26+friends&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fbundll%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/bundll/"
+					data-post_id="13250"
+					data-text="Bundll - Private spaces for groups of family & friends"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fbundll%2F&amp;t=Bundll Private+spaces+for+groups+of+family+%26+friends">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/stocktouch/id496315928?mt=12">StockTouch</a></h2>
+									 - <h3 class="product__description">Incredibly visual way to understand stocks</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13238">
+					<span class="social--counter">8</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13238"
+					data-url="http://dailytekk.com/product/stocktouch/"
+											data-via="DailyTekk"
+										data-text="StockTouch - Incredibly visual way to understand stocks"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=StockTouch - Incredibly+visual+way+to+understand+stocks&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstocktouch%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/stocktouch/"
+					data-post_id="13238"
+					data-text="StockTouch - Incredibly visual way to understand stocks"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstocktouch%2F&amp;t=StockTouch Incredibly+visual+way+to+understand+stocks">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/living-earth-clock-weather/id379869627?mt=8">Living Earth</a></h2>
+									 - <h3 class="product__description">Track the weather in a timely fashion.</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13234">
+					<span class="social--counter">5</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13234"
+					data-url="http://dailytekk.com/product/living-earth/"
+											data-via="DailyTekk"
+										data-text="Living Earth - Track the weather in a timely fashion."
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Living+Earth - Track+the+weather+in+a+timely+fashion.&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fliving-earth%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/living-earth/"
+					data-post_id="13234"
+					data-text="Living Earth - Track the weather in a timely fashion."
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fliving-earth%2F&amp;t=Living+Earth Track+the+weather+in+a+timely+fashion.">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/firehose-chat/id872567558?mt=8">Firehose Chat</a></h2>
+									 - <h3 class="product__description">Easy Live Chat w/ Your Website Visitors!</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13240">
+					<span class="social--counter">5</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13240"
+					data-url="http://dailytekk.com/product/firehose-chat/"
+											data-via="DailyTekk"
+										data-text="Firehose Chat - Easy Live Chat w/ Your Website Visitors!"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Firehose+Chat - Easy+Live+Chat+w%2F+Your+Website+Visitors%21&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffirehose-chat%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/firehose-chat/"
+					data-post_id="13240"
+					data-text="Firehose Chat - Easy Live Chat w/ Your Website Visitors!"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffirehose-chat%2F&amp;t=Firehose+Chat Easy+Live+Chat+w%2F+Your+Website+Visitors%21">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/next-expense-tracking/id596366290?l=de&ls=1&mt=8">Next for iPhone</a></h2>
+									 - <h3 class="product__description">Expense Tracking Reimagined</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13236">
+					<span class="social--counter">3</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13236"
+					data-url="http://dailytekk.com/product/next-for-iphone/"
+											data-via="DailyTekk"
+										data-text="Next for iPhone - Expense Tracking Reimagined"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Next+for+iPhone - Expense+Tracking+Reimagined&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnext-for-iphone%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/next-for-iphone/"
+					data-post_id="13236"
+					data-text="Next for iPhone - Expense Tracking Reimagined"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnext-for-iphone%2F&amp;t=Next+for+iPhone Expense+Tracking+Reimagined">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://affinity.serif.com/buy-designer">Affinity Designer</a></h2>
+									 - <h3 class="product__description">Vector art and design</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13232">
+					<span class="social--counter">2</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13232"
+					data-url="http://dailytekk.com/product/affinity-designer/"
+											data-via="DailyTekk"
+										data-text="Affinity Designer - Vector art and design"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Affinity+Designer - Vector+art+and+design&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Faffinity-designer%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/affinity-designer/"
+					data-post_id="13232"
+					data-text="Affinity Designer - Vector art and design"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Faffinity-designer%2F&amp;t=Affinity+Designer Vector+art+and+design">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://itunes.apple.com/us/app/next-deadline/id892281467?mt=8&ign-mpt=uo%3D2">Next Deadline</a></h2>
+									 - <h3 class="product__description">Helps to manage all your project's deadlines</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13243">
+					<span class="social--counter">2</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13243"
+					data-url="http://dailytekk.com/product/next-deadline/"
+											data-via="DailyTekk"
+										data-text="Next Deadline - Helps to manage all your project's deadlines"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=Next+Deadline - Helps+to+manage+all+your+project%27s+deadlines&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnext-deadline%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/next-deadline/"
+					data-post_id="13243"
+					data-text="Next Deadline - Helps to manage all your project's deadlines"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fnext-deadline%2F&amp;t=Next+Deadline Helps+to+manage+all+your+project%27s+deadlines">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+						
+		
+		
+		<div class="product product--item product--count">
+			<div class="product__text col-four-fifths m-col-one-whole">
+				<h2 class="product__title"><a href="https://play.google.com/store/apps/details?id=com.sand.airdroid&referrer=utm_source%3Ddailytekk">AirDroid</a></h2>
+									 - <h3 class="product__description">Manage Android Devices wirelessly on computer</h3>
+							</div><!--
+			--><div class="voting col-one-fifth m-col-one-whole">
+				<span class="voting__counter" data-vote="all" data-post_id="13249">
+					<span class="social--counter">2</span> shares/upvotes
+				</span>
+				<div class="product__voting">
+					<a class="col-one-half product__vote product__vote--twitter "
+					data-vote="twitter"
+					data-vote-everything="everything"
+					data-post_id="13249"
+					data-url="http://dailytekk.com/product/airdroid/"
+											data-via="DailyTekk"
+										data-text="AirDroid - Manage Android Devices wirelessly on computer"
+					target="_blank"
+					href="http://twitter.com/intent/tweet?text=AirDroid - Manage+Android+Devices+wirelessly+on+computer&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fairdroid%2F">
+					Tweet</a><!--
+					--><a class="col-one-half product__vote product__vote--facebook "
+					data-vote="facebook"
+					data-vote-everything="everything"
+					data-url="http://dailytekk.com/product/airdroid/"
+					data-post_id="13249"
+					data-text="AirDroid - Manage Android Devices wirelessly on computer"
+					target="_blank"
+					href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fairdroid%2F&amp;t=AirDroid Manage+Android+Devices+wirelessly+on+computer">
+					Share</a>
+				</div>
+			</div>
+		</div>
+
+	
+	<div id="nav-below" class="load--more">
+		<a href="http://dailytekk.com/products/page/2/" class="btn btn--arrow">Load 3 More Weeks</a>	</div>
+
+
+		</div>
+			</div>
+	</main>
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT AYL 728 x 90 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:728px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6674748022"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p class="footnote">© MMXV DailyTekk.</p><!--
+			--><ul class="menu"><li id="menu-item-13417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="http://dailytekk.com/advertise/">Advertise</a></li><li id="menu-item-13416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="http://dailytekk.com/about/">About</a></li><li id="menu-item-13418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="http://dailytekk.com/contact/">Contact</a></li>
+</ul>		</div>
+	</footer>
+
+				<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51766718-1', 'dailytekk.com');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+</script>	
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<!-- GumGum: You need to configure your Zone ID. -->        <script>var _roost = _roost || [];</script>
+                <script src="//cdn.goroost.com/roostjs/f508ef4fe9b846ef87277d425bc91f4e" async></script>
+        <script type="text/javascript" src="http://s.skimresources.com/js/72148X1521037.skimlinks.js"></script>
+	<div style="display:none">
+	</div>
+		<script>
+		    var snp_f = [];
+		</script>
+		<div class="snp-root">
+			<input type="hidden" id="snp_popup" value="" />
+			<input type="hidden" id="snp_popup_id" value="" />
+			<input type="hidden" id="snp_popup_theme" value="" />
+			<input type="hidden" id="snp_exithref" value="" />
+			<input type="hidden" id="snp_exittarget" value="" />
+				<div id="snppopup-welcome" class="snp-pop-12068 snppopup"><input type="hidden" class="snp_open" value="load" /><input type="hidden" class="snp_open_after" value="3" /><input type="hidden" class="snp_open_scroll" value="10" /><input type="hidden" class="snp_optin_redirect_url" value="" /><input type="hidden" class="snp_show_cb_button" value="yes" /><input type="hidden" class="snp_popup_id" value="12068" /><input type="hidden" class="snp_popup_theme" value="newtheme2" /><input type="hidden" class="snp_overlay" value="default" /><input type="hidden" class="snp_cookie_conversion" value="30" /><input type="hidden" class="snp_cookie_close" value="-1" /><div class="snp-fb snp-newtheme2">
+    <header>
+	<h2>Stay current!</h2> 
+	 
+    </header>
+	<a class="snp-close snp_nothanks" href="#"></a>    <div class="snp-newsletter-content">
+	<h2>Thousands of tech & app lovers can't be wrong!</h2><p>We'll send you the latest (and best) tech and apps Monday-Friday. Plus, subscribers get exclusive extras and surprises!</p> 
+	<form action="#" method="post" class="snp-subscribeform snp_subscribeform">
+	                <div>
+		<input type="text" name="email" id="snp_email" placeholder="Your Email..."  class="snp-field snp-field-email" /><input type="text" name="name" id="snp-name" placeholder="Your Name..." class="snp-field snp-field-name" />            </div>
+            <input type="submit" class="snp-subscribe-button snp-submit" data-loading="" data-success="" value="Subscribe!">
+	</form>
+	<p><small><img src="http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/themes/newtheme2/img/lock.png" alt="">We will NEVER share or sell your info.</small></p>    </div>
+    <div class="snp-powered-b"><a href="http://codecanyon.net/item/ninja-popups-for-wordpress/3476479?ref=dailytekk" target="_blank">Powered by <strong>Ninja Popups</strong></a></div></div>
+<style>.snp-pop-12068 .snp-newtheme2 { width: 660px;}
+.snp-pop-12068 .snp-newtheme2 h2 {font-size: 24px; color: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2 {font-size: 16px;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2 {color: #959595;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content p {font-size: 12px;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content p {color: #959595;}
+.snp-pop-12068 .snp-newtheme2 .snp-submit { color: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 .snp-submit { background-color: #F95549;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content h2:before { background-color: #F95549;}
+.snp-pop-12068 .snp-newtheme2 form input[type="submit"] { -webkit-box-shadow: 4px 4px 0 #D00F00; -moz-box-shadow: 4px 4px 0 #D00F00; box-shadow: 4px 4px 0 #D00F00;}
+.snp-pop-12068 .snp-newtheme2 form input[type="submit"]:hover { -webkit-box-shadow: 0 0 0 #D00F00; -moz-box-shadow: 0 0 0 #D00F00; box-shadow: 0 0 0 #D00F00;}
+.snp-pop-12068 .snp-newtheme2 { background: #ffffff;}
+.snp-pop-12068 .snp-newtheme2 header { background: #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 { border-bottom: 4px solid #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content:before { border-top: 20px solid #39b8c2;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content { background: #EBEBEB;}
+.snp-pop-12068 .snp-newtheme2 .snp-newsletter-content:before { border-left: 20px solid #EBEBEB; border-right: 20px solid #EBEBEB;}
+</style></div>		</div>
+		<script>
+			var snp_timer;
+			var snp_timer_o;
+			var snp_ajax_url= 'http://dailytekk.com/wp-admin/admin-ajax.php';
+			var snp_ignore_cookies = false;
+			var snp_is_interal_link;
+			var snp_enable_analytics_events = false;var snp_enable_mobile = true;			jQuery(document).ready(function(){
+				jQuery('[placeholder]').placeholder();				jQuery(".snp_nothanks, .snp_closelink, .snp-close-link").click(function(){
+					snp_close();
+					return false;
+				});
+				jQuery(".snp_subscribeform").submit(function(){
+					return snp_onsubmit(jQuery(this));
+				});
+												var snp_open=jQuery('#snppopup-welcome .snp_open').val();
+								var snp_open_after=jQuery('#snppopup-welcome .snp_open_after').val();
+								var snp_open_inactivity=jQuery('#snppopup-welcome .snp_open_inactivity').val();
+								var snp_open_scroll=jQuery('#snppopup-welcome .snp_open_scroll').val();
+								var snp_op_welcome = false;
+								if(snp_open=='inactivity')
+								{
+								    var snp_idletime=0;
+								    function snp_timerIncrement()
+								    {
+									snp_idletime++;
+									if (snp_idletime > snp_open_inactivity)
+									{
+									    window.clearTimeout(snp_idleInterval);
+									    snp_open_popup('','','snppopup-welcome','welcome');
+									}
+								    }
+								    var snp_idleInterval = setInterval(snp_timerIncrement, 1000);
+								    jQuery(this).mousemove(function (e) {
+									snp_idletime = 0;
+								    });
+								    jQuery(this).keypress(function (e) {
+									snp_idletime = 0;
+								    });
+								}
+								else if(snp_open=='scroll')
+								{
+								    jQuery(window).scroll(function() {
+									var h = jQuery(document).height()-jQuery(window).height();
+									var sp = jQuery(window).scrollTop();
+									var p = parseInt(sp/h*100);
+									if(p>=snp_open_scroll &&  snp_op_welcome == false){
+									    snp_open_popup('','','snppopup-welcome','welcome'); snp_op_welcome = true;
+									}
+								     });
+								}
+								else
+								{
+								    if(snp_open_after)
+								    {
+									    snp_timer_o=setTimeout("snp_open_popup('','','snppopup-welcome','welcome');",snp_open_after*1000);	
+								    }
+								    else
+								    {
+									    snp_open_popup('','','snppopup-welcome','welcome');
+								    }
+								}
+								});	
+					</script>
+		<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/jquery.ck.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/fancybox2/jquery.fancybox.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/jquery.placeholder.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/arscode-ninja-popups/js/ninjapopups.min.js?ver=4.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/comment-reply.min.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteVars = {"siteUrl":"http:\/\/dailytekk.com","templateUrl":"http:\/\/dailytekk.com\/wp-content\/themes\/DailyTekk","ajaxUrl":"http:\/\/dailytekk.com\/wp-admin\/admin-ajax.php","nonce":"2084c5cfd3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/themes/DailyTekk/js/functions.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=2.2.0.2014.12.19'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201507'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.1'></script>
+
+	<script src="http://stats.wp.com/e-201507.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.1',blog:'34449495',post:'13415',tz:'-7'});
+	var load_cmc = function(){linktracker_init(34449495,13415,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><!-- Begin ADSNATIVE Code -->
+<script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script>
+<!-- End ADSNATIVE Code -->
+</body>
+</html>
+
+
+

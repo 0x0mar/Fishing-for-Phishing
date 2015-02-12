@@ -1,0 +1,701 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>May | 2010 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>May 2010</span>	</h2>	
+		<div id="post-1550" class="post-1550 post type-post status-publish format-standard hentry category-about-me category-motherhood category-news">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/28/baby-update/" rel="bookmark" title="Permalink to Baby Update">Baby Update</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 28, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/28/baby-update/#comments">12 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Hello dear readers! Happy Friday and happy Memorial Day weekend! Just wanted to let you all know this is my last post for awhile. I&#8217;m planning on taking a break from blogging and most everything else for the month of June so I can have my baby and adjust to new life with a family of four! I couldn&#8217;t be more excited.</p>
+<p><img class="alignnone size-full wp-image-1551" title="babyupdate" src="http://evie-s.com/news/wp-content/uploads/2010/05/babyupdate.jpg" alt="" width="571" height="361" /></p>
+<p>Of course, I do plan on posting a photo or two and a quick birth announcement after our new little guy is born (my due date is June 13). If you think of me, please pray for wisdom, safety for me and baby, and peace as I am attempting a <a href="http://en.wikipedia.org/wiki/Vaginal_birth_after_caesarean" target="_blank">VBAC delivery</a> which I am excited to try but also slightly nervous about.</p>
+<p>I&#8217;ll miss you, but I&#8217;ll be back before you know it!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1381" class="post-1381 post type-post status-publish format-standard hentry category-kids category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/25/my-eli-at-18-months/" rel="bookmark" title="Permalink to My Eli at 18 Months">My Eli at 18 Months</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 25, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/25/my-eli-at-18-months/#comments">3 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Dear Eli,<br />
+I can&#8217;t believe you are a year and a half already! You are growing and learning so much these days.</p>
+<p><strong>Some things you love:</strong><br />
+Playing chase and hide and seek // Roughhousing with daddy // Opening and shutting doors. Over and over and over&#8230; // Getting a bath and playing in the water // Going outside to play and explore // Yelling at people in public like they can understand you // Pushing the cart at the store // Sitting in my lap while we read books</p>
+<p><img class="alignnone size-full wp-image-1548" title="eli" src="http://evie-s.com/news/wp-content/uploads/2010/05/eli1.jpg" alt="" width="571" height="400" /></p>
+<p><strong>I love when you: </strong><br />
+Cross your ankles when you sit in your high chair or are laying down // Run and give your daddy hugs and kisses // Are very sweet to your little friends, share toys and are empathetic when they are sad // Give me about 20 minutes of cuddle time in bed in the morning before we play or do anything else. This is my favorite! // Run little errands for me, pick things up from the floor, put appropriate things in the trash, etc. // Giggle and scrunch up your nose // Get excited about seeing your favorite blankey</p>
+<p><strong>Some fun things you&#8217;ve learned:</strong><br />
+How to make elephant, cow, and doggie sounds // How to buckle your seatbelts // How to say &#8220;cool&#8221; and &#8220;muah&#8221; when you kiss someone</p>
+<p>I love you more than words can say!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1536" class="post-1536 post type-post status-publish format-standard hentry category-diy category-kids category-knitting tag-baby tag-booties tag-diy tag-knit">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/21/cute-lil-knit-baby-booties/" rel="bookmark" title="Permalink to Cute Lil&#8217; Knit Baby Booties">Cute Lil&#8217; Knit Baby Booties</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 21, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/21/cute-lil-knit-baby-booties/#comments">3 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>OK, this project made me want to have a baby girl <strong>SO very badly</strong>. Maybe our third kid will pop out female? I sure hope so! Anyway, I knit up some cute little booties for a friend of mine that is having a sweet baby girl this summer. <a href="http://www.lionbrand.com/" target="_blank">Lionbrand Yarn</a> has the free downloadable pattern, you just have to sign up for an account to get it.</p>
+<p><img class="alignnone size-full wp-image-1537" title="booties1" src="http://evie-s.com/news/wp-content/uploads/2010/05/booties1.jpg" alt="" width="571" height="678" /></p>
+<p>Aren&#8217;t they cute? After knitting up the pattern, I used some vintage lace to create some bows and sewed them on the front. Then I hot glued a little rhinestone center in the middle. Now they just need some pudgy baby feet to go in them!</p>
+<p><img class="alignnone size-full wp-image-1538" title="booties2" src="http://evie-s.com/news/wp-content/uploads/2010/05/booties2.jpg" alt="" width="571" height="428" /></p>
+<p>Are you expecting or know someone who is? I have 4 weeks to go in my pregnancy. Things are going great, I just wish I could speed it along a little!</p>
+<p>Happy Friday folks!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1532" class="post-1532 post type-post status-publish format-standard hentry category-diy category-fashion tag-diy tag-handmade tag-sewing tag-tote">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/11/almost-instant-gratification-creation/" rel="bookmark" title="Permalink to {Almost} Instant Gratification Creation">{Almost} Instant Gratification Creation</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 11, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/11/almost-instant-gratification-creation/#comments">14 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Do you ever have one of those days that you need to do something creative, and you need to do it NOW and FAST? I had one of those days yesterday, so I scoured my bookmarks for a quick DIY to inspire me and I came across <a href="http://www.purlbee.com/the-twenty-minute-tote/" target="_blank">this 20 minute tote tutorial</a>.</p>
+<p><img class="alignnone size-full wp-image-1534" title="20minutebag" src="http://evie-s.com/news/wp-content/uploads/2010/05/20minutebag.jpg" alt="" width="571" height="761" /></p>
+<p>This is absolutely one of my favorite vintage fabrics in my stash and I&#8217;m happy I finally used it for something I can enjoy regularly. I sometimes have this thing about using my most lovely fabric&#8230;I don&#8217;t want to cut it up. But that sure doesn&#8217;t make any sense. After all, I can&#8217;t enjoy it much when it&#8217;s folded on my shelf gathering dust!</p>
+<p><img class="alignnone size-full wp-image-1533" title="20minutebag2" src="http://evie-s.com/news/wp-content/uploads/2010/05/20minutebag2.jpg" alt="" width="571" height="480" /></p>
+<p>My favorite thing was adding a few embellishments. A couple fabric flowers topped with vintage buttons, and a handmade bow made of velvet ribbon.</p>
+<p>So, do you have any quick creative projects you love doing to get out the crafty itch? I&#8217;d love to hear!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1525" class="post-1525 post type-post status-publish format-standard hentry category-diy tag-diy tag-pillows tag-ric-rac tag-spring">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/10/diy-spring-inspired-ric-rac-pillow/" rel="bookmark" title="Permalink to DIY Spring Inspired Ric-Rac Pillow">DIY Spring Inspired Ric-Rac Pillow</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 10, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/10/diy-spring-inspired-ric-rac-pillow/#comments">2 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I hope you all had a wonderful Mother&#8217;s Day! I spent mine relaxing and spending time with my little family. My big treat&#8230;an hour and a half, uninterrupted, blissful nap. How did you spend yours?</p>
+<p>Just in case you missed <a href="http://twitter.com/evies/status/13500387204" target="_blank">my tweet</a> last week, I did a little <a href="http://ohhellofriend.blogspot.com/2010/05/guest-blogger-evie-from-evie-s.html" target="_blank">guest blog on oh hello friend</a> and I wanted to share it with you! It&#8217;s a super cute DIY on how to make your own springy ric-rac pillows. If you want to make your own, you can <a href="http://ohhellofriend.blogspot.com/2010/05/guest-blogger-evie-from-evie-s.html" target="_blank">read the full tutorial here</a>.</p>
+<p><img class="alignnone size-full wp-image-1526" title="pillows" src="http://evie-s.com/news/wp-content/uploads/2010/05/pillows.jpg" alt="" width="571" height="378" /></p>
+<p>They are sooo easy and a great way to use up some ric-rac you have lying around that you may not know what to do with. Let me know if you try it out! I&#8217;d love to hear about or see your results.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1504" class="post-1504 post type-post status-publish format-standard hentry category-interviews category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/07/creative-mom-interview-ashley-bugg/" rel="bookmark" title="Permalink to Creative Mom Interview: Ashley Bugg">Creative Mom Interview: Ashley Bugg</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 7, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/07/creative-mom-interview-ashley-bugg/#comments">7 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Our last interview in the series is with <a href="http://www.buggphotographer.com" target="_blank">Ashley Bugg</a>, a beautiful mom and talented photographer who also has an <a href="http://www.etsy.com/shop/apcollective" target="_blank">etsy shop</a> filled with hand crafted goods that I just LOVE! I hope you all have enjoyed this series and learned a few things from these amazing women. Happy Mother&#8217;s Day!</p>
+<p><img class="alignnone size-full wp-image-1507" title="ashley1" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley1.jpg" alt="" width="571" height="155" /></p>
+<p><strong>1. First, tell us a little bit about yourself.</strong><br />
+I’m a wife of almost 8 years, a mother to 3, a daughter, sister, Auntie to 10 nieces and nephews and totally blessed by amazing friends. I married my High School sweetheart and not a day goes by that my heart doesn’t get all a flutter for him…I often have a hard time wrapping my head around the fact that I actually get to live out my dream with my husband, Jon, with our full time photography business. Something that I thought was such a distant and far away dream has become so real, so quickly.</p>
+<p><img title="ashley6" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley6.jpg" alt="" width="571" height="190" /></p>
+<h5>Photographs by Ashley</h5>
+<p>Jon and I also serve in our church together in the Jr. High ministry and I run the main service creative production meetings, with Jon an active member of that team. I love that we are able to be creative together and I’m so thankful for the way that God blessed me with a man that is willing to lead us, especially when it involves us being creative and brainstorming crazy ideas and new concepts together. Jon lets me dream big, but keeps me grounded. I stretch myself far too thin. But I can’t bear to give up any aspect of our busy-ness. I love to make things, am totally energized by others and love when I can help others tap into their creativity – especially when they think they don’t have it. I love, LOVE a good cookie, hold my breath during underwater scenes in movies, am dying to start my own garden, and totally heart thrifting and yard sales. (much thanks to my grandparents for taking me out almost every Saturday morning when I was little..)</p>
+<p><img class="alignnone size-full wp-image-1508" title="ashley2" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley2.jpg" alt="" width="571" height="426" /></p>
+<h5><a href="http://www.etsy.com/listing/39163299/small-black-purse-with-bw-plaid-fabric" target="_blank">Black Purse with Picnic Blooms</a> // <a href="http://www.etsy.com/listing/39172323/romantic-eclectic-flower-necklace-by" target="_blank">Romantic Eclectic Flower Necklace</a></h5>
+<p><strong>2. What keeps you inspired and motivated to create while still being a mom?</strong><br />
+The fact that Jon is so crazy supportive of all my crazy dreams is what keeps me the most inspired. Making things for other people and seeing the joy they get from a handmade gift brings me crazy amounts of joy. When people tell me that they can “feel” then emotion in the images I take makes my heart sing. Those little things keep me going and help me feel motivated to create.</p>
+<p><img class="alignnone size-full wp-image-1509" title="ashley8" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley8.jpg" alt="" width="571" height="272" /></p>
+<p><strong><br />
+3. You are married with 3 lovely children, a <a href="http://www.etsy.com/shop/apcollective" target="_blank">lovely etsy shop</a>, <a href="http://buggphotographer.typepad.com" target="_blank">a blog</a>, AND a <a href="http://www.buggphotographer.com/" target="_blank">photography<br />
+business</a>. How in the world do you do it all?</strong><br />
+I’m kind of not sure. I’m constantly striving for balance and would love to say that I have it all together, but most often something has to give. Some weeks I get behind on emails. Others I sit on a project for months simply because I don’t have the time to do it. I always strive to put my family first, but unfortunately sometimes even they have to take a brief, back seat if I have a pressing deadline. But again, I’m blessed with an insanely supportive husband and three great kids that get what we do and what it takes to get it done.</p>
+<p><img class="alignnone size-full wp-image-1510" title="ashley3" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley3.jpg" alt="" width="571" height="424" /></p>
+<h5>Photographs by Ashley</h5>
+<p><strong>4. How are you incorporating creativity into everyday life with your kids?</strong><br />
+This is something that I’m working on being more intentional about. I just bought Amanda Blake Soule’s “The Creative Family” and “The Handmade Home” and am totally stoked to incorporate some of her principles and ideas into our family. Right now I simply encourage them to be creative and develop their own styles. Sometimes that comes in form of painting or drawing; sometimes simply in the way they dress. We help them set goals – we have started helping them write Birthday Lists (ie: 8 things to do before I turn 9) to help them learn to be intentional with what they want to do and make small, attainable goals that help them learn the gratification that comes from completing something they set out to do. Something that came from their hearts.</p>
+<p><img class="alignnone size-full wp-image-1511" title="ashley4" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley4.jpg" alt="" width="571" height="426" /></p>
+<h5><a href="http://buggphotographer.typepad.com/my_weblog/2009/09/relax.html" target="_blank">Painting Teepees</a></h5>
+<p><strong>5. Any advice for young moms who want to pursue what they love while raising kids?</strong><br />
+Try to get your husband on board. Ask him to be involved – I’ve found that if Jon is emotionally invested in a project, he is far more energized about it, even if that means that I don’t touch laundry for two months and he has to pick up that slack. Let your kids help you with little tasks like packaging, sorting, and even seeking their opinion when you need one other than your own. Our kids love to feel like they’re a part of our business and you would be amazed at how they light up when I take the advice they gave (“Which picture do you think is better, this one or this one?” “Do you like this color combo?” Should I use lace or ribbon here?”). Even something as simple as which color button to use on a project helps them to feel involved and important, which in turn helps them to be supportive and understanding when I have a deadline that I have to meet…</p>
+<p><img class="alignnone size-full wp-image-1512" title="ashley5" src="http://evie-s.com/news/wp-content/uploads/2010/05/ashley5.jpg" alt="" width="571" height="205" /></p>
+<h5>Photographs by Ashley</h5>
+<p><strong>6. What are your mother&#8217;s day wishes?</strong><br />
+Really, to just spend the weekend with the family is what my heart is craving. I have discovered that I have to be super intentional about “scheduling” in family time. I know it sounds kind of horrible, but it helps me to see the balance when it’s written in my calendar. And then there’s always the occasional, impromptu two hour lunch break that helps me feel rejuvenated and balanced. I know it sounds totally cheesy, but really, I have every Mother’s Day wish I could ever want. I’m blessed with an amazing husband and three fabulous children. My life feels so complete. As for a frivolous wish, I’m really itching for a great pair of slouchy cowgirl boots. Oh, and brown gladiators. Yes. That would be lovely.</p>
+<p><strong>CREATIVE MOM INTERVIEWS FROM THIS SERIES:</strong></p>
+<p><a href="http://evie-s.com/news/2010/05/03/creative-mom-interview-arian-armstrong/">Arian Armstrong</a><br />
+<a href="http://evie-s.com/news/2010/05/04/creative-mom-interview-ashley-ann/">Ashley Ann</a><br />
+<a href="http://evie-s.com/news/2010/05/05/creative-mom-interview-mandy-steward/">Mandy Steward</a><br />
+<a href="http://evie-s.com/news/2010/05/06/creative-mom-interview-rachel-denbow">Rachel Denbow</a></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1490" class="post-1490 post type-post status-publish format-standard hentry category-interviews category-motherhood tag-creative-mom tag-interview tag-mothers-day tag-rachel-denbow">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/06/creative-mom-interview-rachel-denbow/" rel="bookmark" title="Permalink to Creative Mom Interview: Rachel Denbow">Creative Mom Interview: Rachel Denbow</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 6, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/06/creative-mom-interview-rachel-denbow/#comments">12 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Are you all enjoying this series of interviews? I know I am! Next is <a href="http://www.racheldenbow.com" target="_blank">Rachel Denbow</a>, an artist mama I&#8217;ve admired for quite some time now. Just one look at her beautiful blog and you&#8217;ll see what an achiever she is! I love learning from people who have their priorities right, and manage to create beautiful surroundings at the same time. Enjoy!</p>
+<p><img class="alignnone size-full wp-image-1492" title="rachel1" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel1.jpg" alt="" width="571" height="155" /></p>
+<p><strong>1. First, tell us a little bit about yourself.</strong><br />
+My little family lives in the middle of the country in a crooked old house in a quiet little city.  I work from home teaching online art journal and craft classes with my best friend and try to make fun messes with my two kids, Sebastian and Ruby.  When I&#8217;m not entertaining the children I can be found perusing various flea markets in town or trying to drop some baby weight at the downtown YMCA!  I love road trips, fabric, chap stick, soy  milk, and pretty flats.</p>
+<p><img class="alignnone size-full wp-image-1494" title="rachel2" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel2.jpg" alt="" width="571" height="259" /></p>
+<h5><a href="http://www.redvelvetart.com/children/rachel-arrow-baby-rattle-blue" target="_blank">Shot Through The Heart Baby Rattle</a> // <a href="http://www.redvelvetart.com/accessories/rachel-soft-spot-earrings" target="_blank">Crocheted Earrings</a></h5>
+<p><strong>2. What keeps you inspired and motivated to create while still being a mom?</strong><br />
+My sanity!  I&#8217;m sure most creative moms can attest to the need to make something often enough to feel themselves.  I&#8217;m often making something out of necessity but get inspiration on how to do it well or make it even more beautiful because of the work I&#8217;ve seen other moms share online.  The online crafting community has played a major role in my creative development and I&#8217;m so thankful it&#8217;s a part of my life!</p>
+<p><img class="alignnone size-full wp-image-1495" title="rachel3" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel3.jpg" alt="" width="571" height="400" /></p>
+<h5><a href="http://racheldenbow.blogspot.com/2010/04/these-days.html" target="_blank">Swinging</a> // <a href="http://www.flickr.com/photos/denbow/4408903265/" target="_blank">Sebastian and Ruby</a></h5>
+<p><strong>3. You are married with 2 lovely children, a beautiful home, <a href="http://www.racheldenbow.com" target="_blank">a fantastic blog</a>, AND a <a href="http://www.redvelvetart.com" target="_blank">thriving business</a>. How in the world do you do it all?<br />
+</strong>You&#8217;re sweet!  My husband is extremely supportive of my work online and due to his flexible schedule some days I&#8217;m able to organize my time so that he can take the kids and I can give all of my attention to a project.  Most of the time, however, I&#8217;m working late into the night or during nap times.  Most of my time is devoted to either my family or my work so if I&#8217;m keeping up with any TV shows it&#8217;s while I&#8217;m sewing or painting.  I don&#8217;t get the balance right half of the time so I try to overcompensate when I need to and always make sure my family knows they are most important.</p>
+<p><img class="alignnone size-full wp-image-1496" title="rachel4" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel4.jpg" alt="" width="571" height="434" /></p>
+<h5><a href="http://racheldenbow.blogspot.com/2010/03/what-came-home-with-me.html" target="_blank">Thrifted</a> // <a href="http://www.flickr.com/photos/denbow/4455579120/" target="_blank">In The Studio</a></h5>
+<p><strong>4. How are you incorporating creativity into everyday life with your kids?</strong><br />
+Our dining room is also my studio so there are always projects in progress.  Sebastian and I like to paint together but usually he ends up stacking paint tubes or bobbins while I work until he decides his trains are more fun.  I try to set up new projects for him on occasion and once I start working on it he&#8217;ll join me.  I have to work really hard not to micro manage his creativity or get too worked up over messes because he gets easily frustrated.  We&#8217;re learning how to enjoy it together!</p>
+<p><img class="alignnone size-full wp-image-1497" title="rachel5" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel5.jpg" alt="" width="571" height="333" /></p>
+<h5><a href="http://www.flickr.com/photos/denbow/4371363472/" target="_blank">Studio Time</a> // <a href="http://www.flickr.com/photos/denbow/4332757627/" target="_blank">Thumbprint Art</a></h5>
+<p><strong>5. Any advice for young moms that feel like they are struggling to fit in creativity into their new busy lives?</strong><br />
+I&#8217;ve heard people say you have to schedule in free time and I agree.  Sometimes, though, it&#8217;s hard to feel that time for ourselves to work on crafts or home projects isn&#8217;t valuable because it means our laundry might pile up or dishes have to wait.  The best thing is to remind yourself to give time to those things that refresh you because your family needs their best mama.</p>
+<p><img class="alignnone size-full wp-image-1498" title="rachel6" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel6.jpg" alt="" width="571" height="331" /></p>
+<h5><a href="http://racheldenbow.blogspot.com/2010/03/diy-onesie-to-dress-tutorial.html" target="_blank">Onesie to Dress Tutorial</a> // <a href="http://www.flickr.com/photos/denbow/4304368275/" target="_blank">Lollipop Barrette Tutorial</a></h5>
+<p><strong>6. What are your mother&#8217;s day wishes?</strong><br />
+I&#8217;ve already notified my husband that I&#8217;d like flowers and a pedicure.  I&#8217;m trying something traditional this year!</p>
+<p><img class="alignnone size-full wp-image-1499" title="rachel7" src="http://evie-s.com/news/wp-content/uploads/2010/05/rachel7.jpg" alt="" width="571" height="456" /></p>
+<h5><a href="http://racheldenbow.blogspot.com/2010/01/doily-pillow-tutorial.html" target="_blank">Doily Pillow Tutorial</a> // <a href="http://racheldenbow.blogspot.com/2010/01/on-display.html" target="_blank">Apron Collection</a></h5>
+<p><strong>CREATIVE MOM INTERVIEWS FROM THIS SERIES:</strong></p>
+<p><a href="http://evie-s.com/news/2010/05/03/creative-mom-interview-arian-armstrong/">Arian Armstrong</a><br />
+<a href="http://evie-s.com/news/2010/05/04/creative-mom-interview-ashley-ann/">Ashley Ann</a><br />
+<a href="http://evie-s.com/news/2010/05/05/creative-mom-interview-mandy-steward/">Mandy Steward</a></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1449" class="post-1449 post type-post status-publish format-standard hentry category-interviews category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/05/creative-mom-interview-mandy-steward/" rel="bookmark" title="Permalink to Creative Mom Interview: Mandy Steward">Creative Mom Interview: Mandy Steward</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 5, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/05/creative-mom-interview-mandy-steward/#comments">9 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Our next interview in the Creative Mom series is with <a href="http://www.messycanvas.com">Mandy Steward</a>, a wife, artist and mother I&#8217;ve been privileged to get to know personally this year. There is a lot of meat in this interview so grab some tea or coffee and hunker down for a great read!</p>
+<p><img class="alignnone size-full wp-image-1471" title="mandy1" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy1.jpg" alt="" width="571" height="155" /></p>
+<p><strong>1. First, tell us a little bit about yourself.</strong><br />
+My name is Mandy Steward and I am 31 years old. I feel younger than I did in my 20&#8242;s, as far as energy and a directed passion goes, and that excites me. I have been married to my perfect-match of a husband (and I don&#8217;t say that lightly), Tony, for 10 years this summer and we have 4 kids who are 6 and under who learn with us as we do life together. I&#8217;m also an artist, and I struggled for years to call myself that. Luckily that part of my struggle is over, but I seem to unleash new struggles daily. I&#8217;m a constant learner and a passionate philosopher. I can&#8217;t help myself.</p>
+<p><img class="alignnone size-full wp-image-1474" title="mandy1a" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy1a.jpg" alt="" width="571" height="265" /></p>
+<h5><a href="http://www.messycanvas.com/2009/12/handmade-gift-for-the-girls/" target="_blank">Handmade  Gift for the Girls</a> // <a href="http://www.messycanvas.com/2010/01/i-just-love-making/" target="_blank">Coffee  Cozies</a></h5>
+<p><strong>2. What keeps you inspired and motivated to create while still being a mom?</strong><br />
+I&#8217;ve never had much of a problem with motivation. I have this insatiable urge to create, and if I&#8217;m not creating in some capacity I feel empty. I refuse to feel empty, and so that is my natural motivator. As for inspiration, when I&#8217;m in my zone, it comes to me from everywhere. Conversations, books, things my kids do, the colorful world around me, the way the sun falls across my living room floor and paints a unique pattern. When I&#8217;m not in my zone, inspiration seems to run from me or at very best, taunt me. Things that might usually inspire me only seem to make me jealous. Usually this is when I&#8217;m trying to mimic some other artist instead of being myself.</p>
+<p><img class="alignnone size-full wp-image-1475" title="mandy2" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy2.jpg" alt="" width="571" height="195" /></p>
+<h5><a href="http://www.messycanvas.com/2009/06/we-played-dress-up/" target="_blank">Dress Up</a> // <a href="http://www.messycanvas.com/2009/07/weve-been-creating/" target="_blank">Flower  Hair Accessories</a></h5>
+<p><strong>3. I love your post on <a href="http://www.messycanvas.com/2010/03/finding-beauty-in-the-unlovely/" target="_blank">finding beauty in the unlovely</a>, even a messy house. What other ways do find beauty and joy while fulfilling your role as a mom?</strong><br />
+I believe in a God that loves beauty and created it so that we could experience joy. I believe at all times there is beauty around us to be discovered, that there is joy in the midst of every situation. That being said, it can be extremely difficult to see this beauty around me. My joy is easily robbed. My eyes become focused on the ugly things and I begin to think that&#8217;s all that can be found. The simplest things can blind us to beauty. A dirty living room, a messy kitchen, a house plundered by kids with endless energy to pull things out and a lazy will when it comes to putting things away, a husband that has to work a lot and is drained when he comes home, a car that won&#8217;t start, a runny nose that won&#8217;t stop, a roof that leaks, a bank account that won&#8217;t stay full and a house in constant need of repair. Given the opportunity we can fixate on the ugly.</p>
+<p><img class="alignnone size-full wp-image-1476" title="mandy3" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy3.jpg" alt="" width="571" height="307" /></p>
+<h5><a href="http://www.messycanvas.com/2009/04/celebrating-a-perfectly-imperfect-birthday/" target="_blank">Rock  crayons</a> // <a href="http://www.messycanvas.com/2009/03/thrifting-fabric-re-purposed/" target="_blank">Tea  Towels</a></h5>
+<p>When my mind, or my children&#8217;s minds start to fixate on the ugly and start harboring a spirit of joylessness, I try to remember to put on my artist&#8217;s eyes. As artist&#8217;s we have the unique ability to see things differently, to take a situation and apply creativity to it, and to transform it into something new. I try to find beauty in what I am given. I can&#8217;t always instantly change my circumstances, but I am in control of my reaction to them. I distract myself from the ugly, or I find how even it holds beauty. I fixate on the things that are lovely, pure, full of truth. The bigger things that bring me joy. I don&#8217;t have an easy, tangible solution as to how to do this, but I do believe it&#8217;s something that takes a lot of practice, so I&#8217;m practicing, a lot! My life gives me plenty of chances.</p>
+<p><img class="alignnone size-full wp-image-1477" title="mandy4" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy4.jpg" alt="" width="571" height="180" /></p>
+<p><strong>4. How are you incorporating creativity into everyday life with your kids?</strong><br />
+The question is a good one, but I think the better question is how am I withholding creativity from my kids? Children are naturally creative. More often than not our most creative days are the ones where I follow after them and give them space to imagine, invent and explore. This is not to say I neglect my responsibilities as keeper of our home or guardian of their lives. It just means I&#8217;m willing to be flexible to fit those responsibilities around their big adventures. I&#8217;m horrible at forced creativity. It never seems to work for us. My attempts at any sort of planned event only seem to withhold creative moments from us. I think it&#8217;s because when I plan I expect things to unfold in a very particular, perfect manner, and then I get frustrated when my kids don&#8217;t follow my plan. I&#8217;ve found that as I follow their creative urges to play with crayons or to climb a tree or to read a book together or to build with blocks, I often feel myself come to life within those moments. I know it&#8217;s been a good day when we all have totally lost track of time, so lost are we in our creative play.</p>
+<p><img class="alignnone size-full wp-image-1478" title="mandy6" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy6.jpg" alt="" width="571" height="400" /></p>
+<h5>The Youngest // <a href="http://www.messycanvas.com/2009/10/adding-to-the-already-made/" target="_blank">Embellished  Apron</a></h5>
+<p><strong>5. You&#8217;ve <a href="http://www.messycanvas.com/2010/01/i-just-love-making/" target="_blank">written on your blog</a> that you have an &#8220;insatiable urge to create.&#8221; How did you satisfy that urge when you became a mother? And did you ever feel guilty for taking the time to create?</strong><br />
+My closest artist friends will tell you that I am invariably chasing down the answers to these questions. I certainly do not have it all figured out. I&#8217;ve lived on both far extremes. I&#8217;ve sunk everything I have into my art: working from home, working part-time outside of the home, staying up way too late and setting my kids in front of the television for countless hours so I could conquer some big looming artistic deadline. I learned much from this time in my life, but I wasn&#8217;t fulfilled. I always felt guilty for not investing in my children like I knew I could be.</p>
+<p><img class="alignnone size-full wp-image-1479" title="mandy5" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy5.jpg" alt="" width="571" height="209" /></p>
+<h5><a href="http://www.messycanvas.com/2009/03/watercolors-and-ish/" target="_blank">Watercolors</a></h5>
+<p>Coming off that lifestyle I swung to opposite extreme, giving up all personal artistic pursuits and using everything for my kids. I was so surprised to find emptiness here as well. How could this be? I thought giving up my art was a sacrifice that God would honor and thus give me the joy I was so longing for. Not so. Instead I felt like I was losing a piece of myself. I was moody, irritable that I was defined only by what I could give my children. Yes, we were being creative together, but I didn&#8217;t feel like I had anything to call my own. I was a full-time Mom, but I was not joyful to be around. I was drained.</p>
+<p><img class="alignnone size-full wp-image-1480" title="mandy7" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy7.jpg" alt="" width="571" height="247" /></p>
+<h5><a href="http://www.messycanvas.com/2009/08/up-up-and-away/" target="_blank">Up, Up and  Away</a> // <a href="http://www.messycanvas.com/2009/11/the-birthday-celebration/" target="_blank">ABC  painting</a></h5>
+<p>That brings me to where I am attempting to live now. I&#8217;m searching for that balance between mama and artist. I think when we are living out of both roles healthily the two can actually bleed into and support each other. I have narrowed down what I want my personal artistic energies to be used for (writing), and I have narrowed down the excess fluff in my life to make the best use of my time, both as a mom and as an artist. As a family we have cut out lots of extra stuff in our lives, so that we have time to clearly and simply go after our creative goals. I have orchestrated my schedule so that I can write and read during periods of time that my kids don&#8217;t need me. I have learned to ask my husband for personal time, so that I can have a chance to get away from home and get filled back up. I have found that making time for my art and taking my artistic pursuits seriously leaves me with a deep joy that helps me to be a better mom. And I have found that loving on my kids and partnering with them as they learn to fall in love with learning, has added a richness to my life that feeds into my art. Each day I find new challenges, but I&#8217;m determined that the mother and the artist can live together peaceably.</p>
+<p><img class="alignnone size-full wp-image-1481" title="mandy8" src="http://evie-s.com/news/wp-content/uploads/2010/04/mandy8.jpg" alt="" width="571" height="199" /></p>
+<h5><a href="http://www.messycanvas.com/2010/01/i-just-love-making/" target="_blank">Handmade Purse</a> // <a href="http://www.messycanvas.com/2010/04/imperfect-art-journaling/" target="_blank">Art Journaling</a></h5>
+<p><strong>6. What are your mother&#8217;s day wishes?</strong><br />
+I&#8217;m not sure by Mother&#8217;s Day wishes if you mean wishes for myself for others. Regardless, my wish would be contentment. That we as mom&#8217;s would be able to find contentment in whatever season we are in. Contentment as a mom, contentment as an artist. Contentment in the journey of trying to make those two words collide. Contentment in the journey, as we change and make mistakes and grow more and more into who God is calling us to be. Our hearts are planted with rich dreams and passions, I hope that we will be content as mother&#8217;s to be specifically who God created us to be, rather than spending our time wishing we were like her or her or her. What we each have inside us is enough. Contentment is my wish.</p>
+<p><a href="http://www.messycanvas.com/2009/07/weve-been-creating/" target="_blank"></a></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1445" class="post-1445 post type-post status-publish format-standard hentry category-interviews category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/04/creative-mom-interview-ashley-ann/" rel="bookmark" title="Permalink to Creative Mom Interview: Ashley Ann">Creative Mom Interview: Ashley Ann</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 4, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/04/creative-mom-interview-ashley-ann/#comments">20 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Our next interview is with one of the sweetest ladies I&#8217;ve come across online, <a href="http://ashleyannphotography.com/blog" target="_blank">Ashley Ann</a>, with a wonderful family and heart for others. I love all her DIY projects and the creative activities she does with her kids. I hope you enjoy this interview as much as I did!</p>
+<p><img class="alignnone size-full wp-image-1450" title="ashley1" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley1.jpg" alt="" width="571" height="155" /></p>
+<p><strong>1. First, tell us a little bit about yourself.</strong><br />
+This is always such a hard thing to write about. Really, where do you start in telling about yourself? The short version is I am married to my best friend and I am relishing life as a mom to four amazing kids (boys 2, 4, 6 and a 10 month old girl). I spend my days buried in Legos, dirt and Mod Podge. I write a blog&#8230;it used to be a place to give my photography clients sneak peeks of their sessions&#8230;.now it is something totally different. I was created to live on a tropical island, but somehow ended up in Oklahoma. I am passionate about raising my kids to celebrate how unique God made each of them and how that uniqueness can impact their world. I wish Mac would create a way that I could sit outside in the sun sipping sweet tea and still be able to clearly see my laptop screen.</p>
+<p><img class="alignnone size-full wp-image-1451" title="ashley2" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley2.jpg" alt="" width="571" height="443" /></p>
+<h5><a href="http://ashleyannphotography.com/blog/2009/06/04/diy-ruffle-butt-onesies-pillow/" target="_blank">DIY  Ruffle Pillow</a> // <a href="http://ashleyannphotography.com/blog/2009/06/30/entering-the-girl-world-the-nursery/" target="_blank">The  Girl Nursery</a></h5>
+<p><strong>2. What keeps you inspired and motivated to create while still being a mom?</strong><br />
+If I don&#8217;t carve out time to create then I can&#8217;t be the mom that I want to be. Creating, whether it is a 5 minute project or a 5 day project, is essential for me to be able to manage all the demands of life as a mom to little ones. When I go through stretches of time where I am unable to create I find myself grumpy and not truly enjoying my days with the kids. I find inspiration around just about every corner. A trip to my favorite flea market, my daughter&#8217;s wrinkled nose smile, the way the sun rises over my garden, and the way the boys line up Lego men on the windowsill. I think the most inspiring things in life are often the most overlooked day to day things. Photography, looking through my camera, keeps me inspired by helping me notice the beauty in the mundane.</p>
+<p><img class="alignnone size-full wp-image-1453" title="ashley3" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley3.jpg" alt="" width="571" height="381" /></p>
+<p><strong>3. OK, so you are married with 4 lovely children, a beautiful home, a fantastic blog, AND a photography business. And you still fit in time to be creative. How in the world do you do it all?</strong><br />
+Well let&#8217;s see, as I write there is a load of laundry on the chair next to me, the bed hasn&#8217;t been made and I haven&#8217;t finished cleaning up from breakfast! On a serious note, I truly believe you make time for the priorities in your life. A little over a year ago I actually &#8216;quit&#8217; the portrait side of my photography business. I had reached a point where I was trying to &#8216;do it all&#8217; and everything was suffering. Each day I felt like I was surviving my life instead of enjoying and living it. Most days I was sinking and I knew something had to go. I now teach photography workshops once month and do occasional tips on my blog, but that is basically all in regards to a photography business. At home, the tv is rarely on and we spend a lot of time just the 6 of us.</p>
+<p><img class="alignnone size-full wp-image-1452" title="ashley1a" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley1a.jpg" alt="" width="571" height="381" /></p>
+<h5><a href="http://imagovitaphotography.com/" target="_blank">Photo by Imago Vita</a></h5>
+<p>Daily tasks (like laundry and cleaning) I try to do early in the morning to get them over with. I have daily goals I want to get done (like writing a blog post) and weekly goals (like digging up a new flowerbed). If I keep my goals in front of me it helps me be a better steward of my time. I try to incorporate the kids into the creative things I want to do. If I am outside working in the garden they are usually digging next to me. If I am crafting in the kitchen they are usually drawing or crafting next to me. However, at the end of the day it isn&#8217;t checking off my &#8216;to do&#8217; list that makes it a good day. If I can go to bed knowing that I truly connected with each of my kids (not that I was just physically near them) then I count that day as a success.</p>
+<p><img class="alignnone size-full wp-image-1460" title="ashley7" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley7.jpg" alt="" width="571" height="325" /></p>
+<h5><a href="http://ashleyannphotography.com/blog/2010/01/13/diy-paper-bird-painting/" target="_blank">DIY  paper bird painting</a></h5>
+<p><strong>4. How are you incorporating creativity into everyday life with your kids?</strong><br />
+I am constantly jotting down ideas of creative activities to do with the kids. For most of my creative projects I look for ways to let the kids be involved. For instance, when we built raised garden beds the older boys wanted to help. I made a template for them to use to mark all the screw holes. They learned a few lessons on measuring and were more excited to be a part of the whole gardening experience.</p>
+<p><img class="alignnone size-full wp-image-1456" title="ashley5" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley5.jpg" alt="" width="571" height="379" /></p>
+<h5><a href="http://ashleyannphotography.com/blog/2009/10/21/diy-leaf-alphabet/" target="_blank">leaf  alphabet</a></h5>
+<p>When I repaint a room I always have a few brushes for them to use to help (I end up painting over their area with the roller after they have moved on to something else). For just about every creative project there is a way to simplify it to make it more kid friendly&#8230;.I try to simplify a lot! By not defaulting to the tv or video games all the time I think it forces us to get out and try new ways to entertain ourselves and have fun. I think kids getting bored is a great way for creativity and imaginations to spark.</p>
+<p><img class="alignnone size-full wp-image-1455" title="ashley6" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley6.jpg" alt="" width="571" height="269" /></p>
+<h5><a href="http://ashleyannphotography.com/blog/2010/04/06/diy-shadow-box-vintage-kitchen-display/" target="_blank">DIY  shadow box vintage kitchen display</a> // <a href="http://ashleyannphotography.com/blog/2009/11/11/diy-flapper-flower-clip/" target="_blank">DIY  flapper flower clip</a></h5>
+<p><strong>5. Any advice for young moms that feel like they are struggling to fit in creativity into their new busy lives?</strong><br />
+My advice would be to look at creating as something to do together, not something that you have to have a few quiet moments alone to achieve. As a mom it is a rare occasion to get &#8216;alone time&#8217; for creating. If you keep waiting for that perfect quiet, peaceful time to come you can find yourself very frustrated. It might be a little messier and more time consuming to be creative with little ones, but the benefits can be a lot sweeter. And a Nintendo Wii for the kids can be your &#8216;every now and then&#8217; crafting best friend.</p>
+<p><img class="alignnone size-full wp-image-1457" title="ashley8" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley8.jpg" alt="" width="571" height="222" /></p>
+<h5><a href="http://ashleyannphotography.com/blog/2010/01/21/kids-craft-rainbow-hearts/" target="_blank">kid’s  craft rainbow hearts</a></h5>
+<p><strong>6. What are your mother&#8217;s day wishes?</strong><br />
+On Mother&#8217;s Day I am looking forward to escaping to a quiet remote field for a picnic with my family. As a Mother&#8217;s Day gift, I would love a day to myself for thrift stores, flea markets, a movie by myself, garage sales, and crafting. I could wish for my boys to love flea markets as much as they love Legos, but that is in the realm of impossible.</p>
+<p><img class="alignnone size-full wp-image-1458" title="ashley4" src="http://evie-s.com/news/wp-content/uploads/2010/04/ashley41.jpg" alt="" width="571" height="390" /></p>
+<h5><a href="http://ashleyannphotography.com/blog/2009/11/21/diy-scrap-paper-magnets/" target="_blank">DIY  Scrap paper magnets</a> // <a href="http://ashleyannphotography.com/blog/2009/11/21/diy-decoupage-scrap-paper-bowl/" target="_blank">DIY  decoupage scrap paper bowl</a></h5>
+<p><a href="http://ashleyannphotography.com/blog/2009/10/21/diy-leaf-alphabet/" target="_blank"><br />
+</a></p>
+<p><a href="http://ashleyannphotography.com/blog/2010/01/13/diy-paper-bird-painting/" target="_blank"><br />
+</a></p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-1407" class="post-1407 post type-post status-publish format-standard hentry category-interviews category-motherhood">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2010/05/03/creative-mom-interview-arian-armstrong/" rel="bookmark" title="Permalink to Creative Mom Interview: Arian Armstrong">Creative Mom Interview: Arian Armstrong</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		May 3, 2010,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2010/05/03/creative-mom-interview-arian-armstrong/#comments">11 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>In honor of Mother&#8217;s Day, I&#8217;ll be posting interviews with creative moms ALL WEEK LONG! I&#8217;m pleased to introduce a wonderful artist and mother as my first interviewee for the Creative Mom series, Arian Armstrong. <a href="http://www.etsy.com/shop/arian" target="_blank">Her work</a> is absolutely beautiful and inspiring, so enjoy!</p>
+<p><img class="alignnone size-full wp-image-1443" title="interview1" src="http://evie-s.com/news/wp-content/uploads/2010/04/interview11.jpg" alt="" width="571" height="155" /></p>
+<p><strong>1. First, tell us a little bit about yourself.</strong><br />
+I&#8217;m an artist/illustrator living the freelance life near Cincinnati with my designer/animator husband and 2 little boys. My degree is in theatrical set design and I worked in theatre for a few years. Then it hit me late one night as I stood high on a ladder with my 5-months-pregnant belly and my two-year-old was slaving away with a paint roller finishing the set of The Wizard of Oz that I needed a more mommy-friendly career change.  So I opened <a href="http://www.etsy.com/shop/arian" target="_blank">my Etsy shop</a> and started creating and selling my art.</p>
+<p><img class="alignnone size-full wp-image-1435" title="interview2" src="http://evie-s.com/news/wp-content/uploads/2010/04/interview2.jpg" alt="" width="571" height="382" /></p>
+<h5><a href="http://www.etsy.com/listing/35260271/rain-drops-print" target="_blank">Rain Drops print</a> // <a href="http://www.etsy.com/listing/35893525/balloon-man-print" target="_blank">Balloon Man print</a></h5>
+<p><strong>2. What keeps you inspired and motivated to create while still being a mom?</strong><br />
+Sanity! I&#8217;d go INSANE if I couldn&#8217;t create! Giving up art was just not an option for me.</p>
+<p><strong>3. I love your <a href="http://ariansstudio.blogspot.com/2010/03/learning-to-fly.html" target="_blank">post about experiencing freedom from fear</a>. How has fear affected your career and art pursuits in the past? How did you overcome?</strong><br />
+Fear is silly. I used to edit my art and my blogging way too much. I&#8217;d start to draw or write something that was on my heart and then stop because I was afraid that it wouldn&#8217;t be marketable enough.  I&#8217;d limit my art or my words to only the things that would have mass appeal. And I was desperate for affirmation&#8211;checking blog stats or Etsy hearts multiple times a day.</p>
+<p><img class="alignnone size-full wp-image-1436" title="interview3" src="http://evie-s.com/news/wp-content/uploads/2010/04/interview3.jpg" alt="" width="571" height="382" /></p>
+<p>I believe freedom from fear comes from a relationship with God. And He&#8217;s been fighting for my freedom like crazy, encouraging me to be the right-brained artist mom He created me to be.  THAT&#8217;S how I&#8217;ve overcome a lot of fear.  I&#8217;m less desperate for affirmation from other people so I&#8217;m less afraid to be daring, open, and Arian-like : )</p>
+<p><img class="alignnone size-full wp-image-1442" title="interview6" src="http://evie-s.com/news/wp-content/uploads/2010/04/interview6.jpg" alt="" width="571" height="367" /></p>
+<h5><a href="http://www.etsy.com/view_listing.php?listing_id=42789068" target="_blank">Be Loved Print</a> // <a href="http://www.etsy.com/view_listing.php?listing_id=45080214" target="_blank">Love Wins Print</a></h5>
+<p><strong>4. In <a href="http://ariansstudio.blogspot.com/2010/02/confessions-of-right-brained-artistmom.html" target="_blank">Confessions of a Right Brained Artist/Mom</a>, you give us a glimpse into some things that may not be perfect, but you are ok with. How does this freedom affect your art and motherhood?</strong><br />
+Oh my goodness, I&#8217;m a muuuch better mom and artist when I&#8217;m operating out of freedom instead of fear. Art-wise, I create what&#8217;s on my heart and then throw it out there without worrying about people&#8217;s reactions.  It&#8217;s amazing, though, how WELL people respond to openness and vulnerability.</p>
+<p><img class="alignnone size-full wp-image-1437" title="interview4" src="http://evie-s.com/news/wp-content/uploads/2010/04/interview4.jpg" alt="" width="571" height="144" /></p>
+<p>And with my kids, I just do my best on a day to day basis and reject worried thoughts when they come to mind. I have grace for myself and know that, on some days, &#8220;my best&#8221; looks pretty great, and on other days, &#8220;my best&#8221; looks like barely scraping by. And that&#8217;s totally fine!</p>
+<p><strong>5. Is there anything in particular that fuels your creativity as an artist?</strong><br />
+I&#8217;m fueled by the city and other people&#8217;s creativity and expression. If I&#8217;m stuck in a creative rut, I&#8217;ll grab the kids, my camera, a bag full of paper and art supplies, and the stroller and head out. We get drinks at one of our favorite coffee shops then browse through the cute kids&#8217; bookstore, the indie designer shop, the mom-and-pop art store, Urban Outfitters, or Anthropologie. When we come home, the boys are ready for naps and I&#8217;m ready to create!</p>
+<p><img class="alignnone size-full wp-image-1438" title="interview5" src="http://evie-s.com/news/wp-content/uploads/2010/04/interview5.jpg" alt="" width="571" height="382" /></p>
+<h5><a href="http://ariansstudio.blogspot.com/2010/02/this-old-house.html" target="_blank">This Old House</a></h5>
+<p><strong>6. What are your mother&#8217;s day wishes?</strong><br />
+Hmmm. Is it bad to want to be alone and quiet on Mothers&#8217; Day?! haha : )  My Mother&#8217;s Day wish is for even more joy and less worry in regards to art and motherhood. I&#8217;ve come a long way but I know I still have a ways to go. That, and an iced soy latte.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

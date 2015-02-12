@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Top 150 Makers Blog List</title>
+	<atom:link href="http://evie-s.com/news/top-150-makers-blog-list/feed/" rel="self" type="application/rss+xml" />
+	<link>http://evie-s.com/news</link>
+	<description></description>
+	<lastBuildDate>Thu, 16 Jan 2014 17:45:46 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
+	<item>
+		<title>By: About Pikaland: An art and illustration blog</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-13520</link>
+		<dc:creator>About Pikaland: An art and illustration blog</dc:creator>
+		<pubDate>Sat, 21 Dec 2013 03:35:25 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-13520</guid>
+		<description><![CDATA[[&#8230;] Twitter: Our favorites to follow. 10 best arty eye candy blogs 100 must see art blogs in every form 150 Best Makers Blogs Interview with Susan of Artesprit Blanket Magazine Kindred Share Some Candy contributor A curator [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Twitter: Our favorites to follow. 10 best arty eye candy blogs 100 must see art blogs in every form 150 Best Makers Blogs Interview with Susan of Artesprit Blanket Magazine Kindred Share Some Candy contributor A curator [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: DIY blog list &#171;</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-10716</link>
+		<dc:creator>DIY blog list &#171;</dc:creator>
+		<pubDate>Fri, 01 Jun 2012 14:41:17 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-10716</guid>
+		<description><![CDATA[[...] While I&#8217;ve been plugging away at my own DIY, I&#8217;ve been learning a lot from other veterans of the blogging and tutorial world. Check out evie-s.com and her awesome list of the top 150 blogs showcasing art, photography and DIY based on user traffic and other statistical data. If you&#8217;d like the Pinterest version, you can find it here: Evie-S.com Top 150 blog list. [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] While I&#8217;ve been plugging away at my own DIY, I&#8217;ve been learning a lot from other veterans of the blogging and tutorial world. Check out evie-s.com and her awesome list of the top 150 blogs showcasing art, photography and DIY based on user traffic and other statistical data. If you&#8217;d like the Pinterest version, you can find it here: Evie-S.com Top 150 blog list. [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Noted: Friday Link-fest &#124; Zoe Rooney</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-7940</link>
+		<dc:creator>Noted: Friday Link-fest &#124; Zoe Rooney</dc:creator>
+		<pubDate>Sat, 31 Mar 2012 22:41:57 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-7940</guid>
+		<description><![CDATA[[...] Top 150 Makers Blog List by Evie S [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Top 150 Makers Blog List by Evie S [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: The Weekend Changes &#124; Things Change</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-7766</link>
+		<dc:creator>The Weekend Changes &#124; Things Change</dc:creator>
+		<pubDate>Wed, 28 Mar 2012 20:08:04 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-7766</guid>
+		<description><![CDATA[[...] at least I wish I could hang out with them.)-I wish I had time to read all the blogs on this list…and yes, I wish I was on this list, or any [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] at least I wish I could hang out with them.)-I wish I had time to read all the blogs on this list…and yes, I wish I was on this list, or any [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Camille</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-7373</link>
+		<dc:creator>Camille</dc:creator>
+		<pubDate>Fri, 16 Mar 2012 15:46:45 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-7373</guid>
+		<description><![CDATA[That&#039;s a great work! Thanks for sharing this awesome list!]]></description>
+		<content:encoded><![CDATA[<p>That&#8217;s a great work! Thanks for sharing this awesome list!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Julia</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-5911</link>
+		<dc:creator>Julia</dc:creator>
+		<pubDate>Fri, 30 Dec 2011 15:51:28 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-5911</guid>
+		<description><![CDATA[this is the most thorough list I&#039;ve seen. thank you!]]></description>
+		<content:encoded><![CDATA[<p>this is the most thorough list I&#8217;ve seen. thank you!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Kokabella</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-5587</link>
+		<dc:creator>Kokabella</dc:creator>
+		<pubDate>Sat, 12 Nov 2011 14:47:33 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-5587</guid>
+		<description><![CDATA[Tried adding your badge but it didn&#039;t show up properly in my widget on the side bar! Will check back and try again soon. Would love to feature you with the badge on my blog. Keep up all the efforts!]]></description>
+		<content:encoded><![CDATA[<p>Tried adding your badge but it didn&#8217;t show up properly in my widget on the side bar! Will check back and try again soon. Would love to feature you with the badge on my blog. Keep up all the efforts!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: evie s.</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-5105</link>
+		<dc:creator>evie s.</dc:creator>
+		<pubDate>Wed, 21 Sep 2011 01:48:16 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-5105</guid>
+		<description><![CDATA[You are welcome!]]></description>
+		<content:encoded><![CDATA[<p>You are welcome!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Cynthia Schelzig</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-5059</link>
+		<dc:creator>Cynthia Schelzig</dc:creator>
+		<pubDate>Sun, 18 Sep 2011 15:38:23 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-5059</guid>
+		<description><![CDATA[Fabulous list...thanks,,,I will blog about it and link to it.]]></description>
+		<content:encoded><![CDATA[<p>Fabulous list&#8230;thanks,,,I will blog about it and link to it.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Vintage Renewal</title>
+		<link>http://evie-s.com/news/top-150-makers-blog-list/comment-page-1/#comment-5033</link>
+		<dc:creator>Vintage Renewal</dc:creator>
+		<pubDate>Wed, 14 Sep 2011 21:28:27 +0000</pubDate>
+		<guid isPermaLink="false">http://evie-s.com/news/?page_id=2122#comment-5033</guid>
+		<description><![CDATA[This is awesome!  Thank you so much for compiling it!]]></description>
+		<content:encoded><![CDATA[<p>This is awesome!  Thank you so much for compiling it!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

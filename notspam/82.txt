@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://blog.urlvoid.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blog.urlvoid.com/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>URLVoid Blog - Latest news about Internet threats</title>
+<meta name="robots" content="noodp,noydir"/>
+<meta name="description" content="Read information about recent Internet threats, such as browser exploits, spam links, malware."/>
+<link rel="canonical" href="http://blog.urlvoid.com/" />
+<link rel="next" href="http://blog.urlvoid.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="URLVoid Blog - Latest news about Internet threats" />
+<meta property="og:description" content="Read information about recent Internet threats, such as browser exploits, spam links, malware." />
+<meta property="og:url" content="http://blog.urlvoid.com/" />
+<meta property="og:site_name" content="URLVoid Blog" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="URLVoid Blog &raquo; Feed" href="http://blog.urlvoid.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="URLVoid Blog &raquo; Comments Feed" href="http://blog.urlvoid.com/comments/feed/" />
+<link rel='stylesheet' id='wp-syntax-css-css'  href='http://blog.urlvoid.com/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://blog.urlvoid.com/wp-content/themes/twentytwelve/style.css?ver=4.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://blog.urlvoid.com/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://blog.urlvoid.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://blog.urlvoid.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<meta name="generator" content="WordPress 4.0.1" />
+</head>
+
+<body class="home blog custom-font-enabled single-author">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://blog.urlvoid.com/" title="URLVoid Blog" rel="home">URLVoid Blog</a></h1>
+			<h2 class="site-description">Latest news about Internet threats</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li class="current_page_item"><a href="http://blog.urlvoid.com/">Home</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+		
+										
+	<article id="post-1333" class="post-1333 post type-post status-publish format-standard hentry category-security tag-detect-fake-sites tag-gstarshopengland tag-identify-fake-shops tag-identify-scam-website tag-scam-websites">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/" rel="bookmark">How to identify fake shopping websites</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/#respond" title="Comment on How to identify fake shopping websites"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>When you want to buy something on Internet, you generally search for cheap clothes, or cheap shoes, but that is not always the best way to find a trusted and legit shopping website. Many scam websites are located on the top pages on Google search engine when you search for a brand name followed by the word &#8220;cheap&#8221;, &#8220;cheapest&#8221; or &#8220;wholesale&#8221;.</p>
+<p>Fake shopping websites are similar to any other legit e-commerce website, with a good HTML template, with all the logos related to payments accepted, such as credit cards, paypal, etc and with logos related to (fake) trustworthiness certificates.</p>
+<p>Now I will tell you few ways to identify fake shopping sites, taking as example:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://gstarshopengland.com/ ---&gt; fake shopping website</pre></td></tr></table></div>
+
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-template.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-template.png" alt="fake-shopping-site-template" width="600" class="alignnone size-full wp-image-1334" /></a></p>
+<h3>1) Check the website with URLVoid</h3>
+<p>Before buy something from a website, I would recommend to always check the website with our free service <a href="http://www.urlvoid.com/" target="_blank">URLVoid</a>, so the website can be analyzed with multiple scanning engines to facilitate the detection of malicious and fraudulent websites.</p>
+<h3>2) Look at the prices, low prices are not always good</h3>
+<p>When you see too low prices, with discounts of 50%, 55% or even more, you should become a bit suspicious. The website may promote low prices to quickly sell the fake or inexistent items, before that their website become detected as fraudulent by security software and services.</p>
+<h3>3) Check the footer text and look for the company name</h3>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-footer.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-footer.png" alt="fake-shopping-site-footer" width="620" class="alignnone size-full wp-image-1338" /></a> </p>
+<p>From the footer you can read this text:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Copyright C 2005-2011 G Star jackets for men Sale Powered by www. gstarshopengland .com All Rights Reserved.</pre></td></tr></table></div>
+
+<p>Is the name &#8220;G Star jackets for men Sale Powered&#8221; a legit company name ? Of course it is not. There is no reference to a legit company name, an address or a contact information. Every legitimate and trusted website should always have the name of the company located in the footer near the copyright text, with at least the company&#8217;s address or the company&#8217;s VAT/IVA ID (if in EU).</p>
+<h3>4) Compare the copyright date with the domain creation date</h3>
+<p>The website states it was born in 2005 with the text &#8220;Copyright 2005-2011&#8243;, but if you do a <a href="http://www.toolsvoid.com/whois-lookup" target="_blank">whois lookup</a> on the domain name, you can clearly see that the website was created on 19 August 2013, only few months ago:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Updated Date: 19-aug-2013
+Creation Date: 19-aug-2013
+Expiration Date: 19-aug-2014</pre></td></tr></table></div>
+
+<h3>5) Avoid buying clothes from young websites</h3>
+<p>With a <a href="http://www.toolsvoid.com/whois-lookup" target="_blank">whois lookup</a>, make sure to always check the domain creation date, if the domain name was registered only few months ago, I would recommend you to not buy anything because there are not enough details to tell if the website is a legit website or a fraudulent website.</p>
+<h3>6) Check who is the owner of the website</h3>
+<p>From the whois data, you can see that the website was registered in Beijin (China):</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Registrar: BEIJING INNOVATIVE LINKAGE TECHNOLOGY LTD. DBA DNS.COM.CN</pre></td></tr></table></div>
+
+<p>The name servers are also Chinese (.CN):</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Name Server: NS13.DNS.COM.CN
+Name Server: NS14.DNS.COM.CN</pre></td></tr></table></div>
+
+<p>The organization name is also Chinese:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Organisation Name.... yanfang li
+Organisation Address. xiantaoshishahuzhenfenglecun1zu55hao
+Organisation Address.
+Organisation Address. Jingzhou
+Organisation Address. 433019
+Organisation Address. HB
+Organisation Address. CN</pre></td></tr></table></div>
+
+<p>The email and telephone number of the website owner are also Chinese:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Tech Email........... xiandailihao@163.com
+Tech Phone........... +86.7282640476
+Tech Fax............. +86.7282640476</pre></td></tr></table></div>
+
+<p>Personally, I would not buy G-Star clothes from a website that was registered in China, I would prefer to buy them from the official store or from other stores near the place where I live, so I can more easily make a telephone call to the owner or visit their shop directly in case of a problem.</p>
+<h3>7) Make sure the website has HTTPS support</h3>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-no-ssl.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-no-ssl.png" alt="fake-shopping-site-no-ssl" width="800" class="alignnone size-full wp-image-1339" /></a></p>
+<p>When you try to buy an item, if you go to the checkout, you can see that there is no secure connection HTTPS, every legitimate e-commerce website should have HTTPS support when the user is supposed to insert sensitive information or credit card details. I would never buy something from a website that has no HTTPS support.</p>
+<h3>8) Visit the about or contacts page to find valid contact information</h3>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-no-contacts.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/11/fake-shopping-site-no-contacts.png" alt="fake-shopping-site-no-contacts" width="800" class="alignnone size-full wp-image-1348" /></a></p>
+<p>As you can see from the above image, the website has no information about how to contact the shop, such as a telephone number, an email address, or the company&#8217;s address. I would never buy something from a shopping website that has only a contact form, I prefer to have a phone number, a valid email address and a valid company&#8217;s address to verify. Take in mind that most scam websites use public email addresses, such as @gmail.com, @yahoo.com, @163.com, @hotmail.com, etc. A legitimate website should use the website&#8217;s email address, for example info@website.com.</p>
+<h3>9) Analyze the domain name string</h3>
+<p>If you see a website that has the domain name similar to: buy-cheap-shoes.com, or buycheapshoes.com, or super-cheap-shoes.com, or jordanairmaxshop.com, or wholesalenikeshoes.com, gstarshoppingengland.com or similar, you should avoid buying something from there. A legit website, should not contain the brand name in the domain name and should not contain the word &#8220;cheap&#8221;, &#8220;cheapest&#8221;, &#8220;wholesale&#8221;, etc.</p>
+<h3>10) Make sure the English language is correct</h3>
+<p>Even if a legitimate website may contain grammar errors, some fake shopping sites may have a lot of grammar errors, so make sure to read few pages and check the language grammar, if you see too many errors, you may become a bit suspicious on the trustworthiness of the website.</p>
+<h3>11) Google is your friend to search information about a website</h3>
+<p>You can search on Google more information about a suspicious website, such as you can search the telephone number, the email address, the website owner name, the organization name, or simply search if other users had a bad experience with that website. You can also search the IP address on Google, to see if there are other useful information about that IP.</p>
+<h3>12) Analyze the websites hosted in the same IP address</h3>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/11/urlvoid-ip-address-websites.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/11/urlvoid-ip-address-websites.png" alt="urlvoid-ip-address-websites" width="644" class="alignnone size-full wp-image-1354" /></a></p>
+<p>If a website comes up as clean on <a href="http://www.urlvoid.com/" target="_blank">URLVoid</a>, you can always analyze if there are other websites hosted in the same IP address, that are malicious or detected by other scanning engines. URLVoid offer the possibility to see how many websites are hosted in an IP address, but you can also search on Google to see if another website has more information.</p>
+<h3>13) Analyze the website&#8217;s IP address with IPVoid</h3>
+<p>I would recommend to scan the IP address of the website with <a href="http://www.ipvoid.com/" target="_blank">IPVoid</a>, a free service used to better know if an IP address has been blacklisted by anti-spam services or if it has participated in illicit activities.</p>
+<p><small>This post may be updated with time, so keep an eye here.</small></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/security/" rel="category tag">Security</a> and tagged <a href="http://blog.urlvoid.com/tag/detect-fake-sites/" rel="tag">detect fake sites</a>, <a href="http://blog.urlvoid.com/tag/gstarshopengland/" rel="tag">gstarshopengland</a>, <a href="http://blog.urlvoid.com/tag/identify-fake-shops/" rel="tag">identify fake shops</a>, <a href="http://blog.urlvoid.com/tag/identify-scam-website/" rel="tag">identify scam website</a>, <a href="http://blog.urlvoid.com/tag/scam-websites/" rel="tag">scam websites</a> on <a href="http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/" title="4:08 pm" rel="bookmark"><time class="entry-date" datetime="2013-11-27T16:08:07+00:00">November 27, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1323" class="post-1323 post type-post status-publish format-standard hentry category-security tag-015e60d0ddff09d7df66d926d3793cc8 tag-invoicecm0v9orwjf23kx8pap-pdf-exe tag-ups-virus tag-ups-zbot">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/" rel="bookmark">Malware: UPS Delivery Notification Tracking Number</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/#respond" title="Comment on Malware: UPS Delivery Notification Tracking Number"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>We recently logged some emails with attached two suspicious files:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2013/10/ups-malware.png" alt="ups-malware" width="620" height="409" class="alignnone size-full wp-image-1324" /></p>
+<p>As you can see, the email has a subject and an address that may seem coming from the UPS, but in reality the email is a scam and it is used to spread as attachment a file named <strong>invoiceCM0V9ORWJF23KX8PAP.PDF.exe</strong>, that is the executable file of the (in)famous Zbot trojan, used by cybercriminals to monitor the PC of the victims and to steal bank data and other sensitive information.</p>
+<p>More information about the attached file:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">File: invoiceCM0V9ORWJF23KX8PAP.PDF.exe
+Size: 167.2 KB ( 171261 bytes )
+SHA256: 2695e33e671c4eee1e55ad534d9b33445a56b8ffeff50b7c63fa12f266de1088
+SHA1: 3c0e4f12faef99cc80f8a091a8210b34a2c7c9fb
+MD5: 015e60d0ddff09d7df66d926d3793cc8</pre></td></tr></table></div>
+
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/security/" rel="category tag">Security</a> and tagged <a href="http://blog.urlvoid.com/tag/015e60d0ddff09d7df66d926d3793cc8/" rel="tag">015e60d0ddff09d7df66d926d3793cc8</a>, <a href="http://blog.urlvoid.com/tag/invoicecm0v9orwjf23kx8pap-pdf-exe/" rel="tag">invoiceCM0V9ORWJF23KX8PAP.PDF.exe</a>, <a href="http://blog.urlvoid.com/tag/ups-virus/" rel="tag">UPS virus</a>, <a href="http://blog.urlvoid.com/tag/ups-zbot/" rel="tag">ups zbot</a> on <a href="http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/" title="11:21 pm" rel="bookmark"><time class="entry-date" datetime="2013-10-24T23:21:54+00:00">October 24, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1305" class="post-1305 post type-post status-publish format-standard hentry category-spam-2 tag-casino-spam tag-google-translate tag-pharma-spam tag-yolasite-spam">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/" rel="bookmark">Google Translate used by spammers to bypass Anti-Spam filters</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/#respond" title="Comment on Google Translate used by spammers to bypass Anti-Spam filters"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Google Translate is a free service created by Google that translates any web page, content or document from native language to a language specified by the user that is using the service. We have noticed that some spam messages contain links to websites that use the service Google Translate to translate their page content, but those links are used to promote fraudulent pharmaceutical products, and they seem to use Google Translate to masquerade the malicious website.</p>
+<p>In short, when you translate an URL with Google Translate, it appends the URL of the web page in the HTTP query string, but the initial domain name remains translate.googleusercontent.com, so the anti-spam filters may be bypassed because the URL of Google Translate is classified as legitimate.</p>
+<p>To get a better idea about what I am talking about, check this image:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/10/translate-google-used-for-spam.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/10/translate-google-used-for-spam.png" alt="translate-google-used-for-spam" width="626" height="243" class="alignnone size-full wp-image-1306" /></a></p>
+<p>We have extracted some URLs from the spam messages and they are all subdomains of yolasite(dot)com, they are used to promote selling of fake pharmaceutical products and subscriptions to fraudulent casino websites:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp:// myonlinestore1. yolasite.com/shop
+hxxp:// onlineshop63. yolasite.com/shop
+hxxp:// onlinecasino27. yolasite.com/casino2</pre></td></tr></table></div>
+
+<p>Never click on links that start with the domain “translate.googleusercontent.com”, because they may use Google Translate to translate a malicious website and exploit vulnerabilities in your web browser or other applications installed in your system (such as Adobe Flash, PDF Readers, Java) to infect your PC.</p>
+<p>If you want to translate a website, you should visit directly with your browser the website of Google Translate and type the URL that you want to translate. Avoid clicking on links related to Google Translate, present in emails or in other unknown websites.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/spam-2/" rel="category tag">Spam</a> and tagged <a href="http://blog.urlvoid.com/tag/casino-spam/" rel="tag">casino spam</a>, <a href="http://blog.urlvoid.com/tag/google-translate/" rel="tag">google translate</a>, <a href="http://blog.urlvoid.com/tag/pharma-spam/" rel="tag">pharma spam</a>, <a href="http://blog.urlvoid.com/tag/yolasite-spam/" rel="tag">yolasite spam</a> on <a href="http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/" title="11:57 am" rel="bookmark"><time class="entry-date" datetime="2013-10-04T11:57:05+00:00">October 4, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1281" class="post-1281 post type-post status-publish format-standard hentry category-phishing-2 tag-paypal tag-paypal-phishing">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/" rel="bookmark">Phishing: PayPal Notice of Policy Updates</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/#respond" title="Comment on Phishing: PayPal Notice of Policy Updates"><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Be aware, we have logged a lot of phishing emails that are targeting PayPal users on these days. The phishing email message looks like almost identical to the real PayPal message, but the link present in the message redirects the user to an URL shortener service.</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/09/pshishing-paypal-notice-of-policy-update.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/09/pshishing-paypal-notice-of-policy-update.png" alt="pshishing-paypal-notice-of-policy-update" width="638" height="403" class="alignnone size-full wp-image-1283" /></a></p>
+<p>The malicious link present in the email is:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://lnko.in/bhqr</pre></td></tr></table></div>
+
+<p>The user is redirected to these malicious links (in order):</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://107.6.59.96/recordings/misc/
+hxxp://107.6.59.96/recordings/misc/3d1e2032ae804fac6c085a5f6b7a8b3a/
+hxxp://107.6.59.96/recordings/misc/3d1e2032ae804fac6c085a5f6b7a8b3a/personal/
+hxxp://107.6.59.96/recordings/misc/3d1e2032ae804fac6c085a5f6b7a8b3a/personal/security/
+hxxp://107.6.59.96/recordings/misc/3d1e2032ae804fac6c085a5f6b7a8b3a/personal/security/95622de1bba96186ae6cc72e1d311c0c</pre></td></tr></table></div>
+
+<p>The HTML page of the last malicious link is encrypted:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/09/phishing-paypal-html-page-encrypted.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/09/phishing-paypal-html-page-encrypted.png" alt="phishing-paypal-html-page-encrypted" width="584" height="379" class="alignnone size-full wp-image-1284" /></a></p>
+<p>If the JavaScript is enabled in your browser, the HTML page loads correctly:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/09/phishing-paypal-final-url.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/09/phishing-paypal-final-url.png" alt="phishing-paypal-final-url" width="699" height="541" class="alignnone size-full wp-image-1285" /></a></p>
+<p>When the user enters the login details, the form sends the POST data to a script:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/09/phishing-paypal-post-fields.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/09/phishing-paypal-post-fields.png" alt="phishing-paypal-post-fields" width="678" height="242" class="alignnone size-full wp-image-1286" /></a></p>
+<p>The malicious script is named:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">paypal.php</pre></td></tr></table></div>
+
+<p>The script is used to collect the login details entered by the user.</p>
+<p>This kind of phishing attack can be easily detected because the user can quickly check the address bar of the web browser and notice that the website is not paypal.com (legit) but it is an IP address, plus there is no HTTPS secure connection, and in case the user has JavaScript disabled, the HTML page is blank.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/phishing-2/" rel="category tag">Phishing</a> and tagged <a href="http://blog.urlvoid.com/tag/paypal/" rel="tag">paypal</a>, <a href="http://blog.urlvoid.com/tag/paypal-phishing/" rel="tag">paypal phishing</a> on <a href="http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/" title="11:27 am" rel="bookmark"><time class="entry-date" datetime="2013-09-29T11:27:39+00:00">September 29, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1256" class="post-1256 post type-post status-publish format-standard hentry category-spam-2 tag-green-coffee-scam tag-green-coffee-spam tag-lose-weight-spam">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/" rel="bookmark">Spam: New Product to Lose up to 15 lbs.</a>
+			</h1>
+										<div class="comments-link">
+					<a href="http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/#respond" title="Comment on Spam: New Product to Lose up to 15 lbs."><span class="leave-reply">Leave a reply</span></a>				</div><!-- .comments-link -->
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>We noted an increase amount of email messages that promote a new product that should help people to lose weight. All the email messages we have captured, redirect users to .RU websites used to promote some king of green tea product used to lose weight, that is of course a scam.</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/email-image.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/email-image.png" alt="email-image" width="600" class="alignnone size-full wp-image-1258" /></a></p>
+<p>This is one of the malicious URLs extracted from the email message:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://nerabrop.ru/</pre></td></tr></table></div>
+
+<p>A screenshot of the homepage:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/green-tea-product-scam.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/green-tea-product-scam.png" alt="green-tea-product-scam" width="600" class="alignnone size-full wp-image-1259" /></a></p>
+<p>The links present in the website redirect the user to:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://nerabrop.ru/get.html</pre></td></tr></table></div>
+
+<p>The user is redirected to another malicious URL:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/malicious-urlspam.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/malicious-urlspam.png" alt="malicious-urlspam" width="600" class="alignnone size-full wp-image-1260" /></a></p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://184.107.166.107/~greencof/</pre></td></tr></table></div>
+
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/geen-coffee-scam-url2.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/geen-coffee-scam-url2.png" alt="geen-coffee-scam-url2" width="600" class="alignnone size-full wp-image-1261" /></a></p>
+<p>As you can see, the website asks you to fill a web form with your name, surname, address and other sensitive information. The data that is submitted in the form, is then sent to a new malicious URL that use HTTPS:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxps://www.wbsoffers.com/index.php?main_page=two_step_form_processor</pre></td></tr></table></div>
+
+<p>The website seems to be created few days ago, the homepage looks like this:</p>
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/green-tea-product-scam2-empty-site.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/green-tea-product-scam2-empty-site.png" alt="green-tea-product-scam2-empty-site" width="600" class="alignnone size-full wp-image-1262" /></a></p>
+<p>Most probably, the website is used to steal the data that is sent through the web form.</p>
+<p>A list of malicious URLs captured:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp://suprepuse.ru/?467180f36c66a1=ec2a783969663172f963f3
+hxxp://gurectert.ru/?072ee6cd259=39aed15d96aac07360448c56
+hxxp://hecktorshep.ru/?c414440270f=0b7436226103fb43a93aee9dcb811
+hxxp://hersperga.ru/?2732230b36ea=0a37d9834b494a999f85797
+hxxp://harloro.ru/?81686e766dfe1b53004=d4a87cc187ec881fef42bacc
+hxxp://ottertold.ru/?3b08cf59e59=b8d243ff2b21a8c3d402c069f83cfe
+hxxp://nerabrop.ru/?1aae4387163d36f2=4ed971b43a917c86c285
+hxxps://www.wbsoffers.com/index.php?main_page=two_step_form_processor
+hxxp://184.107.166.107/~greencof/
+hxxp://nerabrop.ru/get.html</pre></td></tr></table></div>
+
+<p>Scan reports generated by <a href="http://www.urlvoid.com/" title="URLVoid.com" target="_blank">URLVoid</a>:</p>
+<p><a href="http://www.urlvoid.com/scan/wbsoffers.com/" target="_blank">http://www.urlvoid.com/scan/wbsoffers.com/</a><br />
+<a href="http://www.urlvoid.com/scan/suprepuse.ru/" target="_blank">http://www.urlvoid.com/scan/suprepuse.ru/</a><br />
+<a href="http://www.urlvoid.com/scan/hecktorshep.ru/" target="_blank">http://www.urlvoid.com/scan/hecktorshep.ru/</a><br />
+<a href="http://www.urlvoid.com/scan/harloro.ru/" target="_blank">http://www.urlvoid.com/scan/harloro.ru/</a><br />
+<a href="http://www.urlvoid.com/scan/ottertold.ru/" target="_blank">http://www.urlvoid.com/scan/ottertold.ru/</a><br />
+<a href="http://www.urlvoid.com/scan/nerabrop.ru/" target="_blank">http://www.urlvoid.com/scan/nerabrop.ru/</a></p>
+<p>There are more than 18 malicious websites hosted in:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">193.106.28.144</pre></td></tr></table></div>
+
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/193-106-28-144-ip-address.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/193-106-28-144-ip-address.png" alt="193-106-28-144-ip-address" width="584" class="alignnone size-full wp-image-1276" /></a></p>
+<p>Source: <a href="http://www.urlvoid.com/ip/193.106.28.144/" target="_blank">http://www.urlvoid.com/ip/193.106.28.144/</a></p>
+<p>There are more than 50 malicious websites hosted in:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">111.121.193.200</pre></td></tr></table></div>
+
+<p><a href="http://blog.urlvoid.com/wp-content/uploads/2013/08/111-121-193-200-ip-address.png"><img src="http://blog.urlvoid.com/wp-content/uploads/2013/08/111-121-193-200-ip-address.png" alt="111-121-193-200-ip-address" width="584" class="alignnone size-full wp-image-1275" /></a></p>
+<p>Source: <a href="http://www.urlvoid.com/ip/111.121.193.200/" target="_blank">http://www.urlvoid.com/ip/111.121.193.200/</a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/spam-2/" rel="category tag">Spam</a> and tagged <a href="http://blog.urlvoid.com/tag/green-coffee-scam/" rel="tag">green coffee scam</a>, <a href="http://blog.urlvoid.com/tag/green-coffee-spam/" rel="tag">green coffee spam</a>, <a href="http://blog.urlvoid.com/tag/lose-weight-spam/" rel="tag">lose weight spam</a> on <a href="http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/" title="4:15 pm" rel="bookmark"><time class="entry-date" datetime="2013-08-15T16:15:28+00:00">August 15, 2013</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1184" class="post-1184 post type-post status-publish format-standard hentry category-security tag-exploit tag-exploit-kit tag-java-exploit">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1184/wordpress-how-to-videosdotcom-spreads-java-exploits/" rel="bookmark">WordPress-how-to-videos(dot)com Spreads Java Exploits</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>When we analyzed few Twitter followers in one of our websites, we noted that there was an user that was following us, see the image:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/09/exp2.png" alt="" title="exp2" width="550" class="alignnone size-full wp-image-1185" /></p>
+<p>We have analyzed the website (<font color="red">infected</font>):</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">www (dot) wordpress-how-to-videos (dot) com</pre></td></tr></table></div>
+
+<p>The website wordpress-how-to-videos(dot)com is hosted at BSE Software GmbH and its current IP address is 82.220.34.22 (330.hostserv.eu). The server machine is located in Switzerland (CH) and in the same server there are hosted other 0 websites. The domain is registered with the suffix COM and the keyword of the domain is wordpress-how-to-videos. The organization is hosttech GmbH.</p>
+<p>The above website is used to redirect users to a malicious URL that tries to exploit the user&#8217;s browser with a Java exploit, as you can see from this image:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/09/exp3.png" width="550" alt="Java Exploit" /></p>
+<p>The malicious redirect is activated only if the user browse the malicious website with a referer that contains the string of search engines, such as Google. Using the free service <a href="http://www.htmlsniffer.com/" title="View HTTP Request and Response Header | View HTML Source of Remote URL" target="_blank">HTML Sniffer</a> we can simulate the Google referer and we can see that we are redirected to the exploit URL:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/09/exp4.png" alt="" title="exp4" width="590" class="alignnone size-full wp-image-1188" /></p>
+<p>The exploit URL seems to be updated very frequently:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">garliccommercial .ru /pavilion?8
+midwaydance .ru /pavilion?8</pre></td></tr></table></div>
+
+<p>Both malicious URLs are hosted in this IP address:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">206.53.52 .13</pre></td></tr></table></div>
+
+<p>The Java exploit is loaded from another malicious URL:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/09/1.png" alt="" title="1" width="555" height="308" class="alignnone size-full wp-image-1189" /></p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">ypcbpukqt. lflinkup .com /PJeHubmUDaovPDRCJxGMEzlYXdvvppcg</pre></td></tr></table></div>
+
+<p>Pay attention when clicking on websites of your Twitter followers!</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/security/" rel="category tag">Security</a> and tagged <a href="http://blog.urlvoid.com/tag/exploit/" rel="tag">exploit</a>, <a href="http://blog.urlvoid.com/tag/exploit-kit/" rel="tag">exploit kit</a>, <a href="http://blog.urlvoid.com/tag/java-exploit/" rel="tag">java exploit</a> on <a href="http://blog.urlvoid.com/1184/wordpress-how-to-videosdotcom-spreads-java-exploits/" title="1:13 am" rel="bookmark"><time class="entry-date" datetime="2012-09-16T01:13:15+00:00">September 16, 2012</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1175" class="post-1175 post type-post status-publish format-standard hentry category-news tag-urlvoid-api">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1175/urlvoid-api-v2-0/" rel="bookmark">URLVoid API v2.0</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>URLVoid API is a free service (for non commercial use) that allow users to query our database of already analyzed domains and receive, in XML format, detailed details about each submitted domain. The URLVoid API supports multiple domains in one single query, so you can submit 250 domains and receive details of each domains in just few seconds. </p>
+<p>An example of XML output is this:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="xml" style="font-family:monospace;"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;?xml</span> <span style="color: #000066;">version</span>=<span style="color: #ff0000;">&quot;1.0&quot;</span> <span style="color: #000066;">encoding</span>=<span style="color: #ff0000;">&quot;UTF-8&quot;</span><span style="color: #000000; font-weight: bold;">?&gt;</span></span>
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;detected<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>
+	<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;details</span> <span style="color: #000066;">domain</span>=<span style="color: #ff0000;">&quot;google.com&quot;</span> <span style="color: #000066;">last_scan</span>=<span style="color: #ff0000;">&quot;1344104440&quot;</span> <span style="color: #000066;">detected</span>=<span style="color: #ff0000;">&quot;0&quot;</span> <span style="color: #000066;">lists_detected</span>=<span style="color: #ff0000;">&quot;&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span>
+	<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;details</span> <span style="color: #000066;">domain</span>=<span style="color: #ff0000;">&quot;xxxtoolbar.com&quot;</span> <span style="color: #000066;">last_scan</span>=<span style="color: #ff0000;">&quot;1344524302&quot;</span> <span style="color: #000066;">detected</span>=<span style="color: #ff0000;">&quot;10&quot;</span> <span style="color: #000066;">lists_detected</span>=<span style="color: #ff0000;">&quot;MyWOT,SCUMWARE,MalwareBlacklist,hpHosts,BrowserDefender,Malware Patrol ,DNS-BH,GoogleSafeBrowsing,SURBL,WebSecurityGuard&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span>
+	<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;details</span> <span style="color: #000066;">domain</span>=<span style="color: #ff0000;">&quot;ysweb.com&quot;</span> <span style="color: #000066;">last_scan</span>=<span style="color: #ff0000;">&quot;1343484791&quot;</span> <span style="color: #000066;">detected</span>=<span style="color: #ff0000;">&quot;0&quot;</span> <span style="color: #000066;">lists_detected</span>=<span style="color: #ff0000;">&quot;&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span>
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/detected<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></pre></td></tr></table></div>
+
+<p>As you can see, you receive useful info:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">domain=&quot;xxxtoolbar.com&quot;</pre></td></tr></table></div>
+
+<p>The name of the domain submitted.</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">last_scan=&quot;1344524302&quot;</pre></td></tr></table></div>
+
+<p>The date of the last available report.</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">detected=&quot;10&quot;</pre></td></tr></table></div>
+
+<p>The number of blacklist engines that have detected the domain.</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">lists_detected=&quot;MyWOT,SCUMWARE,MalwareBlacklist,hpHosts,BrowserDefender,Malware Patrol ,DNS-BH,GoogleSafeBrowsing,SURBL,WebSecurityGuard&quot;</pre></td></tr></table></div>
+
+<p>The name of each blacklist engines that have detected the domain.</p>
+<h2>How can I obtain an API key ?</h2>
+<p>The service needs a special key to being used and you can request your own API key by contacting us at info (at) novirusthanks (dot) org with the subject <u>Request for URLVoid API Key</u>, please include the following details:</p>
+<p>1) Your Name<br />
+2) Your Email<br />
+3) Your Company<br />
+4) Your Website URL<br />
+5) Small description on how you are going to use URLVoid API</p>
+<p>All your details will not be shared in any way and will be strictly private and used only to assign the API key to your email, nickname and website. After we have received your email, we will send in few days your API key to your email. Please note that you need to respect the following terms to use correctly our free API:</p>
+<p>1) Not include/use the API in commercial products or services<br />
+2) Not use the API as substitute for Security products<br />
+3) Not use the API in unethical services<br />
+4) Include a backlink to our website (urlvoid.com)<br />
+5) Not abuse the service usage<br />
+6) Not use the API in services where you have no control</p>
+<p>Non-compliance with these rules will result in the termination of your account/API key without prior notification and you will not be able to use the service.</p>
+<p>For any other questions just send us an email. We recommend to <a href="http://feedburner.google.com/fb/a/mailverify?uri=URLVoid&#038;loc=en_US" target="_blank">follow our blog</a> or our <a href="http://www.twitter.com/urlvoid" target="_blank">Twitter account</a> to stay always updated with news and changes about this service.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/news/" rel="category tag">News</a> and tagged <a href="http://blog.urlvoid.com/tag/urlvoid-api/" rel="tag">urlvoid api</a> on <a href="http://blog.urlvoid.com/1175/urlvoid-api-v2-0/" title="3:24 pm" rel="bookmark"><time class="entry-date" datetime="2012-08-09T15:24:51+00:00">August 9, 2012</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1171" class="post-1171 post type-post status-publish format-standard hentry category-phishing-2 tag-paypal-phishing tag-phishing-email tag-spam-email">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1171/phishing-paypal-account-review-department/" rel="bookmark">Phishing: PayPal Account Review Department</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Phishing email against PayPal users:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/06/13_06_2012-13_17_13.jpeg" alt="Phishing Email" title="PayPal Phishing Email" /></p>
+<p>Header details:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Received: from mail14j.g14.rapidsite.net (mail14j.g14.rapidsite.net [128.121.64.175])
+Received: from ca1-mx26.mlpsca01.us.mxservers.net (128.121.64.172) by mail14j.g14.rapidsite.net
+Received: from unknown [128.121.143.147] (EHLO mmm1430.rapidsite.net) by ca1-mx26.mlpsca01.us.mxservers.net (mxl_mta-3.1.0-05)
+Received: from unknown (HELO mikesmirnoff-%cf%ca.local) (marketing@77.50.19.97)
+Subject: Account Review Department
+Date: Wed, 13 Jun 2012 12:27:42 +0400
+X-SOURCE-IP: [128.121.143.147]
+To:undisclosed-recipients:;
+Content-Disposition: attachment; filename=&quot;Account.zip&quot;</pre></td></tr></table></div>
+
+<p>Attached there is a ZIP file named:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">File: Account.zip
+Size: 6694 bytes
+MD5: 6AC253515AB76EE76D1E034AEC75FCD7
+SHA1: 485E0A670CFE47F247C0BF6073D089A305BB6BEB
+SHA256: 6EE32A16EC8711A741B7E9E74D2289ED91F078D5A91425B7F8BAC74D74BAD9BA
+SHA384: A39150F4A3ADBFF90E53D0C9A2DCF36023DB1F7DB9D84AA5B6C54433502A544658F2E323B4064B7451D73058E12D4DFB
+SHA512: BFE5443A418DBDF4B051AA7FD92F299A51A8972221B73D8B708AF7174E29F9132F3D3B645E8A7F33616CAC5EE1CCF2DBDE89D7D57B29C69AE47F1B8B979BBD6B</pre></td></tr></table></div>
+
+<p>The extracted file is a .HTML file:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">File: Account Verification.html
+Size: 32224 bytes
+MD5: FAF8A01884CC8E3941684659E015E8EB
+SHA1: 9B24726C5B982DB8FE7E88E356B6CCDF74187344
+SHA256: A5094D44CA1DFCEA0ED5D17DAD9385B2FCF043AB9C52E0C6FC061E38FFEC2E2D
+SHA384: 3B64DE5DCED0F7F255298C20852216F4C681E9BD2C8A9B571058528775F45DFA9D1116F3462F50B0F170DD1EA246F4D4
+SHA512: 6D07323C6E4AEEEF56F75178F3EC8CDECCACBBAD16F2AC66B173CAD90E2AC6CDEC6501338563E8719398836162E208BDB129A554F10C4E6B9C9890C53F1E652E</pre></td></tr></table></div>
+
+<p>The sensitive data filled by the user is sent to this malicious URL:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">hxxp:// akamai2.spteiqnaskqliliasnqxikcmenmn .ru /~jeremy/ze.php</pre></td></tr></table></div>
+
+<p>Whois Details:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">domain:        SPTEIQNASKQLILIASNQXIKCMENMN.RU
+nserver:       ns1.nameself.com.
+nserver:       ns2.nameself.com.
+state:         REGISTERED, DELEGATED, UNVERIFIED
+person:        Private Person
+registrar:     REGTIME-REG-RIPN
+admin-contact: http://whois.webnames.ru
+created:       2011.08.17
+paid-till:     2012.08.17
+free-date:     2012.09.17
+source:        TCI</pre></td></tr></table></div>
+
+<p>URLVoid report:</p>
+<p><a href="http://www.urlvoid.com/scan/spteiqnaskqliliasnqxikcmenmn.ru">http://www.urlvoid.com/scan/spteiqnaskqliliasnqxikcmenmn .ru</a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/phishing-2/" rel="category tag">Phishing</a> and tagged <a href="http://blog.urlvoid.com/tag/paypal-phishing/" rel="tag">paypal phishing</a>, <a href="http://blog.urlvoid.com/tag/phishing-email/" rel="tag">phishing email</a>, <a href="http://blog.urlvoid.com/tag/spam-email/" rel="tag">spam email</a> on <a href="http://blog.urlvoid.com/1171/phishing-paypal-account-review-department/" title="11:40 am" rel="bookmark"><time class="entry-date" datetime="2012-06-13T11:40:40+00:00">June 13, 2012</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1164" class="post-1164 post type-post status-publish format-standard hentry category-security tag-amazon-order-confirmation-exploit tag-blackhole-exploit-kit tag-exploit tag-exploit-kit">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1164/amazon-com-order-confirmation-leads-to-blackhole-exploit-kit/" rel="bookmark">Amazon.com Order Confirmation leads to Blackhole Exploit Kit</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>We received few emails with subject:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">Amazon.com Order Confirmation</pre></td></tr></table></div>
+
+<p>Inside the email message there is a HREF link that redirects users to a malicious web page containing malicious javascript code used to redirect users to the main URL of Blackhole exploit kit:</p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/06/09_06_2012-14_28_40.png" alt="Amazon.com fake order page" title="Amazon.com fake order page" /></p>
+<p>The Blackhole exploit kit URL is:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">GET /main.php?page=017f3bb5c2be6a41 HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: adnroidsoft .net</pre></td></tr></table></div>
+
+<p>Fortunately the domain is not anymore active.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/security/" rel="category tag">Security</a> and tagged <a href="http://blog.urlvoid.com/tag/amazon-order-confirmation-exploit/" rel="tag">amazon order confirmation exploit</a>, <a href="http://blog.urlvoid.com/tag/blackhole-exploit-kit/" rel="tag">blackhole exploit kit</a>, <a href="http://blog.urlvoid.com/tag/exploit/" rel="tag">exploit</a>, <a href="http://blog.urlvoid.com/tag/exploit-kit/" rel="tag">exploit kit</a> on <a href="http://blog.urlvoid.com/1164/amazon-com-order-confirmation-leads-to-blackhole-exploit-kit/" title="9:40 pm" rel="bookmark"><time class="entry-date" datetime="2012-06-09T21:40:10+00:00">June 9, 2012</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-1156" class="post-1156 post type-post status-publish format-standard hentry category-security tag-exploit tag-injection_head tag-injection_tail tag-javascript-injected-code tag-js-exploit">
+				<header class="entry-header">
+			
+						<h1 class="entry-title">
+				<a href="http://blog.urlvoid.com/1156/new-malicious-injected-code-injection_head-and-injection_tail/" rel="bookmark">New Malicious Injected Code: Injection_head and Injection_tail</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>We have logged few websites infected with a new injected javascript code that seems to target mainly the websites powered with WordPress and Joomla. Below there is a screenshot of the malicious script: </p>
+<p><img src="http://blog.urlvoid.com/wp-content/uploads/2012/06/injected-evil-code.jpeg" alt="Image" title="Evil Code Injected in HTML Pages" /></p>
+<p>As we can see from the image above, the injected code starts with:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">&lt;!--Injection_head[SessionID=...]--&gt;</pre></td></tr></table></div>
+
+<p>And it ends with:</p>
+
+<div class="wp_syntax"><table><tr><td class="code"><pre class="text" style="font-family:monospace;">&lt;!--Injection_tail[SessionID=...]--&gt;</pre></td></tr></table></div>
+
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blog.urlvoid.com/category/security/" rel="category tag">Security</a> and tagged <a href="http://blog.urlvoid.com/tag/exploit/" rel="tag">exploit</a>, <a href="http://blog.urlvoid.com/tag/injection_head/" rel="tag">Injection_head</a>, <a href="http://blog.urlvoid.com/tag/injection_tail/" rel="tag">Injection_tail</a>, <a href="http://blog.urlvoid.com/tag/javascript-injected-code/" rel="tag">javascript injected code</a>, <a href="http://blog.urlvoid.com/tag/js-exploit/" rel="tag">js exploit</a> on <a href="http://blog.urlvoid.com/1156/new-malicious-injected-code-injection_head-and-injection_tail/" title="10:29 pm" rel="bookmark"><time class="entry-date" datetime="2012-06-08T22:29:16+00:00">June 8, 2012</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blog.urlvoid.com/author/admin/" title="View all posts by admin" rel="author">admin</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+			
+					<nav id="nav-below" class="navigation" role="navigation">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://blog.urlvoid.com/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-below .navigation -->
+	
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://blog.urlvoid.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/">How to identify fake shopping websites</a>
+						</li>
+					<li>
+				<a href="http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/">Malware: UPS Delivery Notification Tracking Number</a>
+						</li>
+					<li>
+				<a href="http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/">Google Translate used by spammers to bypass Anti-Spam filters</a>
+						</li>
+					<li>
+				<a href="http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/">Phishing: PayPal Notice of Policy Updates</a>
+						</li>
+					<li>
+				<a href="http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/">Spam: New Product to Lose up to 15 lbs.</a>
+						</li>
+				</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://blog.urlvoid.com/category/news/" >News</a>
+</li>
+	<li class="cat-item cat-item-181"><a href="http://blog.urlvoid.com/category/phishing-2/" >Phishing</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blog.urlvoid.com/category/security/" >Security</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://blog.urlvoid.com/category/spam-2/" >Spam</a>
+</li>
+		</ul>
+</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script type='text/javascript' src='http://blog.urlvoid.com/wp-content/themes/twentytwelve/js/navigation.js?ver=20140318'></script>
+</body>
+</html>

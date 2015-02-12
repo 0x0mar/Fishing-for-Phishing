@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+	<html lang="en" data-placeholder-focus="false">
+	<head>
+		<!-- SiteScope -->
+	    <meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+			
+	<!-- Madgex JobBoard Software -->
+	<!-- Platform Version: 5.11.1.0 - Build Date: 02/01/2015 -->
+	<!-- Site Database Version: 5.11.1.0 - Build Date: 07/01/2015 -->
+	<!-- Core Template Version: 41321 - Build Date: 02/01/2015 -->	
+	<!-- Site Template Version: 511 - Build Date: 12/11/2014 -->
+		<title>iJobs | jobs | Choose from 1,144 live vacancies</title>
+		
+			
+				<link rel="stylesheet" href="//d31buz2jm1y03u.cloudfront.net/assets/dist/css/package.css;p=master,sydney,branding;v=41289" type="text/css">
+			
+			
+			
+		
+		<!--[if lt IE 10]>
+			<link rel="stylesheet" href="//d31buz2jm1y03u.cloudfront.net/assets/dist/css/css-columns.css;v=38079" type="text/css">
+		<![endif]-->
+		<!--[if lte IE 8]>
+			<script src="//d31buz2jm1y03u.cloudfront.net/assets/dist/js/html5shiv.js;v=38072" type="text/javascript"></script>
+			<style>
+				.container { width: 1180px; max-width: 1180px; }
+			</style>
+			<![endif]-->
+		<!--[if IE 7 ]>
+			<style>
+				.grid-item { behavior: url(//d31buz2jm1y03u.cloudfront.net/assets/dist/js/boxsizing.htc;v=38072); zoom: 1; }
+			</style>
+		<![endif]-->
+		
+			<meta name="description" content="Search for your next job from 1,144 live vacancies, or upload your CV now and let recruiters find you">
+			<meta name="templatename" content="Home/HomePage.mango">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		
+			
+				<script src="//d31buz2jm1y03u.cloudfront.net/assets/dist/js/lazyad-loader.min.js;v=39649" async></script>
+			
+		
+		<script>
+			if ('querySelector' in document && 'localStorage' in window && 'addEventListener' in window) {
+				document.documentElement.className = ' js';
+				
+				var mdgx = {};
+				
+	mdgx.locationSearchPath = '/location-lookup/';
+
+				mdgx.rsLink              = 'https://ijobs-rs.madgexjb.com/';
+				mdgx.recruiterSearchPath = '/recruiter-lookup/';
+				mdgx.shortlistPath       = '/your-jobs?ActiveSection=ShortList';
+				!function(e,t,r){function n(){for(;d[0]&&"loaded"==d[0][f];)c=d.shift(),c[o]=!i.parentNode.insertBefore(c,i)}for(var s,a,c,d=[],i=e.scripts[0],o="onreadystatechange",f="readyState";s=r.shift();)a=e.createElement(t),"async"in i?(a.async=!1,e.head.appendChild(a)):i[f]?(d.push(a),a[o]=n):e.write("<"+t+' src="'+s+'" defer></'+t+">"),a.src=s}(document,"script",
+					[
+						"//d31buz2jm1y03u.cloudfront.net/assets/dist/js/jquery.min.js;v=41289",
+						"//d31buz2jm1y03u.cloudfront.net/_js/dict.js",
+						"//d31buz2jm1y03u.cloudfront.net/assets/dist/js/bundle.min.js;v=41289"
+						
+					]);
+			}
+		</script>
+		<link rel="shortcut icon" type="image/x-icon" href="//d31buz2jm1y03u.cloudfront.net/assets/dist/images/favicon.ico;v=483">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//d31buz2jm1y03u.cloudfront.net/assets/dist/images/appIcon-114x114.png">
+		
+
+
+
+
+
+
+	
+		
+		<link rel="canonical" href="http://ijobs.independent.co.uk/">
+	
+
+
+
+
+
+	<link rel="search" type="application/opensearchdescription+xml" href="http://ijobs.independent.co.uk/opensearch/" title="iJobs" />
+
+
+ 
+
+<meta name="lang" content="en-GB">
+
+
+
+		
+			<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script')
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() { 
+googletag.defineSlot('/71347885/(Core)_The_Independent_Ijobs', [728, 90], 'div-gpt-ad-1389271465900-0').addService(googletag.pubads());
+googletag.defineSlot('/71347885/(Core)_The_Independent_Ijobs', [160, 600], 'div-gpt-ad-1389271465900-1').addService(googletag.pubads());
+googletag.defineSlot('/71347885/(Core)_The_Independent_Ijobs', [300, 250], 'div-gpt-ad-1389271465900-2').addService(googletag.pubads());
+googletag.defineSlot('/71347885/(Core)_The_Independent_Ijobs', [120, 120], 'div-gpt-ad-1389271465900-3').addService(googletag.pubads());
+googletag.defineSlot('/71347885/(Core)_The_Independent_Ijobs', [120, 120], 'div-gpt-ad-1389271465900-4').addService(googletag.pubads());
+googletag.defineSlot('/71347885/(Core)_The_Independent_Ijobs', [120, 120], 'div-gpt-ad-1389271465900-5').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		
+		
+			
+    <!-- Madgex Tracking Google Verification -->
+    <meta name="google-site-verification" content="5lLw0MV2q_7WwmGU60QYEY1vGirEXC6t8v-rnhw8vx8" />
+
+
+
+
+	<!-- Begin: Madgex Google Tracking (Main) -->
+	<script type="text/javascript">try { var _gaq = _gaq || []; _gaq.push( ['madgex._setAccount', 'UA-26592287-1'], ['madgex._setCampMediumKey', 'me'], ['madgex._setCampNameKey', 'cm'], ['madgex._setCampSourceKey', 'sc'], ['madgex._trackPageview', '/'] ); } catch(err) { if(console && 'log' in console) { console.log(err); } }</script>
+	<!-- End: Madgex Google Tracking (Main) -->
+
+
+
+	<!-- Start: Madgex session confirmation -->
+	<script type="text/javascript">
+		function runMadgexConfirmSession() {
+			document.getElementById("madgex_confirm_session").innerHTML='<img src="/session-img/35491909-3e9c-4cc5-8e94-2b55e3c86015/" alt="SessionImg" rel="nofollow" />';
+		}	
+	</script>
+	<!-- End: Madgex session confirmation -->
+
+
+
+<!-- start: Omniture SiteCatalyst code version: H.19.4. -->
+<script language="javascript" type="text/javascript" src="/js/s_code.js"></script>
+<!-- end: Omniture SiteCatalyst code version: H.19.4. -->
+
+
+
+
+	<!-- Begin: Madgex Google Tracking (End) -->
+	<script type="text/javascript">if(typeof(gaJsHost) === "undefined") { (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })(); }</script>
+	<!-- End: Madgex Google Tracking (End) -->
+
+
+
+			
+			
+		
+		
+	</head>
+	<body class="home home--sydney has-leaderboard" itemscope itemtype="http://schema.org/WebPage" >
+		
+		
+			
+
+
+				
+		
+		<div class="container js-container">
+			<p class="skip-to-content"><a accesskey="S" title="Access key: S" href="#main">Skip to main content</a></p>
+			
+			
+				
+				
+					
+	<div class="ad ad--leaderboard">
+		
+			<div class="ad ad--leaderboard__wrapper" data-lazyad data-matchmedia="only screen and (min-width: 750px)">
+				<script type="text/lazyad">
+					<!--
+						<div id='div-gpt-ad-1389271465900-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1389271465900-0'); });
+</script>
+</div>
+
+					-->
+				</script>
+			</div>
+		
+	</div>
+
+					
+					
+				
+			
+	    	
+	    		
+	<header role="banner" class="banner banner--link-bar">
+	<div id="top-bar" class="top-bar">
+		<div class="wrapper cf">
+			
+				<ul class="nav-toggles cf js-togglable-nav-triggers">
+					<li class="nav-toggles__item nav-toggles__item--primary">
+						<a href="#primary-nav" title="Main menu" class="js-togglable-nav-trigger">
+							<i class="burger" aria-hidden="true"></i>
+							<span class="hidden">Skip to main menu</span>
+						</a>
+					</li>
+					<li class="nav-toggles__item nav-toggles__item--secondary">
+						<a href="#secondary-nav" title="User menu" class="js-togglable-nav-trigger">
+							<i class="icon-after" data-icon="&#x263a;" aria-hidden="true"></i>
+							<span class="hidden">Skip to user menu</span>
+						</a>
+					</li>
+				</ul>
+			
+			
+				<nav id="secondary-nav" class="secondary-nav togglable-nav cf js-togglable-nav">
+					<ul class="secondary-nav__items togglable-nav__items cf">
+						<li class="togglable-nav__item secondary-nav__item secondary-nav--jobseekers jobseekers jobseekers-nav">
+							<ul class="jobseekers__items cf">
+								
+									<li class="togglable-nav__item jobseekers__item jobseekers__item--sign-in">
+										
+											<span class="text">Jobseekers</span>
+										
+										<a href="/logon/">Sign in</a><span class="text or">or</span>
+									</li>
+									<li class="togglable-nav__item togglable-nav__item--last jobseekers__item jobseekers__item--create-account">
+										<a href="/register/">Create account</a>
+									</li>
+								
+							</ul>
+						</li>
+						<li class="togglable-nav__item secondary-nav__item secondary-nav--recruiters recruiters recruiters-nav">
+							<ul class="recruiters__items cf">
+								
+									<li class="togglable-nav__item recruiters__item recruiters__item--sign-in recruiters__item--links">
+										
+											<span>Recruiters</span>
+										
+										<a href="https://ijobs-rs.madgexjb.com/">Sign in</a>
+									</li>
+									<li class="togglable-nav__item recruiters__item recruiters__item--create-account recruiters__item--links">
+										<a href="https://ijobs-rs.madgexjb.com/">Create account</a>
+									</li>
+								
+							</ul>
+						</li>	
+					</ul>
+				</nav>
+			
+		</div>
+	</div>
+	
+	<div class="wrapper cf">
+		
+			<div class="primary-logo">
+		    	<a href="/"><img src="//d31buz2jm1y03u.cloudfront.net/assets/dist/images/logo.png;v=483" title="iJobs" alt="iJobs logo"></a>
+			</div>
+		
+		
+	</div>
+	
+		<nav id="primary-nav" class="primary-nav togglable-nav js-togglable-nav">
+			<div class="wrapper">
+				
+					<ul class="primary-nav__items togglable-nav__items cf">
+						<li class="togglable-nav__item primary-nav__item primary-nav__item--first primary-nav__item--active"><a class="primary-nav__link" href="/">Home</a></li>
+						<li class="togglable-nav__item primary-nav__item"><a class="primary-nav__link" href="/jobs/">Find a job</a></li>
+						<li class="togglable-nav__item primary-nav__item"><a class="primary-nav__link" href="/newalert/">Jobs by email</a></li>
+						<li class="togglable-nav__item primary-nav__item"><a class="primary-nav__link" href="/employers/">Search recruiters</a></li>
+						<li class="togglable-nav__item primary-nav__item togglable-nav__item--last primary-nav__item--last"><a class="primary-nav__link" href="/careers/">Careers advice</a></li>
+			            
+           				
+				            
+            			
+            			
+	
+		<li class="togglable-nav__item primary-nav__item primary-nav__item--editorial"><a href="http://www.independent.co.uk"><span class="hidden">www.independent.co.uk</span></a></li>
+	
+
+					</ul>
+				
+				<div class="sector-nav--smallscreen" data-set="sector-nav"></div>
+			</div>
+		</nav>
+	
+	
+</header>
+
+			
+			
+			<div role="main" class="main" id="main">
+				
+				
+					
+
+
+				
+
+				
+	
+			
+<div class="band band--primary band--primary--first cf">
+	<div class="wrapper">
+		
+			<div class="home-header">
+	<h1 class="header"><span>Search for your next career move</span></h1>
+</div>
+		
+	</div>
+</div>
+<div class="band band--primary band--primary--second cf">
+	<div class="wrapper">
+		
+			<section class="search brick">
+	<div class="brick__inner">
+		<div itemscope itemtype="http://schema.org/WebSite">
+    		<meta itemprop="url" content="http://ijobs.independent.co.uk/"/>
+			<form action="/searchjobs/" method="get" accept-charset="utf-8" class="search__form js-additional-hidden-locations-form search__form--has-radial" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+				<meta itemprop="target" content="http://ijobs.independent.co.uk/searchjobs/?Keywords=&#123;Keywords&#125;"/>
+				<fieldset class="grid">
+					<legend>Search</legend>
+					
+						<div class="grid-item four-twelfths lap-one-whole palm-one-whole">
+					
+						<div class="field field--keyword clear-input js-clear-input">
+	<label for="keywords" class="field__label-keywords">Keywords</label>
+	<input id="keywords" itemprop="query-input" class="clear-input__input js-clear-input-input field__input-keywords" type="text" name="Keywords" placeholder="e.g. Sales">
+</div>
+						</div>
+					
+						<div class="grid-item four-twelfths lap-two-quarters portable-two-thirds palm-one-whole">
+							<div class="field field--location clear-input js-clear-input">
+	<label for="location" class="field__label-location">Location</label>
+	<input id="location" name="radialtown" class="field__input-location lookup-input clear-input__input js-location-lookup js-clear-input-input" type="text" placeholder="e.g. London">
+	<input class="js-location-id js-clear-input-input" type="hidden" name="LocationId">
+</div>
+						</div>
+						<div class="grid-item two-twelfths lap-one-quarter portable-one-third palm-one-whole">
+							<div class="field field--radial-select">
+	<label for="RadialLocation" class="hidden field__label-within">Within</label>
+	<select class="field__select-within" id="RadialLocation" name="RadialLocation">
+		
+		    <option value="0" >
+          Within 0 miles</option>
+		
+		    <option value="5" selected="selected">
+          Within 5 miles</option>
+		
+		    <option value="10" >
+          Within 10 miles</option>
+		
+		    <option value="15" >
+          Within 15 miles</option>
+		
+		    <option value="20" >
+          Within 20 miles</option>
+		
+	</select>
+</div>
+						</div>
+						<div class="grid-item two-twelfths lap-one-quarter portable-one-whole palm-one-whole">
+					
+						<div class="submit">
+	<input class="width-full" type="submit" value="Find jobs">
+</div>
+						</div>
+				</fieldset>
+				
+			</form>
+		</div>
+	</div>
+</section>
+		
+	</div>
+</diV>
+<div class="band band--primary band--primary--third cf">
+	<div class="wrapper">
+		
+			
+	<div class="sector-list brick">
+		<div class="brick__inner">
+			<ul class="grid">
+				
+					<li class="grid-item one-quarter  portable-one-half  palm-one-half">
+						<a href="/jobs/london-greater-/" class="sector-list__item sector-list__item--lj sector-list__item--first">
+							<h2 class="sector-list__header">London</h2>
+						</a>
+					</li>
+				
+					<li class="grid-item one-quarter  portable-one-half  palm-one-half">
+						<a href="/jobs/banking-finance-and-insurance/" class="sector-list__item sector-list__item--fi">
+							<h2 class="sector-list__header">Finance</h2>
+						</a>
+					</li>
+				
+					<li class="grid-item one-quarter  portable-one-half  palm-one-half">
+						<a href="/jobs/technology-and-new-media/" class="sector-list__item sector-list__item--te">
+							<h2 class="sector-list__header">Technology</h2>
+						</a>
+					</li>
+				
+					<li class="grid-item one-quarter  portable-one-half  palm-one-half">
+						<a href="/jobs/graduate/" class="sector-list__item sector-list__item--gr sector-list__item--last">
+							<h2 class="sector-list__header">Graduate</h2>
+						</a>
+					</li>
+				
+			</ul>
+		</div>
+	</div>
+
+		
+	</div>
+</div>
+<div class="band band--primary band--primary--fourth cf">
+	<div class="wrapper">
+		
+	
+	<section class="browse brick">
+		<div class="brick__inner cf">
+			
+				<h2 class="brick__header"><span>Browse jobs by Sector</span></h2>
+				<div class="browse__items">
+					<ul class="facet-links lap-larger column column-four lap-column-two portable-column-two palm-column-two js-palm-hide js-tinynav" data-tinynav-header="Choose a Sector">
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/accountancy/">Accountancy</a>&nbsp;<small>55</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/banking-finance-and-insurance/">Banking, Finance &amp; Insurance</a>&nbsp;<small>50</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/charity/">Charity</a>&nbsp;<small>13</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/education/">Education</a>&nbsp;<small>101</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/engineering/">Engineering</a>&nbsp;<small>59</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/healthcare/">Healthcare</a>&nbsp;<small>26</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/legal/">Legal</a>&nbsp;<small>30</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/marketing-and-pr/">Marketing &amp; PR</a>&nbsp;<small>125</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/media-and-advertising/">Media &amp; Advertising</a>&nbsp;<small>139</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/public-sector/">Public Sector</a>&nbsp;<small>444</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/retail/">Retail</a>&nbsp;<small>27</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/technology-and-new-media/">Technology &amp; New Media</a>&nbsp;<small>242</small>
+        </li>
+    
+        <li class="facet-links__link lap-larger__item column__item">
+            <a href="/jobs/travel-leisure-and-tourism/">Travel, Leisure &amp; Tourism</a>&nbsp;<small>31</small>
+        </li>
+    
+</ul>
+				</div>
+				
+			
+		</div>
+	</section>
+
+
+	</div>
+</div>
+<div class="band band--primary band--primary--fifth cf">
+	<div class="wrapper">
+		<div class="grid">
+			<div class="grid-item two-thirds lap-one-whole portable-one-whole palm-one-whole">
+				<div class="band band--secondary band--secondary--first cf">
+					
+						
+							<section class="featured-jobs brick">
+								<div class="brick__inner cf">
+									<h2 class="brick__header"><span>Featured jobs</span></h2>
+									<div class="grid">
+										
+										
+											<div class="grid-item one-half palm-one-whole">
+												<ul class="grid">
+													
+														
+															<li class="grid-item lap-one-half">
+																<div class="featured-jobs__item">
+																	
+																		<div class="grid">
+																			<div class="grid-item two-fifths lap-one-whole">
+																				<a href="/job/80275/telesales-executive-new-business-sales-nottingham/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/a6693c14-62ce-449b-a174-df5ca94ebf1c/" alt="Recruitment Genius" class="rec-logo"></a>
+																			</div>
+																			<div class="grid-item three-fifths lap-one-whole">
+																				<h3 class="featured-jobs__header lap-larger"><a href="/job/80275/telesales-executive-new-business-sales-nottingham/?LinkSource=HomePage" title="Telesales Executive / New Business Sales - Nottingham">Telesales Executive / New Business Sales - Nott...</a></h3>
+
+	<p class="featured-jobs__meta"><span class="featured-jobs__location" title="Beeston">Beeston</span> <span class="featured-jobs__bullet">&bull;</span> <span class="featured-jobs__salary" title="£15000 per annum">£15000 per annum</span></p>
+
+																			</div>
+																		</div>
+																	
+																</div>
+															</li>
+														
+													
+														
+															<li class="grid-item lap-one-half">
+																<div class="featured-jobs__item">
+																	
+																		<div class="grid">
+																			<div class="grid-item two-fifths lap-one-whole">
+																				<a href="/job/80211/account-director-senior-account-manager/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/83faf40a-21ae-4bff-a757-ed9899e4337e/" alt="Guru Careers" class="rec-logo"></a>
+																			</div>
+																			<div class="grid-item three-fifths lap-one-whole">
+																				<h3 class="featured-jobs__header lap-larger"><a href="/job/80211/account-director-senior-account-manager/?LinkSource=HomePage" title="Account Director / Senior Account Manager">Account Director / Senior Account Manager</a></h3>
+
+	<p class="featured-jobs__meta"><span class="featured-jobs__location" title="Tonbridge, Kent (TN9) - Commutable from Sevenoaks, Tunbridge Wells, Maidstone, Edenbridge">Tonbridge, Kent (TN9) - Commutable fr...</span> <span class="featured-jobs__bullet">&bull;</span> <span class="featured-jobs__salary" title="£35k Basic (DOE) plus Commission ">£35k Basic (DOE) plus Commission </span></p>
+
+																			</div>
+																		</div>
+																	
+																</div>
+															</li>
+														
+													
+												</ul>
+											</div>	
+										
+											<div class="grid-item one-half palm-one-whole">
+												<ul class="grid">
+													
+														
+															<li class="grid-item lap-one-half">
+																<div class="featured-jobs__item">
+																	
+																		<div class="grid">
+																			<div class="grid-item two-fifths lap-one-whole">
+																				<a href="/job/78687/senior-account-manager/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/a6693c14-62ce-449b-a174-df5ca94ebf1c/" alt="Recruitment Genius" class="rec-logo"></a>
+																			</div>
+																			<div class="grid-item three-fifths lap-one-whole">
+																				<h3 class="featured-jobs__header lap-larger"><a href="/job/78687/senior-account-manager/?LinkSource=HomePage" title="Senior Account Manager">Senior Account Manager</a></h3>
+
+	<p class="featured-jobs__meta"><span class="featured-jobs__location" title="Billingshurst">Billingshurst</span> <span class="featured-jobs__bullet">&bull;</span> <span class="featured-jobs__salary" title="£25000 per annum">£25000 per annum</span></p>
+
+																			</div>
+																		</div>
+																	
+																</div>
+															</li>
+														
+													
+														
+															<li class="grid-item lap-one-half">
+																<div class="featured-jobs__item">
+																	
+																		<div class="grid">
+																			<div class="grid-item two-fifths lap-one-whole">
+																				<a href="/job/80435/software-tester/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/a6693c14-62ce-449b-a174-df5ca94ebf1c/" alt="Recruitment Genius" class="rec-logo"></a>
+																			</div>
+																			<div class="grid-item three-fifths lap-one-whole">
+																				<h3 class="featured-jobs__header lap-larger"><a href="/job/80435/software-tester/?LinkSource=HomePage" title="Software Tester">Software Tester</a></h3>
+
+	<p class="featured-jobs__meta"><span class="featured-jobs__location" title="Canterbury">Canterbury</span> <span class="featured-jobs__bullet">&bull;</span> <span class="featured-jobs__salary" title="£25000 - £35000 per annum">£25000 - £35000 per annum</span></p>
+
+																			</div>
+																		</div>
+																	
+																</div>
+															</li>
+														
+													
+												</ul>
+											</div>	
+										
+									</div>
+									<p class="more-link lap-larger"><a href="/jobs/" data-icon="&#x25b6;" class="icon-after">View all jobs</a></p>
+								</div>	
+							</section>
+						
+					
+					
+						<section class="jobseeker-ctas brick cf">
+							<div class="brick__inner">
+								<div class="grid">
+									<div class="grid-item one-half palm-one-whole">
+										
+											<a href="
+	/newalert/
+">
+	<div class="jobseeker-ctas__cta jobseeker-ctas__cta--jbe">
+		
+			<div class="grid">
+				<div class="grid-item one-quarter lap-one-quarter portable-one-third palm-one-third">
+					<div class="jobseeker-ctas__icon">
+						
+	<i data-icon="
+			&#x2709;
+		" class="icon-after"></i>
+
+					</div>
+				</div>
+				<div class="grid-item three-quarters lap-two-thirds portable-two-thirds palm-two-thirds">
+					<div class="jobseeker-ctas__text">
+						<h2 class="jobseeker-ctas__header"><span>
+	Get jobs by email
+</span></h2>
+
+						<p class="jobseeker-ctas__description">
+	
+		Let us do the hard work. Sign up for our free service and get great jobs emailed to you.
+	
+</p>
+					</div>
+				</div>
+			</div>
+		
+	</div>
+</a>
+										
+									</div>
+									<div class="grid-item one-half palm-one-whole">
+										
+	<a href="
+	/profile/
+">
+	<div class="jobseeker-ctas__cta jobseeker-ctas__cta--profile jobseeker-ctas__cta--last">
+		
+			<div class="grid">
+				<div class="grid-item one-quarter lap-one-quarter portable-one-third palm-one-third">
+					<div class="jobseeker-ctas__icon">
+						
+	<i data-icon="
+			&#x2750;
+		" class="icon-after"></i>
+
+					</div>
+				</div>
+				<div class="grid-item three-quarters lap-three-quarters portable-two-thirds palm-two-thirds">
+					<div class="jobseeker-ctas__text">
+						<h2 class="jobseeker-ctas__header"><span>
+	Upload your CV
+</span></h2>
+
+						<p class="jobseeker-ctas__description">
+	
+		Upload your CV so our recruiters can match your details to the best available jobs.
+	
+</p>
+					</div>
+				</div>
+			</div>
+		
+	</div>
+</a>
+
+									</div>
+								</div>
+							</div>
+						</section>
+					
+					
+						
+							<section class="articles brick">
+								<div class="brick__inner cf">
+									<h2 class="brick__header"><span>Career news and advice</span></h2>
+									<div class="articles__items">
+										<ul class="grid">
+											
+												<li class="grid-item one-third portable-one-whole palm-one-whole">
+	<div class="articles__item articles__item--first">
+		<div class="grid">
+			
+				<div class="grid-item one-whole">
+			
+				<h3 class="article__header lap-larger">
+	
+		<a href="http://www.independent.co.uk/news/business/news/aldis-offer-of-42000-a-year-leads-marketin-graduate-recruitment-market-9971337.html">
+	
+	Aldi&#39;s offer of £42,000 a year leads market in graduate recruitment
+	
+		</a>
+	
+</h3>
+				
+	
+<img src="http://www.independent.co.uk/incoming/article9971385.ece/alternates/w100/Aldi-Getty.jpg" style="padding-right:5px;margin-right:5px" align="left" /> 
+<p> </p>
+
+
+			</div>
+		</div>
+	</div>
+</li>
+											
+											
+												<li class="grid-item one-third portable-one-whole palm-one-whole">
+	<div class="articles__item">
+		<div class="grid">
+			
+				<div class="grid-item one-whole">
+			
+				<h3 class="article__header lap-larger">
+	
+		<a href="http://www.independent.co.uk/student/career-planning/getting-job/student-career-advice-what-your-next-employer-will-be-looking-for-in-2015-9963082.html">
+	
+	Student career advice: What your next employer will be looking for in 2015
+	
+		</a>
+	
+</h3>
+				
+	
+<img src="http://www.independent.co.uk/incoming/article8738735.ece/alternates/w100/web-students-pa.jpg" style="padding-right:5px;margin-right:5px" align="left" /> 
+<p>As conversation turns to New Year’s resolutions and best intentions for the year ahead, plenty of you may be thinking about applying for new - or first - jobs. With competition still tough, how do you make sure you’re giving yourself the best possible chance and really differentiating yourself from the rest for the right reasons? There are four things which will be high on the agendas of all employers in 2015, and which will therefore be important for all young jobseekers to bear in mind.</p>
+
+
+			</div>
+		</div>
+	</div>
+</li>
+											
+											
+												<li class="grid-item one-third portable-one-whole palm-one-whole">
+	<div class="articles__item articles__item--last">
+		<div class="grid">
+			
+				<div class="grid-item one-whole">
+			
+				<h3 class="article__header lap-larger">
+	
+		<a href="http://www.independent.co.uk/news/uk/politics/labour-to-limit-unpaid-internships-to-a-month-to-stop-best-jobs-going-to-richest-9924590.html">
+	
+	Labour to limit unpaid internships to a month to stop best jobs going to the richest
+	
+		</a>
+	
+</h3>
+				
+	
+<img src="http://www.independent.co.uk/incoming/article9924440.ece/alternates/w100/Internship.jpg" style="padding-right:5px;margin-right:5px" align="left" /> 
+<p>Unpaid internships lasting longer than four weeks will be banned if Labour wins power in the May general election.</p>
+
+
+			</div>
+		</div>
+	</div>
+</li>
+											
+										</ul>
+									</div>
+									<p class="more-link lap-larger"><a href="http://www.independent.co.uk/student/career-planning/?service=Rss" data-icon="&#x25b6;" class="icon-after">View all articles</a></p>
+								</div>
+							</section>
+						
+					
+					<div class="band band--secondary band--secondary--second cf">
+						<div class="grid">
+							<div class="grid-item one-half palm-one-whole">
+								
+										
+	<section class="about brick">
+		<div class="brick__inner">
+			<h2 class="brick__header"><span>About iJobs</span></h2>
+			Welcome to iJobs where you can search hundreds of jobs and find the perfect opportunity to fit your work life balance.
+		</div>
+	</section>
+
+								
+							</div>
+							<div class="grid-item one-half palm-one-whole">
+								
+									<section class="recruiter-cta brick">
+	<div class="brick__inner cf">
+		<h2 class="brick__header"><span>Recruiting? Post a job</span></h2>
+		
+	<ul class="disc-bullet">
+		<li>Use our database to search CVs</li>
+		<li>Post jobs and monitor applications</li>
+		<li>Speak to one of the team</li>
+	</ul>
+	<p class="phone-nb">Call: 0203 615 5216</p>
+
+		<p class="recruiter-cta__action"><a href="https://ijobs-rs.madgexjb.com/" class="button button--brand icon-after icon-white" data-icon="&#x25b6;">Get started</a></p>
+	</div>
+</section>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="grid-item one-third lap-one-whole portable-one-whole palm-one-whole">
+				<div class="band band--secondary band--secondary--third cf">
+					<div class="grid">
+						<div class="grid-item lap-one-half portable-one-whole palm-one-whole">
+							
+	
+		<div class="ad ad--mpu block" data-lazyad>
+			<script type="text/lazyad">
+				<!--
+					<div id='div-gpt-ad-1389271465900-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1389271465900-2'); });
+</script>
+</div>
+
+				-->
+			</script>
+		</div>
+	
+
+						</div>
+						<div class="grid-item lap-one-half portable-one-whole">
+							
+								
+	
+		<section class="featured-recruiters brick cf">
+			<div class="brick__inner cf">
+	            <h2 class="brick__header"><span>
+	
+			Featured recruiters
+	
+</span></h2>
+				<div class="featured-recruiters__items">
+	<ul class="grid">
+		
+			
+				<li class="grid-item one-half lap-one-half portable-one-third palm-one-half">
+					<div class="featured-recruiters__item">
+						<a href="/employer/80227/eureka-the-national-children-s-museum/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/6a295316-b2b0-425b-a473-41ee9ba5ea5e/" alt="Eureka! The National Children&#39;s Museum" class="rec-logo"></a>
+					</div>
+				</li>
+			
+		
+			
+				<li class="grid-item one-half lap-one-half portable-one-third palm-one-half">
+					<div class="featured-recruiters__item">
+						<a href="/employer/10704/reach-volunteering/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/e460f0f1-209b-4042-b4fe-74ceeb360cad/" alt="Reach Volunteering" class="rec-logo"></a>
+					</div>
+				</li>
+			
+		
+			
+				<li class="grid-item one-half lap-one-half portable-one-third palm-one-half">
+					<div class="featured-recruiters__item">
+						<a href="/employer/73083/notting-hill-prep-school/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/fe9b38f1-0758-4ab5-bc88-3185acfba8a5/" alt="Notting Hill Prep School" class="rec-logo"></a>
+					</div>
+				</li>
+			
+		
+			
+				<li class="grid-item one-half lap-one-half portable-one-third palm-one-half">
+					<div class="featured-recruiters__item">
+						<a href="/employer/54282/sauce-recruitment/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/5e9e09dd-3eb7-471d-999d-b733847ccee3/" alt="Sauce Recruitment" class="rec-logo"></a>
+					</div>
+				</li>
+			
+		
+			
+				<li class="grid-item one-half lap-one-half portable-one-third palm-one-half">
+					<div class="featured-recruiters__item">
+						<a href="/employer/18190/recruitment-genius/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/a6693c14-62ce-449b-a174-df5ca94ebf1c/" alt="Recruitment Genius" class="rec-logo"></a>
+					</div>
+				</li>
+			
+		
+			
+				<li class="grid-item one-half lap-one-half portable-one-third palm-one-half">
+					<div class="featured-recruiters__item">
+						<a href="/employer/5246/austen-lloyd/?LinkSource=HomePage"><img src="//d31buz2jm1y03u.cloudfront.net/getasset/d75d8c4a-6559-4baa-b783-8ed4183bb3c7/" alt="Austen Lloyd" class="rec-logo"></a>
+					</div>
+				</li>
+			
+		
+	</ul>
+</div>
+				<p class="more-link lap-larger">
+	<a href="/employers/" data-icon="&#x25b6;" class="icon-after">View all recruiters</a>
+</p>
+			</div>
+		</section>
+	
+
+							
+						</div>
+					</div>
+				</div>
+				<div class="band band--secondary band--secondary--fourth cf">
+					<div class="grid">
+						<div class="grid-item one-whole lap-one-half palm-one-whole">
+							
+								
+							
+						</div>
+						<div class="grid-item one-whole lap-one-half palm-one-whole">
+							
+								
+	<section class="featured-campaigns brick">
+		<div class="brick__inner cf">
+			<h2 class="brick__header"><span>Featured campaigns</span></h2>
+			<ul class="featured-campaigns__list lap-larger">
+				
+					<li class="featured-campaigns__item lap-larger__item"><a href="/landingpage/9020/it-and-new-media-jobs/">IT and New Media Jobs</a></li> 
+				
+					<li class="featured-campaigns__item lap-larger__item"><a href="/landingpage/8273/graduate-jobs/">Graduate Jobs</a></li> 
+				
+					<li class="featured-campaigns__item lap-larger__item"><a href="/landingpage/9022/creative-media-jobs/">Creative Media Jobs</a></li> 
+				
+					<li class="featured-campaigns__item lap-larger__item"><a href="/landingpage/45279/jobs-in-south-east-england-gb-/">Jobs in South East England (GB)</a></li> 
+				
+					<li class="featured-campaigns__item lap-larger__item"><a href="/landingpage/45266/jobs-in-london-greater-gb-/">Jobs in London (Greater) (GB)</a></li> 
+				
+			</ul>
+			
+				<p class="more-link lap-larger"><a href="/landingpagelist/" data-icon="&#x25b6;" class="icon-after">More</a></p>
+			
+		</div>
+	</section>
+
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	
+		
+
+
+				
+			</div>
+			
+				<footer role="contentinfo" class="contentinfo">
+					<div class="back-to-top">
+						<div class="wrapper cf">
+							<p class="right-text no-margin"><a href="#top-bar" class="js-smooth-scrollto block-level">Back to top</a></p>
+						</div>
+				    </div>
+					<div class="wrapper content">
+						
+							
+
+<ul class="footer-sector-nav">
+	<li class="title">Sectors</li>
+	
+		<li class="footer-sector-nav__item"><a href="/jobs/london-greater-/">London</a></li>
+	
+		<li class="footer-sector-nav__item"><a href="/jobs/banking-finance-and-insurance/">Finance</a></li>
+	
+		<li class="footer-sector-nav__item"><a href="/jobs/technology-and-new-media/">Technology</a></li>
+	
+		<li class="footer-sector-nav__item footer-sector-nav__item--last"><a href="/jobs/graduate/">Graduate</a></li>
+	
+</ul>
+
+
+<nav class="tertiary-nav other-sites block">
+	<ul class="tertiary-nav__items">
+		<li class="tertiary-nav__item"><a href="http://www.independent.co.uk/">The Independent</a></li>
+		<li class="tertiary-nav__item"><a href="http://www.independent.co.uk/ebooks/">ebooks</a></li>
+		<li class="tertiary-nav__item"><a href="http://www.independent.co.uk/dating/">Dating</a></li>
+		<li class="tertiary-nav__item tertiary-nav__item--last"><a href="http://www.independent.co.uk/shop/">Shop</a></li>
+	</ul>
+</nav>
+
+
+							<nav class="tertiary-nav block">
+								<ul class="tertiary-nav__items cf">
+									
+										
+										
+											<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/about-us/">About Us</a></li>
+										
+											<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/contact-us/">Contact Us</a></li>
+										
+											<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/terms-and-conditions/">Terms &amp; Conditions</a></li>
+										
+											<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="/privacy-policy/">Privacy Policy</a></li>
+										
+										
+										<li class="tertiary-nav__item"><a class="tertiary-nav__link" href="https://ijobs-rs.madgexjb.com/">Advertise with us</a></li>	
+										
+									
+
+									
+							            
+			            			
+								</ul>
+							</nav>
+							
+								
+							
+							
+								
+							
+							
+	<p class="copyright no-margin">&copy; 2008 - 2015 independent.co.uk. Powered by Madgex <a href="http://www.madgex.com/services" target="_blank">Job Board Software</a></p>
+
+							
+						
+					</div>
+				</footer>
+			
+		</div>
+		
+		
+			
+				
+				
+			
+		
+		
+		
+		
+			
+    <!-- GoogleAnalytics::Begin -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://") ;
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+            <script type="text/javascript">
+
+        try 
+        {
+            var pageTracker1 = _gat._getTracker("UA-31156312-1");
+                    
+            
+            pageTracker1._trackPageview();
+            
+            
+        } 
+        catch(err) 
+        {
+        }
+   
+    </script> 
+    <!-- GoogleAnalytics::End --> 
+
+<!-- start: Omniture SiteCatalyst code version: H.19.4. -->
+<script language="javascript" type="text/javascript">
+<!--
+s.pageName="Home\x20Page";
+s.server="ijobs.independent.co.uk";
+s.prop4="Home\x20Page";
+var s_code=s.t();if(s_code)document.write(s_code);//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')//-->
+</script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics">
+<img src="" height="1" width="1" border="0" alt="" /></a>
+</noscript>
+<!-- end: Omniture SiteCatalyst code version: H.19.4. -->
+
+
+		
+		
+<div id="madgex_confirm_session"></div>
+<script type="text/javascript">
+	if (typeof runMadgexConfirmSession == 'function') { 
+		runMadgexConfirmSession();
+	}
+</script>
+		
+		<!--[if lt IE 10]>
+			<script src="//d31buz2jm1y03u.cloudfront.net/assets/dist/js/placeholder.js;v=41289"></script>
+		<![endif]-->
+	</body>
+	</html>

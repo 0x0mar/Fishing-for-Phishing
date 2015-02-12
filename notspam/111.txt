@@ -1,0 +1,570 @@
+
+<!DOCTYPE html>
+<html  lang="en-US" class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Gadgets | DailyTekk</title>
+
+		<!--<link href="http://dailytekk.com/wp-content/themes/DailyTekk/sass/style.css" rel="stylesheet">-->
+
+	<link href='//fonts.googleapis.com/css?family=Roboto+Slab:400,300,700,100' rel='stylesheet' type='text/css'>
+
+							
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+
+<!-- Push notifications for this website enabled by Roost. Support for Safari, Firefox, and Chrome Browser Push. (v 2.2.0) - http://goroost.com/ -->
+<link rel="alternate" type="application/rss+xml" title="DailyTekk &raquo; Gadgets Category Feed" href="http://dailytekk.com/category/gadgets/feed/" />
+<link rel='stylesheet' id='style-css'  href='http://dailytekk.com/wp-content/themes/DailyTekk/style.css?ver=2.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://dailytekk.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailytekk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailytekk.com/wp-includes/wlwmanifest.xml" /> 
+<style type='text/css'>img#wpstats{display:none}</style>	<script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					appId      : '1575089616085357',
+					xfbml      : true,
+					version    : 'v2.2'
+				});
+			};
+
+			(function(d, s, id){
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) {return;}
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	
+</head>
+			<body>
+		<!-- BuySellAds Ad Code -->
+		<script type="text/javascript">
+			(function(){
+				var bsa = document.createElement('script');
+				bsa.type = 'text/javascript';
+				bsa.async = true;
+				bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+				(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+			})();
+		</script>
+		<!-- End BuySellAds Ad Code -->
+		<input type="checkbox" name="menu-toggle" id="menu-toggle" class="checkbox-toggle" />
+		<label for="menu-toggle" class="menu-toggle">
+			<div class="bar-icon-wrapper">
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+				<span class="bar-icon"></span>
+			</div>
+		</label>
+		<div id="page" class="page-wrapper">
+			<header class="header">
+								<div class="container">
+					<a href="http://dailytekk.com" class="logo"><svg width="35" height="36" viewBox="0 0 35 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<path d="M0,28.8590495 L0,35.0376096 L6.17862593,35.0376096 C3.71067937,33.4351947 1.602432,31.3269698 0,28.8590495"></path>
+	<path d="M26.0255607,28.8241236 C25.9498934,28.881153 25.8727352,28.9363187 25.7955769,28.9914845 L25.7355649,29.0343497 C23.3216664,30.7672241 20.4738924,31.6830495 17.5001305,31.6830495 C9.70118075,31.6830495 3.35556493,25.3382468 3.35481944,17.5393801 L3.35481944,17.4681865 L3.35481944,17.467441 L3.35481944,12.1637048 L3.35481944,11.219551 L3.35481944,7.86487914 L3.35481944,6.99900105 L3.35481944,3.39235603 L17.5001305,3.39235603 C25.2998257,3.39235603 31.6454415,9.73790428 31.6454415,17.5375164 C31.6458142,22.0070576 29.5972061,26.1206308 26.0255607,28.8241236 M17.5005032,0.0376841475 L17.5005032,0.0376841475 L0.000111823587,0.0376841475 L0.000111823587,17.5375164 L0.000111823587,17.5393801 C0.00123005946,27.2034443 7.83559057,35.0377214 17.5001305,35.0377214 C21.3039961,35.0377214 24.8212207,33.8203483 27.6921049,31.7594615 C27.8121289,31.6733583 27.9325256,31.5880005 28.0499404,31.4989153 C32.2712808,28.3037767 35.0001491,23.2400859 35.0001491,17.5378892 C35.0005218,7.87270671 27.1654158,0.0376841475 17.5005032,0.0376841475"></path>
+	<path d="M17.5004659,11.2199238 C18.4159284,11.2199238 19.2836794,11.4197131 20.0697992,11.7715809 C20.3396668,11.8923491 20.598352,12.0328726 20.8466004,12.1886785 C21.0791935,12.3347931 21.3058226,12.4902262 21.5167964,12.6642964 C22.9216734,13.8238946 23.8181259,15.5780153 23.8181259,17.5378892 C23.8181259,18.5368359 23.5788234,19.4787532 23.1643306,20.3192849 C22.1333171,22.4103637 19.985186,23.8558545 17.5000932,23.8558545 L17.4978567,23.8558545 C14.0152975,23.8547363 11.1824333,21.0211568 11.1824333,17.5382619 L7.82772565,17.5382619 C7.82772565,22.8237338 12.0908135,27.1337417 17.3603137,27.2094082 L17.3755963,27.2105264 L17.5000932,27.2105264 C21.2048086,27.2105264 24.5282056,25.1384574 26.1727579,21.8031681 C26.8362445,20.4579447 27.1724607,19.0228906 27.1724607,17.5378892 C27.1724607,14.6439255 25.8894714,11.9244049 23.6522542,10.0774716 C23.352567,9.82997138 23.0178417,9.5910442 22.6301866,9.34764412 C22.2421588,9.10387129 21.8414576,8.88917229 21.4396382,8.70951097 C20.1879595,8.14928077 18.8624772,7.86562462 17.5000932,7.86562462 L15.4611764,7.86562462 L15.4611764,11.2202965 L17.5004659,11.2202965 L17.5004659,11.2199238 Z"></path>
+	<path d="M7.8276511,11.2199238 L7.8276511,15.8232791 L11.1823587,15.8232791 L11.1823587,11.2199238 L13.7468463,11.2199238 L13.7468463,7.86525188 L11.1823587,7.86525188 L7.8276511,7.86525188 L5.06933595,7.86525188 L5.06933595,11.2199238 L7.8276511,11.2199238 Z"></path>
+</svg>
+<span class="logo__title">DailyTekk</span></a>
+					<div class="menu-wrapper">
+						<form method="get" id="searchform" class="searchform" action="http://dailytekk.com" >
+	<input type="text" name="s" id="s" class="search__input" placeholder="Search..."/>
+	<input type="submit" value="search" id="searchsubmit" class="search__btn" />
+</form>
+
+						<ul class="menu"><li id="menu-item-13421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13421"><a href="http://dailytekk.com/category/features/">Features</a></li><li id="menu-item-13419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13419"><a href="http://dailytekk.com/category/lists/">Lists</a></li><li id="menu-item-13420" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13420"><a href="http://dailytekk.com/category/reviews/">Reviews</a></li><li id="menu-item-13422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13422"><a href="http://dailytekk.com/products/">Products</a></li><li id="menu-item-13423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13423"><a href="http://dailytekk.com/category/community/">Community</a></li>
+</ul>					</div>
+				</div>
+			</header>
+			<main class="page-content">
+
+		
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT 970 x 90 Large Leaderboard -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:970px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6229458023"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+
+	<div class="container single-post">
+					<h1 class="post__title">Gadgets</h1>
+				<div class="col-three-quarters m-col-one-whole" id="content">
+					<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-12-at-7.24.25-AM-730x488.png" class="attachment-post-size wp-post-image" alt="Screen Shot 2015-01-12 at 7.24.25 AM" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2015/01/12/10-stylish-and-high-quality-internet-radios/">10 Stylish and High-Quality Internet Radios</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Think radios have gone out of style? Think again. And forget AM/FM. These days, new premium radios are Wi-Fi connected. That means you can listen to radio stations from around the world, yes, or, thanks to Spotify Connect, get all your favorite music delivered from your smartphone via insanely good sounding speakers. In other words, you can [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="awesomebest4ktvs" srcset="http://dailytekk.com/wp-content/uploads/2015/01/awesomebest4ktvs-730x488.jpg, http://dailytekk.com/wp-content/uploads/2015/01/awesomebest4ktvs-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2015/01/04/the-6-best-4k-ultra-hd-tvs-for-the-ultimate-tv-movie-and-gaming-experience-2015/">The 6 Best 4K Ultra HD TVs for the Ultimate TV, Movie and Gaming Experience (2015)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>If you&#8217;re looking for the best new TV you can buy, you&#8217;re looking for a 4K Ultra HD TV. 4K Ultra HD TVs have 4x the pixels of 1080p HD which means you&#8217;re going to see crystal clear, life-life details that will truly blow you away. Even your older content (like Blu-Rays) will look sensational [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-04-at-6.03.15-AM-730x488.png" class="attachment-post-size wp-post-image" alt="Screen Shot 2015-01-04 at 6.03.15 AM" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2015/01/04/the-5-best-coolest-and-most-useful-chromebooks-you-can-buy-2015/">The 5 Best, Coolest and Most Useful Chromebooks You Can Buy (2015)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>The appeal of the Chromebook is simple: by shifting all the heavy computing to the cloud, Google found a way to allow manufacturers to provide cheaper hardware that still lets you get work done. For students and people who do light computing (Gmail, Netflix, Amazon, Google Docs, writing, general web surfing, etc.), a Chromebook may be [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/12/15737636825_3b1bbc9377_o-730x488.png" class="attachment-post-size wp-post-image" alt="15737636825_3b1bbc9377_o" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/16/the-top-10-gadgets-of-2014-according-to-google-search-results/">The top 10 gadgets of 2014 according to Google search results</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>What were the top Google searches for tech gadgets in the US in 2014? iPhone 6 Samsung Galaxy s5 Nexus 6 Apple Watch Chromecast Xbox One Samsung Galaxy Note 4 LG G3 Moto 360 Surface Pro 3 I&#8217;m sure Google is proud of this list in many ways because 6 of the 10 gadgets have [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-14-at-9.31.19-AM-730x488.png" class="attachment-post-size wp-post-image" alt="Screen Shot 2014-12-14 at 9.31.19 AM" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/15/the-top-100-iphone-6-and-6-plus-accessories-categorized-ranked/">The Top 100 iPhone 6 and 6 Plus Accessories (Categorized &#038; Ranked)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I love my new iPhone 6 Plus (although sometimes I wish I had gone with the smaller 6). Either way. Best phone I&#8217;ve ever owned. Regular readers know I&#8217;ve been on the hunt for the best looking iPhone 6 cases for a few weeks now, but I figured it was time to see what other amazingly [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/12/full-sensor-mirror-family-p1-v2-e1418250511461-730x488.jpg" class="attachment-post-size wp-post-image" alt="" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/10/simplehuman-sensor-mirror-review/">Simplehuman Sensor Mirror Review</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>The simplehuman magnifying sensor mirror is a stainless steel beauty must-have. This gadget is a staple for ensuring a flawless finish to your morning (or evening) routine. The price ($200) seems a bit steep when compared to many other cheap countertop mirrors on the market. But this item is a high quality investment. The 8” [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/12/kevo-730x488.jpg" class="attachment-post-size wp-post-image" alt="kevo" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/08/kwikset-kevo-review-like-living-in-the-future-now/">Kwikset Kevo Review: Like Living in the Future, Now</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>My life feels more futuristic all the time. That&#8217;s thanks to all the gadgets I receive and review each month. And while there are plenty that make me say, &#8220;Wow,&#8221; not too many make me feel like I&#8217;m from the future and those around me are stuck in the stone ages. But that&#8217;s exactly the [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="sponsored">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/12/PopClik_Beatles20140429145427-730x488.jpg" class="attachment-post-size wp-post-image" alt="PopClik_Beatles20140429145427" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/12/01/popclik-review-fun-colorful-unique-headphones-earphones-and-speakers/">Popclik Review: Fun, Colorful, Unique Headphones, Earphones and Speakers</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I’ve tested more than my fair share of headphones, earphones and speakers both in my personal life and for DailyTekk. After awhile features and traits begin to blend together and it gets tough to recall a particular brand or model. That’s why it’s such a surprise to find a brand or product whose features or [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/11/kanex-730x488.jpg" class="attachment-post-size wp-post-image" alt="kanex" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/11/25/if-there-were-a-dream-keyboard-this-would-be-it/">If There Were A Dream Keyboard, This Would Be It</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I&#8217;ve been eyeing a particular keyboard for many months now. I wanted to try this keyboard more than a person should probably want to try any keyboard. It had a killer feature that made me want it which I&#8217;ll explain shortly. The keyboard I&#8217;m talking about is the Kanex Multi-Sync Bluetooth Keyboard for Mac and [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/11/clairairfilter-730x488.jpg" class="attachment-post-size wp-post-image" alt="clairairfilter" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/11/24/clair-bg2025-air-purifier-review-stylish-quiet-convenient/">Clair BG2025 Air Purifier Review: Stylish, Quiet, Convenient</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Whether you live in the city or in the country, today&#8217;s air quality is increasingly alarming. Exhaust from trucks, a neighbor that smokes, fumes from industrial farms and, well, your basic cloud of pollution. It&#8217;s all the stuff I listed above that makes a person like myself like the idea of an air filter. But [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/11/zipbuds-730x488.jpg" class="attachment-post-size wp-post-image" alt="zipbuds" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/11/18/ingenious-headphones-that-dont-get-tangled/">Ingenious Headphones That Don’t Get Tangled</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>One of the most annoying annoyances a smartphone user deals with is tangled headphone cords. Doesn’t matter if you’re an Apple or Samsung user, a Beats lover or a Bose fanatic. Wired headphones get tangled. Well, almost all wired headphones get tangled. I’d read about ZipBuds before on various tech blogs. They’re earphones that literally [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" class="attachment-post-size wp-post-image" alt="15709720925_d16affeb89_k" srcset="http://dailytekk.com/wp-content/uploads/2014/11/15709720925_d16affeb89_k-730x488.jpg, http://dailytekk.com/wp-content/uploads/2014/11/15709720925_d16affeb89_k-730x488@2x.jpg 2x" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/11/17/the-iphone-6-has-a-design-flaw/">The iPhone 6 Has A Design Flaw</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>In general I’m a huge fan of my iPhone 6 Plus. I’m 98% satisfied with it’s design and performance so far. There are a few issues that have bothered me which have mostly been minor (very occasional device resets out of the blue). But there is one nagging issue that flat-out bugs me. I take [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/11/1-e1416254627281-730x488.jpg" class="attachment-post-size wp-post-image" alt="" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/11/17/this-hairdryer-cuts-drying-time-in-half/">This Hairdryer Cuts Drying Time in Half</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>The T3 Featherweight Luxe 2i is an ionic, ceramic hair dryer that also boasts of Tourmaline and SoftAire technology. Tourmaline emits negative ions along with infrared heat which reduces damage. SoftAire describes the dryer’s specially designed fan that produces a soft, gentle speed that dries hair faster and reduces frizz. The features of this blowdryer [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="sponsored">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/10/creative-roar-730x488.png" class="attachment-post-size wp-post-image" alt="creative-roar" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/10/28/creative-sound-blaster-roar-a-featured-packed-portable-bluetooth-speaker/">Creative Sound Blaster Roar: A Feature-Packed Portable Bluetooth Speaker</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>There&#8217;s something about a high-quality, portable speaker that just makes you&#8230; want it. In a way, it&#8217;s the ultimate gadget accessory; the perfect compliment to the devices our entire world&#8217;s revolve around: our smartphones (and to an extent, our tablets). The best Bluetooth speakers are natural extensions of ourselves. They play our music. They amplify [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="460" src="http://dailytekk.com/wp-content/uploads/2014/10/riiv-730x460.png" class="attachment-post-size wp-post-image" alt="" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/10/09/riiviva-microdermabrasion-tool-review/">Riiviva Microdermabrasion Tool Review</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>The Riiviva Microderm is a sleek handheld device that promises smoother and younger looking skin without leaving the comfort of your home. It’s equipped with medical-grade diamond tip technology, is a lot less expensive (starting at $269) and, as you can guess, is much more convenient than visiting a professional. The device features high quality [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/08/bluelounge-sanctuary4-730x488.jpg" class="attachment-post-size wp-post-image" alt="bluelounge-sanctuary4" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/08/11/bluelounge-sanctuary4-review-charge-multiple-iphones-ipads-lightning-fast/">Bluelounge Sanctuary4 review: charge multiple iPhones and iPads &#8220;lightning&#8221; fast</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I&#8217;m a huge sucker for smartphone and tablet charging stations—as are the readers of DailyTekk. Years ago I wrote 10+ ways to charge multiple iPads, iPhones and iPods at once and it remains one of the top 10 posts on DailyTekk day-in-and-day-out (in terms of traffic). For the past couple of weeks I&#8217;ve been testing [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/08/sleep-better-technology-730x488.jpg" class="attachment-post-size wp-post-image" alt="sleep-better-technology" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/08/11/10-gadget-apps-to-sleep-better/">Losing sleep? These 10 gadgets and apps will help you sleep better</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>If you&#8217;re anything like me, there aren&#8217;t enough hours in the night to get the sleep in you need. Anything that can help me sleep better is a welcome addition to my routine. Recently, a number of new startups and Kickstarter projects have cropped up to help people sleep more and better. While many sleep-enhancing &#8220;technologies&#8221; [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/08/automatic-featured-730x488.jpg" class="attachment-post-size wp-post-image" alt="automatic-featured" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/08/06/automatic-car-accessory-review/">Automatic is a car accessory that saves you money on gas (review)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>Automatic is something like Google Analytics for your car. It&#8217;s a half gadget/half app solution that solves a few problems every car driver faces: wasting gas, keeping your engine running in top shape and calling for help in an emergency. It also keeps track of where you&#8217;ve been and provides some interesting driving statistics. I have to say, [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/07/dark-energy-reservoir-730x488.jpg" class="attachment-post-size wp-post-image" alt="dark-energy-reservoir" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/07/29/dark-energy-reservoir-review/">Dark Energy Reservoir premium USB charger (review)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>I&#8217;ve got a [highlight]new favorite portable power source[/highlight] and it goes by the name of Dark Energy Reservoir ($129). It&#8217;s got the three s&#8217;s a portable USB charger needs to win me over: it&#8217;s [highlight]small, sleek and simple to use[/highlight]. Over the years I&#8217;ve used a number of portable power solutions. I have to since I&#8217;ve done [&hellip;]</p>
+		</div>
+			<figure class="figure">
+			<span class="">
+									<img width="730" height="488" src="http://dailytekk.com/wp-content/uploads/2014/07/gtar-dailytekk-730x488.jpg" class="attachment-post-size wp-post-image" alt="gtar-dailytekk" />							</span>
+			<figcaption class="figcaption">
+				<h2 class="post__title"><a href="http://dailytekk.com/2014/07/28/gtar-review/">Gtar: the best, and coolest, way to learn to play guitar (review)</a></h2>
+			</figcaption>
+		</figure>
+		<div class="content">
+			<p>The Gtar ($399) is one of those things I knew I had to have the moment I saw it. For those still in the dark, Gtar is [highlight]a smart electric guitar that teaches people how to play[/highlight], you guessed it, the guitar. I&#8217;ve always been interested in music. For awhile I was in a band back in [&hellip;]</p>
+		</div>
+	
+	<div id="nav-below" class="load--more">
+		<a href="http://dailytekk.com/category/gadgets/page/2/" class="btn btn--arrow">Load More</a>	</div>
+		</div><!--
+		--><div class="col-one-quarter m-col-one-whole sidebar">
+
+			
+
+					<aside id="dailytekk_recent_post-2" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">Feature</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="15014456652_3fcefa1de8_k" srcset="http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/02/15014456652_3fcefa1de8_k-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/02/10/tmobile-horrible-customer-service-jump/">T-Mobile Has Horrible Customer Service: Here&#8217;s How To Get A Resolution</a>
+							</h2>
+												
+
+				</aside>		<aside id="text-16" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"><!-- BuySellAds Zone Code -->
+<div id="bsap_1301090" class="bsarocks bsap_da5fc3a76f945dac1932bfb2d9940341"></div>
+<!-- End BuySellAds Zone Code --></div>
+		</aside><aside id="text-18" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"><div class="an-container" id="_-FZJnNgrOg0H_WnGXK6ZQKunfAqvkPrSVaBDU9c"></div></div>
+		</aside>				<aside id="dailytekk_recent_post-3" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">List</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="CHDHX-401_life2" srcset="http://dailytekk.com/wp-content/uploads/2015/01/CHDHX-401_life2-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/01/CHDHX-401_life2-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/01/05/the-5-best-wearable-action-cameras-available-now-2015/">The 5 Best Wearable &#038; Action Cameras Available NOW (2015)</a>
+							</h2>
+												
+
+				</aside>						<aside id="dailytekk_recent_post-4" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_recent_post">					<h3 class="widget-title">Review</h3>
+																											<img width="200" height="134" class="attachment-widget-size wp-post-image" alt="iPhone_6_Phase_14519Captureone_2048x2048" srcset="http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-200x134.jpg, http://dailytekk.com/wp-content/uploads/2015/02/iPhone_6_Phase_14519Captureone_2048x2048-200x134@2x.jpg 2x" />														<h2 class="product__title">
+								<a href="http://dailytekk.com/2015/02/10/grovemade-maple-iphone-6-plus-case-review/">Grovemade Maple iPhone 6 Plus Case Review</a>
+							</h2>
+												
+
+				</aside>		<aside id="text-17" class="col-one-whole m-col-one-half s-col-one-whole widget widget_text">			<div class="textwidget"></div>
+		</aside>		<aside id="dailytekk_products-2" class="col-one-whole m-col-one-half s-col-one-whole widget widget_dailytekk_products">			<h3 class="widget-title">Products</h3>
+																											<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/yoink/">Yoink</a>
+								</h2>
+																	<h3 class="product__description">Takes the 'drag' out of drag and drop</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13187">
+									<span class="social--counter">155</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13187"
+									data-url="http://dailytekk.com/product/yoink/"
+																		data-text="Yoink - Takes the 'drag' out of drag and drop"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Yoink - Takes+the+%27drag%27+out+of+drag+and+drop&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/yoink/"
+									data-post_id="13187"
+									data-text="Yoink - Takes the 'drag' out of drag and drop"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fyoink%2F&amp;t=Yoink Takes+the+%27drag%27+out+of+drag+and+drop">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/stackhive/">StackHive</a>
+								</h2>
+																	<h3 class="product__description">The Fastest Web Development tool</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13247">
+									<span class="social--counter">64</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13247"
+									data-url="http://dailytekk.com/product/stackhive/"
+																		data-text="StackHive - The Fastest Web Development tool"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=StackHive - The+Fastest+Web+Development+tool&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/stackhive/"
+									data-post_id="13247"
+									data-text="StackHive - The Fastest Web Development tool"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fstackhive%2F&amp;t=StackHive The+Fastest+Web+Development+tool">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/filepane/">FilePane</a>
+								</h2>
+																	<h3 class="product__description">File management utility</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13245">
+									<span class="social--counter">39</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13245"
+									data-url="http://dailytekk.com/product/filepane/"
+																		data-text="FilePane - File management utility"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=FilePane - File+management+utility&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/filepane/"
+									data-post_id="13245"
+									data-text="FilePane - File management utility"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Ffilepane%2F&amp;t=FilePane File+management+utility">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/samba/">Samba</a>
+								</h2>
+																	<h3 class="product__description">See your friends react to your video messages</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13181">
+									<span class="social--counter">34</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13181"
+									data-url="http://dailytekk.com/product/samba/"
+																		data-text="Samba - See your friends react to your video messages"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=Samba - See+your+friends+react+to+your+video+messages&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsamba%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/samba/"
+									data-post_id="13181"
+									data-text="Samba - See your friends react to your video messages"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fsamba%2F&amp;t=Samba See+your+friends+react+to+your+video+messages">
+									Share</a>
+								</div>
+							</div>
+						</div>
+																	<div class="product product--item product--count">
+							<div class="product__text">
+								<h2 class="product__title">
+									<a href="http://dailytekk.com/product/deviantart-mobile-app/">DeviantArt Mobile App</a>
+								</h2>
+																	<h3 class="product__description">The world's largest art gallery in your hand</h3>
+															</div><!--
+							--><div class="voting">
+								<span class="voting__counter" data-vote="all" data-post_id="13224">
+									<span class="social--counter">28</span> shares/upvotes
+								</span>
+								<div class="product__voting">
+									<a class="col-one-half product__vote product__vote--twitter "
+									data-vote="twitter"
+									data-vote-everything="everything"
+									data-post_id="13224"
+									data-url="http://dailytekk.com/product/deviantart-mobile-app/"
+																		data-text="DeviantArt Mobile App - The world's largest art gallery in your hand"
+									target="_blank"
+									href="http://twitter.com/intent/tweet?text=DeviantArt+Mobile+App - The+world%27s+largest+art+gallery+in+your+hand&amp;url=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdeviantart-mobile-app%2F">
+									Tweet</a><!--
+									--><a class="col-one-half product__vote product__vote--facebook "
+									data-vote="facebook"
+									data-vote-everything="everything"
+									data-url="http://dailytekk.com/product/deviantart-mobile-app/"
+									data-post_id="13224"
+									data-text="DeviantArt Mobile App - The world's largest art gallery in your hand"
+									target="_blank"
+									href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdailytekk.com%2Fproduct%2Fdeviantart-mobile-app%2F&amp;t=DeviantArt+Mobile+App The+world%27s+largest+art+gallery+in+your+hand">
+									Share</a>
+								</div>
+							</div>
+						</div>
+														</aside>		
+
+		</div>
+	</div>
+	</main>
+		<div class="ad ad--big">
+		<div class="container">
+			<!-- DT AYL 728 x 90 -->
+<ins class="adsbygoogle"
+style="display:inline-block;width:728px;height:90px"
+data-ad-client="ca-pub-2653072855787391"
+data-ad-slot="6674748022"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p class="footnote">© MMXV DailyTekk.</p><!--
+			--><ul class="menu"><li id="menu-item-13417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13417"><a href="http://dailytekk.com/advertise/">Advertise</a></li><li id="menu-item-13416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13416"><a href="http://dailytekk.com/about/">About</a></li><li id="menu-item-13418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13418"><a href="http://dailytekk.com/contact/">Contact</a></li>
+</ul>		</div>
+	</footer>
+
+				<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-51766718-1', 'dailytekk.com');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+</script>	
+<!--Plugin WP Missed Schedule 2013.1231.2015 Build 2015-01-19 Active - Tag 991777abf4277c24f209b74b5da25563-->
+
+<!-- This website is patched against a big problem not solved from WordPress 2.5+ to date -->
+
+<!-- GumGum: You need to configure your Zone ID. -->        <script>var _roost = _roost || [];</script>
+                <script src="//cdn.goroost.com/roostjs/f508ef4fe9b846ef87277d425bc91f4e" async></script>
+        <script type="text/javascript" src="http://s.skimresources.com/js/72148X1521037.skimlinks.js"></script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SiteVars = {"siteUrl":"http:\/\/dailytekk.com","templateUrl":"http:\/\/dailytekk.com\/wp-content\/themes\/DailyTekk","ajaxUrl":"http:\/\/dailytekk.com\/wp-admin\/admin-ajax.php","nonce":"5a48cfc86f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/themes/DailyTekk/js/functions.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=2.2.0.2014.12.19'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201507'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://dailytekk.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.1'></script>
+
+	<script src="http://stats.wp.com/e-201507.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3.1',blog:'34449495',post:'0',tz:'-7'});
+	var load_cmc = function(){linktracker_init(34449495,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script><!-- Begin ADSNATIVE Code -->
+<script type="text/javascript" src="//static.adsnative.com/static/js/render.v1.js"></script>
+<!-- End ADSNATIVE Code -->
+</body>
+</html>

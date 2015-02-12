@@ -1,0 +1,1939 @@
+<!DOCTYPE html>
+<html >
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta charset="utf-8">
+<title>Resource and Tutorials for Professional Digital Media Designers - Digital Arts</title>
+<meta name="description" content="Digital Arts is magazine for professional Digital designers with focus on valuable techniques, best practices and useful resources.">
+<meta name="keywords" content="digital design magazine,photoshop tutorials,digital design news, dtp, graphic design, 2D video, 3D video, web design, computer arts, photoshop, flash, macromedia, mx, adobe">
+<link rel="publisher" href="https://plus.google.com/114867374490682182090/posts" />
+<meta name="dcterms.rights" content="Copyright 2015 IDG Communications Ltd" />
+<meta name="generator" content="Various" />
+<meta name="Rating" content="General" />
+<meta name="dcterms.audience" content="Global" />
+<meta name="verify-v1" content="0gdAJD3WhDIKyA/2dt5u/WdC0h+MFkA7QTQ5BCouZgk=" >
+<meta name="msvalidate.01" content="20FE82FDCC802E9D7F0BF011F6939733" >
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digital_arts">
+<link rel="Shortcut Icon" href="http://cdn2.digitalartsonline.co.uk/graphics/favicon.ico" type="image/vnd.microsoft.icon" >
+<meta name="robots" content="follow,index"/>
+<link rel="search" href="http://www.digitalartsonline.co.uk/search/">
+<link rel="search" type="application/opensearchdescription+xml" title="Digital Arts Search" href="/assets/search.osdx">
+<link rel="apple-touch-icon" href="http://cdn2.digitalartsonline.co.uk/graphics/appleicon57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://cdn2.digitalartsonline.co.uk/graphics/appleicon72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://cdn2.digitalartsonline.co.uk/graphics/appleicon114.png" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:image" content="http://cdn2.digitalartsonline.co.uk/graphics/appleicon114.png" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Resource and Tutorials for Professional Digital Media Designers" />
+<meta property="og:description" content="Digital Arts is magazine for professional Digital designers with focus on valuable techniques, best practices and useful resources." />
+<meta property="og:site_name" content="Digital Arts" />
+<link href="http://fnt.webink.com/wfs/webink.css?project=7C36076D-7037-4B60-8442-8A080D883F7C&amp;fonts=99B90B52-FC86-D532-91E2-93D2FC4AE03D:family=FuturaPTBook-Reg,26EB9F9A-540C-0EDA-E2AC-94F1D0B12ADC:family=FuturaPTCondMedium-Obl,26DEDB25-7265-3DA1-AF0B-D38142840557:family=JubilatLight-Italic,2E9395F1-9F2E-683A-EC6B-F1BDF626AB55:family=FuturaPTBold-Obl,F9035255-CE32-045E-9AB2-4032D913936F:family=FuturaPTCondMedium-Reg,C5EF8EF8-F746-BD72-F68F-A8A114FCD2CA:family=FuturaPTDemi-Obl,90B31622-84CA-A67B-AA09-A60AA2E2A6C5:family=FuturaPTCondBold-Obl,4CB95FAA-69F1-A444-44AA-7A8EA9190015:family=FuturaPTCondBook-Reg,4D126820-EF0A-497F-7620-73D4E91A7616:family=JubilatThin-Italic,139EC495-F3D6-7AAC-6D8C-069DACB64BB6:family=JubilatBlack-Italic,5313C970-5657-554B-4907-8B022470547F:family=JubilatHairline-Roman,0E6AB8FE-34AD-7B50-6410-BB362C745FAD:family=JubilatLight-Roman,E2092FF9-B709-DEE1-C5A3-0A46B401D764:family=FuturaPTDemi-Reg,C177233D-93DB-00AC-E158-36E5460705F9:family=JubilatSuperThin-Italic,6F065A06-38DA-B845-B2B2-B624B85A3CB3:family=JubilatHairline-Italic,84B37C04-43E0-7BCC-434D-00B4D05470BA:family=FuturaPTCondBook-Obl,62538970-52A3-3A2B-6BBC-1415F6E1D2A3:family=FuturaPTCondExtraBold-Obl,2BE6F679-505D-07B4-03CB-8CFACB13A7BC:family=JubilatBold-Italic,94250451-B08F-6072-C8B8-6FDBBC9684ED:family=FuturaPTHeavy-Reg,D253B40C-7341-430B-C2B3-F1880077BB2E:family=JubilatExtraLight-Italic" rel="stylesheet" type="text/css"/>
+<link href="http://fnt.webink.com/wfs/webink.css?project=7C36076D-7037-4B60-8442-8A080D883F7C&amp;fonts=BF23F82D-E880-2F4D-2EF0-D913AA3B0FBC:family=FuturaPTCondExtraBold-Reg,69AD5F43-43C5-F866-FD57-89C46804BDBC:family=JubilatExtraThin-Italic,3E12C1A0-D4FA-7D80-1FD8-F401DCB084C6:family=JubilatRegular-Italic,9E4A67B1-52AA-088D-2F00-62815998F7EA:family=FuturaPTExtraBold-Reg,0E98AEA5-6965-8AB5-95A9-BCF408C01D1F:family=JubilatSuperThin-Roman,B6244AA7-9321-F818-21B7-DCD4B4E2ABE7:family=FuturaPTLight-Reg,C65CFDCF-329E-C2D3-A0CE-2DE9D7D6FEF6:family=FuturaPTMedium-Reg,00CD7F36-3CE5-0CA7-E6EA-D50A7AD91F7D:family=JubilatBold-Roman,AB361409-53F2-D2E6-C45A-BF6978F2395F:family=JubilatSemibold-Italic,5BDE3730-9C48-1AFE-2D5F-6E62065C9D9C:family=FuturaPTMedium-Obl,4DE9BB97-31AB-6D7E-0D51-E25951D1378E:family=FuturaPTBook-Obl,F0F125D0-AE03-4ACA-3E04-9B33CE4C3491:family=JubilatRegular-Roman,69B03125-A1C7-FB22-5D07-EF0115C6E779:family=JubilatMedium-Roman,9BBF531C-07B8-0252-FFDA-C64FFF0E4B90:family=FuturaPTCondBold-Reg,C305E6CC-6F9B-6544-534E-529310FEAA16:family=JubilatExtraLight-Roman,BD0FE277-81E7-9E8D-10E8-1F09BB62C043:family=JubilatMedium-Italic,E4698A1A-2C03-49DB-78A4-83E4004C9789:family=JubilatExtraThin-Roman,BEE048AF-F74F-572E-AC88-22BFF1F23D13:family=FuturaPTBold-Reg,1206D05B-44C4-D460-A8A1-939FB30E486F:family=JubilatBlack-Roman,25C23466-85DB-1181-05A5-E1E95DD36FAD:family=FuturaPTExtraBold-Obl" rel="stylesheet" type="text/css"/>
+<link href="http://fnt.webink.com/wfs/webink.css?project=7C36076D-7037-4B60-8442-8A080D883F7C&amp;fonts=1815E69D-407F-EFF6-DE09-BBCE154850A1:family=FuturaPTLight-Obl,2A696ECE-1E97-9920-09DC-10384B668AC9:family=JubilatSemibold-Roman,11EFCC56-EDF6-6CC8-2B67-33F927562383:family=FuturaPTHeavy-Obl,34885965-38B1-E7DC-957A-7953EB166D0D:family=JubilatThin-Roman" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="http://cdn2.digitalartsonline.co.uk/styles/libs/bootstrap.css?20150210102513" media="screen" >
+<link rel="stylesheet" href="http://cdn2.digitalartsonline.co.uk/styles/screen.css?20150210102513" media="screen" >
+<link rel="stylesheet" href="http://cdn2.digitalartsonline.co.uk/styles/print.css?20150210102513" media="print" >
+<link rel="stylesheet" href="http://cdn2.digitalartsonline.co.uk/styles/webkit.css?20150210102513" media="screen" >
+<link rel="stylesheet" href="http://cdn1.digitalartsonline.co.uk/styles/facebox.css?20150210102513" media="screen" >
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="/styles/ie.css?20150210102513">
+<![endif]-->
+<script type="text/javascript" language="javascript">
+if(typeof window.console === 'undefined' && typeof console.firebug === 'undefined'){
+var names = ["log", "debug", "info", "warn", "error", "assert", "dir", "dirxml",
+"group", "groupEnd", "time", "timeEnd", "count", "trace", "profile", "profileEnd"];
+window.console = {};
+for (var i = 0; i < names.length; ++i)
+window.console[names[i]] = function() {}
+}
+</script>
+<script type="text/javascript">
+var setting = function(key){
+var settings = {
+SITE_REG_CALLBACK_EVENT: 'registrationCallback',
+INTENTHQ_DEBUG: true,
+USER_DEBUG: false
+};
+return settings[key];
+};
+</script>
+<script src="http://cdn2.digitalartsonline.co.uk/scripts/libs/modernizr.js?20150120095402"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.load.min.js"></script>
+<script type="text/javascript">
+if(typeof head === 'undefined'){
+console.error('headjs not found including local copy');
+document.write('<sc' + 'ript src="http://cdn2.digitalartsonline.co.uk/scripts/libs/head.min.js?20150120095402"></s' + 'cript>')
+}
+</script>
+<script>
+var unruly = window.unruly || {};
+unruly.native = unruly.native || {};
+unruly.native.siteId = 188429;
+</script>
+<script src="//video.unrulymedia.com/native/native-loader.js"></script>
+<script type="text/javascript">
+//load libraries
+head.load([
+{json2: "http://cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"}, //http://cdn2.digitalartsonline.co.uk/scripts/libs/json2.js?20150120095402
+{facebox: "http://cdn2.digitalartsonline.co.uk/scripts/libs/facebox-pack.js?20150120095402"},
+{swfobject: "http://cdn2.digitalartsonline.co.uk/scripts/libs/swfobject-pack.js?20150120095402"},
+{cfjs:"http://cdn2.digitalartsonline.co.uk/scripts/libs/jquery-cfjs-pack.js?20150120095402"},
+{browserSniffer: "http://cdn2.digitalartsonline.co.uk/scripts/libs/browser-sniffer-pack.js?20150120095402"},
+{underscore: 'http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js'}, //http://cdn2.digitalartsonline.co.uk/scripts/libs/underscore-min.js?20150120095402
+{magnificPopup: 'http://cdn1.digitalartsonline.co.uk/scripts/libs/jquery.magnific-popup.min.js?20150120095402'},
+{bootstrap: "http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"}, //http://cdn2.digitalartsonline.co.uk/scripts/libs/bootstrap.min.js?20150120095402
+{jqueryValidate: 'http://cdn1.digitalartsonline.co.uk/scripts/libs/jquery.validate.min.js?20150120095402'}
+]);
+head.ready(['underscore', 'json2'], function(){
+//load addon libs
+head.load([
+{backbone: 'http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min.js'}, //http://cdn2.digitalartsonline.co.uk/scripts/libs/backbone-min.js?20150120095402
+{jstorage: "http://cdn2.digitalartsonline.co.uk/scripts/libs/jstorage.min.js?20150120095402"}
+]);
+//load site scripts
+head.ready(['facebox', 'swfobject', 'cfjs', 'browserSniffer', 'bootstrap', 'magnificPopup', 'backbone'], function(){
+head.ready(document, function(){
+head.load([
+{sectionSpecific: "http://cdn1.digitalartsonline.co.uk/scripts/section-specific-functions-pack.js?20150120095402"},
+{script: "http://cdn1.digitalartsonline.co.uk/scripts/script-pack.js?20150120095402"},
+{formFunctions: "http://cdn2.digitalartsonline.co.uk/scripts/form-functions-pack.js?20150120095402"},
+{userLinks: "http://cdn2.digitalartsonline.co.uk/scripts/modules/userLinks-pack.js?20150120095402"},
+{loginOverlay: "http://cdn1.digitalartsonline.co.uk/scripts/modules/loginOverlay-pack.js?20150120095402"},
+{registerOverlay: "http://cdn2.digitalartsonline.co.uk/scripts/modules/registerOverlay-pack.js?20150120095402"}
+]);
+});
+});
+});
+</script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="/scripts/libs/selectivizr.js"></script>
+<noscript><link rel="stylesheet" href="" /></noscript>
+<![endif]-->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+var Tynt=Tynt||[];Tynt.push('cuXgce4umr4ArAacwqm_6r');Tynt.i={"a":false};
+(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<script type='text/javascript' src='http://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script type='text/javascript'>
+try {
+amznads.getAds('3051');
+} catch (e) { /* ignore */ }
+</script>
+<script type="text/javascript">
+window.$intentHq = $.Deferred(); //store a deferred object we can use in scripts to check it is loaded
+window.gdLoaded = (function(gd) {
+var gd = gd.init({}).then(function(gd) {
+if (!$.isReady) {
+$(document).ready(function(){
+gd.startPlugins();
+});
+}
+window.intentHq = gd; //store this so we can use it later
+window.$intentHq.resolve();
+}).done();
+});
+head.load([{intentHq: 'https://7176699338.intenthq.com/sdk/gd-sdk.js'}]);
+</script>
+<script type="text/javascript">
+head.load([{intentHqLogin: 'http://cdn2.digitalartsonline.co.uk/scripts/modules/intentHq-login-pack.js?20150120095402'}]);
+</script>
+<script type="text/javascript">
+var _elqQ = _elqQ || [];
+_elqQ.push(['elqSetSiteId', '3109']);
+_elqQ.push(['elqTrackPageView']);
+(function () {
+function async_load() {
+var s = document.createElement('script'); s.type = 'text/javascript';
+s.async = true; s.src = 'http://cdn2.digitalartsonline.co.uk/scripts/elqNow/elqCfg.min.js?20150120095402';
+var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+}
+if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+else if (window.attachEvent) window.attachEvent('onload', async_load);
+})();
+</script>
+<!-- @@DFP_AD_UNITS_START@@ -->
+<script type="text/javascript">
+var AD_CONFIG_UNITS = {},
+configureAdUnits = function(){throw('not defined yet');};
+(function(){
+configureAdUnits = function() {
+if(adConfig.debug)console.log('configureAdUnits called');
+var iPad = navigator.userAgent.match(/iPad/i) != null,
+Android = navigator.userAgent.toLowerCase().indexOf("android") > -1,
+AndroidMobile = navigator.userAgent.toLowerCase().indexOf("android") > -1 && navigator.userAgent.toLowerCase().indexOf("mobile") >-1,
+Win8Touch = navigator.userAgent.toLowerCase().indexOf("windows nt 6.2") > -1 && navigator.userAgent.toLowerCase().indexOf("touch") > -1;
+var mappings = {
+welcomead: googletag.sizeMapping().
+addSize([650, 0], [1, 1]).
+addSize([320, 0], [1, 1]).
+addSize([0, 0], [12, 1]).
+build(),
+leaderboard: googletag.sizeMapping().
+addSize([980, 0], [[970, 250], [970, 66], [728, 90]]).
+addSize([570, 0], [[728, 90]]).
+addSize([478, 0], [[468, 60]]).
+addSize([280, 0], [[320, 50], [300, 50]]).
+addSize([0, 0], [[12, 1]]).
+build(),
+mpu: googletag.sizeMapping().
+addSize([830, 0], [[300, 250], [300, 600]]).
+addSize([320, 0], [[300, 250],[320, 50]]).
+addSize([0, 0], [12, 1]).
+build(),
+mpuSmall: googletag.sizeMapping().
+addSize([830, 0], [[300, 250]]).
+addSize([320, 0], [[300, 250],[320, 50]]).
+addSize([0, 0], [12, 1]).
+build(),
+sky: googletag.sizeMapping().
+addSize([0,0], [[120,600],[160,600]]).
+addSize([0, 0], [[12, 1]]).
+build(),
+inskin: googletag.sizeMapping().
+addSize([980,0], [[2,2]]).
+addSize([0, 0], [[12, 1]]).
+build(),
+avid: googletag.sizeMapping().
+addSize([0,0], [[2,1]]).
+build()
+};
+var slotSize = {
+leaderboard: [728, 90],
+mpu: [300, 250],
+mpuSmall: [300, 250],
+sky: [120, 600],
+inskin: [2, 2],
+avid: [2, 1]
+};
+if(adConfig.debug)console.log('adding welcomead to unit config');
+AD_CONFIG_UNITS["welcomead"] = {count: 1, mappings: mappings['welcomead'], slotSize: slotSize['welcomead']};
+if(adConfig.debug)console.log('adding mpu to unit config');
+AD_CONFIG_UNITS["mpu"] = {count: 1, mappings: mappings['mpu'], slotSize: slotSize['mpu']};
+if(adConfig.debug)console.log('adding mpuSmall to unit config');
+AD_CONFIG_UNITS["mpuSmall"] = {count: 2, mappings: mappings['mpuSmall'], slotSize: slotSize['mpuSmall']};
+if(iPad || (Android && !AndroidMobile) || Win8Touch || screen.width >= 1260) {
+AD_CONFIG_UNITS["inskin"] = {count: 1, mappings: mappings['inskin'], slotSize: slotSize['inskin']};
+}
+if(adConfig.debug)console.log('adding avid to unit config');
+AD_CONFIG_UNITS["avid"] = {count: 0, mappings: mappings['avid'], slotSize: slotSize['avid']};
+if(adConfig.debug)console.log('adding leaderboard to unit config');
+AD_CONFIG_UNITS["leaderboard"] = {count: 2, mappings: mappings['leaderboard'], slotSize: slotSize['leaderboard']};
+if(adConfig.debug)console.log('adding sky to unit config');
+AD_CONFIG_UNITS["sky"] = {count: 2, mappings: mappings['sky'], slotSize: slotSize['sky']};
+if(adConfig.debug)console.log('configureAdUnits returning');
+return AD_CONFIG_UNITS;
+};
+})();
+</script>
+<!-- @@DFP_AD_UNITS_END@@ -->
+<!-- Call to Google Tag Services -->
+<script async src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+/*
+* polyfill for Object.keys
+* From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+*/
+if (!Object.keys) {
+Object.keys = (function () {
+'use strict';
+var hasOwnProperty = Object.prototype.hasOwnProperty,
+hasDontEnumBug = !({toString: null}).propertyIsEnumerable('toString'),
+dontEnums = [
+'toString',
+'toLocaleString',
+'valueOf',
+'hasOwnProperty',
+'isPrototypeOf',
+'propertyIsEnumerable',
+'constructor'
+],
+dontEnumsLength = dontEnums.length;
+return function (obj) {
+if (typeof obj !== 'object' && (typeof obj !== 'function' || obj === null)) {
+throw new TypeError('Object.keys called on non-object');
+}
+var result = [], prop, i;
+for (prop in obj) {
+if (hasOwnProperty.call(obj, prop)) {
+result.push(prop);
+}
+}
+if (hasDontEnumBug) {
+for (i = 0; i < dontEnumsLength; i++) {
+if (hasOwnProperty.call(obj, dontEnums[i])) {
+result.push(dontEnums[i]);
+}
+}
+}
+return result;
+};
+}());
+};
+var gptEscape = function(s){
+s = s.replace(/[^a-zA-Z0-9,_\- ]/gim,'');
+//s = s.replace(/[ ]+/gi,'+');//replace multi space with +
+return s;
+};
+var adConfig = {
+debug : false,
+zone : 'home_door'.toLowerCase(),
+units : AD_CONFIG_UNITS,
+adsToRefresh : {},
+currentUrl : encodeURIComponent(window.location.href)
+};
+googletag = window.googletag || {cmd:[]};
+</script>
+<script>
+(function(){
+function addDataValuesToDfpTag( dataForDFP ) {
+// set key:values to the DFP tag and, if this is the final step, call DFPs
+//These values need to be passed in custom criteria as below
+//.setTargeting("proximic", dataForDFP)
+//console.log(dataForDFP);
+googletag.cmd.push(function() {
+if(typeof(dataForDFP) !== "undefined"){
+if(adConfig.debug)console.log('addDataValuesToDfpTag()',dataForDFP);
+googletag.pubads().setTargeting("proximic", dataForDFP);
+}else{
+if(adConfig.debug)console.log('addDataValuesToDfpTag() no data from proxf');
+}
+//googletag.display('leaderboard0');
+//googletag.display('leaderboard1');
+googletag.pubads().refresh();
+});
+};
+var dfp_called = false,
+timer,
+time_out = 200;//(timeout in ms) call dfp if timeout is exceeded
+function gotSegmentData(dataViaJsonp) {
+if(adConfig.debug)console.log('gotSegmentData() dfp_called='+dfp_called,dataViaJsonp);
+if (dfp_called == false) {
+dfp_called = true;
+/*
+Data has now been received and is now in dataViaJsonp
+Sample dataViaJsonp (note: response format can be easily changed):
+{"data":["300003","210000","240000","240001","240005","240006","3fy87w"]}
+*/
+/* kill the timeout timer */
+window.clearTimeout(timer);
+// use the information within the 'data' key, if key isn't there - don't use the data
+if ("data" in dataViaJsonp) {
+/*call DFP with the data*/
+addDataValuesToDfpTag(dataViaJsonp.data);
+} else {
+/*
+Do not send error codes or unknown values to DFP
+call DFP without using the data
+console.log("error");
+*/
+addDataValuesToDfpTag();
+}
+}
+};
+timer = window.setTimeout(
+function(){
+if(adConfig.debug)console.log('timeout - dfp_called='+dfp_called);
+if (dfp_called == false) {
+dfp_called = true;
+//Timeout occurred, call DFP without data
+if(adConfig.debug)console.log('proximic timeout occured');
+addDataValuesToDfpTag();
+}
+},time_out);
+})();
+</script>
+<script>
+if(adConfig.debug)console.log(adConfig);
+function refreshAds(adId) {
+var adArr = [];
+if(typeof adId !== 'undefined'){
+adArr.push(adConfig.adsToRefresh[adId]);
+}else{
+adArr = $.map(adConfig.adsToRefresh, function (value, key) { return value; });
+}
+if(adConfig.debug)console.log('refreshAds() called for', adArr);
+googletag.pubads().refresh(adArr);
+}
+googletag.cmd.push(function() {
+if(adConfig.debug)console.log('Starting ad configuration');
+configureAdUnits();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableVideoAds();
+var pubAds = [],
+slotPrefix = '/8456/IDG.UK_B2C_DigitalArtsOnline.co.uk/';
+var adUnits = Object.keys(adConfig.units).sort(function(a, b){
+return 1 + Math.max(a.indexOf('avid'), a.indexOf('inskin')) + ((a.indexOf('leaderboard') == 0 ? -5 : 0) + (b.indexOf('leaderboard') == 0 ? 5 : 0));
+});
+if(adConfig.debug)console.log('Defining ad slots');
+for(var adName in adUnits){
+var adName = adUnits[adName]
+if(adName.indexOf('welcomead') >= 0){
+if(adConfig.debug)console.log('enabling welcomead');
+var ad = googletag.defineOutOfPageSlot(slotPrefix + adConfig.zone, 'welcomead-pos1')
+.defineSizeMapping(AD_CONFIG_UNITS["welcomead"].mappings)
+.addService(googletag.pubads());
+pubAds.push(ad);
+continue;
+}
+var adIdPrefix = adName + '-pos',
+adUnitName = slotPrefix + adConfig.zone,
+adCount = adConfig.units[adName].count,
+adMappings = adConfig.units[adName].mappings,
+j=0,
+adSlotSize = adConfig.units[adName].slotSize;
+for(var i=1; i <=adCount; i++){
+if(adConfig.debug)console.log('attempting to enable '+adName + ' @ pos='+i+' with ', adConfig.units[adName]);
+++j;
+var targetPrefix = '';
+if(adName=='leaderboard' || adName=='mpu' || adName=='sky' || adName=='mpuSmall'){
+if(i==1 && adName!='mpuSmall'){
+targetPrefix = 'atf1';
+j=0;
+} else {
+targetPrefix = 'btf'+j;
+}
+}
+var adId = adIdPrefix+i,
+ad = googletag.defineSlot(adUnitName, adSlotSize, adId)
+.defineSizeMapping(adMappings)
+.addService(googletag.pubads());
+if(adName=='leaderboard' || adName=='mpu' || adName=='sky' || adName=='mpuSmall'){
+ad.setTargeting("pos", [targetPrefix]);
+}
+pubAds.push(ad);
+adConfig.adsToRefresh[adId] = ad
+if(adConfig.debug)console.log('enabled '+adName+' with ', adUnitName, adSlotSize, adMappings, adId, 'pos='+i);
+}
+}
+if(adConfig.debug)console.log('Finished defining ad slots');
+var resizeTimeOut = false;
+window.onresize = function(){
+if(resizeTimeOut !== false){
+clearTimeout(resizeTimeOut);
+}
+resizeTimeOut = setTimeout(refreshAds, 500);
+};
+//meta tags
+var rs_tax = [];
+var metatags = jQuery('meta[name=keywords]').attr("content");
+if (metatags != undefined && metatags != '') {
+strmetatags = metatags.toLowerCase().replace(/&amp;/g, "").replace(/&/g, "").split(",");
+for(var i=0,len=strmetatags.length; value=strmetatags[i], i<len; i++) {
+rs_tax.push(gptEscape(jQuery.trim(value)));
+}
+}
+if (rs_tax.length > 0) {
+if(adConfig.debug)console.log('kw=' + rs_tax.join(','));
+googletag.pubads().setTargeting("kw", rs_tax);
+}
+googletag.pubads().setTargeting("URL", adConfig.currentUrl);
+if(typeof amznads !== 'undefined') {
+try {
+amznads.setTargetingForGPTAsync('amznslots');
+}catch(ex){
+console.error(ex);
+}
+}else if(adConfig.debug){
+if(adConfig.debug)console.log('amznads is undefined');
+}
+googletag.pubads().disableInitialLoad();//enable with proximic call back
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+if(adConfig.debug)console.log('Finished ad configuration');
+});
+var doProximicDelay = !(document.location.href.indexOf('addProximicDelay') === -1);//set to false normally
+(function(){
+var e = (adConfig.currentUrl ? ("url=" + adConfig.currentUrl) : ""),
+f = "scr";
+if(!doProximicDelay)document.write("<"+f+"ipt type='text/javascript' src='http://t.zqtk.net/c.js?m=1&s=idg_js&"+e.replace(/\'/g, "")+"'></"+f+"ipt>");
+})();
+</script>
+<script src="https://load.instinctiveads.com/i.js"></script>
+<script type="text/javascript" src="http://js.qrius.me/qrius.en.js"></script></head>
+<body class="homepage isLoggedOut">
+<div id="welcomead-pos1" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'welcomead-pos1';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NR7V2Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NR7V2Q');</script>
+<!-- End Google Tag Manager -->
+<div id="wrapper">
+<div id="cookieBar">
+<div class="cookieContentHolder">
+<div class="cookieText">
+<p>
+We use cookies to provide you with a better experience. If you continue to use this site, we'll assume 
+you're happy with this. Alternatively, click 
+<a href="http://www.idg.co.uk/terms-and-conditions/cookies/" target="_blank" title="How to manage cookies">here</a> 
+to find out how to manage these cookies
+</p>
+</div>
+<div class="cookieClose"><img src="http://cdn2.digitalartsonline.co.uk/graphics/icons/closeIcon.png" alt="hide cookie message"></div>
+</div>
+</div>
+<script>
+var cookieAppearanceDelay = 5000;
+var cookieMessageLifeSpan = 20000;
+function hideCookieBox(){
+$('#cookieBar').fadeOut();
+}
+function showCookieBox(){
+$('#cookieBar').show();
+$('#cookieBar').fadeIn();
+setTimeout(function(){hideCookieBox()},cookieMessageLifeSpan);
+}
+setTimeout(function(){showCookieBox()},cookieAppearanceDelay);
+$(document).ready(function(){
+$('.cookieClose').click(function(){
+hideCookieBox();
+});
+});
+</script>
+<div id="idgUkSites">
+<ul>
+<li>
+<a href="/" title="DIGITAL ARTS ONLINE">
+<img src="http://cdn2.digitalartsonline.co.uk/images/other_site_logos/headerLogos/digitalArtsOnline.png" alt="DIGITAL ARTS ONLINE" />
+</a>
+</li>
+<li>
+<a href="http://www.macworld.co.uk/" target="_blank" title="MACWORLD">
+<img src="http://cdn2.digitalartsonline.co.uk/images/other_site_logos/headerLogos/macworld.png" alt="MACWORLD" />
+</a>
+</li>
+<li>
+<a href="http://www.techadvisor.co.uk/" target="_blank" title="TECH ADVISOR">
+<img src="http://cdn2.digitalartsonline.co.uk/images/other_site_logos/headerLogos/techadvisor.png" alt="TECH ADVISOR" />
+</a>
+</li>
+<li>
+<a href="http://www.pcadvisor.co.uk/" target="_blank" title="PC ADVISOR">
+<img src="http://cdn2.digitalartsonline.co.uk/images/other_site_logos/headerLogos/pcadvisor.png" alt="PC ADVISOR" />
+</a>
+</li>
+</ul>
+</div>
+<section id="topLeaderContainer">
+<div class="leaderboardHolder">
+<div class="adContainer leaderboard">
+<div id="leaderboard-pos1" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'leaderboard-pos1';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript">
+(function(){
+try {
+var iPad = navigator.userAgent.match(/iPad/i) != null,
+Android = navigator.userAgent.toLowerCase().indexOf("android") > -1,
+AndroidMobile = navigator.userAgent.toLowerCase().indexOf("android") > -1 && navigator.userAgent.toLowerCase().indexOf("mobile") >-1,
+Win8Touch = navigator.userAgent.toLowerCase().indexOf("windows nt 6.2") > -1 && navigator.userAgent.toLowerCase().indexOf("touch") > -1,
+adCode = '\r\n\t\r\n\t\r\n\t\t\r\n\t\t\x3Cdiv id=\"inskin-pos1\" class=\"adUnitContainer\">\r\n\t\t\r\n\t\t\t\x3Cscript type=\"text/javascript\">\r\n\t\t\t\tgoogletag.cmd.push(function(){\r\n\t\t\t\t\tvar id = \'inskin-pos1\';\r\n\t\t\t\t\tif (id in adConfig.adsToRefresh) {\r\n\t\t\t\t\t\tif(adConfig.debug)console.log(\'rendering ad id = \' + id);\r\n\t\t\t\t\t\tgoogletag.display(id);\r\n\t\t\t\t\t}\r\n\t\t\t\t});\r\n\t\t\t\x3C/script>\r\n\t\t\r\n\t\t\x3C/div>\r\n\t\t\r\n\t\r\n\r\n';
+if ( iPad || ( Android && !AndroidMobile ) || Win8Touch ){
+document.write(adCode);
+}else if(screen.width >= 1260) {
+document.write(adCode);
+}
+}catch(e){console.log("inskin ad call error");console.log(e);}
+})()
+// End of PageSkin ad tag
+</script>
+<header id="siteHeader">
+<a href="/" title="Digital Arts"><img id="siteLogo" class="msPinSite" src="http://cdn2.digitalartsonline.co.uk/graphics/logos/logo.jpg" alt="Digital Arts Online" /></a>
+<ul id="headerLinks" class="intenthq">
+<li class="twitter"><a href="https://twitter.com/digital_arts" title="See our Twitter feed" rel="nofollow" target="_blank">Twitter</a></li>
+<li class="facebook"><a href="http://www.facebook.com/DigitalArtsMagazine" title="See our Facebook page" rel="nofollow" target="_blank">Facebook</a></li>
+<li class="pinterest"><a href="http://pinterest.com/digitalartsmag/" title="See our Pinterest page" rel="nofollow" target="_blank">Pinterest</a></li>
+<li class="googleplus"><a href="https://plus.google.com/114867374490682182090/posts" title="See our Google+ page" rel="nofollow" target="_blank">Google+</a></li>
+<li class="rss"><a href="/rss/" title="See our RSS feeds">RSS feeds</a></li>
+</ul>
+<ul id="userLinks" class="intenthq">
+<li><a href="/login/?originUrl=http%3A%2F%2Fwww%2Edigitalartsonline%2Eco%2Euk%2F&intrgstrn=login;home page" class="login-link" title="Login/Signup to PC Advisor">Sign In</a></li>
+<li class="facebook-large-link"><div data-gd-plugin="facebook-login" data-gd-small="true" class="facebook-small"></div></li>
+<li class="userLinksOverlay">
+<ul class="social-icon-list">
+<li><div data-gd-plugin="facebook-login"></div></li>
+<li><div data-gd-plugin="twitter-login" data-gd-small="true" data-gd-css-path="http://cdn2.digitalartsonline.co.uk/styles/intenthq-twitter-form.css?20150210102513"></div></li>
+<li><div data-gd-plugin="google-login" data-gd-small="true" data-gd-css-path="http://cdn2.digitalartsonline.co.uk/styles/intenthq-google-form.css?20150210102513"></div></li>
+<li><div data-gd-plugin="linked-in-login" data-gd-small="true"></div></li>
+</ul>
+<p>
+<span class="left"><a href="/login/?originUrl=http%3A%2F%2Fwww%2Edigitalartsonline%2Eco%2Euk%2F&intrgstrn=login;home page" class="login-link">Sign in with your email address</a></span>
+<span class="right"><a href="/register/?originUrl=http%3A%2F%2Fwww%2Edigitalartsonline%2Eco%2Euk%2F&intrgstrn=login;home page" class="register-link">Sign up</a></span>
+</p>
+</li>
+</ul>
+<div id="register-popup" class="mfp-hide overlay-hide">
+<div class="register-overlay registerContainer use-bootstrap">
+<header class="registerFormHeader">
+<ul class="list-inline">
+<li><h3>Sign up</h3></li>
+<li><p class="lead">Already have an account? <a href="/login/" class="loginLink login-link">Sign In</a></p></li>
+</ul>
+</header>
+<section class="contentContainer">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12">
+<div class="regForm regFormV2 silver">
+<div class="registrationHeader">
+</div>
+<div class="regFormContainer" style="background: #fff 50% 50% no-repeat url('http://cdn.idg.co.uk/graphics/icons/loading.gif')">
+<iframe class="elqform" src="http://eloqua.idg.co.uk/b2c-registration-v3/?formtype=b2c%2Dregister%2Dv2&amp;colour=fff&amp;targeturl=http%3A%2F%2Fdigitalartsonline%2Eco%2Euk%2Feloqua%2Dreg%2Dcallback%2F%3F1%3D1%26format%3Djson&amp;website=DAO&amp;colourScheme=silver" width="400" height="460" scrolling="no" frameborder="0" style="border: 0; overflow: hidden;">
+<p>Sorry you're browser does not support iframes</p>
+</iframe>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div id="login-popup" class="mfp-hide overlay-hide">
+<div class="login-overlay loginContainer use-bootstrap">
+<header class="loginFormHeader">
+<ul class="list-inline">
+<li><h3>Login</h3></li>
+</ul>
+</header>
+<section class="contentContainer intenthq">
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-12 social-row">
+<h4>Login / Signup with your social account:</h4>
+<ul class="list-inline social-icon-list">
+<li><div data-gd-plugin="facebook-login"></div><span class="recommendedTxt">Recommended</span></li>
+<li><div data-gd-plugin="twitter-login" data-gd-small="true" data-gd-css-path="http://cdn2.digitalartsonline.co.uk/styles/intenthq-twitter-form.css?20150210102513"></div></li>
+<li><div data-gd-plugin="google-login" data-gd-small="true" data-gd-css-path="http://cdn2.digitalartsonline.co.uk/styles/intenthq-google-form.css?20150210102513"></div></li>
+<li><div data-gd-plugin="linked-in-login" data-gd-small="true"></div></li>
+</ul>
+<p class="benefits"><strong>Fast and easy</strong>. One less password to remember.<br />Don't worry, we won't post anything without you permission</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 or-row">
+<hr />
+<p>OR</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<p class="lead loginFormText">Log in with your Digital Arts account: <span class="arrow">&nbsp;</span></p>
+<div class="loginFormContainer">
+<a href="#topofsiteLoginFormForm" name="topofsiteLoginFormForm" id="topofsiteLoginFormForm" class="topOfFormPlacer"><!-- x --></a>
+<form name="siteLoginFormForm" id="siteLoginFormFormID" action="/login/" method="POST" class="siteLoginForm ajaxForm" enctype="multipart/form-data">
+<div id="emailFormFieldContainer" class="textformFieldContainer formFieldContainer mandatory form-group">
+<label id="emailLabelID" for="emailFieldID" ><span>Email&nbsp;<span class="mandatoryStar">*</span></span></label>
+<input type="text" name="email" id="emailFieldID" class="formtext form-control" value="" placeholder="" />
+<span id="emailFormFieldErrorMessage" class="formFieldErrorMessage"></span>
+</div>
+<div id="passwordFormFieldContainer" class="passwordformFieldContainer formFieldContainer mandatory form-group">
+<label id="passwordLabelID" for="passwordFieldID" ><span>Password&nbsp;<span class="mandatoryStar">*</span></span></label>
+<input type="password" name="password" id="passwordFieldID" class="formpassword form-control" value="" placeholder="" />
+<span id="passwordFormFieldErrorMessage" class="formFieldErrorMessage"></span>
+</div>
+<div id="cookieLoginFormFieldContainer" class="checkboxformFieldContainer formFieldContainer">
+<span class="inputWrapper">
+<input type="checkbox" name="cookieLogin" id="cookieLoginFieldID" class="formcheckbox " value="1" checked="checked" />
+</span>
+<label id="cookieLoginLabelID" for="cookieLoginFieldID" ><span>Remember me</span></label>
+<span id="cookieLoginFormFieldErrorMessage" class="formFieldErrorMessage"></span>
+</div>
+<p id="inRegUserOptions"><a href="/login/password-reminder/" title="Have you forgotten your password?">Forgot password?</a></p>
+<div id="originUrlFormFieldContainer" class="hiddenformFieldContainer formFieldContainer">
+<span class="inputWrapper">
+<input type="hidden" name="originUrl" id="originUrlFieldID" value="" />
+</span>
+</div>
+<div id="loginFormFieldContainer" class="submitformFieldContainer formFieldContainer">
+<input type="submit" name="login" id="loginFieldID" class="formsubmit btn btn-info" value="Login" />
+</div>
+<input type="hidden" name="FHJS_222_000_III" value="1423738084022642374" />
+</form>
+<script language="javascript" type="text/javascript">
+<!--
+var erroredFields=new Array();;
+var correctFields=new Array();;
+if(typeof handleErroredField === "function")
+handleErroredFields(erroredFields);
+if(typeof handleCorrectFields === "function")
+handleCorrectFields(correctFields);
+//-->
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="well well-sm"><p>Don't have a social account? <a href="/register/?originUrl=http%3A%2F%2Fwww%2Edigitalartsonline%2Eco%2Euk%2F" class="register-link">Sign up with your email</a></p></div>
+</section>
+</div>
+</div>
+<section id="navigationContainer">
+<nav>
+<ul id="mainNavigation">
+<li><a class="active" href="/">Home</a></li>
+<li><a href="/news/">News</a></li>
+<li><a href="/tutorials/">Tutorials</a></li>
+<li><a href="/reviews/">Reviews</a></li>
+<li><a href="/features/">Features</a></li>
+<li><a href="/portfolios/">Portfolios</a></li>
+<li><a href="/guides/">Guides</a></li>
+</ul>
+</nav>
+<section id="headerSearchContainer">
+<span id="searchSectionSelector">
+<span id="searchSectionSelectorValue">All</span>
+<span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjEyMDU3REQ1RkE1RTExRTE4RTEzREQ4N0ZDQUUzRUU3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjEyMDU3REQ2RkE1RTExRTE4RTEzREQ4N0ZDQUUzRUU3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MTIwNTdERDNGQTVFMTFFMThFMTNERDg3RkNBRTNFRTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MTIwNTdERDRGQTVFMTFFMThFMTNERDg3RkNBRTNFRTciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6O6psAAAAAaUlEQVR42mJMS02tZGBgqADiPwyogAWIJzABielA/B6IhdDwZyCezDRz1qwPQEY+AyYoAsq9AZnAAGRsBFKrkSQ3AcVWgRhMSIJlQPwNiH8CcQlMkPH///9wFelpadVAig2oux4mBhBgAKH5HY+tSxzjAAAAAElFTkSuQmCC"/></span>
+</span>
+<ul id="searchSelectionOptions">
+<li>All</li>
+<li>Reviews</li>
+<li>News</li>
+<li>Tutorials</li>
+<li>Features</li>
+<li>Portfolios</li>
+</ul>
+<a href="#topofheaderSearchForm" name="topofheaderSearchForm" id="topofheaderSearchForm" class="topOfFormPlacer"><!-- x --></a>
+<form name="headerSearchForm" id="headerSearchFormID" action="/search/run/" method="post" class="genericForm " enctype="multipart/form-data">
+<div id="showMeFormFieldContainer" class="hiddenformFieldContainer formFieldContainer">
+<span class="inputWrapper">
+<input type="hidden" name="showMe" id="showMeFieldID" value="" />
+</span>
+</div>
+<div id="searchTermFormFieldContainer" class="textformFieldContainer formFieldContainer">
+<span class="inputWrapper">
+<input type="text" name="searchTerm" id="searchTermFieldID" class="formtext " value="" onclick="if(this.value == 'Search...')this.value='';" placeholder="SEARCH..." />
+</span>
+<span id="searchTermFormFieldErrorMessage" class="formFieldErrorMessage"></span>
+</div>
+<div id="searchSubmitFormFieldContainer" class="submitformFieldContainer formFieldContainer">
+<span class="inputWrapper">
+<input type="submit" name="searchSubmit" id="searchSubmitFieldID" class="formsubmit " value="&nbsp;" />
+</span>
+</div>
+<input type="hidden" name="FHJS_222_000_III" value="1423738084053236382" />
+</form>
+</section>
+</section>
+</header>
+<div id="contentContainer">
+<section id="mainContent">
+<h3 id="showcaseArticleType" class="articleType">
+<a href="/" title="See all portfolios">Portfolio</a>
+</h3>
+<div id="idgShowcaseCarousel" >
+<div class="viewport">
+<ul class="overview">
+<li class="showcaseSlide
+">
+<a href="/portfolios/raphal-vicenzi/" title="Click to see more by Raphaël Vicenzi"><img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3513653/Mydeadpony_CAROUSEL.jpg" alt="Click to see more by Raphaël Vicenzi" class="slideImage" /></a>
+<p class="authorInfo"><a href="/portfolios/raphal-vicenzi/" title="Raphaël Vicenzi">Raphaël Vicenzi</a></p>
+</li>
+<li class="showcaseSlide
+">
+<a href="/portfolios/dragan-djurdjevic/" title="Click to see more by Dragan Djurdjevic"><img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3512908/Rip-artist-Carousel.jpg" alt="Click to see more by Dragan Djurdjevic" class="slideImage" /></a>
+<p class="authorInfo"><a href="/portfolios/dragan-djurdjevic/" title="Dragan Djurdjevic">Dragan Djurdjevic</a></p>
+</li>
+<li class="showcaseSlide
+">
+<a href="/portfolios/david-biskup/" title="Click to see more by David Biskup"><img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3473429/David-Biskup-Carousel.jpg" alt="Click to see more by David Biskup" class="slideImage" /></a>
+<p class="authorInfo"><a href="/portfolios/david-biskup/" title="David Biskup">David Biskup</a></p>
+</li>
+<li class="showcaseSlide
+">
+<a href="/portfolios/rachel-m-bray/" title="Click to see more by Rachel M. Bray"><img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3470200/Carousel---Rachel.jpg" alt="Click to see more by Rachel M. Bray" class="slideImage" /></a>
+<p class="authorInfo"><a href="/portfolios/rachel-m-bray/" title="Rachel M. Bray">Rachel M. Bray</a></p>
+</li>
+</ul>
+</div>
+<div class="slideNav">
+<a class="buttons prev" href="#">Prev</a>
+<a class="buttons next" href="#">Next</a>
+</div>
+</div>
+<script type="text/javascript" src="/scripts/libs/tinycarousel.min.js"></script>
+<script type="text/javascript">
+if(typeof $.tiny.carousel != "undefined"){
+$('#idgShowcaseCarousel').tinycarousel({ interval: true, intervaltime: 8000 });
+};
+</script>
+<section id="whatsHotListingGrid" class="listingGrid">
+<h5 class="title">What's Hot</h5>
+<ul>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/features/illustration/feburary-2015s-visual-trends-be-inspired-by-love-bright-colours-film-posters-for-oscar-contenders/"><img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596924/3-Hattie-Stewart-paper_kimk_512_thumb336.jpg" alt="Feburary 2015's visual trends: be inspired by love, bright colours and film posters for Oscar contenders" class="thumb" /></a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/features/">Features</a>
+</h3>
+<h2><a href="/features/illustration/feburary-2015s-visual-trends-be-inspired-by-love-bright-colours-film-posters-for-oscar-contenders/" title="Feburary 2015's visual trends: be inspired by love, bright colours and film posters for Oscar contenders">Feburary 2015's visual trends: be inspired by love, bright colours and film posters for Oscar contenders</a></h2>
+</hgroup>
+<p>The themes, art, film posters, music videos, architecture and even hidden artwork on passports that should be inspiring you this month.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/features/motion-graphics/bafta-future-of-vfx-framestores-tim-webber-double-negatives-paul-franklin-cinesites-eamonn-butler-discuss-whats-next-for-visual-effects/"><img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3597014/VFX-interviews_512_thumb336.jpg" alt="The future of VFX: BAFTA-winning VFX supervisors discuss what’s next for visual effects" class="thumb" /></a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/features/">Features</a>
+</h3>
+<h2><a href="/features/motion-graphics/bafta-future-of-vfx-framestores-tim-webber-double-negatives-paul-franklin-cinesites-eamonn-butler-discuss-whats-next-for-visual-effects/" title="The future of VFX: BAFTA-winning VFX supervisors discuss what’s next for visual effects">The future of VFX: BAFTA-winning VFX supervisors discuss what’s next for visual effects</a></h2>
+</hgroup>
+<p>Double Negative's Paul Franklin – who won a VFX BAFTA at last night's awards – and Framestore's Tim Webber – who won last year – discuss the future of VFX.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a>,</li>
+<li><a href="/company/cinesite/" title="More stuff about Cinesite">Cinesite</a>,</li>
+<li><a href="/company/double-negative/" title="More stuff about Double Negative">Double Negative</a>,</li>
+<li><a href="/company/framestore/" title="More stuff about Framestore">Framestore</a></li>
+</ul>
+</footer>
+</article>
+</li>
+</ul>
+</section>
+<section id="latestArticlesListingGrid" class="listingGrid">
+<h5 class="title">What's New</h5>
+<ul>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/illustration/update-wacoms-bamboo-paper-ipad-app-accused-of-using-rip-offs-of-gemma-corrells-cartoons/">
+<img src="http://cdn1.digitalartsonline.co.uk/cmsdata/features/3597582/wacom-correll-512_thumb336.jpg" alt="Updated: Wacom make amends for including 'rip-offs' of Gemma Correll cartoons in its Bamboo Paper iPad app" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/illustration/update-wacoms-bamboo-paper-ipad-app-accused-of-using-rip-offs-of-gemma-corrells-cartoons/" title="Updated: Wacom make amends for including 'rip-offs' of Gemma Correll cartoons in its Bamboo Paper iPad app">Updated: Wacom make amends for including 'rip-offs' of Gemma Correll cartoons in its Bamboo Paper iPad app</a></h2>
+</hgroup>
+<p>Gemma Correll’s quirky, witty cartoons of pugs, cats and homely life are sadly regularly ripped off – but it’s unusual to see them copied without permission in an app by a well-respected brand like Wacom.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/interactive-design/" title="More stuff about Interactive & Web Design">Interactive & Web Design</a>,</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a>,</li>
+<li><a href="/company/wacom/" title="More stuff about Wacom">Wacom</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/features/motion-graphics/how-framestore-created-game-of-thrones-oculus-rift-vr-experience-for-sky-atlantics-o2-exhibition/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3597606/GoT-exhibition_512_thumb336.jpg" alt="How Framestore created the Game of Thrones Oculus Rift VR experience for Sky Atlantic's O2 exhibition" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/features/">Features</a>
+</h3>
+<h2><a href="/features/motion-graphics/how-framestore-created-game-of-thrones-oculus-rift-vr-experience-for-sky-atlantics-o2-exhibition/" title="How Framestore created the Game of Thrones Oculus Rift VR experience for Sky Atlantic's O2 exhibition">How Framestore created the Game of Thrones Oculus Rift VR experience for Sky Atlantic's O2 exhibition</a></h2>
+</hgroup>
+<p>To promote Game of Thrones Season 5, Sky put on an exhibition of props, costumes and interactive installations at the O2 – including a VR experience. Framestore's Mike Woods tells us about creating Westeros inside an Oculus Rift.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/motion-graphics/trunk-makes-everything-shipshape-for-imo/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3597224/Main_thumb336.jpg" alt="Watch Trunk's exceedingly shipshape animated short film" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/motion-graphics/trunk-makes-everything-shipshape-for-imo/" title="Watch Trunk's exceedingly shipshape animated short film">Watch Trunk's exceedingly shipshape animated short film</a></h2>
+</hgroup>
+<p>How Trunk's Alasdair + Jock created an engaging animated short for the International Maritime Organisation.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/video-post-production/" title="More stuff about Video Post-production">Video</a>,</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a>,</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a>,</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/features/illustration/february-2015-visual-trends-5-things-you-must-see-this-month/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3597477/horse-512_thumb336.jpg" alt="February 2015 visual trends: 5 things you must see this month" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/features/">Features</a>
+</h3>
+<h2><a href="/features/illustration/february-2015-visual-trends-5-things-you-must-see-this-month/" title="February 2015 visual trends: 5 things you must see this month">February 2015 visual trends: 5 things you must see this month</a></h2>
+</hgroup>
+<p>Here are the five things you must see this month: including two exhibitions, an indie comic app, a local art mag and 80,000 free videos and photos.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a>,</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a>,</li>
+<li><a href="/guides/photography/" title="More stuff about Photography">Photography</a>,</li>
+<li><a href="/guides/hacking-maker/" title="More stuff about Hacking & Maker">Hacking & Maker</a>,</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/creative-software/download-free-beta-of-affinity-photo-from-serif/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3597218/Main_thumb336.jpg" alt="Serif Affinity Photo: free beta of the Photoshop rival is now available" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/creative-software/download-free-beta-of-affinity-photo-from-serif/" title="Serif Affinity Photo: free beta of the Photoshop rival is now available">Serif Affinity Photo: free beta of the Photoshop rival is now available</a></h2>
+</hgroup>
+<p>Serif Affinity Photo is to Photoshop what Affinity Designer is to Adobe Illustrator.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a>,</li>
+<li><a href="/guides/photography/" title="More stuff about Photography">Photography</a>,</li>
+<li><a href="/guides/creative-software/" title="More stuff about Creative Software">Software</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/news/photography/canons-5ds-slr-camera-has-monster-506-megapixel-image-sensor/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3597100/EOS-5DS-FSL-512_thumb336.jpg" alt="Canon's 5DS SLR camera has a monster 50.6-megapixel image sensor" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/photography/canons-5ds-slr-camera-has-monster-506-megapixel-image-sensor/" title="Canon's 5DS SLR camera has a monster 50.6-megapixel image sensor">Canon's 5DS SLR camera has a monster 50.6-megapixel image sensor</a></h2>
+</hgroup>
+<p>Chucking out huge RAW files, the 5DS has its highest resolution digital SLR sensor so far.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/interactive-design/" title="More stuff about Interactive & Web Design">Interactive & Web Design</a>,</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a>,</li>
+<li><a href="/guides/photography/" title="More stuff about Photography">Photography</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/illustration/fifty-three-paper-ipad-drawing-app-is-now-completely-free/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3597080/Paper--Person_kyoto-512_thumb336.jpg" alt="The Fifty-Three Paper iPad drawing app is now completely free" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/illustration/fifty-three-paper-ipad-drawing-app-is-now-completely-free/" title="The Fifty-Three Paper iPad drawing app is now completely free">The Fifty-Three Paper iPad drawing app is now completely free</a></h2>
+</hgroup>
+<p>You don't need to purchase any of the Sketch, Outline, Write, Color or Mixer tools in the iPad drawing app.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/creative-software/" title="More stuff about Creative Software">Software</a>,</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a>,</li>
+<li><a href="/guides/interactive-design/" title="More stuff about Interactive & Web Design">Interactive & Web Design</a>,</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/news/motion-graphics/rodeo-fx-birdman/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3597061/Birdman-image-512_thumb336.jpg" alt="Birdman VFX: Rodeo FX tells us how they created visual effects to make the film appear as one continuous shot" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/motion-graphics/rodeo-fx-birdman/" title="Birdman VFX: Rodeo FX tells us how they created visual effects to make the film appear as one continuous shot">Birdman VFX: Rodeo FX tells us how they created visual effects to make the film appear as one continuous shot</a></h2>
+</hgroup>
+<p>Behind-the-scenes on Birdman's visual effects, which included spectacular scenes and some nifty seamless transitions.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/video-post-production/" title="More stuff about Video Post-production">Video</a>,</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/motion-graphics/red-giant-old-new-film/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596962/Main_thumb336.jpg" alt="Red Giant's Old/New comedy shows off power of its VFX software" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/motion-graphics/red-giant-old-new-film/" title="Red Giant's Old/New comedy shows off power of its VFX software">Red Giant's Old/New comedy shows off power of its VFX software</a></h2>
+</hgroup>
+<p>With a nice line in Dr Seuss-style storytelling, Red Giant's short features poor lifestyle choices, clones and laser-eyed mammoths</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/creative-software/" title="More stuff about Creative Software">Software</a>,</li>
+<li><a href="/guides/video-post-production/" title="More stuff about Video Post-production">Video</a>,</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/features/graphic-design/what-is-experience-design/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3596845/jani-modig-688_thumb336.jpg" alt="What is experience design? An in-depth guide to what this mix of branding, UX, service design and more really means" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/features/">Features</a>
+</h3>
+<h2><a href="/features/graphic-design/what-is-experience-design/" title="What is experience design? An in-depth guide to what this mix of branding, UX, service design and more really means">What is experience design? An in-depth guide to what this mix of branding, UX, service design and more really means</a></h2>
+</hgroup>
+<p>Leading experience design studios and designers discuss what it is and how it can let you provide more for your clients.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/features/creative-hardware/hp-sprout-hands-on-review-we-draw-scan-3d-objects-get-creative-with-future-of-desktop-pcs/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596766/hp_sprout_desk_view-100566287-512_thumb336.jpg" alt="HP Sprout hands on review: we draw, scan 3D objects and get creative with the 'future of desktop PCs'" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/features/">Features</a>
+</h3>
+<h2><a href="/features/creative-hardware/hp-sprout-hands-on-review-we-draw-scan-3d-objects-get-creative-with-future-of-desktop-pcs/" title="HP Sprout hands on review: we draw, scan 3D objects and get creative with the 'future of desktop PCs'">HP Sprout hands on review: we draw, scan 3D objects and get creative with the 'future of desktop PCs'</a></h2>
+</hgroup>
+<p>This PC-projector-camera combo's skills are a bit primitive, but it's easy to see a promising future in 3D printing and augmented reality.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/creative-hardware/" title="More stuff about Creative Hardware">Hardware</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/tutorials/photoshop/use-render-flames-add-realistic-fire-in-photoshop-cc-2014/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596672/homepage_thumb336.jpg" alt="Use Render Flames to add realistic fire in Photoshop CC 2014" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/tutorials/">Tutorials</a>
+</h3>
+<h2><a href="/tutorials/photoshop/use-render-flames-add-realistic-fire-in-photoshop-cc-2014/" title="Photoshop tutorial: Use Render Flames to add realistic fire in Photoshop CC 2014">Photoshop tutorial: Use Render Flames to add realistic fire in Photoshop CC 2014</a></h2>
+</hgroup>
+<p>Learn to use Photoshop's Render Flames tool to add fire to your photos and illustrations.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/topic/photoshop/" title="More stuff about Adobe Photoshop">Photoshop</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/motion-graphics/ingenuity-engine/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596695/Main_thumb336.jpg" alt="Ingenuity Engine mixes CG with reality in dancing Qoros car spot" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/motion-graphics/ingenuity-engine/" title="Ingenuity Engine mixes CG with reality in dancing Qoros car spot">Ingenuity Engine mixes CG with reality in dancing Qoros car spot</a></h2>
+</hgroup>
+<p>See how remote working enabled the LA studio to create a CG-heavy commercial in the Chinese desert</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/creative-software/" title="More stuff about Creative Software">Software</a>,</li>
+<li><a href="/guides/video-post-production/" title="More stuff about Video Post-production">Video</a>,</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/news/illustration/see-highlights-of-mr-penfolds-striking-new-solo-exhibition/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596603/Main_thumb336.jpg" alt="See highlights of Mr Penfold's striking new solo exhibition" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/illustration/see-highlights-of-mr-penfolds-striking-new-solo-exhibition/" title="See highlights of Mr Penfold's striking new solo exhibition">See highlights of Mr Penfold's striking new solo exhibition</a></h2>
+</hgroup>
+<p>Bristol-based artist brings pop culture and clean crisp graphic painting to Brighton's No Walls Gallery</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a>,</li>
+<li><a href="/topic/printing/" title="More stuff about Printing & printmaking">Printing</a>,</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/interactive-design/google-earth-pro-is-now-free-get-high-res/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3596607/gep-post-pdx-512_thumb336.jpg" alt="Google Earth Pro is now free: get high-res images of the world" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/interactive-design/google-earth-pro-is-now-free-get-high-res/" title="Google Earth Pro is now free: get high-res images of the world">Google Earth Pro is now free: get high-res images of the world</a></h2>
+</hgroup>
+<p>Google Earth Pro, which had a price tag of £265, is now available for free.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/interactive-design/" title="More stuff about Interactive & Web Design">Interactive & Web Design</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/news/illustration/poster-book-graphic-art-cycling-climbs/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596482/Cycling-Climbs_512_thumb336.jpg" alt="Poster book puts graphic art of the world's hardest cycling climbs on your walls" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/illustration/poster-book-graphic-art-cycling-climbs/" title="Poster book puts graphic art of the world's hardest cycling climbs on your walls">Poster book puts graphic art of the world's hardest cycling climbs on your walls</a></h2>
+</hgroup>
+<p>The Cycling Climbs book features wonderful bike-themed artworks by Nigel Peake that are ready to frame and hang.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/graphic-design/" title="More stuff about Graphic Design">Graphic Design</a>,</li>
+<li><a href="/topic/books/" title="More stuff about Books">Books</a>,</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/news/motion-graphics/mpc-helps-ikea-t-shirts-find-home-in-cg-heavy-spot/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596467/Main_thumb336.jpg" alt="MPC helps flying T-shirts find a home in CG-heavy Ikea spot" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/motion-graphics/mpc-helps-ikea-t-shirts-find-home-in-cg-heavy-spot/" title="MPC helps flying T-shirts find a home in CG-heavy Ikea spot">MPC helps flying T-shirts find a home in CG-heavy Ikea spot</a></h2>
+</hgroup>
+<p>Get a behind-the-scenes look at MPC's VFX work creating a realistic CG flock of animated Ikea T-shirts.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/creative-software/" title="More stuff about Creative Software">Software</a>,</li>
+<li><a href="/guides/video-post-production/" title="More stuff about Video Post-production">Video</a>,</li>
+<li><a href="/guides/photography/" title="More stuff about Photography">Photography</a>,</li>
+<li><a href="/guides/motion-graphics/" title="More stuff about Animation & VFX">Animation</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/news/interactive-design/how-artificial-intelligence-will-take-work-away-from-design-studios-what-you-can-do-about-it/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3596430/her-512_thumb336.jpg" alt="How artificial intelligence will take work away from design studios – and what you can do about it" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/interactive-design/how-artificial-intelligence-will-take-work-away-from-design-studios-what-you-can-do-about-it/" title="How artificial intelligence will take work away from design studios – and what you can do about it">How artificial intelligence will take work away from design studios – and what you can do about it</a></h2>
+</hgroup>
+<p>Artificially intelligent online tools like The Grid will replace a lot of bread-and-butter web design jobs, says Tom Church. How does the digital design industry adapt and fight back?</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/interactive-design/" title="More stuff about Interactive & Web Design">Interactive & Web Design</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article">
+<article>
+<div class="thumbContainer">
+<a href="/tutorials/photoshop/achieving-glass-effect-with-photo-manipulation-techniques-adding-additional-touch-with-custom-made-generative-light-painting-elements/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596377/Igor-Scekic-Finished-artwork-512_thumb336.jpg" alt="Combine pictures in Photoshop seamlessly to create a stunning photo-illustration" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/tutorials/">Tutorials</a>
+</h3>
+<h2><a href="/tutorials/photoshop/achieving-glass-effect-with-photo-manipulation-techniques-adding-additional-touch-with-custom-made-generative-light-painting-elements/" title="Photoshop tutorial: Combine pictures in Photoshop seamlessly to create a stunning photo-illustration">Photoshop tutorial: Combine pictures in Photoshop seamlessly to create a stunning photo-illustration</a></h2>
+</hgroup>
+<p>Use lighting effects to combine photos of a lightbulb, head and brain to create a conceptual illustration that sparks the imagination.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/illustration/" title="More stuff about Illustration & Art">Illustration</a>,</li>
+<li><a href="/guides/interactive-design/" title="More stuff about Interactive & Web Design">Interactive & Web Design</a>,</li>
+<li><a href="/topic/photoshop/" title="More stuff about Adobe Photoshop">Photoshop</a></li>
+</ul>
+</footer>
+</article>
+</li>
+<li class="article alt">
+<article>
+<div class="thumbContainer">
+<a href="/news/hacking-maker/raspberry-pi-2-is-6x-faster-than-pi-1/">
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3596419/Pi2ModB1GB_20-512_thumb336.jpg" alt="Raspberry Pi 2 is 6x faster than Pi 1" class="thumb" />
+</a>
+</div>
+<hgroup>
+<h3 class="articleType">
+<a href="/news/">News</a>
+</h3>
+<h2><a href="/news/hacking-maker/raspberry-pi-2-is-6x-faster-than-pi-1/" title="Raspberry Pi 2 is 6x faster than Pi 1">Raspberry Pi 2 is 6x faster than Pi 1</a></h2>
+</hgroup>
+<p>The Raspberry Pi 2 will support a custom edition of Windows 10 for the development of robots, smart devices and Internet-connected appliances.</p>
+<footer>
+<ul class="relatedTopics">
+<li class="topicsTag">Topics
+</li>
+<li><a href="/guides/hacking-maker/" title="More stuff about Hacking & Maker">Hacking & Maker</a></li>
+</ul>
+</footer>
+</article>
+</li>
+</ul>
+</section>
+<p class="paginationLink">
+<span class="activePage">1</span>
+<a href="?pn=2" rel="next" title="Jump to page 2">2</a>
+<a href="?pn=3" title="Jump to page 3">3</a>
+<a href="?pn=4" title="Jump to page 4">4</a>
+<a href="?pn=5" title="Jump to page 5">5</a>
+<a href="?pn=2">next &raquo;</a> 
+</p>
+</section>
+<aside id="sideBar">
+<div class="mpuHolder">
+<div class="adContainer mpu">
+<div id="mpu-pos1" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'mpu-pos1';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+<hr>
+<h6>SHORT CUTS</h6>
+<a target="_blank" rel="nofollow" title="Adaptive design: what is it and why should I be using it?" href="http://www.digitalartsonline.co.uk/features/interactive-design/whats-new-in-vr-companies-mixing-augmented-virtual-reality/">
+<article class="feedEntry">
+<div>
+<h4>Adaptive design: what is it and why should I be using it?</h4>
+<p>Designers and developers explain why it’s crucial for crafting a usable, accessible and future-proof web experience.</p>
+</div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3584057/c-adaptive-vs-responsive-512_thumb336_thumb160.png" alt="Adaptive design: what is it and why should I be using it?"/>
+</article>
+</a>
+<a target="_blank" rel="nofollow" title="What's new in VR: the companies creating exciting new mixes of augmented and virtual reality" href="http://www.digitalartsonline.co.uk/features/interactive-design/whats-new-in-vr-companies-mixing-augmented-virtual-reality/">
+<article class="feedEntry">
+<div>
+<h4>What's new in VR: the companies creating exciting new mixes of augmented and virtual reality</h4>
+<p>We're right on the edge of dual revolutions in artificial reality and augmented reality.</p>
+</div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3584056/magic-leap-512_thumb336_thumb160.jpg" alt="What's new in VR: the companies creating exciting new mixes of augmented and virtual reality"/>
+</article>
+</a>
+<a target="_blank" rel="nofollow" title="Wonderful Oliver Jeffers exhibition in London turns his children's illustrations into an immersive play space" href="http://www.digitalartsonline.co.uk/news/illustration/wonderful-oliver-jeffers-exhibition-in-london-turns-his-childrens-illustrations-into-immersive-play-space/">
+<article class="feedEntry">
+<div>
+<h4>Wonderful Oliver Jeffers exhibition in London turns his children's illustrations into an immersive play space</h4>
+<p>Lost and Found, Up and Down, and How to Catch A Star are brought to life</p>
+</div>
+<img src="http://cdn1.digitalartsonline.co.uk/cmsdata/features/3584054/oliver-jeffers-discover-stratford-512_thumb336_thumb160.jpg" alt="Wonderful Oliver Jeffers exhibition in London turns his children's illustrations into an immersive play space"/>
+</article>
+</a>
+<a target="_blank" rel="nofollow" title="How to change hair colour in Photoshop: Lighten, Tint and create Ombre hair effects" href="http://www.digitalartsonline.co.uk/tutorials/photoshop/how-change-hair-colour-in-photoshop-lighten-tint-create-ombre-hair-effects/">
+<article class="feedEntry">
+<div>
+<h4>How to change hair colour in Photoshop: Lighten, Tint and create Ombre hair effects</h4>
+<p>Photographer Tigz Rice demonstrates how to apply natural-looking hair colour changes.</p>
+</div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3584053/photoshop-on-yosemite-512_thumb336_thumb160.jpg" alt="How to change hair colour in Photoshop: Lighten, Tint and create Ombre hair effects"/>
+</article>
+</a>
+<a target="_blank" rel="nofollow" title="How to prototype native mobile apps without writing code" href="http://www.digitalartsonline.co.uk/news/illustration/how-prototype-native-mobile-apps-without-writing-code/">
+<article class="feedEntry">
+<div>
+<h4>How to prototype native mobile apps without writing code</h4>
+<p>Pixate is offering a tool that lets designers build prototype apps for iOS and Android.</p>
+</div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3584052/Pixate-512_thumb336_thumb160.jpg" alt="How to prototype native mobile apps without writing code"/>
+</article>
+</a>
+<hr>
+<a title="How to render amazing CG fast without buying an expensive render server – Rebusfarm 2.0 is here to help" href="/features/creative-software/rebusfarm-2-0/">
+<article class="promotion">
+<div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3593766/aiven-pirate-tree-island_YvanFeusi-3_thumb336.jpg" alt="How to render amazing CG fast without buying an expensive render server – Rebusfarm 2.0 is here to help"/>
+<h3 class="articleType">Promotion</h3>
+</div>
+<h3>
+How to render amazing CG fast without buying an expensive render server – Rebusfarm 2.0 is here to help
+</h3>
+</article>
+</a>
+<div class="guidesHelp">
+<h6>Digital Arts Guides</h6>
+<p>The hottest work, tech & techniques that match your creative tastes</p>
+<a title="3D printing" 
+class="guide"
+href="/guides/3d-printing/">
+3D printing
+</a>
+<a title="Adobe Creative Cloud" 
+class="guide"
+href="/guides/adobe-creative-cloud/">
+Adobe Creative Cloud
+</a>
+<a title="Animation & VFX" 
+class="guide"
+href="/guides/motion-graphics/">
+Animation & VFX
+</a>
+<a title="Business & Career Success" 
+class="guide"
+href="/guides/creative-business/">
+Business & Career Success
+</a>
+<a title="Creative graduate" 
+class="guide"
+href="/guides/graduate/">
+Creative graduate
+</a>
+<a title="Creative Hardware" 
+class="guide"
+href="/guides/creative-hardware/">
+Creative Hardware
+</a>
+<a title="Creative Software" 
+class="guide"
+href="/guides/creative-software/">
+Creative Software
+</a>
+<a title="Graphic Design" 
+class="guide"
+href="/guides/graphic-design/">
+Graphic Design
+</a>
+<a title="Hacking & Maker" 
+class="guide"
+href="/guides/hacking-maker/">
+Hacking & Maker
+</a>
+<a title="Illustration & Art" 
+class="guide"
+href="/guides/illustration/">
+Illustration & Art
+</a>
+<a title="Interactive & Web Design" 
+class="guide"
+href="/guides/interactive-design/">
+Interactive & Web Design
+</a>
+<a title="Photography" 
+class="guide"
+href="/guides/photography/">
+Photography
+</a>
+<a title="Show your creativity" 
+class="guide"
+href="/guides/show-your-creativity/">
+Show your creativity
+</a>
+<a title="Video Post-production" 
+class="guide"
+href="/guides/video-post-production/">
+Video Post-production
+</a>
+</div>
+<hr>
+<a title="How Sandra Dieckmann's iPad helps her create beautiful illustrations" href="/features/creative-software/how-sandra-dieckmanns-ipad-helps-her-create-beautiful-illustrations/">
+<article class="promotion">
+<div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/slideshow/3591370/sandra-dieckmann-portrait-512_thumb336.jpg" alt="How Sandra Dieckmann's iPad helps her create beautiful illustrations"/>
+<h3 class="articleType">Promotion</h3>
+</div>
+<h3>
+How Sandra Dieckmann's iPad helps her create beautiful illustrations
+</h3>
+</article>
+</a>
+<hr>
+<div class="sideBarInner">
+<style>.captcha{display:none !important}</style>
+<section id="newsLetterSignup">
+<h3><span>Subscribe to </span> The weekly</h3><h3><img src="http://cdn2.digitalartsonline.co.uk/graphics/logos/logo-150.png" alt="Digital Arts" /> Newsletter</h3>
+<a href="#topofquickNewsletterSubscribeForm" name="topofquickNewsletterSubscribeForm" id="topofquickNewsletterSubscribeForm" class="topOfFormPlacer"><!-- x --></a>
+<form name="quickNewsletterSubscribeForm" id="quickNewsletterSubscribeFormID" action="/newsletter/" method="post" class="genericForm " enctype="multipart/form-data">
+<label class="captcha">What is A + B? <input name="captchaAnswer" type="text"> </label>	
+<div id="whenFormFieldContainer" class="hiddenformFieldContainer formFieldContainer mandatory">
+<span class="inputWrapper">
+<input type="hidden" name="when" id="whenFieldID" value="1423738084115" />
+</span>
+</div>
+<div id="targetFormFieldContainer" class="hiddenformFieldContainer formFieldContainer mandatory">
+<span class="inputWrapper">
+<input type="hidden" name="target" id="targetFieldID" value="newsletterEmailCheck" />
+</span>
+<span id="targetFormFieldErrorMessage" class="formFieldErrorMessage"></span>
+</div>
+<div id="emailFormFieldContainer" class="textformFieldContainer formFieldContainer mandatory">
+<span class="inputWrapper">
+<input type="text" name="email" id="emailFieldID" class="formtext " value="" placeholder="enter email" />
+</span>
+<span id="emailFormFieldErrorMessage" class="formFieldErrorMessage"></span>
+</div>
+<div id="separatorAfteremailFieldID" class="formSeparator"><!-- x --></div>
+<div id="checkFormFieldContainer" class="submitformFieldContainer formFieldContainer">
+<span class="inputWrapper">
+<input type="submit" name="check" id="checkFieldID" class="formsubmit formsubmitDA" value="sign-up" />
+</span>
+</div>
+<div id="separatorAftercheckFieldID" class="formSeparator"><!-- x --></div>
+<input type="hidden" name="FHJS_222_000_III" value="1423738084115302467" />
+</form>
+</section>
+</div>
+<hr>
+<div class="mpuHolder">
+<div class="adContainer mpu">
+<div id="mpuSmall-pos1" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'mpuSmall-pos1';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+<hr>
+<a title="2015 visual trends: 20 leading designers & artists reveal what should be inspiring us in 2015" href="/news/creative-business/trends-2015-20-leading-designers-artists/">
+<article class="promotion">
+<div>
+<img src="http://cdn2.digitalartsonline.co.uk/cmsdata/features/3590704/creativity-512_thumb336.jpg" alt="2015 visual trends: 20 leading designers & artists reveal what should be inspiring us in 2015"/>
+</div>
+<h3>
+2015 visual trends: 20 leading designers & artists reveal what should be inspiring us in 2015
+</h3>
+</article>
+</a>
+<hr />
+<div class="mpuHolder">
+<div class="adContainer mpu">
+<div id="mpuSmall-pos2" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'mpuSmall-pos2';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+<hr>
+<div class="skyHolder">
+<div class="adContainer skyscraper">
+<div id="sky-pos1" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'sky-pos1';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+<div class="skyHolder">
+<div class="adContainer skyscraper">
+<div id="sky-pos2" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'sky-pos2';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+</aside>
+</div>
+<div id="bottomLeaderboard" class="leaderboardHolder">
+<div class="adContainer leaderboard">
+<div id="leaderboard-pos2" class="adUnitContainer">
+<script type="text/javascript">
+googletag.cmd.push(function(){
+var id = 'leaderboard-pos2';
+if (id in adConfig.adsToRefresh) {
+if(adConfig.debug)console.log('rendering ad id = ' + id);
+googletag.display(id);
+}
+});
+</script>
+</div>
+</div>
+</div>
+<div id="b2bArticles">
+<div class="b2cListingContainer">
+<img class="b2cListingHeader" src="http://cdn2.digitalartsonline.co.uk/graphics/logos/pcadvisorLogo.jpg" alt="IDG UK Sites">
+<a href="http://www.pcadvisor.co.uk/news/security/3597399/samsung-responds-eavesdropping-smart-tvs/" title="Samsung responds to eavesdropping Smart TVs: No big brother tactics here" target="_blank">
+<div class="b2cContent" style="background-image: url(//cdn2.pcadvisor.co.uk/cmsdata/features/3597399/Samsung_curved_UHD_TV_CES.JPG); repeat: no-repeat">
+<div class="b2cHeadlineContentContainer">
+<div class="listingTriangle"> </div>
+<div class="b2cHeadlineContent">
+<p
+>
+Samsung responds to eavesdropping Smart TVs: No big brother tactics here
+</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b2cListingContainer">
+<img class="b2cListingHeader" src="http://cdn2.digitalartsonline.co.uk/graphics/logos/techadvisorLogo.jpg" alt="IDG UK Sites">
+<a href="http://www.techadvisor.co.uk/opinion/mobile-phone/4-reasons-why-ubuntu-phone-is-doomed-fail/" title="4 reasons why the Ubuntu phone is doomed to fail: Can't compete with the big boys" target="_blank">
+<div class="b2cContent" style="background-image: url(http://www.techadvisor.co.uk/cmsdata/features/3597584/ubuntu_phone_release_date.png); repeat: no-repeat">
+<div class="b2cHeadlineContentContainer">
+<div class="listingTriangle"> </div>
+<div class="b2cHeadlineContent">
+<p
+>
+4 reasons why the Ubuntu phone is doomed to fail: Can't compete with the big boys
+</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b2cListingContainer">
+<img class="b2cListingHeader" src="http://cdn2.digitalartsonline.co.uk/graphics/logos/digitalartsonlineLogo.jpg" alt="IDG UK Sites">
+<a href="http://www.digitalartsonline.co.uk/news/illustration/update-wacoms-bamboo-paper-ipad-app-accused-of-using-rip-offs-of-gemma-corrells-cartoons/" title="Updated: Wacom make amends for including 'rip-offs' of Gemma Correll cartoons in its Bamboo Paper iPad app" target="_blank">
+<div class="b2cContent" style="background-image: url(http://cdn2.digitalartsonline.co.uk/cmsdata/features/3597582/wacom-correll-512.jpg); repeat: no-repeat">
+<div class="b2cHeadlineContentContainer">
+<div class="listingTriangle"> </div>
+<div class="b2cHeadlineContent">
+<p
+>
+Updated: Wacom make amends for including 'rip-offs' of Gemma Correll cartoons in its Bamboo Paper...
+</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="b2cListingContainer">
+<img class="b2cListingHeader" src="http://cdn2.digitalartsonline.co.uk/graphics/logos/macworldLogo.jpg" alt="IDG UK Sites">
+<a href="http://www.macworld.co.uk/feature/mac/imac-vs-mac-pro-best-mac-desktop-3596405/" title="Which pro Mac desktop: iMac and Mac Pro compared" target="_blank">
+<div class="b2cContent" style="background-image: url(http://cdn2.macworld.co.uk/cmsdata/features/3596405/imacvsmacpro_thumb230.jpg); repeat: no-repeat">
+<div class="b2cHeadlineContentContainer">
+<div class="listingTriangle"> </div>
+<div class="b2cHeadlineContent">
+<p
+lastHeadline>
+Which pro Mac desktop: iMac and Mac Pro compared
+</p>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div style="clear: both"></div>
+</div>
+<script>
+var tallestB2cBox = 0;
+function setAllDescriptionsToMaxHeight(){
+$('.b2cHeadlineContent').height(tallestB2cBox);
+}
+function getTallestB2cBox(){
+$('.b2cHeadlineContent').each(function(){
+var currentB2cDescriptionHeight = $(this).height();
+if(currentB2cDescriptionHeight > tallestB2cBox){
+tallestB2cBox = currentB2cDescriptionHeight;
+}
+});
+setAllDescriptionsToMaxHeight(tallestB2cBox);
+}
+$(document).ready(function(){
+getTallestB2cBox();
+});
+</script>
+<div id="sponsoredLinks">
+SPONSORED LINKS
+<hr/>
+<script type="text/javascript">
+document.write('<div class=\"show-tooltip\"><a class=\"show-tooltip-link\" href=\"http://www.wacom.eu/index2.asp?pid=9262&amp;lang=en&amp;utm_source=digitalarts&amp;utm_medium=homepage&amp;utm_content=en&amp;utm_campaign=whyintuos\" target=\"_blank\"><img alt=\"Intuos5 Masking can be made easy\" src=\"/cmsdata/hotspots/3407173/wacom.jpg\" height=\"40\" width=\"98\" /></a>\n<div class=\"show-tooltip-text\" style=\"display: none;\"><a href=\"http://www.wacom.eu/index2.asp?pid=9262&amp;lang=en&amp;utm_source=digitalarts&amp;utm_medium=homepage&amp;utm_content=en&amp;utm_campaign=whyintuos\" target=\"_blank\"><img alt=\"Intuos5 Masking can be made easy\" src=\"/cmsdata/hotspots/3407173/wacom.jpg\" height=\"40\" width=\"98\" /></a><br />Intuos5: Masking can be made easy. Don&rsquo;t go mad trying to highlight the right area. The Intuos5 Grip Pen allows you to define the retouching area with complete precision, following the curves and the edges to perfection</div>\n</div>\n<div class=\"show-tooltip\"><a class=\"show-tooltip-link\" href=\"http://ad.doubleclick.net/clk;272024415;98539941;o;pc=%5bTPAS_ID%5d?http://www.istockphoto.com?esource=DigitalArts_marketplace_en_UK_Jun13\" target=\"_blank\"><img alt=\"iStockPhoto\" src=\"/cmsdata/hotspots/3407173/40.jpg\" height=\"40\" width=\"40\" /></a>\n<div class=\"show-tooltip-text\" style=\"display: none;\"><a href=\"http://ad.doubleclick.net/clk;272024415;98539941;o;pc=%5bTPAS_ID%5d?http://www.istockphoto.com?esource=DigitalArts_marketplace_en_UK_Jun13\" target=\"_blank\"><img alt=\"iStockPhoto\" src=\"/cmsdata/hotspots/3407173/40.jpg\" height=\"40\" width=\"40\" /></a><br />We have something the other guys don&rsquo;t &ndash; oodles of original files that you actually want. Visit iStock.com for the best content at best prices.</div>\n</div>');
+</script>
+<br clear="all"/>
+</div>
+<style type="text/css">
+#sponsoredLinks{position:relative;margin-top:10px;margin-left:15px;padding:10px 15px;background-color:#efefef;font-size:8pt;font-weight:bold;overflow:visible;width:1010px}#sponsoredLinks hr{height:1px;background:#ccc;margin:5px 0;visibility:visible}#sponsoredLinks .show-tooltip{display:block;float:left;position:relative}#sponsoredLinks .show-tooltip .show-tooltip-link{height:100%;margin:5px;text-decoration:none}#sponsoredLinks .show-tooltip .show-tooltip-text{-webkit-box-shadow:0px 0px 5px #333;-moz-box-shadow:0px 0px 5px #333;box-shadow:0px 0px 5px #333;-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;font-size:8pt;font-weight:normal;font-family:Arial,Helvetica,sans-serif;color:#fff;background-color:#000;opacity:0.9;alpha-opacity:90%;padding:6px;display:none;max-width:150px;min-width:100px;position:absolute;top:-6px;z-index:9999}
+</style>
+<!--[if lt IE 9]>
+<style>
+#sponsoredLinks{margin-top:40px}
+</style>
+<![endif]-->
+<script>
+<!--
+head.ready(function(){
+$('.show-tooltip-link').mouseenter(
+function(){
+$(this).parent().children(".show-tooltip-text").stop(true,true).fadeIn(300);
+}
+);
+$('.show-tooltip-text').mouseleave(
+function(){$(this).stop(true,true).fadeOut(300);}
+);
+});
+-->
+</script>
+<footer id="siteFooter">
+<div class="first">
+<h4>SECTIONS</h4>
+<ul class="footerNav">
+<li><a class="active" href="/">Home</a></li>
+<li><a href="/news/">News</a></li>
+<li><a href="/tutorials/">Tutorials</a></li>
+<li><a href="/reviews/">Reviews</a></li>
+<li><a href="/features/">Features</a></li>
+<li><a href="/">Portfolios</a></li>
+<li><a href="/guides/">Guides</a></li>
+<li><a href="/about/">About</a></li>
+</ul>
+<h4>GUIDES</h4>
+<div>
+<ul class="footerNav">
+<li>
+<a title="3D printing"
+href="/guides/3d-printing/">
+3D printing
+</a>
+</li>
+<li>
+<a title="Adobe Creative Cloud"
+href="/guides/adobe-creative-cloud/">
+Adobe Creative Cloud
+</a>
+</li>
+<li>
+<a title="Animation & VFX"
+href="/guides/motion-graphics/">
+Animation & VFX
+</a>
+</li>
+<li>
+<a title="Business & Career Success"
+href="/guides/creative-business/">
+Business & Career Success
+</a>
+</li>
+<li>
+<a title="Creative graduate"
+href="/guides/graduate/">
+Creative graduate
+</a>
+</li>
+<li>
+<a title="Creative Hardware"
+href="/guides/creative-hardware/">
+Creative Hardware
+</a>
+</li>
+<li>
+<a title="Creative Software"
+href="/guides/creative-software/">
+Creative Software
+</a>
+</li>
+<li>
+<a title="Graphic Design"
+href="/guides/graphic-design/">
+Graphic Design
+</a>
+</li>
+<li>
+<a title="Hacking & Maker"
+href="/guides/hacking-maker/">
+Hacking & Maker
+</a>
+</li>
+<li>
+<a title="Illustration & Art"
+href="/guides/illustration/">
+Illustration & Art
+</a>
+</li>
+<li>
+<a title="Interactive & Web Design"
+href="/guides/interactive-design/">
+Interactive & Web Design
+</a>
+</li>
+<li>
+<a title="Photography"
+href="/guides/photography/">
+Photography
+</a>
+</li>
+<li>
+<a title="Show your creativity"
+href="/guides/show-your-creativity/">
+Show your creativity
+</a>
+</li>
+<li>
+<a title="Video Post-production"
+href="/guides/video-post-production/">
+Video Post-production
+</a>
+</li>
+</ul>
+</div>
+<a href="http://www.idg.co.uk/" title="IDG UK" target="_blank" rel="nofollow">
+<img src="http://cdn1.digitalartsonline.co.uk/graphics/logos/idg-white.png" alt="IDG" id="footerIDGLogo" />
+</a>
+<p class="idg-info">Founded in 1997 Digital Arts is part of IDG, the world's leading technology media, events and research company.</p>
+<ul id="idgNetworkLinks">
+<li>IDG UK:</li>
+<li><a rel="nofollow" href="http://www.macworld.co.uk" target="_blank">Macworld</a></li>
+<li>|</li>
+<li><a rel="nofollow" href="http://www.cio.co.uk" target="_blank">CIO</a></li>
+<li>|</li>
+<li><a rel="nofollow" href="http://www.computerworlduk.com" target="_blank">Computerworld UK</a></li>
+<li>|</li>
+<li><a rel="nofollow" href="http://www.techworld.com" target="_blank">Techworld</a></li>
+<li>|</li>
+<li><a rel="nofollow" href="http://www.macvideo.tv" target="_blank">MacVideo</a></li>
+<li>|</li>
+<li><a rel="nofollow" href="http://www.pcadvisor.co.uk" target="_blank">PC Advisor</a></li>
+</ul>
+<p class="allContents">All contents &copy; IDG 2015: <a href="mailto:webmaster@digitalartsonline.co.uk">webmaster</a> : <a href="/contact/">contact us</a> : <a href="http://www.idg.co.uk/terms-and-conditions/?page=privacy" target="_blank">privacy policy</a> : <a href="http://www.idg.co.uk/terms-and-conditions/cookies/" target="_blank" title="How to manage cookies">cookie policy</a> </p>
+</div>
+<div class="last">
+<img id="footerLogo" alt="Digital Arts" src="http://cdn2.digitalartsonline.co.uk/graphics/logos/logoWhite.png" />
+<ul id="footerLinks">
+<li class="rss"><a href="/rss/" title="See our RSS feeds">RSS feeds</a></li>
+<li class="twitter"><a href="https://twitter.com/digital_arts" title="See our Twitter feed" rel="nofollow" target="_blank">Twitter</a></li>
+<li class="facebook"><a href="http://www.facebook.com/DigitalArtsMagazine" title="See our Facebook page" rel="nofollow" target="_blank">Facebook</a></li>
+<li class="pinterest"><a href="http://pinterest.com/digitalartsmag/" title="See our Pinterest page" rel="nofollow" target="_blank">Pinterest</a></li>
+<li class="googleplus"><a href="https://plus.google.com/114867374490682182090/posts" title="See our Google+ page" rel="nofollow" target="_blank">Google+</a></li>
+</ul>
+</div>
+</footer>
+</div>
+<article class="readNextStickyWidget" id="readNextStickyWidget"><h4>Read Next...</h4></article>
+<script src="http://cdn2.digitalartsonline.co.uk/scripts/script-pack.js?20150120095402"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+if (typeof(pagearSmallImg) != "undefined") {
+acoeSrc = "/views/structure/pageear/AC_OETags.js?20150120095402";
+pageEarSrc = "/views/structure/pageear/pageear.js?20150120095402";
+acoeScript = '<scr' + 'ipt type="text/javascript" src="'+acoeSrc+'"></scr' + 'ipt>';
+pageEarScript = '<scr' + 'ipt type="text/javascript" src="'+pageEarSrc+'"></scr' + 'ipt>';
+document.write(acoeScript);
+document.write(pageEarScript);
+}
+/* ]]> */
+</script>
+<!-- BOX: 4 -->
+<!-- Begin comScore Tag --> 
+<script> 
+var _comscore = _comscore || []; 
+_comscore.push({ c1: "2", c2: "6035308" }); 
+(function() { 
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; 
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; 
+el.parentNode.insertBefore(s, el); 
+})(); 
+</script> 
+<noscript> 
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035308&cv=2.0&cj=1" /> 
+</noscript> 
+<!-- End comScore Tag -->
+<!-- Begin BlueKai Tag -->
+<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
+<script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
+<script type="text/javascript">
+var blueKaiDebug = false;
+if(blueKaiDebug)console.log('bluekai active');
+bk_doJSTag(18916, 4);
+<!-- End BlueKai Tag -->
+</script>
+<!-- Kontera Tag BEGIN-->
+<script type='text/javascript'>
+var dc_PublisherID = 243571 ; // set to desktop ID
+var dc_AdLinkColor = 'blue' ; //set to color of your choosing
+if (navigator.userAgent.match(/iPhone|iPad|iPod|Android|Blackberry|IEMobile/i)) {
+dc_PublisherID = 243572 ; // set to mobile ID
+dc_AdLinkColor = 'blue' ; //set to color of your choosing for mobile
+}
+</script>
+<script type='text/javascript' src='http://kona.kontera.com/javascript/lib/KonaLibInline.js'></script>
+<!-- Kontera Tag END-->
+<script>
+var anUrl = "/fusionreactor/UEM.cfm?db=32&wr=140&s=DE20EFDAC9C3EFEAC5609D1B2E4004DA&t=4027037";document.write(unescape("%3Cscript src='/fusionreactor/UEMJS.cfm' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- SERVER OK -->
+<script>
+var f = "scr";
+if(doProximicDelay)document.write("<"+f+"ipt type='text/javascript' src='http://tag.idgtn.net/adx.php'></"+f+"ipt>");
+</script>
+<script type="text/javascript" src="//s.skimresources.com/js/803X1529174.skimlinks.js"></script>	
+</body>
+</html>

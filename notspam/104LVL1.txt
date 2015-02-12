@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: The 100 Best, Most Interesting Blogs and Websites of 2014</title>
+	<atom:link href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/</link>
+	<description>tech &#38; app discovery</description>
+	<lastBuildDate>Sat, 07 Feb 2015 01:01:33 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1</generator>
+	<item>
+		<title>By: TexasMadeTV &#124; THE 100 BEST, MOST INTERESTING BLOGS AND WEBSITES OF 2014</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43669</link>
+		<dc:creator><![CDATA[TexasMadeTV &#124; THE 100 BEST, MOST INTERESTING BLOGS AND WEBSITES OF 2014]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2013 21:37:37 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43669</guid>
+		<description><![CDATA[[&#8230;] THE 100 BEST, MOST INTERESTING BLOGS AND WEBSITES OF 2014 [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] THE 100 BEST, MOST INTERESTING BLOGS AND WEBSITES OF 2014 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: mike</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43664</link>
+		<dc:creator><![CDATA[mike]]></dc:creator>
+		<pubDate>Fri, 29 Nov 2013 01:04:46 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43664</guid>
+		<description><![CDATA[Thanks for the lists.I am going to check those websites.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the lists.I am going to check those websites.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Friday Links &#124; Joindahunt.</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43647</link>
+		<dc:creator><![CDATA[Friday Links &#124; Joindahunt.]]></dc:creator>
+		<pubDate>Fri, 22 Nov 2013 20:14:00 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43647</guid>
+		<description><![CDATA[[&#8230;] are some good sites on this list (full disclosure: yes, BLTD is on [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] are some good sites on this list (full disclosure: yes, BLTD is on [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: I love lists, Friday! &#8211; Shutterbean</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43643</link>
+		<dc:creator><![CDATA[I love lists, Friday! &#8211; Shutterbean]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2013 23:11:45 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43643</guid>
+		<description><![CDATA[[&#8230;] Shutterbean is on Daily Tekk&#8217;s list for Top 100 Best Most Interesting Websites &amp; Blogs of 2014.   [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Shutterbean is on Daily Tekk&#8217;s list for Top 100 Best Most Interesting Websites &amp; Blogs of 2014.   [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: The Tunnels of Information &#124; Once Upon A Business</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43639</link>
+		<dc:creator><![CDATA[The Tunnels of Information &#124; Once Upon A Business]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2013 01:03:00 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43639</guid>
+		<description><![CDATA[[&#8230;] out there. The web is always changing and people flock to new sites regularly. I found a great site DAILYTEKK that has a post on the top 100 websites and blogs of 2014. The idea is that of a billboard top 100. [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] out there. The web is always changing and people flock to new sites regularly. I found a great site DAILYTEKK that has a post on the top 100 websites and blogs of 2014. The idea is that of a billboard top 100. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Idea Sources &#124; Sites and Soundbytes</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43637</link>
+		<dc:creator><![CDATA[Idea Sources &#124; Sites and Soundbytes]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2013 16:15:36 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43637</guid>
+		<description><![CDATA[[&#8230;] has a collection of The 100 Best, Most Interesting Blogs and Websites of 2014.&#160; It’s filled with unique sites that you probably haven’t heard of.&#160; They tend to [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] has a collection of The 100 Best, Most Interesting Blogs and Websites of 2014.&#160; It’s filled with unique sites that you probably haven’t heard of.&#160; They tend to [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Top News About Photography Continually Collected From Twitter &#124; This Marvelous Site with regard to stuff</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43636</link>
+		<dc:creator><![CDATA[Top News About Photography Continually Collected From Twitter &#124; This Marvelous Site with regard to stuff]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2013 12:29:32 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43636</guid>
+		<description><![CDATA[[&#8230;] A lot more below:http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/ [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] A lot more below:<a href="http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/" rel="nofollow">http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/</a> [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: The 100 Best, Most Interesting Blogs and Websites of 2013 &#124; DailyTekk</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43626</link>
+		<dc:creator><![CDATA[The 100 Best, Most Interesting Blogs and Websites of 2013 &#124; DailyTekk]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2013 16:14:58 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43626</guid>
+		<description><![CDATA[[&#8230;] The 100 Best, Most Interesting Blogs and Websites of 2014 [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] The 100 Best, Most Interesting Blogs and Websites of 2014 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: The 100 Best, Most Interesting Blogs and Websites of 2012 (Categorized) &#124; DailyTekk</title>
+		<link>http://dailytekk.com/2013/11/18/the-100-best-most-interesting-blogs-and-websites-of-2014-2/#comment-43625</link>
+		<dc:creator><![CDATA[The 100 Best, Most Interesting Blogs and Websites of 2012 (Categorized) &#124; DailyTekk]]></dc:creator>
+		<pubDate>Mon, 18 Nov 2013 16:13:39 +0000</pubDate>
+		<guid isPermaLink="false">http://dailytekk.com/?p=10060#comment-43625</guid>
+		<description><![CDATA[[&#8230;] The 100 Best, Most Interesting Blogs and Websites of 2014 [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] The 100 Best, Most Interesting Blogs and Websites of 2014 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>              <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>                 <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>                 <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]>      <html lang="en" dir="ltr"
+  xmlns:schema="http://schema.org/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#" class="no-js ie9"> <![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="sailthru.tags" content="Health,Cooking Tips,Health and Fitness Tracking,Healthy Habits,Tech" />
+<link rel="shortcut icon" href="http://greatist.com/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="sailthru.author" content="The Greatist Team" />
+<meta name="sailthru.title" content="The 50 Most Innovative Health, Fitness, and Happiness Startups" />
+<meta name="sailthru.date" content="2013-03-14T07:38:36-04:00" />
+<meta name="description" content="Whether you’re a yogi, a foodie, or the type who writes love letters, there’s a startup out there for you. Check out our list of the 50 companies that are making health and wellness fun, easy, and exciting." />
+<meta name="keywords" content="health,fitness,nutrition,recipes,workouts,greatist" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups" />
+<link rel="shortlink" href="http://greatist.com/node/2984" />
+<meta property="fb:admins" content="1101180055" />
+<meta property="fb:app_id" content="338405982951793" />
+<meta property="og:site_name" content="Greatist" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="The 50 Most Innovative Health, Fitness, and Happiness Startups" />
+<meta property="og:url" content="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups" />
+<meta property="og:description" content="Whether you’re a yogi, a foodie, or the type who writes love letters, there’s a startup out there for you. Check out our list of the 50 companies that are making health and wellness fun, easy, and exciting." />
+<meta property="og:image" content="http://greatist.com/sites/default/files/styles/big_share/public/Best-Startups-2013.jpg?itok=dINqZjGf" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@greatist" />
+<meta name="twitter:url" content="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups" />
+<meta name="twitter:title" content="The 50 Most Innovative Health, Fitness, and Happiness Startups" />
+<meta name="twitter:description" content="Whether you’re a yogi, a foodie, or the type who writes love letters, there’s a startup out there for you. Check out our list of the 50 companies that are making health and wellness fun, easy, and exciting." />
+<meta name="twitter:image:src" content="http://greatist.com/sites/default/files/styles/article_main/public/Best-Startups-2013.jpg?itok=NcvU06xh" />
+<meta property="article:publisher" content="https://www.facebook.com/greatistblog" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAFVldUGwsJU1BWAQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="msvalidate.01" content="F278AF2F0E4E8926793D700CF27DA993" />
+  <meta name="google-site-verification" content="fjgY6e3MJuL9VdcVmhgvCRs4rTIxZj3-c_yS6vbGiDE" />
+  <link href="https://plus.google.com/+Greatist" rel="publisher" />
+  <link rel="apple-touch-icon" href="/sites/default/files/Mobile-Icon-V3.jpg"/>
+
+  <title>The 50 Most Innovative Health, Fitness, and Happiness Startups | Greatist</title>
+  <link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_qKsSCcrOVT4pKULgi4iAVuPQPU3lfSzuSXMJCARUKic.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_IIuB84W_LTUOQsR6QxwVHhKRjG3RIcelyNgHD3ccBfs.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_yYuTvjdq5_epDRBZUITk8EG5FPEk00zL4y1ftmiAgXY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://greatist.com/sites/default/files/css/css_zIep3CyXXbbaozLY4V9fqRVWY7fEcSt7WcalSF3kxpc.css" media="all" />
+  <script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_PSgAsAtLmjiD5PBmE1rRXHN2jvIgrMefBfWBidjewrc.js"></script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-20914064-2", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("set", "dimension1", "March 14, 2013");ga("set", "dimension2", "The Greatist Team");ga("set", "dimension3", "tech,health and fitness tracking,healthy habits,cooking tips");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var greatist_globals = {"env":"live","themepath":"\/sites\/all\/themes\/greatist2x","jsfolder":"\/sites\/all\/themes\/greatist2x\/js\/c","yieldbot":true,"yb_pub_id":"1ce9","yb_pub_id_mobile":"7a53","horizon":true,"thinglink":false,"require":{"baseUrl":"\/sites\/all\/themes\/greatist2x\/js\/c\/greatist-build","urlArgs":"v=1423730800"},"nodepage":true,"prod_url":"http:\/\/greatist.com\/health\/most-innovative-health-fitness-and-happiness-startups","article_nid":"2984","article_uid":"7","article_created":"1363261116","article_title":"The 50 Most Innovative Health, Fitness, and Happiness Startups","article_type":"article","tags":["Tech","Health and Fitness Tracking","Healthy Habits","Cooking Tips"],"tags_dfp":["tech","health and fitness tracking","healthy habits","cooking tips"],"categories":["Health"],"categories_dfp":["health"],"author":"The Greatist Team"};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_1cZ0sSNmCDURwwlpHCGQBDJYLMYvGNVB-GFK_OZTTX4.js"></script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_EGHnHuhPTuENKQGuwH4dC7nJUYDOz-UfqZdEvD23yZk.js"></script>
+<script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_a0UKqEHU0SsEcCqABnoKKagjtVVdrVvKMv60ck-rxFI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"greatist2x","theme_token":"N1H9kHV5wdjl7tD4ewc0SfXhO8YzO76daRjQGvBJaZs","js":{"sites\/all\/themes\/greatist2x\/js\/c\/greatist-build\/main.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/all\/themes\/greatist2x\/js\/c\/require_m.js":1,"sites\/all\/themes\/greatist2x\/js\/c\/greatist-build\/require-config.js":1,"sites\/all\/themes\/greatist2x\/js\/c\/lib\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/print.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/modules\/print\/css\/printlinks.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/magnific-popup.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/jquery.qtip.min.css":1,"sites\/all\/themes\/greatist2x\/css\/live\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+  <!--[if lte IE 9 ]><link type="text/css" rel="stylesheet" href="/sites/all/themes/greatist2x/css/old-ie.css" media="all" /><![endif]-->
+  <script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://greatist.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://greatist.com/search?search={search_term}",
+     "query-input": "required name=search_term"
+   }
+}
+</script>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2984 node-type-article env-live" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <div class="leaderboard"><div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-leaderboard"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_728x90"
+  data-ad-slot="div-gpt-ad-1408633905912-0"
+  data-ad-size="728x90"
+  class="dfp-tag-wrapper dfp-ad-article-ad-leaderboard"></div>
+
+<div
+  data-restrict-context-to="x-small,small,medium"
+  data-dfp-g-id="article-ad-mobile-top"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_320x50_Mobile"
+  data-ad-slot="div-gpt-ad-1412623396310-0"
+  data-ad-size="300x50,320x50"
+  class="dfp-tag-wrapper dfp-ad-article-ad-mobile-top"></div>
+
+</div>
+  <div data-header class="header-wrapper">
+  <header role="banner" class="clearfix">
+    <nav role="navigation">
+      <div id="nav-touch-wrapper" ng-controller="menuCtrl">
+        <div id="main-menu">
+  <ul class="topNav left-menu menu">
+    <li class="logo">
+      <div class="wrapper-item">
+         <div itemscope itemtype="http://schema.org/Organization">
+          <div class="mobile-menu" ng-controller="hamburgerCtrl">
+            <div class="icon-wrapper" ng-click="toggle()">
+              <i class="fa fa-bars"></i/>
+            </div>
+            <div class="hamburger-menu" ng-class="open">
+  <ul class="topics-ham">
+     <li ng-repeat="item in topicsMenu" class="{{item.class}}">
+        <a href="{{item.path}}"> <h3 > <span>{{item.title}}</span> </h3> </a>
+     </li>
+  </ul>
+
+  <ul class="more-ham">
+     <li ng-repeat="item in moreMenu">
+        <a href="{{item.path}}"> <h3> {{item.title}}</h3> </a>
+     </li>
+  </ul>
+</div>
+          </div>
+          <div class="logo-wrapper">
+            <a itemprop="url" href="/" title="Home" rel="home" id="logo">
+              <img itemprop="logo" src="/sites/all/themes/greatist2x/images/logo_white.svg" alt="Home" />
+              <span class="element-hidden" itemprop="name">Greatist</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="menu-item topics hover no-small">
+       <div class="wrapper-item">
+         <h4>TOPICS <i class="fa fa-caret-down"></i></h4>
+         <div class="sub-menu sub-topics">
+            <ul class="sub-menu-list" data-links=[{"path":"\/taxonomy\/term\/1684","title":"EAT","class":"eat"},{"path":"\/taxonomy\/term\/1685","title":"MOVE","class":"move"},{"path":"\/taxonomy\/term\/1687","title":"PLAY","class":"play"},{"path":"\/taxonomy\/term\/1686","title":"GROW","class":"grow"},{"path":"\/taxonomy\/term\/1688","title":"CONNECT","class":"connect"},{"path":"\/taxonomy\/term\/1689","title":"DISCOVER","class":"discover"}]>
+    <li class="eat">
+    <a ng-click="click()" track="cat-eat"  href="/eat" >
+      <h3>
+        <span> EAT </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-eat-img" class="img" href="/health/valentines-day-best-healthy-recipes-021014" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/ValentinesFeature.jpg?itok=gJtIj7GT" />
+        </a>
+        <a ng-click="click()" track="sub-eat-txt" class="text" href="/health/valentines-day-best-healthy-recipes-021014" >
+          13 Valentine's Day Recipes That Beat a Box of Chocolates        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-eat-img" class="img" href="/eat/gluten-free-breakfast-recipes" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Chocolate-Chip-Cookie-Pancakes.jpg?itok=UD8P99Hk" />
+        </a>
+        <a ng-click="click()" track="sub-eat-txt" class="text" href="/eat/gluten-free-breakfast-recipes" >
+          44 Easy Breakfast Recipes You Won't Believe Are Gluten-Free        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-eat-img" class="img" href="/health/100-calorie-snacks" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/cheesy-popcorn.jpg?itok=PpO2kYce" />
+        </a>
+        <a ng-click="click()" track="sub-eat-txt" class="text" href="/health/100-calorie-snacks" >
+          100-Calorie Snacks That Actually Keep You Full and Satisfied        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-eat-more" href="/eat"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="move">
+    <a ng-click="click()" track="cat-move"  href="/move" >
+      <h3>
+        <span> MOVE </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-move-img" class="img" href="/move/reasons-working-out-night-best" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/NighttimeFitness.jpg?itok=lOEhOzn6" />
+        </a>
+        <a ng-click="click()" track="sub-move-txt" class="text" href="/move/reasons-working-out-night-best" >
+          The Surprising Benefits of Exercising at Night        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-move-img" class="img" href="/fitness/25-must-try-medicine-ball-exercises" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/MedicineBall_Feature.jpg?itok=cEGSY8PK" />
+        </a>
+        <a ng-click="click()" track="sub-move-txt" class="text" href="/fitness/25-must-try-medicine-ball-exercises" >
+          25 Must-Try Medicine Ball Exercises        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-move-img" class="img" href="/move/morning-yoga-for-beginners" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/morning-yoga-prayer-position.jpg?itok=6HlVdE43" />
+        </a>
+        <a ng-click="click()" track="sub-move-txt" class="text" href="/move/morning-yoga-for-beginners" >
+          This 15-Minute Routine Wakes You Up Better Than Coffee        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-move-more" href="/move"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="play">
+    <a ng-click="click()" track="cat-play"  href="/play" >
+      <h3>
+        <span> PLAY </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-play-img" class="img" href="/play/first-date-ideas" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/bike-ride-date.jpg?itok=LcXq34s9" />
+        </a>
+        <a ng-click="click()" track="sub-play-txt" class="text" href="/play/first-date-ideas" >
+          29 Crazy-Fun First Date Ideas That Don’t Involve Sitting at a Bar        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-play-img" class="img" href="/happiness/valentines-day-friendships" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Friendship-Dog-feature.jpg?itok=LyO6L7K8" />
+        </a>
+        <a ng-click="click()" track="sub-play-txt" class="text" href="/happiness/valentines-day-friendships" >
+          If We All Did This, Everyone Would Love Valentine’s Day (and Every Day)        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-play-img" class="img" href="/happiness/no-such-thing-as-one-true-love" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/One-True-Love.jpeg?itok=y93XH-Mc" />
+        </a>
+        <a ng-click="click()" track="sub-play-txt" class="text" href="/happiness/no-such-thing-as-one-true-love" >
+          There's No Such Thing as One True Love. Here's Why That's Awesome        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-play-more" href="/play"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="grow">
+    <a ng-click="click()" track="cat-grow"  href="/grow" >
+      <h3>
+        <span> GROW </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-grow-img" class="img" href="/grow/friendship-breakups" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/FriendBreakupFeature.jpg?itok=7yaX9mtf" />
+        </a>
+        <a ng-click="click()" track="sub-grow-txt" class="text" href="/grow/friendship-breakups" >
+          How to Deal—and Heal—When a Friend Breaks Up With You        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-grow-img" class="img" href="/grow/how-to-be-organized" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Organize_Feat_V4.png?itok=IkuDv_Qn" />
+        </a>
+        <a ng-click="click()" track="sub-grow-txt" class="text" href="/grow/how-to-be-organized" >
+          How to Be the Most Organized Person in the World, Starting Now        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-grow-img" class="img" href="/grow/answers-embarrassing-underwear-questions" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/UnderwearFeature.jpg?itok=CYln6Yvb" />
+        </a>
+        <a ng-click="click()" track="sub-grow-txt" class="text" href="/grow/answers-embarrassing-underwear-questions" >
+          The 5 Underwear Questions You’re too Embarrassed to Ask (But We’re Not!)        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-grow-more" href="/grow"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="connect">
+    <a ng-click="click()" track="cat-connect"  href="/connect" >
+      <h3>
+        <span> CONNECT </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-connect-img" class="img" href="/connect/boring-meditation-made-exciting" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/Meditation_NL.jpg?itok=0jymWzta" />
+        </a>
+        <a ng-click="click()" track="sub-connect-txt" class="text" href="/connect/boring-meditation-made-exciting" >
+          Bored by Meditation? This Will Change How You Feel        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-connect-img" class="img" href="/connect/never-cleanse-again" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/iStock_000044130328_Large.jpg?itok=m3awoHfV" />
+        </a>
+        <a ng-click="click()" track="sub-connect-txt" class="text" href="/connect/never-cleanse-again" >
+          I’ve Tried Almost Every Cleanse. Here’s Why I’ll Never Do One Again        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-connect-img" class="img" href="/connect/experts-best-advice" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/InfluencersQuotesFeature.jpg?itok=Aqn0ZB0t" />
+        </a>
+        <a ng-click="click()" track="sub-connect-txt" class="text" href="/connect/experts-best-advice" >
+          Experts Reveal: "The One Piece of Advice That's Changed My Life the Most"        </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-connect-more" href="/connect"> MORE</a>
+      </li>
+    </ul>
+      </li>
+    <li class="discover">
+    <a ng-click="click()" track="cat-discover"  href="/discover" >
+      <h3>
+        <span> DISCOVER </span><i class="fa fa-caret-right"></i>      </h3>
+    </a>
+        <ul class='sub-articles'>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-discover-img" class="img" href="/discover/fat-is-not-a-feeling-video" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/fat-is-not-a-feeling.jpg?itok=ujxm6jlx" />
+        </a>
+        <a ng-click="click()" track="sub-discover-txt" class="text" href="/discover/fat-is-not-a-feeling-video" >
+          Years of Hating Her Body and Then One Simple Choice Changed Everything        </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-discover-img" class="img" href="/discover/google-health-search" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/google_health.jpg?itok=-UfloKSQ" />
+        </a>
+        <a ng-click="click()" track="sub-discover-txt" class="text" href="/discover/google-health-search" >
+          New Google Search Tool Is Almost as Good as a Trip to the Doctor         </a>
+      </li>
+            <li class="sub-article">
+        <a ng-click="click()" track="sub-discover-img" class="img" href="/discover/greatist-things-on-the-internet-020515" >
+          <img src="http://greatist.com/sites/default/files/styles/square_menu_60x60/public/greatistthing_1800%20%281%29_9_1.png?itok=f8ERyfR3" />
+        </a>
+        <a ng-click="click()" track="sub-discover-txt" class="text" href="/discover/greatist-things-on-the-internet-020515" >
+          So That’s How Avocados Got So Popular (And 5 More Links You Can’t Miss)         </a>
+      </li>
+            <li class="btn-more">
+        <a ng-click="click()" track="sub-discover-more" href="/discover"> MORE</a>
+      </li>
+    </ul>
+      </li>
+  </ul>
+         </div>
+       </div>
+    </li>
+      <li class="menu-item more hover" ng-controller="basicTracking" ng-init="initAnalytics('navbar-menu-about', {implicitClick: true})">
+    <a href="/about">
+      <div class="wrapper-item">
+        <h4>ABOUT</h4>
+      </div>
+    </a>
+  </li>
+  <li class="menu-item more hover" ng-controller="basicTracking" ng-init="initAnalytics('navbar-menu-shop', {implicitClick: true})">
+    <a href="/shop">
+      <div class="wrapper-item">
+        <h4>SHOP</h4>
+      </div>
+    </a>
+  </li>
+  <li class="menu-item more hover" ng-controller="basicTracking" ng-init="initAnalytics('navbar-menu-subscribe', {implicitClick: true})">
+    <a href="/newsletter">
+      <div class="wrapper-item">
+        <h4>SUBSCRIBE</h4>
+      </div>
+    </a>
+  </li>
+    <li class="menu-item more-medium hover">
+      <div class="wrapper-item">
+        <h4> MORE <i class="fa fa-caret-down"></i> </h4>
+        <div class="sub-menu sub-more">
+          <ul class="sub-menu-list" data-links=[{"path":"\/about","title":"ABOUT","class":"about"},{"path":"\/shop","title":"SHOP","class":"shop"},{"path":"\/newsletter","title":"SUBSCRIBE","class":"subscribe"}]>
+    <li class="about">
+    <a ng-click="click()" track="cat-about"  href="/about" >
+      <h3>
+        <span> ABOUT </span>      </h3>
+    </a>
+      </li>
+    <li class="shop">
+    <a ng-click="click()" track="cat-shop"  href="/shop" >
+      <h3>
+        <span> SHOP </span>      </h3>
+    </a>
+      </li>
+    <li class="subscribe">
+    <a ng-click="click()" track="cat-subscribe"  href="/newsletter" >
+      <h3>
+        <span> SUBSCRIBE </span>      </h3>
+    </a>
+      </li>
+  </ul>
+        </div>
+      </div>
+    </li>
+  </ul>
+  <ul class="topNav right-menu menu">
+    <li class="menu-item promotion">
+      <div class="wrapper-item">
+        <div ng-controller="basicTracking" ng-init="initAnalytics('promotion-navbar', {implicitClick: true})">
+  <a href="/shop/greatist-cookbook">
+    <span class="title"><i class="fa fa-cutlery"></i> The Greatist Cookbook is here.</span>
+    <br/>
+    <span class="cta">Download Now! <i class="caret fa fa-chevron-right"></i></span>
+  </a>
+<div>
+      </div>
+    </li>
+    <li class="menu-item search hover ">
+        <div class="wrapper-item">
+          <a href="/search" class="search-button">
+  <i class="fa fa-search"></i>
+</a>
+        </div>
+    </li>
+  </ul>
+</div>
+      </div>
+    </nav>
+  </header>
+</div>
+  <div id="main-background" data-sticky-g-trigger>
+    <div id="main-block" role="main">
+      <div class="main-content">
+                
+                <div class="container-grid">
+  <div class="article-top">
+    <article
+      class="article-main-column main-column"
+      ng-controller="articleCtrl"
+      itemscope
+      itemtype="http://schema.org/Article"
+    >
+      <h1 class="title" id="page-title" itemprop="name headline alternativeHeadline">The 50 Most Innovative Health, Fitness, and Happiness Startups</h1>
+
+              <div itemprop="description" class="element-hidden">Whether you’re a yogi, a foodie, or the type who writes love letters, there’s a startup out there for you. Check out our list of the 50 companies that are making health and wellness fun, easy, and exciting. </div>
+      
+              <div class="group-article-meta">
+            <div class="field article-author-top" itemscope itemprop="author" itemtype="http://schema.org/Person">
+  <a
+    href="/p/greatist-team"
+    title="User profile of "
+    class="username"
+    about="/p/greatist-team"
+    typeof="sioc:UserAccount"
+    itemprop="url"
+  >
+          <img src="http://greatist.com/sites/default/files/styles/article-avatar-40x40/public/Greatist_Logo_Badge_Blue.jpg?itok=p2CVeYB1" alt="The Greatist Team"  itemprop="image" />
+        <span itemprop="name">The Greatist Team</span>
+  </a>
+</div>
+
+            <div
+  class="field field-name-post-date"
+  itemprop="datePublished"
+  content="2013-03-14"
+>
+  March 14, 2013</div>
+            <a href="/print/2984" rel="nofollow" class="print-button" title="Print this article">
+  <i class="fa fa-print"></i>
+  </a>
+        </div>
+      
+      <div class="feature-image element-hidden">
+    <img
+      data-feature-image
+      typeof="foaf:Image"
+      src="http://greatist.com/sites/default/files/styles/article_main/public/Best-Startups-2013.jpg?itok=NcvU06xh"
+      itemprop="image"
+      width="644"       height="334"       alt="The 50 Most Innovative Health, Fitness, and Happiness Startups"
+    />
+</div>
+
+      <div class="top-share">
+        <div class="group_share ">
+  <div class="field-group-format-wrapper" style="display: block;">
+          <div class="total-shares full-total-shares">
+        <span class="total-num">7.2K</span><i class="icon-font"></i>
+      </div>
+        <div class="share-buttons icons" data-origin="top">
+      <div ng-controller="socialCtrl"
+  data-href="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups"
+  data-media="http%3A%2F%2Fgreatist.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fbig_share%2Fpublic%2FBest-Startups-2013.jpg%3Fitok%3DdINqZjGf"
+  data-title="The 50 Most Innovative Health, Fitness, and Happiness Startups"
+  data-twitter=""
+  data-twitter-url="http://grt.st/1qwqGY1"
+>
+
+  <div class="greatist-pin large greatist-share">
+    <a class="pin greatist-pin-button icon-font"
+    ng-click="share_pin()" ><span class="share-alt">Pin it</span></a>
+  </div>
+  <div class="greatist-facebook large greatist-share">
+    <a
+      class="fb-share-button icon-font fb"
+      ng-click="share_fb($event)"
+      data-share-fb
+    ><span class="share-alt">Share</span></a>
+  </div>
+  <div class="greatist-email greatist-share">
+    <a class="greatist-email-button icon-font email"
+    ng-click="share_email()"><span class="share-alt">Email</span></a>
+  </div>
+  <div class="greatist-stumble greatist-share">
+    <a class="greatist-stumble-button icon-font stumble"
+    ng-click="share_stumble()"><span class="share-alt">Stumble</span></a>
+  </div>
+</div>
+    </div>
+      </div>
+</div>
+      </div>
+
+      <div class="side-share">
+        <div ng-controller="socialCtrl"
+  data-href="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups"
+  data-media="http%3A%2F%2Fgreatist.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fbig_share%2Fpublic%2FBest-Startups-2013.jpg%3Fitok%3DdINqZjGf"
+  data-title="The 50 Most Innovative Health, Fitness, and Happiness Startups"
+  data-twitter=""
+  data-twitter-url="http://grt.st/1qwqGY1"
+  data-origin="side"
+>
+  <a class="share-pinterest" ng-click="share_pin()">
+    <i class="fa fa-pinterest-p"></i>
+  </a>
+  <a class="share-facebook" ng-click="share_fb($event)" data-share-fb>
+    <i class="fa fa-facebook"></i>
+  </a>
+  <a class="share-email" ng-click="share_email()">
+    <i class="fa fa-envelope-o"></i>
+  </a>
+  <a class="share-stumbleupon" ng-click="share_stumble()">
+    <i class="fa fa-stumbleupon"></i>
+  </a>
+</div>
+      </div>
+
+      <div class="article-body block"  data-sticky-g-trigger data-scroll-reach-tracking="article-content-beginning">
+        <div class="article-body-content" data-target-blank itemprop="articleBody">
+  <p><img height="604" width="604" alt="50 Most Innovative Health &amp;amp; Fitness Startups" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/50%20Most%20Innovative%20Health%20%26%20Fitness%20Startups_0.png" /></p>
+<p>Maintaining good health means asking a lot of questions. How far did I run this morning? Why am I tossing and turning for hours every night? How many calories were in that Chipotle burrito? But when counting every refried bean just won’t work, it can be hard to find answers. <strong>Luckily, there are at least 50 simple solutions to our health- and wellness-related quandaries.</strong></p><div
+  data-restrict-context-to="medium,small,x-small"
+  data-dfp-g-id="article-ad-mobile-inline"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_300x250_Mobile_Entry"
+  data-ad-slot="div-gpt-ad-1410556946418-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-mobile-inline"></div>
+
+
+<p>We’re talking apps that can see inside food packaging; personal trainers that fit in our back pocket; and bloggers who dig up the latest research on the science of meditation. And while each of these startups is different, they all remind us that — when it comes to health, fitness, and happiness — we’re not alone. Help, it turns out, is just a click, a tap, or a phone call away. Check out what these companies, ranked from 1 to 50, have to offer and tell us which ones are your personal favorites.</p>
+<p>There are plenty of awesome health and wellness startups out there, and we had a hard time choosing just 50 to feature. To narrow down the list, we looked only at companies with about 50 or fewer employees. We also considered the startups’ growth over the last few years, presence on social media, and press coverage. So while these are hardly the <em>only</em> 50 startups out there,  <span dir="ltr" id=":146">in our opinion they are spearheading the most exciting developments in health and fitness</span></p>
+<p> </p>
+<p><img height="400" width="604" alt="MyFitnessPal_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/MyFitnessPal_604_2.jpg" /></p>
+<p style="margin-left: 40px;"><strong>1. <a href="http://www.myfitnesspal.com/">MyFitnessPal</a></strong><br /><span style="line-height: 1.5em;">Managing body weight and eating healthy are a lot easier when you can keep track of what exactly you're eating. </span><a href="http://greatist.com/team/tech-spotlight-myfitnesspal" style="line-height: 1.5em;">MyFitnessPal</a><span style="line-height: 1.5em;"> is a tool for just that purpose, letting users track their daily activity (and calorie burn) and food intake (calorie consumption). That way, it's possible to see how much you've consumed, how much you've burned, and how much you have left to chow down on. They have a huge database with nutrition facts for hundreds of thousands of foods, including both popular brands like KIND Foods and basic staples like brown rice (broken down by brand, too!). Plus, it's super simple to add new foods with the handy dandy barcode scanner. The system’s also </span><em style="line-height: 1.5em;">smart</em><span style="line-height: 1.5em;"> — it remembers things you eat frequently for quick n' easy logging! </span><em style="line-height: 1.5em;">Photo: Gary Sexton Photography</em></p>
+<p><img height="400" width="604" alt="RunKeeper_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/RunKeeper_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong><span style="line-height: 1.5em;">2. </span><a href="http://runkeeper.com/" style="line-height: 1.5em;">RunKeeper</a></strong><br /><span style="line-height: 1.5em;">Want to track that run, hike, or bike ride? Look no further. One of the most popular fitness-tracking apps, </span><a href="http://greatist.com/fitness/tech-spotlight-runkeeper" style="line-height: 1.5em;">RunKeeper</a><span style="line-height: 1.5em;"> lets users track distance, length, and calories for their workouts and then share and compare stats on social media. The company recently released a sleek redesign that allows for easier photo sharing and faster updates. (Plus it’s super pretty.) And non-iPhone users, don't fret; they've got an Android app, too. </span><em style="line-height: 1.5em;">Photo: RunKeeper</em></p>
+<p><img height="400" width="604" alt="Runtastic_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/runtastic_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong><span style="line-height: 1.5em;">3. </span><a href="http://www.runtastic.com/" style="line-height: 1.5em;">Runtastic</a></strong><br /><span style="line-height: 1.5em;">This European startup is aiming high to become a full-service health and fitness platform. Runtastic offers an array of online services and apps that measure, track, and analyze data. Users can also connect to social media platforms and interact with friends. Many of their apps (like PushUps and Cycling) cost a few bucks, but their most popular running app, “runtastic” is free and fun to use. </span><em style="line-height: 1.5em;">Photo: Runtastic</em></p>
+<p><img height="400" width="604" alt="Endomondo_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Endomondo_604_0.jpg" /></p>
+<p style="margin-left: 40px;"><strong><span style="line-height: 1.5em;">4. </span><a href="http://www.endomondo.com/login" style="line-height: 1.5em;">Endomondo</a></strong><br /><span style="line-height: 1.5em;">Whether we want to run, skate, ski, or cycle, Endomondo makes it easier to track the way we train. Created by three management-consultants-turned-entrepreneurs, the Endomondo Sports Tracker is a free GPS-assisted iPhone app that tracks any outdoor sports adventures and helps monitor users’ performance over time. Feeling social? Challenge someone to a race, or let others cheer you on — </span><a href="http://www.endomondo.com" style="line-height: 1.5em;">endomondo.com</a><span style="line-height: 1.5em;"> is where 13 million-plus users come to connect and sweat it out with friends. </span><em style="line-height: 1.5em;">Photo: Endomondo</em></p>
+<p><img height="400" width="604" alt="Food52_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Food52_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>5. <a href="http://food52.com/">Food52</a></strong><br /><span style="line-height: 1.5em;">After working together on </span><a href="http://www.amazon.com/Essential-New-York-Times-Cookbook/dp/0393061035?tag=food52-20" style="line-height: 1.5em;">The Essential New York Times Cookbook</a><span style="line-height: 1.5em;">, professional food writers Amanda Hesser and Merrill Stubbs were ready for a new project. They set a goal to create an entirely reader-sourced cookbook in 52 weeks (hence the title of the website). Through online recipe contests, they soon had enough recipes for </span><a href="http://www.amazon.com/Food52-Cookbook-Winning-Recipes-Exceptional/dp/006188720X?tag=food52-20" style="line-height: 1.5em;">a book</a><span style="line-height: 1.5em;">, which was published in 2011. Even better, they created a community where home cooks could be appreciated and interact with each other, discuss food news, and, of course, exchange recipes. </span><em style="line-height: 1.5em;">Photo by Amanda Merrill</em></p>
+<p><img height="400" width="604" alt="Strava_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Strava_604_0.jpg" /></p>
+<p style="margin-left: 40px;"><strong>6. <a href="http://www.strava.com/">Strava</a></strong><br /><span style="line-height: 1.5em;">Created by athletes for athletes, Strava takes basic fitness tracking up a notch with its sophisticated approach to analyzing runs and rides. Not sure what to make of that last solo effort? Check out yesterday’s uphill climb (or any other section of your ride) to see how it stacks up against another cyclist’s (or your ride last week). Connect via Garmin, Android, or iPhone, and hit the road with a little camaraderie — and some healthy competition — in hand. And for those lucky enough to work at Strava HQ in San Francisco, five weeks' vacation fits just right with the company's belief that there's always time for a good run, ride, or climb. </span><em style="line-height: 1.5em;">Photo: Strava</em></p>
+<p><img height="400" width="604" alt="MindBodyGreen_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/MindBodyGreen_604.JPG" /></p>
+<p style="margin-left: 40px;"><strong>7. <a href="http://www.mindbodygreen.com/">MindBodyGreen</a></strong><br /><span style="line-height: 1.5em;">The folks at MindBodyGreen are dedicated to making wellness a holistic practice and a part of everyday life. Every day brings dozens of new articles on the latest trends in health, fitness, and sustainability, from the link between </span><a href="http://www.mindbodygreen.com/0-2821/Meditation-Sex-Are-Same-to-Your-Brain.html" style="line-height: 1.5em;">meditation and sex</a><span style="line-height: 1.5em;"> to the benefits of </span><a href="http://www.mindbodygreen.com/0-7871/boozing-insomnia-stress-and-other-great-reasons-to-get-some-chlorophyll.html" style="line-height: 1.5em;">slurping some chlorophyll</a><span style="line-height: 1.5em;">. The site features a nice balance of personal stories (“</span><a href="http://www.mindbodygreen.com/0-7818/how-i-learned-to-see-beauty-when-i-look-in-the-mirror.html" style="line-height: 1.5em;">How I Learned to See Beauty When I Look in the Mirror</a><span style="line-height: 1.5em;">” and more general guides to relationships, eco-friendly living, and finding inspiration everywhere. </span><em style="line-height: 1.5em;">Photo: MindBodyGreen</em></p>
+<p><img height="400" width="604" alt="Foodily_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Foodily_604_0.jpg" /></p>
+<p style="margin-left: 40px;"><strong>8. <a href="http://www.foodily.com/">Foodily</a></strong><br /><span style="line-height: 1.5em;">In 2011, former Yahoo execs Andrea Cutright and Hillary Mickell launched Foodily, a social, highly searchable recipe database. The site (Internet-speak for Food-I-Love-You) is different from other recipe resources: It allows users to search by ingredient, cuisine, dietary restrictions, and source, among other criteria. Each recipe comes with detailed instructions, multiple photos, and plenty of share buttons for social media sites like Facebook, StumbleUpon, Twitter, and Pinterest. Foodily lets wannabe chefs get as specific as they want — for example, it's possible to search for a gluten-free vegetable pizza recipe that excludes green peppers. Score for picky eaters everywhere! The website includes recipes from diverse sources from mommy bloggers to celebrity chefs. In late 2011 Foodily came out with an app version of the site, which was </span><a href="http://techcrunch.com/2012/11/15/as-recipe-sharing-on-pinterest-explodes-foodily-revamps-to-focus-on-social/" style="line-height: 1.5em;">recently updated</a><span style="line-height: 1.5em;"> in Fall 2012. </span><em style="line-height: 1.5em;">Photo: Foodily</em></p>
+<p><img height="400" width="604" alt="Fitocracy_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Fitocracy_604.png" /></p>
+<p style="margin-left: 40px;"><strong>9. <a href="https://www.fitocracy.com/">Fitocracy</a></strong><br /><span style="line-height: 1.5em;">It all started with two gamers and an idea: What if there was a way to take the fun of video games and </span><a href="http://www.cnn.com/2011/10/14/health/video-gamers-bodybuilders-fitocracy" style="line-height: 1.5em;">apply that to fitness</a><span style="line-height: 1.5em;">? That's the question Fitocracy founders Brian Wang and Dick Talens set out to solve when they launched Fitocracy, one of the web's largest workout trackers and social fitness platforms. With hundreds of thousands of users and a slick social feed to keep up with what your friends are doing (and lifting), Fitocracy is making it fun to earn points for working out and keeping tabs on your fitness. And with a free app now available for iPhone and Android, it's easy to log those reps in the gym. </span><em style="line-height: 1.5em;">Photo: Fitocracy</em></p>
+<p><img height="400" width="604" alt="Withings_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/withings_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>10. <a href="http://www.withings.com/">Withings</a></strong><br /><span style="line-height: 1.5em;">Managing weight is one of the key goals for many exercisers. Withings hopes to be your one-stop shop for intelligent, digitally minded weight tracking and overall health (they have also branched into nutrition for newborns). From blood pressure to exercise to a line of wireless scales, this company is right at the crossroads of health and technology in the best way possible. </span><em style="line-height: 1.5em;">Photo: Withings</em></p>
+<p><img height="400" width="604" alt="Charity Miles_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Charity%20Miles_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>11. <a href="http://www.charitymiles.org/">Charity Miles</a></strong><br /><span style="line-height: 1.5em;">Gearing up for a workout? Put every mile to good use with </span><a href="http://greatist.com/fitness/charitymiles-app-donates-every-step-you-take" style="line-height: 1.5em;">Charity Miles</a><span style="line-height: 1.5em;">, an app that automatically donates your journey to a charitable organization. Users choose whether they’re going for a run, walk, or bike ride, and then choose one of several partner charities. The free app automatically calculates how far they travel. Charity Miles donates $0.25 for every walking or running mile and $0.10 for every mile biked. The small team has been able to attract big names to donate and only looks poised to grow. </span><em style="line-height: 1.5em;">Photo: Charity Miles</em></p>
+<p><img height="400" width="604" alt="Greatist HQ_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Greatist%20HQ_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>12. <a href="http://www.greatist.com">Greatist</a></strong><br /><span style="line-height: 1.5em;">Maybe we’re biased, but in our opinion there’s no better place to find high-quality, easy-to-read, down-to-earth articles about health and wellness. It’s all about making one better choice every day, whether that’s chowing on some </span><a href="http://greatist.com/superfood/" style="line-height: 1.5em;">superfoods</a><span style="line-height: 1.5em;"> or taking a minute to </span><a href="http://greatist.com/meditation/)." style="line-height: 1.5em;">meditate</a><span style="line-height: 1.5em;">. A <a href="http://greatist.com/ima">community of Greatists</a> around the world is working on spreading the word about health and fitness, and how easy it can be when there are resources like guides to </span><a href="http://greatist.com/fitness/no-gym-bodyweight-workout-infographic/" style="line-height: 1.5em;">bodyweight exercises</a><span style="line-height: 1.5em;"> and ways to </span><a href="http://greatist.com/happiness/reduce-anxiety/" style="line-height: 1.5em;">beat anxiety</a><span style="line-height: 1.5em;">. The good news? You’re already here and on your way to better health! </span><em style="line-height: 1.5em;">Photo by Jordan Shakeshaft</em></p>
+<p><img height="400" width="604" alt="Naturebox_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Naturebox_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>13. <a href="http://www.naturebox.com/">NatureBox</a></strong><br /><span style="line-height: 1.5em;">Who doesn't love snacks? And healthy snacks are even better. A monthly membership to NatureBox gets you a box of healthy snacks once per month, and every item in the box is approved by their personal nutritionist. What's more, every box you buy helps others around the world, too. For each box sold, NatureBox donates one meal to help feed hungry children through their partnership with </span><a href="http://feedingamerica.org/" style="line-height: 1.5em;" target="_blank">Feeding America</a><span style="line-height: 1.5em;">. </span><em style="line-height: 1.5em;">Photo by Erica Michelsen</em></p>
+<p><img height="400" width="604" alt="LoseIt_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/LoseIt_604_0.jpg" /></p>
+<p style="margin-left: 40px;"><strong>14. <a href="http://www.loseit.com/">LoseIt!</a></strong><br /><span style="line-height: 1.5em;">LoseIt! takes a holistic approach to wellness with its weight, diet, and fitness tracker. After setting weight goals and personal daily calorie budgets, the app lets you track calorie intake and burn, while also tracking your sleep and exercise, macronutrient intake, and body measurements. You can even look at your data on a graph to track progress. The social features allow access to support from friends and fellow LoseIt! users, and social challenges let you choose whether to make your journey a competition. </span><em style="line-height: 1.5em;">Photo: LoseIt!</em></p>
+<p><img height="400" width="604" alt="HealthTap_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/HealthTap_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>15. <a href="https://www.healthtap.com/">HealthTap</a></strong><br /><span style="line-height: 1.5em;">Through its Interactive Health Network and mobile apps, HealthTap works to connect doctors with patients, provide an online platform for medical professionals, and give users instant access to an ever-expanding library of trusted health information. The network allows patients to find doctors (ranked according to the accuracy of their answers on the site and by how many referrals they receive) and to ask medical questions of specific physicians or an entire network. It’s a smart way to ensure that both doctors and patients have access to the most accurate, up-to-date health information. </span><em style="line-height: 1.5em;">Photo: HealthTap</em></p>
+<p><img height="400" width="604" alt="Fooducate_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Fooducate_iphoneheadlines.com_.jpg" /></p>
+<p style="margin-left: 40px;"><strong>16. <a href="http://www.fooducate.com/">Fooducate</a></strong><br /><span style="line-height: 1.5em;">We've all heard it before: You are what you eat. So what are you if you can't even understand what ingredients go into your food? Fooducate aims to help people better analyze food labels and retain the important information without all the other noise. The Fooducate app allows users to scan barcodes to get a highlight of each product's good and bad attributes, compare it to similar products, and possibly pick a healthier alternative. The Fooducate team's made up of parents, dietitians, and tech-lovers, all of whom are passionate about helping people navigate the supermarket in a smarter way. </span><em style="line-height: 1.5em;">Photo: iphoneheadlines.com</em></p>
+<p><img height="400" width="604" alt="Healthguru_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Healthguru_604.JPG" /></p>
+<p style="margin-left: 40px;"><strong>17. <a href="http://www.healthguru.com/">Healthguru</a></strong><br /><span style="line-height: 1.5em;">Healthguru is making a name for itself as the leading destination for health videos on the Web. It’s like YouTube’s kid sibling — if it were dedicated strictly to health education. Healthguru’s extensive video library focuses on a wide array of health-related topics, including diet and fitness, mental and emotional health, sexual health, pregnancy, baby health, and information on more than 125 different health conditions (so far). Videos are reviewed for medical accuracy, objectivity, and balance before being included in the library. The goal is to provide engaging content that motivates viewers to learn more about their health. </span><em style="line-height: 1.5em;">Photo: Healthguru</em></p>
+<p><img height="400" width="604" alt="PatientsLikeMe_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/PatientsLikeMe_604.jpeg" /></p>
+<p style="margin-left: 40px;"><strong>18. <a href="http://www.patientslikeme.com/">PatientsLikeMe</a></strong><br /><span style="line-height: 1.5em;">PatientsLikeMe launched in 2004, after two brothers who helped found the company discovered their other brother had been diagnosed with Lou Gehrig’s disease. The idea is that visitors can form communities based on common health issues, whether that’s insomnia, arthritis, or lower back pain. The best part is there’s lots of data, so it’s possible to see which treatments people are using and how well they worked. There’s even room for science nerds to search for current research on their specific health conditions using the </span><a href="http://www.patientslikeme.com/clinical_trials" style="line-height: 1.5em;">clinical trials tool</a><span style="line-height: 1.5em;">. And in an awesome new development, PLM now features an </span><a href="http://www.wired.com/business/2013/02/patients-like-me-platform/" style="line-height: 1.5em;">open science platform</a><span style="line-height: 1.5em;"> where users can track the progression of chronic diseases and share that data with medical researchers. </span><em style="line-height: 1.5em;">Photo: PatientsLikeMe</em></p>
+<p><img height="400" width="604" alt="MapMyFitness_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/MapMyFitness_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>19. <a href="http://www.mapmyfitness.com/">MapMyFitness</a></strong><br /><span style="line-height: 1.5em;">There’s no need to drag those feet on the ’mill when we’ve got 70 million global routes to choose from. Founded in 2005, the Austin, Texas-based tech company powers one of the largest fitness-focused social networks on the web, providing them with a range of GPS-enabled technologies to map, track, and share their workouts online. (Check out </span><span style="line-height: 1.5em;">MapMyRun</span><span style="line-height: 1.5em;">, MapMyRide, and MapMyWalk to get started.) Bonus: MapMyFitness also offers nutrition tracking, training guides, and event listings to help people of all levels reach their next fitness goal. </span><em style="line-height: 1.5em;">Photo: MapMyFitness</em></p>
+<p><img height="400" width="604" alt="EmpowHer_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/EmpowHer_604.JPG" /></p>
+<p style="margin-left: 40px;"><strong>20. <a href="http://www.empowher.com/">EmpowHER</a></strong><br /><span style="line-height: 1.5em;">EmpowHER is founded on a simple mission: to improve women's health and change their lives. It may sound simple, but it’s no easy feat. To make an impact on women’s health, EmpowHER developed a website providing one of the largest women’s health and wellness content libraries on the web, as well as the biggest online forum for women discussing these topics. The site also boasts a “24 Hour Promise,” to its visitors, who are guaranteed a response to any health question within (you guessed it!) 24 hours. Founded in 2008 by well-known women’s health advocate </span><a href="http://www.empowher.com/content/michelles-story" style="line-height: 1.5em;">Michelle King Robson</a><span style="line-height: 1.5em;">, the site aims to give women the information they need to take their health into their own hands — and a dedicated community who’ll support them along the way. </span><em style="line-height: 1.5em;">Photo: EmpowHER</em></p>
+<p><img height="400" width="604" alt="DailyMile_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/DailyMile_604.png" /></p>
+<p style="margin-left: 40px;"><strong>21. <a href="http://www.dailymile.com/">DailyMile</a></strong><br /><span style="line-height: 1.5em;">Want to not only track and share your workouts, but find some motivation along the way? Then check out this social training site, perfect for endurance junkies like runners, cyclists, and triathletes. Users log in their workout and how they felt (tired, blah, good, great!) and then broadcast it to the world (okay, the Internet…). Other cool features include adding friends and commenting on workouts in the newsfeed, and synching Garmin or Nike+ data right into your profile.</span><em style="line-height: 1.5em;"> Photo by Cindy Neuberger</em></p>
+<p><img height="400" width="604" alt="Keas_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Keas_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>22. <a href="http://keas.com/">Keas</a></strong><br /><span style="line-height: 1.5em;">If holing up in a cubicle, staring at a computer screen, and grabbing a few slices of pizza for lunch sounds like a typical workday, Keas is here to the rescue. The corporate wellness company aims to improve employee health by having people sign up for fitness and nutrition challenges in online teams. The “</span><a href="http://mashable.com/2011/12/20/keas/" style="line-height: 1.5em;">Farmville for corporate wellness</a><span style="line-height: 1.5em;">,” Keas is one of the most successful examples of gamifying health and fitness. </span><em style="line-height: 1.5em;">Photo: Keas</em></p>
+<p><img height="400" width="604" alt="Misfit Wearables_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Misfit%20Wearables_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>23. <a href="http://www.misfitwearables.com/">Misfit Wearables</a></strong><br /><span style="line-height: 1.5em;">Over a decade ago, Sonny Vu and Sridhar Iyengar founded </span><a href="http://www.wavesense.info" style="line-height: 1.5em;">AgraMatrix</a><span style="line-height: 1.5em;"> — the mobile health company that started making glucose test strips and eventually created the first medical device add-on approved by Apple for its iPhone. In 2011, the health-techies teamed up with former Apple CEO John Sculley to create Misfit Wearables. Together, they dreamed up the small but mighty Shine fitness tracker. It can be worn anywhere, and syncs to a phone screen (no cords required). The miniature device —slightly larger than a quarter — is crafted from aircraft-grade aluminum, it's water-resistant, and it has a battery that lasts four months. Other trackers aren’t always pretty, but the Shine’s getting a lot of buzz for its sleek, beautiful design, and its simple functions (like measuring steps, swimming strokes, and pedal movements on bikes). </span><em style="line-height: 1.5em;">Photo: Misfit Wearables</em></p>
+<p><img height="400" width="604" alt="Noom_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Noom_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>24. <a href="http://www.noom.com/">Noom</a></strong><br /><span style="line-height: 1.5em;">Noom believes in one of Greatist's core tenets: Health and fitness should be easier for everyone. The company accomplishes that goal by interweaving technology into weight management and fitness tracking thanks to an array of apps designed to monitor weight loss, cardio, calorie intake, and even personal records. An example of an awesome app: Noom WeightLoss Coach, which offers users personalized suggestions about eating healthy and getting exercise. Dating back to 2005, Noom considers itself a tech company that's doing so much more. </span><em style="line-height: 1.5em;">Photo: Noom</em></p>
+<p><img height="400" width="604" alt="GymPact_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/GymPact_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>25. <a href="http://gym-pact.com/">GymPact</a></strong><br /><span style="line-height: 1.5em;">Log gym time or lose money — that’s the idea behind GymPact, a free iPhone and Android app. Set a weekly workout commitment along with a wager between $5 and $20 per missed goal, and you’ll be sure to get that money-maker into gear. The upside: Making cash for showing up (and getting in awesome shape of course). </span><em style="line-height: 1.5em;">Photo: GymPact</em></p>
+<p><img height="400" width="604" alt="EveryMove" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/EveryMove_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>26. <a href="https://everymove.org/">EveryMove</a></strong><br /><span style="line-height: 1.5em;">EveryMove is one of the coolest, easiest rewards system for your health. The more each individual does to improve his or her health, the more the rewards they get from insurance companies, employers, and brands. Founded in 2010 by Russell Benaroya, who’s on a mission to improve the health of 10 million people in 10 years (woah), and Marcelo Calbucci (the tech brains of the operation), Everymove is a fast-growing startup based in downtown Seattle. The rewards platform partners with apps, fitness trackers, fitness studios, weight-loss programs, and the like to create some seriously healthy people.</span><em style="line-height: 1.5em;"> Photo: EveryMove</em></p>
+<p><img height="400" width="604" alt="Everest" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Everest_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>27. <a href="http://evr.st/">Everest</a></strong><br /><span style="line-height: 1.5em;">Founded on the belief that everyone desires to create a better self — and that better selves equal a better world — the Everest app is dedicated to helping people plan, organize, and fulfill their goals and dreams. The app allows users to name a dream (anything from learning Italian to hiking on all seven continents), track the steps they need to fulfill it, visually document their journey, and connect and learn from other people who have taken steps toward a similar dream. It’s like a diary, daily planner, support system, and photographer all rolled into one! </span><em style="line-height: 1.5em;">Photo: Everest</em></p>
+<p><img height="362" width="604" alt="Tastespotting" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Tastespotting_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>28. <a href="http://www.tastespotting.com/">Tastespotting</a></strong><br /><span style="line-height: 1.5em;">Way back in 2007, before Pinterest or Instagram, Sarah Gim created a forum for people to show off what they were cooking and eating. Tastespotting was one of the first "</span><a href="http://greatist.com/health/healthy-food-porn/" style="line-height: 1.5em;" target="_blank">food porn</a><span style="line-height: 1.5em;">" websites, and due to its highly selective application process, it's still one of the most exclusive. The site is so sought-after by aspiring (and established) food bloggers around the world that Gim receives over a thousand recipe submissions every day. Clicking on a swoon-worthy cupcake, omelet, or lentil stew on Tastespotting takes the reader to an outside food blog, where the recipe is posted. It may not be the best site for actionable recipes, but for beautiful food photography, nothing beats the original. </span><em style="line-height: 1.5em;">Photo: <a href="http://www.tastespotting.com">www.tastespotting.com</a></em></p>
+<p> </p>
+<p><img height="400" width="604" alt="Well and Good NYC_604" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Well%20and%20Good%20NYC_604.jpeg" /></p>
+<p style="margin-left: 40px;"><strong>29. <a href="http://www.wellandgoodnyc.com/">Well + Good</a></strong><br /><span style="line-height: 1.5em;">New York may be the fast-paced city that never sleeps, lined with hot dog and pretzel stands, but it’s also a Mecca of fitness trends, healthy eats, and stress-busting services. Well+Good tries to capture the city’s healthy side, producing content that keeps New Yorkers up-to-date on the latest healthful happenings in the city. The site’s also got tips for workout and nutrition (like </span><a href="http://www.wellandgoodnyc.com/2013/02/01/14-healthy-dishes-with-20-grams-of-protein/)" style="line-height: 1.5em;">healthy dishes</a><span style="line-height: 1.5em;"> with 20 grams of protein), so readers don’t have to be from New York to enjoy the site. </span><em style="line-height: 1.5em;">Photo: Well+Good</em></p>
+<p><img height="399" width="600" alt="FitIST" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/fitist_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>30. <a href="https://fitist.com/">FitIST</a></strong><br /><span style="line-height: 1.5em;">If you can't get enough of fitness classes, managing memberships across multiple gyms can be tough — not to mention expensive. FITiST allows users to book and take classes from a variety of studios and gyms, often at a significant discount. Users pick from 10 one- to three month-long plans and use FITiST to schedule their workouts across locations. FITiST also allows users to snap up last-minute spots in popular classes, making the dreaded "stand-by" list a thing of the past. </span><em style="line-height: 1.5em;">Photo: FitIST</em></p>
+<p><img height="362" width="604" alt="ShopWell" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/ShopWell_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>31. <a href="http://www.shopwell.com/">ShopWell</a></strong><br /><span style="line-height: 1.5em;">Everyone knows a score of 100 is ace, while something sub-40 is less than desirable. ShopWell helps build a healthier grocery list by ranking every food with a number between 1 and 100. You enter your items, and the app — available both mobile and online — offers you "trade-ups" to help make healthier choices. The team's passion for food and nutrition drive their desire to help others make healthier choices and easily incorporate those changes into their daily lives. </span><em style="line-height: 1.5em;">Photo: ShopWell</em></p>
+<p><img height="400" width="604" alt="RetroFit" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/RetroFit_604.png" /></p>
+<p style="margin-left: 40px;"><strong>32. <a href="http://www.retrofitme.com/">Retrofit</a></strong><br /><span style="line-height: 1.5em;">After Jeff Hyman and his wife changed their lives with a team of experts at a weight-loss resort, Hyman left his desk job and founded Retrofit in 2010. The Chicago-based, data-driven weight management company (formerly called Strong Suit Wellness) helps users lose weight with a real-world approach, tackling obesity one working professional at a time. The program means business: It’s 12 months long, includes a behavior coach, dietitian, and exercise physiologist all with the intention to help users lose the lbs and keep them off for the long haul. With traditional diet programs like Jenny Craig and Weight Watchers, Retrofit aims for a more well-rounded take with attainable loss (10-15 percent body weight). </span><em style="line-height: 1.5em;">Photo: Retrofit</em></p>
+<p><img height="400" width="604" alt="Basis" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Basis_604.png" /></p>
+<p style="margin-left: 40px;"><strong>33. <a href="http://www.mybasis.com/">Basis</a></strong><br /><span style="line-height: 1.5em;">This San Francisco startup, founded in 2004 by Nadeem Kassam and managed by CEO Jef Holove, is all about its product: the Basis Band. The high-tech wrist-wear measures body metrics such as heartbeat, temperature, movement, and galvanic skin response (fancy speak for sweat levels). All that info allows users to glean insights on their stress level, fitness, activity level, and calories burned from an online personal dashboard. Then the fun begins. Basis has gamified its band by allowing users to earn badges, share stats, and compete with friends, all in the name of motivation. With rivals including BodyMedia Fit and FitBit, Basis has some strong competition in the fitness tracker realm, but it was recognized by Popular Science as the Best of CES (Consumer Electronics Show) 2013: </span><a href="http://www.mybasis.com/en/press/" style="line-height: 1.5em;">Product of the Future</a><span style="line-height: 1.5em;">. </span><em style="line-height: 1.5em;">Photo: Basis</em></p>
+<p><img height="400" width="604" alt="BuluBox" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/BuluBox_604.jpeg" /></p>
+<p style="margin-left: 40px;"><strong>34. <a href="http://www.bulubox.com/">BuluBox</a></strong><br /><span style="line-height: 1.5em;">After running the San Francisco Half-Marathon one year, Stephanie and Paul Jarrett collected tons of sample-size packets of vitamins and nutritional supplements from race vendors' tents. Inspired by the plethora of nutritional products, they decided to find a way to help people discover products to live healthier, without committing to buying a huge (and often expensive) jar or bottle. In 2012, the Jarretts launched Bulu Box, a service that sends customers four to five carefully curated samples of vitamins and supplements each month to find the right fit. In February 2013, they created a specific weight loss box with products geared to help people shed a few pounds safely and healthfully. In addition to providing a "variety pack" of nutritional samples, Bulu Box also lets customers review products and earn points to buy full-sized versions of their favorites.</span><em style="line-height: 1.5em;"> Photo: BuluBox</em></p>
+<p><img height="400" width="604" alt="Wahanda" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Wahanda_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>35. <a href="http://www.wahanda.com/">Wahanda</a></strong><br /><span style="line-height: 1.5em;">Wahanda wha? Wahanda is a Native American word meaning “great spirit and creator,” and the folks behind the service are passionate about wellness. The health and beauty marketplace connects consumers, businesses, and professionals. Users can find spas and health centers along with ratings, reviews, and rates. Interested in a massage? Learn more about its benefits and </span><a href="http://us.wahanda.com/massage-deals/)" style="line-height: 1.5em;">find a place near you</a><span style="line-height: 1.5em;">. </span><em style="line-height: 1.5em;">Photo: yourhiddenpotential.co.uk</em></p>
+<p><img height="400" width="604" alt="Blood Sweat and Cheers" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Blood%20Sweat%20and%20Cheers_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>36. <a href="http://www.bloodsweatandcheers.com/">Blood, Sweat and Cheers</a></strong><br /><span style="line-height: 1.5em;">Love staying active but not always sure where do go for a fun sweat session? Blood, Sweat and Cheers is the daily email written to cover the best in active fun for you and your friends. With both national and NYC-specific editions of their newsletter, the company focuses on writing fun content on everything from the latest in fitness trends to the best in gear, bars, and gyms. It's a daily guide to what's hip for the young and active — along with the occasional recommendations for boozing after the game. </span><em style="line-height: 1.5em;">Photo: Blood, Sweat and Cheers</em></p>
+<p><img height="400" width="604" alt="Farmigo" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Farmigo_604.JPG" /></p>
+<p style="margin-left: 40px;"><strong>37. <a href="http://www.farmigo.com/">Farmigo</a></strong><br /><span style="line-height: 1.5em;">Some of us wish we could be eco-friendly, organic-only locavores, but just don’t have the time to make a trip to the farmer’s market every week. That’s where </span><a href="http://greatist.com/health/farmigo-online-farmers-market-121212/" style="line-height: 1.5em;">Farmigo</a><span style="line-height: 1.5em;">, the first-ever online farmer’s market, comes in. Founded in 2009, the company launched its online delivery service towards the end of 2012. Just select which items you want and get matched to a local farm; the delivery comes within two days. (Sorry, no farm animals are included.) </span><em style="line-height: 1.5em;">Photo: Kiva.org</em></p>
+<p><img height="400" width="604" alt="Zeo" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/zeo_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong><span style="line-height: 1.5em;">38. </span><a href="http://www.myzeo.com/sleep/" style="line-height: 1.5em;">Zeo</a></strong><br /><span style="line-height: 1.5em;">How many Brown University alums does it take to revolutionize the way we track our sleep? </span><a href="http://greatist.com/happiness/hands-zeo-does-sleep-tracking-tech-work" style="line-height: 1.5em;">Zeo</a><span style="line-height: 1.5em;"> is proof there’s a smarter way to get a good night's rest. The product is both a mobile app and a fancy piece of headband technology that monitors when the wearer is getting deep or light sleep every night. A built-in coach helps analyze the data and increase quality shut-eye. From its humble beginnings, Zeo has managed to carve out a space in the growing sleep market. </span><em style="line-height: 1.5em;">Photo: myzeo.com</em></p>
+<p><img height="403" width="604" alt="DailyBurn" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/DailyBurn_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>39. <a href="http://dailyburn.com/">DailyBurn</a></strong><br /><span style="line-height: 1.5em;">Take your trainer anywhere — literally. For $10 a month, Daily Burn users get access to guided video workouts from a variety of trainers and disciplines, viewable on any device with an internet connection (yep, even your smartphone!). The company provides tons of workouts accessible to all fitness levels, and most require minimal equipment easy to pick up at a local sporting goods store. There's also nutritional support and a recipe database available through a program called Daily Burn Ignite. Need more incentive? The first 30 days are free. </span><em style="line-height: 1.5em;">Photo: DailyBurn</em></p>
+<p><img height="400" width="604" alt="More Love Letters" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/More%20Love%20Letters_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>40.   <a href="http://www.moreloveletters.com/">MoreLoveLetters</a></strong><br /><span style="line-height: 1.5em;">The “About” page for More Love Letters begins with these words: “The world doesn’t need another website. Not another network. Not another app.” It seems counter-intuitive to be reading these words on, well, a website — until you understand what More Love Letters is really all about. And what is that? “Love. Pure, old-fashioned, never goes out of style Love.” More specifically, it’s about the art and the heart of old-fashioned letter writing. The startup encourages people to step away from the Internet (if even for a few minutes) and write handwritten love letters to friends and strangers in need all over the world. Letter writers can also </span><a href="http://www.moreloveletters.com/requestaletter/)" style="line-height: 1.5em;">request a letter</a><span style="line-height: 1.5em;"> for someone in their life who needs a little extra love. It’s a simple idea — and a beautiful way of disseminating better mental health to the world. </span><em style="line-height: 1.5em;">Photo by Tiffany Farley</em></p>
+<p><img height="400" width="604" alt="ShapeUp" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Shapeup_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>41.   <a href="http://www.shapeup.com/">ShapeUp</a></strong><br /><span style="line-height: 1.5em;">Founded in 2006 by Dr. Rajiv Kumar and Dr. Brad Weinberg while they were studying medicine at Brown University, Shapeup is at the forefront of the employee wellness industry. The pair isn’t going for world peace, but they are striving for world health. Early on in their clinical rotations, the two future docs noticed a trend amongst their patients who got healthier by exercising more, eating better, and dropping a little weight: They got social. Instead of going it alone, the success stories found support from friends, colleagues, and family. So the docs got down to business to create wellness programs based on social networking to motivate positive long-term behavior. </span><em style="line-height: 1.5em;">Photo: ShapeUp</em></p>
+<p><img height="400" width="604" alt="Omada Health" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Omada%20Health_604.png" /></p>
+<p style="margin-left: 40px;"><strong>42. <a href="http://omadahealth.com/">Omada Health</a></strong><br /><span style="line-height: 1.5em;">We’ve </span><a href="http://greatist.com/health/prevent-online-data-fights-diabetes-obesity-121912/"><span style="line-height: 1.5em;">written about Omada Health</span></a><span style="line-height: 1.5em;"> before, when they rolled out </span><a href="https://preventnow.com/" style="line-height: 1.5em;">Prevent</a><span style="line-height: 1.5em;">, the first-ever online platform to fight diabetes. But we’re confident we haven’t seen the last of them. The Silicon Valley startup uses the power of technology to design preventative health programs accessible to anyone, anywhere. The company views guidance and social support as key elements in making healthier habits stick, and the social component (as well as scientific backing) is a key part of every program they develop. </span><em style="line-height: 1.5em;">Photo: benchfix.com</em></p>
+<p><img height="400" width="604" alt="Wello" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Wello_604_0.jpg" /></p>
+<p style="margin-left: 40px;"><strong>43. <a href="https://www.wello.co/">Wello</a></strong><br /><span style="line-height: 1.5em;">During their first week at Stanford, two business students and fitness fanatics teamed up as ping-pong partners. A few years later, in 2011, Ann Scott and Leslie Silverglide  created </span><a href="http://greatist.com/fitness/wello-turns-any-computer-personal-trainer" style="line-height: 1.5em;">Wello</a><span style="line-height: 1.5em;"> with one simple intention — to make fitness easier. Wello uses live video to provide personal, training booked in 25, 40, or 55-minute sessions (from $8 to $65 per class). Each and every trainer is certified, and the fitness options range from yoga and pilates to CrossFit. The main selling point of Wello is that users can work out with a trainer outside of a gym. As the first platform offering live online personal training over two-way video, and a Rolodex of over 150 fitness professionals to work out with, Wello’s in a league of its own.</span><em style="line-height: 1.5em;"> Photo: Wello</em></p>
+<p><img height="400" width="604" alt="Zipongo" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Zipongo_604.JPG" /></p>
+<p style="margin-left: 40px;"><strong>44. <a href="http://www.zipongo.com/">Zipongo</a></strong><br /><span style="line-height: 1.5em;">While helping launch a child weight management clinic at Boston Medical Center, Jason Langheier discovered that many families lacked the resources to put together healthy meals. In 2011, Langheier launched </span><a href="http://greatist.com/health/startup-zipongo-food-coupons" style="line-height: 1.5em;">Zipongo</a><span style="line-height: 1.5em;">, a site that combines healthy meal plans, digital coupons for local grocery stores, and nutritional information and recommendations from the Institute of Medicine and Dietary Guidelines for Americans. In late 2012, Zipongo launched the Healthy Foods Savings, Coupons &amp; Grocery Lists apps so the site's users can stay organized and healthy on the go. </span><em style="line-height: 1.5em;">Photo: Zipongo</em></p>
+<p><img height="400" width="604" alt="AliveCor" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/alivecor_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>45. <a href="http://www.alivecor.com/">AliveCor</a></strong><br /><span style="line-height: 1.5em;">AliveCor is one of the first heart-monitoring iPhone apps to be approved by the FDA. That solid backing (and millions in funding) have helped the low-cost, tech-forward company achieve its goal: Placing important vitals and statistics in the palm of your hand. The device measures Lead I ECGs and is useful for anyone interested in tracking their health. Moreover, it's an inexpensive and efficient way for patients to track their vitals from their home whether they're post-surgery or just looking to get better. </span><em style="line-height: 1.5em;">Photo: <a href="http://www.flickr.com/photos/juhansonin/">juhansonin</a></em></p>
+<p><img height="333" width="602" alt="LifeKraze" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/LifeKraze_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>46. <a href="http://lifekraze.com/">LifeKraze</a></strong><br /><span style="line-height: 1.5em;">We all love giving props to our friends, and LifeKraze turns that encouragement into virtual currency. The Chattanooga, Tennessee-based company lets users post 160-character status updates throughout the day to mark their achievements big and small. Users are also given 300 daily points to distribute to others for their accomplishments, and those points can be redeemed for discounts and special deals on a variety of products from the company's partners. Have some social good on the mind? There are also options to turn those points into donations for non-profits. The company has </span><a href="http://techcrunch.com/2013/01/23/lifekraze-the-social-network-for-what-you-do-launches-on-android/" style="line-height: 1.5em;">apps for iPhone and (new!) Android</a><span style="line-height: 1.5em;">, so users can post statuses and receive points in real time. </span><em style="line-height: 1.5em;">Photo: play.google</em></p>
+<p><img height="400" width="604" alt="Blue Apron" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Blue%20Apron_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>47. <a href="http://www.blueapron.com/">Blue Apron</a></strong><br /><span style="line-height: 1.5em;">Anyone should be able to come home and cook a healthy dinner. But let's be honest: sometimes life gets in the way of maintaining a normal meal schedule. Blue Apron takes the tedious parts out of preparing dinner by delivering the ingredients (pre-measured!) right to your door, along with detailed cooking instructions. The name comes from a decades-old French culinary tradition (young chefs wear a blue apron), which iconic chefs (Ms. Julia Child included) have pointed to as a symbol for lifelong learning.</span><em style="line-height: 1.5em;"> Photo: Blue Apron</em></p>
+<p><img height="400" width="604" alt="FitOrbit" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/FitOrbit_604.jpg" /></p>
+<p style="margin-left: 40px;"><strong>48. <a href="http://www.fitorbit.com/">FitOrbit</a></strong><br /><span style="line-height: 1.5em;">Sometimes a little individualization is the key. That’s why FitOrbit pairs each member with a trainer based on personality and fitness goals. For a fraction of the usual personal training cost, expect a well-tailored plan complete with personalized workouts, meals, feedback, and motivation. And there's plenty more where that comes from: At the FitOrbit office in L.A., the team rallies for fitness-focused team outings, Friday in-house training sessions, and the FitOrbit Office Olympics. </span><em style="line-height: 1.5em;">Photo: Samrod Photography</em></p>
+<p> </p>
+<p><img height="400" width="604" alt="Sworkit" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Sworkit.JPG" /></p>
+<p style="margin-left: 40px;"><strong>49. <a href="http://www.sworkit.com">Sworkit</a></strong><br /><span style="line-height: 1.5em;">Is it worth it? Let me </span><a href="http://greatist.com/fitness/sworkit-app-circuit-workouts-110112/" style="line-height: 1.5em;">Sworkit</a><span style="line-height: 1.5em;">. The app, available in regular and pro versions, lets users personalize circuit training routines based on which parts of the body they want to work and how much time they have. The program's designed to keep things interesting (and challenging!), so users never quite know which move is coming next. It's a great example of the way new technology makes exercise appealing and approachable for a wide range of fitness levels. </span><em style="line-height: 1.5em;">Photo: Sworkit</em></p>
+<p><img height="400" width="604" alt="BlissMo" class="media-element file-default" typeof="foaf:Image" src="http://greatist.com/sites/default/files/Blissmo_604.jpeg" /></p>
+<p style="margin-left: 40px;"><strong>50. <a href="https://www.blissmo.com/box/%7c/">BlissMo</a></strong><br /><span style="line-height: 1.5em;">It’s like Santa Claus went wild in Whole Foods. Every month, Blissmo subscribers get a box of organic, eco-friendly products such as granola, protein bars, juice, and peanut butter. Offices and families can sign up for specially curated boxes, and there are options for gluten-free deliveries. </span><i style="line-height: 1.5em;">Photo: BlissMo</i></p>
+<p><em>Which startup on this list is your favorite? Let us know in the comments below or tweet the author directly at <a href="https://twitter.com/ShanaDLebowitz">@ShanaDLebowitz</a>.</em></p>
+</div>
+<div
+  data-popcart
+  class="foodily-popcart-button mb">
+  <i class="fa fa-cutlery"></i> Send Me the Ingredients!
+  <a href="http://getpopcart.com" class="powered-by">Powered by Popcart</a>
+</div>
+
+        
+        <div
+          class="bottom-share"
+          data-scroll-reach-tracking="article-content-end"
+          data-scroll-reach-tracking-near="article-content-near-end"
+        >
+          <div class="group_share ">
+  <div class="field-group-format-wrapper" style="display: block;">
+        <div class="share-buttons icons" data-origin="bottom">
+      <div ng-controller="socialCtrl"
+  data-href="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups"
+  data-media="http%3A%2F%2Fgreatist.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fbig_share%2Fpublic%2FBest-Startups-2013.jpg%3Fitok%3DdINqZjGf"
+  data-title="The 50 Most Innovative Health, Fitness, and Happiness Startups"
+  data-twitter=""
+  data-twitter-url="http://grt.st/1qwqGY1"
+>
+
+  <div class="greatist-pin large greatist-share">
+    <a class="pin greatist-pin-button icon-font"
+    ng-click="share_pin()" ><span class="share-alt">Pin it</span></a>
+  </div>
+  <div class="greatist-facebook large greatist-share">
+    <a
+      class="fb-share-button icon-font fb"
+      ng-click="share_fb($event)"
+      data-share-fb
+    ><span class="share-alt">Share</span></a>
+  </div>
+  <div class="greatist-email greatist-share">
+    <a class="greatist-email-button icon-font email"
+    ng-click="share_email()"><span class="share-alt">Email</span></a>
+  </div>
+  <div class="greatist-stumble greatist-share">
+    <a class="greatist-stumble-button icon-font stumble"
+    ng-click="share_stumble()"><span class="share-alt">Stumble</span></a>
+  </div>
+</div>
+    </div>
+      </div>
+</div>
+        </div>
+
+        <div ng-controller="basicTracking" ng-init="initAnalytics('recirculation-outbrain-below-content', {implicitClick: true})">
+          <div data-outbrain></div>
+        </div>
+
+        <div data-fb-like-box="article-mobile-bottom-like-box" data-restrict-context-to=">medium" class="hide-for-ready">
+          <h2 class="section-title">Like Us On Facebook</h2>
+        </div>
+
+        <div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even" rel="dc:subject"><a href="/tech" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Tech</a></div>
+          <div class="field-item odd" rel="dc:subject"><a href="/health-and-fitness-tracking" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Health and Fitness Tracking</a></div>
+          <div class="field-item even" rel="dc:subject"><a href="/healthy-habits" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Healthy Habits</a></div>
+          <div class="field-item odd" rel="dc:subject"><a href="/cooking-tips" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cooking Tips</a></div>
+      </div>
+</div>
+      </div>
+
+      <div
+  data-restrict-context-to="medium,small,x-small"
+  data-dfp-g-id="article-ad-mobile-below-content"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_300x250_Mobile"
+  data-ad-slot="div-gpt-ad-1410553537006-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-mobile-below-content"></div>
+
+          </article>
+
+    <aside class="article-sidebar-column sidebar-column">
+                  <div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-sidebar-1"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_Flex_300x250//300x600"
+  data-ad-slot="div-gpt-ad-1409786991744-0"
+  data-ad-size="300x250,300x600"
+  class="dfp-tag-wrapper dfp-ad-article-ad-sidebar-1"></div>
+
+      <div class="newsletter-block article-sidebar-newsletter mb no-small" ng-controller="NewsletterCtrl" data-origin="homepage_sidebar">
+  <h2 class="section-title">Get The Newsletter</h2>
+  <form name="newsletterForm" ng-submit="subscribeEmail('article-sidebar-newsletter')">
+    <ul>
+      <li ng-repeat="newsletter in newsletters">
+        <input id="article-sidebar-newsletter-{{newsletter.name}}" class="newsletter-checkbox" type="checkbox" ng-model="newsletter.selected">
+        <label for="article-sidebar-newsletter-{{newsletter.name}}" class="newsletter-title"><div class="newsletter-heading" ng-cloak>{{newsletter.title}}</div></label>
+      </li>
+    </ul>
+    <input type="email" ng-model="newsletterEmail" placeholder="Your Email" ng-disabled="submitted">
+    <input type="submit" value="Sign me up!" ng-disabled="submitted">
+  </form>
+  <div class="message message-error" ng-show="error" ng-cloak>{{error}}</div>
+  <div class="message message-success" ng-show="success" ng-cloak>{{success}}</div>
+</div>
+
+      <div class="sub-sidebar">
+        <div class="popular-list-block mb no-medium"
+  ng-init='initAnalytics("must-read-after-round-3-20-items")'
+  ng-controller="basicTracking">
+  <h2 class="section-title">MUST READS</h2>
+  <ul class="popular-list">
+              <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-fast-breakfast-recipes"
+          title="34 Healthy Breakfasts for Busy Mornings"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Breakfast_Feature.png?itok=RGtMrfSg" />
+          <span>34 Healthy Breakfasts for Busy Mornings</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/high-protein-snacks-portable"
+          title="31 Healthy and Portable High-Protein Snacks"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/PortableLunch_FeatureB_2.png?itok=f77Zit0p" />
+          <span>31 Healthy and Portable High-Protein Snacks</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-exciting-chicken-breast-recipes"
+          title="60 Ways to Spice Up Boring Chicken Breasts"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Spicy%20Asian%20Chicken%20and%20Noodle%20Soup_f.jpg?itok=lg-bHdVb" />
+          <span>60 Ways to Spice Up Boring Chicken Breasts</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/cant-sleep-advice-and-tips"
+          title="Never Lie Awake in Bed Again—Seriously"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Sleep-Solutions-Feature.png?itok=4qPEEitV" />
+          <span>Never Lie Awake in Bed Again—Seriously</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/best-foods-eat-when-sick"
+          title="The Best and Worst Foods to Eat When You&#039;re Sick"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Soup-and-Toast-feature.png?itok=Gn17Lw2m" />
+          <span>The Best and Worst Foods to Eat When You&#039;re Sick</span>
+        </a>
+      </li>
+              <div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-sidebar-between-recommendations"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_300x250_BTM2"
+  data-ad-slot="div-gpt-ad-1410557044720-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-sidebar-between-recommendations"></div>
+
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/35-quick-and-healthy-low-calorie-lunches"
+          title="35 Quick and Healthy Low-Calorie Lunches"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/35_QuickHealthyLowCalorieLunches_Feature.png?itok=1VAaunpe" />
+          <span>35 Quick and Healthy Low-Calorie Lunches</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/52-healthy-meals-12-minutes-or-less"
+          title="52 Healthy Meals in 12 Minutes or Less"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/quesadillas.jpg?itok=iGlQCUS1" />
+          <span>52 Healthy Meals in 12 Minutes or Less</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-crock-pot-recipes"
+          title="77 Healthy Crock-Pot Recipes"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/wp-content/uploads/2013/01/Cinnamon-Apple-Oatmeal1.jpg?itok=RC4NiEEn" />
+          <span>77 Healthy Crock-Pot Recipes</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/surprising-high-fiber-foods"
+          title="The 16 Most Surprising High-Fiber Foods"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/482095967.jpg?itok=DHYGtSgE" />
+          <span>The 16 Most Surprising High-Fiber Foods</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/complete-vegetarian-proteins"
+          title="12 Complete Proteins Vegetarians Need to Know About"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/12%20CompleteVeganProteins_Featured.png?itok=9OamR0sI" />
+          <span>12 Complete Proteins Vegetarians Need to Know About</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-single-serving-meals"
+          title="29 Insanely Easy, Healthy Meals for One"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Stuffed-Avocado-feature_0.png?itok=vVCaxjdT" />
+          <span>29 Insanely Easy, Healthy Meals for One</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-peanut-butter-recipes"
+          title="50 Healthier Peanut Butter Recipes You&#039;ve Never Tried Before"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Sweet%20Potato%20Peanut%20Soup_OS-.jpg?itok=IOQSRXtY" />
+          <span>50 Healthier Peanut Butter Recipes You&#039;ve Never Tried Before</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/best-healthy-cereal-brands"
+          title="The 20 Cereals That Are Actually Healthy"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/cereal_feat_1.jpg?itok=tNU2dgX3" />
+          <span>The 20 Cereals That Are Actually Healthy</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/100-calorie-snacks"
+          title="100-Calorie Snacks That Actually Keep You Full and Satisfied"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/cheesy-popcorn.jpg?itok=-FJFD40w" />
+          <span>100-Calorie Snacks That Actually Keep You Full and Satisfied</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/healthy-meals-for-two"
+          title="Cooking for Two: 34 Healthy Meals for You and Your Boo"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/CinnaBuns_2.jpg?itok=yhshuc2O" />
+          <span>Cooking for Two: 34 Healthy Meals for You and Your Boo</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/18-surprising-dairy-free-sources-calcium"
+          title="18 Surprising Dairy-Free Sources of Calcium"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Bok-Choy-featured.jpg?itok=E67fVb8P" />
+          <span>18 Surprising Dairy-Free Sources of Calcium</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/88-unexpected-snacks-under-100-calories"
+          title="88 Unexpected Snacks Under 100 Calories"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/88_100CalorieSnacks_Feature.png?itok=WE5Gl0d1" />
+          <span>88 Unexpected Snacks Under 100 Calories</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/surprising-healthy-microwave-recipes"
+          title="40 Delicious Things You Didn&#039;t Know You Could Make in a Microwave"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/Mochi%20Donuts_Feature.png?itok=Jb8bQECY" />
+          <span>40 Delicious Things You Didn&#039;t Know You Could Make in a Microwave</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/cheap-healthy-lunch-dinner-entree-recipes"
+          title="87 Cheap and Healthy Lunch and Dinner Recipes"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/LunchAndDinnerRecipes_Feature.png?itok=1PE4z2Se" />
+          <span>87 Cheap and Healthy Lunch and Dinner Recipes</span>
+        </a>
+      </li>
+                <li>
+        <a
+          ng-click="click()"
+          href="http://greatist.com/health/lower-carb-alternatives"
+          title="20 Low-Carb Substitutes That Don&#039;t Suck"
+        >
+          <img src="http://greatist.com/sites/default/files/styles/article-sidebar-240x125/public/LowerCarb_Feature.png?itok=WcRfw2dZ" />
+          <span>20 Low-Carb Substitutes That Don&#039;t Suck</span>
+        </a>
+      </li>
+            </ul>
+</div>
+        <div
+  data-restrict-context-to="x-large,large"
+  data-dfp-g-id="article-ad-sidebar-2"
+  data-ad-dfp="/8904/R29_Partner_Greatist/ROS_Article/ROS_300x250_BTM"
+  data-ad-slot="div-gpt-ad-1411421640459-0"
+  data-ad-size="300x250"
+  class="dfp-tag-wrapper dfp-ad-article-ad-sidebar-2"></div>
+
+      </div>
+    </aside>
+  </div>
+
+  <div class="esi-placeholder"data-esi="article/recirculation" data-token="zKtw-V7YgfbkNQye1qi4YqzSCqpPlHOjcXb8j4nd9qo" data-params="{&quot;nid&quot;:&quot;2984&quot;,&quot;show_more_from_author&quot;:0}" data-bodyevent="reach-article-content-near-end"><img src="/sites/all/themes/greatist2x/images/design/SiteLoader.gif">Loading...</div></div>
+
+
+<!-- Extras -->
+<div class="article-sticky-bar fix-header" ng-class="state" ng-controller="stickyBarCtrl">
+  <div class="sticky-wrapper" ng-class="statusClass" ng-if="is_small">
+    <h3 class="sticky-title-deck">{{deck_title}}</h3>
+  </div>
+</div>
+<div class="article-sticky-bottom sharing" data-origin="sticky-bottom">
+  <div ng-controller="socialCtrl" data-href="http://greatist.com/health/most-innovative-health-fitness-and-happiness-startups">
+    <a class="share-button share-button-facebook" ng-click="share_fb($event)" data-share-fb>
+      <span class="share-alt"><i class="fa fa-facebook"></i> Share on Facebook</span>
+    </a>
+  </div>
+</div>
+<div class="bottom-fb-slider">
+  <div ng-controller="bottomSliderCtrl">
+    <div class="bottom-slider fb-slider" ng-class="status">
+      <div class="header">
+        <h3>DON'T WORRY, BE HEALTHY.<br/>LIKE US ON FACEBOOK!</h3>
+        <a href="" ng-click='hide()' title="Close" type="button" class="slide-close">×</a>
+      </div>
+      <div class="content" data-bottom-slider-fb-box></div>
+    </div>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="overlay-wrapper">
+  <div id="search-page-wrapper">
+    <div id="search-page" ng-controller="SearchCtrl" ng-init="init()" ng-keydown="keydown($event)">
+
+      <!-- SEARCH FORM -->
+      <form name="searchForm" ng-submit="search()">
+        <input type="text" ng-model="searchQuery" placeholder="Search" id="search-input">
+        <span class="search-close-button"><i class="fa fa-times"></i></span>
+      </form>
+
+      <div data-search-autocomplete class="search-autocomplete">
+        <ul>
+          <div class="header" ng-if="suggestedTaxonomies.length">
+            Categories
+          </div>
+          <li ng-repeat="suggestion in suggestedTaxonomies" class="suggestion">
+            <a ng-href="{{suggestion.url}}">{{suggestion.name}}</a>
+          </li>
+
+          <div class="header" ng-if="suggestedUsers.length">
+            Profiles
+          </div>
+          <li ng-repeat="suggestion in suggestedUsers" class="suggestion">
+            <a ng-href="{{suggestion.url}}">{{suggestion.name}}</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="search-status">
+        <div ng-show="isLoading">
+            <img alt="Search Loading" class="loader-image"/>
+        </div>
+        <div class="search-message">{{searchMessage}}</div>
+      </div>
+
+      <!-- SEARCH RESULTS -->
+      <div class="search-result article-feed">
+        <div class="article" ng-repeat="article in articles">
+          <div class="article-image">
+            <a href='{{article.articlePath}}'>
+              <img ng-src='{{article.imagePath}}' />
+            </a>
+          </div>
+          <div class="article-title"><a href='{{article.articlePath}}'>{{article.title}}</a></div>
+          <div class="article-author">{{article.author}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <div id="popup-wrapper">
+  <div ng-controller="nlCtrl" class="newsletter-template mfp-with-anim mfp-hide">
+    <div newsletter
+      email="newsletterEmail"
+      model="newsletter"
+      subscribe="subscribeEmail"
+      init="initCheck"
+    >
+    </div>
+  </div>
+</div>
+  <div>
+  <div data-fb-popup class="fb-popup white-popup mfp-with-anim mfp-hide">
+    <hgroup>
+      <h1 class="first">Nice share!</h1>
+      <h1> Like us on <a style="color:#325c99" href="http://facebook.com/greatistblog">Facebook</a> while you're at it. </h1>
+    </hgroup>
+    <div class="fb-like-body">
+      <div class="fb-like" data-href="https://facebook.com/greatistblog" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false">
+      </div>
+    </div>
+    <div class="opt-out">
+      <a data-type="fb-like" href="javascript:void(0);">Don't have to tell me twice!</a>
+      I'm already a Greatist fan.
+    </div>
+  </div>
+  <div data-pin-popup class="pin-popup white-popup mfp-with-anim mfp-hide">
+    <hgroup>
+      <h1 class="first">That's an awesome pin you chose.</h1>
+      <h1>Find more like it by following us on
+      <a style="color: #be1e3c" class="pinterst-link" target="_blank" href="http://www.pinterest.com/greatist" >Pinterest!<a></h1>
+    </hgroup>
+    <div class="follow-pin">
+      <a data-pin-do="buttonFollow" href="http://www.pinterest.com/greatist/">Follow Greatist on Pinterest</a>
+    </div>
+    <div class="pins">
+      <span class="embed_pin">
+        <a data-pin-do="embedPin" href="http://www.pinterest.com/pin/161074124146866205/">Greatist on Pinterest.</a>
+      </span>
+      <span class="embed_pin">
+       <a data-pin-do="embedPin" href="http://www.pinterest.com/pin/161074124147159526/">Greatist on Pinterest.</a>
+      </span>
+      <span class="embed_pin">
+        <a data-pin-do="embedPin" href="http://www.pinterest.com/pin/161074124146843286/">Greatist on Pinterest.</a>
+      </span>
+    </div>
+    <div class="opt-out">
+      <a data-type="pin-board" href="javascript:void(0);">Don't have to tell me twice!</a>
+      I already follow Greatist.
+    </div>
+  </div>
+</div>
+  <div class="footer-wrapper">
+  <footer id="footer" class="clearfix">
+    <div id="footer-menu" class="footer-block">
+  <div class="greatist-logo">
+    <img src="/sites/all/themes/greatist2x/images/design/Greatist_Logo_Badge_Blue.png" class="footer-logo" />
+  </div>
+  <ul class="menu"><li class="first leaf"><a href="/about" title="">About</a></li>
+<li class="leaf"><a href="/shop" title="">Shop</a></li>
+<li class="leaf"><a href="/careers" title="Work at the Greatist">Careers</a></li>
+<li class="last leaf"><a href="/advertise" title="Advertise">Advertise</a></li>
+</ul></div>
+    <div id="footer-share" class="footer-block">
+  <div id="slider-like-button">
+    <div
+      class="fb-like-box"
+      data-fb-tracking-id="footer-like-box"
+      data-href="https://www.facebook.com/greatistblog"
+      data-colorscheme="dark"
+      data-show-faces="true"
+      data-height="180"
+      data-header="false"
+      data-stream="false"
+      data-show-border="false"
+    ></div>
+  </div>
+</div>
+    <div id="footer-newsletter" class="footer-block">
+  <div class="newsletter-block" ng-controller="NewsletterCtrl" data-origin="footer">
+    <div class="description"><a href="/newsletter" class="text-blue" title="Get our free email with Greatist's top health tips, workout ideas, delicious recipes, and more.">Greatist Daily:</a> Awesome workouts, easy recipes, and wellness tips!</div>
+    <form name="newsletterForm" ng-submit="subscribeEmail('footer-newsletter')">
+      <input type="email" ng-model="newsletterEmail" placeholder="Your Email">
+      <input type="submit" value="Sign Me Up">
+    </form>
+    <div class="message message-error" ng-show="error" ng-cloak>{{error}}</div>
+    <div class="message message-success" ng-show="success" ng-cloak>{{success}}</div>
+  </div>
+</div>
+  </footer>
+</div>
+  <div class="bottom-wrapper">
+  <div id="bottom">
+    <div id="bottom-menu" class="bottom-block">
+  <ul class="menu"><li class="first leaf"><a href="/greatist-terms-use" title="Terms">Terms</a></li>
+<li class="leaf"><a href="/greatist-privacy-policy" title="Privacy">Privacy</a></li>
+<li class="leaf"><a href="/drop-us-line" title="">Contact</a></li>
+<li class="last leaf"><a href="/topics" title="">Sitemap</a></li>
+</ul></div>
+    <div id="copyright">&copy; 2015 Greatist</div>
+  </div>
+</div>
+</div>
+  <script type="text/javascript" src="http://greatist.com/sites/default/files/js/js_GPNu4l0OHPNhcPBIihJR1LRcyEEHD0sfB63XuPz7yYo.js"></script>
+
+  <div id="fb-root"></div>
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=14988881&amp;cv=2.0&amp;cj=1" alt="" /></noscript>
+    <noscript><img style="position:absolute" src="http://b.scorecardresearch.com/b?c1=2&c2=0000000&c3=0000000&c4=www.w3i.com/who-weare.aspx&c5=&c6=&c15=C67BD3C1&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" /></noscript>
+    <noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-46ydJU4yMQT2-.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"ad634f8ed0","applicationID":"897146","transactionName":"NVMHZRNYCkUFUkNeVwwZJFIVUAtYS1ZFUlkWXxZFPloLWxReWVJWFmkIVA9M","queueTime":0,"applicationTime":718,"ttGuid":"","agentToken":"","atts":"GRQEE1tCGUs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script></body>
+</html>

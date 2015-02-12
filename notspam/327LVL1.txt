@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html class="no-js desktop" lang="en-IN">
+<head>
+    <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQUBUFZAAQMHV1NT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+                
+            <title>Order Food Online | Home Delivery in India | foodpanda.in</title>
+    
+            <meta name="description" content="*FREE* home delivery &amp; take away in India ✔ *CHOICE* of 4000+ Restaurants✔ Find *DEALS* &amp; Order Online/ via Mobile App ✔ Pay Online/ Cash on Delivery"/>
+    
+            <meta name="keywords" content="pizza delivery, food delivery, online food, online food ordering, food delivery delhi, order food, order food online, order pizza online, order chinese online,"/>
+    
+            <meta name="robots" content="index,follow"/>
+    
+                        <meta name="format-detection" content="telephone=no"/>
+                                <meta name="apple-mobile-web-app-capable" content="yes"/>
+                                <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                                <meta name="revisit-after" content="3 days"/>
+                                <meta name="apple-itunes-app" content="app-id=758103884"/>
+                                <meta name="google-play-app" content="app-id=com.global.foodpanda.android"/>
+                                <meta name="msapplication-tilecolor" content="#f75626"/>
+                                <meta name="msapplication-tileimage" content="//assets.foodpanda.in/layout/themes/margherita/images/en/mstile-144x144.png?v=1421752687"/>
+                                <meta name="msapplication-config" content="/browserconfig.xml"/>
+            
+            <link rel="icon" href="//assets.foodpanda.in/layout/themes/margherita/images/en/favicon.ico?v=1421752687" type="image/x-icon" />
+            <link rel="alternate" href="https://www.foodpanda.in/" hreflang="en-IN"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-152x152-precomposed.png?v=1421752687" sizes="152x152"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-144x144-precomposed.png?v=1421752687" sizes="144x144"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-120x120-precomposed.png?v=1421752687" sizes="120x120"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-114x114-precomposed.png?v=1421752687" sizes="114x114"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-76x76-precomposed.png?v=1421752687" sizes="76x76"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-72x72-precomposed.png?v=1421752687" sizes="72x72"  />
+            <link rel="apple-touch-icon-precomposed" href="//assets.foodpanda.in/layout/themes/margherita/images/en/apple-touch-icon-precomposed.png?v=1421752687"  />
+            <link rel="alternate" href="https://www.foodpanda.co.th/" hreflang="en-TH"  />
+            <link rel="alternate" href="https://www.foodpanda.co.th/th/" hreflang="th-TH"  />
+            <link rel="alternate" href="https://www.foodpanda.co.th/ru/" hreflang="ru-TH"  />
+            <link rel="alternate" href="https://www.foodpanda.co.th/ja/" hreflang="ja-TH"  />
+            <link rel="alternate" href="https://www.foodpanda.co.id/" hreflang="en-ID"  />
+            <link rel="alternate" href="https://www.foodpanda.co.id/id/" hreflang="id-ID"  />
+            <link rel="alternate" href="https://www.foodpanda.pk/" hreflang="en-PK"  />
+            <link rel="alternate" href="https://www.foodpanda.sg/" hreflang="en-SG"  />
+            <link rel="alternate" href="https://www.foodpanda.sg/zh/" hreflang="zh-SG"  />
+            <link rel="alternate" href="https://www.foodpanda.my/" hreflang="en-MY"  />
+            <link rel="alternate" href="https://www.foodpanda.vn/" hreflang="vi-VN"  />
+            <link rel="alternate" href="https://www.foodpanda.vn/en/" hreflang="en-VN"  />
+            <link rel="alternate" href="https://www.foodpanda.com.tw/" hreflang="zh-TW"  />
+            <link rel="alternate" href="https://www.foodpanda.com.tw/en/" hreflang="en-TW"  />
+            <link rel="alternate" href="https://www.foodpanda.com.bd/" hreflang="en-BD"  />
+            <link rel="alternate" href="https://www.foodpanda.kz/" hreflang="ru-KZ"  />
+            <link rel="alternate" href="https://www.foodpanda.kz/en/" hreflang="en-KZ"  />
+            <link rel="alternate" href="https://www.foodpanda.az/" hreflang="az-AZ"  />
+            <link rel="alternate" href="https://www.foodpanda.az/en/" hreflang="en-AZ"  />
+            <link rel="alternate" href="https://www.foodpanda.az/ru/" hreflang="ru-AZ"  />
+            <link rel="alternate" href="https://www.foodpanda.hk/" hreflang="en-HK"  />
+            <link rel="alternate" href="https://www.foodpanda.hk/zh/" hreflang="zh-HK"  />
+            <link rel="alternate" href="https://www.foodpanda.ph/" hreflang="en-PH"  />
+            <link rel="alternate" href="https://www.foodpanda.com.bn/" hreflang="en-BN"  />
+            <link rel="alternate" href="http://www.foodpanda.ru/" hreflang="ru-RU"  />
+            <link rel="alternate" href="https://www.foodpanda.com.ua/" hreflang="ru-UA"  />
+            <link rel="alternate" href="https://www.foodpanda.com.ua/en/" hreflang="en-UA"  />
+            <link rel="alternate" href="http://www.foodpanda.hu/" hreflang="hu-HU"  />
+            <link rel="alternate" href="https://www.foodpanda.ro/" hreflang="ro-RO"  />
+            <link rel="alternate" href="https://www.foodpanda.bg/" hreflang="bg-BG"  />
+            <link rel="alternate" href="https://www.foodpanda.bg/en/" hreflang="en-BG"  />
+            <link rel="alternate" href="https://www.foodpanda.ge/" hreflang="ka-GE"  />
+            <link rel="alternate" href="https://www.foodpanda.ge/en/" hreflang="en-GE"  />
+            <link rel="alternate" href="http://www.foodpanda.rs/" hreflang="en-RS"  />
+            <link rel="alternate" href="https://www.hellofood.com.br/" hreflang="pt-BR"  />
+            <link rel="alternate" href="https://www.hellofood.com.br/en/" hreflang="en-BR"  />
+            <link rel="alternate" href="https://www.hellofood.com.br/es/" hreflang="es-BR"  />
+            <link rel="alternate" href="https://www.hellofood.com.mx/" hreflang="es-MX"  />
+            <link rel="alternate" href="https://www.hellofood.sa/" hreflang="ar-SA"  />
+            <link rel="alternate" href="https://www.hellofood.sa/en/" hreflang="en-SA"  />
+            <link rel="alternate" href="https://www.hellofood.jo/" hreflang="en-JO"  />
+            <link rel="alternate" href="https://www.hellofood.jo/ar/" hreflang="ar-JO"  />
+            <link rel="alternate" href="https://www.hellofood.com.lb/" hreflang="en-LB"  />
+            <link rel="alternate" href="https://www.hellofood.com.lb/ar/" hreflang="ar-LB"  />
+            <link rel="alternate" href="https://www.hellofood.qa/" hreflang="en-QA"  />
+            <link rel="alternate" href="https://www.hellofood.qa/ar/" hreflang="ar-QA"  />
+            <link rel="alternate" href="https://www.hellofood.com.ng/" hreflang="en-NG"  />
+            <link rel="alternate" href="https://www.hellofood.ma/" hreflang="fr-MA"  />
+            <link rel="alternate" href="https://www.hellofood.co.ke/" hreflang="en-KE"  />
+            <link rel="alternate" href="https://www.hellofood.com.gh/" hreflang="en-GH"  />
+            <link rel="alternate" href="https://www.hellofood.sn/" hreflang="fr-SN"  />
+            <link rel="alternate" href="https://www.hellofood.ci/" hreflang="fr-CI"  />
+            <link rel="alternate" href="https://www.hellofood.ci/en/" hreflang="en-CI"  />
+            <link rel="alternate" href="https://www.hellofood.rw/" hreflang="en-RW"  />
+            <link rel="alternate" href="https://www.hellofood.rw/fr/" hreflang="fr-RW"  />
+            <link rel="alternate" href="https://www.hellofood.rw/rw/" hreflang="rw-RW"  />
+            <link rel="alternate" href="https://www.hellofood.co.tz/" hreflang="en-TZ"  />
+            <link rel="alternate" href="https://www.hellofood.ug/" hreflang="en-UG"  />
+            <link rel="alternate" href="https://dz.hellofood.com/" hreflang="fr-DZ"  />
+            <link rel="alternate" href="https://egypt.hellofood.com/" hreflang="en-EG"  />
+            <link rel="alternate" href="https://egypt.hellofood.com/ar/" hreflang="ar-EG"  />
+    
+                        <meta content="https://www.foodpanda.in/" property="og:url"/>
+                                <meta content="foodpanda" property="og:site_name"/>
+                                                
+            
+                        <link rel="stylesheet" href="/css/f47581e-ceec9f2a9f.css" media="all"/>
+            
+    
+                
+        <!--[if gt IE 9]><!-->
+        <script src="/js/b646254-774f466fc0.js"></script>        <script>$LAB.script('/js/218446f-62cea96b4b.js');</script>    <!--<![endif]-->
+
+        <!--[if lte IE 9]>
+        <script src="/js/256ee57-90538effe5.js"></script>        <script>$LAB.script('/js/ce36e2f-9a4efa0308.js');</script>    <![endif]-->
+
+            <script>
+    FD
+        .setControllerConfig('Prefill', 'customer.firstName', "")
+        .setControllerConfig('Prefill', 'customer.lastName', "")
+        .setControllerConfig('Prefill', 'customer.email', "")
+                    .setControllerConfig('Prefill', 'location.areaId', "")
+            .setControllerConfig('Prefill', 'location.areaName', "")
+                        .setControllerConfig('Prefill', 'location.addressName', "")
+            .setControllerConfig('Prefill', 'location.address', "")
+            .setControllerConfig('Prefill', 'location.latitude', "")
+            .setControllerConfig('Prefill', 'location.longitude', "")
+            .setControllerConfig('Prefill', 'location.street', "")
+            .setControllerConfig('Prefill', 'location.streetNumber', "")
+            .setControllerConfig('Prefill', 'location.houseNumber', "")
+            .setControllerConfig('Prefill', 'location.district', "")
+            .setControllerConfig('Prefill', 'location.postcode', "")
+            ;
+</script>
+
+                    <script>
+    FD
+        .setControllerConfig('LocationSearch', 'vendorListUrl', "\/restaurants")
+        .setControllerConfig('LocationSearch', 'msgNoAreasFound', "No areas found matching your search.")
+        .setControllerConfig('LocationSearch', 'msgSelectAreaFromDropdown', "Please enter your location.")
+        .setControllerConfig('LocationSearch', 'suggestionUrl', "\/location-suggestions-ajax")
+        .setControllerConfig('LocationSearch', 'areaSuggestionUrl', "\/city-suggestions-ajax\/CITY_ID")
+                    .setControllerConfig('LocationSearch', 'enableAreaDropdown', false)
+                            .setControllerConfig('LocationSearch', 'isPostcodeCountry', false)
+            ;
+
+    FD.setControllerConfig('ChangeLocationLink', 'fromElementUrlForVendorListPage', "\/location\/get-location-search-box");
+</script>
+    
+                        
+            <script>
+                        var dataLayer = [{"app_version":"production|release_2.20.4|f902e47","ga_code":"UA-51354317-1","ga_domain":"foodpanda.in","language":"en_IN","customer_logged":0,"customer_id":"","customer_code":"NA","customer_status":"NA","customer_control":"ct_0","customer_lastname":"","customer_name":"","visitor_id":"ufuqmbp1fs8o6v26ngug1dm1b3","landing_page":"\/","visitor_utm_source":"","visitor_utm_campaign":"","visitor_utm_content":"","visitor_utm_medium":"","visitor_utm_term":"","visitor_keyword":"","visitor_referer":"Others","visitor_source":"","area_id":"NA","area_name":"","city_id":"NA","city_name":"","lat":"NA","lng":"NA","country_id":"IN","ab_group":"NA","platform":"pc","brand":"","currency":"INR","page_type":"Homepage","newsletter_id":null}];
+        </script>
+
+                    <script>
+                                tracking.initGoogleTagManagerObject("GTM-K2HK7K");
+            </script>
+        
+                    <script>
+                                tracking.initGoogleAnalyticsFunction();
+                                tracking.triggerGoogleAnalyticsEvents();
+            </script>
+
+                            <script>
+                    tracking.initOptimizely("\/\/cdn.optimizely.com\/js\/566322169.js");
+                </script>
+                                    <script src="//cdn.optimizely.com/js/566322169.js"></script>
+                            
+                                                    <script>
+                                        tracking.loadGoogleAnalytics();
+                </script>
+                    
+                                                
+            </head>
+<body class=" in  home" >
+                                <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2HK7K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    
+    <div class="mobile-smart-banner"></div>
+    <div class="page-wrapper js-sticky-height-calculate-container">
+        
+        <div class="content-wrapper">
+                                        <header>
+            <div class="container">
+                                    <a href="/" class="logo ">
+                        <img alt="Logo" src="//assets.foodpanda.in/layout/themes/margherita/images/en/logo.png?v=1421752687" />
+                    </a>
+                
+                                    <ul class="header-links">
+                        
+                                                                                    <li class="contact-us">
+                                    <a href="/contents/contact.htm">
+                                        <span class="teaser">Questions?</span>
+                                        <span class="number">Contact us</span>
+                                    </a>
+                                </li>
+                                                    
+                                                    <li class="customer-account">
+                                                                    <a href="/login"
+                                       class="btn btn-default customer-login js-auth-login"
+                                       data-loading-text="Loading..."
+                                       rel="nofollow"
+                                    >
+                                        Log in / Register
+                                    </a>
+                                                            </li>
+                                            </ul>
+                            </div>
+        </header>
+    
+                            <div class="breadcrumbs">
+            <div class="container">
+                                    <ol class="breadcrumb_pages">
+                            <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="/" itemprop="url">
+            <span itemprop="title">Home</span>
+        </a>
+    </li>
+
+                                            </ol>
+                
+                <div class="breadcrumb_extras">
+                                            <ul class="service-links">
+                                                    </ul>
+                    
+                                            
+                                    </div>
+            </div>
+        </div>
+    
+                            
+                            
+    <div class="flash-messages">
+        <div class="container">
+                                </div>
+    </div>
+
+                <main class="js-sticky-height-calculate-container">
+                    <div class="homepage-area-selection-container" style="background-image: url('//assets.foodpanda.in/layout/themes/margherita/images/en/homepage-splash.jpg?v=1421752687');">
+                    <div class="container">
+                
+                <div class="homepage-tagline">
+                    <div class="homepage-headline ">
+                        <h1>Order food online in 100+ cities!</h1>
+
+                                            </div>
+
+                                    </div>
+
+                
+                                
+
+<div class="js-location-search location-search location-search-main-page  location_city_area">
+    <div class="location-search-inner">
+        <form name="" method="get" action="/location-suggestions" role="form" class="form-vertical">
+        <input type="hidden" id="_token" name="_token" value="yyreU2P11DqtdQg3s7d1W_gJ9nWUoSo8Hgc0m1dKtLU" />
+
+                    <div class="city">
+                    <label for="cityId" class="required">Enter your city</label>
+    <select id="cityId" name="cityId" data-prefill="location.cityId" class="form-control" placeholder="Enter a city">
+        <option value="top_cities">Popular Cities</option><option value="11">Bangalore</option><option value="1">Delhi</option><option value="17">Hyderabad</option><option value="270">Karur</option><option value="269">Moodbidri</option><option value="27">Mumbai</option><option value="28">Mumbai - Navi Mumbai</option><option value="29">Mumbai - Thane</option><option value="10">Pune</option><option disabled="disabled">More Cities</option><option value="126">Agra</option><option value="127">Ahmadnagar</option><option value="16">Ahmedabad-Gandhinagar</option><option value="128">Ajmer</option><option value="222">Aligarh</option><option value="129">Allahabad</option><option value="130">Ambala</option><option value="223">Amravati</option><option value="131">Amritsar</option><option value="132">Anand</option><option value="133">Ankleshwar</option><option value="134">Asansol</option><option value="135">Aurangabad</option><option value="136">Baddi</option><option value="224">Baramati</option><option value="137">Bareilly</option><option value="225">Belgaum</option><option value="139">Bharuch</option><option value="138">Bhatinda</option><option value="140">Bhavnagar</option><option value="141">Bhilai</option><option value="226">Bhiwadi</option><option value="227">Bhiwani</option><option value="142">Bhopal</option><option value="228">Bhubaneswar</option><option value="143">Bilaspur</option><option value="144">Burdwan</option><option value="175">Calicut</option><option value="229">Chandigarh</option><option value="12">Chennai</option><option value="171">Cochin</option><option value="145">Coimbatore</option><option value="230">Cuttack</option><option value="267">Dalhousie</option><option value="146">Daman</option><option value="147">Darjeeling</option><option value="148">Dehradun</option><option value="149">Dhanbad</option><option value="231">Dharmsala</option><option value="232">Durg</option><option value="150">Durgapur</option><option value="233">Erode</option><option value="5">Faridabad</option><option value="152">Gandhidham</option><option value="153">Gangtok</option><option value="154">Goa</option><option value="6">Greater Noida</option><option value="155">Gulbarga</option><option value="156">Guntur</option><option value="2">Gurgaon</option><option value="157">Guwahati</option><option value="158">Gwalior</option><option value="236">Haldwani</option><option value="160">Haridwar</option><option value="161">Hisar</option><option value="237">Hoshiarpur</option><option value="238">Hosur</option><option value="159">Howrah</option><option value="162">Hubli</option><option value="4">Indirapuram-Ghaziabad</option><option value="22">Indore</option><option value="163">Jabalpur</option><option value="30">Jaipur</option><option value="164">Jalandhar</option><option value="165">Jalgaon</option><option value="166">Jammu</option><option value="239">Jamnagar</option><option value="167">Jamshedpur</option><option value="240">Kakinada</option><option value="241">Kanchipuram</option><option value="169">Kanpur</option><option value="242">Karad</option><option value="170">Karnal</option><option value="243">Khanna</option><option value="244">Kharar</option><option value="172">Kodaikanal</option><option value="173">Kolhapur</option><option value="18">Kolkata</option><option value="245">Korba</option><option value="174">Kota</option><option value="176">Kurukshetra</option><option value="246">Latur</option><option value="177">Lonavala</option><option value="178">Lucknow</option><option value="179">Ludhiana</option><option value="180">Madurai</option><option value="181">Mahabaleshwar</option><option value="247">Manesar</option><option value="20">Mangalore</option><option value="248">Mathura</option><option value="182">Meerut</option><option value="249">Mohali</option><option value="183">Moradabad</option><option value="184">Mussoorie</option><option value="23">Mysore</option><option value="185">Nagpur</option><option value="250">Nainital</option><option value="186">Nashik</option><option value="187">Navsari</option><option value="251">Nellore</option><option value="3">Noida</option><option value="188">Ooty</option><option value="263">Panaji</option><option value="252">Panchkula</option><option value="189">Panipat</option><option value="253">Pathankot</option><option value="190">Patiala</option><option value="191">Patna</option><option value="254">Pondicherry</option><option value="192">Puri</option><option value="193">Raipur</option><option value="255">Rajahmundry</option><option value="25">Rajkot</option><option value="256">Rajnandgaon</option><option value="194">Ranchi</option><option value="195">Rewari</option><option value="196">Rohtak</option><option value="197">Roorkee</option><option value="198">Rourkela</option><option value="199">Rudrapur</option><option value="200">Saharanpur</option><option value="201">Salem</option><option value="202">Sambalpur</option><option value="203">Sangli</option><option value="268">Sangrur</option><option value="204">Satara</option><option value="205">Secunderabad</option><option value="206">Shillong</option><option value="207">Shimla</option><option value="208">Shirdi</option><option value="209">Siliguri</option><option value="210">Solan</option><option value="211">Solapur</option><option value="257">Sonipat</option><option value="19">Surat</option><option value="213">Thrissur</option><option value="214">Tiruchirapalli</option><option value="215">Tiruppur</option><option value="212">Trivandrum</option><option value="216">Tumkur</option><option value="265">Udaipur</option><option value="266">Udupi</option><option value="217">Ujjain</option><option value="21">Vadodara</option><option value="26">Vapi</option><option value="218">Varanasi</option><option value="258">Vellore</option><option value="259">Vijaywada</option><option value="24">Vishakhapatnam</option><option value="219">Warangal</option><option value="260">Yamunanagar</option><option value="220">Zirakpur</option></select>
+    <span id="city-not-selected-error" class="help-inline">
+        
+    </span>
+    <p>
+        <a tabindex="5" class="area-selection-all-cities-link" href="/cities">
+            All cities
+        </a>
+    </p>
+</div>
+        
+                    <div class="area">
+                    <label for="area" class="required">Enter your area</label>
+    <input type="text" id="area" name="area" required="required" data-prefill="location.areaName" class="form-control" placeholder="Enter an area" />
+    <span id="area-not-selected-error" class="help-inline">
+        
+    </span>
+</div>
+        
+        
+        
+        
+        
+        <div class="find-food">
+    <button type="submit" id="button" name="button" class="btn btn-primary btn-lg btn-block btn-arrow">Find restaurants</button>
+</div>
+
+        <input type="hidden" id="area_id" name="area_id" data-prefill="location.areaId" /></form>
+    </div>
+</div>
+
+
+                
+            </div>
+
+                    </div>
+        
+                    
+                                                            <div class="order-steps-container">
+    <div class="order-steps-expander">
+        <div class="container">
+            <div class="title">
+                Get delicious food delivered to your door in 4 simple steps.
+                <span class="trigger">Learn more</span>
+            </div>
+        </div>
+    </div>
+    <div class="order-steps">
+        <div class="container">
+            <ul>
+                <li class="step one">
+                    <div>
+                        <div class="title">1. Search</div>
+                        <div class="description">Find restaurants that deliver to you by entering your address</div>
+                    </div>
+                </li>
+                <li class="step two">
+                    <div>
+                        <div class="title">2. Choose</div>
+                        <div class="description">Browse hundreds of menus to find the food you like</div>
+                    </div>
+                </li>
+                <li class="step three">
+                    <div>
+                        <div class="title">3. Pay</div>
+                        <div class="description">Pay fast &amp; secure online or cash on delivery</div>
+                    </div>
+                </li>
+                <li class="step four">
+                    <div>
+                        <div class="title">4. Enjoy</div>
+                        <div class="description">Food gets prepared &amp; delivered to your door by the restaurant</div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<script>
+    FD.setControllerConfig('OrderSteps', 'enable', true);
+</script>
+                
+                                
+                <div class="container">
+                    
+                                            <div class="homepage-1"><script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+	var mapLeader = googletag.sizeMapping().
+		addSize([1200, 110], [560, 110]).
+		addSize([992, 110], [460, 110]).
+		addSize([768, 110], [354, 110]).
+		addSize([600, 110], [560, 110]).
+		addSize([480, 110], [460, 110]).
+		addSize([374, 110], [354, 110]).
+		addSize([0, 0], [300, 110]).
+		build();
+
+		var banner1= googletag.defineSlot('/57835327/strip_banner_560px', [560, 110], 'div-gpt-ad-1408017510202-0')
+		.defineSizeMapping(mapLeader)
+		.addService(googletag.pubads());
+
+		var banner2= googletag.defineSlot('/57835327/strip_banner_560px_', [560, 110], 'div-gpt-ad-1408017510202-1')
+		.defineSizeMapping(mapLeader)
+		.addService(googletag.pubads());
+		
+		googletag.defineSlot('/57835327/tile1', [319, 160], 'div-gpt-ad-1390554524263-0').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/tile2', [319, 160], 'div-gpt-ad-1390554693819-0').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/tile3', [319, 160], 'div-gpt-ad-1390555015755-0').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/tile4', [319, 160], 'div-gpt-ad-1390555078720-0').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/tile5', [319, 160], 'div-gpt-ad-1390555182195-0').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/tile6', [319, 160], 'div-gpt-ad-1390555083687-0').addService(googletag.pubads());
+		
+		googletag.defineSlot('/57835327/top_vendors1', [120, 70], 'div-gpt-ad-1415777805306-0').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendors2', [120, 70], 'div-gpt-ad-1415777805306-1').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendor3', [120, 70], 'div-gpt-ad-1415777805306-2').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendors4', [120, 70], 'div-gpt-ad-1415777805306-3').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendors5', [120, 70], 'div-gpt-ad-1415777805306-4').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendors6', [120, 70], 'div-gpt-ad-1415777805306-5').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendors_7', [120, 70], 'div-gpt-ad-1415777805306-6').addService(googletag.pubads());
+		googletag.defineSlot('/57835327/top_vendors8', [120, 70], 'div-gpt-ad-1415777805306-7').addService(googletag.pubads());
+		
+		googletag.enableServices();
+		
+		var resizeTimer;
+		window.addEventListener("resize", function(){
+			clearTimeout(resizeTimer);
+			resizeTimer = setTimeout(function(){googletag.pubads().refresh([banner1, banner2 ]);} ,350);
+		});	
+});
+</script>
+<style>
+.dfp{
+  width: auto; height: 110px; display: inline-block !important; box-shadow: rgba(0, 0, 0, 0.027451) 0px 0px 6px 3px;
+} </style>
+<ul class="home-banner medium">
+    <li>
+    <center class="clearfix" >
+        <div id='div-gpt-ad-1408017510202-0' class="dfp" >
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408017510202-0'); });
+</script>
+</div>
+   </center>
+    </li>
+    <li>
+    <center class="clearfix" >
+       <div id='div-gpt-ad-1408017510202-1' class="dfp" >
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1408017510202-1'); });
+</script>
+</div>
+   
+   </center>
+    </li>
+    
+</ul>
+
+<!--img width=100% src="//marketing.foodpanda.in/images/nl/homepage_deals/techinical-issue-banner-1140x110.png?v=1421752687" style="box-shadow:0px 0px 6px 3px rgba(0,0,0,0.03); margin-bottom:10px;" -->
+
+
+<div class="homepage-banner">
+    <h5>Cuisines</h5>
+    <hr />
+    <ul>
+        <li>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/north-indian"><img alt="" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/homepage-1-1.png?v=1421752687" width="160" height="100" /></a>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/north-indian">North Indian</a>
+        </li>
+        <li>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/biryani-cuisine"><img alt="" data-src="//marketing.foodpanda.in/images/nl/Cuisines/biryani.png?v=1421752687"width="160" height="100" /></a>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/biryani-cuisine">Biryani</a>
+        </li>
+        <li>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/pizza"><img alt="" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/homepage-1-3.png?v=1421752687"width="160" height="100" /></a>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/pizza">Pizza</a>
+        </li>
+        <li>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/chinese"><img alt="" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/homepage-1-5.png?v=1421752687"width="160" height="100" /></a>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/chinese">Chinese</a>
+        </li>
+        <li>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/south-indian"><img alt="" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/homepage-1-2.png?v=1421752687"width="160" height="100" /></a> 
+            <a href="https://www.foodpanda.in/restaurants/cuisines/south-indian">South Indian</a>
+          </li>
+        <li>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/ice-creams-cuisine"><img alt="" data-src="//marketing.foodpanda.in/images/nl/Cuisines/ice-cream.png?v=1421752687"width="160" height="100" /></a>
+            <a href="https://www.foodpanda.in/restaurants/cuisines/ice-creams-cuisine">Dessert</a>
+        </li>
+    </ul>
+</div></div>
+                    
+                                            <div class="homepage-2"><div class="homepage-banner mbl" id="variation0">
+<div class="row" >
+	 <div align="center" class="row clearfix"style="padding:10px 0px 0px 0px;">
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 clearfix"  >
+	<div class="row" >
+	  <!-- top_vendors1 -->
+	  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	    <div id='div-gpt-ad-1415777805306-0' style='width:120px; height:70px;'>
+	      <script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-0'); });
+	      </script>
+	    </div>
+	  </div>
+	 
+	 
+	  <!-- top_vendors2 -->
+	  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	    <div id='div-gpt-ad-1415777805306-1' style='width:120px; height:70px;'>
+	      <script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-1'); });
+	      </script>
+	    </div>
+	  </div>
+	</div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 clearfix"  >
+       
+	<div class="row" >
+	    <!-- top_vendors3 -->
+	    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	      <div id='div-gpt-ad-1415777805306-2' style='width:120px; height:70px;'>
+		<script type='text/javascript'>
+		  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-2'); });
+		</script>
+	      </div>
+	     </div>
+	     
+	     <!-- top_vendors4 -->
+	    <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	      <div id='div-gpt-ad-1415777805306-3' style='width:120px; height:70px;'>
+		<script type='text/javascript'>
+		  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-3'); });
+		</script>
+	      </div>
+	     </div>
+	</div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 clearfix"  >
+       
+      <div class="row" >
+	  <!-- top_vendors5 -->
+	  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	    <div id='div-gpt-ad-1415777805306-4' style='width:120px; height:70px;'>
+	      <script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-4'); });
+	      </script>
+	    </div>
+	  </div>
+       
+	  <!-- top_vendors6 -->
+	  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	    <div id='div-gpt-ad-1415777805306-5' style='width:120px; height:70px;'>
+	      <script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-5'); });
+	      </script>
+	    </div>
+	  </div>
+      </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 clearfix"  >
+       
+       <div class="row" >
+	  <!-- top_vendors7 -->
+	  <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	    <div id='div-gpt-ad-1415777805306-6' style='width:120px; height:70px;'>
+	      <script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-6'); });
+	      </script>
+	    </div>
+	  </div>
+	   
+	   <!-- top_vendors8 -->
+	   <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 " >
+	    <div id='div-gpt-ad-1415777805306-7' style='width:120px; height:70px;'>
+	      <script type='text/javascript'>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1415777805306-7'); });
+	      </script>
+	    </div>
+	   </div>
+       </div>
+    </div>
+</div>
+</div>
+</div></div>
+                                    </div>
+            
+            <div class="container">
+                                    <div class="mobile-apps">
+        <img alt=" mobile app" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/mobile_app.png?v=1421752687" />
+
+        <div class="details">
+            <div class="h2">foodpanda in your pocket!</div>
+            <p>Download our free iOS, Windows phone and Android App and order food online the fastest way possible.</p>
+                            <a href="https://app.adjust.io/f6igys?campaign=IN_Homepage_iOS&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DIN%26s%3Ds%0A" target="_blank" title="App Store" class="app-ios">
+                    <img alt="App Store" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/app_store.png?v=1421752687" />
+                </a>
+            
+                            <a href="https://app.adjust.io/dfv9zs?campaign=IN_Homepage_Android&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DIN%26s%3Ds%0A" target="_blank" title="Google Play" class="app-android">
+                    <img alt="Google Play" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/google_play.png?v=1421752687" />
+                </a>
+            
+                            <a href="https://app.adjust.io/kdxire?campaign=IN_Homepage_WP&amp;deep_link=foodpanda%3A%2F%2F%3Fc%3DIN%26s%3Ds%0A" target="_blank" title="Windows Mobile" class="app-windows">
+                    <img alt="Windows Mobile" data-src="//assets.foodpanda.in/layout/themes/margherita/images/en/windows_mobile.png?v=1421752687" />
+                </a>
+                    </div>
+    </div>
+
+            </div>
+        
+            </main>
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.foodpanda.in/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.foodpanda.in/restaurants?user_search={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+        </div>
+                    <footer>
+            <div class="container">
+                                                                        <div class="row newsletter-subscribe-container">
+                    <div class="newsletter-subscribe">
+                <div class="h4">Subscribe to our newsletter:</div>
+
+                <form action="/newsletter/subscribe" method="post" class="form-vertical" role="form">
+                    <div class="row">
+                            <input type="hidden"     id="newsletter_subscribe__token" name="newsletter_subscribe[_token]" value="rWmVxMSJ8HLLYn4On36Pr2MoUqkNL_wQFu32dqd1s6E" />
+                        <div class="col-sm-7">
+                            <div class="form-group">
+                                    <select     id="newsletter_subscribe_city" name="newsletter_subscribe[city]" required="required" class="form-control" data-prefill="location.cityId"><option value="" selected="selected">Please select your city</option><optgroup label="top_cities"><option value="top_cities">Popular Cities</option><option value="11">Bangalore</option><option value="1">Delhi</option><option value="17">Hyderabad</option><option value="270">Karur</option><option value="269">Moodbidri</option><option value="27">Mumbai</option><option value="28">Mumbai - Navi Mumbai</option><option value="29">Mumbai - Thane</option><option value="10">Pune</option></optgroup><optgroup label="more_cities"><option value="126">Agra</option><option value="127">Ahmadnagar</option><option value="16">Ahmedabad-Gandhinagar</option><option value="128">Ajmer</option><option value="222">Aligarh</option><option value="129">Allahabad</option><option value="130">Ambala</option><option value="223">Amravati</option><option value="131">Amritsar</option><option value="132">Anand</option><option value="133">Ankleshwar</option><option value="134">Asansol</option><option value="135">Aurangabad</option><option value="136">Baddi</option><option value="224">Baramati</option><option value="137">Bareilly</option><option value="225">Belgaum</option><option value="139">Bharuch</option><option value="138">Bhatinda</option><option value="140">Bhavnagar</option><option value="141">Bhilai</option><option value="226">Bhiwadi</option><option value="227">Bhiwani</option><option value="142">Bhopal</option><option value="228">Bhubaneswar</option><option value="143">Bilaspur</option><option value="144">Burdwan</option><option value="175">Calicut</option><option value="229">Chandigarh</option><option value="12">Chennai</option><option value="171">Cochin</option><option value="145">Coimbatore</option><option value="230">Cuttack</option><option value="267">Dalhousie</option><option value="146">Daman</option><option value="147">Darjeeling</option><option value="148">Dehradun</option><option value="149">Dhanbad</option><option value="231">Dharmsala</option><option value="232">Durg</option><option value="150">Durgapur</option><option value="233">Erode</option><option value="5">Faridabad</option><option value="152">Gandhidham</option><option value="153">Gangtok</option><option value="154">Goa</option><option value="6">Greater Noida</option><option value="155">Gulbarga</option><option value="156">Guntur</option><option value="2">Gurgaon</option><option value="157">Guwahati</option><option value="158">Gwalior</option><option value="236">Haldwani</option><option value="160">Haridwar</option><option value="161">Hisar</option><option value="237">Hoshiarpur</option><option value="238">Hosur</option><option value="159">Howrah</option><option value="162">Hubli</option><option value="4">Indirapuram-Ghaziabad</option><option value="22">Indore</option><option value="163">Jabalpur</option><option value="30">Jaipur</option><option value="164">Jalandhar</option><option value="165">Jalgaon</option><option value="166">Jammu</option><option value="239">Jamnagar</option><option value="167">Jamshedpur</option><option value="240">Kakinada</option><option value="241">Kanchipuram</option><option value="169">Kanpur</option><option value="242">Karad</option><option value="170">Karnal</option><option value="243">Khanna</option><option value="244">Kharar</option><option value="172">Kodaikanal</option><option value="173">Kolhapur</option><option value="18">Kolkata</option><option value="245">Korba</option><option value="174">Kota</option><option value="176">Kurukshetra</option><option value="246">Latur</option><option value="177">Lonavala</option><option value="178">Lucknow</option><option value="179">Ludhiana</option><option value="180">Madurai</option><option value="181">Mahabaleshwar</option><option value="247">Manesar</option><option value="20">Mangalore</option><option value="248">Mathura</option><option value="182">Meerut</option><option value="249">Mohali</option><option value="183">Moradabad</option><option value="184">Mussoorie</option><option value="23">Mysore</option><option value="185">Nagpur</option><option value="250">Nainital</option><option value="186">Nashik</option><option value="187">Navsari</option><option value="251">Nellore</option><option value="3">Noida</option><option value="188">Ooty</option><option value="263">Panaji</option><option value="252">Panchkula</option><option value="189">Panipat</option><option value="253">Pathankot</option><option value="190">Patiala</option><option value="191">Patna</option><option value="254">Pondicherry</option><option value="192">Puri</option><option value="193">Raipur</option><option value="255">Rajahmundry</option><option value="25">Rajkot</option><option value="256">Rajnandgaon</option><option value="194">Ranchi</option><option value="195">Rewari</option><option value="196">Rohtak</option><option value="197">Roorkee</option><option value="198">Rourkela</option><option value="199">Rudrapur</option><option value="200">Saharanpur</option><option value="201">Salem</option><option value="202">Sambalpur</option><option value="203">Sangli</option><option value="268">Sangrur</option><option value="204">Satara</option><option value="205">Secunderabad</option><option value="206">Shillong</option><option value="207">Shimla</option><option value="208">Shirdi</option><option value="209">Siliguri</option><option value="210">Solan</option><option value="211">Solapur</option><option value="257">Sonipat</option><option value="19">Surat</option><option value="213">Thrissur</option><option value="214">Tiruchirapalli</option><option value="215">Tiruppur</option><option value="212">Trivandrum</option><option value="216">Tumkur</option><option value="265">Udaipur</option><option value="266">Udupi</option><option value="217">Ujjain</option><option value="21">Vadodara</option><option value="26">Vapi</option><option value="218">Varanasi</option><option value="258">Vellore</option><option value="259">Vijaywada</option><option value="24">Vishakhapatnam</option><option value="219">Warangal</option><option value="260">Yamunanagar</option><option value="220">Zirakpur</option></optgroup></select>
+                                    
+                            </div>
+
+                            <div class="form-group">
+                                    <input type="email"     id="newsletter_subscribe_email" name="newsletter_subscribe[email]" required="required" class="form-control" placeholder="Enter your e-mail" data-prefill="customer.email" />
+                                    
+                            </div>
+                        </div>
+                        <div class="col-sm-5">
+                            <div class="form-group">
+                                <button type="submit" id="newsletter_subscribe_subscribe" name="newsletter_subscribe[subscribe]" class="btn btn-primary btn-block">Sign up now</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
+        
+                    <div class="newsletter-usp">
+                <ul>
+                    <li>Don&#039;t miss out on our great offers</li>
+                    <li>Receive deals from all our top restaurants via e-mail</li>
+                </ul>
+            </div>
+            </div>
+
+    <script>
+        FD.setControllerConfig('Newsletter', 'enable', true);
+    </script>
+    <hr/>
+
+    <div class="row">
+                    <div class="popular-cities">
+                <div class="h4">Popular cities</div>
+                <ul class="unstyled">
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/bangalore">Bangalore</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/pune">Pune</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/city/hyderabad">Hyderabad</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/delhi">Delhi</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/mumbai">Mumbai</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/city/kolkata">Kolkata</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/gurgaon">Gurgaon</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/chennai">Chennai</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/city/noida">Noida</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/city/jaipur">Jaipur</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/lucknow">Lucknow</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/indirapuram-ghaziabad">Indirapuram-Ghaziabad</a></li>
+	
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/mohali-1">Mohali</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/city/chandigarh-1">Chandigarh</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/city/panchkula-1">Panchkula</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/mumbai-thane">Mumbai - Thane</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/ahmedabad-gandhinagar">Ahmedabad-Gandhinagar</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/greater-noida">Greater Noida</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/faridabad">Faridabad</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/mumbai-navi-mumbai">Mumbai - Navi Mumbai</a></li>
+	
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/vadodara">Vadodara</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/surat">Surat</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/city/rajkot">Rajkot</a></li>
+</ul>
+            </div>
+        
+                    <div class="popular-cuisines">
+                <div class="h4">Popular cuisines</div>
+                <ul class="unstyled">
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/pizza">Pizza</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/north-indian">North Indian- Mughlai</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/chinese">Chinese</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/biryani-cuisine">Biryani</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/south-indian">South Indian</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/ice-creams-cuisine">Ice cream</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/continental-cuisine">Continental</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/fast-food-cuisine">Fast Food (Burgers, Wraps &amp; more)</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/cakes-bakery">Cakes-Bakery</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/sea-food">Sea Food</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/italian-cuisine">Italian</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/bengali">Bengali</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/salads">Salads &amp; Sandwiches</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/hyderabadi">Hyderabadi</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/multi-cuisine">Multi-cuisine</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/japanese">Japanese</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/mexican-cuisine">Mexican</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/middle-eastern">Middle Eastern</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/south-east-asian">Pan-Asian</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/indian">Regional</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/sea-food">Seafood</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurants/cuisines/south-indian">South Indian</a></li>
+</ul>
+            </div>
+        
+                    <div class="popular-restaurants">
+                <div class="h4">Popular restaurants</div>
+                <ul class="unstyled">
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/cn6lw/yo-china-janak-puri">Yo China</a></li>
+        <li>
+                <a href="https://www.foodpanda.in/restaurant/cn6lm/eatsome-aundh">Eatsome</a></li>
+        <li>
+                <a href="https://www.foodpanda.in/restaurant/cn0vg/papa-john-s-bannerugatta">Papa Johns</a></li>
+        <li>
+                <a href="https://www.foodpanda.in/restaurant/n5of/hello-currry">Hello Curry</a></li>
+        <li>
+                <a href="https://www.foodpanda.in/restaurant/n5nv/leaping-caravan">Leaping Caravan</a></li>
+        <li>
+                <a href="https://www.foodpanda.in/restaurant/cn8ee/subway-d">Subway</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/cn6aq/box8-d">Box 8</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/n9pz/happy-hakka">Happy Hakka</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/cj8ta/domino-s-bangalore">Dominos</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/cn6nd/faaso-s-d">Faasos</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/n2jg/abhiruchi-hotel">Abhiruchi Hotel</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/n9gz/sushiya">Sushiya</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/n3ja/desi-vibes">Desi Vibes</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/n5if/birinz-btm-layout">Birinz</a></li>
+	<li>
+		<a href="https://nirulas.foodpanda.in/">Nirulas</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/n3ux/tughlaq">Tughlaq</a></li>
+	<li>
+		<a href="https://www.foodpanda.in/restaurant/v5ov/olive-kitchen">Olive Kitchen</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n7rj/grill-inn-madhapur">Grill Inn</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n8uj/kb-spicy-kitchen">KB Spicy Kitchen</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/cn9zk/mast-kalandar-madhapur">Mast Kalandar</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n7rm/dine-esty">Dine-esty</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n0xf/fryday-fever">Fryday Fever</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n6dy/organic-express">Organic Express</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n1is/mithaas">Mithaas</a></li>
+        <li>
+		<a href="https://www.foodpanda.in/restaurant/n6pl/biryani-pot">Biryani Pot</a></li>
+
+</ul>
+            </div>
+        
+                    <div class="contact-us">
+                                                                                <div class="h4">Get in touch</div>
+                        <ul class="social-links">
+                                                            <li>
+                                    <a href="https://twitter.com/FoodpandaIndia" target="_blank">
+                                                                                    <img alt="Twitter" data-src="//assets.foodpanda.in/images/static/icons/twitter.png" />
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.facebook.com/foodpanda.in" target="_blank">
+                                                                                    <img alt="Facebook" data-src="//assets.foodpanda.in/images/static/icons/facebook.png" />
+                                                                            </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://blog.foodpanda.in/" target="_blank">
+                                                                                    <img alt="Blog" data-src="//assets.foodpanda.in/images/static/icons/blog.png" />
+                                                                            </a>
+                                </li>
+                                                    </ul>
+                                    
+                                                                                <h4 class="h4">foodpanda</h4>
+                        <ul class="static-pages">
+                                                            <li>
+                                    <a href="/contents/about.htm">
+                                        About us
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/press.htm">
+                                        Press
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/contact.htm">
+                                        Contact
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/terms-and-conditions.htm">
+                                        Terms and Conditions
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/privacy.htm">
+                                        Privacy Policy
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/faq.htm">
+                                        FAQ
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/apps">
+                                        foodpanda India Android, WIndows phone and iPhone Apps
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/careers.htm">
+                                        Careers
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/%20Online%20Payment">
+                                        Pay online for your order
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/Order%20Pizza%20Online">
+                                        Order Pizza Online
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="/contents/foodpandacares">
+                                        foodpanda cares
+                                    </a>
+                                </li>
+                                                    </ul>
+                                                </div>
+            </div>
+
+        <hr/>
+
+                                        <div class="text-center">
+                <div class="h4"><h2 class="h4">Order food online for free home delivery service in India</h2></div>
+                <p style="text-align: justify;">
+	Are you hungry and just want to get relaxed after a long hard-working day? How about ordering a Pizza from home or office? Right here on foodpanda, we provide an overview of all the <b>best Pizza restaurants</b> and delivery services. foodpanda.in is an online food-ordering service that makes it easy for customers to find their favorite food conveniently from home, work or on the road and get it delivered. foodpanda is now active in 30 cities in India and has over 4000+ restaurants available and the delivery of your food is free! Especially, in <a href="https://delhi.foodpanda.in/"><b>Delhi</b></a>, <a href="https://www.foodpanda.in/restaurants/index/city/chennai"><b>Chennai</b></a> or <a href="https://mumbai.foodpanda.in/"><b>Mumbai</b></a>, to name a few cities, we have a variety of <strong>pizza delivery restaurants</strong> in all areas of the cities.</p>
+<h2 class="h4">
+	<strong>Check out restaurant menu on foodpanda and order worldwide cuisines from home or office</strong></h2>
+<p style="text-align: justify;">
+	Whether you are craving <b>Fast Food</b>, <b>Punjabi</b>, <b>Japanese</b>, <b>Biryani</b>,<b> </b>or even <b>Bengali</b>, <a href="https://www.foodpanda.in/restaurants/cuisines/italian-cuisine"><b>Pasta</b></a>, <b>Chinese</b>, <b>French</b>,&nbsp;you can still order from even more great available cuisines to satisfy your taste buds. What about <a href="https://www.foodpanda.in/restaurant/n4uv/indus-flavour"><b>Indus Flavour</b></a> or <a href="https://www.foodpanda.in/restaurant/n1yi/biryani-paradise"><b>Biryani Paradise delivery</b></a> for dinner? A tasty <b>Masala Paneer Tikka wrap</b> from<b> <a href="https://www.foodpanda.in/restaurant/cn6nd/faaso-vishrantwadi">Faasos Pune</a>, <a href="https://www.foodpanda.in/restaurant/n4cc/monginis-pune-order-must-be-placed-48-hrs-prior-to-home-delivery-vendor">Monginis Pune</a>, </b>famous <b>Subway</b> or rather check out the <a href="https://pizzacorner.foodpanda.in/"><b>Pizza Corner Menu</b></a>? Share a delicious <b>Pepperoni Pizza</b> from the beloved <strong>Pizza Hut</strong> or <a href="https://www.foodpanda.in/restaurant/n9gq/domino-s-bangalore"><b>Domino&rsquo;s</b></a> with your beloved ones? Or dreaming of mouthwatering fried <b>chicken wings</b> from <a href="https://www.foodpanda.in/restaurant/n2tb/five-star-chicken-church-street-take-away"><b>Five Star Chicken menu</b></a>? Then, simply enjoy home delivery in Church Street, <a href="https://bangalore.foodpanda.in"><b>Bangalore</b></a> or from <a href="https://www.foodpanda.in/restaurant/n9gq/domino-s-bangalore">Dominos Online order</a>, for example. Even if you have to get home late from work, we also offer a convenient <b>late night delivery service</b> from all best restaurants like <a href="https://www.foodpanda.in/restaurant/n3ua/late-night"><b>Late Night restaurant</b></a>. Check out <a href="https://box8.foodpanda.in/"><b>Box8 menu</b></a>, <a href="https://www.foodpanda.in/restaurant/n4hm/biryani-blues"><b>Biryani Blues menu</b></a>, and hundreds of other ones. Order your desired dishes, straight from the comfort of your home or from the office for your lunch break or even from wherever you are currently located by downloading the free <a href="https://www.foodpanda.in/contents/apps"><strong>foodpanda mobile application</strong></a> for iOS, Android and Windows phone. foodpanda is proudly making home delivery hassle free!</p>
+<p style="text-align: justify;">
+	So, what do you fancy for lunch or dinner tonight? <a href="https://www.foodpanda.in/restaurants/city/bangalore/cuisines/pizza"><b>Pizza home delivery Bangalore</b></a>, a <a href="https://www.foodpanda.in/restaurants/city/hyderabad/cuisines/biryani-cuisine"><b>Hyderabad biryani home delivery</b></a>, a steaming hot <b>Thai curry in Noida</b> or a <a href="https://www.foodpanda.in/restaurants/city/mumbai/cuisines/cakes-bakery"><b>cake delivery in Mumbai</b></a>? foodpanda has all your favorite restaurant menus online &ndash; the choice is yours!</p>
+<h2 class="h4">
+	<strong>Fast &amp; Convenient: Enjoy food delivery India through foodpanda</strong></h2>
+<p align="center">
+	The process of ordering food online on foodpanda is very simple, fast and convenient: Right here on the homepage, you can get started by entering your location and move on to the next page to see a list of all restaurants near you. Next, you can either select the restaurant you want or further filter your result by all available cuisines (<b>Ice creams</b>, <b>Seafood</b>, <b>Salads</b>, etc.) by selecting from the list on the left hand side of the page and all the restaurants that offer your desired cuisine will be shown. From there you can look through the restaurant menu, pick your favorite dishes including appetizers, desserts and drinks; the order will arrive straight to your home, office or current location in no time with free delivery. To process the payment, you can safely <b>pay online</b> or <b>cash on delivery</b>. What are you waiting for? Choose foodpanda for home delivery and order online now!</p>
+            </div>
+
+            <hr/>
+            
+                <div class="partner-links">
+            <script>
+document.addEventListener('DOMContentLoaded', function(){window.document.getElementsByClassName("newsletter-usp")[0].innerHTML= window.document.getElementsByClassName("newsletter-usp")[0].innerHTML+ "<section id='operaPromotion' ><style type='text/css'>@media (max-width: 767px){.operaPromotion{display:block;padding-top: 10px;}}@media (min-width: 768px) {#operaPromotion {display: none;}}</style><p align='center' >    <span class='operaPromotion'><a style='color:white;font-size:12px;' href='http://opr.as/d0D' rel='nofollow' target='_blank'><strong>Safe &amp; Secure Mobile Browser, Get Opera Mini</strong> </a> </span></p></section>";});
+</script>
+        </div>
+    
+                                                </div>
+        </footer>
+    
+    
+    <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content"></div>
+        </div>
+    </div>
+
+        
+
+    </div>
+                    
+    
+    
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"f77b1abc66","applicationID":"907321","transactionName":"bldXNUJYXhAABxBZDVcddhRDTV8OTgILXwZJU1sFURdDCw4USkMLTVcbAl9XRBEOCAhVEBdaWgxVA1gMDAElUxZQXVs=","queueTime":2,"applicationTime":486,"atts":"QhBUQwpCTR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
+</body>
+</html>

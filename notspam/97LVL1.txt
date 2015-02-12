@@ -1,0 +1,1652 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9 is-ie"> <![endif]-->
+<!--[if IE 9]> <html class="no-js is-ie"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+<!--
+	generated 184 seconds ago
+	generated in 0.576 seconds
+	served from batcache in 0.004 seconds
+	expires in 116 seconds
+-->
+<head>
+<meta charset="utf-8">
+<title>TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!--[if lt IE 9]><script src="https://s0.wp.com/wp-content/themes/vip/time2014/js/dist/html5shiv.js"></script><![endif]-->
+<script>
+window._sf_async_config = {};
+window._sf_async_config.uid = 3088;
+window._sf_async_config.domain = 'time.com';
+window._sf_async_config.useCanonical = false;
+</script>
+
+<meta name="description" content="Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news." />
+<meta name="keywords" content="TIME.com, Breaking news, Politics, world news, photos, video, tech reviews, health, science and entertainment news." />
+		<script src='https://r-login.wordpress.com/remote-login.php?action=js&amp;host=time.com&amp;id=1359921&amp;t=1423725965&amp;back=http%3A%2F%2Ftime.com%2F' type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="canonical" href="http://time.com/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??-eJx9jdsKgCAQRH8oWxTp8hB9i9hSlmtLGv1+GvQWvc0M5zBwsbB7SBgS0CnYn7MLEbzbMMKKiY3dxNNqG2MF37jdD8w7sUmFIJycQY+UsT+NuHmtEpf89dyMNEitpGr7Tsv1BqT3O1E=' type='text/css' media='all' />
+<link rel='stylesheet' id='time-app-css'  href='https://s0.wp.com/wp-content/themes/vip/time2014/css/screen.css?m=1423678249g&#038;ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s2.wp.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WL8ss0C/JzE01MjA00U8uLtZPTCnWA9I6+kSoBXF0c1LTSooSM3OI15VfkJlMtOqCnNL0zDywm+xzbQ1NjIwsLQ0NTI2zAKUrSDQ=' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='ie8-and-down-css'  href='https://s0.wp.com/wp-content/themes/vip/time2014/css/ie8-and-down.css?m=1420652704g&#038;ver=4.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-4' href='https://s0.wp.com/_static/??-eJx9jtsOAiEMRH9IrCAvPhg/xbCksjWFkqWr8e/FS7zExLeZzpxm4FxNlKJYFHTEjA1OVEEpo1tZD7E1aBUjBd43lemy7JcFEBRR6mB7iUfw8S7PpvKcqHcSimGJQUnKlzEHDjT9QyccWFKX6b7lbX+g5/zRQ2IZAt8Ku7y13q2ds85ujlclnFbr' type='text/css' media='all' />
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyFkNEKwjAMRX/IrnYMpw/it9QtztQ1rU224b7eDhQUhT0FkpN74OopqiaQAIl2rH04Yw9qYEi2yzuFdAmF443OHFLTDy3wArr7AOnxGquA8tglK1B4pDf8YY2BxQNzVv65fquQRoRpFXMg0TY3lYBx/kmVK2SfHjFqQQ/l1lRLRIssuYIWEuGc8tPJH01lynpfH3aVewKJRG8g'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://timedotcom.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://ti.me/nACNOw' />
+<link rel="shortcut icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16" sizes="16x16" />
+<link rel="icon" type="image/x-icon" href="http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16" sizes="16x16" />
+<link rel="apple-touch-icon-precomposed" href="http://0.gravatar.com/blavatar/2cee445ea71a179ffd35ea91cf154905?s=114" />
+<link rel='openid.server' href='http://timedotcom.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://timedotcom.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://time.com/osd.xml" title="TIME" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="TIME"/>
+<meta name="twitter:title" content="TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews"/>
+<meta name="twitter:image:src" content="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-logo-og.png"/>
+<meta property="fb:app_id" content="53177223193"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://time.com/"/>
+<meta property="og:site_name" content="TIME.com"/>
+<meta property="og:image" content="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-logo-og.png"/>
+<meta property="og:title" content="TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews"/>
+<meta name="application-name" content="TIME" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://time.com/feed/;icon-uri=http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16" /><style type="text/css" id="syntaxhighlighteranchor"></style>
+<script>window.Time = {"api_url":"http:\/\/time.com\/api\/","authenticated":0,"branding":"time","developer_mode":0,"device":"desktop","home_url":"http:\/\/time.com","posts_per_page":10,"template_uri":"https:\/\/s0.wp.com\/wp-content\/themes\/vip\/time2014","tab_data":{"default":{"tabs":[{"label":"Latest","omniture":"nav-latest","env":"rail","href":"\/","silent":true},{"label":"Magazine","omniture":"nav-magazine","env":"magazine","href":"\/magazine\/"},{"label":"Videos","omniture":"nav-video","env":"videos","href":"\/videos\/"}],"search_url":"http:\/\/search.time.com\/results.html","money":[]},"collection":{"tabs":[{"label":"Today's Influencers","omniture":"nav-influencers","env":"influencers"},{"label":"Time 100","omniture":"nav-100","env":"100"}]}}};
+(function (d) {
+	var config = {
+			kitId: 'cfk1lij',
+			scriptTimeout: 3000
+		},
+		h = d.documentElement, t = setTimeout(function () {
+			h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive";
+		}, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a;
+	h.className += " wf-loading";
+	if (window.location.protocol === 'https:') {
+		tk.src = 'https://a248.e.akamai.net/f/1016/21600/2d/fonts.timeinc.net/' + config.kitId + '.js';
+	} else {
+		tk.src = 'http://fonts.timeinc.net/' + config.kitId + '.js';
+	};
+	tk.async = true;
+	tk.onload = tk.onreadystatechange = function () {
+		a = this.readyState;
+		if (f || a && a != "complete" && a != "loaded")return;
+		f = true;
+		clearTimeout(t);
+		try {
+			Typekit.load(config)
+		} catch (e) { }
+	};
+	s.parentNode.insertBefore(tk, s)
+})(document);
+</script>
+<link rel="shortcut icon" href="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-favicon.ico"><link rel="apple-touch-icon" href="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_76.png"><link rel="apple-touch-icon" sizes="76x76" href="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_76.png"><link rel="apple-touch-icon" sizes="120x120" href="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_120.png"><link rel="apple-touch-icon" sizes="152x152" href="https://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_152.png"></head>
+<body class="home blog mp6 typekit-enabled customizer-styles-applied is-signed-out highlander-enabled highlander-light time-branding">
+<div class="print-mode"></div>
+	<script>
+		(function ($) {
+			if (window.history && history.pushState) { return; }
+			$('body').addClass('hidden');
+			var hash_matches,
+				regex = /^(money)\//,
+				w = window,
+				w_location = w.location,
+				w_pathname = w_location.pathname,
+				w_hash = w_location.hash;
+			if (w_pathname !== '/' && w_hash.length < 0) {
+				w_location = Time.home_url + '#' + w_pathname.substring(1);
+				return;
+			}
+			if (w_hash !== '#' && w_hash.length > 0) {
+				hash_matches = w_hash.slice(1).match(regex)
+				if (hash_matches) {
+					Time.branding = hash_matches[1];
+					$('#time-app-css').attr('href', Time.template_uri + '/css/screen.' + Time.branding + '.css');
+				}
+				else { Time.branding = 'time'; }
+			}
+		})(jQuery);</script>
+
+<script>var s_account = "timecom";</script>
+<script src="http://img.timeinc.net/tii/omniture/h/config/time_s_code_multivideo.js" defer></script>
+
+<div id="nativo-trigger"></div>
+<header class="main-header" role="banner">
+    <div class="hat_container">
+        <div id="time_inc_hat">
+            <script>
+            jQuery(document).ready(function($) {
+                if (typeof TimeHatConfig === 'function') {
+                    TimeHatConfig('time');
+                }
+            });
+            </script>
+        </div>
+    </div>
+    <div class="left-rail-header" role="banner">
+        <a class="header-nav-button time-icons time-icons-menu"
+data-bypass="true" title="Click to show site navigation"></a>
+<div class="logo-wrap" itemscope itemtype="http://schema.org/Organization">
+        <a itemprop="url" href="http://time.com/" class="logo">
+        <img itemprop="logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAREAAABaCAMAAACoopKnAAAC6FBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8u4OzqAAAA93RSTlMAwKBAINAw8LBQ4GAQcAGQgO78bvn+s6YYrOSdAvsND93qmAUt+EJdZf1KxZPK0x1TCvTWCCcH3Mx3xrfY8hLzTfZtDpwiQ7HN7yaOXMkzb1hm44qMqZvsl7iSemk4x6WW33aLvB9H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" alt="TIME" />
+                <h1>Time.com</h1>
+            </a>
+    <span class="sign-sub-wrapRail">
+		<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1019480.html">Subscribe</a>
+	</span>
+    </div>
+        <nav class="main-nav" role="navigation">
+
+			<div class="login-nav-wrapper">
+			<a class="login-nav-item sign-in" href="#" data-event="nav-login">Sign In</a>
+			<a class="login-nav-item sign-out" href="https://auth.time.com/logout.php?turl=http://time.com/" data-event="nav-login">Sign Out</a>
+		</div>
+	
+	
+	<div class="tertiary-vertical-nav">
+		<div id="main-time-nav" role="navigation">
+
+										<a class="main-nav-section" href="http://time.com/" aria-controls="rail-articles" data-event="nav-home">
+					<span>Home</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/us/" aria-controls="rail-articles" data-event="nav-us">
+					<span>U.S.</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/politics/" aria-controls="rail-articles" data-event="nav-politics">
+					<span>Politics</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/world/" aria-controls="rail-articles" data-event="nav-world">
+					<span>World</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/business/" aria-controls="rail-articles" data-event="nav-business">
+					<span>Business</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/tech/" aria-controls="rail-articles" data-event="nav-tech">
+					<span>Tech</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/health/" aria-controls="rail-articles" data-event="nav-health">
+					<span>Health</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/science/" aria-controls="rail-articles" data-event="nav-science">
+					<span>Science</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/entertainment/" aria-controls="rail-articles" data-event="nav-entertainment">
+					<span>Entertainment</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/newsfeed/" aria-controls="rail-articles" data-event="nav-newsfeed">
+					<span>Newsfeed</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/living/" aria-controls="rail-articles" data-event="nav-living">
+					<span>Living</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/sports/" aria-controls="rail-articles" data-event="nav-sports">
+					<span>Sports</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/history/" aria-controls="rail-articles" data-event="nav-h  istory">
+					<span>History</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/vault/" aria-controls="rail-articles" data-event="nav-vault">
+					<span>The TIME Vault</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/magazine/" aria-controls="rail-articles" data-event="nav-magazine">
+					<span>Magazine</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/ideas/" aria-controls="rail-articles" data-event="nav-ideas">
+					<span>Ideas</span>
+				</a>
+				<a class="main-nav-section" href="http://time.com/parents/" aria-controls="rail-articles" data-event="nav-parents">
+					<span>Parents</span>
+				</a>
+					</div>
+
+		<div class="main-nav-vertical">
+
+							<a href="http://time.com/money/" id="nav-money" aria-controls="rail-articles" data-event="nav-money" data-bypass="true">
+					<span>Money</span>
+				</a>
+			
+			<a href="http://time.com/photography/life/" id="nav-life" aria-controls="rail-articles" data-event="nav-life" data-bypass="true">
+				<span>LIFE</span>
+			</a>
+			<a href="http://www.dailycut.com/" id="nav-dailycut" aria-controls="rail-articles" data-event="nav-dailycut" data-bypass="true">
+				<span>The Daily Cut</span>
+			</a>
+		</div>
+	</div>
+
+	
+		<div class="main-nav-media">
+			<a href="http://time.com/photography/" aria-controls="rail-articles" data-event="nav-photography">
+				<span>Photography</span>
+				<span class="time-icons time-icons-photo"></span>
+			</a>
+			<a href="http://time.com/videos/" aria-controls="rail-articles" data-event="nav-video">
+				<span>Videos</span>
+				<span class="time-icons time-icons-video"></span>
+			</a>
+		</div>
+
+		<div class="tertiary-nav-wrapper tertiary-nav-special">
+			<a href="http://time.com/time-person-of-the-year-ebola-fighters-choice/">Person of the Year 2014</a>
+<a href="http://time.com/collection/top-10-everything-of-2014/">Top 10 Everything of 2014</a>
+<a href="http://time.com/collection/next-generation-leaders/">Next Generation Leaders</a>
+<a href="http://time.com/topic/above-and-beyond/">Above and Beyond</a>
+<a href="http://time.com/tag/know-right-now/">Know Right Now</a>
+<a href="http://time.com/3661720/how-a-high-schooler-made-it-to-the-state-of-the-union/">The Climb</a>
+<a href="http://time.com/collection/nantucket-project/">The Nantucket Project</a>
+<a href="http://time.com/collection/2014-time-100/">TIME 100</a>
+<a href="http://time.com/topic/time-explains/">TIME Explains</a>
+<a href="http://time.com/world-trade-center/">Top of the World</a>
+		</div>
+
+	
+	<div class="main-nav-social">
+				<a href="http://www.facebook.com/time" class="time-icons time-icons-fb" data-event="nav-fb"></a>
+		<a href="http://www.twitter.com/time" class="time-icons time-icons-tw" data-event="nav-twitter"></a>
+		<a href="http://plus.google.com/+TIME/posts" rel="publisher" class="time-icons time-icons-gplus" data-event="nav-gplus"></a>
+		<a href="http://timemagazine.tumblr.com/" class="time-icons time-icons-tumblr" data-event="nav-tumblr"></a>
+			</div>
+
+
+		<div class="tertiary-nav-wrapper">
+		<a class="legal-nav-item" href="https://subscription.time.com/storefront/subscribe-to-time/link/1023466.html" data-event="nav-subscribe">Subscribe</a>
+		<a class="legal-nav-item" href="http://ebm.cheetahmail.com/r/regf2?a=0&aid=1078532063&n=1&TIME_SOURCE=Time_footer" data-event="nav-newsletters">Newsletters</a>
+		<a class="legal-nav-item" href="mailto:feedback@time.com" data-event="nav-feedback">Feedback</a>
+		<a class="legal-nav-item" href="http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/time?dnp_source=E" data-event="nav-privacy">Privacy Policy</a>
+		<a class="legal-nav-item" href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california" data-event="nav-cal-privacy">Your California Privacy Rights</a>
+		<a class="legal-nav-item" href="http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/time" data-event="nav-terms">Terms of Use</a>
+		<a class="legal-nav-item" href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html" data-event="nav-ad-choices">Ad Choices <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAMAAACq939wAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAECAwQFBgcICPn6+/z9/vIxqCigAAAFZJREFUCB0FwQECwiAMBLCw4axS4f7/WhMn3wtAknwGIL/ZOTVAmmdnP5D2ZNbJnqTda7hW8pX2zs21E2mVOSrZU1plnewHaZWcGpDT1TWAJC8Aa90A/nKrBC08aQTRAAAAAElFTkSuQmCC" alt="Ad Choices"></a>
+	</div>
+
+	<div class="tertiary-nav-wrapper">
+		<a class="legal-nav-item" href="http://content.time.com/time/rss" data-event="nav-rss">RSS</a>
+		<a class="legal-nav-item" href="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-learnmore1111/lp.html" data-event="nav-apps">TIME Apps</a>
+		<a class="legal-nav-item" href="http://www.timeforkids.com/TFK/" data-event="nav-tfk">TIME for Kids</a>
+		<a class="legal-nav-item" href="http://www.timemediakit.com/" data-event="nav-mk">Media Kit</a>
+		<a class="legal-nav-item" href="http://www.timeincnewsgroupcustompub.com/" data-event="nav-ads">Advertising</a>
+		<a class="legal-nav-item" href="http://content.time.com/time/reprints" data-event="nav-reprints">Reprints and Permissions</a>
+		<a class="legal-nav-item" href="http://content.time.com/time/static/sitemap/" data-event="nav-sitemap">Site Map</a>
+		<a class="legal-nav-item" href="http://subscription-assets.time.com/prod/assets/themes/magazines/SUBS/templates/velocity/site/td-learnmore0711/faq.html" data-event="nav-help">Help</a>
+		<a class="legal-nav-item" href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSM%20%20%20%20%20AG=TD" data-event="nav-contact">Customer Service</a>
+		<span class="copywrite legal-nav-item">&copy; 2015 Time Inc. All rights reserved.</span>
+	</div>
+	
+
+</nav>
+    </div>
+    <div id="sub-ad" data-cb-ad-id="sub-ad"></div>
+    <div class="section-rail-tabs"></div>
+    <section class="top-banner">
+
+        <div class="home-banner">
+    <div id="home-banner-ad" data-cb-ad-id="home-banner-ad"></div>
+</div>
+    </section>
+
+    
+</header>
+<div id="notTheHeader">
+	<div class="wrapper">
+		<div class="pushdowns">
+			<div id="pushdown-ad"></div>
+			<div class="magazine-cover"></div>
+		</div>
+			<aside class="leftRailWrapper">
+		<div class="left-rail">
+			<section class="rail-articles" id="rail-articles" aria-live="polite" role="region">
+				<nav class="rail-articles-scroll">
+					<div id="section-sub-ad"></div>
+					<section class="article-list">
+																			<div class="market-wrap">
+								<div class="market-data-module"></div>
+								<div class="market-data-footer">
+									<div id="market-data-sponsor" data-cb-ad-id="market-data-sponsor"></div>
+								</div>
+							</div>
+												<h2 class="rail-list-heading">Just Posted</h2><div class="rail-article format-video has-icon has-thumbnail " data-article="3706470">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i2.wp.com/timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-12-at-11-33-35-am.png?crop=414px%2C74px%2C169px%2C169px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706470/speed-dating-valentines-ford-mustang-female-stunt-driver/" data-event="tile">Watch This Woman Prank Unsuspecting Dates With Her Mad Rally Driving Skills</a>
+			<time datetime="2015-02-12 06:56:39">1:56 AM ET</time>
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><div class="rail-article format-video has-icon has-thumbnail " data-article="3706441">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-12-at-10-58-53-am.png?crop=190px%2C3px%2C281px%2C281px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706441/man-from-uncle-trailer/" data-event="tile">Watch the First Trailer for Guy Ritchie’s Reboot of <i>The Man from U.N.C.L.E.</i></a>
+			<time datetime="2015-02-12 06:25:02">1:25 AM ET</time>
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3706501">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i1.wp.com/timedotcom.files.wordpress.com/2015/02/462748372.jpg?crop=199px%2C36px%2C311px%2C311px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706501/india-narendra-modi-temple-god/" data-event="tile">Indian Prime Minister Narendra Modi Is Now Being Worshipped Like a God</a>
+			<time datetime="2015-02-12 06:01:19">1:01 AM ET</time>
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-article  has-thumbnail " data-article="3702054">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/money-smile.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3702054/how-money-can-buy-happiness/" data-event="tile">8 Ways That Money Can Buy Happiness</a>
+			<time datetime="2015-02-12 05:01:20">12:01 AM ET</time>
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3706452">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/186398208.jpg?crop=18px%2C88px%2C1981px%2C1981px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706452/60-minutes-bob-simon-dead-crash/" data-event="tile"><i>60 Minutes</i> Correspondent Bob Simon Has Been Killed in a Car Crash</a>
+			<time datetime="2015-02-12 04:37:35">2/11</time>
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3706422">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/anthony-mason-new-york-knicks.jpg?crop=548px%2C64px%2C485px%2C486px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706422/anthony-mason-heart-attack-new-york-knicks/" data-event="tile">Former NBA All-Star Anthony Mason Is &#8216;Fighting for His Life&#8217;</a>
+			<time datetime="2015-02-12 04:18:32">2/11</time>
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3706434">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/133281966.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706434/cella-tweet-fired-texas-jets-pizza/" data-event="tile">A Texas Teenager Got Fired for a Tweet Before Starting Her Job</a>
+			<time datetime="2015-02-12 03:36:28">2/11</time>
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-video has-icon has-thumbnail " data-article="3706429">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/ap404124197742.jpg?crop=961px%2C211px%2C1344px%2C1344px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706429/comedy-central-jon-stewart-successor-replacement/" data-event="tile">Comedy Central Has a Short List of People Who Could Succeed Jon Stewart</a>
+			<time datetime="2015-02-12 03:23:47">2/11</time>
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><div class="rail-article format-article  has-thumbnail " data-article="3706411">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i1.wp.com/timedotcom.files.wordpress.com/2015/02/dating-app-cyber-attack.jpg?crop=283px%2C230px%2C309px%2C309px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706411/dating-apps-company-phone-cyber-attacks/" data-event="tile">This Is Why It&#8217;s Risky to Use a Dating App on Your Company Device</a>
+			<time datetime="2015-02-12 03:02:35">2/11</time>
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-video has-icon has-thumbnail " data-article="3706418">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/fifty-shades.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706418/fifty-shades-of-grey-50-el-james-reviews-critics-valentine/" data-event="tile">What Critics Are Saying About <i>Fifty Shades of Grey</i></a>
+			<time datetime="2015-02-12 02:25:03">2/11</time>
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><h2 class="rail-list-heading">Newsfeed</h2><div class="rail-article format-video has-icon has-thumbnail " data-article="3706470">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i2.wp.com/timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-12-at-11-33-35-am.png?crop=414px%2C74px%2C169px%2C169px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706470/speed-dating-valentines-ford-mustang-female-stunt-driver/" data-event="tile">Watch This Woman Prank Unsuspecting Dates With Her Mad Rally Driving Skills</a>
+			
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3706501">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i1.wp.com/timedotcom.files.wordpress.com/2015/02/462748372.jpg?crop=199px%2C36px%2C311px%2C311px&amp;resize=74%2C74&amp;quality=65&amp;strip=color"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706501/india-narendra-modi-temple-god/" data-event="tile">Indian Prime Minister Narendra Modi Is Now Being Worshipped Like a God</a>
+			
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3706434">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/133281966.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3706434/cella-tweet-fired-texas-jets-pizza/" data-event="tile">A Texas Teenager Got Fired for a Tweet Before Starting Her Job</a>
+			
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-video has-icon has-thumbnail " data-article="3705768">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-11-at-3-37-18-pm.png?w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3705768/family-feud-awkward-gerbil/" data-event="tile"><i>Family Feud</i> Got Really Awkward After This Answer</a>
+			
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><div class="rail-article format-article  has-thumbnail " data-article="3705332">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/01/iphone-social-apps-whatsapp.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3705332/meet-willow-the-dating-app-that-wont-judge-you-by-your-looks/" data-event="tile">Meet Willow, the Dating App That Won’t Judge You By Your Looks</a>
+			
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-video has-icon has-thumbnail " data-article="3705761">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-11-at-4-22-31-pm.png?w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3705761/flipbook-marriage-proposal/" data-event="tile">Watch an Adorable Flip-book End in a Surprise Proposal</a>
+			
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div><div class="rail-article format-article  has-thumbnail " data-article="3704782">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/469633519.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3704782/michael-chabon-kendrick-lamar-blacker-the-berry/" data-event="tile">A Pulitzer Prize Winner Just Annotated Kendrick Lamar&#8217;s New Song on Genius</a>
+			
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-article  has-thumbnail " data-article="3705183">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/150678628.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3705183/college-students-iphone-study/" data-event="tile">College Students Prefer Their iPhones Over Sex and Beer</a>
+			
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-brief  has-thumbnail " data-article="3705394">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/david-moore-yoga.jpg?quality=65&amp;strip=color&amp;w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3705394/montana-yoga-pants-ban/" data-event="tile">Montana Lawmaker Wants to Ban Yoga Pants</a>
+			
+		</h3>
+		
+		
+	</div>
+	
+</div><div class="rail-article format-video has-icon has-thumbnail " data-article="3704867">
+	<div class="content">
+		<img class="rail-article-photo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-11-at-9-38-38-am.png?w=74&amp;h=74&amp;crop=1"/>
+		<h3 class="rail-article-title">
+			<a class="article-permalink" href="http://time.com/3704867/american-kids-breakfast-foods/" data-event="tile">Watch American Kids&#8217; Hilarious Reactions to Breakfast Foods From Around the World</a>
+			
+		</h3>
+		
+		<span class="tile-icon time-icons time-icons-video"></span>
+	</div>
+	
+</div>					</section>
+
+					<div class="scroll-for-more"><span>SCROLL TO SEE MORE</span></div>
+					<div class="infinite-scroll-loader">
+						<img id="loader-light" src="data:image/gif;base64,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" alt="Loading"/>
+					</div>
+				</nav>
+			</section>
+		</div>
+	</aside>
+		<div class="readingpane">
+			<section class="article-viewport" role="main" aria-live="assertive" data-cb-scroll-element="1">
+				<div class="topic-banner"></div>
+				<div class="wrapper">
+					<div class="home-container">
+												<div class="home-center main-content-top home-center-without-lead">
+	<section class="home-brief layout-normal-split">
+	<h3 class="the-brief-header"><span>The</span> Brief</h3>
+
+	<div class="articles">
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3706387/north-carolina-chapel-hill-vigil/" data-video="&lt;div class=&quot;video-wrapper&quot; data-pos=&quot;1&quot; data-continuous=&quot;1&quot;&gt;&lt;object id=&quot;bc-video-4045784873001-1&quot; class=&quot;BrightcoveExperience&quot;&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#000000&quot;&gt;&lt;param name=&quot;width&quot; value=&quot;100%&quot;&gt;&lt;param name=&quot;height&quot; value=&quot;100%&quot;&gt;&lt;param name=&quot;playerID&quot; value=&quot;1847503743001&quot;&gt;&lt;param name=&quot;isVid&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;isUI&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;dynamicStreaming&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;videoSmoothing&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;autoStart&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;linkBaseURL&quot; value=&quot;http://ti.me/1KNLRdL&quot;&gt;&lt;param name=&quot;includeAPI&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;templateLoadHandler&quot; value=&quot;TIME_onTemplateLoad&quot;&gt;&lt;param name=&quot;templateReadyHandler&quot; value=&quot;TIME_onTemplateReady&quot;&gt;&lt;param name=&quot;wmode&quot; value=&quot;opaque&quot;&gt;&lt;param name=&quot;htmlFallback&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;@videoPlayer&quot; value=&quot;4045784873001&quot;&gt;&lt;/object&gt;&lt;/div&gt;"
+				data-event="the-brief">
+				<img src="https://timedotcom.files.wordpress.com/2015/02/chapel-hill-vigil.jpg?quality=65&amp;strip=color&amp;w=321&amp;h=180&amp;crop=1" alt="Namee Barakat (center) and his wife Layla (right) break into tears while watching a photo presentation during a vigil for his daughters on Feb. 11, 2015, in Chapel Hill, N.C."
+					 srcset="https://timedotcom.files.wordpress.com/2015/02/chapel-hill-vigil.jpg?quality=65&amp;strip=color&amp;w=642&amp;h=360&amp;crop=1 600w"/>
+				<span class="time-icons time-icons-next-outline home-brief-video-icon"></span>
+			</a>
+			<figcaption class="image-caption">
+				<span class="credit">Chuck Liddy—Raleigh News/TNS/Getty Images</span>
+			</figcaption>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-video "><a href="http://time.com/3706387/north-carolina-chapel-hill-vigil/" data-event="the-brief">UNC Mourns 3 Dead Students</a>
+		</h2>
+		<p class="home-excerpt">
+			A large crowd gathered at the University of North Carolina, Chapel Hill, campus on Wednesday to mourn the loss of Deah Barakat, 23; his wife Yusor Abu-Salha, 21; and her sister Razan Abu-Salha, 19, three Muslim students shot near campus on Tuesday
+		</p>
+
+
+		<div class="related-lead-articles ">
+			
+			
+			<div class="red-bullet">
+				<h3 class="home-icons-brief "><a href="http://time.com/3704968/muslimlivesmatter-viral/"
+																					  data-event="the-brief">#MuslimLivesMatter Goes Viral in Aftermath of Triple Homicide</a>
+				</h3>
+				
+			</div>
+			
+			
+			
+			
+			<div class="red-bullet">
+				<h3 class="home-icons-video "><a href="http://time.com/3704759/muslim-students-murdered-chapel-hill/"
+																					  data-event="the-brief">3 Muslim Students Murdered in North Carolina</a>
+				</h3>
+				
+			</div>
+			
+			
+			
+			
+			<div class="red-bullet">
+				<h3 class="home-icons-video "><a href="http://time.com/3705602/muslim-students-north-carolina/"
+																					  data-event="the-brief">Know Right Now: Muslim Students Murdered</a>
+				</h3>
+				
+			</div>
+			
+			
+		</div>
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3706367/tesla-sputters-in-fourth-quarter-with-weak-sales/" 
+				data-event="the-brief">
+				<img data-src="http://i2.wp.com/timedotcom.files.wordpress.com/2015/02/tesla.jpg?crop=938px%2C355px%2C2144px%2C2145px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="Inside The 2015 North American International Auto Show (NAIAS)"
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-article "><a href="http://time.com/3706367/tesla-sputters-in-fourth-quarter-with-weak-sales/" data-event="the-brief">Tesla Hits a Speed Bump </a>
+		</h2>
+		<p class="home-excerpt">
+			The luxury electric automaker missed expectations on revenues and earnings, selling fewer cars than expected and reporting a loss
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3705887/obama-aumf-military-authorization-isis/" 
+				data-event="the-brief">
+				<img data-src="https://timedotcom.files.wordpress.com/2015/02/obama-isis2.jpg?quality=65&amp;strip=color&amp;w=100&amp;h=100&amp;crop=1" alt="President Barack Obama delivers remarks on legislation he sent to Congress to authorize the use of military force against the Islamic State ISIS Kerry (right) at the White House in Washington on Feb. 11, 2015."
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-video "><a href="http://time.com/3705887/obama-aumf-military-authorization-isis/" data-event="the-brief">Obama: ISIS Is 'Going to Lose'</a>
+		</h2>
+		<p class="home-excerpt">
+			President Obama said ISIS is “going to lose” during statements Wednesday about the war powers request he sent to Congress
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3705762/congress-keystone-veto/" 
+				data-event="the-brief">
+				<img data-src="http://i1.wp.com/timedotcom.files.wordpress.com/2015/02/john-boehner2.jpg?crop=952px%2C0px%2C2068px%2C2068px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="Speaker Boehner Speaks on Obama's Proposal for War Authorization and Keystone XL Pipeline"
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-article "><a href="http://time.com/3705762/congress-keystone-veto/" data-event="the-brief">Congress Passes Keystone Bill, Sets Up First Veto in 5 Years</a>
+		</h2>
+		<p class="home-excerpt">
+			Congress passed a bill to authorize the Keystone XL pipeline, setting up the first veto since 2010 and only the third in the Obama presidency. The pipeline would help link up to 830,000 Alberta barrels a day down to Gulf Coast oil refineries
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+	<div class="newsletter-shortcode the-brief home-brief-signup">
+	<form action="https://ebm.cheetahmail.com/r/regf2" method="post" target="time_brief_popup"
+		  onsubmit="window.open(this.action, 'time_brief_popup', 'width=486,height=250');">
+		<label class="intro">
+			<small>Sign Up for</small>
+			<span class="no-wrap">THE <strong class="time-red">BRIEF</strong></span>
+			<small class="and-more">and more</small>
+			<small class="example"><a href="http://time.com/newsletter/the-brief/" target="_blank">view example</a></small>
+		</label>
+		<input type="hidden" name="n" value="4">
+		<input name="aid" type="hidden" value="1078532063">
+		<input type="hidden" name="fsub" value="2095224265">
+		<input type="hidden" name="TIME_SOURCE" value="Time_Brief_Widget">
+		<input type="hidden" name="re" value="http://f.time.chtah.net/i/30/1078532063/thanks.html">
+		<input type="text" class="text input-field email" name="email" placeholder="Email">
+		<input type="submit" class="submit button" value="Submit">
+	</form>
+	</div>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3706452/60-minutes-bob-simon-dead-crash/" 
+				data-event="the-brief">
+				<img data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/186398208.jpg?crop=18px%2C88px%2C1981px%2C1981px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="&quot;The Armstrong Lie&quot; New York Premiere"
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-brief "><a href="http://time.com/3706452/60-minutes-bob-simon-dead-crash/" data-event="the-brief"><i>60 Minutes</i> Correspondent Bob Simon Killed in Car Crash</a>
+		</h2>
+		<p class="home-excerpt">
+			Bob Simon, the award-winning CBS News reporter and correspondent for the network's iconic <i>60 Minutes</i> news show, was killed in a car accident on Wednesday night. The accident took place in New York City, according to a report from CBS. Simon was 73 years old
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3706429/comedy-central-jon-stewart-successor-replacement/" 
+				data-event="the-brief">
+				<img data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/ap404124197742.jpg?crop=961px%2C211px%2C1344px%2C1344px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="In this Nov. 7, 2014 photo, Jon Stewart poses for a portrait in New York"
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-video "><a href="http://time.com/3706429/comedy-central-jon-stewart-successor-replacement/" data-event="the-brief">Comedy Central Ponders Jon Stewart's Replacement</a>
+		</h2>
+		<p class="home-excerpt">
+			Comedy Central is pondering over a “short list” of prospective candidates to replace Jon Stewart on <i>The Daily Show</i>. No details about the list have been released. However, Viacom president Doug Herzog was quick to quash speculation that John Oliver might be a candidate
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3705995/house-of-cards-season-3-netflix-early/" 
+				data-event="the-brief">
+				<img data-src="http://i2.wp.com/timedotcom.files.wordpress.com/2015/02/hoc_ps2_002_h.jpg?crop=366px%2C101px%2C980px%2C981px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt=""
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-brief "><a href="http://time.com/3705995/house-of-cards-season-3-netflix-early/" data-event="the-brief"><i>House of Cards</i> Season 3 Briefly Shows Up on Netflix Early</a>
+		</h2>
+		<p class="home-excerpt">
+			Season 3 of <i>House of Cards</i> made a surprise debut on Netflix on Wednesday, before disappearing again just as suddenly. Netflix had announced that the political drama would premiere on Feb. 27 on its site, but the first 10 episodes (of 13) appeared early
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3705676/tiger-woods-golf-leave/" 
+				data-event="the-brief">
+				<img data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/462816200.jpg?crop=1418px%2C343px%2C1228px%2C1227px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="during the first round of the Farmers Insurance Open at Torrey Pines Golf Course on February 5, 2015 in La Jolla, California."
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-article "><a href="http://time.com/3705676/tiger-woods-golf-leave/" data-event="the-brief">Tiger Woods to Take a Break From Golf</a>
+		</h2>
+		<p class="home-excerpt">
+			The golfer announced in a statement Wednesday that he would take indefinite leave from the game, after his world ranking, 62, dropped to its lowest point since he went pro in 1996. "My play, and scores, are not acceptable for tournament golf," he said
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3703968/spacex-falcon-launch/" 
+				data-event="the-brief">
+				<img data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/spacex-falcon-9-launch-2015-dscovr.jpg?crop=638px%2C540px%2C1215px%2C1215px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="The unmanned Falcon 9 rocket, launched by SpaceX and carrying NOAA's Deep Space Climate Observatory Satellite, lifts off from launch pad 40 at the Cape Canaveral Air Force Station in Cape Canaveral, Fla., on Feb. 11, 2015."
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-video "><a href="http://time.com/3703968/spacex-falcon-launch/" data-event="the-brief">SpaceX Makes It Third Time Lucky</a>
+		</h2>
+		<p class="home-excerpt">
+			The company successfully launched its first deep-space mission Wednesday evening, after two aborted launches in recent days. The Falcon 9 rocket deployed a satellite that will take up position almost a million miles from Earth.
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3704854/sudan-rape-human-rights-watch-report/" 
+				data-event="the-brief">
+				<img data-src="http://i2.wp.com/timedotcom.files.wordpress.com/2015/02/sudan.jpg?crop=903px%2C103px%2C1612px%2C1612px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="A woman rides a donkey past a convoy of government troops in Tabit village in the North Darfur region of Sudan, Nov, 2014."
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-article "><a href="http://time.com/3704854/sudan-rape-human-rights-watch-report/" data-event="the-brief">Sudanese Government Denies Mass Military Rape</a>
+		</h2>
+		<p class="home-excerpt">
+			In an interview with TIME, Sudanese Foreign Minister Ali Ahmed Karti categorically denied the findings of a Human Rights Watch investigation that Sudanese army troops raped at least 221 women and girls during a 36-hour attack on the Darfur town of Tabit
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3706349/oregon-john-kitzhaber-ethics-resign/" 
+				data-event="the-brief">
+				<img data-src="http://i0.wp.com/timedotcom.files.wordpress.com/2015/02/136755747.jpg?crop=111px%2C88px%2C1933px%2C1933px&amp;resize=100%2C100&amp;quality=65&amp;strip=color" alt="President Obama Hosts Insourcing American Jobs Forum At The White House"
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-brief "><a href="http://time.com/3706349/oregon-john-kitzhaber-ethics-resign/" data-event="the-brief">Oregon Governor Says He Won't Resign Over Probe</a>
+		</h2>
+		<p class="home-excerpt">
+			Governor John Kitzhaber is facing calls to stand down over claims that his fiancée Cylvia Hayes used his office to land contracts for her clean-energy-consulting business. Kitzhaber has denied any wrongdoing and says he'll stay in office
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+		<article class="home-brief-article border-separated-article home-brief-normal-split has-hero">
+			<figure class="home-brief-hero">
+				<a href="http://time.com/3705583/costa-concordia-captain-sentenced/" 
+				data-event="the-brief">
+				<img data-src="https://timedotcom.files.wordpress.com/2015/02/costa-concordia.jpg?quality=65&amp;strip=color&amp;w=100&amp;h=100&amp;crop=1" alt="Italy Shipwreck Trial"
+					 src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"/>
+			</a>
+		</figure>
+
+
+	<div class="home-brief-title-and-excerpt">
+		<h2 class="home-icons-article "><a href="http://time.com/3705583/costa-concordia-captain-sentenced/" data-event="the-brief"><i>Costa Concordia</i> Captain Sentenced to 16 Years in Prison</a>
+		</h2>
+		<p class="home-excerpt">
+			The captain of the capsized Costa Concordia cruise ship was convicted and sentenced Wednesday to 16 years and one month in prison for multiple counts of manslaughter, causing a shipwreck and abandoning ship in the 2012 disaster that killed 32 people
+		</p>
+
+
+
+	</div>
+	
+
+</article>
+</div>
+</section>
+<div id="ad-homepage-post-brief" data-position="blwbriefsubhp" data-cmad="true" data-size="454x40" data-type="tout" class="ad-homepage-post-brief"></div>
+
+</div>
+
+<div class="right-rail right-rail-top">
+	<img src="http://img5.timeinc.net/keynote/above_the_fold_1x1.gif" style="position:absolute; left: 0; top: 0; width: 1px; height: 1px;"><section class="home-freeform home-right-rail-module">
+  <h2 class="home-module-header">Relationships</h2>
+  <div class="articles">
+    <article class="home-freeform-article border-separated-article article has-hero">
+      <figure class="home-freeform-hero">
+        <a href="http://time.com/3703865/dating-pool/">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i2.wp.com/timedotcom.files.wordpress.com/2015/02/screen-shot-2015-02-10-at-7-15-54-pm.png?crop=0px%2C7px%2C485px%2C324px&amp;resize=321%2C214&amp;quality=65&amp;strip=color" alt="" />
+        </a>
+      </figure>
+      <h3 class="medium-home-header home-icons-article "><a href="http://time.com/3703865/dating-pool/">Here&#8217;s Where You Should Live to Find Your Perfect Match</a></h3>
+      
+    </article>
+  </div>
+</section><section class="home-columnists home-right-rail-module">
+  <h2 class="home-module-header">Featured</h2>
+  <div class="articles">
+    <article class="home-columnists-article border-separated-article has-hero">
+	    <a href="http://time.com/3705013/kayla-muller-millennials-role-model/" class="home-article-thumbnail" data-event="columnists">
+		    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2014/12/charlotte-alter.jpg?quality=65&amp;strip=color&amp;w=100&amp;h=100&amp;crop=1" alt="Charlotte Alter" srcset="">
+	    </a>
+	    <div class="home-columnists-author-and-title  home-icons-article ">
+	    	<h3 class="home-columnists-author"><a href="http://time.com/author/charlotte-alter/">Charlotte Alter</a></h3>
+			<h4 class="small-home-header"><a class="home-columnists-title" href="http://time.com/3705013/kayla-muller-millennials-role-model/" data-event="columnists">What Kayla Mueller&#8217;s Life Reveals About Her Generation</a></h4>
+		</div>
+    	
+    </article>
+    <article class="home-columnists-article border-separated-article ">
+	    <div class="home-columnists-author-and-title home-columnists-author-and-title-no-hero home-icons-article ">
+	    	<h3 class="home-columnists-author"><a href="http://time.com/author/mark-thompson/">Mark Thompson</a></h3>
+			<h4 class="small-home-header"><a class="home-columnists-title" href="http://time.com/3703211/kayla-mueller-death-syria/" data-event="columnists">Kayla Mueller’s Death: Focusing on Names, Not Numbers</a></h4>
+		</div>
+    	
+    </article>
+    <article class="home-columnists-article border-separated-article ">
+	    <div class="home-columnists-author-and-title home-columnists-author-and-title-no-hero home-icons-article ">
+	    	<h3 class="home-columnists-author"><a href="http://time.com/author/ian-bremmer/">Ian Bremmer</a></h3>
+			<h4 class="small-home-header"><a class="home-columnists-title" href="http://time.com/3706318/russia-us-eu-conflict-ukraine/" data-event="columnists">China Is the Big Winner in the Conflict Between Russia and the West</a></h4>
+		</div>
+    	
+    </article>
+    <article class="home-columnists-article border-separated-article ">
+	    <div class="home-columnists-author-and-title home-columnists-author-and-title-no-hero home-icons-video ">
+	    	<h3 class="home-columnists-author"><a href="http://time.com/author/eliana-dockterman/">Eliana Dockterman</a></h3>
+			<h4 class="small-home-header"><a class="home-columnists-title" href="http://time.com/3704294/jon-stewart-the-daily-show-retiring-new-host-woman/" data-event="columnists">Jon Stewart's Replacement Should Be a Woman</a></h4>
+		</div>
+    	
+    </article>
+    <article class="home-columnists-article border-separated-article ">
+	    <div class="home-columnists-author-and-title home-columnists-author-and-title-no-hero home-icons-video ">
+	    	<h3 class="home-columnists-author"><a href="http://time.com/author/james-poniewozik/">James Poniewozik</a></h3>
+			<h4 class="small-home-header"><a class="home-columnists-title" href="http://time.com/3704321/jon-stewart-daily-show-fake-news/" data-event="columnists">Jon Stewart, the Fake Newsman Who Made a Real Difference</a></h4>
+		</div>
+    	
+    </article>
+    <article class="home-columnists-article border-separated-article ">
+	    <div class="home-columnists-author-and-title home-columnists-author-and-title-no-hero home-icons-article ">
+	    	<h3 class="home-columnists-author"><a href="http://time.com/author/serena-williams-2/">Serena Williams</a></h3>
+			<h4 class="small-home-header"><a class="home-columnists-title" href="http://time.com/3694659/serena-williams-indian-wells/" data-event="columnists">I'm Going Back to Indian Wells</a></h4>
+		</div>
+    	
+    </article>
+  </div>
+</section><section class="home-magazine home-right-rail-module">
+  <h2 class="home-module-header">Magazine</h2>
+  <div class="home-magazine-current-issue border-separated-article has-hero">
+    <a href="http://time.com/3696865/starbucks-for-america/?pcd=hp-magmod" class="home-article-thumbnail"   data-event="hp-magmod" >
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"
+              data-src="https://timedotcom.files.wordpress.com/2015/02/starbucks-final.jpg?quality=65&amp;strip=color&amp;w=280" alt="Starbucks Howard Schultz Time Magazine Cover" />
+    </a>
+    <div class="home-magazine-title-and-subscribe">
+      <h3 class="medium-home-header home-icons-key"><a href="http://time.com/3696865/starbucks-for-america/?pcd=hp-magmod" data-event="money-magmod">Starbucks For America</a></h3>
+        <a class="home-magazine-subscribe" href="https://subscription.time.com/storefront/subscribe-to-time/link/1019507.html">Subscribe</a>
+    </div>
+    
+  </div>
+  <div class="home-magazine-articles">
+    <article class="home-magazine-article border-separated-article">
+      <h3 class="small-home-header home-icons-article ">
+          <a href="http://time.com/3694659/serena-williams-indian-wells/?pcd=hp-magmod"   data-event="hp-magmod" >I'm Going Back to Indian Wells</a>
+      </h3>
+      
+    </article>
+    <article class="home-magazine-article border-separated-article">
+      <h3 class="small-home-header home-icons-article home-icons-key">
+          <a href="http://time.com/3696882/leaving-standardized-testing-behind/?pcd=hp-magmod"   data-event="hp-magmod" >Leaving Standardized Testing Behind</a>
+      </h3>
+      
+    </article>
+    <article class="home-magazine-article border-separated-article">
+      <h3 class="small-home-header home-icons-article home-icons-key">
+          <a href="http://time.com/3696868/how-do-you-solve-a-problem-like-christian-grey/?pcd=hp-magmod"   data-event="hp-magmod" >How Do You Solve a Problem Like Christian Grey?</a>
+      </h3>
+      
+    </article>
+    <article class="home-magazine-article border-separated-article">
+      <h3 class="small-home-header home-icons-article home-icons-key">
+          <a href="http://time.com/3696884/in-search-of-the-real-nicki-minaj/?pcd=hp-magmod"   data-event="hp-magmod" >In Search of the Real Nicki Minaj</a>
+      </h3>
+      
+    </article>
+    <article class="home-magazine-article border-separated-article">
+      <h3 class="small-home-header home-icons-article home-icons-key">
+          <a href="http://time.com/3696864/republicans-immune-deficiency/?pcd=hp-magmod"   data-event="hp-magmod" >Republicans&#8217; Immune Deficiency</a>
+      </h3>
+      
+    </article>
+  </div>
+</section><section class="home-zergnet home-right-rail-module"><h2 class="home-module-header">WE RECOMMEND</h2><div id="zergnet-widget-26429"></div></section></div>
+
+<div id="ad-homepage-content-well" data-cb-ad-id="ad-homepage-content-well"></div>
+
+<hr>
+<div class="home-lower">
+	<section class="home-photo-of-the-day home-lower-center home-center">
+  <h2 class="home-module-header">Lightbox</h2>
+  <article class="home-photo-of-the-day-article">
+      <figure class="home-photo-of-the-day-hero">
+        <a href="http://time.com/3621685/see-photos-of-a-world-in-motion/"  data-event="photo-day" >
+          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2014/12/2014-the-world-in-motion-799.jpg?quality=65&amp;strip=color&amp;w=321&amp;h=214&amp;crop=1" alt="Fireworks streak past in front of the supermoon outside the town of Mosta" data-srcset="https://timedotcom.files.wordpress.com/2014/12/2014-the-world-in-motion-799.jpg?quality=65&amp;strip=color&amp;w=616&amp;h=411&amp;crop=1 800w" />
+        </a>
+        <figcaption class="image-caption">
+          <span class="credit">Darrin Zammit Lupi</span>
+        </figcaption>
+      </figure>
+    <h3 ><a href="http://time.com/3621685/see-photos-of-a-world-in-motion/"  data-event="photo-day" >See Photos of the World in Motion</a></h3>
+    <p class="home-excerpt">
+      News photographers are regularly using slow shutter speeds, emulating the early days of the small-format camera
+    </p>
+    
+  </article>
+</section>
+	<div class="right-rail">
+		<section class="home-popular popular popular-fortune home-right-rail-module">
+	<h2 class="home-module-header">Now on Fortune.com</h2>
+	<div class="articles">
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/11/domestic-oil-production-record/?xid=timehp-popular" data-event="popular" target="_blank">U.S. oil production reaches all-time high amid depressed crude prices</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/11/rite-aid-takes-aim/?xid=timehp-popular" data-event="popular" target="_blank">Rite Aid takes aim at CVS with a $2 billion purchase</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/10/harvard-business-school-expects-3000-online-students-this-summer/?xid=timehp-popular" data-event="popular" target="_blank">Harvard B-school opens the flood gates with online courses</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2014/05/29/lessons-from-the-worlds-most-successful-people/?xid=timehp-popular" data-event="popular" target="_blank">Lessons from the world's most successful people</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/11/teslas-hits-a-speed-bump-as-sales-and-big-spending-disappoints/?xid=timehp-popular" data-event="popular" target="_blank">Tesla hits a speed bump as sales and big spending disappoints</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/11/viacom-jon-stewart-daily-show/?xid=timehp-popular" data-event="popular" target="_blank">Jon Stewart just punched a $415 million hole in Viacom’s value</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/10/how-this-woman-turned-a-layoff-into-a-3-million-business/?xid=timehp-popular" data-event="popular" target="_blank">How this woman turned a layoff into a $3 million business</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/11/what-do-i-need-to-do-to-launch-a-tech-startup-that-will-be-acquired-by-a-top-tech-company/?xid=timehp-popular" data-event="popular" target="_blank">What do I need to do to launch a tech startup that will be acquired by a top tech company?</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/11/west-coast-port-cutbacks-expected-again-this-weekend-long-beach-ceo/?xid=timehp-popular" data-event="popular" target="_blank">West Coast port cutbacks expected again this weekend</a>
+				</h3>
+			</div>
+		</article>
+		<article class="home-popular-article border-separated-article">
+			<div class="home-popular-title">
+				<h3 class="small-home-header">
+					<a href="http://fortune.com/2015/02/09/shark-tank-the-lost-pitches/?xid=timehp-popular" data-event="popular" target="_blank">Shark Tank: The lost pitches</a>
+				</h3>
+			</div>
+		</article>
+	</div>
+</section>	</div>
+</div>
+
+<div class="home-bottom">
+	<section class="home-sections home-bottom-center home-center">
+
+    <div class="OUTBRAIN" data-widget-type="hp" data-fbk="TimeHP" data-src="http://time.com/" data-widget-id="HPC" data-ob-template="timemag"></div>
+
+    <div class="sections">
+        <div class="section section-1">
+            <h2><a href="http://time.com/health/">Health</a></h2>
+            <div class="articles">
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705755/premature-babies-developmental-risks/" data-event="hp-news">Extremely Premature Babies Face Developmental Issues, Study Says</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705734/cholesterol-dietary-guidelines/" data-event="hp-news">Cholesterol Is Not a &#8216;Nutrient of Concern,&#8217; Report Says</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705480/california-sugary-drinks-warning/" data-event="hp-news">Sugary Drinks Should Have Warning Labels, California Bill Says</a></h3> 
+                </article>
+            </div>
+        </div>
+        <div class="section section-2">
+            <h2><a href="http://time.com/world/">World</a></h2>
+            <div class="articles">
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706572/ukraine-peace-talks-poroshenko-putin-minsk-germany-france-russia/" data-event="hp-news">Leaders in Ukraine Peace Talks</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706501/india-narendra-modi-temple-god/" data-event="hp-news">Devotees Have Built a Temple to India's Prime Minister</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706318/russia-us-eu-conflict-ukraine/" data-event="hp-news">China Is the Big Winner in the Conflict Between Russia and the West</a></h3> 
+                </article>
+            </div>
+        </div>
+        <div class="section section-3">
+            <h2><a href="/money/">Money</a></h2>
+            <div class="articles">
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/money/3705574/apple-worth-700-billion-dollars-solar/" data-event="hp-news">Apple Cracks $700 Billion Barrier</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/money/3705042/valentines-day-no-cost-free/" data-event="hp-news">4 Super Romantic Low-Cost Ways to Celebrate Valentine&#8217;s Day</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/money/3705440/boomer-entrepreneur-boom/" data-event="hp-news">Is the Boomer Entrepreneur Boom Fading?</a></h3> 
+                </article>
+            </div>
+        </div>
+        <div class="section section-4">
+            <h2><a href="http://time.com/living/">Living</a></h2>
+            <div class="articles">
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705332/meet-willow-the-dating-app-that-wont-judge-you-by-your-looks/" data-event="hp-news">Meet Willow, the Dating App That Won’t Judge You By Your Looks</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705144/hotel-upgrade/" data-event="hp-news">How to Score a Hotel Upgrade</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3703986/decode-chocolate-box/" data-event="hp-news">How to Decode a Box of Chocolates</a></h3> 
+                </article>
+            </div>
+        </div>
+        <div class="section section-5">
+            <h2><a href="http://time.com/entertainment/">Entertainment</a></h2>
+            <div class="articles">
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706441/man-from-uncle-trailer/" data-event="hp-news">Watch the First Trailer for <i>The Man from U.N.C.L.E.</i> </a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706429/comedy-central-jon-stewart-successor-replacement/" data-event="hp-news">Comedy Central Ponders Jon Stewart's Replacement</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706418/fifty-shades-of-grey-50-el-james-reviews-critics-valentine/" data-event="hp-news">What Critics Are Saying About <i>Fifty Shades of Grey</i></a></h3> 
+                </article>
+            </div>
+        </div>
+        <div class="section section-6">
+            <h2><a href="http://time.com/tech/">Tech</a></h2>
+            <div class="articles">
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3706411/dating-apps-company-phone-cyber-attacks/" data-event="hp-news">The Risks of Using a Dating App on Your Company Phone</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705703/microsoft-buys-sunrise-calendar/" data-event="hp-news">Microsoft Buys a Well-liked Calendar App</a></h3> 
+                </article>
+                <article class="home-featured-article border-separated-article" data-article="">
+                    <h3><a href="http://time.com/3705604/googles-android-wear-shipped-just-720000-units-last-year/" data-event="hp-news">Google&#8217;s Android Wear Shipped Just 720,000 Units Last Year</a></h3> 
+                </article>
+            </div>
+        </div>
+    </div>
+
+    <ul class="list">
+        <li>
+            <label>MORE SECTIONS</label>
+        </li>
+        <li>
+            <h2><a href="http://time.com/opinion/">Opinion</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/business/">Business</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/sports/">Sports</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/newsfeed/">Newsfeed</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/science/">Science</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/politics/">Politics</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/us/">U.S.</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/ideas/">Ideas</a></h2>
+        </li>
+        <li>
+            <h2><a href="http://time.com/history/">History</a></h2>
+        </li>
+    </ul>
+
+</section>
+
+	<div class="right-rail">
+		<section class="home-freeform home-right-rail-module">
+  
+  <div class="articles">
+    <article class="home-freeform-article border-separated-article video has-hero">
+      <figure class="home-freeform-hero">
+        <a href="http://time.com/3704876/know-right-now-jon-stewart-to-leave-daily-show/">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/stewarttout.jpeg?quality=65&amp;strip=color&amp;w=321&amp;h=214&amp;crop=1" alt="" />
+        </a>
+      </figure>
+      <h3 class="medium-home-header home-icons-video "><a href="http://time.com/3704876/know-right-now-jon-stewart-to-leave-daily-show/">Jon Stewart to Leave <i>Daily Show</i></a></h3>
+      
+    </article>
+  </div>
+</section><section class="home-freeform home-right-rail-module">
+  
+  <div class="articles">
+    <article class="home-freeform-article border-separated-article video has-hero">
+      <figure class="home-freeform-hero">
+        <a href="http://time.com/3705594/inner-core-earth-planet-iron/">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="http://i1.wp.com/timedotcom.files.wordpress.com/2015/02/earth-core.png?crop=0px%2C0px%2C614px%2C410px&amp;resize=321%2C214&amp;quality=65&amp;strip=color" alt="" />
+        </a>
+      </figure>
+      <h3 class="medium-home-header home-icons-video "><a href="http://time.com/3705594/inner-core-earth-planet-iron/">Here's What Scientists Think is Buried Within Earth's Core</a></h3>
+      
+    </article>
+  </div>
+</section><section class="home-freeform home-right-rail-module">
+  
+  <div class="articles">
+    <article class="home-freeform-article border-separated-article article has-hero">
+      <figure class="home-freeform-hero">
+        <a href="http://time.com/3701415/saturday-night-live-rankings/">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/snl-bill-clinton.jpg?quality=65&amp;strip=color&amp;w=321&amp;h=214&amp;crop=1" alt="Saturday Night Live" />
+        </a>
+      </figure>
+      <h3 class="medium-home-header home-icons-article "><a href="http://time.com/3701415/saturday-night-live-rankings/">Check Out the Definitive <i>Saturday Night Live</i> Sketch Rankings</a></h3>
+      
+    </article>
+  </div>
+</section>	</div>
+</div>
+
+<div class="divider-articles">
+	<section class="read-more-divider-hero">
+    <img class="article-thumbnail" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" data-src="https://timedotcom.files.wordpress.com/2015/02/vincent-laforet-las-vegas-air-01.jpg?quality=65&amp;strip=color&amp;w=321&amp;h=214&amp;crop=1" alt="Vincent Laforet Las Vegas Air 01"
+         data-srcset="https://timedotcom.files.wordpress.com/2015/02/vincent-laforet-las-vegas-air-01.jpg?quality=65&amp;strip=color&amp;w=925&amp;h=617&amp;crop=1 600w"/>
+    <a class="related-article" href="http://time.com/3701948/las-vegas-vincent-laforet-helicopter/" data-event="large-image">
+        <div class="single-related-article-interior">
+            <div class="tags">
+                <h6 class="section-tag">Lightbox</h6>
+            </div>
+            <h4 class="article-title">See Las Vegas From Above</h4>
+        </div>
+    </a>
+</section></div>					</div>
+					<footer class="site-footer ">
+	<ul class="footer-site-links">
+		<li>
+			<a href="http://time.com/">Home</a>
+		</li>
+		<li>
+			<a href="http://time.com/us/">U.S.</a>
+		</li>
+		<li>
+			<a href="http://time.com/politics/">Politics</a>
+		</li>
+		<li>
+			<a href="http://time.com/world/">World</a>
+		</li>
+		<li>
+			<a href="http://time.com/business/">Business</a>
+		</li>
+		<li>
+			<a href="http://time.com/tech/">Tech</a>
+		</li>
+		<li>
+			<a href="http://time.com/health/">Health</a>
+		</li>
+		<li>
+			<a href="http://time.com/science/">Science</a>
+		</li>
+		<li>
+			<a href="http://time.com/entertainment/">Entertainment</a>
+		</li>
+		<li>
+			<a href="http://time.com/newsfeed/">Newsfeed</a>
+		</li>
+		<li>
+			<a href="http://time.com/living/">Living</a>
+		</li>
+		<li>
+			<a href="http://time.com/ideas/">Ideas</a>
+		</li>
+		<li>
+			<a href="http://time.com/parents/">Parents</a>
+		</li>
+		<li>
+			<a href="http://time.com/sports/">Sports</a>
+		</li>
+		<li>
+			<a href="http://time.com/history/">History</a>
+		</li>
+		<li>
+			<a href="http://time.com/vault/">The TIME Vault</a>
+		</li>
+		<li>
+			<a href="http://time.com/magazine/">Magazine</a>
+		</li>
+		<li>
+			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1002093.html">Subscribe</a>
+		</li>
+		<li>
+			<a href="https://subscription.time.com/storefront/subscribe-to-time/link/1023465.html">Give a Gift</a>
+		</li>
+		<li>
+			<a href="http://ebm.cheetahmail.com/r/regf2?a=0&aid=1078532063&n=1&TIME_SOURCE=Time_footer">Newsletters</a>
+		</li>
+		<li>
+			<a href="https://secure.customersvc.com/servlet/Show?WESPAGE=td/home.html&MSRSM%20%20%20%20%20AG=TD">Customer
+				Service</a>
+		</li>
+		<li>
+			<a href="http://content.time.com/time/static/sitemap/">Site Map</a>
+		</li>
+		<li>
+			<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=E">Privacy
+				Policy</a>
+		</li>
+		<li>
+			<a href="https://subscription.timeinc.com/storefront/privacy/time/generic_privacy_new.html?dnp-source=B#california">Your
+				California Privacy Rights</a>
+		</li>
+		<li>
+			<a href="https://subscription.timeinc.com/storefront/privacy/time/privacy_terms_service.html">Terms of
+				Use</a>
+		</li>
+		<li>
+			<a href="http://www.timeincnewsgroupcustompub.com/">Advertising</a>
+		</li>
+		<li>
+			<a href="http://www.timemediakit.com/">Media Kit</a>
+		</li>
+		<li>
+			<a href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html">Ad Choices <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAANCAMAAACq939wAAAAM1BMVEUAAAD///////////////////////////////////////////////////////////////+3leKCAAAAEHRSTlMAECAwQFBgcICPn6+/z9/vIxqCigAAAFZJREFUCB0FwQECwiAMBLCw4axS4f7/WhMn3wtAknwGIL/ZOTVAmmdnP5D2ZNbJnqTda7hW8pX2zs21E2mVOSrZU1plnewHaZWcGpDT1TWAJC8Aa90A/nKrBC08aQTRAAAAAElFTkSuQmCC" alt="Ad Choices"></a>
+		</li>
+	</ul>
+			<div class="disclaimer" id="marketCopyright">
+			Quotes delayed at least 15 minutes. Market data provided by <a href="http://www.interactivedata.com/"
+			                                                               target="_blank">Interactive Data</a>. ETF and
+			Mutual Fund data provided by <a href="http://www.morningstar.com/" target="_blank">Morningstar, Inc.</a> Dow
+			Jones Terms & Conditions:
+			<a href="http://www.djindexes.com/mdsidx/html/tandc/indexestandcs.html" target="_blank">http://www.djindexes.com/mdsidx/html/tandc/indexestandcs.html</a>.
+			S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved.
+			<a href="http://www.interactivedata-rts.com/index.php/Contents/show/content/quoteTerms" target="_blank">Terms
+				& Conditions</a>. Powered and implemented by <a href="http://www.interactivedata.com/idms/"
+			                                                    target="_blank">Interactive Data Managed Solutions</a>.
+		</div>
+		<span>&copy; 2015 Time Inc. All rights reserved.</span>
+		<span class="vip">Powered by <a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+</footer>
+				</div>
+			</section>
+		</div>
+	</div>
+	<div class="navigation"></div>	<footer class="site-footer-nojs">
+	<ul class="footer-site-links-nojs">
+		<li>
+			<a href="http://time.com/">HOME</a>
+		</li>
+		<li>
+			<a href="http://time.com/us/">U.S.</a>
+		</li>
+		<li>
+			<a href="http://time.com/politics/">POLITICS</a>
+		</li>
+		<li>
+			<a href="http://time.com/world/">WORLD</a>
+		</li>
+		<li>
+			<a href="http://time.com/business/">BUSINESS</a>
+		</li>
+		<li>
+			<a href="http://time.com/tech/">TECH</a>
+		</li>
+		<li>
+			<a href="http://time.com/health/">HEALTH</a>
+		</li>
+		<li>
+			<a href="http://time.com/science/">SCIENCE</a>
+		</li>
+		<li>
+			<a href="http://time.com/entertainment/">ENTERTAINMENT</a>
+		</li>
+		<li>
+			<a href="http://time.com/newsfeed/">NEWSFEED</a>
+		</li>
+		<li>
+			<a href="http://time.com/living/">LIVING</a>
+		</li>
+		<li>
+			<a href="http://time.com/ideas/">IDEAS</a>
+		</li>
+		<li>
+			<a href="http://time.com/parents/">PARENTS</a>
+		</li>
+		<li>
+			<a href="http://time.com/sports/">SPORTS</a>
+		</li>
+		<li>
+			<a href="http://time.com/history/">HISTORY</a>
+		</li>
+		<li>
+			<a href="http://time.com/vault/">THE TIME VAULT</a>
+		</li>
+		<li>
+			<a href="http://time.com/magazine/">MAGAZINE</a>
+		</li>
+		<li>
+			<a href="http://ebm.cheetahmail.com/r/regf2?a=0&aid=1078532063&n=1&TIME_SOURCE=Time_footer">NEWSLETTERS</a>
+		</li>
+		<li>
+			<a href="http://www.timeincnewsgroupcustompub.com/">Advertising</a>
+		</li>
+		<li>
+			<a href="http://www.timemediakit.com/">Media Kit</a>
+		</li>
+		<li>
+			<a href="http://content.time.com/time/static/sitemap/">SITE MAP</a>
+		</li>
+	</ul>
+	<span>&copy; 2015 Time Inc. All rights reserved.</span>
+		<span class="vip">Powered by <a href="http://vip.wordpress.com/" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a></span>
+</footer></div>
+	<div id="Sign_In_Modal" class="modal-container">
+		<div class="modal">
+
+			<div class="modal__header">
+				Sign In
+				<div class="modal__close time-icons time-icons-close close-button"></div>
+			</div>
+
+			<div class="modal__body">
+
+				<div class="sign-in-modal__prompt hidden">
+					Not a memeber? <a href="#">Sign Up</a>
+				</div>
+
+				<div class="sign-in-modal__forms">
+
+					<div class="sign-in-modal__sign-in-column">
+						<form id="sign-in-form" action="https://auth.time.com/login.php" method="post">
+							<input type="hidden" id="rurl" name="rurl">
+							<input type="hidden" id="turl" name="turl">
+							<div id="Sign_In_Modal_Error" class="modal__row hidden error">
+								Oops! We didn't recognize your email or password. Please try again.
+							</div>
+							<div class="modal__row existing-subscriber">
+								<h3>Existing Subscriber</h3>
+							</div>
+							<div class="modal__row">
+								<label for="sign-in-modal-email">EMAIL</label>
+							</div>
+							<div class="modal__row">
+								<input type="email" id="sign-in-modal-email" name="username" value="" placeholder="john.doe@example.com">
+							</div>
+							<div class="modal__row">
+								<label for="sign-in-modal-password">PASSWORD</label>
+							</div>
+							<div class="modal__row">
+								<input type="password" id="sign-in-modal-password" name="password" value="" placeholder="&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;">
+							</div>
+							<div class="modal__row">
+								<a id="Sign_In" class="button" href="#" data-bypass="true">SIGN IN</a>
+							</div>
+
+							<div class="modal__row below-inputs">
+								<span>
+									<input type="checkbox" id="Remember-Me" name="remember">
+									<label for="Remember-Me">Remember Me</label> /
+									<a id="Forgot_Password" href="https://subscription.time.com/storefront/universalForgotPassword.ep?magcode=TD">Forgot Password?</a> /
+									<a href="https://secure.customersvc.com/servlet/Show?WESPAGE=am/tablet/template/login.jsp&MSRSMAG=TD&MSDTRACK=VAN1&MSDDMOFF=&MSDVNDID=NORP">Create Login</a>
+								</span>
+
+							</div>
+						</form>
+
+					</div>
+
+					<div class="sign-in-modal__subscribe-column">
+							<h2 class="full-story">Want the Full Story?</h2>
+							<a class="button" id="Subscribe" href="http://subscription.time.com/storefront/subscribe-to-time/link/1019512.html" target="_blank">SUBSCRIBE</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="ie-message-modal"><div class="ie-message-modal-inner">
+<i class="time-icons time-icons-close"></i>
+<p>Your browser, Internet Explorer 8 or below, is out of date. It has known security flaws and may not display all features of this and other websites.</p>
+<a href="http://browser-update.org/update.html">Learn how to update your browser</a>
+</div></div>
+<span class="rail-handle" aria-hidden="true">TAP</span>
+<div class="left-rail-topper">
+	<header class="magazine-region-header">
+  <button class="toggle-magazine-region-dropdown">U.S. Edition</button>
+  <nav class="magazine-region-dropdown">
+    <ul class="magazine-region-list">
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="us" href="http://time.com/magazine/us/" aria-controls="rail-articles">U.S. Edition</a>
+      </li>
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="europe" href="http://time.com/magazine/europe/" aria-controls="rail-articles">Europe, Middle East and Africa Edition</a>
+      </li>
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="asia" href="http://time.com/magazine/asia/" aria-controls="rail-articles">Asia Edition</a>
+      </li>
+      <li class="magazine-region-item">
+        <a class="magazine-region" data-region="south-pacific" href="http://time.com/magazine/south-pacific/" aria-controls="rail-articles">South Pacific Edition</a>
+      </li>
+    </ul>
+  </nav>
+</header>	<header class="rail-tabs" role="tablist"></header>
+</div>
+<!-- wpcom_wp_footer -->
+<script>Time.bootstrap = {"partners":[{"title":"CBS Correspondent Bob Simon Killed in Car Crash","url":"http:\/\/www.nbcnews.com\/news\/us-news\/60-minutes-correspondent-bob-simon-killed-nyc-car-crash-n304806?cid=par-time_20150212","partner":"NBC News","thumbnail_url":"http:\/\/i0.wp.com\/media1.s-nbcnews.com\/i\/newscms\/2015_07\/886946\/150211-bob-simon-930p_9dbd756db1166c8daddf876bf0ad722d.jpg?resize=50%2C50&#038;quality=65&#038;strip=color"},{"title":"43-Foot Yacht Gets Stuck in Snow in Downtown Boston","url":"http:\/\/www.nbcnews.com\/news\/video\/43-foot-yacht-gets-stuck-snow-downtown-boston-n304831","partner":"NBC News","thumbnail_url":""},{"title":"Little League Scandal Reveals Big Cracks in Pint-Sized Honor Code","url":"http:\/\/www.nbcnews.com\/news\/us-news\/little-league-scandal-exposes-big-cracks-pint-sized-honor-code-n304641?cid=par-time_20150212","partner":"NBC News","thumbnail_url":"http:\/\/i0.wp.com\/media2.s-nbcnews.com\/i\/newscms\/2015_07\/886531\/150211-little-league-chicago-mn-1610_673e0a05d7438f51b251fc29c66e152a.jpg?resize=50%2C50&#038;quality=65&#038;strip=color"},{"title":"Ballet Dancer Sergei Polunin Simply Slays Hozier's 'Take Me To Church'","url":"http:\/\/www.huffingtonpost.com\/2015\/02\/10\/sergei-polunin-hozier_n_6655920.html","partner":"Huffington Post","thumbnail_url":""},{"title":"Jennifer Hibben-White: My 15-Day-Old Son May Have Measles","url":"http:\/\/www.huffingtonpost.ca\/jennifer-hibbenwhite\/anti-vaxxers_b_6661014.html","partner":"Huffington Post","thumbnail_url":""},{"title":"U.S. oil production reaches all-time high amid depressed crude prices","url":"http:\/\/fortune.com\/2015\/02\/11\/domestic-oil-production-record\/","partner":"Fortune","thumbnail_url":"http:\/\/i0.wp.com\/fortunedotcom.files.wordpress.com\/2015\/02\/rtr4nz43.jpg?resize=50%2C50&#038;quality=65&#038;strip=color"},{"title":"Tiger announces he will take a leave of absence","url":"http:\/\/www.si.com\/external\/link\/tiger-announces-he-will-take-leave-absence?xid=si_topstories","partner":"Sports Illustrated","thumbnail_url":"http:\/\/i0.wp.com\/cdn-jpg.si.com\/sites\/default\/files\/styles\/si_player_marquee_image\/public\/2015\/02\/11\/tiger-tout-11.jpg?resize=50%2C50&#038;quality=65&#038;strip=color"},{"title":"Apple Cracks $700 Billion Barrier","url":"http:\/\/time.com\/money\/3705574\/apple-worth-700-billion-dollars-solar\/","partner":"Money","thumbnail_url":""}],"sponsors":false,"auth_url":"https:\/\/auth.time.com\/","initial_omniture":{"prop7":"main","pageName":"time|home|main","prop16":"home","channel":"time","prop64":"v2"},"poy_faceoff":"<iframe id=\"pinnion-34c62a62aee57a93900d13a00a7944e9\" height=\"271\" width=\"265\" style=\"border:none; overflow:hidden; max-width: 100%\" frameborder=\"0\" scrolling=\"no\"><a href=\"http:\/\/time.pinnion.com\/pepl\/webWidget.php?id=12833&#038;key=M2I0NzU1ZmRjY2JlZmUwZmI0ZGIwNTVmMTVhMjUwN2E.&#038;al=1&#038;kiosk=1&#038;time_identifier=leftRailModule\" target=\"_blank\">2014 POY H2H<\/a><\/iframe><script type='text\/javascript'>\n(function() { jQuery(document).ready(function ($) {\n\tfunction setPinnionIframe(){\n\t\tvar el = $('#pinnion-34c62a62aee57a93900d13a00a7944e9');\n\t\tif(!el.attr('src')){\n\t\t\tel.attr('src', 'http:\/\/time.pinnion.com\/pepl\/webWidget.php?id=12833&key=M2I0NzU1ZmRjY2JlZmUwZmI0ZGIwNTVmMTVhMjUwN2E.&al=1&kiosk=1&time_identifier=leftRailModule');\n\t\t}\n\t}\n\tsetPinnionIframe();\n\t$(window).on('time-article-active', function () {\n\t\tsetPinnionIframe();\n\t});\n\t$(document).on('scroll mousewheel touchmove', 'div', function () {\n\t\tsetPinnionIframe();\n\t});\n}); })();\n<\/script>","popularVideos":[4040735290001,4043853856001,4035578207001,4035461306001,4039456495001,4044266471001,4034797260001,4045248606001,4034956382001,4044395461001,4043428185001,4037042051001,4036679664001,4035578166001,4033235895001],"promo_tray":{"activate_tray":true,"button_text":"Subscribe Now","popular":{"title":"Joe Biden\u2019s Perks and Recreation","url":"http:\/\/time.com\/3547820\/joe-biden-vacation\/","hero":{"class":"landscape_small","thumbnail":"https:\/\/timedotcom.files.wordpress.com\/2014\/10\/parksandrec.jpg?quality=65&strip=color&w=100&h=100&crop=1","src":{"large":"https:\/\/timedotcom.files.wordpress.com\/2014\/10\/parksandrec.jpg?quality=65&strip=color&w=280&h=187&crop=1","large_2x":"https:\/\/timedotcom.files.wordpress.com\/2014\/10\/parksandrec.jpg?quality=65&strip=color&w=560&h=374&crop=1"},"credit":"Jim Urquhart for Time","caption":"The deck of the Brinkerhoff overlooks Wyoming\u2019s Jackson Lake","alt":"","providers":[],"masonry":{"small_width":300,"small_height":191,"large_width":625,"large_height":398}}},"promotion_text":"Get TIME Magazine today","promotion_url":"https:\/\/subscription.time.com\/storefront\/subscribe-to-time\/link\/1024707.html","tray_title":"STAY IN THE KNOW WITH TIME"}}</script>	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"1","is_single":"0","is_front_page":"1","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/themes/vip/time2014/js/dist/time-tracking.js,/wp-content/mu-plugins/2-vip/js/vip-analytics.js?m=1423678249j'></script>
+<script type='text/javascript' src='http://admin.brightcove.com/js/BrightcoveExperiences.js'></script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyVzlsKwjAQRuENWcfG4OVBXEuwg50wSQfnb4u7L91B83rgg0OrdZ+pgisIIxd2WsQIUjhc+kjZaRAHmc5fqX7OfqKDZIao4N9C9tC5ysA+TmuT5GKawE2Hln6QpLt5l1cfw/V2f4T4zBvxJmNA'></script>
+<script type='text/javascript' src='http://tiads.time.com/ads/tgx.js'></script>
+<script type='text/javascript' src='//js.revsci.net/gateway/gw.js?csid=H07710'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TIME_DFP = {"zone":"homepage","params":{"ptype":"home","ch":"home"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WL8ss0C/JzE01MjA00c8q1k/JLC4BC+impBXoZRXr6JOipyQxKT8/J5EUfYkFIGvsc20NTYyMzcwtjEwsswDgmDqM'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script>
+
+	window._taboola = window._taboola || [];
+	_taboola.push({article:'auto'});
+
+	if (window.location.href.indexOf('notaboola') !== -1) {
+		Modernizr.load({
+			load: '//cdn.taboola.com/libtrc/timeinc-time/loader.js',
+			complete: function () {
+				Time.taboola.renderModules();
+			}
+		});
+	}
+
+	Modernizr.load({ load: '//b.scorecardresearch.com/beacon.js' });
+	Modernizr.load({ load: '//widgets.outbrain.com/outbrain.js' });
+
+		Modernizr.load({ load: '//www.zergnet.com/zerg.js?id=26429' });
+	
+	</script>
+	<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035728&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1"></noscript>
+	<script src="//stats.wp.com/w.js?42" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'1359921','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'1359921','v':'wpcom','tz':'-5','user_id':'0','subd':'timedotcom'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=1359921&v=wpcomvt&tz=-5&user_id=0&subd=timedotcom&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdETWI1alhvb1oseHImN101ZFpEakVpYjlQYVFLYzBaVHRtPz0wXS9bUW8yai5mMmVEMV1fJTZPeis/UERVSU12b29+QXBUL1RHNyVZeFolfi1Lbj1ael9UZ2Y5bkFjMXNBUXRmN21iemZvTzl0TEFXLSxVRmE/flVfUlssNFB1eFE9ei1qLGtBdDFlZmkyJVMrP0NiTXBrTnZ4UlJiLEd6K2UyYnk3JVdOTG0mWVtOK1FYbmtEbk5VS0Z2bg=='}]);
+_stq.push([ 'clickTrackerInit', '1359921', '0' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><script>if (typeof TiiAdTrackRevSci === 'function' && window.rsi_now) { TiiAdTrackRevSci(); }</script>
+</body></html>

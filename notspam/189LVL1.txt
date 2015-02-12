@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>October | 2012 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>October 2012</span>	</h2>	
+		<div id="post-3311" class="post-3311 post type-post status-publish format-standard hentry category-about-me category-change category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/10/19/the-theology-of-enough/" rel="bookmark" title="Permalink to The Theology of Enough">The Theology of Enough</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		October 19, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/10/19/the-theology-of-enough/#comments">12 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><blockquote><p>I have a hard time understanding how people who live with so much, as we do, think that they can get by without judgment when people live like this (at a Guatemala city dump). Some people choose poverty. But there are people right here next to us that have not chosen this. And if we turn our backs on them, we are turning our backs on Christ. -Rich Mullins</p></blockquote>
+<p>I want to talk about something that has been burning in my heart for a long time now. First let me give you some back story - For years I had the false mindset that the <strong>direct result of faith in God</strong> was <strong>prosperity</strong>, <strong>safety</strong> and <strong>comfort</strong>.</p>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2012/10/kenya.jpg" rel="image_group"><img class="alignnone size-full wp-image-3354" title="kenya" src="http://evie-s.com/news/wp-content/uploads/2012/10/kenya.jpg" alt="" width="602" height="310" /></a></p>
+<p>Then <a href="http://evie-s.com/news/2010/03/12/kenya-changed-my-life/">my husband went to Kenya</a>, and God completely shattered that way of thinking. Kent saw people who had nothing, yet their faith in God was so rich, so beautiful, so sufficient &#8211; it wasn&#8217;t just something that fit neatly into their lives &#8211; Christ was EVERYTHING to them. Now I can see how spiritually poor I was compared to these amazing Christ followers. I had unknowingly made idols out of my comfort, my safety and my possessions.</p>
+<p><img class="alignnone size-full wp-image-3351" title="house" src="http://evie-s.com/news/wp-content/uploads/2012/10/house.gif" alt="" width="602" height="430" /></p>
+<p>So in the last 4 years, we have slowly down-sized our house size by 75%. We have pared down our possessions by giving things away. We live a bootstrapped life &#8211; we rarely go out to eat, we don&#8217;t go see movies or shows, don&#8217;t go on vacations, you get the point. All this to say, downsizing was something necessary for us to do so we could release our grip on self-gratification and material things. I don&#8217;t say this so you can pat us on the back, I don&#8217;t even share it with the hope that you will do the same. I simply invite you to dream with me for a moment.</p>
+<blockquote><p>Poverty was not created by God, but by you and me &#8211; because we have not learned to love our neighbor as ourselves. -Shane Claiborne</p></blockquote>
+<p>What if all who profess Christ and believe the Bible would actually do what it said? God is very clear about taking care of the poor, the widow and the orphan. God&#8217;s commands to Israel were so extensive that they were designed to eradicate poverty. (<a href="https://www.youversion.com/bible/59/deu.15.4.esv">Deut. 15:4</a>) God was then furious over Israel&#8217;s failure to care for the poor and the oppressed. (<a href="https://www.youversion.com/bible/59/isa.58.1.esv">Isa. 58:1-3</a>, 5-10)</p>
+<p>In the book, <em>The Irresistible Revolution</em>, Shane Claiborne says, &#8220;We need neither the gospel of prosperity, nor the poverty gospel, but the gospel of abundance rooted in a theology of <em>enough</em>.&#8221; This is taken from Exodus where God commanded the Israelites to only gather what they could eat, and no more (<a href="https://www.youversion.com/bible/59/exo.16.16.esv">Exo. 16:16</a>) and of course from the Lord&#8217;s prayer, &#8220;Give us this day our daily bread.&#8221;</p>
+<blockquote><p>There is enough for everyone&#8217;s need, but not enough for everyone&#8217;s greed. -Gandhi</p></blockquote>
+<p>In the early days of Christianity, when there was not enough food for everyone to eat, the whole community fasted until all could come to the table together. This kind of boggles my mind. We are so far from this model of doing life with our brothers and sisters in our self-serving culture.</p>
+<blockquote><p>“Does God’s dream look like Wall Street?” If everyone lived the American dream, we’d need four more planets. Can the world really afford the patterns that we’re living in? -Shane Claiborne</p></blockquote>
+<p><a href="http://evie-s.com/news/wp-content/uploads/2012/10/theology1.jpg" rel="image_group"><img class="alignnone size-full wp-image-3361" title="theology" src="http://evie-s.com/news/wp-content/uploads/2012/10/theology1.jpg" alt="" width="602" height="903" /></a></p>
+<p>The theology of enough. It is something that my husband and I are still working on &#8211; we still blow money on crap that we don&#8217;t necessarily need. But the hope is that the grip will loosen more and more.</p>
+<blockquote><p>God’s love for you and God’s love for the larger world in need cannot be separated.  God’s longing to see you liberated for life that really is life can’t be neatly pulled apart from God’s longing to see the poor liberated for life that really is life. My friend Nate, who works with Compassion International, sees this pretty clearly.  Nate will be the first one to tell you,  “Compassion’s work, releasing children from poverty in Jesus’ name, is releasing me from wealth in Jesus’ name.” If your life is anything like mine, God longs to set you free from addiction to pleasure, appearances, busyness, consumption, envy, greed and self-absorption.  -Margot Starbuck</p></blockquote>
+<p>What are your thoughts, friends? Do you struggle in this area?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3272" class="post-3272 post type-post status-publish format-standard hentry category-art">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/10/11/ftm-october-illustrations/" rel="bookmark" title="Permalink to FTM October Illustrations">FTM October Illustrations</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		October 11, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/10/11/ftm-october-illustrations/#comments">0 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>The October illustrations For the Makers were all about black and white &#8211; so just pen and ink drawings with a touch of color from Photoshop. I love how they turned out, simple and clean.</p>
+<p><img class="alignnone size-full wp-image-3273" title="FTM" src="http://evie-s.com/news/wp-content/uploads/2012/10/FTM.jpg" alt="" width="602" height="571" /></p>
+<p>Check out all four of the October projects at <a href="http://www.forthemakers.com/">For the Makers</a>.</p>
+<p>Simplicity is something I&#8217;m falling more in love with &#8211; aesthetically and just life in general. The leaves are starting to fall from trees around here, and I pointed it out to our 3 year old and he said, &#8220;we&#8217;d better put them back!&#8221; No, I tried to explain. God made our world in such a way that it makes for itself a clean slate. No lush trees or foliage for months, just stark lines and dull greys. I&#8217;m learning to love this time of year, just because it&#8217;s necessary. Simplification = future growth.</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3246" class="post-3246 post type-post status-publish format-standard hentry category-art category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/10/10/nostalgic-for-god/" rel="bookmark" title="Permalink to Nostalgic for God">Nostalgic for God</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		October 10, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/10/10/nostalgic-for-god/#comments">8 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I recently came across a guy named <a href="http://creativetheology.com/">Sam Mahlstadt&#8217;s blog</a>, then his book, <em><a href="http://creativetheology.com/creative-theology-book/">Creative Theology</a> ($10 for the eBook)</em>. The book is wonderful, and it was a huge breath of life-giving air for me to read someone that is passionate about the gift of creativity, and our role in creation.</p>
+<p><img class="alignnone size-full wp-image-3314" title="nostalgic" src="http://evie-s.com/news/wp-content/uploads/2012/10/nostalgic.jpg" alt="" width="602" height="803" /></p>
+<blockquote><p>A response to beauty is a response to the Artist.<br />
+A response to creation is a response to the Creator.</p>
+<p>The big idea is that when we encounter intense beauty, even though we know and understand that we cannot adequately describe what we feel, we have to proclaim what we see and feel because it is the only way to respond. &#8211; Sam Mahlstadt</p></blockquote>
+<p>Following the breadcrumbs, I then came across this video of storyteller, <a href="http://www.iancron.com/">Ian Cron</a> talking about beauty. In it, he quotes John Paul II -</p>
+<blockquote><p>Great art makes us nostalgic for God.</p></blockquote>
+<p>Yes. And I would say that <em>beauty</em> makes me nostalgic for God. This is how I discover God. I see Him in his Word &#8211; but I also see Him in people, when I hear a beautiful choir, or when I&#8217;m exploring the world around me. And even when viewing the tiniest bits of earth that seem to be teeming with life (because they are).</p>
+<p>&nbsp;</p>
+<p><img class="alignnone size-full wp-image-3315" title="nostalgic3" src="http://evie-s.com/news/wp-content/uploads/2012/10/nostalgic3.jpg" alt="" width="602" height="803" /><img class="alignnone size-full wp-image-3313" title="nostalgic2" src="http://evie-s.com/news/wp-content/uploads/2012/10/nostalgic2.jpg" alt="" width="602" height="803" /></p>
+<p>But I love what he says when asked, &#8220;What is breaking your heart?&#8221;</p>
+<blockquote><p>Sometimes beauty breaks my heart. I&#8217;ve had moments in the presence of beautiful music or beautiful dance or beautiful poetry where, like an egg, I&#8217;m just cracked and poured out. I&#8217;m just brought to silence and can weep because it makes me nostalgic for God. That universal desire for redemption. And when you touch that place in the human heart &#8211; that&#8217;s heartbreaking. In the best sense of the word. So not all heartbreak is bad. Some of it is just exquisite &#8211; exquisitely, beautiful pain. -Ian Cron</p></blockquote>
+<p>&nbsp;</p>
+<p>Please, watch the video. It&#8217;s worth the 5 minutes.</p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/CUA3oklRwek" frameborder="0" allowfullscreen></iframe><br />
+&nbsp;<br />
+Do you feel the same way?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3292" class="post-3292 post type-post status-publish format-standard hentry category-art category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/10/04/dirtanddiety/" rel="bookmark" title="Permalink to Dirt &amp; Diety">Dirt &#038; Diety</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		October 4, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/10/04/dirtanddiety/#comments">4 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>There are some days I wake up with an extra special passion for my day. I want to do it all &#8211; cook really excellent meals, create things with my hands, paint, love on my neighbors and family &#8211; today was one of those days.</p>
+<p>I&#8217;m in the beginning of a 36-week study of Genesis. I don&#8217;t think I&#8217;ve ever spent the time to go through the first two chapters verse by verse with scrutiny. The first chapter is amazing of course, which is like viewing creation through a telescope. The second chapter views creation through a microscope and lets you in on some of the detail in which God created.</p>
+<p>I&#8217;m noticing how the Lord bent down and made man out of the dust of the ground with care, like a great sculptor.</p>
+<p>How he personally planted a beautiful garden, like a master gardener.</p>
+<p>How he made beautiful trees with delicious fruit and created a sweet aroma there, like an atmospherics expert.</p>
+<p><img class="alignnone size-full wp-image-3293" title="genesis" src="http://evie-s.com/news/wp-content/uploads/2012/10/genesis.jpg" alt="" width="602" height="802" /></p>
+<h6>Today&#8217;s painting: Oil on canvas</h6>
+<p>Why did he do all this? He did it for us. For us to find pleasure in it. For us to see His glory in it and point it out to others. And man was the high point of his creation, even though He knew we would fail. Human and fallible, dirt yet deity. Wretched and beautiful. And I have a higher respect for work &#8211; God gave Adam the work of tending the garden. It was supposed to be joyful, creative, meaningful and fulfilling. With Christ, I think our work can still be this for us.</p>
+<p>I love what Olympian Eric Liddell said &#8211; &#8220;When I run, I feel His pleasure.&#8221;</p>
+<p>When I create, I feel His pleasure. And I&#8217;ve discovered if I&#8217;m in this frame of mind with everything I do, I can find new meaning in even the most mundane tasks because He can be in it. Even the dishes.</p>
+<blockquote><p>God created everything &#8211; food, marriage, art, music &#8211; as sacred, to glorify God. -Josh Kouri</p></blockquote>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3276" class="post-3276 post type-post status-publish format-standard hentry category-art category-diy">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/10/03/diy-wood-jewelry-holder/" rel="bookmark" title="Permalink to DIY Wood Jewelry Holder">DIY Wood Jewelry Holder</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		October 3, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/10/03/diy-wood-jewelry-holder/#comments">6 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I love junk wood. Every month my neighborhood has big trash day, and I&#8217;m always shocked at the huge heaps of junk that make it out to the curb. My mother is the one who taught me to dumpster dive. I have no shame &#8211; I find many treasures from these piles. Out of the monstrous heaps of discarded wood, there is usually one or two pieces that (to me) are beautiful in it&#8217;s aged and desecrated state. This piece was just perfect for making a little necklace holder. So I rescued it and here is how it turned out.</p>
+<p><img class="alignnone size-full wp-image-3290" title="wood" src="http://evie-s.com/news/wp-content/uploads/2012/10/wood5.jpg" alt="" width="602" height="903" /></p>
+<p>Months ago when I was having some fun with dimensional paint for the <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html">Martha Stewart craft article</a>, I experimented with a dot stippling method that could make some interesting designs. So I took that idea and tried it freehand on the wood in a diamond pattern and loved the results.</p>
+<p><img class="alignnone size-full wp-image-3278" title="wood2" src="http://evie-s.com/news/wp-content/uploads/2012/10/wood2.jpg" alt="" width="602" height="719" /></p>
+<p>So all you need for this project is a an old piece of wood, 3-dimensional paint, and some hooks to screw into your wood, and a little elbow grease to screw them in. And whatever hardware on the back you want to use for hanging. Very simple and very inexpensive &#8211; my favorite combination.</p>
+<p><img class="alignnone size-full wp-image-3279" title="wood3" src="http://evie-s.com/news/wp-content/uploads/2012/10/wood3.jpg" alt="" width="602" height="903" /></p>
+<p>&nbsp;</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-3262" class="post-3262 post type-post status-publish format-standard hentry category-art category-design">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/10/02/marriage-illustrated/" rel="bookmark" title="Permalink to 10 Years of Marriage, Illustrated">10 Years of Marriage, Illustrated</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		October 2, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/10/02/marriage-illustrated/#comments">1 comment</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>I recently got an email from a reader that had an 11th anniversary coming up &#8211; a special one considering that her husband had a rupture in his brain 2 days before their 10th anniversary last year and they spent it in the neuro ICU as he underwent brain surgery. He&#8217;s been in an intense year of recovery, but thankfully, he is doing great. She had seen the <a href="http://evie-s.com/news/2012/06/12/celebrating-8-years/">little illustration</a> I did for my husband on our 8th year anniversary last June and thought it would be a special gift to him to do something similar. Here is how it turned out.</p>
+<p><img class="alignnone size-full wp-image-3263" title="illustration" src="http://evie-s.com/news/wp-content/uploads/2012/10/illustration.jpg" alt="" width="602" height="753" /></p>
+<p>It&#8217;s amazing to see what two people can go through together in 10+ years and still be&#8230;together. And still be celebrating. And still be strong. Happy Anniversary Kim and Marc! May your best years be yet to come!</p>
+<p>&nbsp;</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

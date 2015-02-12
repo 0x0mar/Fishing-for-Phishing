@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <link rel="stylesheet" type="text/css" href="/editors/css/dmoz.css">
+    <link rel="icon" href="/img/mozilla.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/img/mozilla.ico" type="image/x-icon" />
+    <script type="text/javascript" src="/editors/scripts/jquery.js"></script>
+    <script type="text/javascript" src="/editors/scripts/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/editors/scripts/dmoz.js"></script>
+    <script>
+	function replace_submit(eleId, value) {
+		$('#' + eleId).val(value);
+	}
+	</script>
+    <title>DMOZ</title>
+</head>
+<body onload="document.forms[0].editor.focus()">
+<style>
+*html #bd {padding-right:0px; margin:0px;}
+</style>
+<div id="doc">
+	<div id="hd">
+    	<a id="logo" href="/" alt="dmoz logo" title="DMOZ"></a>
+        <div id="partnership">
+        	<img width="83" height="24" align="middle" alt="In Partnership with AOL Search" src="/img/aolsearch.gif"/>
+        </div>
+    </div>
+	<div id="hd-bar">
+    	<div class="float-l">&nbsp;</div>
+        	<div class="float-r">
+        		<a href="/">home</a><span class="pipeN">|</span><a href="/help/en/helpmain.html">help</a>
+        	</div>
+       	<div class="clear"></div>
+   	</div>
+    <div id="bd" class="center">
+	<!--span><font color="red" size="5"><a href = "http://forums.dmoz.org/forum/viewtopic.php?t=933063&start=200#1987238">Please do not edit . See forums for details</a></font></span-->
+    	<div style="margin:0 3em" id="catalogs">
+    	<div class="one-third">
+        	<span><a href="/Arts/">Arts</a></span>
+            <samp><a href="/Arts/Movies/">Movies</a>, <a href="/Arts/Television/">Television</a>, <a href="/Arts/Music/">Music</a>...</samp>
+
+            <span><a href="/Games/">Games</a></span>
+            <samp><a href="/Games/Video_Games/">Video Games</a>, <a href="/Games/Roleplaying/">RPGs</a>, <a href="/Games/Gambling/">Gambling</a>...</samp>
+            
+            <span><a href="/Kids_and_Teens/"><font color="#ff0000">K</font><font color="#339900">i</font><font color="#ff6600">d</font><font color="#0066ff">s</font> and Teens</a></span>
+            <samp><a href="/Kids_and_Teens/Arts/">Arts</a>, <a href="/Kids_and_Teens/School_Time/">School Time</a>, <a href="/Kids_and_Teens/Teen_Life/">Teen Life</a>...</samp>
+            
+            <span><a href="/Reference/">Reference</a></span>
+            <samp><a href="/Reference/Maps/">Maps</a>, <a href="/Reference/Education/">Education</a>, <a href="/Reference/Libraries/">Libraries</a>...</samp>
+            
+            <span><a href="/Shopping/">Shopping</a></span>
+            <samp><a href="/Shopping/Clothing/">Clothing</a>, <a href="/Shopping/Food/">Food</a>, <a href="/Shopping/Gifts/">Gifts</a>...</samp>
+        </div>
+        <div class="one-third">
+        	<span><a href="/Business/">Business</a></span>
+            <samp><a href="/Business/Employment/">Jobs</a>, <a href="/Business/Real_Estate/">Real Estate</a>, <a href="/Business/Investing/">Investing</a>...</samp>
+            
+            <span><a href="/Health/">Health</a></span>
+            <samp><a href="/Health/Fitness/">Fitness</a>, <a href="/Health/Medicine/">Medicine</a>, <a href="/Health/Alternative/">Alternative</a>...</samp>
+            
+            <span><a href="/News/">News</a></span>
+            <samp><a href="/News/Media/">Media</a>, <a href="/News/Newspapers/">Newspapers</a>, <a href="/News/Weather/">Weather</a>...</samp>
+            
+            <span><a href="/Regional/">Regional</a></span>
+            <samp><a href="/Regional/North_America/United_States/">US</a>, <a href="/Regional/North_America/Canada/">Canada</a>, <a href="/Regional/Europe/United_Kingdom/">UK</a>, <a href="/Regional/Europe/">Europe</a>...</samp>
+            
+            <span><a href="/Society/">Society</a></span>
+            <samp><a href="/Society/People/">People</a>, <a href="/Society/Religion_and_Spirituality/">Religion</a>, <a href="/Society/Issues/">Issues</a>...</samp>
+        </div>
+        <div class="one-third">
+        	<span><a href="/Computers/">Computers</a></span>
+            <samp><a href="/Computers/Internet/">Internet</a>, <a href="/Computers/Software/">Software</a>, <a href="/Computers/Hardware/">Hardware</a>...</samp>
+            
+            <span><a href="/Home/">Home</a></span>
+            <samp><a href="/Home/Family/">Family</a>, <a href="/Home/Consumer_Information/">Consumers</a>, <a href="/Home/Cooking/">Cooking</a>...</samp>
+
+        	<span><a href="/Recreation/">Recreation</a></span>
+            <samp><a href="/Recreation/Travel/">Travel</a>, <a href="/Recreation/Food/">Food</a>, <a href="/Recreation/Outdoors/">Outdoors</a>, <a href="/Recreation/Humor/">Humor</a>...</samp>
+            
+            <span><a href="/Science/">Science</a></span>
+            <samp><a href="/Science/Biology/">Biology</a>, <a href="/Science/Social_Sciences/Psychology/">Psychology</a>, <a href="/Science/Physics/">Physics</a>...</samp>
+            
+            <span><a href="/Sports/">Sports</a></span>
+            <samp><a href="/Sports/Baseball/">Baseball</a>, <a href="/Sports/Soccer/">Soccer</a>, <a href="/Sports/Basketball/">Basketball</a>...</samp>
+        </div>
+        <div class="float-l text-l">
+            <span><a href="/World/">World</a></span>
+            <samp>
+                <a href="/World/Catal%C3%A0/" title="Catalan">Catal&agrave;</a>,
+                <a href="/World/%C4%8Cesky/" title="Czech">&#x10C;esky</a>,
+                <a href="/World/Dansk/" title="Danish">Dansk</a>,
+                <a href="/World/Deutsch/" title="German">Deutsch</a>,
+                <a href="/World/Espa%C3%B1ol/" title="Spanish">Espa&ntilde;ol</a>,
+                <a href="/World/Esperanto/" title="Esperanto">Esperanto</a>,
+                <a href="/World/Fran%C3%A7ais/" title="French">Fran&ccedil;ais</a>,
+                <a href="/World/Galego/" title="Galician">Galego</a>,
+                <a href="/World/Hrvatski/" title="Croatian">Hrvatski</a>,
+                <a href="/World/Italiano/" title="Italian">Italiano</a>,
+                <a href="/World/Lietuvi%C5%B3/" title="Lithuanian">Lietuvi&#x173;</a>,<br>
+                <a href="/World/Magyar/" title="Hungarian">Magyar</a>,
+                <a href="/World/Nederlands/" title="Dutch">Nederlands</a>,
+                <a href="/World/Norsk/" title="Norwegian">Norsk</a>,
+                <a href="/World/Polski/" title="Polish">Polski</a>,
+                <a href="/World/Portugu%C3%AAs/" title="Portuguese">Portugu&ecirc;s</a>,
+                <a href="/World/Rom%C3%A2n%C4%83/" title="Romanian">Rom&acirc;n&#x103;</a>,
+                <a href="/World/Slovensky/" title="Slovak">Slovensky</a>,
+                <a href="/World/Suomi/" title="Finnish">Suomi</a>,
+                <a href="/World/Svenska/" title="Swedish">Svenska</a>,
+                <a href="/World/T%C3%BCrk%C3%A7e/" title="Turkish">T&uuml;rk&ccedil;e</a>,<br>
+                <a href="/World/Bulgarian/" title="Bulgarian">&#x411;&#x44A;&#x43B;&#x433;&#x430;&#x440;&#x441;&#x43A;&#x438;</a>,
+                <a href="/World/Greek/" title="Greek">&Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;&#x3AC;</a>,
+                <a href="/World/Russian/" title="Russian">&#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;</a>,
+                <a href="/World/Ukrainian/" title="Ukrainian">&#x423;&#x43A;&#x440;&#x430;&#x457;&#x43D;&#x441;&#x44C;&#x43A;&#x430;</a>,
+                <a href="/World/Hebrew/" title="Hebrew">&#x5E2;&#x5D1;&#x5E8;&#x5D9;&#x5EA;</a>&#x202D;,
+                &#x202C;<a href="/World/Arabic/" title="Arabic">&#x627;&#x644;&#x639;&#x631;&#x628;&#x64A;&#x629;</a>,
+                <a href="/World/Thai/" title="Thai">&#xE44;&#xE17;&#xE22;</a>,
+                <a href="/World/Japanese/" title="Japanese">&#x65E5;&#x672C;&#x8A9E;</a>,
+                <a href="/World/Chinese_Simplified/" title="Chinese Simplified">&#x7B80;&#x4F53;&#x4E2D;&#x6587;</a>,
+                <a href="/World/Chinese_Traditional/" title="Chinese Traditional">&#x7E41;&#x9AD4;&#x4E2D;&#x6587;</a>, &hellip;
+            </samp>
+        </div>
+        <div class="float-ln mt1em">
+            <img src="/img/lizard2a.gif" width=106 height=36 alt="" class="float-r">
+            <a href="/docs/en/about.html"><img src="/img/home_attribute.gif" border=0 width=412 height=27 alt="Help build the largest human-edited directory of the web" class="float-l mt1em"></a>
+        </div>
+        </div>
+    </div>
+    <div id="side">
+    <form action="login" method="POST">
+    	
+
+
+
+
+
+
+
+    	<fieldset class="login">
+        	<legend>Editor Login</legend>
+            <label>Username:</label>
+            <input type="text" name="editor" size="18" class="txt"/>
+            <label>Password:</label>
+            <input type="password" name="password" size="18" class="txt"/>
+            <button type="submit" name="submit" value="Login" class="btn">Login</button>
+        </fieldset>
+          <a style="float:right;" href="/public/forgetpass/?locale=en">Forgot Password?</a>
+		  <input type="hidden" name="redirect" value="/editors/">
+    </form>
+    </div>
+    
+    
+    <div id="ft">
+        
+        
+    	<span class="copy">Copyright &copy; 1998-2015 AOL Inc.</span>
+        
+    </div>
+    <div id="ft-bar">
+    	4,107,363 sites
+		- 90,089 editors
+		- over 1,023,902 categories
+    </div>
+</div>
+</body>
+</html>
+

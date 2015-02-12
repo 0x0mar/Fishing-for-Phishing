@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>List of blogs - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.25wmf16" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_blogs" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_blogs&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_blogs&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/List_of_blogs" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/List_of_blogs" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_blogs","wgTitle":"List of blogs","wgCurRevisionId":645581120,"wgRevisionId":645581120,"wgArticleId":19271757,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Dynamic lists","Blogs","Lists of websites"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_blogs","wgRelevantArticleId":19271757,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"830":true,"831":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6607979"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});},{},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:94007ea073e20ad4a3cdce36b2f2e369 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf16/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_blogs skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">List of blogs</h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl>
+<dd>
+<div class="notice plainlinks"><i>This is an <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete list</a> that may never be able to satisfy particular standards for completeness. You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_blogs&amp;action=edit">expanding it</a> with <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliably sourced</a> entries.</i></div>
+</dd>
+</dl>
+<p>This is a <b>list of notable blogs</b>. A <a href="/wiki/Blog" title="Blog">blog</a> (contraction of weblog) is a web site with frequent, periodic posts creating an ongoing narrative. They are maintained by both groups and individuals, the latter being the most common. Blogs can focus on a wide variety of topics, ranging from the political to personal experiences. Specific blogs include:</p>
+<table class="wikitable sortable" style="width:90%;">
+<tr>
+<th>Blog</th>
+<th>Language</th>
+<th>Subject</th>
+<th>Author</th>
+</tr>
+<tr>
+<td><a href="/wiki/AirlineReporter.com" title="AirlineReporter.com">AirlineReporter.com</a></td>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+<td>Airline Industry News</td>
+<td>David Parker Brown</td>
+</tr>
+<tr>
+<td><a href="/wiki/1000_Awesome_Things" title="1000 Awesome Things">1000 Awesome Things</a></td>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+<td>Miscellaneous topics</td>
+<td>Neil Pasricha</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_9_on_Yahoo!" title="The 9 on Yahoo!">The 9 on Yahoo!</a></td>
+<td>English</td>
+<td><a href="/wiki/Video_blog" title="Video blog">Video blog</a> on web videos</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/A_Motley_Vision" title="A Motley Vision">A Motley Vision</a></td>
+<td>English</td>
+<td><a href="/wiki/Critic" title="Critic">Criticism</a> of the Mormon Arts, particularly <a href="/wiki/LDS_literature" title="LDS literature" class="mw-redirect">LDS literature</a> and <a href="/wiki/LDS_cinema" title="LDS cinema">film</a></td>
+<td><a href="/wiki/Collaborative_blog" title="Collaborative blog">Multi-author</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Art_Life" title="The Art Life">The Art Life</a></td>
+<td>English</td>
+<td>Blog about the art scene in <a href="/wiki/Sydney,_Australia" title="Sydney, Australia" class="mw-redirect">Sydney, Australia</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Athletics_Nation" title="Athletics Nation" class="mw-redirect">Athletics Nation</a></td>
+<td>English</td>
+<td>Sports blog focusing on the <a href="/wiki/Oakland_Athletics" title="Oakland Athletics">Oakland Athletics</a> <a href="/wiki/Baseball_team" title="Baseball team" class="mw-redirect">baseball team</a></td>
+<td>Tyler Bleszinski</td>
+</tr>
+<tr>
+<td><a href="/wiki/Audimated" title="Audimated">Audimated</a></td>
+<td>English</td>
+<td>Music related blog focused on news, resources and information for independent artists.</td>
+<td>Lucas Sommer</td>
+</tr>
+<tr>
+<td><a href="/wiki/Phil_Plait#Badastronomy.com" title="Phil Plait">Bad Astronomy</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Astronomy" title="Astronomy">astronomy</a> and science education</td>
+<td><a href="/wiki/Phil_Plait" title="Phil Plait">Phil Plait</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/B2Blogger.com" title="B2Blogger.com">B2Blogger.com</a></td>
+<td>Russian</td>
+<td>Industrial B2B marketing</td>
+<td>Aleksandr Storozhuk</td>
+</tr>
+<tr>
+<td><a href="/wiki/Balkinization_(blog)" title="Balkinization (blog)">Balkinization</a></td>
+<td>English</td>
+<td>Blog focusing on US <a href="/wiki/Civil_liberties" title="Civil liberties">civil liberties</a> issues</td>
+<td><a href="/wiki/Jack_Balkin" title="Jack Balkin">Jack Balkin</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Bear_Club" title="The Bear Club">The Bear Club</a></td>
+<td>English</td>
+<td><a href="/wiki/Niche_blogging" title="Niche blogging">Niche blogging</a> site for <a href="/wiki/Teddy_bears" title="Teddy bears" class="mw-redirect">teddy bears</a> and their collectors</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Belle_de_Jour_(writer)" title="Belle de Jour (writer)">Belle de Jour</a></td>
+<td>English</td>
+<td>Insight into the life of a London call-girl.</td>
+<td>Brooke Magnanti</td>
+</tr>
+<tr>
+<td><a href="/wiki/Belmont_Club" title="Belmont Club">Belmont Club</a></td>
+<td>English</td>
+<td>Political and historical blog</td>
+<td>Richard Fernandez</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bestiario_del_bal%C3%B3n" title="Bestiario del balón">Bestiario del balón</a></td>
+<td><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a></td>
+<td><a href="/wiki/Association_football" title="Association football">Colombian football</a> blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Blog_del_Narco" title="Blog del Narco">Blog del Narco</a></td>
+<td>Spanish</td>
+<td><a href="/wiki/Mexican_Drug_War" title="Mexican Drug War">Mexican Drug War</a></td>
+<td>Anonymous</td>
+</tr>
+<tr>
+<td><a href="/wiki/Blogcritics" title="Blogcritics">Blogcritics</a></td>
+<td>English</td>
+<td>Multiple sections, mostly involving entertainment and science</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bloggingheads.tv" title="Bloggingheads.tv">Bloggingheads.tv</a></td>
+<td>English</td>
+<td><a href="/wiki/Video_blog" title="Video blog">Video blog</a> on politics, philosophy, and science</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_%22Blog%22_of_%22Unnecessary%22_Quotation_Marks" title="The &quot;Blog&quot; of &quot;Unnecessary&quot; Quotation Marks">The "Blog" of "Unnecessary" Quotation Marks</a></td>
+<td>English</td>
+<td>Blog about the misuse of English <a href="/wiki/Quotation_marks" title="Quotation marks" class="mw-redirect">quotation marks</a></td>
+<td>Bethany Keeley</td>
+</tr>
+<tr>
+<td><a href="/wiki/Blogswara" title="Blogswara">Blogswara</a></td>
+<td>English</td>
+<td><a href="/wiki/India" title="India">Indian</a> audio-blog intended to showcase amateur musicians</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Blonde_Salad" title="The Blonde Salad">The Blonde Salad</a></td>
+<td>English</td>
+<td>Fashion</td>
+<td><a href="/wiki/Chiara_Ferragni" title="Chiara Ferragni">Chiara Ferragni</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Boing_Boing" title="Boing Boing">Boing Boing</a></td>
+<td>English</td>
+<td>Politics, <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a>, and general interest</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Borderland_Beat" title="Borderland Beat">Borderland Beat</a></td>
+<td>English</td>
+<td><a href="/wiki/Mexican_Drug_War" title="Mexican Drug War">Mexican Drug War</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Brain_Blogger" title="Brain Blogger">Brain Blogger</a></td>
+<td>English</td>
+<td>Multidimensional biopsychosocial perspectives</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/British_Gazette" title="British Gazette">British Gazette</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Eurorealism" title="Eurorealism">Eurorealism</a> and <a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a> and other current affairs issues</td>
+<td><a href="/w/index.php?title=Peter_H._Rogers&amp;action=edit&amp;redlink=1" class="new" title="Peter H. Rogers (page does not exist)">Peter H. Rogers</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Brussels_Journal" title="The Brussels Journal">The Brussels Journal</a></td>
+<td>English, Dutch</td>
+<td><a href="/wiki/Conservative" title="Conservative" class="mw-redirect">Conservative</a> blog on <a href="/wiki/Belgian_politics" title="Belgian politics" class="mw-redirect">Belgian politics</a></td>
+<td><a href="/wiki/Paul_Beli%C3%ABn" title="Paul Beliën">Paul Beliën</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Cake_Wrecks" title="Cake Wrecks">Cake Wrecks</a></td>
+<td>English</td>
+<td><a href="/wiki/Photoblog" title="Photoblog">Photoblog</a> featuring images of cakes that are humorous or strange in appearance</td>
+<td>Jen Yates</td>
+</tr>
+<tr>
+<td><a href="/wiki/CampusJ" title="CampusJ">CampusJ</a></td>
+<td>English</td>
+<td><a href="/wiki/Judaism" title="Judaism">Jewish</a> college news</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Catbirdseat" title="The Catbirdseat" class="mw-redirect">The Catbirdseat</a></td>
+<td>English</td>
+<td>Mp3 blog</td>
+<td>Ryan Catbird (screen name)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Chinadialogue" title="Chinadialogue" class="mw-redirect">Chinadialogue</a></td>
+<td>Chinese, English</td>
+<td>Blog on the environment, both globally and in China</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/China_Law_Blog" title="China Law Blog">China Law Blog</a></td>
+<td>English</td>
+<td>Blog of news and opinions on Chinese law and business</td>
+<td>Dan Harris and Steve Dickinson</td>
+</tr>
+<tr>
+<td><a href="/wiki/Climate_Audit" title="Climate Audit">Climate Audit</a></td>
+<td>English</td>
+<td>Using statistical methods to analyze historical reconstructions of past climates</td>
+<td><a href="/wiki/Stephen_McIntyre" title="Stephen McIntyre" class="mw-redirect">Stephen McIntyre</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Comics_Curmudgeon" title="The Comics Curmudgeon">The Comics Curmudgeon</a></td>
+<td>English</td>
+<td>Critical analysis of newspaper comics</td>
+<td>Josh Fruhlinger</td>
+</tr>
+<tr>
+<td><a href="/wiki/ConservativeHome" title="ConservativeHome">ConservativeHome</a></td>
+<td>English</td>
+<td><a href="/wiki/Conservatism" title="Conservatism">Conservatism</a> from a <a href="/wiki/UK" title="UK" class="mw-redirect">UK</a> <a href="/wiki/Conservative_party_(UK)" title="Conservative party (UK)" class="mw-redirect">perspective</a></td>
+<td><a href="/wiki/Tim_Montgomerie" title="Tim Montgomerie">Tim Montgomerie</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Consumerist_(blog)" title="Consumerist (blog)" class="mw-redirect">Consumerist</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Consumerism" title="Consumerism">consumerism</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Contempo_Magazine" title="Contempo Magazine">Contempo Magazine</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Hispanic" title="Hispanic">Hispanic</a> <a href="/wiki/Conservative" title="Conservative" class="mw-redirect">Conservative</a></td>
+<td>Tony Magana</td>
+</tr>
+<tr>
+<td><a href="/wiki/Cosmic_Variance_(blog)" title="Cosmic Variance (blog)">Cosmic Variance</a></td>
+<td>English</td>
+<td>Science blog on <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Astrophysics" title="Astrophysics">astrophysics</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Couric_%26_Co." title="Couric &amp; Co.">Couric &amp; Co.</a></td>
+<td>English</td>
+<td>Official blog of the “<a href="/wiki/CBS_Evening_News" title="CBS Evening News">CBS Evening News</a>”</td>
+<td>The “CBS Evening News” staff</td>
+</tr>
+<tr>
+<td><a href="/wiki/Crash_Test_Kitchen" title="Crash Test Kitchen">Crash Test Kitchen</a></td>
+<td>English</td>
+<td>Cooking and food video blog</td>
+<td>Waz and Lenny (screen names)</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Critical_Badger" title="The Critical Badger">The Critical Badger</a></td>
+<td>English</td>
+<td>Higher Education</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Crooked_Timber" title="Crooked Timber">Crooked Timber</a></td>
+<td>English</td>
+<td>Various intellectual topics, such as: Left-of-center politics, economics, sociology and modern literature</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Crooks_and_Liars" title="Crooks and Liars">Crooks and Liars</a></td>
+<td>English</td>
+<td>Liberal video blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Cute_Overload" title="Cute Overload">Cute Overload</a></td>
+<td>English</td>
+<td>Photos and videos of “<a href="/wiki/Cuteness" title="Cuteness">cute</a>” animals</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Daily_Howler" title="The Daily Howler">The Daily Howler</a></td>
+<td>English</td>
+<td>Center-left <a href="/wiki/Political_blog" title="Political blog">political blog</a></td>
+<td>Bob Somerby</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Daily_Nightly" title="The Daily Nightly">The Daily Nightly</a></td>
+<td>English</td>
+<td>Official blog of “<a href="/wiki/NBC_Nightly_News" title="NBC Nightly News">NBC Nightly News</a>”</td>
+<td><a href="/wiki/Brian_Williams" title="Brian Williams">Brian Williams</a> and other <a href="/wiki/NBC_News" title="NBC News">NBC News</a> correspondents</td>
+</tr>
+<tr>
+<td><a href="/wiki/Daring_Fireball" title="Daring Fireball" class="mw-redirect">Daring Fireball</a></td>
+<td>English</td>
+<td><a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> and technology blog</td>
+<td><a href="/wiki/John_Gruber" title="John Gruber">John Gruber</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Deadspin" title="Deadspin">Deadspin</a></td>
+<td>English</td>
+<td>Sports blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Defamer_Australia" title="Defamer Australia" class="mw-redirect">Defamer Australia</a></td>
+<td>English</td>
+<td>Celebrity gossip</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Desipundit" title="Desipundit" class="mw-redirect">Desipundit</a></td>
+<td>English</td>
+<td>Commentary on India’s major blog posts</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Diabetes_Mine" title="Diabetes Mine">Diabetes Mine</a></td>
+<td>English</td>
+<td>Blog relating to <a href="/wiki/Diabetes" title="Diabetes" class="mw-redirect">diabetes</a></td>
+<td>Amy Tenderich</td>
+</tr>
+<tr>
+<td><a href="/wiki/Dlisted" title="Dlisted">Dlisted</a></td>
+<td>English</td>
+<td>Celebrity gossip</td>
+<td>Michael K.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Down_By_The_Hipster" title="Down By The Hipster">Down By The Hipster</a></td>
+<td>English</td>
+<td>Blog on the <a href="/wiki/New_York_City" title="New York City">New York City</a> <a href="/wiki/Nightlife" title="Nightlife">nightlife</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/DrugWarrant" title="DrugWarrant" class="mw-redirect">DrugWarrant</a></td>
+<td>English</td>
+<td>Blog used to advocate the termination of the <a href="/wiki/War_on_Drugs" title="War on Drugs">War on Drugs</a> in the <a href="/wiki/United_States" title="United States">United States</a></td>
+<td>Peter Guither</td>
+</tr>
+<tr>
+<td><a href="/wiki/Durma_Melhor" title="Durma Melhor">Durma Melhor</a></td>
+<td><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a></td>
+<td>Blog on various issues related to sleep</td>
+<td>Marcos Miguel</td>
+</tr>
+<tr>
+<td><a href="/wiki/EastSouthWestNorth" title="EastSouthWestNorth">EastSouthWestNorth</a></td>
+<td>English</td>
+<td><a href="/wiki/China" title="China">China</a> focused blog out of <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></td>
+<td>Roland Soong</td>
+</tr>
+<tr>
+<td><a href="/wiki/Engadget" title="Engadget">Engadget</a></td>
+<td>English, <a href="/wiki/Simplified_Chinese_character" title="Simplified Chinese character" class="mw-redirect">Chinese (simplified Han)</a>, <a href="/wiki/Traditional_Chinese_character" title="Traditional Chinese character" class="mw-redirect">Chinese (traditional Han)</a>, <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>, Spanish, <a href="/wiki/Polish_language" title="Polish language">Polish</a>, <a href="/wiki/Korean_language" title="Korean language">Korean</a>, <a href="/wiki/German_language" title="German language">German</a></td>
+<td>Technology blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Faces_in_Places" title="Faces in Places">Faces in Places</a></td>
+<td>English</td>
+<td>Photo blog of faces seen in everyday objects</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki//Film" title="/Film">/Film</a></td>
+<td>English</td>
+<td>Movie news and reviews</td>
+<td>Peter Sciretta</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Fix_(blog)" title="The Fix (blog)" class="mw-redirect">The Fix</a></td>
+<td>English</td>
+<td>Blog written for <i><a href="/wiki/The_Washington_Post" title="The Washington Post">The Washington Post</a></i></td>
+<td>Chris Cilliza</td>
+</tr>
+<tr>
+<td><a href="/wiki/Fluxblog" title="Fluxblog">Fluxblog</a></td>
+<td>English</td>
+<td><a href="/wiki/MP3_blog" title="MP3 blog">MP3 blog</a></td>
+<td>Matthew Perpetua</td>
+</tr>
+<tr>
+<td><a href="/wiki/FoodMayhem" title="FoodMayhem">FoodMayhem</a></td>
+<td>English</td>
+<td>Blog about all topics related to <a href="/wiki/Food" title="Food">food</a>.</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Front_porch_republic" title="Front porch republic" class="mw-redirect">Front Porch Republic</a></td>
+<td>English</td>
+<td><a href="/wiki/Localist" title="Localist" class="mw-redirect">Localist</a> blog.</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/GamePolitics.com" title="GamePolitics.com">GamePolitics.com</a></td>
+<td>English</td>
+<td>Blog about the <a href="/wiki/Politics" title="Politics">politics</a> of <a href="/wiki/Computer_and_video_games" title="Computer and video games" class="mw-redirect">computer and video games</a></td>
+<td>Dennis McCauley</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gawker.com" title="Gawker.com" class="mw-redirect">Gawker.com</a></td>
+<td>English</td>
+<td>Manhattan news and gossip</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Geenstijl.nl" title="Geenstijl.nl" class="mw-redirect">Geenstijl.nl</a></td>
+<td><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></td>
+<td>General commentary</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Generaci%C3%B3n_invisible" title="Generación invisible">Generación invisible</a></td>
+<td>Spanish</td>
+<td>Blog by professional journalists</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/GigaOM" title="GigaOM" class="mw-redirect">GigaOM</a></td>
+<td>English</td>
+<td>Blog with opinions on startups, new technologies, broadband, and online games</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gizmodo" title="Gizmodo">Gizmodo</a></td>
+<td>English, <a href="/wiki/French_language" title="French language">French</a>, Dutch. <a href="/wiki/Italian_language" title="Italian language">Italian</a>, German, Spanish, Japanese</td>
+<td><a href="/wiki/Consumer_electronics" title="Consumer electronics">Consumer electronics</a> centered blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Go_Fug_Yourself" title="Go Fug Yourself">Go Fug Yourself</a></td>
+<td>English</td>
+<td>Comedy fashion blog</td>
+<td>Jessica Morgan and Heather Cocks</td>
+</tr>
+<tr>
+<td><a href="/wiki/Google_Blogoscoped" title="Google Blogoscoped">Google Blogoscoped</a></td>
+<td>English</td>
+<td>Blog covering the <a href="/wiki/Google" title="Google">Google</a> <a href="/wiki/Search_engine" title="Search engine" class="mw-redirect">search engine</a></td>
+<td>Philip Lenssen</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gothamist" title="Gothamist">Gothamist</a></td>
+<td>English</td>
+<td>Local interest blog about New York, branch sites cover other cities</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Groklaw" title="Groklaw">Groklaw</a></td>
+<td>English</td>
+<td>Blog covering legal news pertinent to a free and open-source software community</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Grumpy_Old_Bookman" title="The Grumpy Old Bookman" class="mw-redirect">The Grumpy Old Bookman</a></td>
+<td>English</td>
+<td><a href="/wiki/Litblog" title="Litblog">Litblog</a></td>
+<td>Michael Allen</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gulfsails" title="Gulfsails">Gulfsails</a></td>
+<td>English</td>
+<td>Documented the <a href="/wiki/Effects_of_Hurricane_Katrina_in_New_Orleans" title="Effects of Hurricane Katrina in New Orleans">effects of Hurricane Katrina in New Orleans</a></td>
+<td>Troy Gilbert</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hollaback!" title="Hollaback!">Hollaback!</a></td>
+<td>English</td>
+<td><a href="/wiki/Photoblog" title="Photoblog">Photoblog</a> intended to raise awareness of <a href="/wiki/Street_harassment" title="Street harassment">street harassment</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hot_Air_(news_site)" title="Hot Air (news site)" class="mw-redirect">Hot Air</a></td>
+<td>English</td>
+<td>Center-right political and news blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/How_the_World_Sees_America" title="How the World Sees America">How the World Sees America</a></td>
+<td>English</td>
+<td>Blog showcasing views on the United States from around the world</td>
+<td>Amar C. Bakshi</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Huffington_Post" title="The Huffington Post">The Huffington Post</a></td>
+<td>English</td>
+<td><a href="/wiki/Modern_liberalism_in_the_United_States" title="Modern liberalism in the United States">Liberal</a> news blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/I_Can_Has_Cheezburger%3F" title="I Can Has Cheezburger?">I Can Has Cheezburger?</a></td>
+<td>English</td>
+<td>Blog featuring <a href="/wiki/Lolcats" title="Lolcats" class="mw-redirect">lolcats</a> and other animals created by the writers</td>
+<td>Eric Nakagawa and Kari Unebasami</td>
+</tr>
+<tr>
+<td><a href="/wiki/IPKat" title="IPKat">IPKat</a></td>
+<td>English</td>
+<td>Blog dedicated to <a href="/wiki/Intellectual_property_law" title="Intellectual property law" class="mw-redirect">intellectual property law</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Idolblog" title="Idolblog">Idolblog</a></td>
+<td>English</td>
+<td>Blog dedicated to the talent search show <a href="/wiki/NZ_Idol" title="NZ Idol" class="mw-redirect">NZ Idol</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Incidental_Economist" title="The Incidental Economist">The Incidental Economist</a></td>
+<td>English</td>
+<td>Blog focused on <a href="/wiki/Economics" title="Economics">economics</a>, <a href="/wiki/Health_policy" title="Health policy">health policy</a>, <a href="/wiki/Law" title="Law">law</a>.</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/India_Uncut" title="India Uncut">India Uncut</a></td>
+<td>English</td>
+<td>blog regarding <a href="/wiki/India" title="India">India</a></td>
+<td><a href="/wiki/Amit_Varma" title="Amit Varma">Amit Varma</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Inhabitat" title="Inhabitat">Inhabitat</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Sustainable_architecture" title="Sustainable architecture">sustainable architecture</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/InkTank" title="InkTank">InkTank</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Webcomic" title="Webcomic">webcomics</a></td>
+<td>Barry Smith</td>
+</tr>
+<tr>
+<td><a href="/wiki/IvyGate" title="IvyGate">IvyGate</a></td>
+<td>English</td>
+<td>News and gossip from <a href="/wiki/Ivy_League" title="Ivy League">Ivy League</a> schools</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Joystiq" title="Joystiq">Joystiq</a></td>
+<td>English</td>
+<td><a href="/wiki/Video_gaming" title="Video gaming" class="mw-redirect">Video gaming</a> blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jezebel_(website)" title="Jezebel (website)">Jezebel</a></td>
+<td>English</td>
+<td>Women’s interest blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jihad_Watch" title="Jihad Watch">Jihad Watch</a></td>
+<td>English</td>
+<td>Blog on the ideas behind <a href="/wiki/Jihad" title="Jihad">Islamic jihad</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kaboom:_A_Soldier%27s_War_Journal" title="Kaboom: A Soldier's War Journal" class="mw-redirect">Kaboom: A Soldier's War Journal</a></td>
+<td>English</td>
+<td>Military blog detailing a scout platoon leader’s daily life on the Iraqi frontlines</td>
+<td>LT G. (screen name)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kissing_Suzy_Kolber" title="Kissing Suzy Kolber">Kissing Suzy Kolber</a></td>
+<td>English</td>
+<td><a href="/wiki/NFL" title="NFL" class="mw-redirect">NFL</a> humor blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kotaku" title="Kotaku">Kotaku</a></td>
+<td>English</td>
+<td><a href="/wiki/Video_game" title="Video game">Video game</a> blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Language_Log" title="Language Log">Language Log</a></td>
+<td>English</td>
+<td>Language blog</td>
+<td><a href="/wiki/Mark_Liberman" title="Mark Liberman">Mark Liberman</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Law_and_the_Multiverse" title="Law and the Multiverse">Law and the Multiverse</a></td>
+<td>English</td>
+<td><a href="/wiki/Law" title="Law">Law</a> and <a href="/wiki/Comic_books" title="Comic books" class="mw-redirect">Comic books</a> blog</td>
+<td>James Daily and Ryan Davidson</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lebanese_Political_Journal" title="Lebanese Political Journal">Lebanese Political Journal</a></td>
+<td>English</td>
+<td>Blog commenting on various aspects of <a href="/wiki/Lebanon" title="Lebanon">Lebanese</a> politics</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Liberty_and_Power" title="Liberty and Power">Liberty and Power</a></td>
+<td>English</td>
+<td>A <a href="/wiki/Libertarianism" title="Libertarianism">Libertarian</a> political blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lifehacker.com" title="Lifehacker.com" class="mw-redirect">Lifehacker.com</a></td>
+<td>English</td>
+<td>Blog covering <a href="/wiki/Life_hack" title="Life hack" class="mw-redirect">life hacks</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Little_Green_Footballs" title="Little Green Footballs">Little Green Footballs</a></td>
+<td>English</td>
+<td>Center-left political blog</td>
+<td><a href="/wiki/Charles_Foster_Johnson" title="Charles Foster Johnson">Charles Foster Johnson</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Madame_Arcati" title="Madame Arcati" class="mw-redirect">Madame Arcati</a></td>
+<td>English</td>
+<td>British gossip blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Marginal_Revolution_(blog)" title="Marginal Revolution (blog)">Marginal Revolution</a></td>
+<td>English</td>
+<td><a href="/wiki/Economics" title="Economics">Economics</a> focused blog</td>
+<td><a href="/wiki/Tyler_Cowen" title="Tyler Cowen">Tyler Cowen</a> and <a href="/wiki/Alex_Tabarrok" title="Alex Tabarrok">Alex Tabarrok</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Marmot%27s_Hole" title="The Marmot's Hole">The Marmot's Hole</a></td>
+<td>English</td>
+<td>Blog focusing on <a href="/wiki/Korea" title="Korea">Korean</a> politics and society</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mashable" title="Mashable">Mashable</a></td>
+<td>English, French</td>
+<td>Social networking news based blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Memepool" title="Memepool">Memepool</a></td>
+<td>English</td>
+<td>Link blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/MetaFilter" title="MetaFilter">MetaFilter</a></td>
+<td>English</td>
+<td>Link and general interest blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Metro_Jacksonville" title="Metro Jacksonville">Metro Jacksonville</a></td>
+<td>English</td>
+<td>Urban development news and discussion blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Milblogging.com" title="Milblogging.com">Milblogging.com</a></td>
+<td>English</td>
+<td>Blog index to other <a href="/wiki/Warblog" title="Warblog">military blogs</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mind_Hacks" title="Mind Hacks">Mind Hacks</a></td>
+<td>English</td>
+<td><a href="/wiki/Psychology" title="Psychology">Psychology</a> and <a href="/wiki/Neuroscience" title="Neuroscience">neuroscience</a> blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mini-Microsoft" title="Mini-Microsoft">Mini-Microsoft</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a></td>
+<td>Anonymous</td>
+</tr>
+<tr>
+<td><a href="/wiki/MobuzzTV" title="MobuzzTV">MobuzzTV</a></td>
+<td>English, French, Spanish</td>
+<td>Technology and current event related video blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Momversation" title="Momversation">Momversation</a></td>
+<td>English</td>
+<td><a href="/wiki/Home_and_family_blog" title="Home and family blog" class="mw-redirect">Home and family blog</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Monsters_and_Critics" title="Monsters and Critics">Monsters and Critics</a></td>
+<td>English</td>
+<td><a href="/wiki/News_blog" title="News blog" class="mw-redirect">News blog</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/MSDN_Blogs" title="MSDN Blogs" class="mw-redirect">MSDN Blogs</a></td>
+<td>English</td>
+<td><a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> blog where employees blog to a public audience</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Music_(For_Robots)" title="Music (For Robots)">Music (For Robots)</a></td>
+<td>English</td>
+<td>MP3 Blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/MyDD" title="MyDD">MyDD</a></td>
+<td>English</td>
+<td><a href="/wiki/Progressivism" title="Progressivism">Progressive</a> <a href="/wiki/American_politics" title="American politics" class="mw-redirect">American politics</a> blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Node_Magazine" title="Node Magazine">Node Magazine</a></td>
+<td>English</td>
+<td>Blog to annotate the novel “<a href="/wiki/Spook_Country" title="Spook Country">Spook Country</a>”</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Oil_Drum" title="The Oil Drum">The Oil Drum</a></td>
+<td>English</td>
+<td>Blog on energy issues</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/OpEdNews" title="OpEdNews">OpEdNews</a></td>
+<td>English</td>
+<td>Blog on U.S. and world political issues</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Overheard_in_New_York" title="Overheard in New York">Overheard in New York</a></td>
+<td>English</td>
+<td>Humor blog of conversations heard in New York</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Overheard_in_Pittsburgh" title="Overheard in Pittsburgh">Overheard in Pittsburgh</a></td>
+<td>English</td>
+<td>Humor blog of conversations heard in <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a></td>
+<td>Chris Griswold</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Panda%27s_Thumb_(blog)" title="The Panda's Thumb (blog)">The Panda's Thumb</a></td>
+<td>English</td>
+<td>Blog on the creation-evolution controversy</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pharyngula_(blog)" title="Pharyngula (blog)">Pharyngula</a></td>
+<td>English</td>
+<td>Science blog</td>
+<td><a href="/wiki/PZ_Myers" title="PZ Myers">PZ Myers</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Patentlyo_(blog)" title="Patentlyo (blog)" class="mw-redirect">Patentlyo</a></td>
+<td>English</td>
+<td>Patent law blog</td>
+<td><a href="/wiki/Dennis_Crouch" title="Dennis Crouch">Dennis Crouch</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/PinoyCentric" title="PinoyCentric">PinoyCentric</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Filipino_culture" title="Filipino culture" class="mw-redirect">Filipino culture</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Politically_Incorrect_(Blog)" title="Politically Incorrect (Blog)" class="mw-redirect">Politically Incorrect</a></td>
+<td>German and English</td>
+<td>Political blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/PopText" title="PopText">PopText</a></td>
+<td>English</td>
+<td>Mp3 Blog</td>
+<td>Abigail McDonald</td>
+</tr>
+<tr>
+<td><a href="/wiki/Popjustice" title="Popjustice">Popjustice</a></td>
+<td>English</td>
+<td>Music blog</td>
+<td><a href="/wiki/Peter_Robinson_(journalist)" title="Peter Robinson (journalist)">Peter Robinson</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/PopSugar" title="PopSugar">PopSugar</a></td>
+<td>English</td>
+<td>Gossip and celebrity news blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/ProBlogger.com" title="ProBlogger.com" class="mw-redirect">ProBlogger.com</a></td>
+<td>English</td>
+<td>Blog tips</td>
+<td><a href="/wiki/Darren_Rowse" title="Darren Rowse">Darren Rowse</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Protein_Wisdom_(blog)" title="Protein Wisdom (blog)">Protein Wisdom</a></td>
+<td>English</td>
+<td>Conservative and Libertarian political blog</td>
+<td><a href="/wiki/Jeff_Goldstein" title="Jeff Goldstein" class="mw-redirect">Jeff Goldstein</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/QT%27s_Diary" title="QT's Diary">QT's Diary</a></td>
+<td>English</td>
+<td>Satirical blog whose writer falsely claimed to be <a href="/wiki/Quentin_Tarantino" title="Quentin Tarantino">Quentin Tarantino</a></td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td><a href="/wiki/Rate_Your_Students" title="Rate Your Students">Rate Your Students</a></td>
+<td>English</td>
+<td>Parody blog on the behavior of college students</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/ReadWriteWeb" title="ReadWriteWeb" class="mw-redirect">ReadWriteWeb</a></td>
+<td>English</td>
+<td>Blog on web technology</td>
+<td>Richard MacManus</td>
+</tr>
+<tr>
+<td><a href="/wiki/RealClimate" title="RealClimate">RealClimate</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Climatology" title="Climatology">climatology</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Religious_Policeman" title="The Religious Policeman" class="mw-redirect">The Religious Policeman</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></td>
+<td>Alhamedi Alanezi (user nam)</td>
+</tr>
+<tr>
+<td><a href="/wiki/ThePsychoExWife.com" title="ThePsychoExWife.com" class="mw-redirect">ThePsychoExWife.com</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Divorce_in_the_United_States" title="Divorce in the United States">divorce in the U.S.</a></td>
+<td>Anthony Morelli and Misty Weaver-Ostinato</td>
+</tr>
+<tr>
+<td><a href="/wiki/Retecool" title="Retecool">Retecool</a></td>
+<td>Dutch</td>
+<td>Shocklog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Rocketboom" title="Rocketboom">Rocketboom</a></td>
+<td>English</td>
+<td>Video blog</td>
+<td>Andrew Baron and <a href="/wiki/Joanne_Colan" title="Joanne Colan">Joanne Colan</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sarcastic_Gamer" title="Sarcastic Gamer">Sarcastic Gamer</a></td>
+<td>English</td>
+<td>Blog parodying the <a href="/wiki/Video_game_industry" title="Video game industry">video game industry</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Sartorialist" title="The Sartorialist">The Sartorialist</a></td>
+<td>English</td>
+<td>Fashion blog</td>
+<td><a href="/wiki/Scott_Schuman" title="Scott Schuman">Scott Schuman</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Scientific_Activist" title="The Scientific Activist">The Scientific Activist</a></td>
+<td>English</td>
+<td>Blog on science, politics, and science policy</td>
+<td>Nick Anthis</td>
+</tr>
+<tr>
+<td><a href="/wiki/SCOTUSblog" title="SCOTUSblog">SCOTUSblog</a></td>
+<td>English</td>
+<td>Blog on the <a href="/wiki/Supreme_Court_of_the_United_States" title="Supreme Court of the United States">Supreme Court of the United States</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Seeking_Alpha" title="Seeking Alpha">Seeking Alpha</a></td>
+<td>English</td>
+<td>Provides free <a href="/wiki/Stock_market" title="Stock market">stock market</a> advice through a blog format</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sense_on_Cents" title="Sense on Cents">Sense on Cents</a></td>
+<td>English</td>
+<td>Provides information on financial markets and the economy</td>
+<td>Larry Doyle</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_show_with_zefrank" title="The show with zefrank">the show with zefrank</a></td>
+<td>English</td>
+<td>Comedy and current events video blog</td>
+<td><a href="/wiki/Ze_Frank" title="Ze Frank">Ze Frank</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Simply_Recipes" title="Simply Recipes">Simply Recipes</a></td>
+<td>English</td>
+<td>Cooking recipes</td>
+<td>Elise Bauer</td>
+</tr>
+<tr>
+<td><a href="/wiki/Skatter_Tech" title="Skatter Tech">Skatter Tech</a></td>
+<td>English</td>
+<td>Technology review blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Slugger_O%27Toole" title="Slugger O'Toole">Slugger O'Toole</a></td>
+<td>English</td>
+<td>Irish news blog</td>
+<td><a href="/wiki/Mick_Fealty" title="Mick Fealty">Mick Fealty</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Smashing_Magazine" title="Smashing Magazine">Smashing Magazine</a></td>
+<td>English</td>
+<td>Blog on web design and web development</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Sneeze_(blog)" title="The Sneeze (blog)">The Sneeze</a></td>
+<td>English</td>
+<td>General interest blog</td>
+<td>Steve (screen name)</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Soxaholix" title="The Soxaholix">The Soxaholix</a></td>
+<td>English</td>
+<td>Comic-based blog for discussing the <a href="/wiki/Boston_Red_Sox" title="Boston Red Sox">Boston Red Sox</a></td>
+<td>Hart Brachen</td>
+</tr>
+<tr>
+<td><a href="/wiki/Squawk_Box" title="Squawk Box">Squawk Box</a></td>
+<td>English</td>
+<td>Blog for the <a href="/wiki/CNBC" title="CNBC">CNBC</a> show Squawk Box</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Stuff_White_People_Like" title="Stuff White People Like">Stuff White People Like</a></td>
+<td>English</td>
+<td><a href="/wiki/Satire" title="Satire">Satirical</a> blog about the interests of upper class white Americans</td>
+<td>Christian Lander</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sturvs" title="Sturvs">Sturvs</a></td>
+<td>English</td>
+<td><a href="/wiki/Nigeria" title="Nigeria">Nigerian</a> sharing and voting blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Surviving_Grady" title="Surviving Grady">Surviving Grady</a></td>
+<td>English</td>
+<td><a href="/wiki/Boston_Red_Sox" title="Boston Red Sox">Boston Red Sox</a> blog</td>
+<td>Red and Denton (screen names)</td>
+</tr>
+<tr>
+<td><a href="/wiki/TV_Newser" title="TV Newser" class="mw-redirect">TV Newser</a></td>
+<td>English</td>
+<td>American <a href="/wiki/Television_news" title="Television news" class="mw-redirect">television news</a> ticker blog</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/TechCrunch" title="TechCrunch">TechCrunch</a></td>
+<td>English, French, Japanese</td>
+<td>Blog covering <a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a> products and companies</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Tehran_Times" title="The Tehran Times">The Tehran Times</a></td>
+<td>English</td>
+<td>Blog related to <a href="/wiki/Iran" title="Iran">Iranian</a> <a href="/wiki/Street_fashion" title="Street fashion">street fashion</a></td>
+<td>Araz Fazaeli</td>
+</tr>
+<tr>
+<td><a href="/wiki/Terra_Nova_(blog)" title="Terra Nova (blog)">Terra Nova</a></td>
+<td>English</td>
+<td>Blog related to <a href="/wiki/Game_studies" title="Game studies">game studies</a> and <a href="/wiki/Virtual_worlds" title="Virtual worlds" class="mw-redirect">virtual worlds</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/TorrentFreak.com" title="TorrentFreak.com" class="mw-redirect">TorrentFreak.com</a></td>
+<td>English</td>
+<td><a href="/wiki/BitTorrent_(protocol)" title="BitTorrent (protocol)" class="mw-redirect">BitTorrent</a> news blog</td>
+<td>Ernesto (screen name)</td>
+</tr>
+<tr>
+<td><a href="/wiki/TPMCafe" title="TPMCafe">TPMCafe</a></td>
+<td>English</td>
+<td>Center-left political blog portal</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/TrueHoop" title="TrueHoop">TrueHoop</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Basketball" title="Basketball">basketball</a>, primarily the <a href="/wiki/NBA" title="NBA" class="mw-redirect">NBA</a></td>
+<td>Henry Abbott</td>
+</tr>
+<tr>
+<td><a href="/wiki/Valleywag" title="Valleywag">Valleywag</a></td>
+<td>English</td>
+<td>Gossip and news on Silicon Valley personalities</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Velvet_Underground_(blog)" title="Velvet Underground (blog)">Velvet Underground</a></td>
+<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></td>
+<td><a href="/wiki/Israel" title="Israel">Israeli</a> news blog</td>
+<td>Dvorit Shargal</td>
+</tr>
+<tr>
+<td><a href="/wiki/Vlogbrothers" title="Vlogbrothers" class="mw-redirect">Vlogbrothers</a></td>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+<td>Multi-topic video blog which generally focuses on science, literature, pop culture, nerd culture, etc. The Green Brothers created a popular online community known as Nerdfighteria (Members of which are called Nerdfighters).</td>
+<td><a href="/wiki/Hank_Green" title="Hank Green">Hank Green</a> and <a href="/wiki/John_Green_(author)" title="John Green (author)">John Green</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/The_Volokh_Conspiracy" title="The Volokh Conspiracy">The Volokh Conspiracy</a></td>
+<td>English</td>
+<td>Conservative political blog written mainly by law professors</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Watts_Up_With_That" title="Watts Up With That" class="mw-redirect">Watts Up With That</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">man made global warming</a></td>
+<td><a href="/wiki/Anthony_Watts_(blogger)" title="Anthony Watts (blogger)">Anthony Watts</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Wise_Bread" title="Wise Bread">Wise Bread</a></td>
+<td>English</td>
+<td>Blog on personal finances</td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Worldchanging" title="Worldchanging">Worldchanging</a></td>
+<td>English</td>
+<td>Blog pertaining to <a href="/wiki/Sustainability" title="Sustainability">sustainability</a> and <a href="/wiki/Social_innovation" title="Social innovation">social innovation</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Yummly" title="Yummly">Yummly</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Food" title="Food">Food</a>, <a href="/wiki/Recipes" title="Recipes" class="mw-redirect">Recipes</a> and <a href="/wiki/Technology" title="Technology">Technology</a></td>
+<td>Multi-author</td>
+</tr>
+<tr>
+<td><a href="/wiki/Zen_Habits" title="Zen Habits">Zen Habits</a></td>
+<td>English</td>
+<td>Blog on productivity, <a href="/wiki/Getting_Things_Done" title="Getting Things Done">GTD</a>, simplifying, living frugal, happiness and related topics.</td>
+<td><a href="/wiki/Leo_Babauta" title="Leo Babauta" class="mw-redirect">Leo Babauta</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Zooillogix" title="Zooillogix">Zooillogix</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Zoology" title="Zoology">zoology</a></td>
+<td>Andrew and Benny Bleiman</td>
+</tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="http://www.dailyo.in">DailyO</a></td>
+<td>English</td>
+<td>Blog on <a href="/wiki/Opinion" title="Opinion">opinion</a></td>
+<td>Multi-author</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_blogs&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1145
+CPU time usage: 0.135 seconds
+Real time usage: 0.156 seconds
+Preprocessor visited node count: 722/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 651/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.185      1 - -total
+ 52.95%    4.334      1 - Template:Dynamic_list
+ 41.10%    3.364      1 - Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19271757-0!*!0!*!*!*!* and timestamp 20150204095453 and revision id 645581120
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from &quot;<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=List_of_blogs&amp;oldid=645581120">http://en.wikipedia.org/w/index.php?title=List_of_blogs&amp;oldid=645581120</a>&quot;					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Blogs" title="Category:Blogs">Blogs</a></li><li><a href="/wiki/Category:Lists_of_websites" title="Category:Lists of websites">Lists of websites</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Dynamic_lists" title="Category:Dynamic lists">Dynamic lists</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+blogs&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+blogs" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_blogs"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:List_of_blogs"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/List_of_blogs" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=List_of_blogs&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_blogs&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_blogs" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_blogs" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=List_of_blogs&amp;oldid=645581120" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=List_of_blogs&amp;action=info" title="More information about this page">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6607979" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_blogs&amp;id=645581120" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+blogs">Create a book</a></li>
+													<li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+blogs&amp;oldid=645581120&amp;writer=rdf2latex">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=List_of_blogs&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/List%C4%83_de_bloguri" title="Listă de bloguri – Romanian" lang="ro" hreflang="ro">Română</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q6607979#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 February 2015, at 09:54.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_blogs&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" srcset="//bits.wikimedia.org/images/wikimedia-button-1.5x.png 1.5x, //bits.wikimedia.org/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.25wmf16/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//bits.wikimedia.org/static-1.25wmf16/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //bits.wikimedia.org/static-1.25wmf16/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1216"});
+}</script>
+	</body>
+</html>

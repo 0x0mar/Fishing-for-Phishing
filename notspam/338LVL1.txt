@@ -1,0 +1,1676 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"  lang="en-US">
+<head prefix="og:http://ogp.me/ns# fb:http://ogp.me/ns/fb# Product:http://ogp.me/ns/Product#">
+<title>Wedding bridal sarees, Designer lehengas sarees, Salwar kameez, Embroidered sarees salwar kameez, Bridal wedding lehengas, Traditional sarees lehngas from India</title>
+<meta name="description" content="Online shop for wedding bridal sarees, designer sarees, embroidered sarees salwar kameez, bridal wedding lehengas, traditional sarees lehengas, embroidered salwar kameez, traditional salwar kameez, designer lehengas for express delivery to USa, UK, India, australia and Worldwide"/>
+<meta name="keywords" content="Sarees, saris, salwar kameez, lehenga cholis, wedding bridal sarees, indian wedding lehengas, embroidered sarees, designer sarees salwar kameez, wedding lehengas, bridal lehengas, bridal lehenga cholis, salwar kameez shopping, traditional sarees lehenga cholis, embroidered salwar kameez wholesale, lehenga choli exporters wholesale, buy sari online, chaniya cholis, shalwar kameez, designer lehengas, salwar kameez fashion, traditonal wedding saris, saree wholesale, saree sari manufacturers exporters, Utsav Fashion jaipur" />
+<meta name="keyphrase" content="Wedding bridal sarees, Designer sarees lehngas, Salwar kameez, Embroidered sarees salwar kameez, Wedding bridal lehengas, Traditional sarees"/>
+<meta name="abstract" content="Online shop for wedding bridal sarees, designer sarees, embroidered sarees salwar kameez, bridal wedding lehenga cholis, traditional sarees lehenga cholis, embroidered salwar kameez, traditional salwar kameez, designer lehenga cholis"/>
+<meta name="classification" content="Manufacturer and Exporter of Indian sarees, salwar kameez and lehengas"/>
+<meta http-equiv="Content-Language" content="en-us"/>
+<meta name="robots" content="index,follow"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"521f27e860","applicationID":"3426284","transactionName":"YFNTZksHXkBWUkNcW1kZcGFpSVldU1RPG1VERkk=","queueTime":0,"applicationTime":31,"ttGuid":"82870BF7F8584C36","agent":"js-agent.newrelic.com/nr-515.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,t,e){function r(e){if(!t[e]){var o=t[e]={exports:{}};n[e][0].call(o.exports,function(t){var o=n[e][1][t];return r(o?o:t)},o,o.exports)}return t[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({QJf3ax:[function(n,t){function e(n){function t(t,e,a){n&&n(t,e,a),a||(a={});for(var u=c(t),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,e);return s}function a(n,t){f[n]=c(n).concat(t)}function c(n){return f[n]||[]}function u(){return e(t)}var f={};return{on:a,emit:t,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");t.exports=e()},{gos:"7eSDFh"}],ee:[function(n,t){t.exports=n("QJf3ax")},{}],gos:[function(n,t){t.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,t){function e(n,t,e){if(r.call(n,t))return n[t];var o=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,t,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[t]=o,o}var r=Object.prototype.hasOwnProperty;t.exports=e},{}],D5DuLP:[function(n,t){function e(n,t,e){return r.listeners(n).length?r.emit(n,t,e):(o[n]||(o[n]=[]),void o[n].push(t))}var r=n("ee").create(),o={};t.exports=e,e.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,t){t.exports=n("D5DuLP")},{}],XL7HBI:[function(n,t){function e(n){var t=typeof n;return!n||"object"!==t&&"function"!==t?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");t.exports=e},{gos:"7eSDFh"}],id:[function(n,t){t.exports=n("XL7HBI")},{}],loader:[function(n,t){t.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,t){function e(){var n=v.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(d,function(t,e){t in n||(n[t]=e)}),v.proto="https"===l.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var t=f.createElement("script");t.src=v.proto+n.agent,f.body.appendChild(t)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=window,f=u.document,s="addEventListener",p="attachEvent",l=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},v=t.exports={offset:i(),origin:l,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(f[p]("onreadystatechange",r),u[p]("onload",e)),a("mark",["firstbyte",i()])},{1:11,handle:"D5DuLP"}],11:[function(n,t){function e(n,t){var e=[],o="",i=0;for(o in n)r.call(n,o)&&(e[i]=t(o,n[o]),i+=1);return e}var r=Object.prototype.hasOwnProperty;t.exports=e},{}]},{},["G9z0Bl"]);</script>
+<meta charset="utf-8" />
+
+<meta http-equiv="Content-Style-Type" content="text/css"/>
+<link rel="alternate" hreflang="x-default" href="http://www.utsavfashion.com/" />
+<link rel="alternate" hreflang="en-in" href="http://www.utsavfashion.in" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.utsavfashion.com" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,300,600,700' rel='stylesheet' type='text/css'>
+      <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/style/bootstrap.css" />
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+<link href="/style/custom.css?v=030215" rel="stylesheet" type="text/css" />
+<link href="/style/home.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+    <script src="/include/index290115.js" type="text/javascript"></script>
+
+   
+
+
+
+<script type="text/javascript">
+        //Enabling tabs on hover
+    $(document).ready(function (e) {
+
+          
+
+            if ($(window).width() > 1024) {
+                $(".dropdown").hover(
+                    function() { $(this).addClass('open'); },
+                    function() { $(this).removeClass('open'); }
+                );
+                    $('.submenu > li > a').hover(
+                    function () {
+                        $(this).tab('show');
+                        $('.dropdown').removeClass('active');
+                    });
+            }
+
+            if ($(window).width() >= 768) { //vv
+                $('#scrRes').val('D');
+            } else {
+               $('#scrRes').val('M');
+            }
+
+
+//Enabling footer tabs on hover
+            $('.usp ul li a').hover(
+function () {
+    $(this).tab('show');
+});
+            //Search toggle function
+            $('#searchBtn').click(function () {
+                $('#searchForm').slideToggle();
+            });
+            //Footer links toggle function
+            if ($(window).width() <= 605) {
+                $('.links-head').click(function() {
+                    //alert($(window).width())
+                    $(this).parent().find('.links-menu').slideToggle();
+                });
+            }
+        });
+</script>
+
+<script type='text/javascript'>//<![CDATA[
+    if (typeof jQuery == 'undefined') {
+        document.write(unescape("%3Cscript src='/include/jquery-1.7.1.min.js' type='text/javascript' %3E%3C/script%3E"));
+    }//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+    var utsavcustomerid = null;
+    var utsavloginstate = null;
+    var utsaviscustomer = -1;
+    var utsavregistrationdate = null;
+    var utsavcustomerltv = -1;
+    var utsavlastpurchasedays = -1;
+    var utsavlastvisitdays = -1;
+    var utsavsignuptype = null;
+    var utsavdiscountcode = -1;
+    var utsavshopvalue = -1;
+    var utsavshopqty = -1;
+    var utsavshopcustomization = -1;
+    var utsavcartfreeship = -1;
+    var utsavcartproducttype = "";
+    var utsavcartqty = -1;
+    var utsavcartvalue = -1;
+    var utsaviswishlist = -1;
+    var utsavcartexist = -1;
+    var utsavcurrency = null;
+    var utsavshipppingcountry = null;
+    var utsavwishcookie = -1;
+    var utsavprofilecomplete = -1;
+    var utsavcustname = null;
+    var utsavcartid = null;
+    var utsavorderid = null;
+    var utscartupdate = null;
+    var utsavcustemail = null;
+
+    var countryname = readCookie('countryname');
+    var shopcookie = readCookie('universalcookieshop');
+    var CurCode = readCookie('currencychange');
+    var CheckWishCookie = readCookie('newWsList'); 
+    var CheckcartCookie = readCookie('newshopcart');
+    var universalgtmcookie = readCookie('universalcookie');
+    var utsavloginstate = readCookie('customerid');
+    if (utsavloginstate != null && utsavloginstate != "") {
+        utsavloginstate = "logged IN";
+    }
+    else {
+        utsavloginstate = "notloggedIn";
+    }
+
+    if (countryname != null && countryname != "") {
+        utsavshipppingcountry = countryname;
+    }
+    if (CurCode != null && CurCode != "") {
+        utsavcurrency = CurCode;
+    }
+    if (CheckWishCookie != null && CheckWishCookie != "") {
+        utsavwishcookie = 1;
+    }
+    else {
+        utsavwishcookie = 0;
+    }
+
+    if (CheckcartCookie != null && CheckcartCookie != "") {
+        utsavcartexist = 1;
+        var CookieCount = CheckcartCookie.split('|');
+        var Ccount = 0;
+        if (CookieCount.length > 1) {
+            for (var i = 1; i <= CookieCount.length - 1; i++) {
+                var PerItem = CookieCount[i].split('~');
+                Ccount += parseInt(PerItem[1], 10);
+                utsavcartqty = Ccount;
+            }
+        }
+    }
+    else {
+        utsavcartexist = 0;
+    }
+    if (shopcookie != null && shopcookie != "") {
+        var splitgtmcookieshop = shopcookie.split(':');
+
+        if (splitgtmcookieshop.length > 0) {
+
+            utsavcartproducttype = splitgtmcookieshop[0];
+            utsavcartvalue = splitgtmcookieshop[1];
+            if (splitgtmcookieshop.length > 3)
+                utscartupdate = splitgtmcookieshop[2];
+
+            if (splitgtmcookieshop.length > 4)
+                utsavcartid = splitgtmcookieshop[3];
+
+
+            if (splitgtmcookieshop.length > 5)
+                utsavorderid = splitgtmcookieshop[4];
+        }
+
+    } 
+    if (universalgtmcookie != null && universalgtmcookie != "") {
+        var splitgtmcookie = universalgtmcookie.split('|');
+        var br, colname, colvalue;
+        for (var i = 0; i < splitgtmcookie.length; i++) {
+            if (splitgtmcookie[i] != "") {
+                br = splitgtmcookie[i].split(":");
+                colname = br[0];
+                colvalue = br[1];
+
+                if ("customerid" == br[0] && br[1] != "")
+                    utsavcustomerid = br[1];
+                else if ("iscustomer" == br[0] && br[1] != "")
+                    utsaviscustomer = br[1];
+                else if ("registrationdate" == br[0] && br[1] != "")
+                    utsavregistrationdate = br[1];
+                else if ("cutomerltv" == br[0] && br[1] != "")
+                    utsavcustomerltv = br[1];
+                else if ("lastpurchasedays" == br[0] && br[1] != "")
+                    utsavlastpurchasedays = br[1];
+                else if ("lastvisitdays" == br[0] && br[1] != "")
+                    utsavlastvisitdays = br[1];
+                else if ("signuptype" == br[0] && br[1] != "")
+                    utsavsignuptype = br[1];
+                else if ("discountcode" == br[0] && br[1] != "")
+                    utsavdiscountcode = br[1];
+                else if ("shopvalue" == br[0] && br[1] != "")
+                    utsavshopvalue = br[1];
+                else if ("freeshipping" == br[0] && br[1] != "")
+                    utsavcartfreeship = br[1];
+                else if ("shopqty" == br[0] && br[1] != "")
+                    utsavshopqty = br[1];
+                else if ("customization" == br[0] && br[1] != "")
+                    utsavshopcustomization = br[1];
+                else if ("visitorprofilecomplete" == br[0] && br[1] != "")
+                    utsavprofilecomplete = br[1];
+                else if ("name" == br[0] && br[1] != "")
+                    utsavcustname = br[1];
+                else if ("email" == br[0] && br[1] != "")
+                    utsavcustemail = br[1];
+            }
+        }
+    }
+    dataLayer = [{
+        'ugtmcustomerid': utsavcustomerid,
+        'ugtmloginstate': utsavloginstate,
+        'ugtmiscustomer': utsaviscustomer,
+        'ugtmregistrationdate': utsavregistrationdate,
+        'ugtmcustomerltv': utsavcustomerltv,
+        'ugtmlastpurchasedays': utsavlastpurchasedays,
+        'ugtmlastvisitdays': utsavlastvisitdays,
+        'ugtmsignuptype': utsavsignuptype,
+        'ugtmshopcustomization': utsavshopcustomization,
+        'ugtmdiscountcode': utsavdiscountcode,
+        'ugtmshopvalue': utsavshopvalue,
+        'ugtmcartfreeship': utsavcartfreeship,
+        'ugtmshopqty': utsavshopqty,
+        'ugtmutscurrency': utsavcurrency,
+        'ugtmshipngcountry': utsavshipppingcountry,
+        'ugtmiswishlist': utsavwishcookie,
+        'ugtmcartexist': utsavcartexist,
+        'ugtmcartqty': utsavcartqty,
+        'ugtmcartproducttype': '[' + utsavcartproducttype + ']',
+        'ugtmcartvalue': utsavcartvalue,
+        'ugtmprofilecomplete': utsavprofilecomplete,
+        'ugtmcustname': utsavcustname,
+        'ugtmcartid': utsavcartid,
+        'ugtmorderid': utsavorderid,
+        'ugtcartdate': utscartupdate,
+        'ugtcustemail': utsavcustemail
+    }]
+    Date.prototype.getWeek = function () {
+        var onejan = new Date(this.getFullYear(), 0, 1);
+        return Math.ceil((((this - onejan) / 86400000) + onejan.getDay()) / 7);
+    }
+
+    function get_time() {
+        var date = new Date();
+        var days = date.getDate();
+        var month = date.getMonth() + 1;
+        var year = date.getFullYear();
+        var curr_time = year + "-" + month + "-" + days;
+        var curr_weekno = date.getWeek();
+        return (curr_time + "," + curr_weekno);
+    }
+    val1 = get_cookie('_ga');
+    if (val1 != null) {
+        finalval = get_cookie('Site-user');
+        if (finalval == null) {
+            var pos = val1.split('.');
+            var pos1 = pos[2];
+            var pos2 = pos[3];
+            newpos = pos1 + "." + pos2;
+
+            document.cookie = "Site-user" + "=" + newpos;
+            var arr = get_time().split(',');
+            var c_time = arr[0];
+            var c_weekno = arr[1];
+
+            /* GTM datalayer2 */
+
+            dataLayer.push({
+                'Home-Site-user': newpos,
+                'Ctime': c_time,
+                'CweekNo': c_weekno
+
+            });
+        }
+    }
+    //]]>
+</script>
+<script type="text/javascript">
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+    var msViewportStyle = document.createElement('style');
+  msViewportStyle.appendChild(
+    document.createTextNode(
+      '@-ms-viewport{width:auto!important}'
+    )
+  )
+    document.querySelector('head').appendChild(msViewportStyle);
+}
+</script>
+<style type="text/css" > 
+/*
+body{ background:url("../images/Holi-decor-bg.gif") no-repeat scroll center 0px transparent !important;}
+*/
+
+    
+@media only screen and (max-width:1024px) 
+ {
+  .nwHdrnav li{margin-left:12px;float:left;}
+}
+</style>
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@UtsavFashion" />
+<meta name="twitter:title" content="Wedding bridal sarees, Designer lehengas sarees, Salwar kameez, Embroidered sarees salwar kameez, Bridal wedding lehengas, Traditional sarees lehngas from India" />
+<meta name="twitter:description" content="Utsav Fashion: Online shop for wedding bridal sarees, designer sarees, embroidered sarees salwar kameez, bridal wedding lehengas, traditional sarees lehengas, embroidered salwar kameez, traditional salwar kameez, designer lehengas for express delivery to USa, UK, India, australia and Worldwide" />
+<meta name="twitter:creator" content="@UtsavFashion" />
+<meta name="twitter:image:src" content="http://www.utsavfashion.com/images/logo-tweeter.jpg" />
+<meta name="twitter:domain" content="UtsavFashion.com" />
+
+<meta property="fb:app_id" content="460014404094352" /> 
+<meta property="og:title" content="Wedding bridal sarees, Designer lehengas sarees, Salwar kameez, Embroidered sarees salwar kameez, Bridal wedding lehengas, Traditional sarees lehngas from India"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.utsavfashion.com"/>
+<meta property="og:image" content="http://www.utsavfashion.com/images/logo-large.jpg"/>
+<meta property="og:site_name" content="Utsav Fashion"/>
+<meta property="og:description" content="Online shop for wedding bridal sarees, designer sarees, embroidered sarees salwar kameez, bridal wedding lehengas, traditional sarees lehengas, embroidered salwar kameez, traditional salwar kameez, designer lehengas for express delivery to USa, UK, India, australia and Worldwide." />
+ 
+</head>
+<body onload="cookieUpdate()">
+<script type="text/javascript">
+
+dataLayer.push({
+'utpagename':'Home',
+'utpageurl':'/index.aspx'});
+</script>
+<div id="mainBody">
+<input type="hidden" id="searchtxt" value="" />
+<input type="hidden" id="signuppgvisit" value="8" /> 
+<input type="hidden" id="signupcnt" value="4" />
+<input type="hidden" id="_domain" value=".utsavfashion.com" />
+<input type="hidden" id="_appdomain" value="http://img5.utsavfashion.com/banner/" />
+<input type="hidden" id="_deviceval" value="1" />
+<input type="hidden" id="scrRes" value="D" />
+
+
+   
+<input type="hidden" id="id" /> 
+<input type="hidden" id="_align" /> 
+<input type="hidden" id="_hidewidth" /> 
+<div id="socialOffer"></div>
+   
+
+
+            
+  <header class="container">
+	<article class="row">
+    	<div class="col-xs-4 col-sm-5 left-header">
+        	<!-- nav toggle get grouped for better mobile display -->
+            <div class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-on-mobile">
+           
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+          </div>
+            
+            <!--Search Toggle-->
+             <div class="btn cta search-toggle" id="searchBtn"><div class="sprite search-btn"></div></div>
+            <!--Search Toggle end-->
+
+			<!-- select country dropdown code-->
+            <div id="countcurrdrop">
+                <div class="country" id="countrySelection">
+                    <img src="/images/flag.jpg" id="flagid" height="13" alt="United States"/>
+                    <label id="flagname">United States</label>
+                </div>
+              <div id="gbp_Dropdown" class="country-menu">
+                <b>Please select your preferences</b>
+                <div id="closecountcurr" class="close"><span aria-hidden="true">×</span></div>
+                <div role="form">
+                  <div class="form-group">
+                    <label>Ship to Country</label>
+                    <select onchange="ddlchange('country');showdropdown();" id="mycountry" class="form-control">
+                      <option value="US" id="USD1" title="USA">United States</option></select>
+                  </div>
+                  <div class="form-group">
+                    <label>Currency </label>
+                    <select id="mycurrency" onchange="ddlchange('currency');showdropdown();" class="form-control">
+                      <option id="USD" value="USD" title="">U.S. Dollar ($)</option>
+                    
+                    </select>
+                  </div>
+                  <div class="btn submit-btn" id="btnsubmit">Submit</div>
+              </div>
+              <div class="divider"></div>
+              <p>All payments will be charged in USD. Currencies shown here are only for reference.</p>
+              </div>
+            </div>
+            <div class="chat" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'livechat','eventValue' :'' }); lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/39756636/?cmd=file&amp;file=visitorWantsToChat&amp;site=39756636&amp;referrer=http%3A//www.utsavfashion.com/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat39756636','width=475,height=400,resizable=yes');return false;">
+            <div class="sprite chat-icon" id="liveChtN" ></div>
+            <label><span id="contactno" class="nwHdrphnInr"></span>Live chat</label>
+            </div>
+          <h6 class="header-msg">Welcome to Utsav Fashion, the favorite shopping<br />destination for online shoppers</h6>  
+        </div>
+        <a class="col-xs-4 col-sm-2 utsav-logo text-center" href="/"><img id="nwHdrlogo" src="/images/logo.png" class="img-responsive" itemscope="" itemtype="http://schema.org/Organization" onclick="window.parent.location.href='/';dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'List-Page', 'eventLabel':'logo','eventValue' :'' });" title="Online lehenga cholis, salwar kameez, sarees shopping made simple and easy!" alt="Online lehenga cholis, salwar kameez, sarees shopping made simple and easy!" /></a>
+        <div class="col-xs-4 col-sm-5 right-header">
+            <div class="dropdown">
+                <div class="sprite option-btn cta dropdown-toggle" id="optionDropdown" data-toggle="dropdown"></div>
+                <div class="dropdown-menu option-menu" role="menu" aria-labelledby="optionDropdown">
+                     <a href="/wishlist" >My Wishlist (<div id="shop1" class="wishm-count" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'<%=_page%>', 'eventLabel':'wishlist','eventValue' :'' });" >0</div>)</a>
+                     <div class="divider"></div>
+                    <a href="/account/myaccount.aspx">My Account</a>
+                    <span id="moblogout" ></span>
+                    <div class="divider"></div>
+                    <a href="/help/contactus.htm">Contact Us</a>
+                    <div class="divider"></div>
+                    <a href="/help/faq.htm">FAQs</a>
+                    <div class="divider"></div>
+                    <a href="#">Track Order</a>
+                    <div class="divider"></div>
+                    <a href="/help/shippingpolicy.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Shipping-/help/shippingpolicy.htm','eventValue' :'' });">Shipping</a>
+                    <div class="divider"></div>
+                    <a href="/help/privacypolicy.htm">Privacy</a>
+                    <div class="divider"></div>
+                    <a href="#">Terms & Conditions</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <div class="btn help-btn cta dropdown-toggle" id="helpDropdown" data-toggle="dropdown">
+                    <div class=" sprite help-icon"></div>
+                    <span>Help</span>
+                </div>
+                <div class="dropdown-menu help-menu" role="menu" aria-labelledby="helpDropdown">
+                	<b>Customer Service ( MON - SAT )</b>
+                    <p>For USA & Canada (9:00am - 9:00pm PST)</p>
+                    <div>1-800-390-2280</div>
+                    <p>All Countries (9:00am - 9:00pm PST)</p>
+                    <div>91-33-40280600</div>
+                    <p>Toll Free For India (7:00am - 4:00pm IST)</p>
+                    <div>1800-3010-4044</div>
+                    <div class="divider"></div>
+                    <b class="email">Email:</b>
+                    <a href="mailto:info@utsavfashion.com">info@utsavfashion.com</a>
+                    <div class="divider"></div>
+                    <b>How can we help?</b>
+                    <ul class="pull-left">
+                    	<li><a href="/help/faq.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'FAQs-/help/faq.htm','eventValue' :'' });">FAQs</a></li>
+                        <li> <a href="/help/shippingpolicy.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Shipping-/help/shippingpolicy.htm','eventValue' :'' });">Shipping</a></li>
+                        <li><a href="/account/loginform.aspx" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'My Account-/account/loginform.aspx','eventValue' :'' });">My Account</a> </li>
+                        <li><a href="/help/returnpolicy.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Returns-/help/returnpolicy.htm','eventValue' :'' });">Returns</a></li>
+                        <li><a href="/account/orderstatus.aspx" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Track Orde-/account/orderstatus.aspx','eventValue' :'' });">Track Order</a></li>
+                    </ul>
+                    <ul class="pull-right">
+                    	<li><a href="/help/paymentoptions.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Payment-/help/paymentoptions.htm','eventValue' :'' });">
+                                                Payment</a></li>
+                        <li><a href="/help/usage-terms.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Terms Conditions-/help/privacypolicy.htm','eventValue' :'' });">Terms & Conditions</a> </li>
+                        <li><a href="/help/privacypolicy.htm" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Privacy-/help/privacypolicy.htm','eventValue' :'' });">
+                                                    Privacy</a></li>
+                        <li><a href="/saree/how-to-wear-saree" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'How to Wear Saree-/saree/how-to-wear-saree','eventValue' :'' });">How to Wear Saree</a></li>
+                        <li><a href="/udesign/how-to-measure-saree-blouse" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'Measurement Guide-/udesign/how-to-measure-saree-blouse','eventValue' :'' });">
+                                                        Measurement Guide</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="dropdown">
+                <div class="btn account-btn cta dropdown-toggle" id="accountDropdown" data-toggle="dropdown">
+                    <div class=" sprite account-icon"></div>
+                    <span>My A/c</span>
+                </div>
+                                <div class="dropdown-menu account-menu" role="menu" aria-labelledby="accountDropdown">
+                	<span id="sign"><button  onclick="window.location.href = '/account/loginform.aspx';" type="button"  class="btn login-btn">Login</button></span>
+                  <span id="myact"> <button onclick="window.location.href = '/account/loginform.aspx';" type="button" class="btn create-btn">Create Account</button></span> 
+                </div>
+
+            </div>
+            
+            <a class="btn wishlist-btn cta" href="/wishlist" title="Wishlist" onclick="dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'<%=_page%>', 'eventLabel':'wishlist','eventValue' :'' });"><div class="sprite wishlist-icon"><div id="shop" class="wish-count">0</div></div><span>Wishlist</span></a>
+            
+            <div class="dropdown" id="shopping-bag">
+                <div data-toggle="dropdown" id="mini" class="btn bag-btn cta dropdown-toggle">
+                    <div class="sprite bag-icon"><div class="bag-count">0</div></div>
+                    <span>Shopping<br />Bag</span>
+                </div>
+                <div id="shop_bag" aria-labelledby='mini' role='menu' class='dropdown-menu bag-menu' style="display:none;"></div>
+        </div></div>
+    </article>
+    <article class='row mobile-search'><div class='container' id='searchForm' role='search'><div class='form-group search'><input type='text' onkeyup='keypress(event)' class='form-control search-field' name='ntext' id='ntextM' MaxLength='105' autocomplete='off' placeholder='Search...'/><input type='submit' class='sprite search-btn' id='sbuttonM' name='sbutton' value='' title='Search' onclick="javascript:return verifysearchkeywords_new('search','ntextM');dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'search','eventValue' :'' });" /><div class='style1' id='shadowM' style='height: 0px; width:100%; position: relative; z-index:999'><div class='output' id='outputM' style='overflow: auto'></div></div></div></div></article>
+    
+</header>
+<!--header code end-->
+<!--navigation bar code-->
+<nav class="navbar navbar-default" role="navigation">
+ <input type="hidden" id="_selectmenu" value="10999-0" />
+  <section class="container">
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-on-mobile">
+      <ul class="nav navbar-nav">
+       <li id="mn_11005_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" href="/" rev="Home">Home</a></li><li id="mn_10998_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:" rev="New &amp; Trending">New &amp; Trending</a><ul class="dropdown-menu new-trending"><li><ul class="nav submenu"><li id="mn_11006_10998_1" data-pid="10998" class=""><a class="tab" href="/newarrivals" rev="New Arrivals">New Arrivals<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11007_10998_1" data-pid="10998" class=""><a class="tab" href="/bestsellers" rev="Best Sellers">Best Sellers<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11008_10998_1" data-pid="10998" class=""><a class="tab" href="/trends" rev="Trending">Trending<mark class="glyphicon glyphicon-play"> </mark></a></li></ul><div class="tab-content submenu-dropdown"> </div></li><li class="featured-links"> </li></ul></li><li id="mn_10999_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:" rev="Women">Women</a><ul class="dropdown-menu new-trending"><li><ul class="nav submenu"><li id="mn_11010_10999_1" data-pid="10999" class=""><a class="tab" href="/saree" rev="Saree">Saree<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11011_10999_1" data-pid="10999" class=""><a class="tab" href="/salwar" rev="Salwar">Salwar<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11012_10999_1" data-pid="10999" class=""><a class="tab" href="/lehenga" rev="Lehenga">Lehenga<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11013_10999_1" data-pid="10999" class=""><a class="tab" href="/indowestern" rev="Indowestern">Indowestern<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11015_10999_1" data-pid="10999" class=""><a class="tab" href="/essentials" rev="Ethnic Essentials">Ethnic Essentials<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11016_10999_0" data-pid="10999" class=""><a class="tab" href="/collection/usignaturr" rev="USignaturr">USignaturr</a></li><li id="mn_11009_10999_0" data-pid="10999" class=""><a class="tab" href="/abayas-kaftans/women-gender" rev="Abayas &amp; More">Abayas &amp; More</a></li><li id="mn_11014_10999_1" data-pid="10999" class=""><a class="tab" href="/handbags" rev="Bags">Bags<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11017_10999_0" data-pid="10999" class=""><a class="tab" href="/footwear/women-gender" rev="Footwear">Footwear</a></li><li id="mn_11018_10999_0" data-pid="10999" class=""><a class="tab" href="/winterwear/women-gender" rev="Winterwear">Winterwear</a></li><li id="mn_11019_10999_0" data-pid="10999" class=""><a class="tab" href="/search/women#sorder=RL" rev="All">All</a></li></ul><div class="tab-content submenu-dropdown"> </div></li><li class="featured-links"> </li></ul></li><li id="mn_11004_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:" rev="Jewelry">Jewelry</a><ul class="dropdown-menu new-trending"><li><ul class="nav submenu"><li id="mn_11031_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/earrings-type" rev="Earrings">Earrings<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11030_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/necklaces-type" rev="NeckLaces">NeckLaces<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11032_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/bangles-type" rev="Bangles">Bangles<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11036_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/bridal-sets-type" rev="Bridal Sets">Bridal Sets<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11033_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/pendants-type" rev="Pendants">Pendants<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11038_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/mangalsutra-type" rev="MangalSutra">MangalSutra<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11039_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/mang-tikka-type" rev="Mang Tikka">Mang Tikka<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11034_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/rings-type" rev="Rings">Rings<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11035_11004_1" data-pid="11004" class=""><a class="tab" href="/jewelry/bracelets-type" rev="Bracelets">Bracelets<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11037_11004_0" data-pid="11004" class=""><a class="tab" href="/jewelry" rev="All">All</a></li></ul><div class="tab-content submenu-dropdown"> </div></li><li class="featured-links"> </li></ul></li><li id="mn_11000_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:" rev="Men">Men</a><ul class="dropdown-menu new-trending"><li><ul class="nav submenu"><li id="mn_11021_11000_1" data-pid="11000" class=""><a class="tab" href="/men/kurta-pajama-type" rev="Kurta Pajama">Kurta Pajama<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11023_11000_1" data-pid="11000" class=""><a class="tab" href="/men/indowestern-dress-type" rev="Indowestern Dress">Indowestern Dress<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11022_11000_1" data-pid="11000" class=""><a class="tab" href="/men/sherwani-type" rev="Sherwani">Sherwani<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11024_11000_1" data-pid="11000" class=""><a class="tab" href="/men/nehru-jacket-type" rev="Nehru Jacket ">Nehru Jacket <mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11020_11000_0" data-pid="11000" class=""><a class="tab" href="/men" rev="All">All</a></li></ul><div class="tab-content submenu-dropdown"> </div></li><li class="featured-links"> </li></ul></li><li id="mn_11001_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:" rev="Kids">Kids</a><ul class="dropdown-menu new-trending"><li><ul class="nav submenu"><li id="mn_11026_11001_1" data-pid="11001" class=""><a class="tab" href="/kids/girl-gender" rev="For Girls">For Girls<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11025_11001_1" data-pid="11001" class=""><a class="tab" href="/kids/boy-gender" rev="For Boys">For Boys<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11027_11001_0" data-pid="11001" class=""><a class="tab" href="/kids" rev="All">All</a></li></ul><div class="tab-content submenu-dropdown"> </div></li><li class="featured-links"> </li></ul></li><li id="mn_11002_0_0" data-pid="" class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="javascript:" rev="Home Decor">Home Decor</a><ul class="dropdown-menu new-trending"><li><ul class="nav submenu"><li id="mn_11029_11002_1" data-pid="11002" class=""><a class="tab" href="/home-decor/bedspreads-type" rev="Bedspreads">Bedspreads<mark class="glyphicon glyphicon-play"> </mark></a></li><li id="mn_11028_11002_0" data-pid="11002" class=""><a class="tab" href="/home-decor" rev="All">All</a></li></ul><div class="tab-content submenu-dropdown"> </div></li><li class="featured-links"> </li></ul></li><li id="mn_11003_0_1" data-pid="" class="dropdown"><a class="dropdown-toggle" href="/sale" rev="Sale &amp; Promotions">Sale &amp; Promotions</a></li>
+       
+      </ul>
+      <div class='navbar-form navbar-right' role='search'><div class='form-group search'><input type='text' onkeyup='keypress(event)' class='form-control search-field' id='ntextD' name='ntext' MaxLength='105' autocomplete='off' placeholder='Search...'/><input type='submit' class='sprite search-btn' id='sbuttonD' name='sbutton' value='' title='Search' onclick="javascript:return verifysearchkeywords_new('search','ntextD');dataLayer.push({'event' :'Event-Header-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'search','eventValue' :'' });" /><div class='style1' id='shadowD' style='height: 0px;  width:100%; position: relative; z-index:999'><div class='output' id='outputD' style='overflow: auto;'></div></div></div></div>
+      
+    </div>
+        
+    <!-- /.navbar-collapse -->
+    <div class="quick-links">
+    <label>Quick go to<span class="sprite nav-arrow"></span></label>
+            <div class="cat-links">
+            <a href="/saree">Saree</a>
+            <span>|</span>
+            <a href="/salwar">Salwar</a>
+            <span>|</span>
+            <a href="/lehenga">Lehenga</a>
+            <span>|</span>
+            <a href="/indowestern ">Indowestern</a>
+            <span>|</span>
+            <a href="/essentials">Ethnic Essentials</a>
+            <span>|</span>
+            <a href="/collection/usignaturr">USignaturr</a>
+            <span>|</span>
+            <a href="/abayas-kaftans">Abayas & More</a>
+            <span>|</span>
+            <a href="/winterwear">Winterwear</a>
+            <span>|</span>
+            <a href="/handbags">Bags</a>
+            <span>|</span>
+            <a href="/footwear">Footwear</a>
+            <span>|</span>
+            <a href="/men/sherwani-type">Sherwani</a>
+            
+        </div>
+    </div>
+  </section><!-- /.container -->
+</nav>
+        <input type ="hidden" id="Checkheader" value="0" />
+                    <div class="fullPercentHdrBg"></div>      
+                
+          
+
+
+<section class="container">
+<article class="row"><div data-ride="carousel" class="carousel slide container" id="bannerSlider"><div class="carousel-inner"><div class="item active"><a rel='0' href='/promotions/lp/3'><img border="0" src='http://img5.utsavfashion.com/home/us/hs-wed-gen-yes-cupidatplay-040215.gif' onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'hs-wed-gen-yes-cupidatplay-040215' , 'eventLabel':'HS1', 'eventValue':''});" alt='25% off on Color Curated Valentine Collection, plus Ready-to-Ship Closet &amp; Gift Cards. Get more!' title='25% off on Color Curated Valentine Collection, plus Ready-to-Ship Closet &amp; Gift Cards. Get more!' /></a></div><div class="item"><a rel='1' href='/promotions/lp/6'><img border="0" src='http://img5.utsavfashion.com/home/us/hs-m-gen-no-holi-090215.jpg' onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'hs-m-gen-no-holi-090215' , 'eventLabel':'HS2', 'eventValue':''});" alt='Holi Collection of Apparels &amp; Accessories in Yellow, Orange, Blue, Pink &amp; more. Make a splash!' title='Holi Collection of Apparels &amp; Accessories in Yellow, Orange, Blue, Pink &amp; more. Make a splash!' /></a></div><div class="item"><a rel='2' href='/promotions/26'><img border="0" src='http://img5.utsavfashion.com/home/us/hs-m-gen-no-wheneverwearever-090215.jpg' onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'hs-m-gen-no-wheneverwearever-090215' , 'eventLabel':'HS3', 'eventValue':''});" alt='Assorted Timeless Collection of Women’s Wear, Men’s Wear, Kids’ Wear &amp; Accessories. Own now!' title='Assorted Timeless Collection of Women’s Wear, Men’s Wear, Kids’ Wear &amp; Accessories. Own now!' /></a></div><div class="item"><a rel='3' href='/promotions/35'><img border="0" src='http://img5.utsavfashion.com/home/us/hs-f-gen-no-justinvogue-060215.jpg' onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'hs-f-gen-no-justinvogue-060215' , 'eventLabel':'HS4', 'eventValue':''});" alt='Popular Styles of Asymmetrical Salwars, Lace Work Sarees, Abayas with Trousers &amp; More. Shop away!' title='Popular Styles of Asymmetrical Salwars, Lace Work Sarees, Abayas with Trousers &amp; More. Shop away!' /></a></div></div><ol class="carousel-indicators"><li class="active" data-slide-to='0' data-target="#bannerSlider"></li><li data-slide-to='1' data-target="#bannerSlider" class=""></li><li data-slide-to='2' data-target="#bannerSlider" class=""></li><li data-slide-to='3' data-target="#bannerSlider" class=""></li></ol></div><div class="slider-line"></div></article>
+<article class="row gap"><div class="col-sm-12 col-xs-6 text-center gap welcome-outer"><p><span>Welcome to Utsav Fashion, the favorite shopping destination for online shoppers:</span> An exclusive webstore for Indian dresses, we offer an eclectic collection of Indian ethnic clothing right from Sarees, Salwar Kameez, Lehengas, Indo-western wear to Footwear, Handbags, Jewelry, and Accessories to match. Uncover a range of Indian fashion outfits and bridal wear handpicked from all corners of the country, reflecting the vibrancy inherent in all things Indian!</p></div>  
+<figure class="col-sm-4 col-xs-6"><a href='/promotions/lp/1'><img src='http://img5.utsavfashion.com/home/us/mid-gen-no-flowingorstructured-060215-a.jpg' title="Fashionable Closet of Flowing Attires &amp; Structured Garments for distinct shape preferences. Shop!" alt="Fashionable Closet of Flowing Attires &amp; Structured Garments for distinct shape preferences. Shop!" onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'mid-gen-no-flowingorstructured-060215-a' , 'eventLabel':'', 'eventValue':''});" class="img-responsive content-center"/></a><figcaption><h4 class="midh">Fashion Diary</h4><div style="cursor: pointer;" class="midspan">Flowy Attires vs Structured Garments: Pick the shape that defines you!&nbsp;<a class="mida" href="/promotions/lp/1">Take a Look.</a></div></figcaption></figure><div class="clearfix break-toggle"></div><figure class="col-sm-4 col-xs-6"><a href='/promotions/lp/4'><img src='http://img5.utsavfashion.com/home/us/mid-110215-abc.jpg' title="Conquer hearts with our Moghul-inspired Collection curated by Styles &amp; Types of Work. Indulge!" alt="Conquer hearts with our Moghul-inspired Collection curated by Styles &amp; Types of Work. Indulge!" onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'mid-110215-abc' , 'eventLabel':'', 'eventValue':''});" class="img-responsive content-center"/></a><figcaption><h4 class="midh">The Moghul Empress</h4><div class="midspan">Magnificent Moghul-inspired Collection.&nbsp;<a class="mida" href="/promotions/lp/4">Shop Now!</a></div></figcaption></figure><figure class="col-sm-4 col-xs-6"><a href='/readytoship'><img src='http://img5.utsavfashion.com/home/us/mid-1-gen-no-assureddelivery-10-02-15.gif' title="Assured Delivery on Ready to Ship Items. Shop!" alt="Assured Delivery on Ready to Ship Items. Shop!" onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'mid-1-gen-no-assureddelivery-10-02-15' , 'eventLabel':'', 'eventValue':''});" class="img-responsive content-center"/></a><figcaption><h4 class="midh">Assured Delivery</h4><div style="cursor: pointer;" class="midspan">Fly Fashion with 1 Day Dispatch. Introducing 3 day Assured Delivery to USA!&nbsp;<a class="mida" href="/readytoship">Shop Now.</a></div></figcaption></figure></article>
+<div class="clr"></div>
+<article class="row gap"><figure class="col-md-3 col-sm-3 col-xs-6"><a href='/freeshipping'><img src='http://img5.utsavfashion.com/home/us/bottom-gen-yes-freeshippingworldwide-090215(1).jpg' class="img-responsive content-center" title="Free Shipping Worldwide on products worth $99 &amp; above." alt="Free Shipping Worldwide on products worth $99 &amp; above."  onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'bottom-gen-yes-freeshippingworldwide-090215(1)' , 'eventLabel':'', 'eventValue':''});"/></a><figcaption><h4 class="midh">Free Shipping Ride</h4><div style="cursor: pointer;" class="midspan">Free Shipping Worldwide on products worth $99 &amp; above.&nbsp;Shop &amp; Drop!&nbsp;<a class="mida" href="/freeshipping">Shop &amp; Drop!</a></div></figcaption></figure><figure class="col-md-3 col-sm-3 col-xs-6"><a href='/newarrivals'><img src='http://img5.utsavfashion.com/home/us/bottom-gen-no-newarrivals-280115-a.jpg' class="img-responsive content-center" title="New Range of Outfits, Accessories and more. Rush to shop!" alt="New Range of Outfits, Accessories and more. Rush to shop!"  onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'bottom-gen-no-newarrivals-280115-a' , 'eventLabel':'', 'eventValue':''});"/></a><figcaption><h4 class="midh">Closet Update</h4><div style="cursor: pointer;" class="midspan">New Outfits &amp; Accessories for Ethnic Wardrobe Update.&nbsp;<a class="mida" href="/newarrivals">Hop to Shop!</a></div></figcaption></figure><div class="clearfix break-toggle" ></div><figure class="col-md-3 col-sm-3 col-xs-6"><a href='/events/ucarnival.aspx'><img src='http://img5.utsavfashion.com/home/us/bottom-3-gen-no-ucarnival-090215.jpg' class="img-responsive content-center" title="UCarnival 2015 is here to impress. Know more!" alt="UCarnival 2015 is here to impress. Know more!"  onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'bottom-3-gen-no-ucarnival-090215' , 'eventLabel':'', 'eventValue':''});"/></a><figcaption><h4 class="midh">UCarnival 2015</h4><div style="cursor: pointer;" class="midspan">Join the biggest ever expo of Indian Ethnic Fashion.&nbsp;<a class="mida" href="/events/ucarnival.aspx">Explore.</a></div></figcaption></figure><figure class="col-md-3 col-sm-3 col-xs-6"><a href='/search/ethnic-jacket#cat=men~indowestern~winterwear~abayas-kaftans~essentials/sorder=rl'><img src='http://img5.utsavfashion.com/home/us/bottom-gen-no-veryhauteveryindian-110215.jpg' class="img-responsive content-center" title="Elegant Nehru Jackets, Bandhgalas, Overcoats, Ethnic Blouses with Jackets - and more. Shop!" alt="Elegant Nehru Jackets, Bandhgalas, Overcoats, Ethnic Blouses with Jackets - and more. Shop!"  onclick="dataLayer.push({'event':'Event-Home-Page-Click','eventCategory':'Home-Click', 'eventAction':'bottom-gen-no-veryhauteveryindian-110215' , 'eventLabel':'', 'eventValue':''});"/></a><figcaption><h4 class="midh">Very haute. Very Indian.</h4><div class="midspan">In-vogue Ethnic Jackets for the India-lover’s wardrobe!&nbsp;<a class="mida" href="/search/ethnic-jacket#cat=men~indowestern~winterwear~abayas-kaftans~essentials/sorder=rl">Shop Now.</a></div></figcaption></figure></article>
+<div class="clr"></div>
+<article class="row"><div class="col-xs-12 testimonials"><div class="col-xs-2"><figure><img src="images/lft-coln.gif" class="img-responsive pull-right" style="margin-top:40px;" alt=''></figure></div><div class="col-xs-8"><div class="happycustomer">A Happy Utsav Customer Says</div><p><em>"I have received my ordered outfit. It is of good quality. Thank you for the same."</em></p><span>Padmini Ram.  Auckland, New Zealand | Feb 10, 2015</span><br><a href="../testimonials">Read More</a><br></div><div class="col-xs-2"><figure><img src="images/rgt-coln.gif" class="img-responsive pull-left" style="margin-top:40px;" alt=''></figure></div></div></article>
+<div class="clearfix"></div>
+</section>
+
+<div class="clr"></div>
+<div class="mainContainer"></div>
+       <footer>
+	<section class="row newsletter">
+        <div class="container">
+          <article class="row">
+              <div class="news-heading col-md-8">Newsletters Sign Up <span>|</span>
+              <p>Track the latest collections & offers from Utsav fashion.</p>
+              </div>
+              <div class="form-inline col-md-4" role="form">
+                <div class="form-group">
+                <input type="text" name="Email" id="Email" class="form-control" value="Enter email address" onfocus="inpFocus(this,'Enter email address')" onblur="inpBlur(this,'Enter email address')" placeholder="Enter email address" />
+                 <button id="subimtLetter1" class="btn submit-btn" title="Submit" onclick="javascript: return submitLetterindexaspx_n('N');">Submit</button>
+                </div>
+              </div>
+          </article>
+        </div>
+    </section>
+    <section class="container footer-nav">
+    	<article class="row">
+        	<div class="col-md-9">
+                <article class="row">
+                    <div class="col-xs-3 footer-links">
+                        <div class="links-head" >Need Help</div>
+                        <div class="links-menu">
+                           <a href="/help/contactus.htm" onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'contactus-/help/contactus.htm','eventValue' :'' });">
+                                Contact Us</a>
+<a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'faqs-/help/faq.htm','eventValue' :'' });" href="/help/faq.htm">FAQ’s</a>
+<a href="/saree/how-to-wear-saree" onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'header','eventAction':'home', 'eventLabel':'How to Wear Saree-/saree/how-to-wear-saree','eventValue' :'' });">How to Wear Saree</a>
+<a href="/store/giftcard.aspx">Buy Gift Card</a>
+<a onclick="dataLayer.push({'event':'Event-footer-Click','eventCategory':'footer','eventAction':'home','eventLabel': 'payment-/help/paymentoptions.htm','eventValue' :'' });" href="/shop/quickpayment.aspx">Custom Payment</a>
+<a href="/udesign/how-to-measure-saree-blouse">Size Guide</a>
+<a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'sitemap-/help/sitemap.htm','eventValue' :'' });" href="/help/sitemap.htm">Site Map</a>
+
+                        </div>
+                    </div>
+                    <div class="col-xs-3 footer-links">
+                        <div class="links-head">Shopping at Utsav</div>
+                        <div class="links-menu">
+                            <a href="/newarrivals">New Arrivals</a>
+                            <a href="/readytoship">Ready to Ship</a>
+                            <a href="/bestsellers">Best Sellers</a>
+                            <a href="/sale">Sale & Promotions</a>
+                            <a href="/exclusive">Exclusive</a>
+                            <a href="/variety">Variety</a>
+                            <a href="/trends">Trends</a>
+                        </div>
+                    </div>
+                    <div class="col-xs-3 footer-links">
+                        <div class="links-head">About Utsav</div>
+                        <div class="links-menu">
+                           <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'aboutus-/help/aboutus.htm','eventValue' :'' });" href="/help/aboutus.htm" rel="nofollow">About Us</a>
+<a href="/help/retail-store.htm">Our Store</a>
+<a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'CAREERS-/store/currentopenings.aspx','eventValue' :'' });" href="/store/currentopenings.aspx" rel="nofollow">Careers</a>
+<a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'testimonials-/testimonials','eventValue' :'' });" href="/testimonials">Testimonials</a>
+<a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'privacy policy-/help/privacypolicy.htm','eventValue' :'' });" href="/help/privacypolicy.htm" rel="nofollow">Privacy Policy</a>
+<a onclick="dataLayer.push({'event':'Event-footer-Click','eventCategory':'footer','eventAction':'home','eventLabel': 'returns-/help/returnpolicy.htm','eventValue' :'' });" href="/help/returnpolicy.htm">Return Policy</a>
+<a onclick="dataLayer.push({'event':'Event-footer-Click','eventCategory':'footer','eventAction':'home','eventLabel': 'shipping-/help/shippingpolicy.htm','eventValue' :'' });" href="/help/shippingpolicy.htm" rel="nofollow">Shipping Policy<img src="/images/new-shipping.gif" alt="" class="shipping-new" /></a>
+
+                        </div>
+                    </div>
+                    <div class="col-xs-3 footer-links">
+                        <div class="links-head">Interesting Links</div>
+                        <div class="links-menu">
+                            <a href="/saree/pre-stitched-saree.htm" >Pre-Stitched Sarees</a>
+                            <a href="/udesign/how-to-measure-saree-blouse">Saree Customization</a>
+                            <a href="/udesign/how-to-measure-salwar-kameez">Salwar Customization</a>
+                            <a href="/udesign/how-to-measure-lehenga-choli">Lehenga Customization</a>
+                            <a href="/freegifts">Free Gifts</a>
+                           
+                            
+                        </div>
+                    </div>
+                </article>
+            </div>
+            <div class="col-md-3 feedback">
+                <div class="links-head">Help Us to Serve You Better</div>
+                <p>Share your Feedback & get <b>$5 off</b> on your next Purchase.</p>
+             
+             <a title="Feedback" href="https://www.research.net/s/VYHKQD5" target="_blank" onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'feedbacksurvey','eventValue' :'' });" class="btn submit-btn">Feedback</a>
+            </div>
+        </article>
+    </section>
+    <section class="container attractions">
+        <article class="row">
+            <div class="col-xs-2 social-media">
+                <em>Connect with us</em>
+
+                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'Outbound-Links','eventAction':'home', 'eventLabel':'twitter.com','eventValue' :'' });" title="Twitter" target="_blank" href="http://www.twitter.com/UtsavFashion" class="sprite twiter-icon">
+                                </a>
+                                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'facebook.com','eventValue' :'' });" title="Facebook" target="_blank" href="http://www.facebook.com/UtsavFashion" class="sprite fb-icon">
+                                </a>
+
+<a class="sprite google-icon" onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'Outbound-Links','eventAction':'home', 'eventLabel':'google+','eventValue' :'' });" href="https://plus.google.com/u/0/+utsavfashion/posts" target="_blank" title="Google Plus" ></a>
+<a  class="sprite pinterest-icon" href="http://pinterest.com/utsavfashion/" target="_blank" title="Pinterest" onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'Outbound-Links','eventAction':'home', 'eventLabel':'pinterest.com','eventValue' :'' });"></a>
+<a class="sprite youtube-icon" onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'Outbound-Links','eventAction':'home', 'eventLabel':'youtube.com','eventValue' :'' });" title="You Tube" target="_blank" href="http://youtube.com/user/utsavsarees" ></a>
+
+                
+            </div>
+            <div class="col-xs-3 trust-factors">
+                <div class="pull-left secured">
+                	<em>Secured by</em>
+                    <span><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.utsavfashion.com&amp;size=XS&amp;use_flash=No&amp;use_transparent=YES&amp;lang=en"></script></span>
+                </div>
+                <div class="pull-left certify">
+                	<em>Certified with</em>
+                    <div class="sprite export-icon"></div>
+                    <div class="sprite silk-icon"></div>
+                    <div class="sprite handloom-icon"></div>
+                </div>
+            </div>
+
+
+                        <div class="col-xs-4 uproperty">
+                <em>More from Utsav fashion</em>
+                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'udesign','eventValue' :'' });" target="_blank" href="/udesign" title="UDesign" class="sprite udesign-icon"><span class="icons-sprite uproperty-hover"></span></a>
+                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'usignaturr','eventValue' :'' });" target="_blank" href="/collection/usignaturr" title="USignaturr" class="sprite usignaturr-icon"><span class="icons-sprite uproperty-hover"></span></a>
+                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'usignaturr','eventValue' :'' });" target="_blank" href="/saree/how-to-wear-saree" title="Udrape" class="sprite udrape-icon"><span class="icons-sprite uproperty-hover"></span></a>
+                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'utsavpedia','eventValue' :'' });" target="_blank" href="http://www.utsavpedia.com/" title="Utsavpedia" class="sprite upedia-icon"><span class="icons-sprite uproperty-hover"></span></a>
+                <a onclick="dataLayer.push({'event' :'Event-footer-Click','eventCategory':'footer','eventAction':'home', 'eventLabel':'ucarnival','eventValue' :'' });" target="_blank" href="http://www.ucarnival.com" title="UCarnival" class="sprite ucarnival-icon"><span class="icons-sprite uproperty-hover"></span></a>
+            </div>
+
+             <!-- Tab panes -->
+            
+
+
+            <div class="col-xs-3 usp">
+            	<!-- Tab panes -->
+                <div class="tab-content">
+
+
+                  <div class="tab-pane active" id="tailoring">Custom Tailoring For all Sizes</div>
+                  <div class="tab-pane" id="gift">Free Fashion Accessory with every item</div>
+                  <div class="tab-pane" id="uploads">300+ New Products Added Daily</div>
+                  <div class="tab-pane" id="shipping">1 Day Dispatch: Ready To Ship</div>
+                  <div class="tab-pane" id="world">Free Worldwide Shipping over $99 items</div>
+                  <div class="tab-pane" id="range">Largest Range of Indian Ethnic Fashion</div>
+                </div>
+                
+                <!-- Nav tabs -->
+                <ul role="tablist">
+                  <li class="active"><a href="#tailoring" role="tab" data-toggle="tab" class="sprite tailoring"></a></li>
+                  <li><a href="#gift" role="tab" data-toggle="tab" class="sprite gift"></a></li>
+                  <li><a href="#uploads" role="tab" data-toggle="tab" class="sprite uploads"></a></li>
+                  <li><a href="#shipping" role="tab" data-toggle="tab" class="sprite shipping"></a></li>
+                  <li><a href="#world" role="tab" data-toggle="tab" class="sprite world"></a></li>
+                  <li><a href="#range" role="tab" data-toggle="tab" class="sprite range"></a></li>
+                </ul>
+            </div>
+        </article>
+    </section>
+    <section class=" container">
+    	<article class="row text-center copy-right">
+        	<p>© 2015 Utsav Fashion | All Rights Reserved</p>
+        </article>
+    </section>
+</footer>
+<div class="lft" style="display:none">  
+  <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+  <noscript>
+  <div style="display:inline;"> <img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1000081534/?value=0&amp;label=qxPnCMq6tAUQ_pDw3AM&amp;guid=ON&amp;script=0"/> </div>
+  </noscript>
+  <script type="text/javascript" >      showheadNew('Y');showaccountNew("Y");</script> 
+</div></div>
+<script src="/include/autosearch101214.js" type="text/javascript"></script>
+
+                       
+
+                       <script type="text/javascript">
+ 
+ var CustNameCookie = readCookie('custname');
+ var CheckWishCookie = readCookie('newWsList');
+  showWishLCount();
+
+function getsessionsymbol() {/* for sessinssymbol*/
+     var symbol="$";
+     
+     symbol ='$';    
+        
+        
+      return symbol;
+}
+function getakamai_country()
+{
+var akamai_country = 'US';
+
+    return akamai_country;
+}
+
+function getsessionCurSName() {/* for sessinssymbol*/
+     var symbol="USD";
+     
+     symbol ='USD';
+     
+     return symbol;
+}
+
+showheadNewmob("Y");
+showheadNew('Y');
+showaccountNew("Y");
+ var CheckcartCookie = readCookie('newshopcart');
+ if(CheckcartCookie!=null && CheckcartCookie!="")
+ showminicartNew('N');
+
+function SetCurrOnload() {
+
+          var ajaxCall = null;
+          var Countrycode = readCookie('countrycode');
+              var countryname=readCookie('countryname');
+              
+                                  
+                                            if(countryname !=null){$('#flagname').text(countryname);}
+          if (Countrycode == null) {
+              ajaxCall = $.get("store/countryCurrency.ashx", { mode: 'load', a: Math.random(1) },
+                                      function(data) {
+                                     
+                                          if (data != "null") {
+                                              var _data = data.split(',');
+                                              var CurrName = _data[0];
+                                              
+                                              var Ctcode = _data[1];
+                                            //  alert('ctcode'+Ctcode+' currname' +CurrName);
+  
+                                              if (Ctcode != getakamai_country() && CurrName != getsessionsymbol()) {
+                                                  var ajaxCall = null;
+                                                  ajaxCall = $.getJSON("store/countryCurrency.ashx", { mode: 'head-set', CtcodeH: Ctcode, CurrNameH: CurrName, a: Math.random(1) },
+                                      function(data) {
+                                     // alert('in data 2' +data);
+                                          Countrycode = readCookie('countrycode');
+                                       
+                                          var CurCode = readCookie('currencychange');
+                                          var countryshname = readCookie('countryshortname');
+                                          countryname=readCookie('countryname');
+                                    
+                                    
+                                          if (Countrycode != null) {
+                                              $('#flagname').html(countryname);
+                                              $('#flagid,#CFlag').attr({ 'src': 'images/flag/' + Countrycode + '.jpg', 'alt': countryname, 'title': countryname });
+                                              //$('#CFlag').attr({ 'src': '../images/flag/' + Countrycode + '.jpg', 'alt': countryname, 'title': countryname });
+                                          }
+                                      
+                                       
+                                      });
+                                              }
+                                          }
+                                      });
+                                  }
+}
+
+
+
+$(document).ready(function() {
+   init();
+
+  var countryfullname=readCookie('countryname');
+
+        //if(getakamai_country().toLowerCase().trim()=="us"){$('#contactno').html('1-855-887-2848');}else if(getakamai_country().toLowerCase().trim()=="in"){  $('#contactno').html('1800 3010 4044 (Toll Free)');}
+
+       $('#flagid,#CFlag').attr({ 'src': 'images/flag/' + getakamai_country() + '.jpg', 'alt': getakamai_country(), 'title': getakamai_country() });
+$('#flagname').html(countryfullname);
+ 
+    $('#mini').click(function(e) {
+        var url = window.location.pathname;  
+        var myPageName = url.substring(url.lastIndexOf('/') + 1); 
+        var pg = myPageName.split('.');
+        var pagename = pg[0];
+        var qty = readCookie('newshopcart');
+        if (qty != null && qty != "")
+        {
+           dataLayer.push({'event' : 'Event-Home-Page-Click','eventCategory' : 'header', 'eventAction' : 'home', 'eventLabel': 'shoppingbag', 'eventValue' :'1' }); 
+            
+        }
+        else
+        {
+             dataLayer.push({'event' : 'Event-Home-Page-Click','eventCategory' : 'header', 'eventAction' : 'home', 'eventLabel': 'shoppingbag', 'eventValue' :'' }); 
+             
+        }
+       // window.parent.location.href='shop/viewshoppingcart.aspx';
+    });
+    
+    SetCurrOnload();
+ var Countrycode = readCookie('countrycode');
+    var CurCode = readCookie('currencychange');
+    var countryshname = readCookie('countryshortname');
+    var countryfullname=readCookie('countryname');
+    if (Countrycode != null) {
+        $('#flagname').html(countryfullname);
+        $('#flagid,#CFlag').attr({ 'src': 'images/flag/' + Countrycode + '.jpg', 'alt': countryfullname, 'title': countryfullname });
+       // $('#CFlag').attr({ 'src': '../images/flag/' + Countrycode + '.jpg', 'alt': countryfullname, 'title': countryfullname });
+    }
+ 
+
+//    $('#countrySelection').on('mouseenter', function (event) {
+//       $('#Checkheader').val('1');
+//    countcurrdrop();
+//    });
+     $('#countrySelection').click(function () {
+      $('#Checkheader').val('1');
+    countcurrdrop();
+    });
+    function countcurrdrop()
+    {
+        $('.roundBox,.overlayBlurDiv,#Emailtofriend').hide();
+        $('#pipe').css("z-index", "-1000");
+        $('#pipe').css("position", "relative");
+        var ajaxCall = null;
+        $('#gbp_Dropdown').attr('rel', '1');  
+         if($('#USD1').val()== "US" && $('#USD1').text()=="United States")
+{
+   
+        ajaxCall = $.getJSON("store/countryCurrency.ashx", { mode: 'head-get' },
+                 function(data) {
+
+                     if (data.setcountry != undefined) {
+                         if (data.setcountry.length > 0) {
+                             var OtionBindC = "";
+                             var OtionBindS = "";
+                             $.each(data.setcountry, function(i, setcountry) {
+                                 var CountryCOde = setcountry.countrycode.toString();
+                                 var CurrencyID = setcountry.currency.toString();
+                                 var CnameText = setcountry.countryname.toString();
+                                 var Cnamevalue = setcountry.bigshortname.toString();
+
+                                 OtionBindC += ADDoption(CurrencyID, Cnamevalue, CnameText, CountryCOde, i, 10, 'country');
+
+                             });
+
+                             $.each(data.setcountry1, function(i, setcountry1) {
+
+
+                                 var CShortnameID = setcountry1.shortname.toString();
+                                 var CSymbol = setcountry1.symbol.toString().replace('US$', '$').replace('Rs.', 'INR');
+                                 var Cfullname = setcountry1.fullname.toString();
+                                 var CnameText = Cfullname + " (" + CSymbol + ")";
+                                 var Cnamevalue = "";
+
+
+
+                                 OtionBindS += ADDoption(CShortnameID, Cnamevalue, CnameText, CShortnameID, i, 10, 'currency');
+
+                             });
+
+
+
+                             $('#mycountry').html("");
+                             $('#mycountry').append(OtionBindC);
+                             var CoshortName = readCookie('countryshortname');
+
+                             if (CoshortName != null && CoshortName != "USA") {
+
+                                 $('#mycountry option[title="' + CoshortName + '"]').attr('selected', 'selected'); flagChange();
+                             }
+                             $('#mycurrency').html("");
+                             $('#mycurrency').append(OtionBindS);
+                             var secCur = readCookie('currencychange');
+                             if (secCur != null && secCur != "USD") {
+                                 $('#mycurrency option[id="' + secCur + '"]').attr('selected', 'selected');
+                             }
+                             $('.lodingimg').hide();
+                             flagChange();
+
+                          
+
+
+                         }
+                     }
+                 });
+                 
+                 }
+
+
+        $('#gbp_Dropdown').show();
+        $('#countrySelection').addClass('cnt');
+        $('<div class="transDiv" onclick="closeTransDiv();"></div>').insertBefore('.mainContainer');
+      //  $('.transDiv').css({ height: $('body').height() });
+
+}
+
+
+    $('#btnsubmit').click(function() {
+
+        var ajaxCall = null;
+
+
+        var Ctcode = $('#mycountry').val();
+
+        var CurrName = $('#mycurrency').val();
+
+
+        var CoshortName = readCookie('countryshortname');
+        var secCur = readCookie('currencychange');
+
+
+        var CName_Ga = $('#mycountry').find(':selected').html();
+        var Currency_Ga = $('#mycurrency').find(':selected').val();
+         dataLayer.push({ 'event': 'Event-Home-Page-Click', 'eventCategory': 'Currency-Setting', 'eventAction': CName_Ga, 'eventLabel': Currency_Ga, 'eventValue': '' });
+    
+        if (((CoshortName == null && secCur == null) && (Ctcode != "US" && CurrName != "USD")) || (Ctcode != "US" || CurrName != "USD") || (CoshortName != null || secCur != null) && (Ctcode == "US" || CurrName == "USD")) {
+            var ajaxCall = null;
+            ajaxCall = $.getJSON("store/countryCurrency.ashx", { mode: 'head-set', CtcodeH: Ctcode, CurrNameH: CurrName, a: Math.random(1) },
+                                      function(data) {
+                                       $('#countcurrdrop > .dropdown-menu').css('display', 'none');
+                                          window.location.reload();
+                                      });
+        }
+        else { $('#gbp_Dropdown').hide(); $('#countrySelection').removeClass('cnt');}
+    });
+    
+        
+          
+          
+    
+});
+                                               
+     function getsearchobj() {
+                                     
+                                      return document.getElementById("ntext" + $('#scrRes').val());
+                                  }
+                                  function getsearchoval() {
+                                     
+                                      return $("#ntext"+$('#scrRes').val()).val();
+                                  }
+    function closeTransDiv(){
+        $('#gbp_Dropdown').hide();
+        $('.transDiv').remove();
+        $('#countrySelection').removeClass('cnt');
+        
+    }
+    
+        function inpFocus(current, value) {
+    if ($.trim($(current).val()) == $.trim(value)) {
+        $(current).val('');
+    }
+}
+
+    function inpBlur(current, value) {
+        $(current).val($.trim($(current).val()));
+        if ($(current).val() == '') {
+            $(current).val($.trim(value));
+        } 
+    }
+
+         $(function() {
+$('#ntext'+$('#scrRes').val()).keypress(function(event) {
+if(event.keyCode==13)
+{
+
+$('#sbutton'+$('#scrRes').val()).focus();
+$('#sbutton'+$('#scrRes').val()).click();
+}
+
+});
+
+$('#Email').keypress(function(event) {
+if(event.keyCode==13)
+{
+$('#subimtLetter1').focus();
+$('#subimtLetter1').click();
+
+}
+});
+
+});
+
+    function ADDoption(opid,opvalue,opText,opccode,count,topval,ddname)
+    {
+    var OpString="";
+    
+    if(count==topval)
+    {
+       OpString = "<optgroup id='SEPTR-"+ddname+"' value='SEPTR' label='--------------------------------------------' > </optgroup>";
+
+  //  OpString="<option id='SEPTR-"+ddname+"' value='SEPTR'>  --------------------------------------------</option>";
+
+    OpString=OpString+"<option title='"+opvalue+"' id='"+opid+"' value='"+opccode+"'>"+opText+"</option>";}
+    else
+    {OpString="<option title='"+opvalue+"' id='"+opid+"' value='"+opccode+"'>"+opText+"</option>";}
+    
+    
+     return OpString;
+     
+    }
+    
+ function  ddlchange(mode)
+  { 
+  var id;
+    if(mode=='country'){
+   
+     id = $('#mycountry').find(':selected')[0].id;
+     $('#mycurrency option[id="'+id+'"]').attr('selected', 'selected');
+     
+     if(id=='SEPTR-country')
+     {$('#mycountry option[value="US"]').attr('selected', 'selected');
+     id = $('#mycountry').find(':selected')[0].id;
+     $('#mycurrency option[id="'+id+'"]').attr('selected', 'selected');
+     }   
+     
+     flagChange();     
+     }
+     else if(mode=='currency')
+     {
+      id = $('#mycurrency').find(':selected')[0].id;
+     if(id=='SEPTR-currency')
+     {$('#mycurrency option[id="USD"]').attr('selected', 'selected');}
+     }     
+    
+    //return false
+  }
+
+  function showdropdown()
+  {
+ 
+    $('#countcurrdrop > .dropdown-menu').css('display', 'block');
+  }
+function flagChange()
+{
+  var ForFlag = $('#mycountry').find(':selected')[0].value;
+  var newFlagSrc="images/flag/"+ForFlag+".jpg";
+  $('#CFlag').attr('src',newFlagSrc);
+  
+}
+   
+    
+  //]]>  
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        cookiesdisable();
+    });
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    var idN = "", rel = "", name = "";
+    function splitId(id) {
+
+        if (id != undefined && id != null) {
+            var mn_id = id.split('_');
+            idN =  mn_id[1];
+            rel = mn_id[2];
+            name = mn_id[3];
+        }
+
+    }
+    //*********** for gatracking start************///////
+    $(document).ready(function () {
+
+        /**************for closing country currency************/
+        $('#closecountcurr').click(function (event) {   
+
+            closeTransDiv();
+        });
+
+        /*************for closing country currency**************/
+        $('.nav a').click(function (event) {
+           // event.stopPropagation();
+            var ahref = $(this).attr('href');
+            // alert(ahref);
+            var parenttab = $('.open').find("a").attr("rev");
+          
+            if (ahref == "javascript:")
+                ahref = "";
+            else
+                parenttab = parenttab.toLowerCase() + "-";
+            if ($(this).parent().attr('rel') == '') { ahref = $(this).html().toLowerCase(); parenttab = ""; }
+            else { ahref = ahref.toLowerCase(); }
+            var pageurl = window.location.pathname.split('/');
+            pageurl = pageurl[1].toLowerCase();
+            parenttab = parenttab.replace(/\&amp;/g, '&').toLowerCase();
+            var taburl = parenttab + ahref;
+            dataLayer.push({ 'event': 'Event-Header-Click', 'eventCategory': 'topmenu', 'eventAction': pageurl, 'eventLabel': taburl, 'eventValue': '' });
+
+
+        });
+
+//        $('.tab-pane active a').click(function (event) {
+//          
+//            event.stopPropagation();
+//          
+//            var ahref = $(this).attr('href');
+//            var parenttab = $('.selectedheader a').attr('rev');
+//            parenttab = parenttab.toLowerCase() + "-";
+//            if ($(this).parent().attr('rel') == '') { ahref = $(this).html().toLowerCase(); parenttab = ""; }
+//            else { ahref = ahref.toLowerCase(); }
+//            var pageurl = window.location.pathname.split('/');
+//            pageurl = pageurl[1].toLowerCase();
+//            parenttab = parenttab.replace(/\&amp;/g, '&');
+//            var taburl = parenttab + ahref;
+//            dataLayer.push({ 'event': 'Event-Header-Click', 'eventCategory': 'topmenu', 'eventAction': pageurl, 'eventLabel': taburl, 'eventValue': '' });
+//           // alert(pageurl + '----' + taburl);
+
+//        });
+
+
+$('.tab-pane a').live("click", function() {
+        var pageurl = window.location.pathname.split('/');
+        pageurl = pageurl[1].toLowerCase();
+        var taburl = $('.open').find("a").attr("rev") + "-" + $(this).attr('href');
+        dataLayer.push({ 'event': 'Event-Header-Click', 'eventCategory': 'topmenu', 'eventAction': pageurl, 'eventLabel': taburl, 'eventValue': '' });
+    });
+    $('.cat-links a').live("click", function() {
+        var oh = 'quick to go -' + $(this).attr('href');
+        var olk = $(this).html();
+        dataLayer.push({ 'event': 'Event-Header-Click', 'eventCategory': 'topmenu', 'eventAction': olk, 'eventLabel': oh, 'eventValue': '' });
+    });
+
+
+
+
+
+    });
+
+
+    /*** New Header***/
+    (function ($) {
+        var default_config = {
+            fadeIn: 3000,
+            stay: 3000,
+            fadeOut: 3000
+        };
+
+        function fade(index, $elements, config) {
+            $elements.eq(index)
+          .fadeIn(config.fadeIn)
+          .delay(config.stay)
+          .fadeOut(config.fadeOut, function () {
+              fade((index + 1) % $elements.length, $elements, config);
+          });
+        }
+
+        $.fn.fadeLoop = function (config) {
+            fade(0, this, $.extend({}, default_config, config));
+            return this;
+        };
+
+    } (jQuery));
+
+    /*******************new header********************/
+
+    $(function () {
+        var _selectmenu = $('#_selectmenu').val().split('-');
+        // alert(_selectmenu);
+        if (_selectmenu[0] != "") {
+            var sChek = document.location.href.split('/');
+            if ((sChek[3].indexOf("sale") > -1) || sChek[3].indexOf("promotions") > -1)
+                $(' #mn_' + _selectmenu[0] + '_0_1').addClass("active");
+            else
+                $(' #mn_' + _selectmenu[0] + '_0_0').addClass("active");
+            $(' #mn_' + _selectmenu[0] + '_0_0' + ' .navbar-nav').css({ "display": "block" });
+            if (_selectmenu[1] != "") {
+
+                $(' #mn_' + _selectmenu[1] + '_0_0').addClass("active");
+
+            }
+
+        }
+        else {
+
+            $(' #129 .navbar-nav').css({ "display": "block" });
+
+            $(' #129').addClass("selectedheader");
+
+        }
+        $('.navbar-nav li a[href^="javascript:"]').bind('contextmenu', function (e) {
+            e.preventDefault();
+        });
+
+
+
+
+        /****************mini shopping bag start*********************/
+
+        if ($('#scrRes').val() == "D") {
+            var readCartCookie = readCookie('newshopcart');
+
+            $("#shopping-bag").hover(function () {
+                gatrackminibag();
+                if (readCartCookie != null && readCartCookie != "") {
+                    minibagdiv("#shop_bag", false);
+                    if ($('#shop_bag').html() == '') {
+                        displayminishopdata();
+                    }
+                    else { $('#shop_bag').css({ display: 'block' }); }
+                }
+                else
+                { minibagdiv("#shop_bag", true); $('#shop_bag').css({ display: 'block' }); }
+            }, function () {
+                minibagdiv("#shop_bag", false);
+                $('#shop_bag').css({ display: 'none' });
+            });
+        }
+        else if ($('#scrRes').val() == "M" )  {
+            var readCartCookie = readCookie('newshopcart');
+
+            $('#shopping-bag').click(function () {
+                gatrackminibag();
+                if (readCartCookie != null && readCartCookie != "") {
+                    minibagdiv("#shop_bag", false);
+                    if ($('#shop_bag').html() == '') {
+                        displayminishopdata();
+                    }
+                }
+                else
+                { minibagdiv("#shop_bag", true); $('#shop_bag').css({ display: 'block' }); }
+
+            });
+        }
+
+
+
+        function gatrackminibag() {
+
+            var url = window.location.pathname;
+            var myPageName = url.substring(url.lastIndexOf('/') + 1);
+            var pg = myPageName.split('.');
+            var pagename = pg[0];
+            var qty = readCookie('newshopcart');
+            var pageurl = window.location.pathname.split('/');
+            pageurl = pageurl[1].toLowerCase();
+            if (qty != null && qty != "") {
+                dataLayer.push({ 'event': 'Event-Header-Click', 'eventCategory': 'header', 'eventAction': pageurl, 'eventLabel': 'shoppingbag', 'eventValue': '1' });
+            }
+            else {
+                dataLayer.push({ 'event': 'Event-Header-Click', 'eventCategory': 'header', 'eventAction': pageurl, 'eventLabel': 'shoppingbag', 'eventValue': '' });
+            }
+        }
+
+
+        /****************mini shopping bag end*********************/
+        var uagent = navigator.userAgent;
+
+       if ($('#scrRes').val() == "D") {
+
+        $('.navbar-nav li').on('mouseenter', function () {  //on hover on main menu
+            var ahref = $(this).find('a').attr('href');
+
+            $('#Checkheader').val('1');
+            if (ahref != '/sale' && ahref != '/') { // except for sale & promotion 
+
+                if (($(this).attr("data-pid") == '' || $(this).attr("data-pid") == undefined) && $(this).attr('class')!='featured-links') { //check parent ID is blank for topmenu & hover on featured-links
+
+                    $(this).find('.submenu').find('li').removeClass('active'); // set all to not active
+
+                    var ss = $(this).find('.submenu').find('li').first().attr('id');
+                    splitId(ss);
+	                
+	                if(this.id != ''){$('.submenu-dropdown').find('ul').removeClass('active');} // code for active remove if user hover on top menu
+                  // comment for link enable
+                    $('#' + ss).addClass('active');
+
+                    if (ss != undefined) {
+
+                        var selectedid = $(this).find('.submenu').find('li').first().find('a').attr('href');
+                        selectedid = selectedid.replace(/\//g, '_');
+
+                        var _currOpen = $(this);
+                   
+		                    if (($(this).find('.submenu-dropdown').find('#' + selectedid).attr('id') == undefined) || (uagent.search('Mobile') > -1 || uagent.match(/(iPhone|iPod|iPad|Blackberry|Android)/) == true)) { // check submenu id within current tab / extra condition for IPAD and Iphone
+
+			                    $.get('../Masters/reshdmenus.aspx', { menuid: idN, a: Math.random(2) }, function(data) {
+				                    if (data != undefined && data != "Not Found") {
+					                    var showdiv = data.split('`');
+					                    if (showdiv[0] != undefined && showdiv[0] != "Not Found") {
+						                    $(_currOpen).find('.submenu-dropdown').append(showdiv[0]); //vv find submenu-dropdown class with in current selected tab
+						                    $(_currOpen).find('.submenu-dropdown').find('#' + selectedid).addClass('active');
+						                    if (showdiv[1] != undefined && showdiv[1] != "Not Found") {
+							                    $('.featured-links').html(showdiv[1]);
+						                    }
+					                    }
+				                    }
+			                    });
+
+		                    } else { //1
+			                    $('.submenu-dropdown').find('ul').removeClass('active');
+			                    $(this).find('.submenu-dropdown').find('#' + selectedid).addClass('active');
+		                    }
+
+
+                    }
+                }
+            }
+            else if (ahref == '/sale') {
+
+	            splitId($(this).attr("id"));
+                $('#Checkheader').val('1');
+                if (rel == "0" && name == "1") {
+                    var _This = $(this);
+
+                    if ($(this).find('#pHover').attr('id') == undefined) {
+                        $.get('../Masters/reshdmenus.aspx', { pid: idN, a: Math.random(2) }, function (data) {
+                            if (data != undefined && data != "Not Found") {
+                                $('#pHover').remove();
+                                $(_This).append(data);
+                            }
+
+                        });
+                    }
+                    else { }
+                    $(_This).addClass('selectedheaderonover');
+                }
+            }
+        });
+
+    }
+    
+
+        if ($('#scrRes').val() == "D") {
+            $('.navbar-nav li').on('mouseleave', function () {
+                $('#Checkheader').val('0');
+            });
+
+        }
+
+
+
+     if (uagent.search('Mobile') > -1 || uagent.match(/(iPhone|iPod|iPad|Blackberry|Android)/) == true) {
+
+		if ($('#scrRes').val() == "D") {
+			$('.submenu li').on('touchstart', function(event) {
+
+
+				if ($(this).find(".glyphicon-play").hasClass("glyphicon-play") == true) {
+					event.preventDefault();
+				}
+
+				splitId($(this).attr('id'));
+				var ss = $(this).attr('id');
+				$('#Checkheader').val('1');
+				if (name == "1") { // check if last digit in ID is 1 it means arrow is available
+					var selectedid = $(this).find('a').attr('href');
+					selectedid = selectedid.replace(/\//g, '_');
+					$('.submenu').find('li').removeClass('active');
+
+					if (ss != undefined) {
+
+						if ($('#' + selectedid).attr('id') == undefined) {
+
+							$('#' + ss).addClass('active');
+							$.get('../Masters/reshdmenus.aspx', { menuid: idN, a: Math.random(2) }, function(data) {
+
+								if (data != undefined && data != "Not Found") {
+									var showdiv = data.split('`');
+									if (showdiv[0] != undefined && showdiv[0] != "Not Found") {
+										$('.submenu-dropdown').find('ul').removeClass('active');
+
+										$('.open .submenu-dropdown').append(showdiv[0]);
+
+										$('#' + selectedid).addClass('active');
+
+										if (showdiv[1] != undefined && showdiv[1] != "Not Found") {
+											$('.featured-links').html(showdiv[1]);
+										}
+
+									}
+								}
+
+							});
+
+						} else {
+							$('.submenu-dropdown').find('ul').removeClass('active');
+							$('#' + ss).addClass('active');
+							$('#' + selectedid).addClass('active');
+						}
+
+					}
+
+				}
+
+			});
+
+		}
+
+	}
+
+
+
+        if ($('#scrRes').val() == "D") {
+			$('.submenu li').on('mouseenter', function(event) {
+
+				splitId($(this).attr('id'));
+				var ss = $(this).attr('id');
+				$('#Checkheader').val('1');
+				if (name == "1") { // check if last digit in ID is 1 it means arrow is available
+					var selectedid = $(this).find('a').attr('href');
+					selectedid = selectedid.replace(/\//g, '_');
+					$('.submenu').find('li').removeClass('active');
+
+					if (ss != undefined) {
+
+						if ($('#' + selectedid).attr('id') == undefined) {
+
+							$('#' + ss).addClass('active');
+							$.get('../Masters/reshdmenus.aspx', { menuid: idN, a: Math.random(2) }, function(data) {
+
+								if (data != undefined && data != "Not Found") {
+									var showdiv = data.split('`');
+									if (showdiv[0] != undefined && showdiv[0] != "Not Found") {
+										$('.submenu-dropdown').find('ul').removeClass('active');
+
+										$('.open .submenu-dropdown').append(showdiv[0]);
+
+										$('#' + selectedid).addClass('active');
+
+										if (showdiv[1] != undefined && showdiv[1] != "Not Found") {
+											$('.featured-links').html(showdiv[1]);
+										}
+
+									}
+								}
+
+							});
+
+						} else {
+							$('.submenu-dropdown').find('ul').removeClass('active');
+							$('#' + ss).addClass('active');
+							$('#' + selectedid).addClass('active');
+						}
+
+					}
+
+				}
+
+			});
+
+		}
+
+
+    });
+
+
+
+
+
+
+    //for minishoppingbag
+
+    function waitminiLoading(idOrClass, isActive) {
+        if (isActive == true) {
+            $(idOrClass).append('<div id="waitDiv" class="minibag-loding"></div>');
+        }
+        else {
+            $('#waitDiv').remove();
+        }
+    }
+
+    function minibagdiv(idOrClass, isActive) {
+        if (isActive == true) {
+            $(idOrClass).append('<div id="minibagempty" class="minicart-empty"><div class="sprite bag-icon"></div>Shopping Bag is empty</div>');
+        }
+        else {
+            $('#minibagempty').remove();
+        }
+    }
+    function displayminishopdata() {
+        waitminiLoading('#shop_bag', true);
+        $('#Checkheader').val('1');
+    var ajaxCall = null;
+        var htmldata = "", rowid = "", url = '';
+    ajaxCall = $.getJSON("../shop/minishoppingbag.ashx", { a: Math.random(2) }, function (data) {
+        if (data != null) {
+
+            if (data != undefined && data != false) {
+                waitminiLoading('#shop_bag', false);
+                if (data.items.length > 0) {
+                    
+                    var sbagstyle = "";
+                    if (data.items.length >= 4) 
+                    { sbagstyle = "style='height:360px;overflow-y:scroll;'";}
+                    else
+                    { sbagstyle = "";}
+                        
+                    htmldata += "<div class='item-wrap'"+sbagstyle+" >";
+                    $.each(data.items, function (i, items) {
+                            rowid = i;
+                            htmldata += "<div class='item' id=\"row" + i + "\" >";
+                            if (parseInt(items.iszoomimage.toString()) == 1 || parseInt(items.iszoomimage.toString()) == 2) {
+                                url = "/" + items.cidshortname.toString().toLowerCase() + "/" + items.nameurl.toString().toLowerCase().replace(" ", "-") + "/" + items.code.toString().toLowerCase() + "-itemcode";
+
+                            }
+                            else if (parseInt(items.cidshortname.toString()) < 4) {
+                                url = "/" + items.cidshortname.toString().toLowerCase() + "/" + items.nameurl.toString().toLowerCase().replace(" ", "-") + "/" + items.code.toString().toLowerCase() + "-icode";
+                            }
+                            else {
+                                if (items.cid.toString() != "4") {
+                                    url = "/" + items.cidshortname.toString().toLowerCase() + "/" + items.nameurl.toString().toLowerCase().replace(" ", "-") + "/" + items.code.toString().toLowerCase() + "-code";
+                                }
+                                else {
+                                    url = "javascript:;";
+                                }
+
+                            }
+
+
+
+                            if (items.name.toLowerCase() == 'gift card') {
+                                htmldata += "<a href='" + url + "' class='item-img'><img src=" + items.path.toString() + items.code.toString() + "_thumbnail.jpg" + " alt='" + items.description.toString().toLowerCase() + "' class='img-responsive' style='height:90px; width:70px;' /></a>";
+
+                            } else {
+
+                                htmldata += "<a href='" + url + "' class='item-img'><img src=" + items.path.toString() + items.code.toString() + "-thumbnail.jpg" + " alt='" + items.description.toString().toLowerCase() + "' class='img-responsive' style='height:90px; width:70px;' /></a>";
+
+                            }
+
+                            htmldata += "<div class='item-info'><b>" + items.Shortname.toString() + "</b>";
+                            htmldata += "<label>Quantity: <span>" + items.qty.toString() + "</span></label>";
+                            htmldata += "<label>Price: <span  class='item-price'>" + "$ " + Number(items.amount.toString()).toFixed(2) + "</span></label></div>";
+                            htmldata += "<div class='close-btn sprite' onclick=\"javascript:removeminicart(" + rowid + ",'" + items.code.toString() + "','" + items.sizeid.toString() + "','" + items.msid.toString() + "','" + items.Stitchcharge1.toString() + "','" + items.Stitchcharge2.toString() + "','" + items.Stitchcharge3.toString() + "','" + items.color.toString() + "');\"></div>"
+                          //  htmldata += "<div class='clearfix'></div></div><div class='divider'></div>";
+                            htmldata += "<div class='clearfix'></div></div>";
+                            if (rowid < (data.items.length - 1))
+                            { htmldata += "<div class='divider'></div>"; }
+                       
+                        });
+                        htmldata += "</div>";
+                    }
+                    if (data.items2.length > 0) {
+                        $.each(data.items2, function (i, items2) {
+
+                            htmldata += "<div class='total'><label>Bag Total:</label><span>$" +Number(items2.subtotal.toString()).toFixed(2) + "</span><p>You can apply discount codes and gift coupons on checkout page.</p></div>";
+                            htmldata += "<button  class='btn view-bag-btn' onclick='redirecturl()' type='button'>View Bag</button>";
+                        });
+                    }
+                    $('#shop_bag').html(htmldata);
+
+
+                }
+
+            }
+
+        });
+    }
+
+function redirecturl() {
+    window.location.href = "../shop/viewshoppingcart.aspx";
+}
+//Remove Cart
+
+function removeminicart(rowid, itemcode, sizeid, msid, hdBlouseId, stitchcharge2, stitchcharge3, color) {
+    var url = window.location.pathname;
+    
+    var myPageName = url.substring(url.lastIndexOf('/') + 1);
+    var pg = myPageName.split('.');
+    var pagename = pg[0];
+    var qty = readCookie('newshopcart');
+    var pageurl = window.location.pathname.split('/');
+    pageurl = pageurl[1].toLowerCase();
+    dataLayer.push({ 'event': 'Event-ShoppingBag-Click', 'eventCategory': 'home', 'eventAction': 'Removefromcart', 'eventLabel': itemcode, 'eventValue': '' });
+    var setcountrycode = '';
+    if (readCookie('countrycode') != null)
+    { setcountrycode = readCookie('countrycode'); }
+
+    var dlCountry = setcountrycode;
+    $.post("../shop/carthandler.ashx", { mode: 'remove', rowid: rowid, itemid: itemcode, ddlcountry: dlCountry, sizeid: sizeid, msid: msid, hdBlouseId: hdBlouseId, hdPetticoat: stitchcharge2, hdDummy: stitchcharge3, color: color, a: Math.random(2) },
+    function (data) {
+        window.location.reload();
+        if (data != 'false') {
+
+            var Arrprice = data.split(',');
+            if (Arrprice[13] == "true") {
+                $('#row' + rowid).remove();
+                showminicartNew('N');
+
+            }
+
+        }
+    });
+
+
+}
+
+
+if($(window).width()>992)
+	$(window).bind('scroll', function() {
+    var navHeight = 75; // custom nav height
+    ($(window).scrollTop() > navHeight) ? $('nav').addClass('top-fixed-nav') : $('nav').removeClass('top-fixed-nav');
+  });
+
+
+//Remove Cart End//
+//for minishoppingbag
+    /*******************new header end********************/
+
+
+
+//]]>
+    </script>
+<script src="/js/bootstrap.js" type="text/javascript"></script>
+
+    <script type="text/javascript">(function(){
+/* <![CDATA[ */ 
+window._fbds = window._fbds || {};
+_fbds.pixelId = 677574132304976;
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(["track", "PixelInitialized", {}]);
+/* ]]> */
+</script>
+<noscript>
+/* <![CDATA[ */ 
+<img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=677574132304976&ev=NoScript" />
+/* ]]> */
+</noscript>
+
+    <!-- Advertiser 'Utsav Fashion Private Ltd.-INR',  Include user in segment 'Utsavfashion_SRT_Pixel_060914' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="https://ads.yahoo.com/pixel?id=2508632&amp;t=2" width="1" height="1" alt="" />
+<!-- End of segment tag -->
+    <noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-NTXXJL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+
+/* <![CDATA[ */ 
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NTXXJL');/* ]]> */
+</script>
+   
+    </body>
+     
+</html>
+

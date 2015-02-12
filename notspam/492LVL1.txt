@@ -1,0 +1,132 @@
+.black .color, .black-widget {
+	color: #333333;
+}
+.red .color, .red-widget {
+	color: #a5293c;
+}
+.light-blue .color, .light-blue-widget {
+	color: #00b6c7;
+}
+.green .color, .green-widget {
+	color: #4fb02f;
+}
+.lavender .color, .lavender-widget {
+	color: #622a69;
+}
+.grey .color, .grey-widget {
+	color: #8e9999;
+}
+
+.orange .color, .orange-widget {
+	color: #fa4c4b;
+}
+.darkTurqoise .color, .darkTurqoise {
+	color: #274f55;
+}
+.turqoise .color, .turqoise-widget {
+	color: #079ccf;
+}
+.dark-blue .color, .dark-blue-widget {
+	color: #0166ff;
+}
+.purple .color, .purple-widget {
+	color: #333367;
+}
+.black .bg, .black-nav:hover, .black-nav:hover ul.submenu, .black-nav.active, .black-nav.active ul.submenu {
+	background-color: #333333;
+}
+.red .bg, .red-nav:hover, .red-nav:hover ul.submenu, .red-nav.active, .red-nav.active ul.submenu {
+	background-color: #a5293c;
+}
+.red .bg, .orange-voices-nav:hover, .orange-voices-nav.active{
+	background-color: #fe521b;
+}
+.light-blue .bg, .light-blue-nav:hover, .light-blue-nav:hover ul.submenu, .light-blue-nav.active, .light-blue-nav.active ul.submenu {
+	background-color: #00b6c7;
+}
+.green .bg, .green-nav:hover, .green-nav:hover ul.submenu, .green-nav.active, .green-nav.active ul.submenu {
+	background-color: #4fb02f;
+}
+.lavender .bg, .lavender-nav:hover, .lavender-nav:hover ul.submenu, .lavender-nav.active, .lavender-nav.active ul.submenu {
+	background-color: #622a69;
+}
+.grey .bg, .grey-nav:hover, .grey-nav:hover ul.submenu, .grey-nav.active, .grey-nav.active ul.submenu {
+	background-color: #8e9999;
+}	
+.orange .bg, .orange-nav:hover, .orange-nav:hover ul.submenu, .orange-nav.active, .orange-nav.active ul.submenu {
+	background-color: #fa4c4b;
+}
+.turqoise .bg, .turqoise-nav:hover, .turqoise-nav:hover ul.submenu, .turqoise-nav.active, .turqoise-nav.active ul.submenu {
+	background-color: #079ccf;
+}
+.darkTurqoise .bg, .darkTurqoise-nav:hover, .darkTurqoise-nav:hover ul.submenu, .darkTurqoise-nav.active, .darkTurqoise-nav.active ul.submenu {
+	background-color: #274f55;
+}
+.dark-blue .bg, .dark-blue-nav:hover, .dark-blue-nav:hover ul.submenu, .dark-blue-nav.active, .dark-blue-nav.active ul.submenu {
+	background-color: #0166ff;
+}
+.purple .bg, .purple-nav:hover, .purple-nav:hover ul.submenu, .purple-nav.active, .purple-nav.active ul.submenu {
+	background-color: #333367;
+}
+.darkTurqoise .third-level-wrapper{
+	border-left: 1px solid #274f55;
+	border-right: 1px solid #274f55;
+	border-bottom: 4px solid #274f55;
+	
+}
+.black-nav .third-level-wrapper {
+	border-left: 1px solid #333333;
+	border-right: 1px solid #333333;
+	border-bottom: 4px solid #333333;
+}
+.red-nav .third-level-wrapper {
+	border-left: 1px solid #a5293c;
+	border-right: 1px solid #a5293c;
+	border-bottom: 4px solid #a5293c;
+}
+.light-blue-nav .third-level-wrapper {
+	border-left: 1px solid #00b6c7;
+	border-right: 1px solid #00b6c7;
+	border-bottom: 4px solid #00b6c7;
+}
+.green-nav .third-level-wrapper {
+	border-left: 1px solid #4fb02f;
+	border-right: 1px solid #4fb02f;
+	border-bottom: 4px solid #4fb02f;
+}
+.lavender-nav .third-level-wrapper {
+	border-left: 1px solid #622a69;
+	border-right: 1px solid #622a69;
+	border-bottom: 4px solid #622a69;
+}
+.grey-nav .third-level-wrapper {
+	border-left: 1px solid #8e9999;
+	border-right: 1px solid #8e9999;
+	border-bottom: 4px solid #8e9999;
+}
+.orange-nav .third-level-wrapper {
+	border-left: 1px solid #fa4c4b;
+	border-right: 1px solid #fa4c4b;
+	border-bottom: 4px solid #fa4c4b;
+}
+.turqoise-nav .third-level-wrapper {
+	border-left: 1px solid #079ccf;
+	border-right: 1px solid #079ccf;
+	border-bottom: 4px solid #079ccf;
+}
+.dark-blue-nav .third-level-wrapper {
+	border-left: 1px solid #0166ff;
+	border-right: 1px solid #0166ff;
+	border-bottom: 4px solid #0166ff;
+}
+.purple-nav .third-level-wrapper {
+	border-left: 1px solid #333367;
+	border-right: 1px solid #333367;
+	border-bottom: 4px solid #333367;
+}
+.orange-voices-nav .third-level-wrapper {
+    border-bottom: 4px solid #FE521B;
+    border-top: 4px solid #FE521B;
+    border-left: 1px solid #FE521B;
+    border-right: 1px solid #FE521B;
+}

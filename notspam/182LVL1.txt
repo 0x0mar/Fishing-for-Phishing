@@ -1,0 +1,413 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<title>March | 2012 | </title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/style.css" type="text/css" media="screen" />
+	<link rel="pingback" href="http://evie-s.com/news/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://evie-s.com/news/wp-content/themes/trulyminimal/css/custom.php" type="text/css" media="all" />
+	
+		<link rel='archives' title='December 2013' href='http://evie-s.com/news/2013/12/' />
+	<link rel='archives' title='November 2013' href='http://evie-s.com/news/2013/11/' />
+	<link rel='archives' title='October 2013' href='http://evie-s.com/news/2013/10/' />
+	<link rel='archives' title='September 2013' href='http://evie-s.com/news/2013/09/' />
+	<link rel='archives' title='August 2013' href='http://evie-s.com/news/2013/08/' />
+	<link rel='archives' title='July 2013' href='http://evie-s.com/news/2013/07/' />
+	<link rel='archives' title='June 2013' href='http://evie-s.com/news/2013/06/' />
+	<link rel='archives' title='May 2013' href='http://evie-s.com/news/2013/05/' />
+	<link rel='archives' title='March 2013' href='http://evie-s.com/news/2013/03/' />
+	<link rel='archives' title='February 2013' href='http://evie-s.com/news/2013/02/' />
+	<link rel='archives' title='January 2013' href='http://evie-s.com/news/2013/01/' />
+	<link rel='archives' title='November 2012' href='http://evie-s.com/news/2012/11/' />
+	<link rel='archives' title='October 2012' href='http://evie-s.com/news/2012/10/' />
+	<link rel='archives' title='September 2012' href='http://evie-s.com/news/2012/09/' />
+	<link rel='archives' title='August 2012' href='http://evie-s.com/news/2012/08/' />
+	<link rel='archives' title='July 2012' href='http://evie-s.com/news/2012/07/' />
+	<link rel='archives' title='June 2012' href='http://evie-s.com/news/2012/06/' />
+	<link rel='archives' title='May 2012' href='http://evie-s.com/news/2012/05/' />
+	<link rel='archives' title='April 2012' href='http://evie-s.com/news/2012/04/' />
+	<link rel='archives' title='March 2012' href='http://evie-s.com/news/2012/03/' />
+	<link rel='archives' title='February 2012' href='http://evie-s.com/news/2012/02/' />
+	<link rel='archives' title='January 2012' href='http://evie-s.com/news/2012/01/' />
+	<link rel='archives' title='December 2011' href='http://evie-s.com/news/2011/12/' />
+	<link rel='archives' title='November 2011' href='http://evie-s.com/news/2011/11/' />
+	<link rel='archives' title='October 2011' href='http://evie-s.com/news/2011/10/' />
+	<link rel='archives' title='September 2011' href='http://evie-s.com/news/2011/09/' />
+	<link rel='archives' title='August 2011' href='http://evie-s.com/news/2011/08/' />
+	<link rel='archives' title='July 2011' href='http://evie-s.com/news/2011/07/' />
+	<link rel='archives' title='June 2011' href='http://evie-s.com/news/2011/06/' />
+	<link rel='archives' title='May 2011' href='http://evie-s.com/news/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://evie-s.com/news/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://evie-s.com/news/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://evie-s.com/news/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://evie-s.com/news/2011/01/' />
+	<link rel='archives' title='December 2010' href='http://evie-s.com/news/2010/12/' />
+	<link rel='archives' title='October 2010' href='http://evie-s.com/news/2010/10/' />
+	<link rel='archives' title='September 2010' href='http://evie-s.com/news/2010/09/' />
+	<link rel='archives' title='August 2010' href='http://evie-s.com/news/2010/08/' />
+	<link rel='archives' title='July 2010' href='http://evie-s.com/news/2010/07/' />
+	<link rel='archives' title='June 2010' href='http://evie-s.com/news/2010/06/' />
+	<link rel='archives' title='May 2010' href='http://evie-s.com/news/2010/05/' />
+	<link rel='archives' title='April 2010' href='http://evie-s.com/news/2010/04/' />
+	<link rel='archives' title='March 2010' href='http://evie-s.com/news/2010/03/' />
+	<link rel='archives' title='February 2010' href='http://evie-s.com/news/2010/02/' />
+	<link rel='archives' title='January 2010' href='http://evie-s.com/news/2010/01/' />
+	<link rel='archives' title='December 2009' href='http://evie-s.com/news/2009/12/' />
+	<link rel='archives' title='November 2009' href='http://evie-s.com/news/2009/11/' />
+	<link rel='archives' title='October 2009' href='http://evie-s.com/news/2009/10/' />
+	<link rel='archives' title='September 2009' href='http://evie-s.com/news/2009/09/' />
+	<link rel='archives' title='August 2009' href='http://evie-s.com/news/2009/08/' />
+	<link rel='archives' title='July 2009' href='http://evie-s.com/news/2009/07/' />
+	<link rel='archives' title='June 2009' href='http://evie-s.com/news/2009/06/' />
+	<link rel='archives' title='May 2009' href='http://evie-s.com/news/2009/05/' />
+	<link rel='archives' title='April 2009' href='http://evie-s.com/news/2009/04/' />
+	<link rel='archives' title='March 2009' href='http://evie-s.com/news/2009/03/' />
+	<link rel='archives' title='February 2009' href='http://evie-s.com/news/2009/02/' />
+	<link rel='archives' title='January 2009' href='http://evie-s.com/news/2009/01/' />
+	<link rel='archives' title='December 2008' href='http://evie-s.com/news/2008/12/' />
+	<link rel='archives' title='October 2008' href='http://evie-s.com/news/2008/10/' />
+	<link rel='archives' title='September 2008' href='http://evie-s.com/news/2008/09/' />
+	<link rel='archives' title='August 2008' href='http://evie-s.com/news/2008/08/' />
+	<link rel='archives' title='July 2008' href='http://evie-s.com/news/2008/07/' />
+	<link rel='archives' title='June 2008' href='http://evie-s.com/news/2008/06/' />
+	<link rel='archives' title='May 2008' href='http://evie-s.com/news/2008/05/' />
+	<link rel='archives' title='April 2008' href='http://evie-s.com/news/2008/04/' />
+	<link rel='archives' title='March 2008' href='http://evie-s.com/news/2008/03/' />
+	<link rel='archives' title='February 2008' href='http://evie-s.com/news/2008/02/' />
+	<link rel='archives' title='January 2008' href='http://evie-s.com/news/2008/01/' />
+	<link rel='archives' title='December 2007' href='http://evie-s.com/news/2007/12/' />
+	<link rel='archives' title='November 2007' href='http://evie-s.com/news/2007/11/' />
+
+	<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="http://evie-s.com/news/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="http://evie-s.com/news/comments/feed/" />
+<link rel='stylesheet' id='font-Arvo-css'  href='http://fonts.googleapis.com/css?family=Arvo&#038;ver=1.0' type='text/css' media='all' />
+<link rel="stylesheet" href="http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.css" type="text/css" /><script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&#038;ver=1.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SnazzySettings = {"snazzy_mini":"0","snazzy_fx":"0","snazzy_corners":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://evie-s.com/news/wp-content/plugins/snazzy-archives/snazzy-archives.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://evie-s.com/news/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://evie-s.com/news/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+	<script type="text/javascript">
+	jQuery(function(){
+		jQuery('.frameworkad').click(function() {
+			var id = jQuery(this).attr("id");
+			var split = id.split("-");
+
+			jQuery.get("http://evie-s.com/news/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	
+		});
+	});
+	</script>
+<link rel="shortcut icon" href="http://evie-s.com/news/wp-content/uploads/2012/07/favicon1.jpg" /><style type="text/css">
+.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 13px; font-weight: normal; font-style: normal; text-decoration: none; }
+.search .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.archive .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.page .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }
+#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arvo', arial, serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }
+</style>
+</head>
+<body class="archive date one-sidebar-right unknown-browser unknown-os">
+<div id="header">
+	<h1><a href="http://evie-s.com/news"></a></h1>
+	<h2></h2>
+			<a class="top-logo" href="http://evie-s.com/news"><img src="http://evie-s.com/news/wp-content/uploads/2012/07/logo1.png" alt="" /></a>
+	
+	<ul id="top-menu" class="menu"><li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3171"><a href="http://evie-s.com/news/about/">About</a></li>
+<li id="menu-item-3172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3172"><a href="http://evie-s.com/news/contact/">Contact</a></li>
+</ul>	
+	<div class="clear"></div>
+</div><!-- END #header -->
+<div id="main">
+	<div id="sidebar">
+  <div id="evieside" style="margin-left:30px;">
+    <a href="http://evie-s.com/news/about/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.about.jpg" alt="about" width="192" height="316" border="0" /></a>
+    <br /><br />
+    <a href="http://www.facebook.com/profile.php?id=7710022266"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.connect.gif" alt="connect" width="192" height="91" border="0" usemap="#Map" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="121,37,146,62" href="http://www.facebook.com/profile.php?id=7710022266" alt="facebook" />
+    <area shape="rect" coords="44,38,69,62" href="http://www.twitter.com/evies" alt="twitter" />
+    <area shape="rect" coords="161,38,185,64" href="http://www.pinterest.com/eviesha" alt="pinterest" />
+    <area shape="rect" coords="85,39,105,62" href="http://feeds.feedburner.com/Evie-scom" alt="rss" />
+    <area shape="rect" coords="9,37,26,66" href="mailto:info@evie-s.com" alt="email" />
+    </map>
+    </a>    <br />
+    <br />
+    <h5>Articles</h5>
+    <a href="http://evie-s.com/news/2011/05/21/please-steal-my-ideas/"><img src="http://www.evie-s.com/images/button-please.png" alt="please, steal my ideas" width="192" height="192" border="0" /></a>
+    <br />
+    <a href="http://evie-s.com/news/work-art-purpose/"><img src="http://www.evie-s.com/images/button-work.png" alt="work, art, purpose" width="192" height="192" border="0" /></a>
+    <br /><br />
+    <h5>Interest</h5>
+    <a href="http://evie-s.com/news/diy-art-projects/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.diy.jpg" alt="diy projects" width="192" height="107" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/interviews/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.interviews.jpg" alt="interviews" width="192" height="106" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://evie-s.com/news/category/downloads/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.downloads.jpg" alt="downloads" width="192" height="108" border="0" /></a>
+    <br />
+    <br />
+    <h3>As Seen On</h3>
+ <br />
+    <a href="http://thecraftsdept.marthastewart.com/2012/05/puff-paint-earrings.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_mscrafts.gif" alt="martha stewart" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.designsponge.com/2012/01/diy-project-graphic-chevron-accessories.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ds.jpg" alt="design sponge" border="0" /></a>
+    <br />
+    <br />
+     <a href="http://www.designcrushblog.com/2012/04/03/rubber-band-jewelry/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/blog_dc.gif" alt="design crush" border="0" /></a>
+    <br />
+    <br />
+    <a href="http://www.creaturecomfortsblog.com/home/2011/1/26/diy-yarn-wrapped-monograms.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.cc.jpg" alt="creature comforts" border="0" /></a>
+    <br /><br />
+    <a href="http://ruffledblog.com/diy-glitter-monogram-wedding-cake-toppers/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.ruffled.jpg" alt="ruffled" border="0" /></a>
+    <br /><br />
+    <a href="http://blog.craftzine.com/archive/2008/03/paper_cd_case_template.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.craft.jpg" alt="craft magazine" border="0" /></a>
+    <br /><br />
+    <a href="http://ashleyannphotography.com/blog/2010/02/23/a-beautiful-idea-evie-s-things-of-beauty/"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.syc.jpg" alt="under the sycamore" border="0" /></a>
+    <br /><br />
+    <a href="http://howaboutorange.blogspot.com/2007/12/download-free-self-mailing-notecard.html"><img src="http://www.evie-s.com/news/wp-content/themes/ari/images/img.how.jpg" alt="how about orange" border="0" /></a>
+    <br /><br />
+
+    <br />
+
+    <br />
+  </div>
+	<div id="statigram-id-2" class="widget-container statigram-widget"><iframe src="http://statigr.am/widget.php?choice=myfeed&username=evieshaffer&hashtag=statigram&linking=instagram&show_infos=&width=192&height=420&mode=grid&pace=10&layout_x=1&layout_y=2&padding=5&photo_border=&background=FFFFFF&text=777777&widget_border=&radius=5&border-color=DDDDDD" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:192px; height:420px;"></iframe><div class="clear"></div></div><div id="categories-520660212" class="widget-container widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-598"><a href="http://evie-s.com/news/category/about-me/" title="View all posts filed under About Me">About Me</a>
+</li>
+	<li class="cat-item cat-item-778"><a href="http://evie-s.com/news/category/adventure/" title="View all posts filed under Adventure">Adventure</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://evie-s.com/news/category/art/" title="View all posts filed under Art">Art</a>
+</li>
+	<li class="cat-item cat-item-581"><a href="http://evie-s.com/news/category/blog-i-love/" title="View all posts filed under Blog I Love">Blog I Love</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://evie-s.com/news/category/change/" title="View all posts filed under Change">Change</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://evie-s.com/news/category/design/" title="View all posts filed under Design">Design</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://evie-s.com/news/category/diy/" title="View all posts filed under DIY">DIY</a>
+</li>
+	<li class="cat-item cat-item-734"><a href="http://evie-s.com/news/category/downloads/" title="View all posts filed under Downloads">Downloads</a>
+</li>
+	<li class="cat-item cat-item-775"><a href="http://evie-s.com/news/category/events/" title="View all posts filed under Events">Events</a>
+</li>
+	<li class="cat-item cat-item-774"><a href="http://evie-s.com/news/category/faith/" title="View all posts filed under Faith">Faith</a>
+</li>
+	<li class="cat-item cat-item-588"><a href="http://evie-s.com/news/category/fashion/" title="View all posts filed under Fashion">Fashion</a>
+</li>
+	<li class="cat-item cat-item-637"><a href="http://evie-s.com/news/category/giveaways/" title="View all posts filed under Giveaways">Giveaways</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://evie-s.com/news/category/holiday/" title="View all posts filed under Holiday">Holiday</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://evie-s.com/news/category/interior-design/" title="View all posts filed under Interior Design">Interior Design</a>
+</li>
+	<li class="cat-item cat-item-469"><a href="http://evie-s.com/news/category/interviews/" title="View all posts filed under Interviews">Interviews</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://evie-s.com/news/category/kids/" title="View all posts filed under Kids">Kids</a>
+</li>
+	<li class="cat-item cat-item-429"><a href="http://evie-s.com/news/category/knitting/" title="View all posts filed under Knitting">Knitting</a>
+</li>
+	<li class="cat-item cat-item-757"><a href="http://evie-s.com/news/category/lists/" title="View all posts filed under Lists">Lists</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://evie-s.com/news/category/misc/" title="View all posts filed under Misc">Misc</a>
+</li>
+	<li class="cat-item cat-item-712"><a href="http://evie-s.com/news/category/motherhood/" title="View all posts filed under Motherhood">Motherhood</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://evie-s.com/news/category/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-468"><a href="http://evie-s.com/news/category/photography/" title="View all posts filed under Photography">Photography</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://evie-s.com/news/category/things-of-beauty/" title="View all posts filed under Things of Beauty">Things of Beauty</a>
+</li>
+	<li class="cat-item cat-item-773"><a href="http://evie-s.com/news/category/tutorials/" title="View all posts filed under Tutorials">Tutorials</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://evie-s.com/news/category/vintage/" title="View all posts filed under Vintage">Vintage</a>
+</li>
+		</ul>
+<div class="clear"></div></div><div id="search-widget-3" class="widget-container widget_search">
+			<form method="get" id="searchform" action="http://evie-s.com/news/">
+				<input type="text" name="s" class="s" value="" />
+				<input type="submit" class="b" value="Search" />
+			</form>
+
+		<div class="clear"></div></div></div><!-- END #sidebar -->	
+	<div id="content">
+		<h2 class="archive-title">
+			Monthly Archives: <span>March 2012</span>	</h2>	
+		<div id="post-2901" class="post-2901 post type-post status-publish format-standard hentry category-giveaways">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/03/30/spring-giveaway-2/" rel="bookmark" title="Permalink to Spring Giveaway">Spring Giveaway</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 30, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/03/30/spring-giveaway-2/#comments">22 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Happy Friday! It&#8217;s a beautiful <del>warm</del> hot day today and I feel like doing a giveaway to celebrate the warmth and sunshine! Up for grabs is a boxed set of notecards from <a href="http://artistrycards.bigcartel.com/product/feathered-creatures-greeting-cards">Artistry Cards</a> &#8211; made on 100% recycled paper in adorable Owl, Swan, Hummingbird and Crested bird designs. You will also receive these peachy perfect cabochon earrings from <a href="http://www.etsy.com/shop/Emariecreations?ref=top_trail">EMarieCreations</a>.</p>
+<p><img class="alignnone size-full wp-image-2902" title="giveaway" src="http://evie-s.com/news/wp-content/uploads/2012/03/giveaway.jpg" alt="" width="571" height="899" /></p>
+<p>Just leave a comment with a favorite memory from or most loved attribute of the Spring season. A winner will be randomly picked and announced one week from today! Good luck. :)</p>
+<p>*******</p>
+<p><em><strong>Update:</strong></em> Congratulations to our winner, <a href="http://sugarpumkin.blogspot.com">Amy</a> (comment #21), chosen randomly by random.org &#8211; I will be in touch to get you your winnings!</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2891" class="post-2891 post type-post status-publish format-standard hentry category-diy category-fashion">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/03/29/rubber-band-jewelry/" rel="bookmark" title="Permalink to Rubber Band Jewelry">Rubber Band Jewelry</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 29, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/03/29/rubber-band-jewelry/#comments">11 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>If you&#8217;ve been following this blog for any amount of time, you know I love making things from everyday items. (Like my all time most popular post, <a href="http://evie-s.com/news/2011/02/10/art-from-everyday-objects-paperclips-string/">earrings from paperclips</a>.) Slightly more mundane than the paperclip, in my opinion, would be the rubber band. Surprisingly even this can be turned into something beautiful.</p>
+<p><img class="alignnone size-full wp-image-2897" title="rubberband" src="http://evie-s.com/news/wp-content/uploads/2012/03/rubberband4.jpg" alt="" width="571" height="841" /></p>
+<p>It&#8217;s really simple. Using #84 rubber bands (which are the widest variety I could find), you can make simple and awesome pieces of jewelry that no one would ever think were formerly a mere office supply. You can get them at Staples &#8211; a bag of 45 bands for 3 bucks. Unfortunately they only come in beige, but I found that you can paint them with acrylic craft paint to get more interesting color. For the pieces above, just snip rubber bands into squares and thread them on your necklace cord or wire for the earrings.</p>
+<p><img class="alignnone size-full wp-image-2893" title="rubberband1" src="http://evie-s.com/news/wp-content/uploads/2012/03/rubberband1.jpg" alt="" width="571" height="583" /></p>
+<p>You can bunch them together in a lot of ways to get a variety of different shapes.</p>
+<p><img class="alignnone size-full wp-image-2894" title="rubberband2" src="http://evie-s.com/news/wp-content/uploads/2012/03/rubberband2.jpg" alt="" width="571" height="750" /></p>
+<p>For these, all you do is arrange the rubber band formation the way you want and pierce it with a large sewing needle through all layers. Then take a piece of jewelry wire and thread it through the holes. All these above could be strung on a chain or cord to create a necklace.</p>
+<p><img class="alignnone size-full wp-image-2895" title="rubberband3" src="http://evie-s.com/news/wp-content/uploads/2012/03/rubberband3.jpg" alt="" width="571" height="386" /></p>
+<p>If you try this project, please let me know! I would love to see how yours turn out. Have fun!</p>
+<p>&nbsp;</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2866" class="post-2866 post type-post status-publish format-standard hentry category-art category-downloads category-faith">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/03/20/happy-spring-out-of-the-slump/" rel="bookmark" title="Permalink to Happy Spring &#8211; Out of the Slump">Happy Spring &#8211; Out of the Slump</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 20, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/03/20/happy-spring-out-of-the-slump/#comments">9 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p>Happy Spring everyone! Sorry for the scarceness on posts. I caught the dreadful flu bug late February and as a result of some pretty horrendous coughing, managed to crack a rib. Extreme! But mostly I&#8217;ve just been in a slump, creatively, emotionally, spiritually, pretty much everything-ly. I&#8217;ve been in those before, where I just don&#8217;t find joy in doing hardly ANYTHING, and it doesn&#8217;t take too long to get out of it. But this time, it just stuck with me for weeks, and weeks. Ugh. Motherhood was beyond hard, and I&#8217;m just being honest here, I did not even feel like getting out of bed on most days. I felt like I was trudging through waist deep sludge.</p>
+<p><img class="alignnone size-full wp-image-2879" title="spring1" src="http://evie-s.com/news/wp-content/uploads/2012/03/spring1.jpg" alt="" width="571" height="587" /></p>
+<p>I prayed, I read, I waited, I tried doing my most favorite things, but nothing seemed to &#8220;fix&#8221; it. But then warm weather hit, flowers started to bloom, and everything was suddenly green again.</p>
+<blockquote><p>Then he gives the command and it all melts; he breathes on winter-suddenly it&#8217;s S<em>pring</em>! <a href="http://www.youversion.com/bible/Ps.147.18.msg">Psalm 147:18 (MSG)</a></p></blockquote>
+<p>And again, as He so faithfully does, God pulled me out of my miserable pit and I got my life back &#8211; my joy back. I can&#8217;t explain it, and I don&#8217;t know why it happens, I just know that plenty of Psalms have some pretty rough spots in it, where the Psalmists wonder where God is and why they feel so downcast and alone. So I know I&#8217;m not the only one.</p>
+<blockquote><p>He lifted me out of the slimy pit, out of the mud and mire; he set my feet on a rock and gave me a firm place to stand. <a href="http://www.youversion.com/bible/ps.40.2.niv">Psalm 40:2</a></p></blockquote>
+<p><img class="alignnone size-full wp-image-2880" title="spring" src="http://evie-s.com/news/wp-content/uploads/2012/03/spring.jpg" alt="" width="571" height="262" /></p>
+<p>Anyway, I&#8217;m glad to be &#8220;back&#8221; and I hope to be posting more regularly again.</p>
+<p>I love Spring every year. It&#8217;s the newness, the power of life, that just gets me every time. It&#8217;s such a miracle. I&#8217;ve been photographing our blooming daffodils and tulips &#8211; and we have lilies &amp; daisies on the way. It&#8217;s amazing how quickly they unfold &#8211; I took the above photos in the area of a couple hours. I also did a some sketching of a floral motif, and I&#8217;m offering it here as a <a href="http://www.evie-s.com/downloads/floralart.pdf">free download</a> if you like it.</p>
+<p><a href="http://www.evie-s.com/downloads/floralart.pdf"><img class="alignnone size-full wp-image-2888" title="spring2" src="http://evie-s.com/news/wp-content/uploads/2012/03/spring22.jpg" alt="" width="571" height="485" /></a></p>
+<p>As always, I don&#8217;t care what you do with it, you could even use it on your website as a background. Hope you enjoy it.</p>
+<p>What do you appreciate most about Spring? Does anyone else have slumps?</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+		<div id="post-2849" class="post-2849 post type-post status-publish format-standard hentry category-art">
+    <h2 class="post-title"><a href="http://evie-s.com/news/2012/03/16/tiny-sculptures-from-willard-wigan/" rel="bookmark" title="Permalink to Tiny Sculptures from Willard Wigan">Tiny Sculptures from Willard Wigan</a></h2>
+
+    <div class="post-meta">
+	    <span class="post-author">
+		    by		    <a href="http://evie-s.com/news/author/evies./" title="Posts by evie s." rel="author">evie s.</a>	    </span><!-- .post-author -->
+
+	    <span class="post-date">
+		on		March 16, 2012,
+	    </span><!-- .post-author -->
+
+	    <span class="post-comments">
+		<a href="http://evie-s.com/news/2012/03/16/tiny-sculptures-from-willard-wigan/#comments">5 comments</a>
+	    </span><!-- .post-author -->
+    </div><!-- END .post-meta -->
+
+    	
+    
+    <div class="post-content"><p><img class="alignnone size-full wp-image-2868" title="willard" src="http://evie-s.com/news/wp-content/uploads/2012/03/willard.jpg" alt="" width="571" height="278" /></p>
+<p>It takes alot to wow me these days. When my husband and I stumbled on the work of <a href="http://www.willard-wigan.com/">Willard Wigan</a>, I was completely doubtful that this self-taught artist could create work that fits <em>in the eye of a needle</em>. But after further investigation, that&#8217;s exactly what this artist does, create the tiniest sculptures in the world that are sometimes as small as the period that you see on this page &#8211; cut in half. Not even visible to the naked eye. So I knew I had to share it with you all.</p>
+<p><img class="alignnone size-full wp-image-2867" title="willard2" src="http://evie-s.com/news/wp-content/uploads/2012/03/willard2.jpg" alt="" width="571" height="379" /></p>
+<p>If you are a skeptic like I was, you might be interested in watching his <a href="http://www.ted.com/talks/willard_wigan_hold_your_breath_for_micro_sculpture.html">TED talk</a>, in which he goes into his homemade tools (like a hair off a fly for a paintbrush), and methods (like slowing down his breathing so he can work in between heartbeats).</p>
+<p><img class="alignnone size-full wp-image-2869" title="willard3" src="http://evie-s.com/news/wp-content/uploads/2012/03/willard3.jpg" alt="" width="571" height="381" /></p>
+<p>While his work is incredible, his story is equally as impacting. He struggled in school with dyslexia and is still barely able to read and write. His teachers made him feel worthless and a failure. In fact, one of his teachers told him that the word &#8220;failure&#8221; was invented just for him. At age 5, he started creating tiny apartments and furniture for ants, as a way of escape from his troubles. His mother encouraged him in his God given ability, and when he was very little told him, &#8220;The smaller your work, the bigger your name will become.&#8221; He didn&#8217;t fully understand this as a boy, but certainly gets it now that he&#8217;s grown, where recently his life&#8217;s work recently sold for 20 million dollars.</p>
+<p><img class="alignnone size-full wp-image-2870" title="willard4" src="http://evie-s.com/news/wp-content/uploads/2012/03/willard4.jpg" alt="" width="571" height="284" /></p>
+<blockquote><p>Little things can be the biggest things. The teachers at my school made me feel small. Like nothing. I&#8217;m trying to prove that nothing doesn&#8217;t exist. &#8211; Willard Wigan</p></blockquote>
+<p>Wigan explained that, while working on a grain of sand, he would sometimes use the tremor caused by his own heartbeat as a jack hammer to chisel the tiny particle. When asked if he enjoys his work, he answers, &#8220;I enjoy it when I finish it. Not working on it, no. It&#8217;s misery. It&#8217;s painstaking.&#8221; Fashioned from gold, specs of dust, precious gems, droplets of glue and paint along with numerous other materials including eyelashes and spiders webbing, each artwork is living proof of the power of belief.</p>
+<p><img class="alignnone size-full wp-image-2871" title="willard5" src="http://evie-s.com/news/wp-content/uploads/2012/03/willard5.jpg" alt="" width="571" height="300" /></p>
+<blockquote><p>I work between my heartbeat. I have one-and-a-half seconds to actually move. And at the same time I have to watch I don’t inhale my own work.</p></blockquote>
+<p>The personal sacrifices involved in creating such wondrous, yet scarcely believable pieces are inconceivable to most. He&#8217;s not married, and he&#8217;s not into the glitzy life. What motivates him I guess is his own internal drive to prove his critics wrong, and to use the gift he says God gave him.</p>
+<blockquote><p>People haven&#8217;t seen the best of me yet. I&#8217;m going to take it even smaller.</p></blockquote>
+<p>&nbsp;</p>
+</div>
+
+   
+    <div class="clear"></div>
+</div><!-- #post-## -->
+	
+	
+	</div><!-- END #content -->
+
+	<div class="clear"></div>
+</div><!-- END #main -->
+
+<div id="footer">
+	
+	
+	Copyright &copy; 2015 <a href="http://evie-s.com/news" title="" rel="home"></a>. All rights Reserved.<br />
+</div><!-- END #footer -->
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-3153772-1";
+urchinTracker();
+</script>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=3178696; 
+var sc_invisible=0; 
+var sc_partition=26; 
+var sc_security="7e59044b"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div class="statcounter"><a class="statcounter" href="http://www.statcounter.com/"><img class="statcounter" src="http://c27.statcounter.com/3178696/0/7e59044b/0/" alt="counter create hit" /></a></div></noscript>
+<!-- End of StatCounter Code --></body>
+</html>

@@ -1,0 +1,266 @@
+/*
+* Skeleton V1.1
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 8/17/2011
+*/
+/*  Table of Contents 
+	01. TESTING TEXT
+	02. COMMON FIXES
+	03. DEFAULT STYLES
+	04. TABLET (Portrait)
+	05. MOBILE (Portrait)
+	06. MOBILE (Landscape)
+*/
+
+
+
+/*
+=============================================== 01. TESTING TEXT ===============================================
+*/
+body:after {content: "less than 320px";font-size: 300%;font-weight: bold;position: fixed;bottom: 60px;width: 100%;text-align: center;background-color: hsla(1,60%,40%,0.7);color: #fff;
+display:none !important; /* -------------------- ADD OR REMOVE display:none !important; to display testing text -------------------- */}
+.resize {display:none; position:fixed; bottom:0px; right:0px; width:80px; height:80px; background:url(images/resize.png); z-index:55;  }
+
+
+/*
+=============================================== 02. COMMON FIXES ===============================================
+*/
+html {-webkit-text-size-adjust: none;}	/* Removes webkit font resizing */ 
+#main, aside {
+	-moz-transition: all .3s ease-in-out;
+	-webkit-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+body {max-width:100%; width:100%; overflow:hidden;}
+#map_div2 iframe {max-width: 100%; height:260px;}
+
+/*
+=============================================== 03. DEFAULT STYLES ===============================================
+*/
+body:after {content: "Wider than 959px";background-color: hsla(270,60%,40%,0.7);/* Notify what @media browser is using, Disable above by display:none; */ 	
+#featured {position:relative;max-width:500px;max-height:100%; height:500px; }
+img {max-width: 100%; height: auto;}
+
+}
+
+
+/*
+=============================================== 04. TABLET (Portrait) ===============================================
+*/
+@media only screen and (min-width: 959px) and (max-width: 1000px) { body {min-width:0px; width:100%; overflow:hidden; }  } /*Fix for non-responsive version*/
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body:after {content: "768 to 959px";background-color: hsla(270,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 	
+	img {max-width: 100%; height: auto;}
+	
+	body { min-width:768px;}
+	#topannounce, #reset-announcement {min-width:768px;}
+	#topannounce #announce-container, #reset-announcement-container, #footer-container {width:768px; } /* Width of Top Announcement Bar and Footer */
+	#content { width:460px; } /* Add 32px of padding to the width so default is actually 500 = 532 */
+	aside {width:250px;} /* Add 32px of padding to the width so default is actually 260 = 292 */
+	#main, #main-base  {width:768px;} /* Container for the two Colums - Add 66px to width of aside and #content.  532 + 292 + 66 = 890 */
+	
+	/*  Slider Resizing */
+	
+	.ie7 #featured-container, .ie7 #featured, .ie7 #featured div {height:240px !important; width:428px !important; overflow:hidden;}
+	.ie7 .orbit-wrapper .orbit-caption {  width: 428px !important;  }
+	
+	
+	#featured-container {height:240px; width:428px; overflow:hidden;}
+	#featured {
+			position:relative;
+	        max-width:428px;
+	        max-height:100%;
+	        height:240px;
+			width:428px;
+	    }
+	.portfolio-slider, .portfolio-slider-single { 
+		position:relative;
+        max-width:428px;
+        max-height:100%;
+        height:260px;
+        overflow:hidden;
+	}
+	
+	/*  Column Resizing */
+	.grid2column, .col_1_2, .grid3column, .col_1_3, .grid3columnbigcolumn, .grid4column, .col_1_4, .grid4columnbig {margin-right:15px;}
+	.grid2column, .col_1_2 {width:186px;  }
+	.grid3column, .col_1_3 {width:119px; }
+	.grid3columnbigcolumn {width:253px; }
+	.grid4column, .col_1_4 {width:85px;}
+	.grid4columnbig {width:285px; }
+	
+	/*  Tabs Resizing */
+	.tabs, ul.tabNavigation {width:385px;}
+	div.tabs > div {width:345px;}
+	
+	/*  Contact Form Resizing */
+	#contact-wrapper textarea  {width:75%;}
+	#contact-wrapper input {width:60%;}
+	#contact-wrapper input.button-colored {width:auto;}
+	input#s {width:50%; }
+	#wp-calendar td {padding:4px; text-align:center;}
+
+}
+
+
+/*
+=============================================== 05. MOBILE (Portrait) ===============================================
+*/
+
+@media only screen and (max-width: 767px) {
+	body:after {content: "0 to 480px"; background-color: hsla(90,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+	img {max-width: 100%; height: auto;}
+	
+	body { min-width:300px;}
+	#topannounce, #reset-announcement {min-width:300px;}
+	#topannounce #announce-container, #reset-announcement-container, #footer-container {width:300px; } /* Width of Top Announcement Bar and Footer */
+	#content { width:300px; } /* Add 32px of padding to the width so default is actually 500 = 532 */
+	aside {width:300px; float:none; margin:0 auto;} /* Add 32px of padding to the width so default is actually 260 = 292 */
+	#main, #main-base  {width:300px; } /* Container for the two Colums - Add 66px to width of aside and #content.  532 + 292 + 66 = 890 */
+	#content {float:none; margin:25px auto;} 
+	
+	/*  Navigation Drop-down positioning */
+	.sf-menu ul {	position: relative; left:0px; /* left offset of submenus need to match (see below) */ }
+	.sf-menu li:hover ul, .sf-menu li.sfHover ul, .sf-menu ul li:hover ul, .sf-menu ul li.sfHover ul { left:	0; top: 0px; /* match top ul list item height */	z-index: 1003; }
+	.sf-menu ul li a { width:240px !important; padding-left:20px;}
+	.sf-menu ul {border:none; -moz-box-shadow:none -webkit-box-shadow:none; box-shadow: none;}
+	ul.sf-menu li li li.sfHover ul, .sf-vertical li:hover ul, .sf-vertical li.sfHover ul, ul.sf-menu li li.sfHover ul {left:0px !important ; }
+	.sf-menu li li .sf-sub-indicator { right:3em;  }
+	.sf-menu li li { width:	268px !important; overflow:hidden; }
+	.sf-menu li li li li .sf-sub-indicator { right:4em;  }
+	.sf-menu li li li a { width:220px !important;  padding-left:40px; }
+	.sf-menu li li li li a { width:200px !important;  padding-left:60px; }
+	
+	/*  Column Resizing (All 1 column) */
+	.grid2column, .col_1_2, .grid3column, .col_1_3, .grid3columnbigcolumn, .grid4column, .col_1_4, .grid4columnbig {margin-right:0px; width:230px;}
+	
+	
+	
+	
+	/*  Slider Resizing */
+	
+	.ie7 #featured-container, .ie7 #featured, .ie7 #featured div {height:146px !important; width:268px !important; overflow:hidden;}
+	.ie7 .orbit-wrapper .orbit-caption {  width: 268px !important;  }
+	
+	#featured-container {height:146px; width:268px; overflow:hidden;}
+	#featured {
+			position:relative;
+	        max-width:268px;
+	        max-height:100%;
+	        height:146px;
+			width:268px;
+	    }
+	.portfolio-slider, .portfolio-slider-single { 
+		position:relative;
+        max-width:268px;
+        max-height:100%;
+        height:146px;
+        overflow:hidden;
+	}
+	
+	/*  Tab resizing */
+	.tabs, ul.tabNavigation {width:230px;}
+	div.tabs > div {width:190px;}
+ 
+	
+	/*  Contact form resizing */
+	#contact-wrapper textarea  {width:90%;}
+	#contact-wrapper input {width:80%;}
+	#contact-wrapper input.button-colored {width:auto;}
+	
+	/*  Portfolio Fixes */
+	.button {font-size:11px; padding: 7px 10px;}
+	.portfolio-columns {padding-bottom:25px;}
+	.portfolio-container hr {margin:0px; border:none;}
+	
+	
+	/*  Comment Resizing (One Column) */
+	ol.commentlist li {padding:20px; }
+	ol.commentlist .avatarimage {float:left; width:40px; margin-right:20px; margin-bottom:18px;}
+	
+	.fixed-spacer {padding-top:75px;}
+	body .content-padding h1.page-title {font-size:46px;}
+	
+}
+
+
+/*
+=============================================== 06. MOBILE (Landscape) ===============================================
+*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	body:after { content: "480 to 767px"; background-color: hsla(150,50%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+	
+	body { min-width:420px;}
+	#topannounce, #reset-announcement {min-width:420px;}
+	#topannounce #announce-container, #reset-announcement-container, #footer-container {width:420px; } /* Width of Top Announcement Bar and Footer */
+	#content { width:420px; } /* Add 32px of padding to the width so default is actually 500 = 532 */
+	aside {width:420px;} /* Add 32px of padding to the width so default is actually 260 = 292 */
+	#main, #main-base  {width:420px;} /* Container for the two Colums - Add 66px to width of aside and #content.  532 + 292 + 66 = 890 */
+
+	/*  Navigation Adjustments */
+	.sf-menu ul li a { width:360px !important;  padding-left:20px; }
+	.sf-menu li li .sf-sub-indicator { right:3em;  }
+	.sf-menu li li { width:	388px !important; overflow:hidden; }
+	.sf-menu li li li li .sf-sub-indicator { right:4em;  }
+	.sf-menu li li li a { width:340px !important;  padding-left:40px; }
+	.sf-menu li li li li a { width:320px !important;  padding-left:60px; }
+	
+	/*  Column Resizing */
+	.grid2column, .col_1_2, .grid3column, .col_1_3, .grid3columnbigcolumn, .grid4column, .col_1_4, .grid4columnbig {margin-right:15px; }	
+	.grid2column, .col_1_2 {width:166px;  }
+	.grid3column, .col_1_3 {width:105px; }
+	.grid3columnbigcolumn {width:225px; }
+	.grid4column, .col_1_4 {width:75px;}
+	.grid4columnbig {width:255px; }
+	
+	
+	/*  Slider Resizing */
+	
+	.ie7 #featured-container, .ie7 #featured, .ie7 #featured div {height:218px !important; width:388px !important; overflow:hidden;}
+	.ie7 .orbit-wrapper .orbit-caption {  width: 388px !important;  }
+	
+	#featured-container {height:218px; width:388px; overflow:hidden;}
+	#featured {
+			position:relative;
+	        max-width:388px;
+	        max-height:100%;
+	        height:218px;
+			width:388px;
+	    }
+	.portfolio-slider, .portfolio-slider-single { 
+		position:relative;
+        max-width:388px;
+        max-height:100%;
+        height:218px;
+        overflow:hidden;
+	}
+	
+	/*  Tab resizing */
+	.tabs, ul.tabNavigation {width:350px;}
+	div.tabs > div {width:310px;}
+	
+	/*  Contact form resizing */
+	#contact-wrapper textarea  {width:75%;}
+	#contact-wrapper input {width:60%;}
+	#contact-wrapper input.button-colored {width:auto;}
+	
+	/*  Resetting HR after adjusting it above */
+	hr { display: block; height: 1px;  border: 0; border-top: 1px solid #efefef; margin:25px 0 25px 0; }
+	
+	
+	/*  Comment Resetting after adjusting it above */
+	ol.commentlist ul.children li {padding-left:90px; margin-bottom:-15px;}
+	ol.commentlist .avatarimage {float:left; width:50px; margin-right:20px; margin-bottom:18px;}
+	
+	body .content-padding h1.page-title {font-size:52px;}
+	
+}
+
+
+

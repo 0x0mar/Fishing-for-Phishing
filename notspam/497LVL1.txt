@@ -1,0 +1,166 @@
+
+.navPrimary ul.submenu {
+	left: -40px;	
+}
+/* Hot Topics */
+.tagLabel {
+    margin-top: 7px;
+}
+.tagNames {
+    padding-top: 12px;
+}
+.dateline {
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+.articleByTimeLocation .byline, .articleByTimeLocation .location {
+    padding-bottom: 5px;
+}
+/* Search Box */
+.horizontal {
+    margin-top: -15px;
+}
+.superSearchBox fieldset input {
+    width: 250px;
+}
+/* Social and custom widgets */
+#content .articleByTimeLocation .widget {	
+    display: inline;
+    margin-top: 3px;
+}
+.topExternalLinks ul {
+	margin-top:13px;	
+}
+
+#header {
+	overflow:visible !important;
+}
+
+#content .socialwidget {
+    float: left;
+    display: inline;
+    padding: 3px 0 1px 0;
+}
+.fbsend {
+    float: left;
+    width:53px;
+}
+.fblike {
+    float: left;
+}
+#content .article-links {
+    float: right;
+    display: inline;
+    font-size: 1em;
+    margin-left: 32px;
+    font-family: arial, sans-serif;
+}
+#content .article-links .print-link {
+    float: left;
+    padding-left: 80px;
+}
+#content .article-links .email-link {
+    float: right;
+    margin: 3px 4px 0 0;
+}
+#content .article-links .enlarge-font {
+    float: right;
+}
+/*Film strip at bottom page*/
+.filmstrip {
+    display: block;
+    height: 235px;
+}
+#content .botWidgets .print-link {
+   margin-left: 12px;
+}
+/*Article Page month margins*/
+.column ul {
+    margin-left: 8px;
+}
+.dayInDate {
+    padding: 0 0 10px 0;
+    margin: 50px 0 0 0;
+    border-bottom: 1px solid #cccccc;
+}   
+.dayInDateForm .form fieldset {
+    border: none;
+    margin-top: -40px;
+    padding-left: 60px;
+}
+#dayArchiveSub ul {
+    margin-left: 0;
+}
+.googlead {
+   overflow: hidden;
+   width: 100%;
+   clear: both;
+}
+div.filmstrip .caption-bottom {
+	padding-bottom: 12px;
+}
+div#main div.strapLine {
+	clear: both;
+}
+.strapline {
+   padding: 0px;
+   padding-top: 4px;        
+}
+.custom-gallery .fb_share {
+	float:left;
+	margin-right:10px;
+}
+
+/*
+	Voices IE7 css
+*/
+.voices .hotTopics{
+
+}
+.voices.navPrimary ul.submenu{left:0;}
+.voices .tagLabel{margin-top:0;}
+.voices .tagNames{padding-top:0;}
+.navPrimary .third-level-wrapper{z-index:5 !important;}
+.navPrimary.voices, #navigation{position:relative; z-index:10;}
+.carouselConrtainer .halfWidth .textAreaBg{height:435px;}
+.carouselConrtainer .fullWidth .textArea{bottom:30px; left:0;}
+.w380.ivPromo .mini-carouselConrtainer .halfWidth .textAreaBg{height:220px;}
+.w300.ivPromo .mini-carouselConrtainer .halfWidth .textAreaBg{height:156px;}
+#voicesComments .voicesCommentsBody{float:none;}
+.voicesDualComment .postCommentWrapper textarea{height:115px;}
+.voicesSingleComment .postCommentWrapper .for textarea{border:1px solid #fff;}
+.socialVoices{float:none;}
+.topVoicesWidget .byline{float:left;}
+.topVoicesWidget .byline h3{float:right; margin-right:116px;}
+.voicesRelatedTopics .tagNames{padding-top:0;}
+.storyWidget .summary{display:inline-block;}
+.ui-dialog .ui-dialog-titlebar-close, .ui-dialog .ui-dialog-titlebar-close:hover{width:50px;}
+.ui-icon.ui-icon-closethick{float:left;}
+#myAccount-link, #newsLetterPreferences-link{padding:7px 7px 7px 0px;}
+#myAccount-link a, #newsLetterPreferences-link a{padding:7px !important;}
+div.gigya-box input.myaccount-submit{float:left;}
+#newsletterLoggedIn fieldset legend{float:left; margin:0 0 20px -6px;}
+div#gigya-myaccountbox{float:left;}
+div#gigya-myaccountbox fieldset legend{margin:0 0 10px -7px;}
+#gigya-myaccountbox div.bottom-buttons .loading-progress-image{margin-top:20px;}
+
+.myaccount-rightbox label{padding-left:4px !important;}
+.myaccount-rightbox .checkbox{border:0px !important; padding: 0px !important; margin-top:0 !important;}
+.myaccount-leftbox .input input{padding-right: 8px !important;}
+
+
+#gigya-myaccountbox fieldset{padding-top:0px !important;}
+.col-content{padding-top:0px !important;}
+#myaccountLoggedIn{padding-bottom:60px !important;}
+
+div.gigya-box .loading-progress-image {
+    padding-left: 5px;
+    vertical-align: -1px !important;
+}
+.orange-voices-nav.active a.voicesLogoAnchor{width:30px; height:30px;}
+div.input input.password, div.input input.password2 {
+	font-family: arial black !important; 
+}
+.campaign-article img, .campaign-section img{float:left;}
+.voicesReaction.reactionArticlePage .socialShareButtons-container .social-box{height:25px;}
+.topVoicesWidget p{display:inline;}

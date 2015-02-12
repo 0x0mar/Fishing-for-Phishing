@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: 40 Best Fitness Websites of 2013</title>
+	<atom:link href="http://psychologyofeating.com/40-fitness-websites-2013/feed/" rel="self" type="application/rss+xml" />
+	<link>http://psychologyofeating.com/40-fitness-websites-2013/</link>
+	<description>institute for the PSYCHOLOGY of EATHING the World&#039;s Leading School in Nutritional Psychology</description>
+	<lastBuildDate>Tue, 10 Feb 2015 20:17:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.1</generator>
+	<item>
+		<title>By: Psychology of Eating</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-6/#comment-2665</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 17:53:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2665</guid>
+		<description><![CDATA[Hi Greg, You&#039;re so welcome, and thanks so much for being a part of our online community! Warmly, IPE Staff]]></description>
+		<content:encoded><![CDATA[<p>Hi Greg, You&#8217;re so welcome, and thanks so much for being a part of our online community! Warmly, IPE Staff</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Greg Parry</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-6/#comment-2663</link>
+		<dc:creator><![CDATA[Greg Parry]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2015 12:13:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2663</guid>
+		<description><![CDATA[Thanks for sharing this list of fitness website.Anyone can get tips of taking care of their body physically and mentally.
+
+http://www.onelifeblog.com/blog/]]></description>
+		<content:encoded><![CDATA[<p>Thanks for sharing this list of fitness website.Anyone can get tips of taking care of their body physically and mentally.</p>
+<p><a href="http://www.onelifeblog.com/blog/" rel="nofollow">http://www.onelifeblog.com/blog/</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Psychology of Eating</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-6/#comment-2620</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2014 16:39:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2620</guid>
+		<description><![CDATA[Thanks Lisa! We&#039;re so glad you find the list helpful. Feel free to check out our other &quot;best of&quot; website lists too and let us know what you think! Warmly, IPE Staff]]></description>
+		<content:encoded><![CDATA[<p>Thanks Lisa! We&#8217;re so glad you find the list helpful. Feel free to check out our other &#8220;best of&#8221; website lists too and let us know what you think! Warmly, IPE Staff</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Psychology of Eating</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-5/#comment-2453</link>
+		<dc:creator><![CDATA[Psychology of Eating]]></dc:creator>
+		<pubDate>Wed, 20 Aug 2014 19:05:00 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2453</guid>
+		<description><![CDATA[Thanks for the suggestion, Andrew! We will keep it in mind for next year&#039;s list!]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the suggestion, Andrew! We will keep it in mind for next year&#8217;s list!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: IPE Staff</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-5/#comment-2036</link>
+		<dc:creator><![CDATA[IPE Staff]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2014 18:48:31 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2036</guid>
+		<description><![CDATA[Hi Rose,
+
+We&#039;re glad that you enjoyed the list!
+
+Warmly,
+IPE Staff]]></description>
+		<content:encoded><![CDATA[<p>Hi Rose,</p>
+<p>We&#8217;re glad that you enjoyed the list!</p>
+<p>Warmly,<br />
+IPE Staff</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Rose Meera</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-5/#comment-2035</link>
+		<dc:creator><![CDATA[Rose Meera]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2014 11:13:58 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2035</guid>
+		<description><![CDATA[Very interesting list of websites! All are very inspiring and informative too. It gives a lot of insights for a fitness addict like me.]]></description>
+		<content:encoded><![CDATA[<p>Very interesting list of websites! All are very inspiring and informative too. It gives a lot of insights for a fitness addict like me.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Steve carve</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-5/#comment-2034</link>
+		<dc:creator><![CDATA[Steve carve]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2014 04:30:32 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2034</guid>
+		<description><![CDATA[I love the list. I have visited most of the websites and bookmarked rest of them. I appreciate your good work. Thanks for sharing.]]></description>
+		<content:encoded><![CDATA[<p>I love the list. I have visited most of the websites and bookmarked rest of them. I appreciate your good work. Thanks for sharing.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Joe Daniels</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-4/#comment-2032</link>
+		<dc:creator><![CDATA[Joe Daniels]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2014 02:59:24 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2032</guid>
+		<description><![CDATA[making my way down the list .its better and better.]]></description>
+		<content:encoded><![CDATA[<p>making my way down the list .its better and better.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Sally</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-4/#comment-2031</link>
+		<dc:creator><![CDATA[Sally]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2013 08:39:55 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2031</guid>
+		<description><![CDATA[Thanks for the great list!  I look forward to seeing next years list.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the great list!  I look forward to seeing next years list.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David Kimmerle</title>
+		<link>http://psychologyofeating.com/40-fitness-websites-2013/comment-page-4/#comment-2030</link>
+		<dc:creator><![CDATA[David Kimmerle]]></dc:creator>
+		<pubDate>Wed, 25 Dec 2013 09:35:07 +0000</pubDate>
+		<guid isPermaLink="false">http://psychologyofeating.com/?p=9681#comment-2030</guid>
+		<description><![CDATA[This is very informative post. Thanks for sharing it.]]></description>
+		<content:encoded><![CDATA[<p>This is very informative post. Thanks for sharing it.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+<!-- Wp Fastest Cache: XML Content -->

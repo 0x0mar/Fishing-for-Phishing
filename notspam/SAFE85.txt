@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>URLVoid Blog</title>
+	<atom:link href="http://blog.urlvoid.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://blog.urlvoid.com</link>
+	<description>Latest news about Internet threats</description>
+	<lastBuildDate>Fri, 28 Mar 2014 23:03:16 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0.1</generator>
+	<item>
+		<title>How to identify fake shopping websites</title>
+		<link>http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/</link>
+		<comments>http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/#comments</comments>
+		<pubDate>Wed, 27 Nov 2013 16:08:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[detect fake sites]]></category>
+		<category><![CDATA[gstarshopengland]]></category>
+		<category><![CDATA[identify fake shops]]></category>
+		<category><![CDATA[identify scam website]]></category>
+		<category><![CDATA[scam websites]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1333</guid>
+		<description><![CDATA[<p>When you want to buy something on Internet, you generally search for cheap clothes, or cheap shoes, but that is not always the best way to find a trusted and legit shopping website. Many scam websites are located on the top pages on Google search engine when you search for a brand name followed by [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/">How to identify fake shopping websites</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1333/how-to-identify-fake-shopping-websites/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Malware: UPS Delivery Notification Tracking Number</title>
+		<link>http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/</link>
+		<comments>http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/#comments</comments>
+		<pubDate>Thu, 24 Oct 2013 23:21:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[015e60d0ddff09d7df66d926d3793cc8]]></category>
+		<category><![CDATA[invoiceCM0V9ORWJF23KX8PAP.PDF.exe]]></category>
+		<category><![CDATA[UPS virus]]></category>
+		<category><![CDATA[ups zbot]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1323</guid>
+		<description><![CDATA[<p>We recently logged some emails with attached two suspicious files: As you can see, the email has a subject and an address that may seem coming from the UPS, but in reality the email is a scam and it is used to spread as attachment a file named invoiceCM0V9ORWJF23KX8PAP.PDF.exe, that is the executable file of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/">Malware: UPS Delivery Notification Tracking Number</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1323/malware-ups-delivery-notification-tracking-number/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Translate used by spammers to bypass Anti-Spam filters</title>
+		<link>http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/</link>
+		<comments>http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/#comments</comments>
+		<pubDate>Fri, 04 Oct 2013 11:57:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Spam]]></category>
+		<category><![CDATA[casino spam]]></category>
+		<category><![CDATA[google translate]]></category>
+		<category><![CDATA[pharma spam]]></category>
+		<category><![CDATA[yolasite spam]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1305</guid>
+		<description><![CDATA[<p>Google Translate is a free service created by Google that translates any web page, content or document from native language to a language specified by the user that is using the service. We have noticed that some spam messages contain links to websites that use the service Google Translate to translate their page content, but [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/">Google Translate used by spammers to bypass Anti-Spam filters</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1305/google-translate-used-by-spammers-to-bypass-anti-spam-filters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Phishing: PayPal Notice of Policy Updates</title>
+		<link>http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/</link>
+		<comments>http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/#comments</comments>
+		<pubDate>Sun, 29 Sep 2013 11:27:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[paypal]]></category>
+		<category><![CDATA[paypal phishing]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1281</guid>
+		<description><![CDATA[<p>Be aware, we have logged a lot of phishing emails that are targeting PayPal users on these days. The phishing email message looks like almost identical to the real PayPal message, but the link present in the message redirects the user to an URL shortener service. The malicious link present in the email is: hxxp://lnko.in/bhqr [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/">Phishing: PayPal Notice of Policy Updates</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1281/phishing-paypal-notice-of-policy-updates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Spam: New Product to Lose up to 15 lbs.</title>
+		<link>http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/</link>
+		<comments>http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/#comments</comments>
+		<pubDate>Thu, 15 Aug 2013 16:15:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Spam]]></category>
+		<category><![CDATA[green coffee scam]]></category>
+		<category><![CDATA[green coffee spam]]></category>
+		<category><![CDATA[lose weight spam]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1256</guid>
+		<description><![CDATA[<p>We noted an increase amount of email messages that promote a new product that should help people to lose weight. All the email messages we have captured, redirect users to .RU websites used to promote some king of green tea product used to lose weight, that is of course a scam. This is one of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/">Spam: New Product to Lose up to 15 lbs.</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1256/spam-new-product-to-lose-up-to-15-lbs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress-how-to-videos(dot)com Spreads Java Exploits</title>
+		<link>http://blog.urlvoid.com/1184/wordpress-how-to-videosdotcom-spreads-java-exploits/</link>
+		<comments>http://blog.urlvoid.com/1184/wordpress-how-to-videosdotcom-spreads-java-exploits/#comments</comments>
+		<pubDate>Sun, 16 Sep 2012 01:13:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[exploit kit]]></category>
+		<category><![CDATA[java exploit]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1184</guid>
+		<description><![CDATA[<p>When we analyzed few Twitter followers in one of our websites, we noted that there was an user that was following us, see the image: We have analyzed the website (infected): www (dot) wordpress-how-to-videos (dot) com The website wordpress-how-to-videos(dot)com is hosted at BSE Software GmbH and its current IP address is 82.220.34.22 (330.hostserv.eu). The server [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1184/wordpress-how-to-videosdotcom-spreads-java-exploits/">WordPress-how-to-videos(dot)com Spreads Java Exploits</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1184/wordpress-how-to-videosdotcom-spreads-java-exploits/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>URLVoid API v2.0</title>
+		<link>http://blog.urlvoid.com/1175/urlvoid-api-v2-0/</link>
+		<comments>http://blog.urlvoid.com/1175/urlvoid-api-v2-0/#comments</comments>
+		<pubDate>Thu, 09 Aug 2012 15:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[urlvoid api]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1175</guid>
+		<description><![CDATA[<p>URLVoid API is a free service (for non commercial use) that allow users to query our database of already analyzed domains and receive, in XML format, detailed details about each submitted domain. The URLVoid API supports multiple domains in one single query, so you can submit 250 domains and receive details of each domains in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1175/urlvoid-api-v2-0/">URLVoid API v2.0</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1175/urlvoid-api-v2-0/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Phishing: PayPal Account Review Department</title>
+		<link>http://blog.urlvoid.com/1171/phishing-paypal-account-review-department/</link>
+		<comments>http://blog.urlvoid.com/1171/phishing-paypal-account-review-department/#comments</comments>
+		<pubDate>Wed, 13 Jun 2012 11:40:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[paypal phishing]]></category>
+		<category><![CDATA[phishing email]]></category>
+		<category><![CDATA[spam email]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1171</guid>
+		<description><![CDATA[<p>Phishing email against PayPal users: Header details: Received: from mail14j.g14.rapidsite.net (mail14j.g14.rapidsite.net [128.121.64.175]) Received: from ca1-mx26.mlpsca01.us.mxservers.net (128.121.64.172) by mail14j.g14.rapidsite.net Received: from unknown [128.121.143.147] (EHLO mmm1430.rapidsite.net) by ca1-mx26.mlpsca01.us.mxservers.net (mxl_mta-3.1.0-05) Received: from unknown (HELO mikesmirnoff-%cf%ca.local) (marketing@77.50.19.97) Subject: Account Review Department Date: Wed, 13 Jun 2012 12:27:42 +0400 X-SOURCE-IP: [128.121.143.147] To:undisclosed-recipients:; Content-Disposition: attachment; filename=&#34;Account.zip&#34; Attached there is a ZIP [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1171/phishing-paypal-account-review-department/">Phishing: PayPal Account Review Department</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1171/phishing-paypal-account-review-department/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amazon.com Order Confirmation leads to Blackhole Exploit Kit</title>
+		<link>http://blog.urlvoid.com/1164/amazon-com-order-confirmation-leads-to-blackhole-exploit-kit/</link>
+		<comments>http://blog.urlvoid.com/1164/amazon-com-order-confirmation-leads-to-blackhole-exploit-kit/#comments</comments>
+		<pubDate>Sat, 09 Jun 2012 21:40:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[amazon order confirmation exploit]]></category>
+		<category><![CDATA[blackhole exploit kit]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[exploit kit]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1164</guid>
+		<description><![CDATA[<p>We received few emails with subject: Amazon.com Order Confirmation Inside the email message there is a HREF link that redirects users to a malicious web page containing malicious javascript code used to redirect users to the main URL of Blackhole exploit kit: The Blackhole exploit kit URL is: GET /main.php?page=017f3bb5c2be6a41 HTTP/1.1 User-Agent: Mozilla/4.0 (compatible; MSIE [&#8230;]</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1164/amazon-com-order-confirmation-leads-to-blackhole-exploit-kit/">Amazon.com Order Confirmation leads to Blackhole Exploit Kit</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1164/amazon-com-order-confirmation-leads-to-blackhole-exploit-kit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Malicious Injected Code: Injection_head and Injection_tail</title>
+		<link>http://blog.urlvoid.com/1156/new-malicious-injected-code-injection_head-and-injection_tail/</link>
+		<comments>http://blog.urlvoid.com/1156/new-malicious-injected-code-injection_head-and-injection_tail/#comments</comments>
+		<pubDate>Fri, 08 Jun 2012 22:29:16 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[exploit]]></category>
+		<category><![CDATA[Injection_head]]></category>
+		<category><![CDATA[Injection_tail]]></category>
+		<category><![CDATA[javascript injected code]]></category>
+		<category><![CDATA[js exploit]]></category>
+
+		<guid isPermaLink="false">http://blog.urlvoid.com/?p=1156</guid>
+		<description><![CDATA[<p>We have logged few websites infected with a new injected javascript code that seems to target mainly the websites powered with WordPress and Joomla. Below there is a screenshot of the malicious script: As we can see from the image above, the injected code starts with: &#60;!--Injection_head[SessionID=...]--&#62; And it ends with: &#60;!--Injection_tail[SessionID=...]--&#62;</p>
+<p>The post <a rel="nofollow" href="http://blog.urlvoid.com/1156/new-malicious-injected-code-injection_head-and-injection_tail/">New Malicious Injected Code: Injection_head and Injection_tail</a> appeared first on <a rel="nofollow" href="http://blog.urlvoid.com">URLVoid Blog</a>.</p>
+]]></description>
+		<wfw:commentRss>http://blog.urlvoid.com/1156/new-malicious-injected-code-injection_head-and-injection_tail/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
