@@ -9,7 +9,7 @@ from oauth2client.file import Storage
 from oauth2client.tools import run
 import re
 
-db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
+db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
 cursor = db.cursor()
 
 json_seed = open('seed.json', 'rb')
@@ -21,6 +21,10 @@ with open('wl.csv', 'rb') as csvfile:
 	for row in wlreader:
 		string=(row[1].split("/"))[0]
 		wl.append(string)
+		bad = 0
+		execString = ("INSERT INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '%i');" % (0, string, string, string, string, bad))
+		cursor.execute(execString)
+		
 for row in seedx:
 	url=row['url']
 	domain = (url.split("/"))[2]
@@ -41,26 +45,33 @@ if credentials is None or credentials.invalid:
   credentials = run(flow, STORAGE, http=http)
 http = credentials.authorize(http)
 gmail_service = build('gmail', 'v1', http=http)
-spams = gmail_service.users().messages().list(userId='me', labelIds='SPAM').execute()
+spamMsgs = gmail_service.users().messages().list(userId='me', labelIds='SPAM').execute()
 execString = "" 
-for spam in spams['messages']:
+i=0
+for spam in spamMsgs['messages']:
+	i = i+1
 	try:
+		print spam
 		messageId =(spam['id'])
 		message = gmail_service.users().messages().get(id=messageId, userId='me').execute()
 		stringe = (message['payload']['body'])	
-		if (stringe.get('data',"")):
-			stringd = base64.urlsafe_b64decode(stringe['data'].encode('ascii'))
-			for url in re.findall('''http["'](.[^"']+)["']''', stringd):
-				domainTo = (url.split("/"))[2]
-				if ((domain + "/") in wl):
-					print ("Whitelisted \n")
-					bad = 0
-				else:
-					bad =1
-				execString = ("INSERT IGNORE INTO seed (Domain, URL, URLSource, crawled) VALUES ('%s', '%s', 'list', 0);" % (domain, url))
-				cursor.execute(execString)
-			stringd=db.escape_string(stringd)
-			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('0', '%s', 'EMAIL', '%s', 'email');" % (stringd, str(messageId))) 
+		for part in message['payload']['parts']:
+			content = part['body']['data']
+			content = base64.urlsafe_b64decode(content.encode('ascii'))
+			for url in re.findall('''http["'](.[^"']+)["']''', content):
+				try:
+					domainTo = (url.split("/"))[2]
+					if ((domain + "/") in wl):
+						print ("Whitelisted \n")
+						bad = 0
+					else:
+						bad =1
+					execString = ("INSERT IGNORE INTO seed (Domain, URL, URLSource, crawled) VALUES ('%s', '%s', 'list', 0);" % (domain, url))
+					cursor.execute(execString)
+				except:
+					print "failed"
+			content=db.escape_string(content)
+			execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('0', '%s', '%i', '%s', 'email');" % (content, i, str(messageId))) 
 			cursor.execute(execString)
 			db.commit()
 	except Exception as e:
