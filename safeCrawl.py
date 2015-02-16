@@ -48,11 +48,11 @@ def crawl(n):
 						if (response==200):
 							print ("Found dangerous site \n")
 							bad = 1
-							#execString = ("INSERT INTO inboundLinks (Domain, domainTo, URL, URLto, Crawled) VALUES ('%s', '%s', '%s', '%s', 'false');" % (domain, domainTo, url, k))
+							execString = ("INSERT INTO inboundLinks (Domain, domainTo, URL, URLto, Crawled) VALUES ('%s', '%s', '%s', '%s', 'false');" % (domain, domainTo, url, k))
 							cursor.execute(execString)
 						else:
 							bad = 0
-							#execString = ("INSERT INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '%i');" % ((n+1), domain, domainTo, url, k, bad))
+							execString = ("INSERT INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '%i');" % ((n+1), domain, domainTo, url, k, bad))
 							cursor.execute(execString)
 							print("adding %s" %k)
 						db.commit()	
@@ -62,7 +62,7 @@ def crawl(n):
 			bank = open('notspam/%dLVL%d.txt' %(i,n), 'w')
 			bank.write (content)
 			content=db.escape_string(content)
-			#execString = ("INSERT INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
+			execString = ("INSERT INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 			cursor.execute(execString)
 			print url + " success! \n"
 			bank.close()
