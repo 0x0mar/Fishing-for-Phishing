@@ -9,7 +9,7 @@ from oauth2client.file import Storage
 from oauth2client.tools import run
 import re
 
-db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
+db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
 cursor = db.cursor()
 
 json_seed = open('seed.json', 'rb')
