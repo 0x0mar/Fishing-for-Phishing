@@ -22,13 +22,13 @@ with open('wl.csv', 'rb') as csvfile:
 		string=(row[1].split("/"))[0]
 		wl.append(string)
 		bad = 0
-		try:
+		"""try:
 			execString = ("INSERT INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '%i');" % (0, string, string, string, string, bad))
 			cursor.execute(execString)
 		except Exception as e:
 			print ("Broke: %s" %execString)	
 			print (type(e))
-			print (e.args)
+			print (e.args)"""
 			
 			
 for row in seedx:
