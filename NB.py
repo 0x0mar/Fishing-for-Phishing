@@ -9,7 +9,8 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.cross_validation import train_test_split
-from sklearn.naive_bayes import MultinomialNB, svm
+from sklearn.naive_bayes import MultinomialNB
+from sklearn import svm
 import numpy as np
 from _ast import Break
 
@@ -23,26 +24,20 @@ def tokenize(n):
 	i = 0
 	existingSpam = list()
 	existingNotSpam = list()
-	for file in os.listdir("./spam/"):
-		if (i == n):
-			Break
-		else:
-			spamPath = os.path.join("./spam", file)
-			existingSpam.append(spamPath)
-			i = i + 1
-	i=0
-	for file in os.listdir("./notspam/"):
-		if (i == n):
-			break
-		else:
-			spamPath = os.path.join("./notspam", file)
-			existingNotSpam.append(spamPath) 
-			i = i+1
-	y1=['0'] * len(existingSpam)
-	y2=['1'] * len(existingNotSpam)
-	y = y1+y2	
-	existingSpam = existingSpam + existingNotSpam
-	vectorizer = CountVectorizer(analyzer='word', input='filename', min_df=3, decode_error='ignore')
+	
+	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
+	cursor = db.cursor()
+	execString = ("SELECT Content FROM Content ORDER BY RAND() LIMIT %s;"%n) 
+	cursor.execute(execString)
+	spamCopy = cursor.fetchall()
+	execString = ("SELECT Content FROM safeContent ORDER BY RAND() LIMIT %s;"%n) 
+	cursor.execute(execString)
+	notSpamCopy = cursor.fetchall()
+	
+	y1=['0'] * n
+	y2=['1'] * n
+	y = y1+yspamCopy + notSpamCopy
+	vectorizer = CountVectorizer(analyzer='word', min_df=3, decode_error='ignore')
 	spamFeatures = vectorizer.fit_transform(existingSpam)
 	#print vectorizer.get_feature_names()
 	print spamFeatures.shape, type(spamFeatures)
