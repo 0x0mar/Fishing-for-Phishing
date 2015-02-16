@@ -36,7 +36,7 @@ def tokenize(n):
 	
 	y1=['0'] * n
 	y2=['1'] * n
-	y = y1+yspamCopy + notSpamCopy
+	y = y1+y2
 	vectorizer = CountVectorizer(analyzer='word', min_df=3, decode_error='ignore')
 	spamFeatures = vectorizer.fit_transform(existingSpam)
 	#print vectorizer.get_feature_names()
