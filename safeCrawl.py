@@ -10,7 +10,7 @@ sys.setdefaultencoding('utf8')
 def crawl(n):
 	i=0
 	seed = []
-	db = MySQLdb.connect(host='cspp53001.cs.uchicago.edu',db='jcbraunDB',user='jcbraun',passwd='3312crystal')
+	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
 	cursor = db.cursor()
 	outLinks = []
 	if (n ==0):
