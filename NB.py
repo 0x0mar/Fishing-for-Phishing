@@ -22,8 +22,7 @@ def tokenize(n):
 	cleaner.javascript = True
 	cleaner.style = True
 	i = 0
-	existingSpam = list()
-	existingNotSpam = list()
+	allCopy = list()
 	
 	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
 	cursor = db.cursor()
@@ -33,6 +32,10 @@ def tokenize(n):
 	execString = ("SELECT Content FROM safeContent ORDER BY RAND() LIMIT %s;"%n) 
 	cursor.execute(execString)
 	notSpamCopy = cursor.fetchall()
+	for row in spamCopy:
+		allCopy.append(row[0])
+	for row in notSpamCopy:
+		allCopy.append(row[0])
 	
 	y1=['0'] * n
 	y2=['1'] * n
