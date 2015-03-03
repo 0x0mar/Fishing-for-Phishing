@@ -32,16 +32,23 @@ def tokenize(n):
 	execString = ("SELECT Content FROM safeContent ORDER BY RAND() LIMIT %s;"%n) 
 	cursor.execute(execString)
 	notSpamCopy = cursor.fetchall()
+	lengths = []
 	for row in spamCopy:
 		allCopy.append(row[0])
+		lengths.append(len(row[0]))
 	for row in notSpamCopy:
 		allCopy.append(row[0])
-	
-	y1=['0'] * n
-	y2=['1'] * n
-	y = y1+y2
+		lengths.append(len(row[0]))
+	print lengths
+	lengths = np.array(lengths)
+	y1 =np.array(['0']*n)
+	y2=np.array(['1']*n)
+	y = np.	concatenate((y1,y2),axis=0)
 	vectorizer = CountVectorizer(analyzer='word', min_df=3, decode_error='ignore')
+	print "legnths:"
+	print lengths.shape
 	spamFeatures = vectorizer.fit_transform(allCopy)
+	#spamFeatures = np.concatenate(([spamFeatures],[lengths]),axis=1)
 	#print vectorizer.get_feature_names()
 	print spamFeatures.shape, type(spamFeatures)
 	#print notSpamFeatures.shape, type(notSpamFeatures)
