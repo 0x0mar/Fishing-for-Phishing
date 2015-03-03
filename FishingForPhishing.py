@@ -3,7 +3,7 @@ from lxml.html.clean import Cleaner
 import MySQLdb, sys
 from tld import get_tld
 from tld.utils import update_tld_names
-import seed
+from seed import seed
 
 update_tld_names()
 reload(sys)
@@ -52,7 +52,7 @@ def crawl():
 								bad =1
 							
 							#found a link, insert it into outboundLinks
-							execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((i+1), domain, domainTo, url, k, bad))
+							execString = ("INSERT IGNORE INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((i+1), domain, domainTo, url, k, bad))
 							cursor.execute(execString)
 							
 							#update the record, we've crawled this link
@@ -64,11 +64,11 @@ def crawl():
 						#couldn't handle this link, change crawled to 2 to take it out of circulation
 						print ("Couldn't add " + k + " error: " )
 						print e
-						execString = ("UPDATE outboundLinks SET Crawled=2 WHERE domain= '%s' AND domainTo='%s';" % (domain, domainTo))
+						execString = ("UPDATE IGNORE outboundLinks SET Crawled=2 WHERE domain= '%s' AND domainTo='%s';" % (domain, domainTo))
 						cursor.execute(execString)
 
 				content=db.escape_string(content)
-				execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((i+1), content, domain, url)) 
+				execString = ("INSERT IGNORE INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((i+1), content, domain, url)) 
 				cursor.execute(execString)
 
 				db.commit()
@@ -77,7 +77,6 @@ def crawl():
 				print (type(e))
 				print (e.args)
 	db.close()
-
 
 def safeCrawl():
 	i=0
@@ -113,10 +112,10 @@ def safeCrawl():
 							response = urllib2.urlopen(reqURL).getcode()
 							if (response==200):
 								print ("Found dangerous site \n")
-								execString = ("INSERT INTO inboundLinks (Domain, domainTo, URL, URLto, Crawled) VALUES ('%s', '%s', '%s', '%s', 'false');" % (domain, domainTo, url, k))
+								execString = ("INSERT IGNORE INTO inboundLinks (Domain, domainTo, URL, URLto, Crawled) VALUES ('%s', '%s', '%s', '%s', 'false');" % (domain, domainTo, url, k))
 								cursor.execute(execString)
 							else:
-								execString = ("INSERT INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '1');" % ((n+1), domain, domainTo, url, k))
+								execString = ("INSERT IGNORE INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '1');" % ((n+1), domain, domainTo, url, k))
 								cursor.execute(execString)
 								print("adding %s" %k)
 							db.commit()	
@@ -126,7 +125,7 @@ def safeCrawl():
 				bank = open('notspam/%dLVL%d.txt' %(i,n), 'w')
 				bank.write (content)
 				content=db.escape_string(content)
-				execString = ("INSERT INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
+				execString = ("INSERT IGNORE INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 				cursor.execute(execString)
 				print url + " success! \n"
 				bank.close()
@@ -139,10 +138,13 @@ def safeCrawl():
 	db.close()
 	
 if __name__ == '__main__':
-	if arg[2]=="crawl":
+	if sys.argv[1]=="crawl":
+		print ("CRAWLING SPAM... \n")
 		crawl()
-	elif arg[2]=="safecrawl":
+	elif sys.argv[1]=="safecrawl":
+		print ("CRAWLING SAFE LINKS... \n")
 		safeCrawl()
-	elif arg[2]=="seed":
+	elif sys.argv[1]=="seed":
+		print ("UPDATING SEED... \n")
 		seed()
 	
