@@ -7,7 +7,7 @@ update_tld_names()
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-def crawl(n):
+def safeCrawl():
 	i=0
 	seed = []
 	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
