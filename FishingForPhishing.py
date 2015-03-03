@@ -14,11 +14,11 @@ def crawl():
 	#get the whitelist from the sql server
 	execString = ("SELECT Domain FROM WhiteList;") 
 	cursor.execute(execString)
-	wl = cursor.list()
+	wl = list(cursor)
 	
 	#make sure we've crawled the seed, then move out one level at a time
 	i=0
-	while (true):
+	while (True):
 		outLinks = []
 		if (i==0):
 			execString = ("SELECT URL, Domain FROM seed WHERE crawled=0;") 
@@ -51,7 +51,7 @@ def crawl():
 								bad =1
 							
 							#found a link, insert it into outboundLinks
-							execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((n+1), domain, domainTo, url, k, bad))
+							execString = ("INSERT INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((i+1), domain, domainTo, url, k, bad))
 							cursor.execute(execString)
 							
 							#update the record, we've crawled this link
@@ -67,7 +67,7 @@ def crawl():
 						cursor.execute(execString)
 
 				content=db.escape_string(content)
-				execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
+				execString = ("INSERT INTO Content (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((i+1), content, domain, url)) 
 				cursor.execute(execString)
 
 				db.commit()
