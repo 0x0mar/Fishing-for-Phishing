@@ -4,6 +4,7 @@ import MySQLdb, sys
 from tld import get_tld
 from tld.utils import update_tld_names
 from seed import seed
+from wlwriter import write
 
 update_tld_names()
 reload(sys)
@@ -33,8 +34,10 @@ def crawl():
 		for row in seedx:
 			try:
 				url = row[0]
+				#get the top level domain 
 				domain = get_tld(url, fail_silently=True)
 				content = urllib2.urlopen(url, timeout=3).read(200000)
+				#iterate through any links we find in the content
 				for k in re.findall('''href=["'](.[^"']+)["']''', content):
 					try:
 						print k
@@ -55,7 +58,7 @@ def crawl():
 							execString = ("INSERT IGNORE INTO outboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', 'false', '%i');" % ((i+1), domain, domainTo, url, k, bad))
 							cursor.execute(execString)
 							
-							#update the record, we've crawled this link
+							#update the record, we've crawled current page
 							execString = ("UPDATE IGNORE outboundLinks SET Crawled=0 WHERE domain= '%s' AND domainTo='%s';" % (domain, domainTo))
 							cursor.execute(execString)
 							db.commit()
@@ -76,22 +79,28 @@ def crawl():
 				print ("Couldn't crawl: %s \n" %url)	
 				print (type(e))
 				print (e.args)
+		i = i + 1
 	db.close()
 
 def safeCrawl():
 	i=0
+	#establish db 
 	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
 	cursor = db.cursor()
+	
 	while (True):
+		#either get the seed or get the next level of sites to crawl
 		if (i==0):
-			execString = ("SELECT URL, Domain FROM safeSeed WHERE crawled=0;") 
+			print ("0")
+			execString = ("SELECT URL FROM jcbraunDB.safeSeed WHERE crawled=0;") 
 			cursor.execute(execString)
 			seedx = cursor.fetchall()
+			print ("here0")
 		else:
 			execString = ("SELECT URLTo FROM safeOutboundLinks WHERE lvl=%i AND crawled=0;" % (i)) 
 			cursor.execute(execString)
 			seedx = cursor.fetchall()
-			
+		print "HERE"	
 		for row in seedx:
 			try:
 				url = row[0]
@@ -122,8 +131,7 @@ def safeCrawl():
 					except Exception as e:
 						print ("Couldn't add " + k + " error: " )
 						print e
-				bank = open('notspam/%dLVL%d.txt' %(i,n), 'w')
-				bank.write (content)
+				
 				content=db.escape_string(content)
 				execString = ("INSERT IGNORE INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
 				cursor.execute(execString)
@@ -134,6 +142,7 @@ def safeCrawl():
 				print ("Broken link to %s" %url)	
 				print (type(e))
 				print (e.args)
+		i = i + 1
 	db.commit()
 	db.close()
 	
@@ -147,4 +156,12 @@ if __name__ == '__main__':
 	elif sys.argv[1]=="seed":
 		print ("UPDATING SEED... \n")
 		seed()
-	
+	elif sys.argv[1]=="whitelist":
+		print ("UPDATING WHITELIST... \n")
+		write()
+	elif sys.argv[1]=="NB":
+		if len(sys.argv)<3:
+			print ("Please pass an integer (the number of samples to pull from the database")
+		else:
+			print ("CLASSIFYING WITH NAIVE BAYES... \n")
+			classifyNB(sys.argv[2])
