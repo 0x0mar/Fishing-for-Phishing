@@ -8,30 +8,42 @@ from oauth2client.client import flow_from_clientsecrets
 from oauth2client.file import Storage
 from oauth2client.tools import run
 import re
+from tld import get_tld
+from tld.utils import update_tld_names
 
-def seed ():
-	#establish database connection
-	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
+def seed (db):
+	#establish cursor, update tld data
 	cursor = db.cursor()
-	
-	try:
-		#insert sites from seed and safeSeed csv files
-		with open('seed.csv', 'rb') as csvfile:
-			seedReader = csv.reader(csvfile, delimiter=',')
-			for link in seedReader:
-				domain = (link.split("/"))[2]
-				execString = ("INSERT IGNORE INTO seed(Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', '%s', '%s');" %(domain, link, 'list', '0')) 
+	update_tld_names()
+	domain = ""
+	#insert sites from seed and safeSeed csv files
+	with open('seed.csv', 'rb') as csvfile:
+		seedReader = csv.reader(csvfile, delimiter=',')
+		for link in seedReader:
+			link = link[0]
+			if get_tld(link, fail_silently=True) != None:
+				print "ADDING %s TO SPAM SEED... \n" % link
+				domain = get_tld(link, fail_silently=True)
+			try:
+				execString = ("INSERT IGNORE INTO seed(Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', 'list', '0');" %(domain, link)) 
 				cursor.execute(execString)
 				db.commit()
-		with open('safeSeed.csv', 'rb') as csvfile: 
-			seedReader = csv.reader(csvfile, delimiter=',')
-			for link in seedReader:
-				domain = (link.split("/"))[2]
-				execString = ("INSERT IGNORE INTO safeSeed(Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', '%s', '%s');" %(domain, link, 'list', '0')) 
+			except:
+				print ("FAILED TO EXECUTE SQL QUERY: %s" %execString)
+				
+	with open('safeSeed.csv', 'rb') as csvfile:
+		seedReader = csv.reader(csvfile, delimiter=',')
+		for link in seedReader:
+			link = link[0]
+			if get_tld(link, fail_silently=True) != None:
+				print "ADDING %s TO SAFE SEED... \n" % link
+				domain = get_tld(link, fail_silently=True)
+			try:
+				execString = ("INSERT IGNORE INTO safeSeed(Domain, URL, URLSource, Crawled) VALUES ('%s', '%s', 'list', '0');" %(domain, link)) 
 				cursor.execute(execString)
-				db.commit()	
-	except:
-		print ("Unable to read local .csv files into the seed. Files should be named seed.csv and safeSeed.csv")
+				db.commit()
+			except:
+				print ("FAILED TO EXECUTE SQL QUERY: %s" %execString)			
 		
 	try:	
 		#get the whitelist from the sql server
@@ -50,6 +62,9 @@ def seed ():
 		spamMsgs = gmail_service.users().messages().list(userId='me', labelIds='SPAM').execute()
 		execString = "" 
 		i=0
+		
+	except: 
+		print ("Unable to read spam email. You need user.json gmail credentials in this directory.")
 		
 		for spam in spamMsgs['messages']:
 			i = i+1
@@ -81,8 +96,6 @@ def seed ():
 				print ("Failed to load email: %s" %execString)	
 				print (type(e))
 				print (e.args)
-	except: 
-		print ("Unable to read spam email. You need user.json gmail credentials in this directory.")
 		
 	db.close()
 

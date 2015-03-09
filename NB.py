@@ -15,12 +15,12 @@ import numpy as np
 from _ast import Break
 import pickle
 
-def classifyNB(n):
+
+def classifyNB(n, db):
 	i = 0
 	allCopy = []
-	#setup mysql connection
-	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
 	cursor = db.cursor()
+	
 	#store n spam samples, randomly selected from the db
 	execString = ("SELECT Content FROM Content ORDER BY RAND() LIMIT %s;"%n) 
 	cursor.execute(execString)
@@ -38,30 +38,34 @@ def classifyNB(n):
 	for row in notSpamCopy:
 		allCopy.append(row[0])
 		lengths.append(len(row[0]))
-	
+	if (len(lengths)<(2*int(n))):
+		print ("TOO FEW SAMPLES IN DATABASE, CHOOSE SMALLER n")
+		return
 	lengths = np.array(lengths)
-	y1 =np.array(['0']*n)
-	y2=np.array(['1']*n)
+	n = int(n)
+	y1 = np.zeros(n)
+	y2 = np.ones(n)
 	y = np.	concatenate((y1,y2),axis=0)
 	vectorizer = CountVectorizer(analyzer='word', min_df=3, decode_error='ignore')
-	print lengths.shape
+	#print lengths.shape
 	spamFeatures = vectorizer.fit_transform(allCopy)
 	#spamFeatures = np.concatenate(([spamFeatures],[lengths]),axis=1)
 	#print vectorizer.get_feature_names()
-	print spamFeatures.shape, type(spamFeatures)
+	print "DICTIONARY LENGTH: %i " %spamFeatures.shape[1]
 	#print notSpamFeatures.shape, type(notSpamFeatures)
 	feature_names = vectorizer.get_feature_names()
 	X_train, X_test, y_train, y_test = train_test_split(spamFeatures, y, test_size=0.2)  
 	clf = MultinomialNB()
 	clf.fit(X_train, y_train)
        	top10 = np.argsort(clf.coef_[0])[-10:]
-       	print("%s: %s" % ("spam features"," ".join(feature_names[j] for j in top10)))
+       	print("%s: %s" % ("MOST IMPORTANT FEATURES: "," ".join(feature_names[j] for j in top10)))
 	y_predicted = clf.predict(X_test)
 	from sklearn import metrics
-	print 'Accuracy:', metrics.accuracy_score(y_test, y_predicted)
+	print ("ZERO IS SPAM, ONE IS NOT SPAM")
+	print 'ACCURACY:', metrics.accuracy_score(y_test, y_predicted)
 	print metrics.classification_report(y_test, y_predicted)
 	print
-	print 'confusion \n'
+	print 'CONFUSION \n'
 	print pd.DataFrame(metrics.confusion_matrix(y_test, y_predicted))
 	f = open('NBclassifier.pickle', 'wb')
 	pickle.dump(clf, f)

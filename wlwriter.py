@@ -7,9 +7,7 @@ update_tld_names()
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-def write():
-	#setup db
-	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
+def write(db):
 	cursor = db.cursor()
 	
 	try:

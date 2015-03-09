@@ -4,14 +4,16 @@ import MySQLdb, sys
 from tld import get_tld
 from tld.utils import update_tld_names
 from seed import seed
+from emailSeed import emailSeed
 from wlwriter import write
+from NB import classifyNB
+from SVM import classifySVM
 
 update_tld_names()
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-def crawl():
-	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
+def crawl(db):
 	cursor = db.cursor()
 	
 	#get the whitelist from the sql server
@@ -82,61 +84,63 @@ def crawl():
 		i = i + 1
 	db.close()
 
-def safeCrawl():
+def safeCrawl(db):
 	i=0
 	#establish db 
-	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
 	cursor = db.cursor()
 	
 	while (True):
 		#either get the seed or get the next level of sites to crawl
 		if (i==0):
-			print ("0")
 			execString = ("SELECT URL FROM jcbraunDB.safeSeed WHERE crawled=0;") 
 			cursor.execute(execString)
 			seedx = cursor.fetchall()
-			print ("here0")
 		else:
 			execString = ("SELECT URLTo FROM safeOutboundLinks WHERE lvl=%i AND crawled=0;" % (i)) 
 			cursor.execute(execString)
 			seedx = cursor.fetchall()
-		print "HERE"	
+			
 		for row in seedx:
 			try:
 				url = row[0]
 				domain = get_tld(url, fail_silently=True)
 				content = urllib2.urlopen(url, timeout=3).read(2000000)
-				for k in re.findall('''href=["'](.[^"']+)["']''', content):
-					try:	
-						print "k: " + k		
-						z = ((re.match('http://' , k) is not None) or (re.match('//' , k) is not None))
-						y = re.match('/' , k)
+				
+				#go through all the links in the page
+				for link in re.findall('''href=["'](.[^"']+)["']''', content):
+					try:		
+						#clean up links to same domain, etc.
+						z = ((re.match('http://' , link) is not None) or (re.match('//' , link) is not None))
+						y = re.match('/' , link)
 						if (y is not None):
-							k = (("/").join((re.split("/", url)))+k)
-							print ("y")			
+							link = (("/").join((re.split("/", url)))+link)		
 						if z or y:
-							domainTo = (get_tld(k, fail_silently=True))
-							print "domainTo is: %s" %domainTo
-							reqURL = "https://sb-ssl.google.com/safebrowsing/api/lookup?client=f4p&key=AIzaSyCD0pNAG-6HVh_W6udGYZFz-2_p0yHDD5k&appver=31&pver=3.1&url=" + k
+							domainTo = (get_tld(link, fail_silently=True))
+							reqURL = "https://sb-ssl.google.com/safebrowsing/api/lookup?client=f4p&key=AIzaSyCD0pNAG-6HVh_W6udGYZFz-2_p0yHDD5k&appver=31&pver=3.1&url=" + link
 							response = urllib2.urlopen(reqURL).getcode()
+							
+							#check with Google API if this is a dangerous site
 							if (response==200):
 								print ("Found dangerous site \n")
-								execString = ("INSERT IGNORE INTO inboundLinks (Domain, domainTo, URL, URLto, Crawled) VALUES ('%s', '%s', '%s', '%s', 'false');" % (domain, domainTo, url, k))
+								execString = ("INSERT IGNORE INTO inboundLinks (Domain, domainTo, URL, URLto, Crawled) VALUES ('%s', '%s', '%s', '%s', 'false');" % (domain, domainTo, url, link))
 								cursor.execute(execString)
+								db.commit()
 							else:
-								execString = ("INSERT IGNORE INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '1');" % ((n+1), domain, domainTo, url, k))
+								execString = ("INSERT IGNORE INTO safeOutboundLinks (Lvl, Domain, domainTo, URL, URLto, Crawled, toSpam) VALUES ('%i', '%s', '%s', '%s', '%s', '0', '1');" % ((i+1), domain, domainTo, url, link))
 								cursor.execute(execString)
-								print("adding %s" %k)
-							db.commit()	
+								print("ADDING %s TO SAFE lINKS..." %link)
+								db.commit()
 					except Exception as e:
-						print ("Couldn't add " + k + " error: " )
+						print ("Couldn't add " + link + " error: " )
 						print e
+						execString = ("UPDATE IGNORE safeOutboundLinks SET Crawled=2 WHERE domain= '%s' AND domainTo='%s';" % (domain, domainTo))
+						cursor.execute(execString)
+						db.commit()
 				
 				content=db.escape_string(content)
-				execString = ("INSERT IGNORE INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((n+1), content, domain, url)) 
+				execString = ("INSERT IGNORE INTO safeContent (Lvl, Content, Domain, URL, CopySource) VALUES ('%i', '%s', '%s', '%s', 'crawl');" % ((i+1), content, domain, url)) 
 				cursor.execute(execString)
-				print url + " success! \n"
-				bank.close()
+				db.commit()
 				
 			except Exception as e:
 				print ("Broken link to %s" %url)	
@@ -147,21 +151,33 @@ def safeCrawl():
 	db.close()
 	
 if __name__ == '__main__':
+	#establish database connection to hand off
+	db = MySQLdb.connect(host='127.0.0.1',db='jcbraunDB',user='root',passwd='3312crystal')
+	
 	if sys.argv[1]=="crawl":
 		print ("CRAWLING SPAM... \n")
-		crawl()
+		crawl(db)
 	elif sys.argv[1]=="safecrawl":
 		print ("CRAWLING SAFE LINKS... \n")
-		safeCrawl()
+		safeCrawl(db)
 	elif sys.argv[1]=="seed":
 		print ("UPDATING SEED... \n")
-		seed()
+		seed(db)
+	elif sys.argv[1]=="emailseed":
+		print ("UPDATING EMAIL SEED... \n")
+		emailseed(db)
 	elif sys.argv[1]=="whitelist":
 		print ("UPDATING WHITELIST... \n")
-		write()
+		write(db)
 	elif sys.argv[1]=="NB":
 		if len(sys.argv)<3:
 			print ("Please pass an integer (the number of samples to pull from the database")
 		else:
 			print ("CLASSIFYING WITH NAIVE BAYES... \n")
-			classifyNB(sys.argv[2])
+			classifyNB(sys.argv[2], db)
+	elif sys.argv[1]=="SVM":
+		if len(sys.argv)<3:
+			print ("Please pass an integer (the number of samples to pull from the database")
+		else:
+			print ("CLASSIFYING WITH SUPPORT VECTOR MACHINE... \n")
+			classifySVM(sys.argv[2], db)
