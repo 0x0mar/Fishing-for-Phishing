@@ -9,7 +9,6 @@ sys.setdefaultencoding('utf8')
 
 def write(db):
 	cursor = db.cursor()
-	
 	try:
 		#open a local whitelist file and store those in database
 		with open('wl.csv', 'rb') as csvfile:

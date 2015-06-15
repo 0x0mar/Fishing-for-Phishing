@@ -45,8 +45,8 @@ def classifySVM(n, db):
 	n = int(n)
 	y1 = np.zeros(n)
 	y2 = np.ones(n)
-	y = np.	concatenate((y1,y2),axis=0)
-	vectorizer = CountVectorizer(analyzer='word', min_df=3, decode_error='ignore')
+	y = np.concatenate((y1,y2),axis=0)
+	vectorizer = CountVectorizer(analyzer='word', decode_error='ignore')
 	#print lengths.shape
 	spamFeatures = vectorizer.fit_transform(allCopy)
 	#spamFeatures = np.concatenate(([spamFeatures],[lengths]),axis=1)
@@ -57,6 +57,8 @@ def classifySVM(n, db):
 	X_train, X_test, y_train, y_test = train_test_split(spamFeatures, y, test_size=0.2)  
 	clf = svm.SVC()
 	clf.fit(X_train, y_train)
+	top10 = np.argsort(clf.coef_[0])[-10:]
+    print("%s: %s" % ("MOST IMPORTANT FEATURES: "," ".join(feature_names[j] for j in top10)))
 	y_predicted = clf.predict(X_test)
 	from sklearn import metrics
 	print ("ZERO IS SPAM, ONE IS NOT SPAM")
@@ -68,8 +70,8 @@ def classifySVM(n, db):
 	f = open('SVMclassifier.pickle', 'wb')
 	pickle.dump(clf, f)
 	f.close()
+	f = open('SVMvocab.pickle', 'wb')
+	print vectorizer.vocabulary_
+	pickle.dump(vectorizer, f)
+	f.close()
 	
-if __name__ == '__main__':
-	n = int(sys.argv[1])
-	build(n)
-	#classifier = nltk.NaiveBayesClassifier.train(trainingData)
